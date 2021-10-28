@@ -115,9 +115,9 @@ def GenerateJSON(fileName, annotator):
                     start = sentences.index(txt)
                     end = start + len(txt) + 1
                     if start == 0:
-                        sentence = sentences[0:start] + '<objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
+                        sentence = annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + sentences[0:start] + '<objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
                     else:
-                        sentence = sentences[0:start] + ' <objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
+                        sentence = annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + sentences[0:start] + ' <objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
                     lines.append(sentence)
                     doc = nlp(sentence)
                     lemma_sentence = ''                    
@@ -126,7 +126,7 @@ def GenerateJSON(fileName, annotator):
                     lemma_sentence = lemma_sentence.replace('< objetivo >', '<objetivo>')
                     lemma_sentence = lemma_sentence.replace('< /objetivo >', '</objetivo>')
                     lemma_sentence = lemma_sentence.strip()
-                    lemma_lines.append(lemma_sentence)
+                    lemma_lines.append(annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + sentences[0:start] + lemma_sentence)
             entities.append([int(off_set), int(off_loc), str(txt), str(annotation[2]), str(annotation[4])])
         ind += 1
 
@@ -162,12 +162,12 @@ def fileProcess():
                         icd_code = infos[len(infos)-1]
                     if icd_code != '':
                         annotator.append([id, text, typeMed, offset, icd_code])
-                #GenerateJSON('cc_onco_' + file + '.xml', annotator)
+                GenerateJSON('cc_onco_' + file + '.xml', annotator)
                 annotators.append(annotator)                
             except Exception as e:
                 print(str(e))
                 continue
-        GenerateXML('cc_onco_' + file + '.xml', annotators)
+        #GenerateXML('cc_onco_' + file + '.xml', annotators)
         #GenerateTXT('cc_onco_' + file + '.txt', annotators)
 
 

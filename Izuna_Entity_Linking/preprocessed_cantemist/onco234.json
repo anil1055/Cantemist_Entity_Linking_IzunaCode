@@ -38,18 +38,18 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "<objetivo> Carcinoma microcítico </objetivo> de pulmón, con afectación localizada al tórax.",
-        "- Anatomía patológica (LSD):  <objetivo> carcinoma de células pequeñas </objetivo> ",
-        "A pesar de estas medidas iniciales, sólo mejoró ligeramente la hiponatremia y dado que se trataba de un  <objetivo> carcinoma microcítico </objetivo> de pulmón, se decidió iniciar tratamiento con cisplatino + etopósido.",
-        "- Broncoscopia: El bronquio del LSD presenta desde su comienzo en su parte basal, infiltración mucosa vascularizada de aspecto  <objetivo> tumoral </objetivo> con sangrado espontaneo, existiendo un colapso de sus bronquios segmentarios que impide su exploración.",
-        "El 23/11/2016 recibe segundo ciclo de tratamiento y empieza radioterapia concomitante, previamente se había realizado pet/tac descartándose  <objetivo> afectación a distancia </objetivo> "
+        "8041/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma microcítico\t<objetivo> Carcinoma microcítico </objetivo> de pulmón, con afectación localizada al tórax.",
+        "8041/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma de células pequeñas\t- Anatomía patológica (LSD):  <objetivo> carcinoma de células pequeñas </objetivo> ",
+        "8041/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma microcítico\tA pesar de estas medidas iniciales, sólo mejoró ligeramente la hiponatremia y dado que se trataba de un  <objetivo> carcinoma microcítico </objetivo> de pulmón, se decidió iniciar tratamiento con cisplatino + etopósido.",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoral\t- Broncoscopia: El bronquio del LSD presenta desde su comienzo en su parte basal, infiltración mucosa vascularizada de aspecto  <objetivo> tumoral </objetivo> con sangrado espontaneo, existiendo un colapso de sus bronquios segmentarios que impide su exploración.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tafectación a distancia\tEl 23/11/2016 recibe segundo ciclo de tratamiento y empieza radioterapia concomitante, previamente se había realizado pet/tac descartándose  <objetivo> afectación a distancia </objetivo> "
     ],
     "lines_lemma": [
-        "<objetivo> Carcinoma microcítico </objetivo> de pulmón , con afectación localizado al tórax .",
-        "- Anatomía patológica ( LSD ):   <objetivo> carcinomar de célula pequeño </objetivo>",
-        "a pesar de este medida inicial , sólo mejorar ligeramente el hiponatremia y dado que él tratar de uno   <objetivo> carcinomar microcítico </objetivo> de pulmón , él decidir iniciar tratamiento con cisplatino + etopósido .",
-        "- Broncoscopia : el bronquio del LSD presentar desde su comienzo en su parte basal , infiltración mucós vascularizado de aspecto   <objetivo> tumoral </objetivo> con sangrado espontaneo , existir uno colapso de su bronquio segmentario que impedir su exploración .",
-        "el 23/11/2016 recibir segundo ciclo de tratamiento y empezar radioterapio concomitante , previamente él haber realizar pet / tac descartar él   <objetivo> afectación a distancia </objetivo>"
+        "8041/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma microcítico\t8041/3 \t MORFOLOGIA_NEOPLASIA \t Carcinoma microcítico \t <objetivo> Carcinoma microcítico </objetivo> de pulmón , con afectación localizado al tórax .",
+        "8041/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma de células pequeñas\t- Anatomía patológica (LSD): 8041/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma de célula pequeño \t - Anatomía patológica ( LSD ):   <objetivo> carcinomar de célula pequeño </objetivo>",
+        "8041/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma microcítico\tA pesar de estas medidas iniciales, sólo mejoró ligeramente la hiponatremia y dado que se trataba de un 8041/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma microcítico \t A pesar de este medida inicial , sólo mejorar ligeramente el hiponatremia y dado que él tratar de uno   <objetivo> carcinomar microcítico </objetivo> de pulmón , él decidir iniciar tratamiento con cisplatino + etopósido .",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoral\t- Broncoscopia: El bronquio del LSD presenta desde su comienzo en su parte basal, infiltración mucosa vascularizada de aspecto 8000/1 \t MORFOLOGIA_NEOPLASIA \t tumoral \t - Broncoscopia : el bronquio del LSD presentar desde su comienzo en su parte basal , infiltración mucós vascularizado de aspecto   <objetivo> tumoral </objetivo> con sangrado espontaneo , existir uno colapso de su bronquio segmentario que impedir su exploración .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tafectación a distancia\tEl 23/11/2016 recibe segundo ciclo de tratamiento y empieza radioterapia concomitante, previamente se había realizado pet/tac descartándose 8000/6 \t MORFOLOGIA_NEOPLASIA \t afectación a distancia \t el 23/11/2016 recibir segundo ciclo de tratamiento y empezar radioterapio concomitante , previamente él haber realizar pet / tac descartar él   <objetivo> afectación a distancia </objetivo>"
     ],
     "pubmed_id": "onco234",
     "split_sentence": [
@@ -80,8 +80,7 @@
         "- Analítica: T.S.H. 3.24 μU/ml Cortisol 21.4 μg/dl, Ac.",
         "Antitiroideos-TG 19.90 UI/ml, Ac.",
         "Antimicrosomales-TPO < 28.00 UI/ml.",
-        "-TAC torácico sin y TAC torácico y de abdomen: En el LSD, adyacente a la cisura mayor, se identifica un nódulo de aproximadamente 1.9 x 1.5 cm.",
-        "Adenopatía paratraqueal derecha de 17 mm e hiliares ipsilaterales (que forman un conglomerado de 3.6 x 2.8 cm), con centro hipodenso (probablemente por necrosis) y borde hipercaptante.",
+        "-TAC torácico sin y TAC torácico y de abdomen: En el LSD, adyacente a la cisura mayor, se identifica un nódulo de aproximadamente 1.9 x 1.5 cm. Adenopatía paratraqueal derecha de 17 mm e hiliares ipsilaterales (que forman un conglomerado de 3.6 x 2.8 cm), con centro hipodenso (probablemente por necrosis) y borde hipercaptante.",
         "Abdomen sin hallazgos patológicos.",
         "- Broncoscopia: El bronquio del LSD presenta desde su comienzo en su parte basal, infiltración mucosa vascularizada de aspecto tumoral con sangrado espontaneo, existiendo un colapso de sus bronquios segmentarios que impide su exploración.",
         "- Anatomía patológica (LSD): carcinoma de células pequeñas.",
@@ -97,8 +96,7 @@
         "Tras la admistración del mismo recupera al día siguiente hasta 130 mmol/l manteniéndolo durante los tres días que dura el tratamiento quimioterápico estable.",
         "Posteriormente, a pesar de mantener sueroterapia inicia descenso llegando otra vez hasta 117 mmol/l, por lo que se decide inicio de tratamiento con tolvaptan, siendo la primera experiencia en el hospital con el fármaco.",
         "La paciente en ese momento, se encuentra en tratamiento con fluconazol por candidiasis, con mejoría parcialde la misma por lo que suspendimos el fármaco.",
-        "Se esperó 24 horas y se inició tratamiento con tolvaptan 15 mg.",
-        "Se realizó una analítica a las seis horas del tratamiento donde se objetivó un valor de 133 mmol/l y de 135 a las doce horas, a las 24 horas se mantuvo en 135mmol/l.",
+        "Se esperó 24 horas y se inició tratamiento con tolvaptan 15 mg. Se realizó una analítica a las seis horas del tratamiento donde se objetivó un valor de 133 mmol/l y de 135 a las doce horas, a las 24 horas se mantuvo en 135mmol/l.",
         "Evolución",
         "Se inicia pauta de tolvaptán en función monitorizando la analítica diariamente.",
         "Tras varias determinaciones analíticas se establece una pauta de cada 48 horas.",

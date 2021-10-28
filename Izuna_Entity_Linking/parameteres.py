@@ -7,11 +7,11 @@ class Biencoder_params:
         parser = argparse.ArgumentParser(description='Entity linker')
         parser.add_argument('-debug', action='store', default=False, type=strtobool)
         parser.add_argument('-debug_data_num', action='store', default=200, type=int)
-        parser.add_argument('-dataset', action="store", default="bc5cdr", dest="dataset", type=str)
+        parser.add_argument('-dataset', action="store", default="cantemist", dest="dataset", type=str) #bc5cdr or cantemist
         parser.add_argument('-dataset_dir', action="store", default="./dataset/", type=str)
         parser.add_argument('-serialization_dir', action="store", default="./serialization_dir/", type=str)
-        parser.add_argument('-preprocessed_doc_dir', action="store", default="./preprocessed_doc_dir/", type=str)
-        parser.add_argument('-kb_dir', action="store", default="./mesh/", type=str)
+        parser.add_argument('-preprocessed_doc_dir', action="store", default="./preprocessed_cantemist/", type=str) #./preprocessed_doc_dir/ or ./preprocessed_cantemist/
+        parser.add_argument('-kb_dir', action="store", default="./cieo/", type=str) #./mesh/ or ./cieo/
 
         parser.add_argument('-cached_instance', action='store', default=False, type=strtobool)
         parser.add_argument('-lr', action="store", default=1e-5, type=float)
@@ -26,7 +26,7 @@ class Biencoder_params:
 
         parser.add_argument('-num_epochs', action="store", default=10, type=int)
         parser.add_argument('-patience', action="store", default=10, type=int)
-        parser.add_argument('-batch_size_for_train', action="store", default=48, type=int)
+        parser.add_argument('-batch_size_for_train', action="store", default=16, type=int)
         parser.add_argument('-batch_size_for_eval', action="store", default=16, type=int)
 
         parser.add_argument('-bert_name', action='store', default='bert-base-uncased', type=str)

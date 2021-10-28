@@ -31,16 +31,16 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "PDL-1 + en el 40 % de las  <objetivo> células tumorales </objetivo> y en el 5 % de las células inmunes (macrófagos y linfocitos).",
-        "En TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva lesión en pared costal derecha y aumento de la  <objetivo> lesión en pala iliaca izquierda </objetivo> ",
-        "Paciente diagnosticado en febrero de 2018 de un  <objetivo> carcinoma epidermoide de pulmón estadio IV por afectación suprarrenal </objetivo> izquierda y ósea a nivel de espina iliaca anterosuperior izquierda.",
-        "En TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva  <objetivo> lesión en pared costal </objetivo> derecha y aumento de la lesión en pala iliaca izquierda."
+        "8001/1\tMORFOLOGIA_NEOPLASIA\tcélulas tumorales\tPDL-1 + en el 40 % de las  <objetivo> células tumorales </objetivo> y en el 5 % de las células inmunes (macrófagos y linfocitos).",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tlesión en pala iliaca izquierda\tEn TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva lesión en pared costal derecha y aumento de la  <objetivo> lesión en pala iliaca izquierda </objetivo> ",
+        "8070/6\tMORFOLOGIA_NEOPLASIA\tcarcinoma epidermoide de pulmón estadio IV por afectación suprarrenal\tPaciente diagnosticado en febrero de 2018 de un  <objetivo> carcinoma epidermoide de pulmón estadio IV por afectación suprarrenal </objetivo> izquierda y ósea a nivel de espina iliaca anterosuperior izquierda.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tlesión en pared costal\tEn TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva  <objetivo> lesión en pared costal </objetivo> derecha y aumento de la lesión en pala iliaca izquierda."
     ],
     "lines_lemma": [
-        "PDL-1 + en el 40 % de el   <objetivo> célula tumoral </objetivo> y en el 5 % de el célula inmune ( macrófago y linfocito ) .",
-        "en TC de reevaluación en febrero 2019 él objetivo progresión con crecimiento de masa en LID , nuevo lesión en pared costal derecho y aumento de el   <objetivo> lesión en pala iliaco izquierdo </objetivo>",
-        "Paciente diagnosticado en febrero de 2018 de uno   <objetivo> carcinomar epidermoidir de pulmón estadio IV por afectación suprarrenal </objetivo> izquierdo y óseo a nivel de espina iliaco anterosuperior izquierdo .",
-        "en TC de reevaluación en febrero 2019 él objetivo progresión con crecimiento de masa en LID , nuevo   <objetivo> lesión en pared costal </objetivo> derecho y aumento de el lesión en pala iliaca izquierdo ."
+        "8001/1\tMORFOLOGIA_NEOPLASIA\tcélulas tumorales\tPDL-1 + en el 40 % de las 8001/1 \t MORFOLOGIA_NEOPLASIA \t célula tumoral \t PDL-1 + en el 40 % de el   <objetivo> célula tumoral </objetivo> y en el 5 % de el célula inmune ( macrófago y linfocito ) .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tlesión en pala iliaca izquierda\tEn TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva lesión en pared costal derecha y aumento de la 8000/6 \t MORFOLOGIA_NEOPLASIA \t lesión en pala iliaco izquierdo \t En TC de reevaluación en febrero 2019 él objetivo progresión con crecimiento de masa en LID , nuevo lesión en pared costal derecho y aumento de el   <objetivo> lesión en pala iliaco izquierdo </objetivo>",
+        "8070/6\tMORFOLOGIA_NEOPLASIA\tcarcinoma epidermoide de pulmón estadio IV por afectación suprarrenal\tPaciente diagnosticado en febrero de 2018 de un 8070/6 \t MORFOLOGIA_NEOPLASIA \t carcinoma epidermoidir de pulmón estadio IV por afectación suprarrenal \t Paciente diagnosticado en febrero de 2018 de uno   <objetivo> carcinomar epidermoidir de pulmón estadio IV por afectación suprarrenal </objetivo> izquierdo y óseo a nivel de espina iliaco anterosuperior izquierdo .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tlesión en pared costal\tEn TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva 8000/6 \t MORFOLOGIA_NEOPLASIA \t lesión en pared costal \t En TC de reevaluación en febrero 2019 él objetivo progresión con crecimiento de masa en LID , nuevo   <objetivo> lesión en pared costal </objetivo> derecho y aumento de el lesión en pala iliaca izquierdo ."
     ],
     "pubmed_id": "onco400",
     "split_sentence": [
@@ -90,8 +90,7 @@
         "» Colonoscopia: mala preparación que sólo permite descartar alteraciones mucosas groseras.",
         "» Úlceras en colon derecho.",
         "Fragilidad capilar difusa en ciego y recto, sin llegar a constituir angiodisplasias.",
-        "Pólipo a 60 cm.",
-        "Polipectomía endoscópica.",
+        "Pólipo a 60 cm. Polipectomía endoscópica.",
         "» » Gastroscopia: desde 15 cm de arcada dentaria hasta 30 cm de arcada dentaria, presenta mucosa esofágica con pérdida de sustancia, estigmas de sangrado, ulceración que ocupa el 75 % de la circunferencia sugestiva de necrosis esofágica.",
         "No es subsidiario de tratamiento endoscópico.",
         "Diagnóstico",

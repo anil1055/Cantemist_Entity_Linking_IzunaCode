@@ -31,16 +31,16 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "<objetivo> Carcinoma epidermoide </objetivo> conjuntival estadio I (T1N0M0), sin afectación total de un cuadrante ocular.",
-        "Carcinoma epidermoide conjuntival estadio I ( <objetivo> T1N0M0 </objetivo> , sin afectación total de un cuadrante ocular.",
-        "Nuestro paciente es un varón de 46 años, con padre fallecido de  <objetivo> hepatocarcinoma </objetivo> cuando el paciente tenía 16 años.",
-        "La Anatomía Patológica de la biopsia quirúrgica informaba de fragmentos de  <objetivo> carcinoma de células escamosas queratinizante </objetivo> "
+        "8070/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma epidermoide\t<objetivo> Carcinoma epidermoide </objetivo> conjuntival estadio I (T1N0M0), sin afectación total de un cuadrante ocular.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tT1N0M0\tCarcinoma epidermoide conjuntival estadio I ( <objetivo> T1N0M0 </objetivo> , sin afectación total de un cuadrante ocular.",
+        "8170/3\tMORFOLOGIA_NEOPLASIA\thepatocarcinoma\tNuestro paciente es un varón de 46 años, con padre fallecido de  <objetivo> hepatocarcinoma </objetivo> cuando el paciente tenía 16 años.",
+        "8071/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma de células escamosas queratinizante\tLa Anatomía Patológica de la biopsia quirúrgica informaba de fragmentos de  <objetivo> carcinoma de células escamosas queratinizante </objetivo> "
     ],
     "lines_lemma": [
-        "<objetivo> Carcinoma epidermoidir </objetivo> conjuntival estadio I ( T1N0M0 ) , sin afectación total de uno cuadrante ocular .",
-        "Carcinoma epidermoidir conjuntival estadio I ( <objetivo> t1n0m0 </objetivo> , sin afectación total de uno cuadrante ocular .",
-        "nuestro paciente ser uno varón de 46 año , con padre fallecido de   <objetivo> hepatocarcinomar </objetivo> cuando el paciente tener 16 año .",
-        "el Anatomía Patológica de el biopsia quirúrgico informar de fragmento de   <objetivo> carcinomar de célula escamosa queratinizante </objetivo>"
+        "8070/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma epidermoide\t8070/3 \t MORFOLOGIA_NEOPLASIA \t Carcinoma epidermoidir \t <objetivo> Carcinoma epidermoidir </objetivo> conjuntival estadio I ( T1N0M0 ) , sin afectación total de uno cuadrante ocular .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tT1N0M0\tCarcinoma epidermoide conjuntival estadio I (8000/6 \t MORFOLOGIA_NEOPLASIA \t t1n0m0 \t Carcinoma epidermoidir conjuntival estadio I ( <objetivo> t1n0m0 </objetivo> , sin afectación total de uno cuadrante ocular .",
+        "8170/3\tMORFOLOGIA_NEOPLASIA\thepatocarcinoma\tNuestro paciente es un varón de 46 años, con padre fallecido de 8170/3 \t MORFOLOGIA_NEOPLASIA \t hepatocarcinoma \t nuestro paciente ser uno varón de 46 año , con padre fallecido de   <objetivo> hepatocarcinomar </objetivo> cuando el paciente tener 16 año .",
+        "8071/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma de células escamosas queratinizante\tLa Anatomía Patológica de la biopsia quirúrgica informaba de fragmentos de 8071/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma de célula escamosa queratinizante \t el Anatomía Patológica de el biopsia quirúrgico informar de fragmento de   <objetivo> carcinomar de célula escamosa queratinizante </objetivo>"
     ],
     "pubmed_id": "onco421",
     "split_sentence": [

@@ -17,12 +17,12 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "Dado su  <objetivo> adenocarcinoma </objetivo> de recto medio estenosante T3c cN1 cM0, se inicia tratamiento neoadyuvante con RT y capecitabina.",
-        "Dado su adenocarcinoma de recto medio estenosante T3c cN1  <objetivo> cM0 </objetivo>  se inicia tratamiento neoadyuvante con RT y capecitabina."
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tDado su  <objetivo> adenocarcinoma </objetivo> de recto medio estenosante T3c cN1 cM0, se inicia tratamiento neoadyuvante con RT y capecitabina.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcM0\tDado su adenocarcinoma de recto medio estenosante T3c cN1  <objetivo> cM0 </objetivo>  se inicia tratamiento neoadyuvante con RT y capecitabina."
     ],
     "lines_lemma": [
-        "dar su   <objetivo> adenocarcinomar </objetivo> de recto medio estenosante T3c cN1 cM0 , él iniciar tratamiento neoadyuvante con RT y capecitabina .",
-        "dar su adenocarcinoma de recto medio estenosante T3c cN1   <objetivo> cM0 </objetivo>   él iniciar tratamiento neoadyuvante con RT y capecitabina ."
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tDado su 8140/3 \t MORFOLOGIA_NEOPLASIA \t adenocarcinomar \t dado su   <objetivo> adenocarcinomar </objetivo> de recto medio estenosante T3c cN1 cM0 , él iniciar tratamiento neoadyuvante con RT y capecitabina .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcM0\tDado su adenocarcinoma de recto medio estenosante T3c cN1 8000/6 \t MORFOLOGIA_NEOPLASIA \t cM0 \t dado su adenocarcinoma de recto medio estenosante T3c cN1   <objetivo> cM0 </objetivo>   él iniciar tratamiento neoadyuvante con RT y capecitabina ."
     ],
     "pubmed_id": "onco763",
     "split_sentence": [

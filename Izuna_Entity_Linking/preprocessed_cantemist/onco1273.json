@@ -31,16 +31,16 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "Mujer de 47 años, sin antecedentes personales de interés, diagnosticada de  <objetivo> carcinoma ductal infiltrante </objetivo> de mama derecha estadio III, receptores hormonales negativos y HER2 positivo en el año 2005.",
-        "En enero de 2006 presentó una progresión de la  <objetivo> enfermedad a nivel óseo </objetivo>  hepático y pulmonar, siendo tratada desde entonces y hasta septiembre de 2010 con diferentes líneas de quimioterapia alcanzando estabilización de la enfermedad.",
-        "La tomografía computarizada (TC) de cráneo reveló la existencia de dos  <objetivo> lesiones cerebrales </objetivo> compatibles con metástasis, por lo que se administró tratamiento con radioterapia holocraneal y radiocirugía.",
-        "La tomografía computarizada (TC) de cráneo reveló la existencia de dos lesiones cerebrales compatibles con  <objetivo> metástasis </objetivo>  por lo que se administró tratamiento con radioterapia holocraneal y radiocirugía."
+        "8500/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma ductal infiltrante\tMujer de 47 años, sin antecedentes personales de interés, diagnosticada de  <objetivo> carcinoma ductal infiltrante </objetivo> de mama derecha estadio III, receptores hormonales negativos y HER2 positivo en el año 2005.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tenfermedad a nivel óseo\tEn enero de 2006 presentó una progresión de la  <objetivo> enfermedad a nivel óseo </objetivo>  hepático y pulmonar, siendo tratada desde entonces y hasta septiembre de 2010 con diferentes líneas de quimioterapia alcanzando estabilización de la enfermedad.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tlesiones cerebrales\tLa tomografía computarizada (TC) de cráneo reveló la existencia de dos  <objetivo> lesiones cerebrales </objetivo> compatibles con metástasis, por lo que se administró tratamiento con radioterapia holocraneal y radiocirugía.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tLa tomografía computarizada (TC) de cráneo reveló la existencia de dos lesiones cerebrales compatibles con  <objetivo> metástasis </objetivo>  por lo que se administró tratamiento con radioterapia holocraneal y radiocirugía."
     ],
     "lines_lemma": [
-        "mujer de 47 año , sin antecedente personal de interés , diagnosticado de   <objetivo> carcinomar ductal infiltrante </objetivo> de mama derecho estadio III , receptor hormonal negativo y HER2 positivo en el año 2005 .",
-        "en enero de 2006 presentar uno progresión de el   <objetivo> enfermedad a nivel óseo </objetivo>   hepático y pulmonar , ser tratar desde entonces y hasta septiembre de 2010 con diferente línea de quimioterapia alcanzar estabilización de el enfermedad .",
-        "el tomografía computarizado ( TC ) de cráneo revelar el existencia de dos   <objetivo> lesión cerebral </objetivo> compatible con metástasis , por él que él administrar tratamiento con radioterapia holocraneal y radiocirugía .",
-        "el tomografía computarizado ( TC ) de cráneo revelar el existencia de dos lesión cerebral compatible con   <objetivo> metástasi </objetivo>   por él que él administrar tratamiento con radioterapia holocraneal y radiocirugía ."
+        "8500/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma ductal infiltrante\tMujer de 47 años, sin antecedentes personales de interés, diagnosticada de 8500/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma ductal infiltrante \t Mujer de 47 año , sin antecedente personal de interés , diagnosticado de   <objetivo> carcinomar ductal infiltrante </objetivo> de mama derecho estadio III , receptor hormonal negativo y HER2 positivo en el año 2005 .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tenfermedad a nivel óseo\tEn enero de 2006 presentó una progresión de la 8000/6 \t MORFOLOGIA_NEOPLASIA \t enfermedad a nivel óseo \t En enero de 2006 presentar uno progresión de el   <objetivo> enfermedad a nivel óseo </objetivo>   hepático y pulmonar , ser tratar desde entonces y hasta septiembre de 2010 con diferente línea de quimioterapia alcanzar estabilización de el enfermedad .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tlesiones cerebrales\tLa tomografía computarizada (TC) de cráneo reveló la existencia de dos 8000/6 \t MORFOLOGIA_NEOPLASIA \t lesión cerebral \t el tomografía computarizado ( TC ) de cráneo revelar el existencia de dos   <objetivo> lesión cerebral </objetivo> compatible con metástasis , por él que él administrar tratamiento con radioterapia holocraneal y radiocirugía .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tLa tomografía computarizada (TC) de cráneo reveló la existencia de dos lesiones cerebrales compatibles con 8000/6 \t MORFOLOGIA_NEOPLASIA \t metástasis \t el tomografía computarizado ( TC ) de cráneo revelar el existencia de dos lesión cerebral compatible con   <objetivo> metástasi </objetivo>   por él que él administrar tratamiento con radioterapia holocraneal y radiocirugía ."
     ],
     "pubmed_id": "onco1273",
     "split_sentence": [
@@ -56,8 +56,7 @@
         "En la auscultación cardiopulmonar, exploración abdominal y de miembros inferiores no se detectaron anomalías.",
         "No se palparon adenopatías periféricas y la cicatriz de mastectomía presentaba buen aspecto.",
         "Pruebas complementarias",
-        "Se realizó un control analítico en el que el hemograma presentaba una hemoglobina de 8,5 g/dl.",
-        "En la bioquímica destacaba LDH de 296.",
+        "Se realizó un control analítico en el que el hemograma presentaba una hemoglobina de 8,5 g/dl. En la bioquímica destacaba LDH de 296.",
         "El resto de parámetros estaban dentro de la normalidad.",
         "De los marcadores tumorales, el CEA era de 11,4 ng/ml y CA 15.3 de 76,70 ng/ml.",
         "En la TC toracoabdominal (13/09/2010) la enfermedad permanecía estabilizada.",

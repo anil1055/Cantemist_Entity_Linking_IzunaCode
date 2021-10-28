@@ -19,7 +19,7 @@ from tokenizer import CustomTokenizer
 import numpy as np
 from candidate_generator import CandidateGeneratorForTestDataset
 
-class BC5CDRReader(DatasetReader):
+class CorpusReader(DatasetReader):
     def __init__(
         self,
         config,
@@ -53,11 +53,11 @@ class BC5CDRReader(DatasetReader):
             mention_ids += self.train_mention_ids
             # Because Iterator(shuffle=True) has bug, we forcefully shuffle train dataset here.
             random.shuffle(mention_ids)
-        elif train_dev_test_flag == 'dev':
+        elif train_dev_test_flag == 'dev1':
             mention_ids += self.dev_mention_ids
         elif train_dev_test_flag == 'test':
             mention_ids += self.test_mention_ids
-        elif train_dev_test_flag == 'train_and_dev':
+        elif train_dev_test_flag == 'train_and_dev1':
             mention_ids += self.train_mention_ids
             mention_ids += self.dev_mention_ids
 
@@ -88,7 +88,7 @@ class BC5CDRReader(DatasetReader):
         '''
         :return: pmids list for using and evaluating entity linking task
         '''
-        train_pmids, dev_pmids, test_pmids = self._pmid_returner('train'), self._pmid_returner('dev'), \
+        train_pmids, dev_pmids, test_pmids = self._pmid_returner('train'), self._pmid_returner('dev1'), \
                                              self._pmid_returner('test')
         train_pmids = [pmid for pmid in train_pmids if self._is_parsed_doc_exist_per_pmid(pmid)]
         dev_pmids = [pmid for pmid in dev_pmids if self._is_parsed_doc_exist_per_pmid(pmid)]
@@ -101,7 +101,7 @@ class BC5CDRReader(DatasetReader):
         :param train_dev_test_flag: train, dev, test
         :return: pmids (str list)
         '''
-        assert train_dev_test_flag in ['train', 'dev', 'test']
+        assert train_dev_test_flag in ['train', 'dev1', 'test']
         pmid_dir = self.config.dataset_dir
         pmids_txt_path = pmid_dir + 'corpus_pubtator_pmids_'
         if train_dev_test_flag == 'train':
@@ -111,7 +111,7 @@ class BC5CDRReader(DatasetReader):
         pmids_txt_path += '.txt'
 
         pmids = []
-        with open(pmids_txt_path, 'r') as p:
+        with open(pmids_txt_path, 'r', encoding='utf-8') as p:
             for line in p:
                 line = line.strip()
                 if line != '':
@@ -156,7 +156,7 @@ class BC5CDRReader(DatasetReader):
 
     def _pmid2mentions(self, pmid):
         parsed_doc_json_path = self.config.preprocessed_doc_dir + pmid + '.json'
-        with open(parsed_doc_json_path, 'r') as pd:
+        with open(parsed_doc_json_path, 'r', encoding="utf-8") as pd:
             parsed = json.load(pd)
         mentions = parsed['lines']
 
@@ -164,19 +164,19 @@ class BC5CDRReader(DatasetReader):
 
     def _kb_loader(self):
         kb_dir = self.config.kb_dir
-        with open(kb_dir + 'dui2canonical.json', 'r') as f:
+        with open(kb_dir + 'dui2canonical.json', 'r', encoding="utf-8") as f:
             dui2canonical = json.load(f)
 
-        with open(kb_dir + 'dui2definition.json', 'r') as g:
+        with open(kb_dir + 'dui2definition.json', 'r', encoding="utf-8") as g:
             dui2definition = json.load(g)
 
-        with open(kb_dir + 'dui2idx.json', 'r') as h:
+        with open(kb_dir + 'dui2idx.json', 'r', encoding="utf-8") as h:
             dui2idx_ = json.load(h)
         dui2idx = {}
         for dui, idx_str in dui2idx_.items():
             dui2idx.update({dui: int(idx_str)})
 
-        with open(kb_dir + 'idx2dui.json', 'r') as k:
+        with open(kb_dir + 'idx2dui.json', 'r', encoding="utf-8") as k:
             idx2dui_ = json.load(k)
         idx2dui = {}
         for idx_str, dui in idx2dui_.items():
@@ -185,7 +185,7 @@ class BC5CDRReader(DatasetReader):
         return dui2idx, idx2dui, dui2canonical, dui2definition
 
     def _one_line_parser(self, mention_uniq_id, train_dev_test_flag='train'):
-        if train_dev_test_flag in ['train'] or (train_dev_test_flag == 'dev' and self.dev_eval_flag == 0):
+        if train_dev_test_flag in ['train'] or (train_dev_test_flag == 'dev1' and self.dev_eval_flag == 0):
             line = self.id2mention[mention_uniq_id]
             gold_dui, _, gold_surface_mention, target_anchor_included_sentence = line.split('\t')
             tokenized_context_including_target_anchors = self.custom_tokenizer_class.tokenize(
@@ -199,7 +199,7 @@ class BC5CDRReader(DatasetReader):
             if gold_dui in self.dui2canonical:
                 data['gold_dui_canonical_and_def_concatenated'] = self._canonical_and_def_context_concatenator(dui=gold_dui)
         else:
-            assert train_dev_test_flag in ['dev', 'test']
+            assert train_dev_test_flag in ['dev1', 'test']
             line = self.id2mention[mention_uniq_id]
             gold_dui, _, surface_mention, target_anchor_included_sentence = line.split('\t')
 
@@ -224,7 +224,7 @@ class BC5CDRReader(DatasetReader):
                     if cand_idx == self.dui2idx[gold_dui]:
                         gold_location_in_candidates[idx] += 1
 
-                        if train_dev_test_flag == 'dev':
+                        if train_dev_test_flag == 'dev1':
                             self.dev_recall += 1
                         if train_dev_test_flag == 'test':
                             self.test_recall += 1

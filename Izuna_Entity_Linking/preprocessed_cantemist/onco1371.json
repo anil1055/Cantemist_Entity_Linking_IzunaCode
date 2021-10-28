@@ -24,14 +24,14 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "Paciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante ( <objetivo> CDI </objetivo>  de mama izquierda con ganglios 0/14.",
-        "Paciente mujer de 39 años, diagnosticada de  <objetivo> carcinoma ductal infiltrante </objetivo> (CDI) de mama izquierda con ganglios 0/14.",
-        "Tratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por  <objetivo> metástasis </objetivo> hepáticas, pulmonares y cerebrales, en tratamiento de QT con paclitaxel, carboplatino y trastuzumab."
+        "8500/3\tMORFOLOGIA_NEOPLASIA\tCDI\tPaciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante ( <objetivo> CDI </objetivo>  de mama izquierda con ganglios 0/14.",
+        "8500/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma ductal infiltrante\tPaciente mujer de 39 años, diagnosticada de  <objetivo> carcinoma ductal infiltrante </objetivo> (CDI) de mama izquierda con ganglios 0/14.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tTratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por  <objetivo> metástasis </objetivo> hepáticas, pulmonares y cerebrales, en tratamiento de QT con paclitaxel, carboplatino y trastuzumab."
     ],
     "lines_lemma": [
-        "Paciente mujer de 39 año , diagnosticado de carcinoma ductal infiltrante ( <objetivo> CDI </objetivo>   de mama izquierdo con ganglio 0/14 .",
-        "Paciente mujer de 39 año , diagnosticado de   <objetivo> carcinomar ductal infiltrante </objetivo> ( CDI ) de mama izquierdo con ganglio 0/14 .",
-        "tratado con MRM , quimioterapia ( QT ) , hormonoterapia ( HT ) y radioterapio ( RT ) holocraneal ; actualmente estadio IV por   <objetivo> metástasi </objetivo> hepático , pulmonar y cerebral , en tratamiento de qt con paclitaxel , carboplatino y trastuzumab ."
+        "8500/3\tMORFOLOGIA_NEOPLASIA\tCDI\tPaciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante (8500/3 \t MORFOLOGIA_NEOPLASIA \t CDI \t Paciente mujer de 39 año , diagnosticado de carcinoma ductal infiltrante ( <objetivo> CDI </objetivo>   de mama izquierdo con ganglio 0/14 .",
+        "8500/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma ductal infiltrante\tPaciente mujer de 39 años, diagnosticada de 8500/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma ductal infiltrante \t Paciente mujer de 39 año , diagnosticado de   <objetivo> carcinomar ductal infiltrante </objetivo> ( CDI ) de mama izquierdo con ganglio 0/14 .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tTratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por 8000/6 \t MORFOLOGIA_NEOPLASIA \t metástasis \t Tratada con MRM , quimioterapia ( QT ) , hormonoterapia ( HT ) y radioterapio ( RT ) holocraneal ; actualmente estadio IV por   <objetivo> metástasi </objetivo> hepático , pulmonar y cerebral , en tratamiento de qt con paclitaxel , carboplatino y trastuzumab ."
     ],
     "pubmed_id": "onco1371",
     "split_sentence": [

@@ -31,16 +31,16 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "<objetivo> Carcinoma epidermoide </objetivo> pulmonar izquierdo T2aT4N0M0 (no se puede desestimar infiltración de grandes vasos).",
-        "Se toman muestras para Anatomía Patológica que informa de  <objetivo> carcinoma pobremente diferenciado compatible con estirpe epidermoide </objetivo> ",
-        "PET-TC: se aprecia un aumento patológico del metabolismo glucídico en masa hiliar izquierda que provoca obstrucción del bronquio lobar superior izquierdo y mide aproximadamente 3,7 x 2,7 cm (AP por T) con SUVmax de 16, sin datos metabólicos de enfermedad  <objetivo> maligna </objetivo> a otros niveles.",
-        "Carcinoma epidermoide pulmonar izquierdo  <objetivo> T2aT4N0M0 </objetivo> (no se puede desestimar infiltración de grandes vasos)."
+        "8070/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma epidermoide\t<objetivo> Carcinoma epidermoide </objetivo> pulmonar izquierdo T2aT4N0M0 (no se puede desestimar infiltración de grandes vasos).",
+        "8070/33\tMORFOLOGIA_NEOPLASIA\tcarcinoma pobremente diferenciado compatible con estirpe epidermoide\tSe toman muestras para Anatomía Patológica que informa de  <objetivo> carcinoma pobremente diferenciado compatible con estirpe epidermoide </objetivo> ",
+        "8000/3\tMORFOLOGIA_NEOPLASIA\tmaligna\tPET-TC: se aprecia un aumento patológico del metabolismo glucídico en masa hiliar izquierda que provoca obstrucción del bronquio lobar superior izquierdo y mide aproximadamente 3,7 x 2,7 cm (AP por T) con SUVmax de 16, sin datos metabólicos de enfermedad  <objetivo> maligna </objetivo> a otros niveles.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tT2aT4N0M0\tCarcinoma epidermoide pulmonar izquierdo  <objetivo> T2aT4N0M0 </objetivo> (no se puede desestimar infiltración de grandes vasos)."
     ],
     "lines_lemma": [
-        "<objetivo> Carcinoma epidermoidir </objetivo> pulmonar izquierdo t2at4n0m0 ( no él poder desestimar infiltración de grande vaso ) .",
-        "él tomar muestra para Anatomía Patológica que informar de   <objetivo> carcinomar pobremente diferenciado compatible con estirpe epidermoidir </objetivo>",
-        "PET-TC : él apreciar uno aumento patológico del metabolismo glucídico en masa hiliar izquierdo que provocar obstrucción del bronquio lobar superior izquierdo y medir aproximadamente 3.7 x 2.7 cm ( AP por T ) con SUVmax de 16 , sin dato metabólico de enfermedad   <objetivo> malignar </objetivo> a otro nivel .",
-        "Carcinoma epidermoidir pulmonar izquierdo   <objetivo> t2at4n0m0 </objetivo> ( no él poder desestimar infiltración de grande vaso ) ."
+        "8070/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma epidermoide\t8070/3 \t MORFOLOGIA_NEOPLASIA \t Carcinoma epidermoidir \t <objetivo> Carcinoma epidermoidir </objetivo> pulmonar izquierdo t2at4n0m0 ( no él poder desestimar infiltración de grande vaso ) .",
+        "8070/33\tMORFOLOGIA_NEOPLASIA\tcarcinoma pobremente diferenciado compatible con estirpe epidermoide\tSe toman muestras para Anatomía Patológica que informa de 8070/33 \t MORFOLOGIA_NEOPLASIA \t carcinomar pobremente diferenciado compatible con estirpe epidermoidir \t él tomar muestra para Anatomía Patológica que informar de   <objetivo> carcinomar pobremente diferenciado compatible con estirpe epidermoidir </objetivo>",
+        "8000/3\tMORFOLOGIA_NEOPLASIA\tmaligna\tPET-TC: se aprecia un aumento patológico del metabolismo glucídico en masa hiliar izquierda que provoca obstrucción del bronquio lobar superior izquierdo y mide aproximadamente 3,7 x 2,7 cm (AP por T) con SUVmax de 16, sin datos metabólicos de enfermedad 8000/3 \t MORFOLOGIA_NEOPLASIA \t maligna \t PET-TC : él apreciar uno aumento patológico del metabolismo glucídico en masa hiliar izquierdo que provocar obstrucción del bronquio lobar superior izquierdo y medir aproximadamente 3.7 x 2.7 cm ( AP por T ) con SUVmax de 16 , sin dato metabólico de enfermedad   <objetivo> malignar </objetivo> a otro nivel .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tT2aT4N0M0\tCarcinoma epidermoide pulmonar izquierdo 8000/6 \t MORFOLOGIA_NEOPLASIA \t t2at4n0m0 \t Carcinoma epidermoidir pulmonar izquierdo   <objetivo> t2at4n0m0 </objetivo> ( no él poder desestimar infiltración de grande vaso ) ."
     ],
     "pubmed_id": "onco638",
     "split_sentence": [
@@ -51,8 +51,7 @@
         "Derivada a consultas de Oncología Médica desde Medicina Interna en julio de 2014 tras hallazgo en TC torácica de control de amputación de la luz del bronquio lobar superior izquierdo por posible masa hiliar izquierda.",
         "Exploración física",
         "La paciente presenta un Eastern Cooperative Oncology Group (ECOG) de 1, con Karnofsky de 100.",
-        "Mide 145 cm y pesa 68 kg.",
-        "Buen estado general, eupneica.",
+        "Mide 145 cm y pesa 68 kg. Buen estado general, eupneica.",
         "Sin hallazgos relevantes durante la exploración física.",
         "Pruebas complementarias",
         "Tomografía axial computarizada de tórax de alta definición: se aprecia amputación de la luz de bronquio lobar superior izquierdo por posible masa hiliar izquierda, con nódulos milimétricos estables.",

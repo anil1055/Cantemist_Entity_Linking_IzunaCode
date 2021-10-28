@@ -45,20 +45,20 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "En el estudio histológico de la biopsia de la masa rectal no se observan células con rasgos de  <objetivo> malignidad </objetivo>  con una mucosa cólica distorsionada y aumento del infiltrado inflamatorio crónico.",
-        "Con la sospecha de  <objetivo> neoplasia </objetivo> de recto, se completa el estudio con colonoscopia, que objetiva una lesión proliferativa exofítica, ulcerada, sugestiva de neoplasia rectal, no estenosante.",
-        "Con la sospecha de  <objetivo> neoplasia </objetivo> de recto, se completa el estudio con colonoscopia, que objetiva una lesión proliferativa exofítica, ulcerada, sugestiva de neoplasia rectal, no estenosante.",
-        "Se trata de un paciente varón de 43 años con antecedentes patológicos de un  <objetivo> tumor germinal </objetivo> intervenido y tratado con quimioterapia adyuvante hace > 20 años y hepatitis B en el año 2015.",
-        "En la exploración física destaca la presencia de una  <objetivo> tumoración </objetivo> a 4 cm del margen anal en el tacto rectal.",
-        "En la TC se informa de la presencia de un engrosamiento de aspecto  <objetivo> tumoral </objetivo> en las paredes de tercio medio de recto con signos de infiltración de la grasa y múltiples adenopatías perirrectales, así como a nivel retroperitoneal."
+        "8000/3\tMORFOLOGIA_NEOPLASIA\tmalignidad\tEn el estudio histológico de la biopsia de la masa rectal no se observan células con rasgos de  <objetivo> malignidad </objetivo>  con una mucosa cólica distorsionada y aumento del infiltrado inflamatorio crónico.",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tCon la sospecha de  <objetivo> neoplasia </objetivo> de recto, se completa el estudio con colonoscopia, que objetiva una lesión proliferativa exofítica, ulcerada, sugestiva de neoplasia rectal, no estenosante.",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tCon la sospecha de  <objetivo> neoplasia </objetivo> de recto, se completa el estudio con colonoscopia, que objetiva una lesión proliferativa exofítica, ulcerada, sugestiva de neoplasia rectal, no estenosante.",
+        "9064/3\tMORFOLOGIA_NEOPLASIA\ttumor germinal\tSe trata de un paciente varón de 43 años con antecedentes patológicos de un  <objetivo> tumor germinal </objetivo> intervenido y tratado con quimioterapia adyuvante hace > 20 años y hepatitis B en el año 2015.",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoración\tEn la exploración física destaca la presencia de una  <objetivo> tumoración </objetivo> a 4 cm del margen anal en el tacto rectal.",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoral\tEn la TC se informa de la presencia de un engrosamiento de aspecto  <objetivo> tumoral </objetivo> en las paredes de tercio medio de recto con signos de infiltración de la grasa y múltiples adenopatías perirrectales, así como a nivel retroperitoneal."
     ],
     "lines_lemma": [
-        "en el estudio histológico de el biopsia de el masa rectal no él observar célula con rasgo de   <objetivo> malignidad </objetivo>   con uno mucosa cólico distorsionado y aumento del infiltrado inflamatorio crónico .",
-        "con el sospecha de   <objetivo> neoplasio </objetivo> de recto , él completar el estudio con colonoscopia , que objetiir uno lesión proliferativo exofítico , ulcerado , sugestivo de neoplasia rectal , no estenosante .",
-        "con el sospecha de   <objetivo> neoplasio </objetivo> de recto , él completar el estudio con colonoscopia , que objetiir uno lesión proliferativo exofítico , ulcerado , sugestivo de neoplasia rectal , no estenosante .",
-        "él tratar de uno paciente varón de 43 año con antecedente patológico de uno   <objetivo> tumor germinal </objetivo> intervenido y tratar con quimioterapia adyuvante hacer > 20 año y hepatitis b en el año 2015 .",
-        "en el exploración físico destacar el presencia de uno   <objetivo> tumoración </objetivo> a 4 cm del margen anal en el tacto rectal .",
-        "en el TC él informar de el presencia de uno engrosamiento de aspecto   <objetivo> tumoral </objetivo> en el pared de tercio medio de recto con signo de infiltración de el grasa y múltiple adenopatía perirrectal , así como a nivel retroperitoneal ."
+        "8000/3\tMORFOLOGIA_NEOPLASIA\tmalignidad\tEn el estudio histológico de la biopsia de la masa rectal no se observan células con rasgos de 8000/3 \t MORFOLOGIA_NEOPLASIA \t malignidad \t En el estudio histológico de el biopsia de el masa rectal no él observar célula con rasgo de   <objetivo> malignidad </objetivo>   con uno mucosa cólico distorsionado y aumento del infiltrado inflamatorio crónico .",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tCon la sospecha de 8000/1 \t MORFOLOGIA_NEOPLASIA \t neoplasio \t Con el sospecha de   <objetivo> neoplasio </objetivo> de recto , él completar el estudio con colonoscopia , que objetiir uno lesión proliferativo exofítico , ulcerado , sugestivo de neoplasia rectal , no estenosante .",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tCon la sospecha de 8000/1 \t MORFOLOGIA_NEOPLASIA \t neoplasio \t Con el sospecha de   <objetivo> neoplasio </objetivo> de recto , él completar el estudio con colonoscopia , que objetiir uno lesión proliferativo exofítico , ulcerado , sugestivo de neoplasia rectal , no estenosante .",
+        "9064/3\tMORFOLOGIA_NEOPLASIA\ttumor germinal\tSe trata de un paciente varón de 43 años con antecedentes patológicos de un 9064/3 \t MORFOLOGIA_NEOPLASIA \t tumor germinal \t él tratar de uno paciente varón de 43 año con antecedente patológico de uno   <objetivo> tumor germinal </objetivo> intervenido y tratar con quimioterapia adyuvante hacer > 20 año y hepatitis b en el año 2015 .",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoración\tEn la exploración física destaca la presencia de una 8000/1 \t MORFOLOGIA_NEOPLASIA \t tumoración \t En el exploración físico destacar el presencia de uno   <objetivo> tumoración </objetivo> a 4 cm del margen anal en el tacto rectal .",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoral\tEn la TC se informa de la presencia de un engrosamiento de aspecto 8000/1 \t MORFOLOGIA_NEOPLASIA \t tumoral \t En el TC él informar de el presencia de uno engrosamiento de aspecto   <objetivo> tumoral </objetivo> en el pared de tercio medio de recto con signo de infiltración de el grasa y múltiple adenopatía perirrectal , así como a nivel retroperitoneal ."
     ],
     "pubmed_id": "onco618",
     "split_sentence": [

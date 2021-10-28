@@ -1,4 +1,4 @@
-from dataset_reader import BC5CDRReader
+from dataset_reader import CorpusReader
 from parameteres import Biencoder_params
 from utils import build_vocab, build_data_loaders, build_one_flag_loader, emb_returner, build_trainer
 from encoder import Pooler_for_mention, Pooler_for_cano_and_def
@@ -10,10 +10,10 @@ from evaluate_with_entire_kb import evaluate_with_kb
 if __name__ == '__main__':
     config = Biencoder_params()
     params = config.opts
-    reader = BC5CDRReader(params)
+    reader = CorpusReader(params)
 
     # Loading Datasets
-    train, dev, test = reader._read('train'), reader._read('dev'), reader._read('test')
+    train, dev, test = reader._read('train'), reader._read('dev1'), reader._read('test')
     vocab = build_vocab(train)
     vocab.extend_from_instances(dev)
 
@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
     # switch to dev evaluation mode
     reader.dev_eval_flag = copy.copy(1)
-    dev = reader._read('dev')
+    dev = reader._read('dev1')
     dev_loader = build_one_flag_loader(params, dev)
     dev_loader.index_with(vocab)
     test_loader.index_with(model.vocab)

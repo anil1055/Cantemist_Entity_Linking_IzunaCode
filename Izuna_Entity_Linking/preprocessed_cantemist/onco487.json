@@ -24,14 +24,14 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "El paciente es diagnosticado en febrero de 2017 de un adenocarcinoma de pulmón izquierdo  <objetivo> T4N2M0 </objetivo> estadio IIIB a raíz de cuadro de tos irritativa y hemoptisis ocasional.",
-        "El paciente es diagnosticado en febrero de 2017 de un  <objetivo> adenocarcinoma </objetivo> de pulmón izquierdo T4N2M0 estadio IIIB a raíz de cuadro de tos irritativa y hemoptisis ocasional.",
-        "Se realiza tomografía computarizada (TC) cerebral que informa de áreas hipodensas corticosubcorticales occipitales bilaterales que plantean el diagnóstico diferencial entre  <objetivo> enfermedad a distancia </objetivo> o síndrome de leucoencefalopatía posterior reversible (PRES)."
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tT4N2M0\tEl paciente es diagnosticado en febrero de 2017 de un adenocarcinoma de pulmón izquierdo  <objetivo> T4N2M0 </objetivo> estadio IIIB a raíz de cuadro de tos irritativa y hemoptisis ocasional.",
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tEl paciente es diagnosticado en febrero de 2017 de un  <objetivo> adenocarcinoma </objetivo> de pulmón izquierdo T4N2M0 estadio IIIB a raíz de cuadro de tos irritativa y hemoptisis ocasional.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tenfermedad a distancia\tSe realiza tomografía computarizada (TC) cerebral que informa de áreas hipodensas corticosubcorticales occipitales bilaterales que plantean el diagnóstico diferencial entre  <objetivo> enfermedad a distancia </objetivo> o síndrome de leucoencefalopatía posterior reversible (PRES)."
     ],
     "lines_lemma": [
-        "el paciente ser diagnosticar en febrero de 2017 de uno adenocarcinoma de pulmón izquierdo   <objetivo> T4N2M0 </objetivo> estadio IIIB a raíz de cuadro de to irritativo y hemoptisis ocasional .",
-        "el paciente ser diagnosticar en febrero de 2017 de uno   <objetivo> adenocarcinomar </objetivo> de pulmón izquierdo T4N2M0 estadio IIIB a raíz de cuadro de to irritativo y hemoptisis ocasional .",
-        "él realizar tomografía computarizado ( TC ) cerebral que informar de área hipodensa corticosubcortical occipital bilateral que plantear el diagnóstico diferencial entre   <objetivo> enfermedad a distancia </objetivo> o síndrome de leucoencefalopatía posterior reversible ( PRES ) ."
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tT4N2M0\tEl paciente es diagnosticado en febrero de 2017 de un adenocarcinoma de pulmón izquierdo 8000/6 \t MORFOLOGIA_NEOPLASIA \t T4N2M0 \t el paciente ser diagnosticar en febrero de 2017 de uno adenocarcinoma de pulmón izquierdo   <objetivo> T4N2M0 </objetivo> estadio IIIB a raíz de cuadro de to irritativo y hemoptisis ocasional .",
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tEl paciente es diagnosticado en febrero de 2017 de un 8140/3 \t MORFOLOGIA_NEOPLASIA \t adenocarcinomar \t el paciente ser diagnosticar en febrero de 2017 de uno   <objetivo> adenocarcinomar </objetivo> de pulmón izquierdo T4N2M0 estadio IIIB a raíz de cuadro de to irritativo y hemoptisis ocasional .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tenfermedad a distancia\tSe realiza tomografía computarizada (TC) cerebral que informa de áreas hipodensas corticosubcorticales occipitales bilaterales que plantean el diagnóstico diferencial entre 8000/6 \t MORFOLOGIA_NEOPLASIA \t enfermedad a distancia \t él realizar tomografía computarizado ( TC ) cerebral que informar de área hipodensa corticosubcortical occipital bilateral que plantear el diagnóstico diferencial entre   <objetivo> enfermedad a distancia </objetivo> o síndrome de leucoencefalopatía posterior reversible ( PRES ) ."
     ],
     "pubmed_id": "onco487",
     "split_sentence": [
@@ -49,8 +49,7 @@
         "Durante el ingreso, comienza con clínica de confusión, visión borrosa bilateral y pérdida de fuerza en miembro superior derecho por lo que se solicita valoración por Neurología.",
         "Exploración física",
         "El paciente presenta un Eastern Cooperative Oncology Group (ECOG) de 3.",
-        "Mide 173 cm y pesa 70 kg.",
-        "En la exploración neurológica el paciente se encuentra alerta y consciente, desorientado en espacio y tiempo.",
+        "Mide 173 cm y pesa 70 kg. En la exploración neurológica el paciente se encuentra alerta y consciente, desorientado en espacio y tiempo.",
         "Destaca un lenguaje hipofluente con bloqueos sin disartrias, y un déficit visual bilateral, aunque reconoce formas, colores y caras.",
         "Además, se aprecia un balance muscular 1/5 en miembro superior derecho y hemihipoestesia derecha.",
         "No tiene otros hallazgos relevantes en el resto de exploración física.",

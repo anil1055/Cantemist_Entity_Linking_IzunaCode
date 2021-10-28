@@ -45,22 +45,22 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "<objetivo> Tumor de células gigantes </objetivo> localizado en el fémur izquierdo.",
-        "Seis meses tras la realización de cirugía se diagnostica mediante radiografía de control de  <objetivo> metástasis </objetivo> pulmonares múltiples con patrón de suelta de globos.",
-        "Seis meses tras la realización de cirugía se diagnostica mediante radiografía de control de metástasis pulmonares múltiples con patrón de  <objetivo> suelta de globos </objetivo> ",
-        "Paciente mujer de 18 años sin antecedentes personales de interés que consulta por dolor en la pierna izquierda, siendo diagnosticada de un  <objetivo> tumor de células gigantes </objetivo> de fémur izquierdo mediante biopsia con aguja gruesa.",
-        "- Anatomía patológica:  <objetivo> tumor de células gigantes </objetivo> grado tres de Sanerkin del fémur izquierdo.",
-        "Exploración física normal, salvo por la  <objetivo> tumoración </objetivo> en el miembro inferior izquierdo en la zona proximal del fémur.",
-        "- Anatomía patológica:  <objetivo> tumor de células gigantes grado tres de Sanerkin </objetivo> del fémur izquierdo."
+        "8003/3\tMORFOLOGIA_NEOPLASIA\tTumor de células gigantes\t<objetivo> Tumor de células gigantes </objetivo> localizado en el fémur izquierdo.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tSeis meses tras la realización de cirugía se diagnostica mediante radiografía de control de  <objetivo> metástasis </objetivo> pulmonares múltiples con patrón de suelta de globos.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tsuelta de globos\tSeis meses tras la realización de cirugía se diagnostica mediante radiografía de control de metástasis pulmonares múltiples con patrón de  <objetivo> suelta de globos </objetivo> ",
+        "8003/3\tMORFOLOGIA_NEOPLASIA\ttumor de células gigantes\tPaciente mujer de 18 años sin antecedentes personales de interés que consulta por dolor en la pierna izquierda, siendo diagnosticada de un  <objetivo> tumor de células gigantes </objetivo> de fémur izquierdo mediante biopsia con aguja gruesa.",
+        "8003/3\tMORFOLOGIA_NEOPLASIA\ttumor de células gigantes\t- Anatomía patológica:  <objetivo> tumor de células gigantes </objetivo> grado tres de Sanerkin del fémur izquierdo.",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoración\tExploración física normal, salvo por la  <objetivo> tumoración </objetivo> en el miembro inferior izquierdo en la zona proximal del fémur.",
+        "8003/33\tMORFOLOGIA_NEOPLASIA\ttumor de células gigantes grado tres de Sanerkin\t- Anatomía patológica:  <objetivo> tumor de células gigantes grado tres de Sanerkin </objetivo> del fémur izquierdo."
     ],
     "lines_lemma": [
-        "<objetivo> Tumor de célula gigante </objetivo> localizado en el fémur izquierdo .",
-        "seis mes tras el realización de cirugía él diagnosticar mediante radiografía de control de   <objetivo> metástasi </objetivo> pulmonar múltiple con patrón de suelta de globo .",
-        "seis mes tras el realización de cirugía él diagnosticar mediante radiografía de control de metástasi pulmonar múltiple con patrón de   <objetivo> suelto de globo </objetivo>",
-        "Paciente mujer de 18 año sin antecedente personal de interés que consultar por dolor en el pierna izquierdo , ser diagnosticar de uno   <objetivo> tumor de célula gigante </objetivo> de fémur izquierdo mediante biopsia con aguja grueso .",
-        "- Anatomía patológicar :   <objetivo> tumor de célula gigante </objetivo> gradir tres de Sanerkin del fémur izquierdo .",
-        "Exploración físico normal , salvo por el   <objetivo> tumoración </objetivo> en el miembro inferior izquierdo en el zona proximal del fémur .",
-        "- Anatomía patológicar :   <objetivo> tumor de célula gigante grado tres de Sanerkin </objetivo> del fémur izquierdo ."
+        "8003/3\tMORFOLOGIA_NEOPLASIA\tTumor de células gigantes\t8003/3 \t MORFOLOGIA_NEOPLASIA \t Tumor de célula gigante \t <objetivo> Tumor de célula gigante </objetivo> localizado en el fémur izquierdo .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tSeis meses tras la realización de cirugía se diagnostica mediante radiografía de control de 8000/6 \t MORFOLOGIA_NEOPLASIA \t metástasis \t seis mes tras el realización de cirugía él diagnosticar mediante radiografía de control de   <objetivo> metástasi </objetivo> pulmonar múltiple con patrón de suelta de globo .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tsuelta de globos\tSeis meses tras la realización de cirugía se diagnostica mediante radiografía de control de metástasis pulmonares múltiples con patrón de 8000/6 \t MORFOLOGIA_NEOPLASIA \t suelta de globo \t seis mes tras el realización de cirugía él diagnosticar mediante radiografía de control de metástasi pulmonar múltiple con patrón de   <objetivo> suelto de globo </objetivo>",
+        "8003/3\tMORFOLOGIA_NEOPLASIA\ttumor de células gigantes\tPaciente mujer de 18 años sin antecedentes personales de interés que consulta por dolor en la pierna izquierda, siendo diagnosticada de un 8003/3 \t MORFOLOGIA_NEOPLASIA \t tumor de célula gigante \t Paciente mujer de 18 año sin antecedente personal de interés que consultar por dolor en el pierna izquierdo , ser diagnosticar de uno   <objetivo> tumor de célula gigante </objetivo> de fémur izquierdo mediante biopsia con aguja grueso .",
+        "8003/3\tMORFOLOGIA_NEOPLASIA\ttumor de células gigantes\t- Anatomía patológica: 8003/3 \t MORFOLOGIA_NEOPLASIA \t tumor de célula gigante \t - Anatomía patológicar :   <objetivo> tumor de célula gigante </objetivo> gradir tres de Sanerkin del fémur izquierdo .",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\ttumoración\tExploración física normal, salvo por la 8000/1 \t MORFOLOGIA_NEOPLASIA \t tumoración \t Exploración físico normal , salvo por el   <objetivo> tumoración </objetivo> en el miembro inferior izquierdo en el zona proximal del fémur .",
+        "8003/33\tMORFOLOGIA_NEOPLASIA\ttumor de células gigantes grado tres de Sanerkin\t- Anatomía patológica: 8003/33 \t MORFOLOGIA_NEOPLASIA \t tumor de célula gigante grado tres de Sanerkin \t - Anatomía patológicar :   <objetivo> tumor de célula gigante grado tres de Sanerkin </objetivo> del fémur izquierdo ."
     ],
     "pubmed_id": "onco1163",
     "split_sentence": [

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ea8e461c-1d22-4451-bb2a-293672948f3b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Cantemist_preprocess.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BC5CDRpreprocess.py" />
+    <Compile Include="BC5CDR codes\BC5CDRpreprocess.py" />
     <Compile Include="candidate_generator.py" />
     <Compile Include="Cantemist_preprocess.py">
       <SubType>Code</SubType>
@@ -44,13 +44,14 @@
     <Compile Include="preprocessed_cieo.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="preprocess_mesh.py" />
+    <Compile Include="BC5CDR codes\preprocess_mesh.py" />
     <Compile Include="tokenizer.py" />
     <Compile Include="utils.py" />
     <Compile Include="__init__.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="dataset\" />
+    <Folder Include="BC5CDR codes\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="candidates.pkl" />

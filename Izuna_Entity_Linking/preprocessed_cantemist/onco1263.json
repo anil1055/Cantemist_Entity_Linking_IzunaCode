@@ -45,20 +45,20 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "Varón de 70 años con antecedentes de fumador de 2 paquetes/año; ingesta enólica de 40 g etanol/día;  <objetivo> adenoma </objetivo> prostático en el año 1995; esclerosis válvula aórtica (ETT 2012: FEVI 55%).",
-        "La estadificación fue de  <objetivo> cT3N0M0 </objetivo> ",
-        "Diagnosticado de una  <objetivo> neoplasia </objetivo> de recto en el mes de mayo de 2011 mediante TC corporal, RM pélvica, ecoendoscopia y endoscopia.La biopsia demostró la existencia de un adenocarcinoma de recto de grado 1.",
-        "Diagnosticado de una neoplasia de recto en el mes de mayo de 2011 mediante TC corporal, RM pélvica, ecoendoscopia y endoscopia.La biopsia demostró la existencia de un  <objetivo> adenocarcinoma de recto de grado 1 </objetivo> ",
-        "En noviembre de 2011 se realizó una resección anterior baja laparoscópica asistida por da Vinci, con resultado histológico de  <objetivo> adenocarcinoma G3 </objetivo> ypT3ypN1(1/17)R0, con permeación vascular y perineural, grado de regresión 4, estadio IIIb de la AJCC.",
-        "<objetivo> Adenocarcinoma de recto G3 </objetivo> ypT3 ypN1 (1/17) R0, estadio IIIB de la AJCC (noviembre de 2011)."
+        "8140/0\tMORFOLOGIA_NEOPLASIA\tadenoma\tVarón de 70 años con antecedentes de fumador de 2 paquetes/año; ingesta enólica de 40 g etanol/día;  <objetivo> adenoma </objetivo> prostático en el año 1995; esclerosis válvula aórtica (ETT 2012: FEVI 55%).",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcT3N0M0\tLa estadificación fue de  <objetivo> cT3N0M0 </objetivo> ",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tDiagnosticado de una  <objetivo> neoplasia </objetivo> de recto en el mes de mayo de 2011 mediante TC corporal, RM pélvica, ecoendoscopia y endoscopia.La biopsia demostró la existencia de un adenocarcinoma de recto de grado 1.",
+        "8140/31\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma de recto de grado 1\tDiagnosticado de una neoplasia de recto en el mes de mayo de 2011 mediante TC corporal, RM pélvica, ecoendoscopia y endoscopia.La biopsia demostró la existencia de un  <objetivo> adenocarcinoma de recto de grado 1 </objetivo> ",
+        "8140/33\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma G3\tEn noviembre de 2011 se realizó una resección anterior baja laparoscópica asistida por da Vinci, con resultado histológico de  <objetivo> adenocarcinoma G3 </objetivo> ypT3ypN1(1/17)R0, con permeación vascular y perineural, grado de regresión 4, estadio IIIb de la AJCC.",
+        "8140/33\tMORFOLOGIA_NEOPLASIA\tAdenocarcinoma de recto G3\t<objetivo> Adenocarcinoma de recto G3 </objetivo> ypT3 ypN1 (1/17) R0, estadio IIIB de la AJCC (noviembre de 2011)."
     ],
     "lines_lemma": [
-        "Varón de 70 año con antecedente de fumador de 2 paquete / año ; ingesta enólica de 40 g etanol / día ;   <objetivo> adenomar </objetivo> prostático en el año 1995 ; esclerosis válvulo aórtico ( ETT 2012 : FEVI 55% ) .",
-        "el estadificación ser de   <objetivo> ct3n0m0 </objetivo>",
-        "diagnosticado de uno   <objetivo> neoplasio </objetivo> de recto en el mes de mayo de 2011 mediante TC corporal , RM pélvico , ecoendoscopio y endoscopia . el biopsia demostrar el existencia de uno adenocarcinoma de recto de grado 1 .",
-        "diagnosticado de uno neoplasia de recto en el mes de mayo de 2011 mediante TC corporal , RM pélvico , ecoendoscopio y endoscopia . el biopsia demostrar el existencia de uno   <objetivo> adenocarcinomar de recto de grado 1 </objetivo>",
-        "en noviembre de 2011 él realizar uno resección anterior baja laparoscópico asistido por da Vinci , con resultado histológico de   <objetivo> adenocarcinomar G3 </objetivo> ypT3ypN1(1/17)R0 , con permeación vascular y perineural , grado de regresión 4 , estadio IIIb de el AJCC .",
-        "<objetivo> Adenocarcinoma de recto G3 </objetivo> ypT3 ypN1 ( 1/17 ) R0 , estadio IIIB de el AJCC ( noviembre de 2011 ) ."
+        "8140/0\tMORFOLOGIA_NEOPLASIA\tadenoma\tVarón de 70 años con antecedentes de fumador de 2 paquetes/año; ingesta enólica de 40 g etanol/día; 8140/0 \t MORFOLOGIA_NEOPLASIA \t adenoma \t Varón de 70 año con antecedente de fumador de 2 paquete / año ; ingesta enólica de 40 g etanol / día ;   <objetivo> adenomar </objetivo> prostático en el año 1995 ; esclerosis válvulo aórtico ( ETT 2012 : FEVI 55% ) .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcT3N0M0\tLa estadificación fue de 8000/6 \t MORFOLOGIA_NEOPLASIA \t ct3n0m0 \t el estadificación ser de   <objetivo> ct3n0m0 </objetivo>",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tDiagnosticado de una 8000/1 \t MORFOLOGIA_NEOPLASIA \t neoplasio \t Diagnosticado de uno   <objetivo> neoplasio </objetivo> de recto en el mes de mayo de 2011 mediante TC corporal , RM pélvico , ecoendoscopio y endoscopia . el biopsia demostrar el existencia de uno adenocarcinoma de recto de grado 1 .",
+        "8140/31\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma de recto de grado 1\tDiagnosticado de una neoplasia de recto en el mes de mayo de 2011 mediante TC corporal, RM pélvica, ecoendoscopia y endoscopia.La biopsia demostró la existencia de un 8140/31 \t MORFOLOGIA_NEOPLASIA \t adenocarcinoma de recto de grado 1 \t Diagnosticado de uno neoplasia de recto en el mes de mayo de 2011 mediante TC corporal , RM pélvico , ecoendoscopio y endoscopia . el biopsia demostrar el existencia de uno   <objetivo> adenocarcinomar de recto de grado 1 </objetivo>",
+        "8140/33\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma G3\tEn noviembre de 2011 se realizó una resección anterior baja laparoscópica asistida por da Vinci, con resultado histológico de 8140/33 \t MORFOLOGIA_NEOPLASIA \t adenocarcinoma G3 \t En noviembre de 2011 él realizar uno resección anterior baja laparoscópico asistido por da Vinci , con resultado histológico de   <objetivo> adenocarcinomar G3 </objetivo> ypT3ypN1(1/17)R0 , con permeación vascular y perineural , grado de regresión 4 , estadio IIIb de el AJCC .",
+        "8140/33\tMORFOLOGIA_NEOPLASIA\tAdenocarcinoma de recto G3\t8140/33 \t MORFOLOGIA_NEOPLASIA \t Adenocarcinoma de recto G3 \t <objetivo> Adenocarcinoma de recto G3 </objetivo> ypT3 ypN1 ( 1/17 ) R0 , estadio IIIB de el AJCC ( noviembre de 2011 ) ."
     ],
     "pubmed_id": "onco1263",
     "split_sentence": [
@@ -73,9 +73,7 @@
         "Recibió 3 ciclos, retirándose el oxaliplatino por trombopenia de grado 3.",
         "Completó dos ciclos más con capecitabina, suspendiéndose ante la progresión de citopenias (anemia, neutropenia y trombopenia), las cuales se mantienen a pesar de dicha suspensión.",
         "Examen físico",
-        "P: 71,6 kg.",
-        "T: 170 cm.",
-        "ECOG 1.",
+        "P: 71,6 kg. T: 170 cm. ECOG 1.",
         "Palidez moderada de piel y mucosas.",
         "Petequias en cara, tronco y extremidades.",
         "Escaso sangrado gingival.",

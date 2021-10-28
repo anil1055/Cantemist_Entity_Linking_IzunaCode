@@ -31,16 +31,16 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "<objetivo> Carcinoma </objetivo> mamario Her-2 positivo, receptores hormonales negativos E-IV (cT2 cN1 M1).",
-        "Carcinoma mamario Her-2 positivo, receptores hormonales negativos E-IV (cT2 cN1  <objetivo> M1 </objetivo> .",
-        "Intervenida mediante nefrectomía izquierda por pielonefritis granulomatosa secundaria a cálculo colariforme, objetivándose en el estudio anatomopatológico de adenopatía hiliar renal,  <objetivo> metástasis de carcinoma </objetivo> con embolización linfática morfológicamente sugestivo e inmunoquímicamente compatible con origen mamario (CK7+; CK20-; EMA+; mamoglobina +; receptores estrógenos -).",
-        "Informe anatomopatológico:  <objetivo> carcinoma infiltrante </objetivo>  receptores hormonales negativos, Her-2 (herceptest 3+), Ki-67 20%, mamoglobina +, GCDFP15 -."
+        "8010/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma\t<objetivo> Carcinoma </objetivo> mamario Her-2 positivo, receptores hormonales negativos E-IV (cT2 cN1 M1).",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tM1\tCarcinoma mamario Her-2 positivo, receptores hormonales negativos E-IV (cT2 cN1  <objetivo> M1 </objetivo> .",
+        "8010/6\tMORFOLOGIA_NEOPLASIA\tmetástasis de carcinoma\tIntervenida mediante nefrectomía izquierda por pielonefritis granulomatosa secundaria a cálculo colariforme, objetivándose en el estudio anatomopatológico de adenopatía hiliar renal,  <objetivo> metástasis de carcinoma </objetivo> con embolización linfática morfológicamente sugestivo e inmunoquímicamente compatible con origen mamario (CK7+; CK20-; EMA+; mamoglobina +; receptores estrógenos -).",
+        "8010/3/H\tMORFOLOGIA_NEOPLASIA\tcarcinoma infiltrante\tInforme anatomopatológico:  <objetivo> carcinoma infiltrante </objetivo>  receptores hormonales negativos, Her-2 (herceptest 3+), Ki-67 20%, mamoglobina +, GCDFP15 -."
     ],
     "lines_lemma": [
-        "<objetivo> Carcinoma </objetivo> mamario Her-2 positivo , receptor hormonal negativo e-iv ( cT2 cN1 M1 ) .",
-        "Carcinoma mamario Her-2 positivo , receptor hormonal negativo e-iv ( cT2 cN1   <objetivo> m1 </objetivo> .",
-        "intervenido mediante nefrectomía izquierdo por pielonefriti granulomatós secundario a cálculo colariforme , objetivar él en el estudio anatomopatológico de adenopatía hiliar renal ,   <objetivo> metástasis de carcinoma </objetivo> con embolización linfático morfológicamente sugestivo e inmunoquímicamente compatible con origen mamario ( CK7 + ; CK20- ; EMA+ ; mamoglobín + ; receptor estrógeno - ) .",
-        "Informe anatomopatológico :   <objetivo> carcinomar infiltrante </objetivo>   receptor hormonal negativo , Her-2 ( herceptest 3 + ) , Ki-67 20% , mamoglobín + , gcdfp15 - ."
+        "8010/3\tMORFOLOGIA_NEOPLASIA\tCarcinoma\t8010/3 \t MORFOLOGIA_NEOPLASIA \t Carcinoma \t <objetivo> Carcinoma </objetivo> mamario Her-2 positivo , receptor hormonal negativo e-iv ( cT2 cN1 M1 ) .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tM1\tCarcinoma mamario Her-2 positivo, receptores hormonales negativos E-IV (cT2 cN1 8000/6 \t MORFOLOGIA_NEOPLASIA \t M1 \t Carcinoma mamario Her-2 positivo , receptor hormonal negativo e-iv ( cT2 cN1   <objetivo> m1 </objetivo> .",
+        "8010/6\tMORFOLOGIA_NEOPLASIA\tmetástasis de carcinoma\tIntervenida mediante nefrectomía izquierda por pielonefritis granulomatosa secundaria a cálculo colariforme, objetivándose en el estudio anatomopatológico de adenopatía hiliar renal, 8010/6 \t MORFOLOGIA_NEOPLASIA \t metástasi de carcinoma \t Intervenida mediante nefrectomía izquierdo por pielonefriti granulomatós secundario a cálculo colariforme , objetivar él en el estudio anatomopatológico de adenopatía hiliar renal ,   <objetivo> metástasis de carcinoma </objetivo> con embolización linfático morfológicamente sugestivo e inmunoquímicamente compatible con origen mamario ( CK7 + ; CK20- ; EMA+ ; mamoglobín + ; receptor estrógeno - ) .",
+        "8010/3/H\tMORFOLOGIA_NEOPLASIA\tcarcinoma infiltrante\tInforme anatomopatológico: 8010/3 / H \t MORFOLOGIA_NEOPLASIA \t carcinomar infiltrante \t Informe anatomopatológico :   <objetivo> carcinomar infiltrante </objetivo>   receptor hormonal negativo , Her-2 ( herceptest 3 + ) , Ki-67 20% , mamoglobín + , gcdfp15 - ."
     ],
     "pubmed_id": "onco153",
     "split_sentence": [
@@ -56,8 +56,7 @@
         "» Se realizaron mamografía y ecografía mamaria: densidad asimétrica retroareolar derecha.",
         "Nódulo de contornos muy irregulares en la región axilar derecha que se biopsia.",
         "Informe anatomopatológico: carcinoma infiltrante, receptores hormonales negativos, Her-2 (herceptest 3+), Ki-67 20%, mamoglobina +, GCDFP15 -.",
-        "» Remitida al Servicio de Oncología Médica, se completó el estudio con una tomografía por emisión de positrones (PET) corporal total: nódulo en la mama derecha hipermetabólico (SUVmáx: 12,1 g/ml) 18 x 26 mm.",
-        "Múltiples ganglios hipermetabólicos (regionales y a distancia).",
+        "» Remitida al Servicio de Oncología Médica, se completó el estudio con una tomografía por emisión de positrones (PET) corporal total: nódulo en la mama derecha hipermetabólico (SUVmáx: 12,1 g/ml) 18 x 26 mm. Múltiples ganglios hipermetabólicos (regionales y a distancia).",
         "» En la analítica destacaba anemia microcítica, hipocrómica (Hb 10,6 g/dl), CEA 6 ng/ml, CA 15.3 normal; CTC 2/7,5 ml.",
         "» Solicitamos ecocardiograma basal: ventrículo izquierdo de tamaño normal con buena funciónsistólica.",
         "Hipertrofia ventricular izquierda concéntrica de grado moderado.",

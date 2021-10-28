@@ -38,20 +38,20 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "La biopsia informa de  <objetivo> adenocarcinoma </objetivo> gástrico difuso con células en anillo de sello.",
-        "Con diagnóstico de  <objetivo> adenocarcinoma </objetivo> gástrico cT3N0M0 se propone tratamiento perioperatorio con XELOX.",
-        "Con diagnóstico de adenocarcinoma gástrico  <objetivo> cT3N0M0 </objetivo> se propone tratamiento perioperatorio con XELOX.",
-        "No presenta signos de isquemia ni infiltración  <objetivo> metastásica </objetivo> ",
-        "Se inicia un estudio que evidencia en la gastroscopia un área sugestiva de  <objetivo> neoplasia </objetivo> ",
-        "La biopsia informa de  <objetivo> adenocarcinoma gástrico difuso con células en anillo de sello </objetivo> "
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tLa biopsia informa de  <objetivo> adenocarcinoma </objetivo> gástrico difuso con células en anillo de sello.",
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tCon diagnóstico de  <objetivo> adenocarcinoma </objetivo> gástrico cT3N0M0 se propone tratamiento perioperatorio con XELOX.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcT3N0M0\tCon diagnóstico de adenocarcinoma gástrico  <objetivo> cT3N0M0 </objetivo> se propone tratamiento perioperatorio con XELOX.",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetastásica\tNo presenta signos de isquemia ni infiltración  <objetivo> metastásica </objetivo> ",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tSe inicia un estudio que evidencia en la gastroscopia un área sugestiva de  <objetivo> neoplasia </objetivo> ",
+        "8490/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma gástrico difuso con células en anillo de sello\tLa biopsia informa de  <objetivo> adenocarcinoma gástrico difuso con células en anillo de sello </objetivo> "
     ],
     "lines_lemma": [
-        "el biopsia informar de   <objetivo> adenocarcinomar </objetivo> gástrico difuso con célula en anillo de sello .",
-        "con diagnóstico de   <objetivo> adenocarcinomar </objetivo> gástrico ct3n0m0 él proponer tratamiento perioperatorio con XELOX .",
-        "con diagnóstico de adenocarcinoma gástrico   <objetivo> ct3n0m0 </objetivo> él proponer tratamiento perioperatorio con XELOX .",
-        "no presentar signo de isquemia ni infiltración   <objetivo> metastásicar </objetivo>",
-        "él iniciar uno estudio que evidenciar en el gastroscopia uno área sugestivo de   <objetivo> neoplasio </objetivo>",
-        "el biopsia informar de   <objetivo> adenocarcinomar gástrico difuso con célula en anillo de sello </objetivo>"
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tLa biopsia informa de 8140/3 \t MORFOLOGIA_NEOPLASIA \t adenocarcinomar \t el biopsia informar de   <objetivo> adenocarcinomar </objetivo> gástrico difuso con célula en anillo de sello .",
+        "8140/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma\tCon diagnóstico de 8140/3 \t MORFOLOGIA_NEOPLASIA \t adenocarcinomar \t Con diagnóstico de   <objetivo> adenocarcinomar </objetivo> gástrico ct3n0m0 él proponer tratamiento perioperatorio con XELOX .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcT3N0M0\tCon diagnóstico de adenocarcinoma gástrico 8000/6 \t MORFOLOGIA_NEOPLASIA \t ct3n0m0 \t Con diagnóstico de adenocarcinoma gástrico   <objetivo> ct3n0m0 </objetivo> él proponer tratamiento perioperatorio con XELOX .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetastásica\tNo presenta signos de isquemia ni infiltración 8000/6 \t MORFOLOGIA_NEOPLASIA \t metastásica \t no presentar signo de isquemia ni infiltración   <objetivo> metastásicar </objetivo>",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplasia\tSe inicia un estudio que evidencia en la gastroscopia un área sugestiva de 8000/1 \t MORFOLOGIA_NEOPLASIA \t neoplasio \t él iniciar uno estudio que evidenciar en el gastroscopia uno área sugestivo de   <objetivo> neoplasio </objetivo>",
+        "8490/3\tMORFOLOGIA_NEOPLASIA\tadenocarcinoma gástrico difuso con células en anillo de sello\tLa biopsia informa de 8490/3 \t MORFOLOGIA_NEOPLASIA \t adenocarcinoma gástrico difuso con célula en anillo de sello \t el biopsia informar de   <objetivo> adenocarcinomar gástrico difuso con célula en anillo de sello </objetivo>"
     ],
     "pubmed_id": "onco1299",
     "split_sentence": [

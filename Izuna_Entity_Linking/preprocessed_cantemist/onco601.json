@@ -45,22 +45,22 @@
     ],
     "if_txt_length_is_changed_flag": 0,
     "lines": [
-        "Por tanto, el estadiaje resultó ser un cT1c cN1  <objetivo> cM0 </objetivo> (estadio IIa).",
-        "El resultado anatomopatológico fue compatible con un  <objetivo> carcinoma </objetivo> ductal infiltrante de mama izquierda, grado 3, receptores de estrógenos intensamente positivos, receptores de progesterona negativos, HER-2 positivo y Ki67 del 40 %.",
-        "La biopsia axilar confirmó la infiltración por  <objetivo> carcinoma </objetivo> ",
-        "Como antecedentes, destaca el hecho de haber presentado dos abortos y que su madre falleciese a los 26 años de un  <objetivo> cáncer </objetivo> de mama, motivo por el cual se había realizado estudio de BRCA-1 y 2, hacía 2 años, resultando \"no informativos\".",
-        "El estudio de extensión no objetivó la presencia de  <objetivo> metástasis </objetivo> ",
-        "La ecografía axilar reveló la presencia de dos ganglios axilares izquierdos sospechosos de infiltración  <objetivo> neoplásica </objetivo> ",
-        "El resultado anatomopatológico fue compatible con un  <objetivo> carcinoma ductal infiltrante de mama izquierda, grado 3 </objetivo>  receptores de estrógenos intensamente positivos, receptores de progesterona negativos, HER-2 positivo y Ki67 del 40 %."
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcM0\tPor tanto, el estadiaje resultó ser un cT1c cN1  <objetivo> cM0 </objetivo> (estadio IIa).",
+        "8010/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma\tEl resultado anatomopatológico fue compatible con un  <objetivo> carcinoma </objetivo> ductal infiltrante de mama izquierda, grado 3, receptores de estrógenos intensamente positivos, receptores de progesterona negativos, HER-2 positivo y Ki67 del 40 %.",
+        "8010/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma\tLa biopsia axilar confirmó la infiltración por  <objetivo> carcinoma </objetivo> ",
+        "8000/3\tMORFOLOGIA_NEOPLASIA\tcáncer\tComo antecedentes, destaca el hecho de haber presentado dos abortos y que su madre falleciese a los 26 años de un  <objetivo> cáncer </objetivo> de mama, motivo por el cual se había realizado estudio de BRCA-1 y 2, hacía 2 años, resultando \"no informativos\".",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tEl estudio de extensión no objetivó la presencia de  <objetivo> metástasis </objetivo> ",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplásica\tLa ecografía axilar reveló la presencia de dos ganglios axilares izquierdos sospechosos de infiltración  <objetivo> neoplásica </objetivo> ",
+        "8500/33\tMORFOLOGIA_NEOPLASIA\tcarcinoma ductal infiltrante de mama izquierda, grado 3\tEl resultado anatomopatológico fue compatible con un  <objetivo> carcinoma ductal infiltrante de mama izquierda, grado 3 </objetivo>  receptores de estrógenos intensamente positivos, receptores de progesterona negativos, HER-2 positivo y Ki67 del 40 %."
     ],
     "lines_lemma": [
-        "por tanto , el estadiaje resultar ser uno ct1c cN1   <objetivo> cM0 </objetivo> ( estadio IIa ) .",
-        "el resultado anatomopatológico ser compatible con uno   <objetivo> carcinomar </objetivo> ductal infiltrante de mama izquierdo , grado 3 , receptor de estrógeno intensamente positivo , receptor de progesterona negativo , her-2 positivo y ki67 del 40 % .",
-        "el biopsia axilar confirmar el infiltración por   <objetivo> carcinomar </objetivo>",
-        "como antecedente , destacar el hecho de haber presentar dos aborto y que su madre fallecer a el 26 año de uno   <objetivo> cáncer </objetivo> de mama , motivo por el cual él haber realizar estudio de BRCA-1 y 2 , hacer 2 año , resultar \" no informativo \" .",
-        "el estudio de extensión no objetivar el presencia de   <objetivo> metástasi </objetivo>",
-        "el ecografía axilar revelar el presencia de dos ganglio axilar izquierdo sospechoso de infiltración   <objetivo> neoplásicar </objetivo>",
-        "el resultado anatomopatológico ser compatible con uno   <objetivo> carcinomar ductal infiltrante de mama izquierdo , grado 3 </objetivo>   receptor de estrógeno intensamente positivo , receptor de progesterona negativo , her-2 positivo y ki67 del 40 % ."
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tcM0\tPor tanto, el estadiaje resultó ser un cT1c cN1 8000/6 \t MORFOLOGIA_NEOPLASIA \t cM0 \t Por tanto , el estadiaje resultar ser uno ct1c cN1   <objetivo> cM0 </objetivo> ( estadio IIa ) .",
+        "8010/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma\tEl resultado anatomopatológico fue compatible con un 8010/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma \t el resultado anatomopatológico ser compatible con uno   <objetivo> carcinomar </objetivo> ductal infiltrante de mama izquierdo , grado 3 , receptor de estrógeno intensamente positivo , receptor de progesterona negativo , her-2 positivo y ki67 del 40 % .",
+        "8010/3\tMORFOLOGIA_NEOPLASIA\tcarcinoma\tLa biopsia axilar confirmó la infiltración por 8010/3 \t MORFOLOGIA_NEOPLASIA \t carcinoma \t el biopsia axilar confirmar el infiltración por   <objetivo> carcinomar </objetivo>",
+        "8000/3\tMORFOLOGIA_NEOPLASIA\tcáncer\tComo antecedentes, destaca el hecho de haber presentado dos abortos y que su madre falleciese a los 26 años de un 8000/3 \t MORFOLOGIA_NEOPLASIA \t cáncer \t Como antecedente , destacar el hecho de haber presentar dos aborto y que su madre fallecer a el 26 año de uno   <objetivo> cáncer </objetivo> de mama , motivo por el cual él haber realizar estudio de BRCA-1 y 2 , hacer 2 año , resultar \" no informativo \" .",
+        "8000/6\tMORFOLOGIA_NEOPLASIA\tmetástasis\tEl estudio de extensión no objetivó la presencia de 8000/6 \t MORFOLOGIA_NEOPLASIA \t metástasis \t el estudio de extensión no objetivar el presencia de   <objetivo> metástasi </objetivo>",
+        "8000/1\tMORFOLOGIA_NEOPLASIA\tneoplásica\tLa ecografía axilar reveló la presencia de dos ganglios axilares izquierdos sospechosos de infiltración 8000/1 \t MORFOLOGIA_NEOPLASIA \t neoplásico \t el ecografía axilar revelar el presencia de dos ganglio axilar izquierdo sospechoso de infiltración   <objetivo> neoplásicar </objetivo>",
+        "8500/33\tMORFOLOGIA_NEOPLASIA\tcarcinoma ductal infiltrante de mama izquierda, grado 3\tEl resultado anatomopatológico fue compatible con un 8500/33 \t MORFOLOGIA_NEOPLASIA \t carcinoma ductal infiltrante de mama izquierdo , grado 3 \t el resultado anatomopatológico ser compatible con uno   <objetivo> carcinomar ductal infiltrante de mama izquierdo , grado 3 </objetivo>   receptor de estrógeno intensamente positivo , receptor de progesterona negativo , her-2 positivo y ki67 del 40 % ."
     ],
     "pubmed_id": "onco601",
     "split_sentence": [
@@ -68,8 +68,7 @@
         "Mujer de 24 años que durante la lactancia de su primer hijo advierte la presencia de un nódulo en el cuadrante superointerno de la mama izquierda.",
         "Como antecedentes, destaca el hecho de haber presentado dos abortos y que su madre falleciese a los 26 años de un cáncer de mama, motivo por el cual se había realizado estudio de BRCA-1 y 2, hacía 2 años, resultando \"no informativos\".",
         "Exploración física",
-        "Durante la exploración se palpa un nódulo duro, adherido a planos profundos, no doloroso, de aproximadamente 2 cm en el cuadrante superointerno de la mama izquierda, así como una adenopatía axilar izquierda de 1 cm.",
-        "El resto de la exploración física era rigurosamente normal.",
+        "Durante la exploración se palpa un nódulo duro, adherido a planos profundos, no doloroso, de aproximadamente 2 cm en el cuadrante superointerno de la mama izquierda, así como una adenopatía axilar izquierda de 1 cm. El resto de la exploración física era rigurosamente normal.",
         "Pruebas complementarias",
         "La mamografía confirmó la presencia de un nódulo en el cuadrante superointerno de la mama izquierda de 2 cm de categoría BIRADS 6.",
         "La ecografía axilar reveló la presencia de dos ganglios axilares izquierdos sospechosos de infiltración neoplásica.",
