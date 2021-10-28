@@ -1,0 +1,146 @@
+{
+    "title": "Fatal intracranial bleeding associated with prehospital use of epinephrine.",
+    "abst": "We present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of pulmonary edema with wheezing. The sudden onset of respiratory distress, rash, and a history of a new medicine led the two paramedics on the scene to administer subcutaneous epinephrine. Subsequently, acute cardiac arrest and fatal subarachnoid hemorrhage occurred. Epinephrine has a proven role in cardiac arrest in prehospital care; however, use by paramedics in patients with suspected allergic reaction and severe hypertension should be viewed with caution.",
+    "title_plus_abst": "Fatal intracranial bleeding associated with prehospital use of epinephrine. We present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of pulmonary edema with wheezing. The sudden onset of respiratory distress, rash, and a history of a new medicine led the two paramedics on the scene to administer subcutaneous epinephrine. Subsequently, acute cardiac arrest and fatal subarachnoid hemorrhage occurred. Epinephrine has a proven role in cardiac arrest in prehospital care; however, use by paramedics in patients with suspected allergic reaction and severe hypertension should be viewed with caution.",
+    "pubmed_id": "8953972",
+    "entities": [
+        [
+            6,
+            27,
+            "intracranial bleeding",
+            "Disease",
+            "D013345"
+        ],
+        [
+            63,
+            74,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            171,
+            188,
+            "allergic reaction",
+            "Disease",
+            "D004342"
+        ],
+        [
+            202,
+            217,
+            "pulmonary edema",
+            "Disease",
+            "D011654"
+        ],
+        [
+            223,
+            231,
+            "wheezing",
+            "Disease",
+            "D012135"
+        ],
+        [
+            253,
+            273,
+            "respiratory distress",
+            "Disease",
+            "D012128"
+        ],
+        [
+            275,
+            279,
+            "rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            376,
+            387,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            409,
+            423,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            434,
+            457,
+            "subarachnoid hemorrhage",
+            "Disease",
+            "D013345"
+        ],
+        [
+            468,
+            479,
+            "Epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            501,
+            515,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            591,
+            608,
+            "allergic reaction",
+            "Disease",
+            "D004342"
+        ],
+        [
+            620,
+            632,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ]
+    ],
+    "split_sentence": [
+        "Fatal intracranial bleeding associated with prehospital use of epinephrine.",
+        "We present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of pulmonary edema with wheezing.",
+        "The sudden onset of respiratory distress, rash, and a history of a new medicine led the two paramedics on the scene to administer subcutaneous epinephrine.",
+        "Subsequently, acute cardiac arrest and fatal subarachnoid hemorrhage occurred.",
+        "Epinephrine has a proven role in cardiac arrest in prehospital care; however, use by paramedics in patients with suspected allergic reaction and severe hypertension should be viewed with caution."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013345\tDisease\tintracranial bleeding\tFatal <target> intracranial bleeding </target> associated with prehospital use of epinephrine .",
+        "D004837\tChemical\tepinephrine\tFatal intracranial bleeding associated with prehospital use of <target> epinephrine </target> .",
+        "D004342\tDisease\tallergic reaction\tWe present a case of paramedic misjudgment in the execution of a protocol for the treatment of <target> allergic reaction </target> in a case of pulmonary edema with wheezing .",
+        "D011654\tDisease\tpulmonary edema\tWe present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of <target> pulmonary edema </target> with wheezing .",
+        "D012135\tDisease\twheezing\tWe present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of pulmonary edema with <target> wheezing </target> .",
+        "D012128\tDisease\trespiratory distress\tThe sudden onset of <target> respiratory distress </target> , rash , and a history of a new medicine led the two paramedics on the scene to administer subcutaneous epinephrine .",
+        "D005076\tDisease\trash\tThe sudden onset of respiratory distress , <target> rash </target> , and a history of a new medicine led the two paramedics on the scene to administer subcutaneous epinephrine .",
+        "D004837\tChemical\tepinephrine\tThe sudden onset of respiratory distress , rash , and a history of a new medicine led the two paramedics on the scene to administer subcutaneous <target> epinephrine </target> .",
+        "D006323\tDisease\tcardiac arrest\tSubsequently , acute <target> cardiac arrest </target> and fatal subarachnoid hemorrhage occurred .",
+        "D013345\tDisease\tsubarachnoid hemorrhage\tSubsequently , acute cardiac arrest and fatal <target> subarachnoid hemorrhage </target> occurred .",
+        "D004837\tChemical\tEpinephrine\t<target> Epinephrine </target> has a proven role in cardiac arrest in prehospital care ; however , use by paramedics in patients with suspected allergic reaction and severe hypertension should be viewed with caution .",
+        "D006323\tDisease\tcardiac arrest\tEpinephrine has a proven role in <target> cardiac arrest </target> in prehospital care ; however , use by paramedics in patients with suspected allergic reaction and severe hypertension should be viewed with caution .",
+        "D004342\tDisease\tallergic reaction\tEpinephrine has a proven role in cardiac arrest in prehospital care ; however , use by paramedics in patients with suspected <target> allergic reaction </target> and severe hypertension should be viewed with caution .",
+        "D006973\tDisease\thypertension\tEpinephrine has a proven role in cardiac arrest in prehospital care ; however , use by paramedics in patients with suspected allergic reaction and severe <target> hypertension </target> should be viewed with caution ."
+    ],
+    "lines_lemma": [
+        "D013345\tDisease\tintracranial bleeding\tfatal <target> intracranial bleed </target> associate with prehospital use of epinephrine .",
+        "D004837\tChemical\tepinephrine\tfatal intracranial bleeding associate with prehospital use of <target> epinephrine </target> .",
+        "D004342\tDisease\tallergic reaction\twe present a case of paramedic misjudgment in the execution of a protocol for the treatment of <target> allergic reaction </target> in a case of pulmonary edema with wheezing .",
+        "D011654\tDisease\tpulmonary edema\twe present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of <target> pulmonary edema </target> with wheezing .",
+        "D012135\tDisease\twheezing\twe present a case of paramedic misjudgment in the execution of a protocol for the treatment of allergic reaction in a case of pulmonary edema with <target> wheezing </target> .",
+        "D012128\tDisease\trespiratory distress\tthe sudden onset of <target> respiratory distress </target> , rash , and a history of a new medicine lead the two paramedic on the scene to administer subcutaneous epinephrine .",
+        "D005076\tDisease\trash\tthe sudden onset of respiratory distress , <target> rash </target> , and a history of a new medicine lead the two paramedic on the scene to administer subcutaneous epinephrine .",
+        "D004837\tChemical\tepinephrine\tthe sudden onset of respiratory distress , rash , and a history of a new medicine lead the two paramedic on the scene to administer subcutaneous <target> epinephrine </target> .",
+        "D006323\tDisease\tcardiac arrest\tsubsequently , acute <target> cardiac arrest </target> and fatal subarachnoid hemorrhage occur .",
+        "D013345\tDisease\tsubarachnoid hemorrhage\tsubsequently , acute cardiac arrest and fatal <target> subarachnoid hemorrhage </target> occur .",
+        "D004837\tChemical\tEpinephrine\t<target> Epinephrine </target> have a prove role in cardiac arrest in prehospital care ; however , use by paramedic in patient with suspect allergic reaction and severe hypertension should be view with caution .",
+        "D006323\tDisease\tcardiac arrest\tEpinephrine have a prove role in <target> cardiac arrest </target> in prehospital care ; however , use by paramedic in patient with suspect allergic reaction and severe hypertension should be view with caution .",
+        "D004342\tDisease\tallergic reaction\tEpinephrine have a prove role in cardiac arrest in prehospital care ; however , use by paramedic in patient with suspect <target> allergic reaction </target> and severe hypertension should be view with caution .",
+        "D006973\tDisease\thypertension\tEpinephrine have a prove role in cardiac arrest in prehospital care ; however , use by paramedic in patient with suspect allergic reaction and severe <target> hypertension </target> should be view with caution ."
+    ]
+}

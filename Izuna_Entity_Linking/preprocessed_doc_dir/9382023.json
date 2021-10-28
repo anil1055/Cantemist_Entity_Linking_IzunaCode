@@ -1,0 +1,72 @@
+{
+    "title": "Hypertensive response during dobutamine stress echocardiography.",
+    "abst": "Among 3,129 dobutamine stress echocardiographic studies, a hypertensive response, defined as systolic blood pressure (BP) > or = 220 mm Hg and/or diastolic BP > or = 110 mm Hg, occurred in 30 patients (1%). Patients with this response more often had a history of hypertension and had higher resting systolic and diastolic BP before dobutamine infusion.",
+    "title_plus_abst": "Hypertensive response during dobutamine stress echocardiography. Among 3,129 dobutamine stress echocardiographic studies, a hypertensive response, defined as systolic blood pressure (BP) > or = 220 mm Hg and/or diastolic BP > or = 110 mm Hg, occurred in 30 patients (1%). Patients with this response more often had a history of hypertension and had higher resting systolic and diastolic BP before dobutamine infusion.",
+    "pubmed_id": "9382023",
+    "entities": [
+        [
+            0,
+            12,
+            "Hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            29,
+            39,
+            "dobutamine",
+            "Chemical",
+            "D004280"
+        ],
+        [
+            77,
+            87,
+            "dobutamine",
+            "Chemical",
+            "D004280"
+        ],
+        [
+            124,
+            136,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            328,
+            340,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            397,
+            407,
+            "dobutamine",
+            "Chemical",
+            "D004280"
+        ]
+    ],
+    "split_sentence": [
+        "Hypertensive response during dobutamine stress echocardiography.",
+        "Among 3,129 dobutamine stress echocardiographic studies, a hypertensive response, defined as systolic blood pressure (BP) > or = 220 mm Hg and/or diastolic BP > or = 110 mm Hg, occurred in 30 patients (1%).",
+        "Patients with this response more often had a history of hypertension and had higher resting systolic and diastolic BP before dobutamine infusion."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006973\tDisease\tHypertensive\t<target> Hypertensive </target> response during dobutamine stress echocardiography .",
+        "D004280\tChemical\tdobutamine\tHypertensive response during <target> dobutamine </target> stress echocardiography .",
+        "D004280\tChemical\tdobutamine\tAmong 3,129 <target> dobutamine </target> stress echocardiographic studies , a hypertensive response , defined as systolic blood pressure ( BP ) > or = 220 mm Hg and/or diastolic BP > or = 110 mm Hg , occurred in 30 patients ( 1 % ) .",
+        "D006973\tDisease\thypertensive\tAmong 3,129 dobutamine stress echocardiographic studies , a <target> hypertensive </target> response , defined as systolic blood pressure ( BP ) > or = 220 mm Hg and/or diastolic BP > or = 110 mm Hg , occurred in 30 patients ( 1 % ) .",
+        "D006973\tDisease\thypertension\tPatients with this response more often had a history of <target> hypertension </target> and had higher resting systolic and diastolic BP before dobutamine infusion .",
+        "D004280\tChemical\tdobutamine\tPatients with this response more often had a history of hypertension and had higher resting systolic and diastolic BP before <target> dobutamine </target> infusion ."
+    ],
+    "lines_lemma": [
+        "D006973\tDisease\tHypertensive\t<target> Hypertensive </target> response during dobutamine stress echocardiography .",
+        "D004280\tChemical\tdobutamine\thypertensive response during <target> dobutamine </target> stress echocardiography .",
+        "D004280\tChemical\tdobutamine\tamong 3,129 <target> dobutamine </target> stress echocardiographic study , a hypertensive response , define as systolic blood pressure ( bp ) > or = 220 mm hg and/or diastolic bp > or = 110 mm Hg , occur in 30 patient ( 1 % ) .",
+        "D006973\tDisease\thypertensive\tamong 3,129 dobutamine stress echocardiographic study , a <target> hypertensive </target> response , define as systolic blood pressure ( bp ) > or = 220 mm hg and/or diastolic bp > or = 110 mm Hg , occur in 30 patient ( 1 % ) .",
+        "D006973\tDisease\thypertension\tpatient with this response more often have a history of <target> hypertension </target> and have high rest systolic and diastolic bp before dobutamine infusion .",
+        "D004280\tChemical\tdobutamine\tpatient with this response more often have a history of hypertension and have high rest systolic and diastolic bp before <target> dobutamine </target> infusion ."
+    ]
+}

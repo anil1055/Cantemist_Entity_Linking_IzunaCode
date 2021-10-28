@@ -1,0 +1,81 @@
+{
+    "title": "Fatal myeloencephalopathy due to intrathecal vincristine administration.",
+    "abst": "Vincristine was accidentally given intrathecally to a child with leukaemia, producing sensory and motor dysfunction followed by encephalopathy and death. Separate times for administering vincristine and intrathecal therapy is recommended.",
+    "title_plus_abst": "Fatal myeloencephalopathy due to intrathecal vincristine administration. Vincristine was accidentally given intrathecally to a child with leukaemia, producing sensory and motor dysfunction followed by encephalopathy and death. Separate times for administering vincristine and intrathecal therapy is recommended.",
+    "pubmed_id": "1280054",
+    "entities": [
+        [
+            6,
+            25,
+            "myeloencephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            45,
+            56,
+            "vincristine",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            73,
+            84,
+            "Vincristine",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            138,
+            147,
+            "leukaemia",
+            "Disease",
+            "D007938"
+        ],
+        [
+            159,
+            188,
+            "sensory and motor dysfunction",
+            "Disease",
+            "D007049"
+        ],
+        [
+            201,
+            215,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            260,
+            271,
+            "vincristine",
+            "Chemical",
+            "D014750"
+        ]
+    ],
+    "split_sentence": [
+        "Fatal myeloencephalopathy due to intrathecal vincristine administration.",
+        "Vincristine was accidentally given intrathecally to a child with leukaemia, producing sensory and motor dysfunction followed by encephalopathy and death.",
+        "Separate times for administering vincristine and intrathecal therapy is recommended."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001927\tDisease\tmyeloencephalopathy\tFatal <target> myeloencephalopathy </target> due to intrathecal vincristine administration .",
+        "D014750\tChemical\tvincristine\tFatal myeloencephalopathy due to intrathecal <target> vincristine </target> administration .",
+        "D014750\tChemical\tVincristine\t<target> Vincristine </target> was accidentally given intrathecally to a child with leukaemia , producing sensory and motor dysfunction followed by encephalopathy and death .",
+        "D007938\tDisease\tleukaemia\tVincristine was accidentally given intrathecally to a child with <target> leukaemia </target> , producing sensory and motor dysfunction followed by encephalopathy and death .",
+        "D007049\tDisease\tsensory and motor dysfunction\tVincristine was accidentally given intrathecally to a child with leukaemia , producing <target> sensory and motor dysfunction </target> followed by encephalopathy and death .",
+        "D001927\tDisease\tencephalopathy\tVincristine was accidentally given intrathecally to a child with leukaemia , producing sensory and motor dysfunction followed by <target> encephalopathy </target> and death .",
+        "D014750\tChemical\tvincristine\tSeparate times for administering <target> vincristine </target> and intrathecal therapy is recommended ."
+    ],
+    "lines_lemma": [
+        "D001927\tDisease\tmyeloencephalopathy\tfatal <target> myeloencephalopathy </target> due to intrathecal vincristine administration .",
+        "D014750\tChemical\tvincristine\tfatal myeloencephalopathy due to intrathecal <target> vincristine </target> administration .",
+        "D014750\tChemical\tVincristine\t<target> Vincristine </target> be accidentally give intrathecally to a child with leukaemia , produce sensory and motor dysfunction follow by encephalopathy and death .",
+        "D007938\tDisease\tleukaemia\tVincristine be accidentally give intrathecally to a child with <target> leukaemia </target> , produce sensory and motor dysfunction follow by encephalopathy and death .",
+        "D007049\tDisease\tsensory and motor dysfunction\tVincristine be accidentally give intrathecally to a child with leukaemia , produce <target> sensory and motor dysfunction </target> follow by encephalopathy and death .",
+        "D001927\tDisease\tencephalopathy\tVincristine be accidentally give intrathecally to a child with leukaemia , produce sensory and motor dysfunction follow by <target> encephalopathy </target> and death .",
+        "D014750\tChemical\tvincristine\tseparate time for administer <target> vincristine </target> and intrathecal therapy be recommend ."
+    ]
+}

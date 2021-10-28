@@ -1,0 +1,129 @@
+{
+    "title": "Seizure after flumazenil administration in a pediatric patient.",
+    "abst": "Flumazenil is a benzodiazepine receptor antagonist used to reverse sedation and respiratory depression induced by benzodiazepines. Seizures and cardiac arrhythmias have complicated its use in adult patients. Overdose patients who have coingested tricyclic antidepressants have a higher risk of these complications. Little information exists concerning adverse effects of flumazenil in children. We report the occurrence of a generalized tonic-clonic seizure in a pediatric patient following the administration of flumazenil.",
+    "title_plus_abst": "Seizure after flumazenil administration in a pediatric patient. Flumazenil is a benzodiazepine receptor antagonist used to reverse sedation and respiratory depression induced by benzodiazepines. Seizures and cardiac arrhythmias have complicated its use in adult patients. Overdose patients who have coingested tricyclic antidepressants have a higher risk of these complications. Little information exists concerning adverse effects of flumazenil in children. We report the occurrence of a generalized tonic-clonic seizure in a pediatric patient following the administration of flumazenil.",
+    "pubmed_id": "7651879",
+    "entities": [
+        [
+            0,
+            7,
+            "Seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            14,
+            24,
+            "flumazenil",
+            "Chemical",
+            "D005442"
+        ],
+        [
+            64,
+            74,
+            "Flumazenil",
+            "Chemical",
+            "D005442"
+        ],
+        [
+            80,
+            94,
+            "benzodiazepine",
+            "Chemical",
+            "D001569"
+        ],
+        [
+            144,
+            166,
+            "respiratory depression",
+            "Disease",
+            "D012131"
+        ],
+        [
+            178,
+            193,
+            "benzodiazepines",
+            "Chemical",
+            "D001569"
+        ],
+        [
+            195,
+            203,
+            "Seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            208,
+            227,
+            "cardiac arrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            272,
+            280,
+            "Overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            435,
+            445,
+            "flumazenil",
+            "Chemical",
+            "D005442"
+        ],
+        [
+            501,
+            521,
+            "tonic-clonic seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            577,
+            587,
+            "flumazenil",
+            "Chemical",
+            "D005442"
+        ]
+    ],
+    "split_sentence": [
+        "Seizure after flumazenil administration in a pediatric patient.",
+        "Flumazenil is a benzodiazepine receptor antagonist used to reverse sedation and respiratory depression induced by benzodiazepines.",
+        "Seizures and cardiac arrhythmias have complicated its use in adult patients.",
+        "Overdose patients who have coingested tricyclic antidepressants have a higher risk of these complications.",
+        "Little information exists concerning adverse effects of flumazenil in children.",
+        "We report the occurrence of a generalized tonic-clonic seizure in a pediatric patient following the administration of flumazenil."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> after flumazenil administration in a pediatric patient .",
+        "D005442\tChemical\tflumazenil\tSeizure after <target> flumazenil </target> administration in a pediatric patient .",
+        "D005442\tChemical\tFlumazenil\t<target> Flumazenil </target> is a benzodiazepine receptor antagonist used to reverse sedation and respiratory depression induced by benzodiazepines .",
+        "D001569\tChemical\tbenzodiazepine\tFlumazenil is a <target> benzodiazepine </target> receptor antagonist used to reverse sedation and respiratory depression induced by benzodiazepines .",
+        "D012131\tDisease\trespiratory depression\tFlumazenil is a benzodiazepine receptor antagonist used to reverse sedation and <target> respiratory depression </target> induced by benzodiazepines .",
+        "D001569\tChemical\tbenzodiazepines\tFlumazenil is a benzodiazepine receptor antagonist used to reverse sedation and respiratory depression induced by <target> benzodiazepines </target> .",
+        "D012640\tDisease\tSeizures\t<target> Seizures </target> and cardiac arrhythmias have complicated its use in adult patients .",
+        "D001145\tDisease\tcardiac arrhythmias\tSeizures and <target> cardiac arrhythmias </target> have complicated its use in adult patients .",
+        "D062787\tDisease\tOverdose\t<target> Overdose </target> patients who have coingested tricyclic antidepressants have a higher risk of these complications .",
+        "D005442\tChemical\tflumazenil\tLittle information exists concerning adverse effects of <target> flumazenil </target> in children .",
+        "D012640\tDisease\ttonic-clonic seizure\tWe report the occurrence of a generalized <target> tonic-clonic seizure </target> in a pediatric patient following the administration of flumazenil .",
+        "D005442\tChemical\tflumazenil\tWe report the occurrence of a generalized tonic-clonic seizure in a pediatric patient following the administration of <target> flumazenil </target> ."
+    ],
+    "lines_lemma": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> after flumazenil administration in a pediatric patient .",
+        "D005442\tChemical\tflumazenil\tseizure after <target> flumazenil </target> administration in a pediatric patient .",
+        "D005442\tChemical\tFlumazenil\t<target> Flumazenil </target> be a benzodiazepine receptor antagonist use to reverse sedation and respiratory depression induce by benzodiazepine .",
+        "D001569\tChemical\tbenzodiazepine\tflumazenil be a <target> benzodiazepine </target> receptor antagonist use to reverse sedation and respiratory depression induce by benzodiazepine .",
+        "D012131\tDisease\trespiratory depression\tflumazenil be a benzodiazepine receptor antagonist use to reverse sedation and <target> respiratory depression </target> induce by benzodiazepine .",
+        "D001569\tChemical\tbenzodiazepines\tflumazenil be a benzodiazepine receptor antagonist use to reverse sedation and respiratory depression induce by <target> benzodiazepine </target> .",
+        "D012640\tDisease\tSeizures\t<target> seizure </target> and cardiac arrhythmia have complicate its use in adult patient .",
+        "D001145\tDisease\tcardiac arrhythmias\tseizure and <target> cardiac arrhythmia </target> have complicate its use in adult patient .",
+        "D062787\tDisease\tOverdose\t<target> overdose </target> patient who have coingeste tricyclic antidepressant have a high risk of these complication .",
+        "D005442\tChemical\tflumazenil\tlittle information exist concern adverse effect of <target> flumazenil </target> in child .",
+        "D012640\tDisease\ttonic-clonic seizure\twe report the occurrence of a generalized <target> tonic-clonic seizure </target> in a pediatric patient follow the administration of flumazenil .",
+        "D005442\tChemical\tflumazenil\twe report the occurrence of a generalized tonic-clonic seizure in a pediatric patient follow the administration of <target> flumazenil </target> ."
+    ]
+}

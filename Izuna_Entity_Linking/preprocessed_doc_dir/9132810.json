@@ -1,0 +1,83 @@
+{
+    "title": "Treatment-related disseminated necrotizing leukoencephalopathy with characteristic contrast enhancement of the white matter.",
+    "abst": "This report describes unique contrast enhancement of the white matter on T1-weighted magnetic resonance images of two patients with disseminated necrotizing leukoencephalopathy, which developed from acute lymphoblastic leukemia treated with high-dose methotrexate. In both patients, the enhancement was more pronounced near the base of the brain than at the vertex. Necropsy of the first case revealed loss of myelination and necrosis of the white matter. Possible mechanisms causing such a leukoencephalopathy are discussed.",
+    "title_plus_abst": "Treatment-related disseminated necrotizing leukoencephalopathy with characteristic contrast enhancement of the white matter. This report describes unique contrast enhancement of the white matter on T1-weighted magnetic resonance images of two patients with disseminated necrotizing leukoencephalopathy, which developed from acute lymphoblastic leukemia treated with high-dose methotrexate. In both patients, the enhancement was more pronounced near the base of the brain than at the vertex. Necropsy of the first case revealed loss of myelination and necrosis of the white matter. Possible mechanisms causing such a leukoencephalopathy are discussed.",
+    "pubmed_id": "9132810",
+    "entities": [
+        [
+            43,
+            62,
+            "leukoencephalopathy",
+            "Disease",
+            "D056784"
+        ],
+        [
+            282,
+            301,
+            "leukoencephalopathy",
+            "Disease",
+            "D056784"
+        ],
+        [
+            324,
+            352,
+            "acute lymphoblastic leukemia",
+            "Disease",
+            "D054198"
+        ],
+        [
+            376,
+            388,
+            "methotrexate",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            527,
+            546,
+            "loss of myelination",
+            "Disease",
+            "D003711"
+        ],
+        [
+            551,
+            559,
+            "necrosis",
+            "Disease",
+            "D009336"
+        ],
+        [
+            616,
+            635,
+            "leukoencephalopathy",
+            "Disease",
+            "D056784"
+        ]
+    ],
+    "split_sentence": [
+        "Treatment-related disseminated necrotizing leukoencephalopathy with characteristic contrast enhancement of the white matter.",
+        "This report describes unique contrast enhancement of the white matter on T1-weighted magnetic resonance images of two patients with disseminated necrotizing leukoencephalopathy, which developed from acute lymphoblastic leukemia treated with high-dose methotrexate.",
+        "In both patients, the enhancement was more pronounced near the base of the brain than at the vertex.",
+        "Necropsy of the first case revealed loss of myelination and necrosis of the white matter.",
+        "Possible mechanisms causing such a leukoencephalopathy are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056784\tDisease\tleukoencephalopathy\tTreatment-related disseminated necrotizing <target> leukoencephalopathy </target> with characteristic contrast enhancement of the white matter .",
+        "D056784\tDisease\tleukoencephalopathy\tThis report describes unique contrast enhancement of the white matter on T1-weighted magnetic resonance images of two patients with disseminated necrotizing <target> leukoencephalopathy </target> , which developed from acute lymphoblastic leukemia treated with high-dose methotrexate .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tThis report describes unique contrast enhancement of the white matter on T1-weighted magnetic resonance images of two patients with disseminated necrotizing leukoencephalopathy , which developed from <target> acute lymphoblastic leukemia </target> treated with high-dose methotrexate .",
+        "D008727\tChemical\tmethotrexate\tThis report describes unique contrast enhancement of the white matter on T1-weighted magnetic resonance images of two patients with disseminated necrotizing leukoencephalopathy , which developed from acute lymphoblastic leukemia treated with high-dose <target> methotrexate </target> .",
+        "D003711\tDisease\tloss of myelination\tNecropsy of the first case revealed <target> loss of myelination </target> and necrosis of the white matter .",
+        "D009336\tDisease\tnecrosis\tNecropsy of the first case revealed loss of myelination and <target> necrosis </target> of the white matter .",
+        "D056784\tDisease\tleukoencephalopathy\tPossible mechanisms causing such a <target> leukoencephalopathy </target> are discussed ."
+    ],
+    "lines_lemma": [
+        "D056784\tDisease\tleukoencephalopathy\ttreatment-related disseminate necrotize <target> leukoencephalopathy </target> with characteristic contrast enhancement of the white matter .",
+        "D056784\tDisease\tleukoencephalopathy\tthis report describe unique contrast enhancement of the white matter on t1-weighted magnetic resonance image of two patient with disseminate necrotizing <target> leukoencephalopathy </target> , which develop from acute lymphoblastic leukemia treat with high-dose methotrexate .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tthis report describe unique contrast enhancement of the white matter on t1-weighted magnetic resonance image of two patient with disseminate necrotizing leukoencephalopathy , which develop from <target> acute lymphoblastic leukemia </target> treat with high-dose methotrexate .",
+        "D008727\tChemical\tmethotrexate\tthis report describe unique contrast enhancement of the white matter on t1-weighted magnetic resonance image of two patient with disseminate necrotizing leukoencephalopathy , which develop from acute lymphoblastic leukemia treat with high-dose <target> methotrexate </target> .",
+        "D003711\tDisease\tloss of myelination\tNecropsy of the first case reveal <target> loss of myelination </target> and necrosis of the white matter .",
+        "D009336\tDisease\tnecrosis\tNecropsy of the first case reveal loss of myelination and <target> necrosis </target> of the white matter .",
+        "D056784\tDisease\tleukoencephalopathy\tpossible mechanism cause such a <target> leukoencephalopathy </target> be discuss ."
+    ]
+}

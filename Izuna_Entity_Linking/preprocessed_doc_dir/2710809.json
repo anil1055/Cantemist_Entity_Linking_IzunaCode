@@ -1,0 +1,136 @@
+{
+    "title": "Bradycardia due to biperiden.",
+    "abst": "In a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia, intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia, dysarthria, and dysphagia. The heart rate was back to normal within 12 hours upon administration of orciprenaline under cardiac monitoring in an intensive care unit. Bradycardia induced by biperiden is attributed to the speed of injection and to a dose-related dual effect of atropine-like drugs on muscarine receptors.",
+    "title_plus_abst": "Bradycardia due to biperiden. In a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia, intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia, dysarthria, and dysphagia. The heart rate was back to normal within 12 hours upon administration of orciprenaline under cardiac monitoring in an intensive care unit. Bradycardia induced by biperiden is attributed to the speed of injection and to a dose-related dual effect of atropine-like drugs on muscarine receptors.",
+    "pubmed_id": "2710809",
+    "entities": [
+        [
+            0,
+            11,
+            "Bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            19,
+            28,
+            "biperiden",
+            "Chemical",
+            "D001712"
+        ],
+        [
+            84,
+            96,
+            "postzosteric",
+            "Disease",
+            "D006562"
+        ],
+        [
+            97,
+            117,
+            "trigeminal neuralgia",
+            "Disease",
+            "D014277"
+        ],
+        [
+            152,
+            169,
+            "biperiden lactate",
+            "Chemical",
+            "C036432"
+        ],
+        [
+            243,
+            254,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            256,
+            266,
+            "dysarthria",
+            "Disease",
+            "D004401"
+        ],
+        [
+            272,
+            281,
+            "dysphagia",
+            "Disease",
+            "D003680"
+        ],
+        [
+            356,
+            369,
+            "orciprenaline",
+            "Chemical",
+            "D009921"
+        ],
+        [
+            422,
+            433,
+            "Bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            445,
+            454,
+            "biperiden",
+            "Chemical",
+            "D001712"
+        ],
+        [
+            532,
+            540,
+            "atropine",
+            "Chemical",
+            "D001285"
+        ],
+        [
+            555,
+            564,
+            "muscarine",
+            "Chemical",
+            "D009116"
+        ]
+    ],
+    "split_sentence": [
+        "Bradycardia due to biperiden.",
+        "In a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia, intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia, dysarthria, and dysphagia.",
+        "The heart rate was back to normal within 12 hours upon administration of orciprenaline under cardiac monitoring in an intensive care unit.",
+        "Bradycardia induced by biperiden is attributed to the speed of injection and to a dose-related dual effect of atropine-like drugs on muscarine receptors."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001919\tDisease\tBradycardia\t<target> Bradycardia </target> due to biperiden .",
+        "D001712\tChemical\tbiperiden\tBradycardia due to <target> biperiden </target> .",
+        "D006562\tDisease\tpostzosteric\tIn a 38-year-old male patient suffering from a severe <target> postzosteric </target> trigeminal neuralgia , intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia , dysarthria , and dysphagia .",
+        "D014277\tDisease\ttrigeminal neuralgia\tIn a 38-year-old male patient suffering from a severe postzosteric <target> trigeminal neuralgia </target> , intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia , dysarthria , and dysphagia .",
+        "C036432\tChemical\tbiperiden lactate\tIn a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg <target> biperiden lactate </target> led to a long-lasting paradoxical reaction characterized by considerable bradycardia , dysarthria , and dysphagia .",
+        "D001919\tDisease\tbradycardia\tIn a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable <target> bradycardia </target> , dysarthria , and dysphagia .",
+        "D004401\tDisease\tdysarthria\tIn a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia , <target> dysarthria </target> , and dysphagia .",
+        "D003680\tDisease\tdysphagia\tIn a 38-year-old male patient suffering from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg biperiden lactate led to a long-lasting paradoxical reaction characterized by considerable bradycardia , dysarthria , and <target> dysphagia </target> .",
+        "D009921\tChemical\torciprenaline\tThe heart rate was back to normal within 12 hours upon administration of <target> orciprenaline </target> under cardiac monitoring in an intensive care unit .",
+        "D001919\tDisease\tBradycardia\t<target> Bradycardia </target> induced by biperiden is attributed to the speed of injection and to a dose-related dual effect of atropine-like drugs on muscarine receptors .",
+        "D001712\tChemical\tbiperiden\tBradycardia induced by <target> biperiden </target> is attributed to the speed of injection and to a dose-related dual effect of atropine-like drugs on muscarine receptors .",
+        "D001285\tChemical\tatropine\tBradycardia induced by biperiden is attributed to the speed of injection and to a dose-related dual effect of <target> atropine </target> -like drugs on muscarine receptors .",
+        "D009116\tChemical\tmuscarine\tBradycardia induced by biperiden is attributed to the speed of injection and to a dose-related dual effect of atropine-like drugs on <target> muscarine </target> receptors ."
+    ],
+    "lines_lemma": [
+        "D001919\tDisease\tBradycardia\t<target> bradycardia </target> due to biperiden .",
+        "D001712\tChemical\tbiperiden\tBradycardia due to <target> biperiden </target> .",
+        "D006562\tDisease\tpostzosteric\tin a 38-year-old male patient suffer from a severe <target> postzosteric </target> trigeminal neuralgia , intravenous application of 10 mg biperiden lactate lead to a long-lasting paradoxical reaction characterize by considerable bradycardia , dysarthria , and dysphagia .",
+        "D014277\tDisease\ttrigeminal neuralgia\tin a 38-year-old male patient suffer from a severe postzosteric <target> trigeminal neuralgia </target> , intravenous application of 10 mg biperiden lactate lead to a long-lasting paradoxical reaction characterize by considerable bradycardia , dysarthria , and dysphagia .",
+        "C036432\tChemical\tbiperiden lactate\tin a 38-year-old male patient suffer from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg <target> biperiden lactate </target> lead to a long-lasting paradoxical reaction characterize by considerable bradycardia , dysarthria , and dysphagia .",
+        "D001919\tDisease\tbradycardia\tin a 38-year-old male patient suffer from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg biperiden lactate lead to a long-lasting paradoxical reaction characterize by considerable <target> bradycardia </target> , dysarthria , and dysphagia .",
+        "D004401\tDisease\tdysarthria\tin a 38-year-old male patient suffer from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg biperiden lactate lead to a long-lasting paradoxical reaction characterize by considerable bradycardia , <target> dysarthria </target> , and dysphagia .",
+        "D003680\tDisease\tdysphagia\tin a 38-year-old male patient suffer from a severe postzosteric trigeminal neuralgia , intravenous application of 10 mg biperiden lactate lead to a long-lasting paradoxical reaction characterize by considerable bradycardia , dysarthria , and <target> dysphagia </target> .",
+        "D009921\tChemical\torciprenaline\tthe heart rate be back to normal within 12 hour upon administration of <target> orciprenaline </target> under cardiac monitoring in an intensive care unit .",
+        "D001919\tDisease\tBradycardia\t<target> bradycardia </target> induce by biperiden be attribute to the speed of injection and to a dose-related dual effect of atropine-like drug on muscarine receptor .",
+        "D001712\tChemical\tbiperiden\tBradycardia induce by <target> biperiden </target> be attribute to the speed of injection and to a dose-related dual effect of atropine-like drug on muscarine receptor .",
+        "D001285\tChemical\tatropine\tBradycardia induce by biperiden be attribute to the speed of injection and to a dose-related dual effect of <target> atropine </target> -like drug on muscarine receptor .",
+        "D009116\tChemical\tmuscarine\tBradycardia induce by biperiden be attribute to the speed of injection and to a dose-related dual effect of atropine-like drug on <target> muscarine </target> receptor ."
+    ]
+}

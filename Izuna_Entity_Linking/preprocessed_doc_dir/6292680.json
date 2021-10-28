@@ -1,0 +1,136 @@
+{
+    "title": "Doxorubicin cardiomyopathy in children with left-sided Wilms tumor.",
+    "abst": "Two children with Wilms tumor of the left kidney experienced severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin. The cardiomyopathy is attributed 1) to the fact that radiation fields for left Wilms tumor include the lower portion of the heart and 2) to the interaction of doxorubicin and irradiation on cardiac muscle. It is recommended that doxorubicin dosage be sharply restricted in children with Wilms tumor of the left kidney who receive postoperative irradiation.",
+    "title_plus_abst": "Doxorubicin cardiomyopathy in children with left-sided Wilms tumor. Two children with Wilms tumor of the left kidney experienced severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin. The cardiomyopathy is attributed 1) to the fact that radiation fields for left Wilms tumor include the lower portion of the heart and 2) to the interaction of doxorubicin and irradiation on cardiac muscle. It is recommended that doxorubicin dosage be sharply restricted in children with Wilms tumor of the left kidney who receive postoperative irradiation.",
+    "pubmed_id": "6292680",
+    "entities": [
+        [
+            0,
+            11,
+            "Doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            12,
+            26,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            55,
+            66,
+            "Wilms tumor",
+            "Disease",
+            "D009396"
+        ],
+        [
+            86,
+            97,
+            "Wilms tumor",
+            "Disease",
+            "D009396"
+        ],
+        [
+            136,
+            149,
+            "anthracycline",
+            "Chemical",
+            "D018943"
+        ],
+        [
+            150,
+            164,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            190,
+            195,
+            "tumor",
+            "Disease",
+            "D009369"
+        ],
+        [
+            227,
+            238,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            244,
+            258,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            319,
+            330,
+            "Wilms tumor",
+            "Disease",
+            "D009396"
+        ],
+        [
+            399,
+            410,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            469,
+            480,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            527,
+            538,
+            "Wilms tumor",
+            "Disease",
+            "D009396"
+        ]
+    ],
+    "split_sentence": [
+        "Doxorubicin cardiomyopathy in children with left-sided Wilms tumor.",
+        "Two children with Wilms tumor of the left kidney experienced severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin.",
+        "The cardiomyopathy is attributed 1) to the fact that radiation fields for left Wilms tumor include the lower portion of the heart and 2) to the interaction of doxorubicin and irradiation on cardiac muscle.",
+        "It is recommended that doxorubicin dosage be sharply restricted in children with Wilms tumor of the left kidney who receive postoperative irradiation."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> cardiomyopathy in children with left-sided Wilms tumor .",
+        "D009202\tDisease\tcardiomyopathy\tDoxorubicin <target> cardiomyopathy </target> in children with left-sided Wilms tumor .",
+        "D009396\tDisease\tWilms tumor\tDoxorubicin cardiomyopathy in children with left-sided <target> Wilms tumor </target> .",
+        "D009396\tDisease\tWilms tumor\tTwo children with <target> Wilms tumor </target> of the left kidney experienced severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin .",
+        "D018943\tChemical\tanthracycline\tTwo children with Wilms tumor of the left kidney experienced severe <target> anthracycline </target> cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin .",
+        "D009202\tDisease\tcardiomyopathy\tTwo children with Wilms tumor of the left kidney experienced severe anthracycline <target> cardiomyopathy </target> after irradiation to the tumor bed and conventional dosage of doxorubicin .",
+        "D009369\tDisease\ttumor\tTwo children with Wilms tumor of the left kidney experienced severe anthracycline cardiomyopathy after irradiation to the <target> tumor </target> bed and conventional dosage of doxorubicin .",
+        "D004317\tChemical\tdoxorubicin\tTwo children with Wilms tumor of the left kidney experienced severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of <target> doxorubicin </target> .",
+        "D009202\tDisease\tcardiomyopathy\tThe <target> cardiomyopathy </target> is attributed 1 ) to the fact that radiation fields for left Wilms tumor include the lower portion of the heart and 2 ) to the interaction of doxorubicin and irradiation on cardiac muscle .",
+        "D009396\tDisease\tWilms tumor\tThe cardiomyopathy is attributed 1 ) to the fact that radiation fields for left <target> Wilms tumor </target> include the lower portion of the heart and 2 ) to the interaction of doxorubicin and irradiation on cardiac muscle .",
+        "D004317\tChemical\tdoxorubicin\tThe cardiomyopathy is attributed 1 ) to the fact that radiation fields for left Wilms tumor include the lower portion of the heart and 2 ) to the interaction of <target> doxorubicin </target> and irradiation on cardiac muscle .",
+        "D004317\tChemical\tdoxorubicin\tIt is recommended that <target> doxorubicin </target> dosage be sharply restricted in children with Wilms tumor of the left kidney who receive postoperative irradiation .",
+        "D009396\tDisease\tWilms tumor\tIt is recommended that doxorubicin dosage be sharply restricted in children with <target> Wilms tumor </target> of the left kidney who receive postoperative irradiation ."
+    ],
+    "lines_lemma": [
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> cardiomyopathy in child with left-sided wilms tumor .",
+        "D009202\tDisease\tcardiomyopathy\tdoxorubicin <target> cardiomyopathy </target> in child with left-sided wilms tumor .",
+        "D009396\tDisease\tWilms tumor\tdoxorubicin cardiomyopathy in child with left-sided <target> wilms tumor </target> .",
+        "D009396\tDisease\tWilms tumor\ttwo child with <target> wilms tumor </target> of the left kidney experience severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin .",
+        "D018943\tChemical\tanthracycline\ttwo child with wilms tumor of the left kidney experience severe <target> anthracycline </target> cardiomyopathy after irradiation to the tumor bed and conventional dosage of doxorubicin .",
+        "D009202\tDisease\tcardiomyopathy\ttwo child with wilms tumor of the left kidney experience severe anthracycline <target> cardiomyopathy </target> after irradiation to the tumor bed and conventional dosage of doxorubicin .",
+        "D009369\tDisease\ttumor\ttwo child with wilms tumor of the left kidney experience severe anthracycline cardiomyopathy after irradiation to the <target> tumor </target> bed and conventional dosage of doxorubicin .",
+        "D004317\tChemical\tdoxorubicin\ttwo child with wilms tumor of the left kidney experience severe anthracycline cardiomyopathy after irradiation to the tumor bed and conventional dosage of <target> doxorubicin </target> .",
+        "D009202\tDisease\tcardiomyopathy\tthe <target> cardiomyopathy </target> be attribute 1 ) to the fact that radiation field for leave wilms tumor include the low portion of the heart and 2 ) to the interaction of doxorubicin and irradiation on cardiac muscle .",
+        "D009396\tDisease\tWilms tumor\tthe cardiomyopathy be attribute 1 ) to the fact that radiation field for leave <target> wilms tumor </target> include the low portion of the heart and 2 ) to the interaction of doxorubicin and irradiation on cardiac muscle .",
+        "D004317\tChemical\tdoxorubicin\tthe cardiomyopathy be attribute 1 ) to the fact that radiation field for leave wilms tumor include the low portion of the heart and 2 ) to the interaction of <target> doxorubicin </target> and irradiation on cardiac muscle .",
+        "D004317\tChemical\tdoxorubicin\tit be recommend that <target> doxorubicin </target> dosage be sharply restricted in child with wilms tumor of the left kidney who receive postoperative irradiation .",
+        "D009396\tDisease\tWilms tumor\tit be recommend that doxorubicin dosage be sharply restricted in child with <target> wilms tumor </target> of the left kidney who receive postoperative irradiation ."
+    ]
+}

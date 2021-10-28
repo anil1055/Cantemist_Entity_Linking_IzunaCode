@@ -1,0 +1,108 @@
+{
+    "title": "Amiodarone-induced sinoatrial block.",
+    "abst": "We observed sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy, Wolff-Parkinson-White syndrome and supraventricular tachycardia. Reduction in the dosage of amiodarone resulted in the disappearance of the sinoatrial block and the persistence of asymptomatic sinus bradycardia.",
+    "title_plus_abst": "Amiodarone-induced sinoatrial block. We observed sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy, Wolff-Parkinson-White syndrome and supraventricular tachycardia. Reduction in the dosage of amiodarone resulted in the disappearance of the sinoatrial block and the persistence of asymptomatic sinus bradycardia.",
+    "pubmed_id": "4008111",
+    "entities": [
+        [
+            0,
+            10,
+            "Amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            19,
+            35,
+            "sinoatrial block",
+            "Disease",
+            "D012848"
+        ],
+        [
+            49,
+            65,
+            "sinoatrial block",
+            "Disease",
+            "D012848"
+        ],
+        [
+            81,
+            91,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            132,
+            154,
+            "primary cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            156,
+            186,
+            "Wolff-Parkinson-White syndrome",
+            "Disease",
+            "D014927"
+        ],
+        [
+            191,
+            219,
+            "supraventricular tachycardia",
+            "Disease",
+            "D013617"
+        ],
+        [
+            248,
+            258,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            296,
+            312,
+            "sinoatrial block",
+            "Disease",
+            "D012848"
+        ],
+        [
+            349,
+            366,
+            "sinus bradycardia",
+            "Disease",
+            "D012804"
+        ]
+    ],
+    "split_sentence": [
+        "Amiodarone-induced sinoatrial block.",
+        "We observed sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy, Wolff-Parkinson-White syndrome and supraventricular tachycardia.",
+        "Reduction in the dosage of amiodarone resulted in the disappearance of the sinoatrial block and the persistence of asymptomatic sinus bradycardia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> -induced sinoatrial block .",
+        "D012848\tDisease\tsinoatrial block\tAmiodarone-induced <target> sinoatrial block </target> .",
+        "D012848\tDisease\tsinoatrial block\tWe observed <target> sinoatrial block </target> due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy , Wolff-Parkinson-White syndrome and supraventricular tachycardia .",
+        "D000638\tChemical\tamiodarone\tWe observed sinoatrial block due to chronic <target> amiodarone </target> administration in a 5-year-old boy with primary cardiomyopathy , Wolff-Parkinson-White syndrome and supraventricular tachycardia .",
+        "D009202\tDisease\tprimary cardiomyopathy\tWe observed sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with <target> primary cardiomyopathy </target> , Wolff-Parkinson-White syndrome and supraventricular tachycardia .",
+        "D014927\tDisease\tWolff-Parkinson-White syndrome\tWe observed sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy , <target> Wolff-Parkinson-White syndrome </target> and supraventricular tachycardia .",
+        "D013617\tDisease\tsupraventricular tachycardia\tWe observed sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy , Wolff-Parkinson-White syndrome and <target> supraventricular tachycardia </target> .",
+        "D000638\tChemical\tamiodarone\tReduction in the dosage of <target> amiodarone </target> resulted in the disappearance of the sinoatrial block and the persistence of asymptomatic sinus bradycardia .",
+        "D012848\tDisease\tsinoatrial block\tReduction in the dosage of amiodarone resulted in the disappearance of the <target> sinoatrial block </target> and the persistence of asymptomatic sinus bradycardia .",
+        "D012804\tDisease\tsinus bradycardia\tReduction in the dosage of amiodarone resulted in the disappearance of the sinoatrial block and the persistence of asymptomatic <target> sinus bradycardia </target> ."
+    ],
+    "lines_lemma": [
+        "D000638\tChemical\tAmiodarone\t<target> amiodarone </target> -induced sinoatrial block .",
+        "D012848\tDisease\tsinoatrial block\tamiodarone-induced <target> sinoatrial block </target> .",
+        "D012848\tDisease\tsinoatrial block\twe observe <target> sinoatrial block </target> due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy , wolff-parkinson-white syndrome and supraventricular tachycardia .",
+        "D000638\tChemical\tamiodarone\twe observe sinoatrial block due to chronic <target> amiodarone </target> administration in a 5-year-old boy with primary cardiomyopathy , wolff-parkinson-white syndrome and supraventricular tachycardia .",
+        "D009202\tDisease\tprimary cardiomyopathy\twe observe sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with <target> primary cardiomyopathy </target> , wolff-parkinson-white syndrome and supraventricular tachycardia .",
+        "D014927\tDisease\tWolff-Parkinson-White syndrome\twe observe sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy , <target> wolff-parkinson-white syndrome </target> and supraventricular tachycardia .",
+        "D013617\tDisease\tsupraventricular tachycardia\twe observe sinoatrial block due to chronic amiodarone administration in a 5-year-old boy with primary cardiomyopathy , wolff-parkinson-white syndrome and <target> supraventricular tachycardia </target> .",
+        "D000638\tChemical\tamiodarone\treduction in the dosage of <target> amiodarone </target> result in the disappearance of the sinoatrial block and the persistence of asymptomatic sinus bradycardia .",
+        "D012848\tDisease\tsinoatrial block\treduction in the dosage of amiodarone result in the disappearance of the <target> sinoatrial block </target> and the persistence of asymptomatic sinus bradycardia .",
+        "D012804\tDisease\tsinus bradycardia\treduction in the dosage of amiodarone result in the disappearance of the sinoatrial block and the persistence of asymptomatic <target> sinus bradycardia </target> ."
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Bile duct hamartoma occurring in association with long-term treatment with danazol.",
+    "abst": "We report a case of bile duct hamartoma which developed in a patient who had been on long-term danazol treatment. Such patients should be under close follow-up, preferably with periodic ultrasound examination of the liver. If the patient develops a liver mass, because of non-specific clinical features and imaging appearances, biopsy may be the only way to achieve a definitive diagnosis.",
+    "title_plus_abst": "Bile duct hamartoma occurring in association with long-term treatment with danazol. We report a case of bile duct hamartoma which developed in a patient who had been on long-term danazol treatment. Such patients should be under close follow-up, preferably with periodic ultrasound examination of the liver. If the patient develops a liver mass, because of non-specific clinical features and imaging appearances, biopsy may be the only way to achieve a definitive diagnosis.",
+    "pubmed_id": "9293063",
+    "entities": [
+        [
+            75,
+            82,
+            "danazol",
+            "Chemical",
+            "D003613"
+        ],
+        [
+            179,
+            186,
+            "danazol",
+            "Chemical",
+            "D003613"
+        ],
+        [
+            333,
+            343,
+            "liver mass",
+            "Disease",
+            "D008107"
+        ]
+    ],
+    "split_sentence": [
+        "Bile duct hamartoma occurring in association with long-term treatment with danazol.",
+        "We report a case of bile duct hamartoma which developed in a patient who had been on long-term danazol treatment.",
+        "Such patients should be under close follow-up, preferably with periodic ultrasound examination of the liver.",
+        "If the patient develops a liver mass, because of non-specific clinical features and imaging appearances, biopsy may be the only way to achieve a definitive diagnosis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003613\tChemical\tdanazol\tBile duct hamartoma occurring in association with long-term treatment with <target> danazol </target> .",
+        "D003613\tChemical\tdanazol\tWe report a case of bile duct hamartoma which developed in a patient who had been on long-term <target> danazol </target> treatment .",
+        "D008107\tDisease\tliver mass\tIf the patient develops a <target> liver mass </target> , because of non-specific clinical features and imaging appearances , biopsy may be the only way to achieve a definitive diagnosis ."
+    ],
+    "lines_lemma": [
+        "D003613\tChemical\tdanazol\tbile duct hamartoma occur in association with long-term treatment with <target> danazol </target> .",
+        "D003613\tChemical\tdanazol\twe report a case of bile duct hamartoma which develop in a patient who have be on long-term <target> danazol </target> treatment .",
+        "D008107\tDisease\tliver mass\tif the patient develop a <target> liver mass </target> , because of non-specific clinical feature and imaging appearance , biopsy may be the only way to achieve a definitive diagnosis ."
+    ]
+}

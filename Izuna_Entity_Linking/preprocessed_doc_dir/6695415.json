@@ -1,0 +1,203 @@
+{
+    "title": "Cerebral hemorrhage associated with phenylpropanolamine in combination with caffeine.",
+    "abst": "Phenylpropanolamine (PPA) is a drug that has been associated with serious side effects including stroke. It is often combined with caffeine in diet preparations and \"look-alike\" pills. In order to determine if PPA/caffeine can lead to stroke in normotensive and/or hypertensive rats, we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days. Subarachnoid and cerebral hemorrhage was noted in 18% of the hypertensive rats. A single PPA/caffeine administration (same dose) lead to acute hypertension in both the normotensive and hypertensive animals. These results suggest that PPA/caffeine can lead to cerebral hemorrhage in previously hypertensive animals when administered in greater than the allowed dosage. An acute elevation in blood pressure may be a contributing factor.",
+    "title_plus_abst": "Cerebral hemorrhage associated with phenylpropanolamine in combination with caffeine. Phenylpropanolamine (PPA) is a drug that has been associated with serious side effects including stroke. It is often combined with caffeine in diet preparations and \"look-alike\" pills. In order to determine if PPA/caffeine can lead to stroke in normotensive and/or hypertensive rats, we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days. Subarachnoid and cerebral hemorrhage was noted in 18% of the hypertensive rats. A single PPA/caffeine administration (same dose) lead to acute hypertension in both the normotensive and hypertensive animals. These results suggest that PPA/caffeine can lead to cerebral hemorrhage in previously hypertensive animals when administered in greater than the allowed dosage. An acute elevation in blood pressure may be a contributing factor.",
+    "pubmed_id": "6695415",
+    "entities": [
+        [
+            0,
+            19,
+            "Cerebral hemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            36,
+            55,
+            "phenylpropanolamine",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            76,
+            84,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            86,
+            105,
+            "Phenylpropanolamine",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            107,
+            110,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            183,
+            189,
+            "stroke",
+            "Disease",
+            "D020521"
+        ],
+        [
+            217,
+            225,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            296,
+            299,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            300,
+            308,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            321,
+            327,
+            "stroke",
+            "Disease",
+            "D020521"
+        ],
+        [
+            351,
+            363,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            578,
+            590,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            606,
+            609,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            610,
+            618,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            660,
+            672,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            702,
+            714,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            751,
+            754,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            755,
+            763,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            776,
+            795,
+            "cerebral hemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            810,
+            822,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ]
+    ],
+    "split_sentence": [
+        "Cerebral hemorrhage associated with phenylpropanolamine in combination with caffeine.",
+        "Phenylpropanolamine (PPA) is a drug that has been associated with serious side effects including stroke.",
+        "It is often combined with caffeine in diet preparations and \"look-alike\" pills.",
+        "In order to determine if PPA/caffeine can lead to stroke in normotensive and/or hypertensive rats, we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days.",
+        "Subarachnoid and cerebral hemorrhage was noted in 18% of the hypertensive rats.",
+        "A single PPA/caffeine administration (same dose) lead to acute hypertension in both the normotensive and hypertensive animals.",
+        "These results suggest that PPA/caffeine can lead to cerebral hemorrhage in previously hypertensive animals when administered in greater than the allowed dosage.",
+        "An acute elevation in blood pressure may be a contributing factor."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002543\tDisease\tCerebral hemorrhage\t<target> Cerebral hemorrhage </target> associated with phenylpropanolamine in combination with caffeine .",
+        "D010665\tChemical\tphenylpropanolamine\tCerebral hemorrhage associated with <target> phenylpropanolamine </target> in combination with caffeine .",
+        "D002110\tChemical\tcaffeine\tCerebral hemorrhage associated with phenylpropanolamine in combination with <target> caffeine </target> .",
+        "D010665\tChemical\tPhenylpropanolamine\t<target> Phenylpropanolamine </target> ( PPA ) is a drug that has been associated with serious side effects including stroke .",
+        "D010665\tChemical\tPPA\tPhenylpropanolamine ( <target> PPA </target> ) is a drug that has been associated with serious side effects including stroke .",
+        "D020521\tDisease\tstroke\tPhenylpropanolamine ( PPA ) is a drug that has been associated with serious side effects including <target> stroke </target> .",
+        "D002110\tChemical\tcaffeine\tIt is often combined with <target> caffeine </target> in diet preparations and \" look-alike \" pills .",
+        "D010665\tChemical\tPPA\tIn order to determine if <target> PPA </target> /caffeine can lead to stroke in normotensive and/or hypertensive rats , we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days .",
+        "D002110\tChemical\tcaffeine\tIn order to determine if PPA/ <target> caffeine </target> can lead to stroke in normotensive and/or hypertensive rats , we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days .",
+        "D020521\tDisease\tstroke\tIn order to determine if PPA/caffeine can lead to <target> stroke </target> in normotensive and/or hypertensive rats , we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days .",
+        "D006973\tDisease\thypertensive\tIn order to determine if PPA/caffeine can lead to stroke in normotensive and/or <target> hypertensive </target> rats , we administered the combination in six times the allowed human dose calculated on a per weight basis for the rats two times per day for five days .",
+        "D006973\tDisease\thypertensive\tSubarachnoid and cerebral hemorrhage was noted in 18 % of the <target> hypertensive </target> rats .",
+        "D010665\tChemical\tPPA\tA single <target> PPA </target> /caffeine administration ( same dose ) lead to acute hypertension in both the normotensive and hypertensive animals .",
+        "D002110\tChemical\tcaffeine\tA single PPA/ <target> caffeine </target> administration ( same dose ) lead to acute hypertension in both the normotensive and hypertensive animals .",
+        "D006973\tDisease\thypertension\tA single PPA/caffeine administration ( same dose ) lead to acute <target> hypertension </target> in both the normotensive and hypertensive animals .",
+        "D006973\tDisease\thypertensive\tA single PPA/caffeine administration ( same dose ) lead to acute hypertension in both the normotensive and <target> hypertensive </target> animals .",
+        "D010665\tChemical\tPPA\tThese results suggest that <target> PPA </target> /caffeine can lead to cerebral hemorrhage in previously hypertensive animals when administered in greater than the allowed dosage .",
+        "D002110\tChemical\tcaffeine\tThese results suggest that PPA/ <target> caffeine </target> can lead to cerebral hemorrhage in previously hypertensive animals when administered in greater than the allowed dosage .",
+        "D002543\tDisease\tcerebral hemorrhage\tThese results suggest that PPA/caffeine can lead to <target> cerebral hemorrhage </target> in previously hypertensive animals when administered in greater than the allowed dosage .",
+        "D006973\tDisease\thypertensive\tThese results suggest that PPA/caffeine can lead to cerebral hemorrhage in previously <target> hypertensive </target> animals when administered in greater than the allowed dosage ."
+    ],
+    "lines_lemma": [
+        "D002543\tDisease\tCerebral hemorrhage\t<target> cerebral hemorrhage </target> associate with phenylpropanolamine in combination with caffeine .",
+        "D010665\tChemical\tphenylpropanolamine\tcerebral hemorrhage associate with <target> phenylpropanolamine </target> in combination with caffeine .",
+        "D002110\tChemical\tcaffeine\tcerebral hemorrhage associate with phenylpropanolamine in combination with <target> caffeine </target> .",
+        "D010665\tChemical\tPhenylpropanolamine\t<target> phenylpropanolamine </target> ( ppa ) be a drug that have be associate with serious side effect include stroke .",
+        "D010665\tChemical\tPPA\tphenylpropanolamine ( <target> ppa </target> ) be a drug that have be associate with serious side effect include stroke .",
+        "D020521\tDisease\tstroke\tphenylpropanolamine ( ppa ) be a drug that have be associate with serious side effect include <target> stroke </target> .",
+        "D002110\tChemical\tcaffeine\tit be often combine with <target> caffeine </target> in diet preparation and \" look-alike \" pill .",
+        "D010665\tChemical\tPPA\tin order to determine if <target> ppa </target> /caffeine can lead to stroke in normotensive and/or hypertensive rat , we administer the combination in six time the allow human dose calculate on a per weight basis for the rat two time per day for five day .",
+        "D002110\tChemical\tcaffeine\tin order to determine if ppa/ <target> caffeine </target> can lead to stroke in normotensive and/or hypertensive rat , we administer the combination in six time the allow human dose calculate on a per weight basis for the rat two time per day for five day .",
+        "D020521\tDisease\tstroke\tin order to determine if ppa/caffeine can lead to <target> stroke </target> in normotensive and/or hypertensive rat , we administer the combination in six time the allow human dose calculate on a per weight basis for the rat two time per day for five day .",
+        "D006973\tDisease\thypertensive\tin order to determine if ppa/caffeine can lead to stroke in normotensive and/or <target> hypertensive </target> rat , we administer the combination in six time the allow human dose calculate on a per weight basis for the rat two time per day for five day .",
+        "D006973\tDisease\thypertensive\tsubarachnoid and cerebral hemorrhage be note in 18 % of the <target> hypertensive </target> rat .",
+        "D010665\tChemical\tPPA\ta single <target> ppa </target> /caffeine administration ( same dose ) lead to acute hypertension in both the normotensive and hypertensive animal .",
+        "D002110\tChemical\tcaffeine\ta single ppa/ <target> caffeine </target> administration ( same dose ) lead to acute hypertension in both the normotensive and hypertensive animal .",
+        "D006973\tDisease\thypertension\ta single ppa/caffeine administration ( same dose ) lead to acute <target> hypertension </target> in both the normotensive and hypertensive animal .",
+        "D006973\tDisease\thypertensive\ta single ppa/caffeine administration ( same dose ) lead to acute hypertension in both the normotensive and <target> hypertensive </target> animal .",
+        "D010665\tChemical\tPPA\tthese result suggest that <target> ppa </target> /caffeine can lead to cerebral hemorrhage in previously hypertensive animal when administer in great than the allow dosage .",
+        "D002110\tChemical\tcaffeine\tthese result suggest that ppa/ <target> caffeine </target> can lead to cerebral hemorrhage in previously hypertensive animal when administer in great than the allow dosage .",
+        "D002543\tDisease\tcerebral hemorrhage\tthese result suggest that ppa/caffeine can lead to <target> cerebral hemorrhage </target> in previously hypertensive animal when administer in great than the allow dosage .",
+        "D006973\tDisease\thypertensive\tthese result suggest that ppa/caffeine can lead to cerebral hemorrhage in previously <target> hypertensive </target> animal when administer in great than the allow dosage ."
+    ]
+}

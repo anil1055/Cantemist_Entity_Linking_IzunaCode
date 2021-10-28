@@ -1,0 +1,206 @@
+{
+    "title": "Tranexamic acid overdosage-induced generalized seizure in renal failure.",
+    "abst": "We report a 45-year-old lady with chronic kidney disease stage 4 due to chronic tubulointerstial disease. She was admitted to our center for severe anemia due to menorrhagia and deterioration of renal function. She was infused three units of packed cells during a session of hemodialysis. Tranexamic acid (TNA) 1 g 8-hourly was administered to her to control bleeding per vaginum. Two hours after the sixth dose of TNA, she had an episode of generalized tonic clonic convulsions. TNA was discontinued. Investigations of the patient revealed no biochemical or structural central nervous system abnormalities that could have provoked the convulsions. She did not require any further dialytic support. She had no further episodes of convulsion till dis-charge and during the two months of follow-up. Thus, the precipitating cause of convulsions was believed to be an overdose of TNA.",
+    "title_plus_abst": "Tranexamic acid overdosage-induced generalized seizure in renal failure. We report a 45-year-old lady with chronic kidney disease stage 4 due to chronic tubulointerstial disease. She was admitted to our center for severe anemia due to menorrhagia and deterioration of renal function. She was infused three units of packed cells during a session of hemodialysis. Tranexamic acid (TNA) 1 g 8-hourly was administered to her to control bleeding per vaginum. Two hours after the sixth dose of TNA, she had an episode of generalized tonic clonic convulsions. TNA was discontinued. Investigations of the patient revealed no biochemical or structural central nervous system abnormalities that could have provoked the convulsions. She did not require any further dialytic support. She had no further episodes of convulsion till dis-charge and during the two months of follow-up. Thus, the precipitating cause of convulsions was believed to be an overdose of TNA.",
+    "pubmed_id": "24434397",
+    "entities": [
+        [
+            0,
+            15,
+            "Tranexamic acid",
+            "Chemical",
+            "D014148"
+        ],
+        [
+            47,
+            54,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            58,
+            71,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            107,
+            129,
+            "chronic kidney disease",
+            "Disease",
+            "D051436"
+        ],
+        [
+            153,
+            177,
+            "tubulointerstial disease",
+            "Disease",
+            "D004194"
+        ],
+        [
+            221,
+            227,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            235,
+            246,
+            "menorrhagia",
+            "Disease",
+            "D008595"
+        ],
+        [
+            251,
+            282,
+            "deterioration of renal function",
+            "Disease",
+            "D051437"
+        ],
+        [
+            362,
+            377,
+            "Tranexamic acid",
+            "Chemical",
+            "D014148"
+        ],
+        [
+            379,
+            382,
+            "TNA",
+            "Chemical",
+            "D014148"
+        ],
+        [
+            432,
+            440,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ],
+        [
+            488,
+            491,
+            "TNA",
+            "Chemical",
+            "D014148"
+        ],
+        [
+            527,
+            551,
+            "tonic clonic convulsions",
+            "Disease",
+            "D004830"
+        ],
+        [
+            553,
+            556,
+            "TNA",
+            "Chemical",
+            "D014148"
+        ],
+        [
+            651,
+            679,
+            "nervous system abnormalities",
+            "Disease",
+            "D009421"
+        ],
+        [
+            709,
+            720,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            803,
+            813,
+            "convulsion",
+            "Disease",
+            "D012640"
+        ],
+        [
+            903,
+            914,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            937,
+            945,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            949,
+            952,
+            "TNA",
+            "Chemical",
+            "D014148"
+        ]
+    ],
+    "split_sentence": [
+        "Tranexamic acid overdosage-induced generalized seizure in renal failure.",
+        "We report a 45-year-old lady with chronic kidney disease stage 4 due to chronic tubulointerstial disease.",
+        "She was admitted to our center for severe anemia due to menorrhagia and deterioration of renal function.",
+        "She was infused three units of packed cells during a session of hemodialysis.",
+        "Tranexamic acid (TNA) 1 g 8-hourly was administered to her to control bleeding per vaginum.",
+        "Two hours after the sixth dose of TNA, she had an episode of generalized tonic clonic convulsions.",
+        "TNA was discontinued.",
+        "Investigations of the patient revealed no biochemical or structural central nervous system abnormalities that could have provoked the convulsions.",
+        "She did not require any further dialytic support.",
+        "She had no further episodes of convulsion till dis-charge and during the two months of follow-up.",
+        "Thus, the precipitating cause of convulsions was believed to be an overdose of TNA."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014148\tChemical\tTranexamic acid\t<target> Tranexamic acid </target> overdosage-induced generalized seizure in renal failure .",
+        "D012640\tDisease\tseizure\tTranexamic acid overdosage-induced generalized <target> seizure </target> in renal failure .",
+        "D051437\tDisease\trenal failure\tTranexamic acid overdosage-induced generalized seizure in <target> renal failure </target> .",
+        "D051436\tDisease\tchronic kidney disease\tWe report a 45-year-old lady with <target> chronic kidney disease </target> stage 4 due to chronic tubulointerstial disease .",
+        "D004194\tDisease\ttubulointerstial disease\tWe report a 45-year-old lady with chronic kidney disease stage 4 due to chronic <target> tubulointerstial disease </target> .",
+        "D000740\tDisease\tanemia\tShe was admitted to our center for severe <target> anemia </target> due to menorrhagia and deterioration of renal function .",
+        "D008595\tDisease\tmenorrhagia\tShe was admitted to our center for severe anemia due to <target> menorrhagia </target> and deterioration of renal function .",
+        "D051437\tDisease\tdeterioration of renal function\tShe was admitted to our center for severe anemia due to menorrhagia and <target> deterioration of renal function </target> .",
+        "D014148\tChemical\tTranexamic acid\t<target> Tranexamic acid </target> ( TNA ) 1 g 8-hourly was administered to her to control bleeding per vaginum .",
+        "D014148\tChemical\tTNA\tTranexamic acid ( <target> TNA </target> ) 1 g 8-hourly was administered to her to control bleeding per vaginum .",
+        "D006470\tDisease\tbleeding\tTranexamic acid ( TNA ) 1 g 8-hourly was administered to her to control <target> bleeding </target> per vaginum .",
+        "D014148\tChemical\tTNA\tTwo hours after the sixth dose of <target> TNA </target> , she had an episode of generalized tonic clonic convulsions .",
+        "D004830\tDisease\ttonic clonic convulsions\tTwo hours after the sixth dose of TNA , she had an episode of generalized <target> tonic clonic convulsions </target> .",
+        "D014148\tChemical\tTNA\t<target> TNA </target> was discontinued .",
+        "D009421\tDisease\tnervous system abnormalities\tInvestigations of the patient revealed no biochemical or structural central <target> nervous system abnormalities </target> that could have provoked the convulsions .",
+        "D012640\tDisease\tconvulsions\tInvestigations of the patient revealed no biochemical or structural central nervous system abnormalities that could have provoked the <target> convulsions </target> .",
+        "D012640\tDisease\tconvulsion\tShe had no further episodes of <target> convulsion </target> till dis-charge and during the two months of follow-up .",
+        "D012640\tDisease\tconvulsions\tThus , the precipitating cause of <target> convulsions </target> was believed to be an overdose of TNA .",
+        "D062787\tDisease\toverdose\tThus , the precipitating cause of convulsions was believed to be an <target> overdose </target> of TNA .",
+        "D014148\tChemical\tTNA\tThus , the precipitating cause of convulsions was believed to be an overdose of <target> TNA </target> ."
+    ],
+    "lines_lemma": [
+        "D014148\tChemical\tTranexamic acid\t<target> tranexamic acid </target> overdosage-induced generalize seizure in renal failure .",
+        "D012640\tDisease\tseizure\ttranexamic acid overdosage-induced generalized <target> seizure </target> in renal failure .",
+        "D051437\tDisease\trenal failure\ttranexamic acid overdosage-induced generalize seizure in <target> renal failure </target> .",
+        "D051436\tDisease\tchronic kidney disease\twe report a 45-year-old lady with <target> chronic kidney disease </target> stage 4 due to chronic tubulointerstial disease .",
+        "D004194\tDisease\ttubulointerstial disease\twe report a 45-year-old lady with chronic kidney disease stage 4 due to chronic <target> tubulointerstial disease </target> .",
+        "D000740\tDisease\tanemia\tshe be admit to our center for severe <target> anemia </target> due to menorrhagia and deterioration of renal function .",
+        "D008595\tDisease\tmenorrhagia\tshe be admit to our center for severe anemia due to <target> menorrhagia </target> and deterioration of renal function .",
+        "D051437\tDisease\tdeterioration of renal function\tshe be admit to our center for severe anemia due to menorrhagia and <target> deterioration of renal function </target> .",
+        "D014148\tChemical\tTranexamic acid\t<target> tranexamic acid </target> ( tna ) 1 g 8-hourly be administer to she to control bleed per vaginum .",
+        "D014148\tChemical\tTNA\ttranexamic acid ( <target> tna </target> ) 1 g 8-hourly be administer to she to control bleed per vaginum .",
+        "D006470\tDisease\tbleeding\ttranexamic acid ( tna ) 1 g 8-hourly be administer to she to control <target> bleeding </target> per vaginum .",
+        "D014148\tChemical\tTNA\ttwo hour after the sixth dose of <target> tna </target> , she have an episode of generalize tonic clonic convulsion .",
+        "D004830\tDisease\ttonic clonic convulsions\ttwo hour after the sixth dose of tna , she have an episode of generalize <target> tonic clonic convulsion </target> .",
+        "D014148\tChemical\tTNA\t<target> tna </target> be discontinue .",
+        "D009421\tDisease\tnervous system abnormalities\tinvestigation of the patient reveal no biochemical or structural central <target> nervous system abnormality </target> that could have provoke the convulsion .",
+        "D012640\tDisease\tconvulsions\tinvestigation of the patient reveal no biochemical or structural central nervous system abnormality that could have provoke the <target> convulsion </target> .",
+        "D012640\tDisease\tconvulsion\tshe have no further episode of <target> convulsion </target> till dis-charge and during the two month of follow-up .",
+        "D012640\tDisease\tconvulsions\tthus , the precipitating cause of <target> convulsion </target> be believe to be an overdose of tna .",
+        "D062787\tDisease\toverdose\tthus , the precipitating cause of convulsion be believe to be an <target> overdose </target> of tna .",
+        "D014148\tChemical\tTNA\tthus , the precipitating cause of convulsion be believe to be an overdose of <target> tna </target> ."
+    ]
+}

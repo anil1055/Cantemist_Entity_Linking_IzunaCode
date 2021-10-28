@@ -1,0 +1,113 @@
+{
+    "title": "Fetal risks due to warfarin therapy during pregnancy.",
+    "abst": "Two mothers with heart valve prosthesis were treated with warfarin during pregnancy. In the first case a caesarean section was done one week after replacement of warfarin with heparin. The baby died of cerebral and pulmonary hemorrhage. The second mother had a male infant by caesarean section. The baby showed warfarin-induced embryopathy with nasal hypoplasia and stippled epiphyses (chondrodysplasia punctata). Nasal hypoplasia with or without stippled epiphyses has now been reported in 11 infants born to mothers treated with warfarin during the first trimester, and a causal association is probable. In view of the risks to both mother and fetus in women with prosthetic cardiac valves it is recommended that therapeutic abortion be advised as the first alternative.",
+    "title_plus_abst": "Fetal risks due to warfarin therapy during pregnancy. Two mothers with heart valve prosthesis were treated with warfarin during pregnancy. In the first case a caesarean section was done one week after replacement of warfarin with heparin. The baby died of cerebral and pulmonary hemorrhage. The second mother had a male infant by caesarean section. The baby showed warfarin-induced embryopathy with nasal hypoplasia and stippled epiphyses (chondrodysplasia punctata). Nasal hypoplasia with or without stippled epiphyses has now been reported in 11 infants born to mothers treated with warfarin during the first trimester, and a causal association is probable. In view of the risks to both mother and fetus in women with prosthetic cardiac valves it is recommended that therapeutic abortion be advised as the first alternative.",
+    "pubmed_id": "920167",
+    "entities": [
+        [
+            19,
+            27,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            112,
+            120,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            216,
+            224,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            230,
+            237,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            365,
+            373,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            382,
+            393,
+            "embryopathy",
+            "Disease",
+            "D005315"
+        ],
+        [
+            420,
+            438,
+            "stippled epiphyses",
+            "Disease",
+            "D002806"
+        ],
+        [
+            440,
+            465,
+            "chondrodysplasia punctata",
+            "Disease",
+            "D002806"
+        ],
+        [
+            501,
+            519,
+            "stippled epiphyses",
+            "Disease",
+            "D002806"
+        ],
+        [
+            585,
+            593,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ]
+    ],
+    "split_sentence": [
+        "Fetal risks due to warfarin therapy during pregnancy.",
+        "Two mothers with heart valve prosthesis were treated with warfarin during pregnancy.",
+        "In the first case a caesarean section was done one week after replacement of warfarin with heparin.",
+        "The baby died of cerebral and pulmonary hemorrhage.",
+        "The second mother had a male infant by caesarean section.",
+        "The baby showed warfarin-induced embryopathy with nasal hypoplasia and stippled epiphyses (chondrodysplasia punctata).",
+        "Nasal hypoplasia with or without stippled epiphyses has now been reported in 11 infants born to mothers treated with warfarin during the first trimester, and a causal association is probable.",
+        "In view of the risks to both mother and fetus in women with prosthetic cardiac valves it is recommended that therapeutic abortion be advised as the first alternative."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014859\tChemical\twarfarin\tFetal risks due to <target> warfarin </target> therapy during pregnancy .",
+        "D014859\tChemical\twarfarin\tTwo mothers with heart valve prosthesis were treated with <target> warfarin </target> during pregnancy .",
+        "D014859\tChemical\twarfarin\tIn the first case a caesarean section was done one week after replacement of <target> warfarin </target> with heparin .",
+        "D006493\tChemical\theparin\tIn the first case a caesarean section was done one week after replacement of warfarin with <target> heparin </target> .",
+        "D014859\tChemical\twarfarin\tThe baby showed <target> warfarin </target> -induced embryopathy with nasal hypoplasia and stippled epiphyses ( chondrodysplasia punctata ) .",
+        "D005315\tDisease\tembryopathy\tThe baby showed warfarin-induced <target> embryopathy </target> with nasal hypoplasia and stippled epiphyses ( chondrodysplasia punctata ) .",
+        "D002806\tDisease\tstippled epiphyses\tThe baby showed warfarin-induced embryopathy with nasal hypoplasia and <target> stippled epiphyses </target> ( chondrodysplasia punctata ) .",
+        "D002806\tDisease\tchondrodysplasia punctata\tThe baby showed warfarin-induced embryopathy with nasal hypoplasia and stippled epiphyses ( <target> chondrodysplasia punctata </target> ) .",
+        "D002806\tDisease\tstippled epiphyses\tNasal hypoplasia with or without <target> stippled epiphyses </target> has now been reported in 11 infants born to mothers treated with warfarin during the first trimester , and a causal association is probable .",
+        "D014859\tChemical\twarfarin\tNasal hypoplasia with or without stippled epiphyses has now been reported in 11 infants born to mothers treated with <target> warfarin </target> during the first trimester , and a causal association is probable ."
+    ],
+    "lines_lemma": [
+        "D014859\tChemical\twarfarin\tfetal risk due to <target> warfarin </target> therapy during pregnancy .",
+        "D014859\tChemical\twarfarin\ttwo mother with heart valve prosthesis be treat with <target> warfarin </target> during pregnancy .",
+        "D014859\tChemical\twarfarin\tin the first case a caesarean section be do one week after replacement of <target> warfarin </target> with heparin .",
+        "D006493\tChemical\theparin\tin the first case a caesarean section be do one week after replacement of warfarin with <target> heparin </target> .",
+        "D014859\tChemical\twarfarin\tthe baby show <target> warfarin </target> -induced embryopathy with nasal hypoplasia and stipple epiphysis ( chondrodysplasia punctata ) .",
+        "D005315\tDisease\tembryopathy\tthe baby show warfarin-induced <target> embryopathy </target> with nasal hypoplasia and stipple epiphysis ( chondrodysplasia punctata ) .",
+        "D002806\tDisease\tstippled epiphyses\tthe baby show warfarin-induced embryopathy with nasal hypoplasia and <target> stipple epiphysis </target> ( chondrodysplasia punctata ) .",
+        "D002806\tDisease\tchondrodysplasia punctata\tthe baby show warfarin-induced embryopathy with nasal hypoplasia and stipple epiphysis ( <target> chondrodysplasia punctata </target> ) .",
+        "D002806\tDisease\tstippled epiphyses\tnasal hypoplasia with or without <target> stipple epiphysis </target> have now be report in 11 infant bear to mother treat with warfarin during the first trimester , and a causal association be probable .",
+        "D014859\tChemical\twarfarin\tnasal hypoplasia with or without stippled epiphysis have now be report in 11 infant bear to mother treat with <target> warfarin </target> during the first trimester , and a causal association be probable ."
+    ]
+}

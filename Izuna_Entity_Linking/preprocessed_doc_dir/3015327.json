@@ -1,0 +1,55 @@
+{
+    "title": "Remodelling of nerve structure in experimental isoniazid neuropathy in the rat.",
+    "abst": "The neuropathy caused by a single dose of isoniazid in rats was studied with a computer-assisted morphometric method. Scatter diagrams of the g ratio (quotient fibre diameter/axon diameter) define regenerating fibres as a distinct population, distinguishable from the surviving fibres by reduced sheath thickness and reduced axon calibre. There was also evidence of a subtle direct toxic effect on the entire fibre population, causing axon shrinkage masked by readjustment of the myelin sheath.",
+    "title_plus_abst": "Remodelling of nerve structure in experimental isoniazid neuropathy in the rat. The neuropathy caused by a single dose of isoniazid in rats was studied with a computer-assisted morphometric method. Scatter diagrams of the g ratio (quotient fibre diameter/axon diameter) define regenerating fibres as a distinct population, distinguishable from the surviving fibres by reduced sheath thickness and reduced axon calibre. There was also evidence of a subtle direct toxic effect on the entire fibre population, causing axon shrinkage masked by readjustment of the myelin sheath.",
+    "pubmed_id": "3015327",
+    "entities": [
+        [
+            47,
+            56,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            57,
+            67,
+            "neuropathy",
+            "Disease",
+            "D009422"
+        ],
+        [
+            84,
+            94,
+            "neuropathy",
+            "Disease",
+            "D009422"
+        ],
+        [
+            122,
+            131,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ]
+    ],
+    "split_sentence": [
+        "Remodelling of nerve structure in experimental isoniazid neuropathy in the rat.",
+        "The neuropathy caused by a single dose of isoniazid in rats was studied with a computer-assisted morphometric method.",
+        "Scatter diagrams of the g ratio (quotient fibre diameter/axon diameter) define regenerating fibres as a distinct population, distinguishable from the surviving fibres by reduced sheath thickness and reduced axon calibre.",
+        "There was also evidence of a subtle direct toxic effect on the entire fibre population, causing axon shrinkage masked by readjustment of the myelin sheath."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007538\tChemical\tisoniazid\tRemodelling of nerve structure in experimental <target> isoniazid </target> neuropathy in the rat .",
+        "D009422\tDisease\tneuropathy\tRemodelling of nerve structure in experimental isoniazid <target> neuropathy </target> in the rat .",
+        "D009422\tDisease\tneuropathy\tThe <target> neuropathy </target> caused by a single dose of isoniazid in rats was studied with a computer-assisted morphometric method .",
+        "D007538\tChemical\tisoniazid\tThe neuropathy caused by a single dose of <target> isoniazid </target> in rats was studied with a computer-assisted morphometric method ."
+    ],
+    "lines_lemma": [
+        "D007538\tChemical\tisoniazid\tremodelling of nerve structure in experimental <target> isoniazid </target> neuropathy in the rat .",
+        "D009422\tDisease\tneuropathy\tremodelling of nerve structure in experimental isoniazid <target> neuropathy </target> in the rat .",
+        "D009422\tDisease\tneuropathy\tthe <target> neuropathy </target> cause by a single dose of isoniazid in rat be study with a computer-assisted morphometric method .",
+        "D007538\tChemical\tisoniazid\tthe neuropathy cause by a single dose of <target> isoniazid </target> in rat be study with a computer-assisted morphometric method ."
+    ]
+}

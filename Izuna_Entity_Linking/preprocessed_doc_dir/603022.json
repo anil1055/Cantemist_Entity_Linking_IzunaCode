@@ -1,0 +1,100 @@
+{
+    "title": "Galanthamine hydrobromide, a longer acting anticholinesterase drug, in the treatment of the central effects of scopolamine (Hyoscine).",
+    "abst": "Galanthamine hydrobromide, an anticholinesterase drug capable of penetrating the blood-brain barrier, was used in a patient demonstrating central effects of scopolamine (hyoscine) overdosage. It is longer acting than physostigmine and is used in anaesthesia to reverse the non-depolarizing neuromuscular block. However, studies into the dose necessary to combating scopolamine intoxication are indicated.",
+    "title_plus_abst": "Galanthamine hydrobromide, a longer acting anticholinesterase drug, in the treatment of the central effects of scopolamine (Hyoscine). Galanthamine hydrobromide, an anticholinesterase drug capable of penetrating the blood-brain barrier, was used in a patient demonstrating central effects of scopolamine (hyoscine) overdosage. It is longer acting than physostigmine and is used in anaesthesia to reverse the non-depolarizing neuromuscular block. However, studies into the dose necessary to combating scopolamine intoxication are indicated.",
+    "pubmed_id": "603022",
+    "entities": [
+        [
+            0,
+            25,
+            "Galanthamine hydrobromide",
+            "Chemical",
+            "D005702"
+        ],
+        [
+            111,
+            122,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            124,
+            132,
+            "Hyoscine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            135,
+            160,
+            "Galanthamine hydrobromide",
+            "Chemical",
+            "D005702"
+        ],
+        [
+            292,
+            303,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            305,
+            313,
+            "hyoscine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            315,
+            325,
+            "overdosage",
+            "Disease",
+            "D062787"
+        ],
+        [
+            352,
+            365,
+            "physostigmine",
+            "Chemical",
+            "D010830"
+        ],
+        [
+            500,
+            511,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ]
+    ],
+    "split_sentence": [
+        "Galanthamine hydrobromide, a longer acting anticholinesterase drug, in the treatment of the central effects of scopolamine (Hyoscine).",
+        "Galanthamine hydrobromide, an anticholinesterase drug capable of penetrating the blood-brain barrier, was used in a patient demonstrating central effects of scopolamine (hyoscine) overdosage.",
+        "It is longer acting than physostigmine and is used in anaesthesia to reverse the non-depolarizing neuromuscular block.",
+        "However, studies into the dose necessary to combating scopolamine intoxication are indicated."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005702\tChemical\tGalanthamine hydrobromide\t<target> Galanthamine hydrobromide </target> , a longer acting anticholinesterase drug , in the treatment of the central effects of scopolamine ( Hyoscine ) .",
+        "D012601\tChemical\tscopolamine\tGalanthamine hydrobromide , a longer acting anticholinesterase drug , in the treatment of the central effects of <target> scopolamine </target> ( Hyoscine ) .",
+        "D012601\tChemical\tHyoscine\tGalanthamine hydrobromide , a longer acting anticholinesterase drug , in the treatment of the central effects of scopolamine ( <target> Hyoscine </target> ) .",
+        "D005702\tChemical\tGalanthamine hydrobromide\t<target> Galanthamine hydrobromide </target> , an anticholinesterase drug capable of penetrating the blood-brain barrier , was used in a patient demonstrating central effects of scopolamine ( hyoscine ) overdosage .",
+        "D012601\tChemical\tscopolamine\tGalanthamine hydrobromide , an anticholinesterase drug capable of penetrating the blood-brain barrier , was used in a patient demonstrating central effects of <target> scopolamine </target> ( hyoscine ) overdosage .",
+        "D012601\tChemical\thyoscine\tGalanthamine hydrobromide , an anticholinesterase drug capable of penetrating the blood-brain barrier , was used in a patient demonstrating central effects of scopolamine ( <target> hyoscine </target> ) overdosage .",
+        "D062787\tDisease\toverdosage\tGalanthamine hydrobromide , an anticholinesterase drug capable of penetrating the blood-brain barrier , was used in a patient demonstrating central effects of scopolamine ( hyoscine ) <target> overdosage </target> .",
+        "D010830\tChemical\tphysostigmine\tIt is longer acting than <target> physostigmine </target> and is used in anaesthesia to reverse the non-depolarizing neuromuscular block .",
+        "D012601\tChemical\tscopolamine\tHowever , studies into the dose necessary to combating <target> scopolamine </target> intoxication are indicated ."
+    ],
+    "lines_lemma": [
+        "D005702\tChemical\tGalanthamine hydrobromide\t<target> Galanthamine hydrobromide </target> , a long acting anticholinesterase drug , in the treatment of the central effect of scopolamine ( hyoscine ) .",
+        "D012601\tChemical\tscopolamine\tGalanthamine hydrobromide , a long acting anticholinesterase drug , in the treatment of the central effect of <target> scopolamine </target> ( hyoscine ) .",
+        "D012601\tChemical\tHyoscine\tGalanthamine hydrobromide , a long acting anticholinesterase drug , in the treatment of the central effect of scopolamine ( <target> hyoscine </target> ) .",
+        "D005702\tChemical\tGalanthamine hydrobromide\t<target> Galanthamine hydrobromide </target> , an anticholinesterase drug capable of penetrate the blood-brain barrier , be use in a patient demonstrate central effect of scopolamine ( hyoscine ) overdosage .",
+        "D012601\tChemical\tscopolamine\tGalanthamine hydrobromide , an anticholinesterase drug capable of penetrate the blood-brain barrier , be use in a patient demonstrate central effect of <target> scopolamine </target> ( hyoscine ) overdosage .",
+        "D012601\tChemical\thyoscine\tGalanthamine hydrobromide , an anticholinesterase drug capable of penetrate the blood-brain barrier , be use in a patient demonstrate central effect of scopolamine ( <target> hyoscine </target> ) overdosage .",
+        "D062787\tDisease\toverdosage\tGalanthamine hydrobromide , an anticholinesterase drug capable of penetrate the blood-brain barrier , be use in a patient demonstrate central effect of scopolamine ( hyoscine ) <target> overdosage </target> .",
+        "D010830\tChemical\tphysostigmine\tit be long act than <target> physostigmine </target> and be use in anaesthesia to reverse the non-depolarizing neuromuscular block .",
+        "D012601\tChemical\tscopolamine\thowever , study into the dose necessary to combat <target> scopolamine </target> intoxication be indicate ."
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "title": "Veno-occlusive liver disease after dacarbazine therapy (DTIC) for melanoma.",
+    "abst": "A case of veno-occlusive disease of the liver with fatal outcome after dacarbazine (DTIC) therapy for melanoma is reported. There was a fulminant clinical course from start of symptoms until death. At autopsy the liver was enlarged and firm with signs of venous congestion. Small- and medium-sized hepatic veins were blocked by thrombosis. Eosinophilic infiltrations were found around the vessels. Published cases from the literature are reviewed and pertinent features discussed.",
+    "title_plus_abst": "Veno-occlusive liver disease after dacarbazine therapy (DTIC) for melanoma. A case of veno-occlusive disease of the liver with fatal outcome after dacarbazine (DTIC) therapy for melanoma is reported. There was a fulminant clinical course from start of symptoms until death. At autopsy the liver was enlarged and firm with signs of venous congestion. Small- and medium-sized hepatic veins were blocked by thrombosis. Eosinophilic infiltrations were found around the vessels. Published cases from the literature are reviewed and pertinent features discussed.",
+    "pubmed_id": "6503301",
+    "entities": [
+        [
+            0,
+            28,
+            "Veno-occlusive liver disease",
+            "Disease",
+            "D006504"
+        ],
+        [
+            35,
+            46,
+            "dacarbazine",
+            "Chemical",
+            "D003606"
+        ],
+        [
+            56,
+            60,
+            "DTIC",
+            "Chemical",
+            "D003606"
+        ],
+        [
+            66,
+            74,
+            "melanoma",
+            "Disease",
+            "D008545"
+        ],
+        [
+            86,
+            121,
+            "veno-occlusive disease of the liver",
+            "Disease",
+            "D006504"
+        ],
+        [
+            147,
+            158,
+            "dacarbazine",
+            "Chemical",
+            "D003606"
+        ],
+        [
+            160,
+            164,
+            "DTIC",
+            "Chemical",
+            "D003606"
+        ],
+        [
+            178,
+            186,
+            "melanoma",
+            "Disease",
+            "D008545"
+        ],
+        [
+            267,
+            272,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            331,
+            348,
+            "venous congestion",
+            "Disease",
+            "D006940"
+        ],
+        [
+            404,
+            414,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ]
+    ],
+    "split_sentence": [
+        "Veno-occlusive liver disease after dacarbazine therapy (DTIC) for melanoma.",
+        "A case of veno-occlusive disease of the liver with fatal outcome after dacarbazine (DTIC) therapy for melanoma is reported.",
+        "There was a fulminant clinical course from start of symptoms until death.",
+        "At autopsy the liver was enlarged and firm with signs of venous congestion.",
+        "Small- and medium-sized hepatic veins were blocked by thrombosis.",
+        "Eosinophilic infiltrations were found around the vessels.",
+        "Published cases from the literature are reviewed and pertinent features discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006504\tDisease\tVeno-occlusive liver disease\t<target> Veno-occlusive liver disease </target> after dacarbazine therapy ( DTIC ) for melanoma .",
+        "D003606\tChemical\tdacarbazine\tVeno-occlusive liver disease after <target> dacarbazine </target> therapy ( DTIC ) for melanoma .",
+        "D003606\tChemical\tDTIC\tVeno-occlusive liver disease after dacarbazine therapy ( <target> DTIC </target> ) for melanoma .",
+        "D008545\tDisease\tmelanoma\tVeno-occlusive liver disease after dacarbazine therapy ( DTIC ) for <target> melanoma </target> .",
+        "D006504\tDisease\tveno-occlusive disease of the liver\tA case of <target> veno-occlusive disease of the liver </target> with fatal outcome after dacarbazine ( DTIC ) therapy for melanoma is reported .",
+        "D003606\tChemical\tdacarbazine\tA case of veno-occlusive disease of the liver with fatal outcome after <target> dacarbazine </target> ( DTIC ) therapy for melanoma is reported .",
+        "D003606\tChemical\tDTIC\tA case of veno-occlusive disease of the liver with fatal outcome after dacarbazine ( <target> DTIC </target> ) therapy for melanoma is reported .",
+        "D008545\tDisease\tmelanoma\tA case of veno-occlusive disease of the liver with fatal outcome after dacarbazine ( DTIC ) therapy for <target> melanoma </target> is reported .",
+        "D003643\tDisease\tdeath\tThere was a fulminant clinical course from start of symptoms until <target> death </target> .",
+        "D006940\tDisease\tvenous congestion\tAt autopsy the liver was enlarged and firm with signs of <target> venous congestion </target> .",
+        "D013927\tDisease\tthrombosis\tSmall- and medium-sized hepatic veins were blocked by <target> thrombosis </target> ."
+    ],
+    "lines_lemma": [
+        "D006504\tDisease\tVeno-occlusive liver disease\t<target> veno-occlusive liver disease </target> after dacarbazine therapy ( dtic ) for melanoma .",
+        "D003606\tChemical\tdacarbazine\tveno-occlusive liver disease after <target> dacarbazine </target> therapy ( dtic ) for melanoma .",
+        "D003606\tChemical\tDTIC\tveno-occlusive liver disease after dacarbazine therapy ( <target> dtic </target> ) for melanoma .",
+        "D008545\tDisease\tmelanoma\tveno-occlusive liver disease after dacarbazine therapy ( dtic ) for <target> melanoma </target> .",
+        "D006504\tDisease\tveno-occlusive disease of the liver\ta case of <target> veno-occlusive disease of the liver </target> with fatal outcome after dacarbazine ( dtic ) therapy for melanoma be report .",
+        "D003606\tChemical\tdacarbazine\ta case of veno-occlusive disease of the liver with fatal outcome after <target> dacarbazine </target> ( dtic ) therapy for melanoma be report .",
+        "D003606\tChemical\tDTIC\ta case of veno-occlusive disease of the liver with fatal outcome after dacarbazine ( <target> dtic </target> ) therapy for melanoma be report .",
+        "D008545\tDisease\tmelanoma\ta case of veno-occlusive disease of the liver with fatal outcome after dacarbazine ( dtic ) therapy for <target> melanoma </target> be report .",
+        "D003643\tDisease\tdeath\tthere be a fulminant clinical course from start of symptom until <target> death </target> .",
+        "D006940\tDisease\tvenous congestion\tat autopsy the liver be enlarge and firm with sign of <target> venous congestion </target> .",
+        "D013927\tDisease\tthrombosis\tsmall- and medium-sized hepatic vein be block by <target> thrombosis </target> ."
+    ]
+}

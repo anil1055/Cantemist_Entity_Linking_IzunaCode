@@ -1,0 +1,130 @@
+{
+    "title": "Ciprofloxacin-induced nephrotoxicity in patients with cancer.",
+    "abst": "Nephrotoxicity associated with ciprofloxacin is uncommon. Five patients with cancer who developed acute renal failure that followed treatment with ciprofloxacin are described and an additional 15 cases reported in the literature are reviewed. Other than elevation of serum creatinine levels, characteristic clinical manifestations and abnormal laboratory findings are not frequently present. Allergic interstitial nephritis is believed to be the underlying pathological-process. Definitive diagnosis requires performance of renal biopsy, although this is not always feasible. An improvement in renal function that followed the discontinuation of the offending antibiotic supports the presumptive diagnosis of ciprofloxacin-induced acute renal failure.",
+    "title_plus_abst": "Ciprofloxacin-induced nephrotoxicity in patients with cancer. Nephrotoxicity associated with ciprofloxacin is uncommon. Five patients with cancer who developed acute renal failure that followed treatment with ciprofloxacin are described and an additional 15 cases reported in the literature are reviewed. Other than elevation of serum creatinine levels, characteristic clinical manifestations and abnormal laboratory findings are not frequently present. Allergic interstitial nephritis is believed to be the underlying pathological-process. Definitive diagnosis requires performance of renal biopsy, although this is not always feasible. An improvement in renal function that followed the discontinuation of the offending antibiotic supports the presumptive diagnosis of ciprofloxacin-induced acute renal failure.",
+    "pubmed_id": "8494478",
+    "entities": [
+        [
+            0,
+            13,
+            "Ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            22,
+            36,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            54,
+            60,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            62,
+            76,
+            "Nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            93,
+            106,
+            "ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            139,
+            145,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            160,
+            179,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            209,
+            222,
+            "ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            335,
+            345,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            463,
+            485,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            771,
+            784,
+            "ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            793,
+            812,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ]
+    ],
+    "split_sentence": [
+        "Ciprofloxacin-induced nephrotoxicity in patients with cancer.",
+        "Nephrotoxicity associated with ciprofloxacin is uncommon.",
+        "Five patients with cancer who developed acute renal failure that followed treatment with ciprofloxacin are described and an additional 15 cases reported in the literature are reviewed.",
+        "Other than elevation of serum creatinine levels, characteristic clinical manifestations and abnormal laboratory findings are not frequently present.",
+        "Allergic interstitial nephritis is believed to be the underlying pathological-process.",
+        "Definitive diagnosis requires performance of renal biopsy, although this is not always feasible.",
+        "An improvement in renal function that followed the discontinuation of the offending antibiotic supports the presumptive diagnosis of ciprofloxacin-induced acute renal failure."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002939\tChemical\tCiprofloxacin\t<target> Ciprofloxacin </target> -induced nephrotoxicity in patients with cancer .",
+        "D007674\tDisease\tnephrotoxicity\tCiprofloxacin-induced <target> nephrotoxicity </target> in patients with cancer .",
+        "D009369\tDisease\tcancer\tCiprofloxacin-induced nephrotoxicity in patients with <target> cancer </target> .",
+        "D007674\tDisease\tNephrotoxicity\t<target> Nephrotoxicity </target> associated with ciprofloxacin is uncommon .",
+        "D002939\tChemical\tciprofloxacin\tNephrotoxicity associated with <target> ciprofloxacin </target> is uncommon .",
+        "D009369\tDisease\tcancer\tFive patients with <target> cancer </target> who developed acute renal failure that followed treatment with ciprofloxacin are described and an additional 15 cases reported in the literature are reviewed .",
+        "D058186\tDisease\tacute renal failure\tFive patients with cancer who developed <target> acute renal failure </target> that followed treatment with ciprofloxacin are described and an additional 15 cases reported in the literature are reviewed .",
+        "D002939\tChemical\tciprofloxacin\tFive patients with cancer who developed acute renal failure that followed treatment with <target> ciprofloxacin </target> are described and an additional 15 cases reported in the literature are reviewed .",
+        "D003404\tChemical\tcreatinine\tOther than elevation of serum <target> creatinine </target> levels , characteristic clinical manifestations and abnormal laboratory findings are not frequently present .",
+        "D009395\tDisease\tinterstitial nephritis\tAllergic <target> interstitial nephritis </target> is believed to be the underlying pathological-process .",
+        "D002939\tChemical\tciprofloxacin\tAn improvement in renal function that followed the discontinuation of the offending antibiotic supports the presumptive diagnosis of <target> ciprofloxacin </target> -induced acute renal failure .",
+        "D058186\tDisease\tacute renal failure\tAn improvement in renal function that followed the discontinuation of the offending antibiotic supports the presumptive diagnosis of ciprofloxacin-induced <target> acute renal failure </target> ."
+    ],
+    "lines_lemma": [
+        "D002939\tChemical\tCiprofloxacin\t<target> ciprofloxacin </target> -induced nephrotoxicity in patient with cancer .",
+        "D007674\tDisease\tnephrotoxicity\tciprofloxacin-induced <target> nephrotoxicity </target> in patient with cancer .",
+        "D009369\tDisease\tcancer\tciprofloxacin-induced nephrotoxicity in patient with <target> cancer </target> .",
+        "D007674\tDisease\tNephrotoxicity\t<target> nephrotoxicity </target> associate with ciprofloxacin be uncommon .",
+        "D002939\tChemical\tciprofloxacin\tnephrotoxicity associate with <target> ciprofloxacin </target> be uncommon .",
+        "D009369\tDisease\tcancer\tfive patient with <target> cancer </target> who develop acute renal failure that follow treatment with ciprofloxacin be describe and an additional 15 case report in the literature be review .",
+        "D058186\tDisease\tacute renal failure\tfive patient with cancer who develop <target> acute renal failure </target> that follow treatment with ciprofloxacin be describe and an additional 15 case report in the literature be review .",
+        "D002939\tChemical\tciprofloxacin\tfive patient with cancer who develop acute renal failure that follow treatment with <target> ciprofloxacin </target> be describe and an additional 15 case report in the literature be review .",
+        "D003404\tChemical\tcreatinine\tother than elevation of serum <target> creatinine </target> level , characteristic clinical manifestation and abnormal laboratory finding be not frequently present .",
+        "D009395\tDisease\tinterstitial nephritis\tallergic <target> interstitial nephritis </target> be believe to be the underlie pathological-process .",
+        "D002939\tChemical\tciprofloxacin\tan improvement in renal function that follow the discontinuation of the offending antibiotic support the presumptive diagnosis of <target> ciprofloxacin </target> -induced acute renal failure .",
+        "D058186\tDisease\tacute renal failure\tan improvement in renal function that follow the discontinuation of the offending antibiotic support the presumptive diagnosis of ciprofloxacin-induced <target> acute renal failure </target> ."
+    ]
+}

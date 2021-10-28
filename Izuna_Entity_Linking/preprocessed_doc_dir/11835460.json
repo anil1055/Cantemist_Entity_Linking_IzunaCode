@@ -1,0 +1,100 @@
+{
+    "title": "Levodopa-induced ocular dyskinesias in Parkinson's disease.",
+    "abst": "Levodopa-induced ocular dyskinesias are very uncommon. Usually they occur simultaneously with limb peak-dose choreatic dyskinesias. We report on a patient with leftward and upward deviations of gaze during the peak effect of levodopa, and hypothesize that a severe dopaminergic denervation in the caudate nucleus is needed for the appearance of these levodopa-induce ocular dyskinesias.",
+    "title_plus_abst": "Levodopa-induced ocular dyskinesias in Parkinson's disease. Levodopa-induced ocular dyskinesias are very uncommon. Usually they occur simultaneously with limb peak-dose choreatic dyskinesias. We report on a patient with leftward and upward deviations of gaze during the peak effect of levodopa, and hypothesize that a severe dopaminergic denervation in the caudate nucleus is needed for the appearance of these levodopa-induce ocular dyskinesias.",
+    "pubmed_id": "11835460",
+    "entities": [
+        [
+            0,
+            8,
+            "Levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            17,
+            35,
+            "ocular dyskinesias",
+            "Disease",
+            "D015835"
+        ],
+        [
+            39,
+            58,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            60,
+            68,
+            "Levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            77,
+            95,
+            "ocular dyskinesias",
+            "Disease",
+            "D015835"
+        ],
+        [
+            169,
+            190,
+            "choreatic dyskinesias",
+            "Disease",
+            "D002819"
+        ],
+        [
+            285,
+            293,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            411,
+            419,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            427,
+            445,
+            "ocular dyskinesias",
+            "Disease",
+            "D015835"
+        ]
+    ],
+    "split_sentence": [
+        "Levodopa-induced ocular dyskinesias in Parkinson's disease.",
+        "Levodopa-induced ocular dyskinesias are very uncommon.",
+        "Usually they occur simultaneously with limb peak-dose choreatic dyskinesias.",
+        "We report on a patient with leftward and upward deviations of gaze during the peak effect of levodopa, and hypothesize that a severe dopaminergic denervation in the caudate nucleus is needed for the appearance of these levodopa-induce ocular dyskinesias."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007980\tChemical\tLevodopa\t<target> Levodopa </target> -induced ocular dyskinesias in Parkinson 's disease .",
+        "D015835\tDisease\tocular dyskinesias\tLevodopa-induced <target> ocular dyskinesias </target> in Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tLevodopa-induced ocular dyskinesias in <target> Parkinson 's disease </target> .",
+        "D007980\tChemical\tLevodopa\t<target> Levodopa </target> -induced ocular dyskinesias are very uncommon .",
+        "D015835\tDisease\tocular dyskinesias\tLevodopa-induced <target> ocular dyskinesias </target> are very uncommon .",
+        "D002819\tDisease\tchoreatic dyskinesias\tUsually they occur simultaneously with limb peak-dose <target> choreatic dyskinesias </target> .",
+        "D007980\tChemical\tlevodopa\tWe report on a patient with leftward and upward deviations of gaze during the peak effect of <target> levodopa </target> , and hypothesize that a severe dopaminergic denervation in the caudate nucleus is needed for the appearance of these levodopa-induce ocular dyskinesias .",
+        "D007980\tChemical\tlevodopa\tWe report on a patient with leftward and upward deviations of gaze during the peak effect of levodopa , and hypothesize that a severe dopaminergic denervation in the caudate nucleus is needed for the appearance of these <target> levodopa </target> -induce ocular dyskinesias .",
+        "D015835\tDisease\tocular dyskinesias\tWe report on a patient with leftward and upward deviations of gaze during the peak effect of levodopa , and hypothesize that a severe dopaminergic denervation in the caudate nucleus is needed for the appearance of these levodopa-induce <target> ocular dyskinesias </target> ."
+    ],
+    "lines_lemma": [
+        "D007980\tChemical\tLevodopa\t<target> levodopa </target> -induced ocular dyskinesia in Parkinson 's disease .",
+        "D015835\tDisease\tocular dyskinesias\tlevodopa-induced <target> ocular dyskinesia </target> in Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tlevodopa-induced ocular dyskinesia in <target> Parkinson 's disease </target> .",
+        "D007980\tChemical\tLevodopa\t<target> levodopa </target> -induced ocular dyskinesia be very uncommon .",
+        "D015835\tDisease\tocular dyskinesias\tlevodopa-induced <target> ocular dyskinesia </target> be very uncommon .",
+        "D002819\tDisease\tchoreatic dyskinesias\tusually they occur simultaneously with limb peak-dose <target> choreatic dyskinesia </target> .",
+        "D007980\tChemical\tlevodopa\twe report on a patient with leftward and upward deviation of gaze during the peak effect of <target> levodopa </target> , and hypothesize that a severe dopaminergic denervation in the caudate nucleus be need for the appearance of these levodopa-induce ocular dyskinesia .",
+        "D007980\tChemical\tlevodopa\twe report on a patient with leftward and upward deviation of gaze during the peak effect of levodopa , and hypothesize that a severe dopaminergic denervation in the caudate nucleus be need for the appearance of these <target> levodopa </target> -induce ocular dyskinesia .",
+        "D015835\tDisease\tocular dyskinesias\twe report on a patient with leftward and upward deviation of gaze during the peak effect of levodopa , and hypothesize that a severe dopaminergic denervation in the caudate nucleus be need for the appearance of these levodopa-induce <target> ocular dyskinesia </target> ."
+    ]
+}

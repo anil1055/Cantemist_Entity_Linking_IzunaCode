@@ -1,0 +1,183 @@
+{
+    "title": "Intraoperative bradycardia and hypotension associated with timolol and pilocarpine eye drops.",
+    "abst": "A 69-yr-old man, who was concurrently being treated with pilocarpine nitrate and timolol maleate eye drops, developed a bradycardia and became hypotensive during halothane anaesthesia. Both timolol and pilocarpine were subsequently identified in a 24-h collection of urine. Timolol (but not pilocarpine) was detected in a sample of plasma removed during surgery; the plasma concentration of timolol (2.6 ng ml-1) was consistent with partial beta-adrenoceptor blockade. It is postulated that this action may have been enhanced during halothane anaesthesia with resultant bradycardia and hypotension. Pilocarpine may have had a contributory effect.",
+    "title_plus_abst": "Intraoperative bradycardia and hypotension associated with timolol and pilocarpine eye drops. A 69-yr-old man, who was concurrently being treated with pilocarpine nitrate and timolol maleate eye drops, developed a bradycardia and became hypotensive during halothane anaesthesia. Both timolol and pilocarpine were subsequently identified in a 24-h collection of urine. Timolol (but not pilocarpine) was detected in a sample of plasma removed during surgery; the plasma concentration of timolol (2.6 ng ml-1) was consistent with partial beta-adrenoceptor blockade. It is postulated that this action may have been enhanced during halothane anaesthesia with resultant bradycardia and hypotension. Pilocarpine may have had a contributory effect.",
+    "pubmed_id": "6615679",
+    "entities": [
+        [
+            15,
+            26,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            31,
+            42,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            59,
+            66,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            71,
+            82,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            151,
+            170,
+            "pilocarpine nitrate",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            175,
+            190,
+            "timolol maleate",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            214,
+            225,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            237,
+            248,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            256,
+            265,
+            "halothane",
+            "Chemical",
+            "D006221"
+        ],
+        [
+            284,
+            291,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            296,
+            307,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            368,
+            375,
+            "Timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            385,
+            396,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            485,
+            492,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            627,
+            636,
+            "halothane",
+            "Chemical",
+            "D006221"
+        ],
+        [
+            664,
+            675,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            680,
+            691,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            693,
+            704,
+            "Pilocarpine",
+            "Chemical",
+            "D010862"
+        ]
+    ],
+    "split_sentence": [
+        "Intraoperative bradycardia and hypotension associated with timolol and pilocarpine eye drops.",
+        "A 69-yr-old man, who was concurrently being treated with pilocarpine nitrate and timolol maleate eye drops, developed a bradycardia and became hypotensive during halothane anaesthesia.",
+        "Both timolol and pilocarpine were subsequently identified in a 24-h collection of urine.",
+        "Timolol (but not pilocarpine) was detected in a sample of plasma removed during surgery; the plasma concentration of timolol (2.6 ng ml-1) was consistent with partial beta-adrenoceptor blockade.",
+        "It is postulated that this action may have been enhanced during halothane anaesthesia with resultant bradycardia and hypotension.",
+        "Pilocarpine may have had a contributory effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001919\tDisease\tbradycardia\tIntraoperative <target> bradycardia </target> and hypotension associated with timolol and pilocarpine eye drops .",
+        "D007022\tDisease\thypotension\tIntraoperative bradycardia and <target> hypotension </target> associated with timolol and pilocarpine eye drops .",
+        "D013999\tChemical\ttimolol\tIntraoperative bradycardia and hypotension associated with <target> timolol </target> and pilocarpine eye drops .",
+        "D010862\tChemical\tpilocarpine\tIntraoperative bradycardia and hypotension associated with timolol and <target> pilocarpine </target> eye drops .",
+        "D010862\tChemical\tpilocarpine nitrate\tA 69-yr-old man , who was concurrently being treated with <target> pilocarpine nitrate </target> and timolol maleate eye drops , developed a bradycardia and became hypotensive during halothane anaesthesia .",
+        "D013999\tChemical\ttimolol maleate\tA 69-yr-old man , who was concurrently being treated with pilocarpine nitrate and <target> timolol maleate </target> eye drops , developed a bradycardia and became hypotensive during halothane anaesthesia .",
+        "D001919\tDisease\tbradycardia\tA 69-yr-old man , who was concurrently being treated with pilocarpine nitrate and timolol maleate eye drops , developed a <target> bradycardia </target> and became hypotensive during halothane anaesthesia .",
+        "D007022\tDisease\thypotensive\tA 69-yr-old man , who was concurrently being treated with pilocarpine nitrate and timolol maleate eye drops , developed a bradycardia and became <target> hypotensive </target> during halothane anaesthesia .",
+        "D006221\tChemical\thalothane\tA 69-yr-old man , who was concurrently being treated with pilocarpine nitrate and timolol maleate eye drops , developed a bradycardia and became hypotensive during <target> halothane </target> anaesthesia .",
+        "D013999\tChemical\ttimolol\tBoth <target> timolol </target> and pilocarpine were subsequently identified in a 24-h collection of urine .",
+        "D010862\tChemical\tpilocarpine\tBoth timolol and <target> pilocarpine </target> were subsequently identified in a 24-h collection of urine .",
+        "D013999\tChemical\tTimolol\t<target> Timolol </target> ( but not pilocarpine ) was detected in a sample of plasma removed during surgery ; the plasma concentration of timolol ( 2.6 ng ml-1 ) was consistent with partial beta-adrenoceptor blockade .",
+        "D010862\tChemical\tpilocarpine\tTimolol ( but not <target> pilocarpine </target> ) was detected in a sample of plasma removed during surgery ; the plasma concentration of timolol ( 2.6 ng ml-1 ) was consistent with partial beta-adrenoceptor blockade .",
+        "D013999\tChemical\ttimolol\tTimolol ( but not pilocarpine ) was detected in a sample of plasma removed during surgery ; the plasma concentration of <target> timolol </target> ( 2.6 ng ml-1 ) was consistent with partial beta-adrenoceptor blockade .",
+        "D006221\tChemical\thalothane\tIt is postulated that this action may have been enhanced during <target> halothane </target> anaesthesia with resultant bradycardia and hypotension .",
+        "D001919\tDisease\tbradycardia\tIt is postulated that this action may have been enhanced during halothane anaesthesia with resultant <target> bradycardia </target> and hypotension .",
+        "D007022\tDisease\thypotension\tIt is postulated that this action may have been enhanced during halothane anaesthesia with resultant bradycardia and <target> hypotension </target> .",
+        "D010862\tChemical\tPilocarpine\t<target> Pilocarpine </target> may have had a contributory effect ."
+    ],
+    "lines_lemma": [
+        "D001919\tDisease\tbradycardia\tintraoperative <target> bradycardia </target> and hypotension associate with timolol and pilocarpine eye drop .",
+        "D007022\tDisease\thypotension\tintraoperative bradycardia and <target> hypotension </target> associate with timolol and pilocarpine eye drop .",
+        "D013999\tChemical\ttimolol\tintraoperative bradycardia and hypotension associate with <target> timolol </target> and pilocarpine eye drop .",
+        "D010862\tChemical\tpilocarpine\tintraoperative bradycardia and hypotension associate with timolol and <target> pilocarpine </target> eye drop .",
+        "D010862\tChemical\tpilocarpine nitrate\ta 69-yr-old man , who be concurrently be treat with <target> pilocarpine nitrate </target> and timolol maleate eye drop , develop a bradycardia and become hypotensive during halothane anaesthesia .",
+        "D013999\tChemical\ttimolol maleate\ta 69-yr-old man , who be concurrently be treat with pilocarpine nitrate and <target> timolol maleate </target> eye drop , develop a bradycardia and become hypotensive during halothane anaesthesia .",
+        "D001919\tDisease\tbradycardia\ta 69-yr-old man , who be concurrently be treat with pilocarpine nitrate and timolol maleate eye drop , develop a <target> bradycardia </target> and become hypotensive during halothane anaesthesia .",
+        "D007022\tDisease\thypotensive\ta 69-yr-old man , who be concurrently be treat with pilocarpine nitrate and timolol maleate eye drop , develop a bradycardia and become <target> hypotensive </target> during halothane anaesthesia .",
+        "D006221\tChemical\thalothane\ta 69-yr-old man , who be concurrently be treat with pilocarpine nitrate and timolol maleate eye drop , develop a bradycardia and become hypotensive during <target> halothane </target> anaesthesia .",
+        "D013999\tChemical\ttimolol\tboth <target> timolol </target> and pilocarpine be subsequently identify in a 24-h collection of urine .",
+        "D010862\tChemical\tpilocarpine\tboth timolol and <target> pilocarpine </target> be subsequently identify in a 24-h collection of urine .",
+        "D013999\tChemical\tTimolol\t<target> Timolol </target> ( but not pilocarpine ) be detect in a sample of plasma remove during surgery ; the plasma concentration of timolol ( 2.6 ng ml-1 ) be consistent with partial beta-adrenoceptor blockade .",
+        "D010862\tChemical\tpilocarpine\tTimolol ( but not <target> pilocarpine </target> ) be detect in a sample of plasma remove during surgery ; the plasma concentration of timolol ( 2.6 ng ml-1 ) be consistent with partial beta-adrenoceptor blockade .",
+        "D013999\tChemical\ttimolol\tTimolol ( but not pilocarpine ) be detect in a sample of plasma remove during surgery ; the plasma concentration of <target> timolol </target> ( 2.6 ng ml-1 ) be consistent with partial beta-adrenoceptor blockade .",
+        "D006221\tChemical\thalothane\tit be postulate that this action may have be enhance during <target> halothane </target> anaesthesia with resultant bradycardia and hypotension .",
+        "D001919\tDisease\tbradycardia\tit be postulate that this action may have be enhance during halothane anaesthesia with resultant <target> bradycardia </target> and hypotension .",
+        "D007022\tDisease\thypotension\tit be postulate that this action may have be enhance during halothane anaesthesia with resultant bradycardia and <target> hypotension </target> .",
+        "D010862\tChemical\tPilocarpine\t<target> pilocarpine </target> may have have a contributory effect ."
+    ]
+}

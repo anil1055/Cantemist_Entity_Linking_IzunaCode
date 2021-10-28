@@ -1,0 +1,200 @@
+{
+    "title": "Ethopropazine and benztropine in neuroleptic-induced parkinsonism.",
+    "abst": "In a 12-week controlled study ethopropazine was compared to benztropine in the treatment of parkinsonism induced by fluphenazine enanthate in 60 schizophrenic outpatients. Ethopropazine and benztropine were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as procyclidine, their previous antiparkinsonian drug. However, benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment, and significantly more anxiety and depression than ethopropazine treated patients. This suggests that benztropine is not the anticholinergic drug of choice in the treatment of neuroleptic-induced parkinsonian symptoms, because of its more toxic central and peripheral atropinic effect.",
+    "title_plus_abst": "Ethopropazine and benztropine in neuroleptic-induced parkinsonism. In a 12-week controlled study ethopropazine was compared to benztropine in the treatment of parkinsonism induced by fluphenazine enanthate in 60 schizophrenic outpatients. Ethopropazine and benztropine were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as procyclidine, their previous antiparkinsonian drug. However, benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment, and significantly more anxiety and depression than ethopropazine treated patients. This suggests that benztropine is not the anticholinergic drug of choice in the treatment of neuroleptic-induced parkinsonian symptoms, because of its more toxic central and peripheral atropinic effect.",
+    "pubmed_id": "33969",
+    "entities": [
+        [
+            0,
+            13,
+            "Ethopropazine",
+            "Chemical",
+            "C084820"
+        ],
+        [
+            18,
+            29,
+            "benztropine",
+            "Chemical",
+            "D001590"
+        ],
+        [
+            53,
+            65,
+            "parkinsonism",
+            "Disease",
+            "D010302"
+        ],
+        [
+            97,
+            110,
+            "ethopropazine",
+            "Chemical",
+            "C084820"
+        ],
+        [
+            127,
+            138,
+            "benztropine",
+            "Chemical",
+            "D001590"
+        ],
+        [
+            159,
+            171,
+            "parkinsonism",
+            "Disease",
+            "D010302"
+        ],
+        [
+            183,
+            205,
+            "fluphenazine enanthate",
+            "Chemical",
+            "C017610"
+        ],
+        [
+            212,
+            225,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            239,
+            252,
+            "Ethopropazine",
+            "Chemical",
+            "C084820"
+        ],
+        [
+            257,
+            268,
+            "benztropine",
+            "Chemical",
+            "D001590"
+        ],
+        [
+            319,
+            340,
+            "parkinsonian symptoms",
+            "Disease",
+            "D010302"
+        ],
+        [
+            368,
+            380,
+            "procyclidine",
+            "Chemical",
+            "D011352"
+        ],
+        [
+            429,
+            440,
+            "benztropine",
+            "Chemical",
+            "D001590"
+        ],
+        [
+            488,
+            506,
+            "tardive dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            542,
+            555,
+            "procyclindine",
+            "Chemical",
+            "D011352"
+        ],
+        [
+            590,
+            597,
+            "anxiety",
+            "Disease",
+            "D001008"
+        ],
+        [
+            602,
+            612,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            618,
+            631,
+            "ethopropazine",
+            "Chemical",
+            "C084820"
+        ],
+        [
+            669,
+            680,
+            "benztropine",
+            "Chemical",
+            "D001590"
+        ],
+        [
+            763,
+            784,
+            "parkinsonian symptoms",
+            "Disease",
+            "D010302"
+        ]
+    ],
+    "split_sentence": [
+        "Ethopropazine and benztropine in neuroleptic-induced parkinsonism.",
+        "In a 12-week controlled study ethopropazine was compared to benztropine in the treatment of parkinsonism induced by fluphenazine enanthate in 60 schizophrenic outpatients.",
+        "Ethopropazine and benztropine were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as procyclidine, their previous antiparkinsonian drug.",
+        "However, benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment, and significantly more anxiety and depression than ethopropazine treated patients.",
+        "This suggests that benztropine is not the anticholinergic drug of choice in the treatment of neuroleptic-induced parkinsonian symptoms, because of its more toxic central and peripheral atropinic effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C084820\tChemical\tEthopropazine\t<target> Ethopropazine </target> and benztropine in neuroleptic-induced parkinsonism .",
+        "D001590\tChemical\tbenztropine\tEthopropazine and <target> benztropine </target> in neuroleptic-induced parkinsonism .",
+        "D010302\tDisease\tparkinsonism\tEthopropazine and benztropine in neuroleptic-induced <target> parkinsonism </target> .",
+        "C084820\tChemical\tethopropazine\tIn a 12-week controlled study <target> ethopropazine </target> was compared to benztropine in the treatment of parkinsonism induced by fluphenazine enanthate in 60 schizophrenic outpatients .",
+        "D001590\tChemical\tbenztropine\tIn a 12-week controlled study ethopropazine was compared to <target> benztropine </target> in the treatment of parkinsonism induced by fluphenazine enanthate in 60 schizophrenic outpatients .",
+        "D010302\tDisease\tparkinsonism\tIn a 12-week controlled study ethopropazine was compared to benztropine in the treatment of <target> parkinsonism </target> induced by fluphenazine enanthate in 60 schizophrenic outpatients .",
+        "C017610\tChemical\tfluphenazine enanthate\tIn a 12-week controlled study ethopropazine was compared to benztropine in the treatment of parkinsonism induced by <target> fluphenazine enanthate </target> in 60 schizophrenic outpatients .",
+        "D012559\tDisease\tschizophrenic\tIn a 12-week controlled study ethopropazine was compared to benztropine in the treatment of parkinsonism induced by fluphenazine enanthate in 60 <target> schizophrenic </target> outpatients .",
+        "C084820\tChemical\tEthopropazine\t<target> Ethopropazine </target> and benztropine were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as procyclidine , their previous antiparkinsonian drug .",
+        "D001590\tChemical\tbenztropine\tEthopropazine and <target> benztropine </target> were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as procyclidine , their previous antiparkinsonian drug .",
+        "D010302\tDisease\tparkinsonian symptoms\tEthopropazine and benztropine were found to be equally effective in controlling <target> parkinsonian symptoms </target> and were as efficacious as procyclidine , their previous antiparkinsonian drug .",
+        "D011352\tChemical\tprocyclidine\tEthopropazine and benztropine were found to be equally effective in controlling parkinsonian symptoms and were as efficacious as <target> procyclidine </target> , their previous antiparkinsonian drug .",
+        "D001590\tChemical\tbenztropine\tHowever , <target> benztropine </target> treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment , and significantly more anxiety and depression than ethopropazine treated patients .",
+        "D004409\tDisease\ttardive dyskinesia\tHowever , benztropine treated patients had a significant increase in <target> tardive dyskinesia </target> compared to their condition during procyclindine treatment , and significantly more anxiety and depression than ethopropazine treated patients .",
+        "D011352\tChemical\tprocyclindine\tHowever , benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during <target> procyclindine </target> treatment , and significantly more anxiety and depression than ethopropazine treated patients .",
+        "D001008\tDisease\tanxiety\tHowever , benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment , and significantly more <target> anxiety </target> and depression than ethopropazine treated patients .",
+        "D003866\tDisease\tdepression\tHowever , benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment , and significantly more anxiety and <target> depression </target> than ethopropazine treated patients .",
+        "C084820\tChemical\tethopropazine\tHowever , benztropine treated patients had a significant increase in tardive dyskinesia compared to their condition during procyclindine treatment , and significantly more anxiety and depression than <target> ethopropazine </target> treated patients .",
+        "D001590\tChemical\tbenztropine\tThis suggests that <target> benztropine </target> is not the anticholinergic drug of choice in the treatment of neuroleptic-induced parkinsonian symptoms , because of its more toxic central and peripheral atropinic effect .",
+        "D010302\tDisease\tparkinsonian symptoms\tThis suggests that benztropine is not the anticholinergic drug of choice in the treatment of neuroleptic-induced <target> parkinsonian symptoms </target> , because of its more toxic central and peripheral atropinic effect ."
+    ],
+    "lines_lemma": [
+        "C084820\tChemical\tEthopropazine\t<target> Ethopropazine </target> and benztropine in neuroleptic-induced parkinsonism .",
+        "D001590\tChemical\tbenztropine\tEthopropazine and <target> benztropine </target> in neuroleptic-induced parkinsonism .",
+        "D010302\tDisease\tparkinsonism\tethopropazine and benztropine in neuroleptic-induced <target> parkinsonism </target> .",
+        "C084820\tChemical\tethopropazine\tin a 12-week control study <target> ethopropazine </target> be compare to benztropine in the treatment of parkinsonism induce by fluphenazine enanthate in 60 schizophrenic outpatient .",
+        "D001590\tChemical\tbenztropine\tin a 12-week control study ethopropazine be compare to <target> benztropine </target> in the treatment of parkinsonism induce by fluphenazine enanthate in 60 schizophrenic outpatient .",
+        "D010302\tDisease\tparkinsonism\tin a 12-week control study ethopropazine be compare to benztropine in the treatment of <target> parkinsonism </target> induce by fluphenazine enanthate in 60 schizophrenic outpatient .",
+        "C017610\tChemical\tfluphenazine enanthate\tin a 12-week control study ethopropazine be compare to benztropine in the treatment of parkinsonism induce by <target> fluphenazine enanthate </target> in 60 schizophrenic outpatient .",
+        "D012559\tDisease\tschizophrenic\tin a 12-week control study ethopropazine be compare to benztropine in the treatment of parkinsonism induce by fluphenazine enanthate in 60 <target> schizophrenic </target> outpatient .",
+        "C084820\tChemical\tEthopropazine\t<target> Ethopropazine </target> and benztropine be find to be equally effective in control parkinsonian symptom and be as efficacious as procyclidine , their previous antiparkinsonian drug .",
+        "D001590\tChemical\tbenztropine\tEthopropazine and <target> benztropine </target> be find to be equally effective in control parkinsonian symptom and be as efficacious as procyclidine , their previous antiparkinsonian drug .",
+        "D010302\tDisease\tparkinsonian symptoms\tethopropazine and benztropine be find to be equally effective in control <target> parkinsonian symptom </target> and be as efficacious as procyclidine , their previous antiparkinsonian drug .",
+        "D011352\tChemical\tprocyclidine\tethopropazine and benztropine be find to be equally effective in control parkinsonian symptom and be as efficacious as <target> procyclidine </target> , their previous antiparkinsonian drug .",
+        "D001590\tChemical\tbenztropine\thowever , <target> benztropine </target> treat patient have a significant increase in tardive dyskinesia compare to their condition during procyclindine treatment , and significantly more anxiety and depression than ethopropazine treated patient .",
+        "D004409\tDisease\ttardive dyskinesia\thowever , benztropine treated patient have a significant increase in <target> tardive dyskinesia </target> compare to their condition during procyclindine treatment , and significantly more anxiety and depression than ethopropazine treated patient .",
+        "D011352\tChemical\tprocyclindine\thowever , benztropine treated patient have a significant increase in tardive dyskinesia compare to their condition during <target> procyclindine </target> treatment , and significantly more anxiety and depression than ethopropazine treated patient .",
+        "D001008\tDisease\tanxiety\thowever , benztropine treated patient have a significant increase in tardive dyskinesia compare to their condition during procyclindine treatment , and significantly more <target> anxiety </target> and depression than ethopropazine treated patient .",
+        "D003866\tDisease\tdepression\thowever , benztropine treated patient have a significant increase in tardive dyskinesia compare to their condition during procyclindine treatment , and significantly more anxiety and <target> depression </target> than ethopropazine treated patient .",
+        "C084820\tChemical\tethopropazine\thowever , benztropine treated patient have a significant increase in tardive dyskinesia compare to their condition during procyclindine treatment , and significantly more anxiety and depression than <target> ethopropazine </target> treat patient .",
+        "D001590\tChemical\tbenztropine\tthis suggest that <target> benztropine </target> be not the anticholinergic drug of choice in the treatment of neuroleptic-induced parkinsonian symptom , because of its more toxic central and peripheral atropinic effect .",
+        "D010302\tDisease\tparkinsonian symptoms\tthis suggest that benztropine be not the anticholinergic drug of choice in the treatment of neuroleptic-induced <target> parkinsonian symptom </target> , because of its more toxic central and peripheral atropinic effect ."
+    ]
+}

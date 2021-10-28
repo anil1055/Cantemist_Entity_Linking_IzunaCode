@@ -1,0 +1,191 @@
+{
+    "title": "Tetany and rhabdomyolysis due to surreptitious furosemide--importance of magnesium supplementation.",
+    "abst": "Diuretics may induce hypokalemia, hypocalcemia and hypomagnesemia. While severe hypokalemia may cause muscle weakness, severe hypomagnesemia is associated with muscle spasms and tetany which cannot be corrected by potassium and calcium supplementation alone (1,2). Surreptitious diuretic ingestion has been described, mainly in women who are concerned that they are obese or edematous. Symptomatic hypokalemia has been reported in such patients (3-7) and in one case hypocalcemia was observed (8), but the effects of magnesium depletion were not noted in these patients.",
+    "title_plus_abst": "Tetany and rhabdomyolysis due to surreptitious furosemide--importance of magnesium supplementation. Diuretics may induce hypokalemia, hypocalcemia and hypomagnesemia. While severe hypokalemia may cause muscle weakness, severe hypomagnesemia is associated with muscle spasms and tetany which cannot be corrected by potassium and calcium supplementation alone (1,2). Surreptitious diuretic ingestion has been described, mainly in women who are concerned that they are obese or edematous. Symptomatic hypokalemia has been reported in such patients (3-7) and in one case hypocalcemia was observed (8), but the effects of magnesium depletion were not noted in these patients.",
+    "pubmed_id": "8492347",
+    "entities": [
+        [
+            0,
+            6,
+            "Tetany",
+            "Disease",
+            "D013746"
+        ],
+        [
+            11,
+            25,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            47,
+            57,
+            "furosemide",
+            "Chemical",
+            "D005665"
+        ],
+        [
+            73,
+            82,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            121,
+            132,
+            "hypokalemia",
+            "Disease",
+            "D007008"
+        ],
+        [
+            134,
+            146,
+            "hypocalcemia",
+            "Disease",
+            "D006996"
+        ],
+        [
+            151,
+            165,
+            "hypomagnesemia",
+            "Disease",
+            "C537153"
+        ],
+        [
+            180,
+            191,
+            "hypokalemia",
+            "Disease",
+            "D007008"
+        ],
+        [
+            202,
+            217,
+            "muscle weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            226,
+            240,
+            "hypomagnesemia",
+            "Disease",
+            "C537153"
+        ],
+        [
+            260,
+            273,
+            "muscle spasms",
+            "Disease",
+            "D013035"
+        ],
+        [
+            278,
+            284,
+            "tetany",
+            "Disease",
+            "D013746"
+        ],
+        [
+            314,
+            323,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            328,
+            335,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            466,
+            471,
+            "obese",
+            "Disease",
+            "D009765"
+        ],
+        [
+            475,
+            484,
+            "edematous",
+            "Disease",
+            "D004487"
+        ],
+        [
+            498,
+            509,
+            "hypokalemia",
+            "Disease",
+            "D007008"
+        ],
+        [
+            567,
+            579,
+            "hypocalcemia",
+            "Disease",
+            "D006996"
+        ],
+        [
+            617,
+            626,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ]
+    ],
+    "split_sentence": [
+        "Tetany and rhabdomyolysis due to surreptitious furosemide--importance of magnesium supplementation.",
+        "Diuretics may induce hypokalemia, hypocalcemia and hypomagnesemia.",
+        "While severe hypokalemia may cause muscle weakness, severe hypomagnesemia is associated with muscle spasms and tetany which cannot be corrected by potassium and calcium supplementation alone (1,2).",
+        "Surreptitious diuretic ingestion has been described, mainly in women who are concerned that they are obese or edematous.",
+        "Symptomatic hypokalemia has been reported in such patients (3-7) and in one case hypocalcemia was observed (8), but the effects of magnesium depletion were not noted in these patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013746\tDisease\tTetany\t<target> Tetany </target> and rhabdomyolysis due to surreptitious furosemide -- importance of magnesium supplementation .",
+        "D012206\tDisease\trhabdomyolysis\tTetany and <target> rhabdomyolysis </target> due to surreptitious furosemide -- importance of magnesium supplementation .",
+        "D005665\tChemical\tfurosemide\tTetany and rhabdomyolysis due to surreptitious <target> furosemide </target> --importance of magnesium supplementation .",
+        "D008274\tChemical\tmagnesium\tTetany and rhabdomyolysis due to surreptitious furosemide -- importance of <target> magnesium </target> supplementation .",
+        "D007008\tDisease\thypokalemia\tDiuretics may induce <target> hypokalemia </target> , hypocalcemia and hypomagnesemia .",
+        "D006996\tDisease\thypocalcemia\tDiuretics may induce hypokalemia , <target> hypocalcemia </target> and hypomagnesemia .",
+        "C537153\tDisease\thypomagnesemia\tDiuretics may induce hypokalemia , hypocalcemia and <target> hypomagnesemia </target> .",
+        "D007008\tDisease\thypokalemia\tWhile severe <target> hypokalemia </target> may cause muscle weakness , severe hypomagnesemia is associated with muscle spasms and tetany which can not be corrected by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D018908\tDisease\tmuscle weakness\tWhile severe hypokalemia may cause <target> muscle weakness </target> , severe hypomagnesemia is associated with muscle spasms and tetany which can not be corrected by potassium and calcium supplementation alone ( 1,2 ) .",
+        "C537153\tDisease\thypomagnesemia\tWhile severe hypokalemia may cause muscle weakness , severe <target> hypomagnesemia </target> is associated with muscle spasms and tetany which can not be corrected by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D013035\tDisease\tmuscle spasms\tWhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia is associated with <target> muscle spasms </target> and tetany which can not be corrected by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D013746\tDisease\ttetany\tWhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia is associated with muscle spasms and <target> tetany </target> which can not be corrected by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D011188\tChemical\tpotassium\tWhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia is associated with muscle spasms and tetany which can not be corrected by <target> potassium </target> and calcium supplementation alone ( 1,2 ) .",
+        "D002118\tChemical\tcalcium\tWhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia is associated with muscle spasms and tetany which can not be corrected by potassium and <target> calcium </target> supplementation alone ( 1,2 ) .",
+        "D009765\tDisease\tobese\tSurreptitious diuretic ingestion has been described , mainly in women who are concerned that they are <target> obese </target> or edematous .",
+        "D004487\tDisease\tedematous\tSurreptitious diuretic ingestion has been described , mainly in women who are concerned that they are obese or <target> edematous </target> .",
+        "D007008\tDisease\thypokalemia\tSymptomatic <target> hypokalemia </target> has been reported in such patients ( 3 - 7 ) and in one case hypocalcemia was observed ( 8) , but the effects of magnesium depletion were not noted in these patients .",
+        "D006996\tDisease\thypocalcemia\tSymptomatic hypokalemia has been reported in such patients ( 3 - 7 ) and in one case <target> hypocalcemia </target> was observed ( 8) , but the effects of magnesium depletion were not noted in these patients .",
+        "D008274\tChemical\tmagnesium\tSymptomatic hypokalemia has been reported in such patients ( 3 - 7 ) and in one case hypocalcemia was observed ( 8) , but the effects of <target> magnesium </target> depletion were not noted in these patients ."
+    ],
+    "lines_lemma": [
+        "D013746\tDisease\tTetany\t<target> Tetany </target> and rhabdomyolysis due to surreptitious furosemide -- importance of magnesium supplementation .",
+        "D012206\tDisease\trhabdomyolysis\tTetany and <target> rhabdomyolysis </target> due to surreptitious furosemide -- importance of magnesium supplementation .",
+        "D005665\tChemical\tfurosemide\ttetany and rhabdomyolysis due to surreptitious <target> furosemide </target> --importance of magnesium supplementation .",
+        "D008274\tChemical\tmagnesium\ttetany and rhabdomyolysis due to surreptitious furosemide -- importance of <target> magnesium </target> supplementation .",
+        "D007008\tDisease\thypokalemia\tdiuretic may induce <target> hypokalemia </target> , hypocalcemia and hypomagnesemia .",
+        "D006996\tDisease\thypocalcemia\tdiuretic may induce hypokalemia , <target> hypocalcemia </target> and hypomagnesemia .",
+        "C537153\tDisease\thypomagnesemia\tdiuretic may induce hypokalemia , hypocalcemia and <target> hypomagnesemia </target> .",
+        "D007008\tDisease\thypokalemia\twhile severe <target> hypokalemia </target> may cause muscle weakness , severe hypomagnesemia be associate with muscle spasm and tetany which can not be correct by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D018908\tDisease\tmuscle weakness\twhile severe hypokalemia may cause <target> muscle weakness </target> , severe hypomagnesemia be associate with muscle spasm and tetany which can not be correct by potassium and calcium supplementation alone ( 1,2 ) .",
+        "C537153\tDisease\thypomagnesemia\twhile severe hypokalemia may cause muscle weakness , severe <target> hypomagnesemia </target> be associate with muscle spasm and tetany which can not be correct by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D013035\tDisease\tmuscle spasms\twhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia be associate with <target> muscle spasm </target> and tetany which can not be correct by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D013746\tDisease\ttetany\twhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia be associate with muscle spasm and <target> tetany </target> which can not be correct by potassium and calcium supplementation alone ( 1,2 ) .",
+        "D011188\tChemical\tpotassium\twhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia be associate with muscle spasm and tetany which can not be correct by <target> potassium </target> and calcium supplementation alone ( 1,2 ) .",
+        "D002118\tChemical\tcalcium\twhile severe hypokalemia may cause muscle weakness , severe hypomagnesemia be associate with muscle spasm and tetany which can not be correct by potassium and <target> calcium </target> supplementation alone ( 1,2 ) .",
+        "D009765\tDisease\tobese\tsurreptitious diuretic ingestion have be describe , mainly in woman who be concerned that they be <target> obese </target> or edematous .",
+        "D004487\tDisease\tedematous\tsurreptitious diuretic ingestion have be describe , mainly in woman who be concerned that they be obese or <target> edematous </target> .",
+        "D007008\tDisease\thypokalemia\tsymptomatic <target> hypokalemia </target> have be report in such patient ( 3 - 7 ) and in one case hypocalcemia be observe ( 8) , but the effect of magnesium depletion be not note in these patient .",
+        "D006996\tDisease\thypocalcemia\tsymptomatic hypokalemia have be report in such patient ( 3 - 7 ) and in one case <target> hypocalcemia </target> be observe ( 8) , but the effect of magnesium depletion be not note in these patient .",
+        "D008274\tChemical\tmagnesium\tsymptomatic hypokalemia have be report in such patient ( 3 - 7 ) and in one case hypocalcemia be observe ( 8) , but the effect of <target> magnesium </target> depletion be not note in these patient ."
+    ]
+}

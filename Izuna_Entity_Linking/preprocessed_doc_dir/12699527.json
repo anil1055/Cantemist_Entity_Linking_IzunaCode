@@ -1,0 +1,132 @@
+{
+    "title": "Anaesthetic complications associated with myotonia congenita: case study and comparison with other myotonic disorders.",
+    "abst": "Myotonia congenita (MC) is caused by a defect in the skeletal muscle chloride channel function, which may cause sustained membrane depolarisation. We describe a previously healthy 32-year-old woman who developed a life-threatening muscle spasm and secondary ventilation difficulties following a preoperative injection of suxamethonium. The muscle spasms disappeared spontaneously and the surgery proceeded without further problems. When subsequently questioned, she reported minor symptoms suggesting a myotonic condition. Myotonia was found on clinical examination and EMG. The diagnosis MC was confirmed genetically. Neither the patient nor the anaesthetist were aware of the diagnosis before this potentially lethal complication occurred. We give a brief overview of ion channel disorders including malignant hyperthermia and their anaesthetic considerations.",
+    "title_plus_abst": "Anaesthetic complications associated with myotonia congenita: case study and comparison with other myotonic disorders. Myotonia congenita (MC) is caused by a defect in the skeletal muscle chloride channel function, which may cause sustained membrane depolarisation. We describe a previously healthy 32-year-old woman who developed a life-threatening muscle spasm and secondary ventilation difficulties following a preoperative injection of suxamethonium. The muscle spasms disappeared spontaneously and the surgery proceeded without further problems. When subsequently questioned, she reported minor symptoms suggesting a myotonic condition. Myotonia was found on clinical examination and EMG. The diagnosis MC was confirmed genetically. Neither the patient nor the anaesthetist were aware of the diagnosis before this potentially lethal complication occurred. We give a brief overview of ion channel disorders including malignant hyperthermia and their anaesthetic considerations.",
+    "pubmed_id": "12699527",
+    "entities": [
+        [
+            42,
+            60,
+            "myotonia congenita",
+            "Disease",
+            "D009224"
+        ],
+        [
+            99,
+            117,
+            "myotonic disorders",
+            "Disease",
+            "D020967"
+        ],
+        [
+            119,
+            137,
+            "Myotonia congenita",
+            "Disease",
+            "D009224"
+        ],
+        [
+            139,
+            141,
+            "MC",
+            "Disease",
+            "D009224"
+        ],
+        [
+            188,
+            196,
+            "chloride",
+            "Chemical",
+            "D002712"
+        ],
+        [
+            350,
+            362,
+            "muscle spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            440,
+            453,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            459,
+            472,
+            "muscle spasms",
+            "Disease",
+            "D013035"
+        ],
+        [
+            622,
+            640,
+            "myotonic condition",
+            "Disease",
+            "D020967"
+        ],
+        [
+            642,
+            650,
+            "Myotonia",
+            "Disease",
+            "D009222"
+        ],
+        [
+            708,
+            710,
+            "MC",
+            "Disease",
+            "D009224"
+        ],
+        [
+            921,
+            943,
+            "malignant hyperthermia",
+            "Disease",
+            "D008305"
+        ]
+    ],
+    "split_sentence": [
+        "Anaesthetic complications associated with myotonia congenita: case study and comparison with other myotonic disorders.",
+        "Myotonia congenita (MC) is caused by a defect in the skeletal muscle chloride channel function, which may cause sustained membrane depolarisation.",
+        "We describe a previously healthy 32-year-old woman who developed a life-threatening muscle spasm and secondary ventilation difficulties following a preoperative injection of suxamethonium.",
+        "The muscle spasms disappeared spontaneously and the surgery proceeded without further problems.",
+        "When subsequently questioned, she reported minor symptoms suggesting a myotonic condition.",
+        "Myotonia was found on clinical examination and EMG.",
+        "The diagnosis MC was confirmed genetically.",
+        "Neither the patient nor the anaesthetist were aware of the diagnosis before this potentially lethal complication occurred.",
+        "We give a brief overview of ion channel disorders including malignant hyperthermia and their anaesthetic considerations."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009224\tDisease\tmyotonia congenita\tAnaesthetic complications associated with <target> myotonia congenita </target> : case study and comparison with other myotonic disorders .",
+        "D020967\tDisease\tmyotonic disorders\tAnaesthetic complications associated with myotonia congenita : case study and comparison with other <target> myotonic disorders </target> .",
+        "D009224\tDisease\tMyotonia congenita\t<target> Myotonia congenita </target> ( MC ) is caused by a defect in the skeletal muscle chloride channel function , which may cause sustained membrane depolarisation .",
+        "D009224\tDisease\tMC\tMyotonia congenita ( <target> MC </target> ) is caused by a defect in the skeletal muscle chloride channel function , which may cause sustained membrane depolarisation .",
+        "D002712\tChemical\tchloride\tMyotonia congenita ( MC ) is caused by a defect in the skeletal muscle <target> chloride </target> channel function , which may cause sustained membrane depolarisation .",
+        "D013035\tDisease\tmuscle spasm\tWe describe a previously healthy 32-year-old woman who developed a life-threatening <target> muscle spasm </target> and secondary ventilation difficulties following a preoperative injection of suxamethonium .",
+        "D013390\tChemical\tsuxamethonium\tWe describe a previously healthy 32-year-old woman who developed a life-threatening muscle spasm and secondary ventilation difficulties following a preoperative injection of <target> suxamethonium </target> .",
+        "D013035\tDisease\tmuscle spasms\tThe <target> muscle spasms </target> disappeared spontaneously and the surgery proceeded without further problems .",
+        "D020967\tDisease\tmyotonic condition\tWhen subsequently questioned , she reported minor symptoms suggesting a <target> myotonic condition </target> .",
+        "D009222\tDisease\tMyotonia\t<target> Myotonia </target> was found on clinical examination and EMG .",
+        "D009224\tDisease\tMC\tThe diagnosis <target> MC </target> was confirmed genetically .",
+        "D008305\tDisease\tmalignant hyperthermia\tWe give a brief overview of ion channel disorders including <target> malignant hyperthermia </target> and their anaesthetic considerations ."
+    ],
+    "lines_lemma": [
+        "D009224\tDisease\tmyotonia congenita\tanaesthetic complication associate with <target> myotonia congenita </target> : case study and comparison with other myotonic disorder .",
+        "D020967\tDisease\tmyotonic disorders\tanaesthetic complication associate with myotonia congenita : case study and comparison with other <target> myotonic disorder </target> .",
+        "D009224\tDisease\tMyotonia congenita\t<target> Myotonia congenita </target> ( mc ) be cause by a defect in the skeletal muscle chloride channel function , which may cause sustained membrane depolarisation .",
+        "D009224\tDisease\tMC\tmyotonia congenita ( <target> mc </target> ) be cause by a defect in the skeletal muscle chloride channel function , which may cause sustained membrane depolarisation .",
+        "D002712\tChemical\tchloride\tmyotonia congenita ( mc ) be cause by a defect in the skeletal muscle <target> chloride </target> channel function , which may cause sustained membrane depolarisation .",
+        "D013035\tDisease\tmuscle spasm\twe describe a previously healthy 32-year-old woman who develop a life-threatening <target> muscle spasm </target> and secondary ventilation difficulty follow a preoperative injection of suxamethonium .",
+        "D013390\tChemical\tsuxamethonium\twe describe a previously healthy 32-year-old woman who develop a life-threatening muscle spasm and secondary ventilation difficulty follow a preoperative injection of <target> suxamethonium </target> .",
+        "D013035\tDisease\tmuscle spasms\tthe <target> muscle spasm </target> disappear spontaneously and the surgery proceed without further problem .",
+        "D020967\tDisease\tmyotonic condition\twhen subsequently question , she report minor symptom suggest a <target> myotonic condition </target> .",
+        "D009222\tDisease\tMyotonia\t<target> Myotonia </target> be find on clinical examination and emg .",
+        "D009224\tDisease\tMC\tthe diagnosis <target> mc </target> be confirm genetically .",
+        "D008305\tDisease\tmalignant hyperthermia\twe give a brief overview of ion channel disorder include <target> malignant hyperthermia </target> and their anaesthetic consideration ."
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Acute renal failure due to rifampicin.",
+    "abst": "A 23-year-old male patient with bacteriologically proven pulmonary tuberculosis was treated with the various regimens of antituberculosis drugs for nearly 15 months. Rifampicin was administered thrice as one of the 3-4 drug regimen and each time he developed untoward side effects like nausea, vomiting and fever with chills and rigors. The last such episode was of acute renal failure at which stage the patient was seen by the authors of this report. The patient, however, made a full recovery.",
+    "title_plus_abst": "Acute renal failure due to rifampicin. A 23-year-old male patient with bacteriologically proven pulmonary tuberculosis was treated with the various regimens of antituberculosis drugs for nearly 15 months. Rifampicin was administered thrice as one of the 3-4 drug regimen and each time he developed untoward side effects like nausea, vomiting and fever with chills and rigors. The last such episode was of acute renal failure at which stage the patient was seen by the authors of this report. The patient, however, made a full recovery.",
+    "pubmed_id": "2083961",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            27,
+            37,
+            "rifampicin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            96,
+            118,
+            "pulmonary tuberculosis",
+            "Disease",
+            "D014397"
+        ],
+        [
+            205,
+            215,
+            "Rifampicin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            325,
+            331,
+            "nausea",
+            "Disease",
+            "D009325"
+        ],
+        [
+            333,
+            341,
+            "vomiting",
+            "Disease",
+            "D014839"
+        ],
+        [
+            346,
+            351,
+            "fever",
+            "Disease",
+            "D005334"
+        ]
+    ],
+    "split_sentence": [
+        "Acute renal failure due to rifampicin.",
+        "A 23-year-old male patient with bacteriologically proven pulmonary tuberculosis was treated with the various regimens of antituberculosis drugs for nearly 15 months.",
+        "Rifampicin was administered thrice as one of the 3-4 drug regimen and each time he developed untoward side effects like nausea, vomiting and fever with chills and rigors.",
+        "The last such episode was of acute renal failure at which stage the patient was seen by the authors of this report.",
+        "The patient, however, made a full recovery."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> due to rifampicin .",
+        "D012293\tChemical\trifampicin\tAcute renal failure due to <target> rifampicin </target> .",
+        "D014397\tDisease\tpulmonary tuberculosis\tA 23-year-old male patient with bacteriologically proven <target> pulmonary tuberculosis </target> was treated with the various regimens of antituberculosis drugs for nearly 15 months .",
+        "D012293\tChemical\tRifampicin\t<target> Rifampicin </target> was administered thrice as one of the 3 - 4 drug regimen and each time he developed untoward side effects like nausea , vomiting and fever with chills and rigors .",
+        "D009325\tDisease\tnausea\tRifampicin was administered thrice as one of the 3 - 4 drug regimen and each time he developed untoward side effects like <target> nausea </target> , vomiting and fever with chills and rigors .",
+        "D014839\tDisease\tvomiting\tRifampicin was administered thrice as one of the 3 - 4 drug regimen and each time he developed untoward side effects like nausea , <target> vomiting </target> and fever with chills and rigors .",
+        "D005334\tDisease\tfever\tRifampicin was administered thrice as one of the 3 - 4 drug regimen and each time he developed untoward side effects like nausea , vomiting and <target> fever </target> with chills and rigors ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> due to rifampicin .",
+        "D012293\tChemical\trifampicin\tacute renal failure due to <target> rifampicin </target> .",
+        "D014397\tDisease\tpulmonary tuberculosis\ta 23-year-old male patient with bacteriologically prove <target> pulmonary tuberculosis </target> be treat with the various regimen of antituberculosis drug for nearly 15 month .",
+        "D012293\tChemical\tRifampicin\t<target> rifampicin </target> be administer thrice as one of the 3 - 4 drug regiman and each time he develop untoward side effect like nausea , vomiting and fever with chill and rigor .",
+        "D009325\tDisease\tnausea\trifampicin be administer thrice as one of the 3 - 4 drug regiman and each time he develop untoward side effect like <target> nausea </target> , vomiting and fever with chill and rigor .",
+        "D014839\tDisease\tvomiting\trifampicin be administer thrice as one of the 3 - 4 drug regiman and each time he develop untoward side effect like nausea , <target> vomiting </target> and fever with chill and rigor .",
+        "D005334\tDisease\tfever\trifampicin be administer thrice as one of the 3 - 4 drug regiman and each time he develop untoward side effect like nausea , vomiting and <target> fever </target> with chill and rigor ."
+    ]
+}

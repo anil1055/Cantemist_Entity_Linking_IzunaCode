@@ -1,0 +1,128 @@
+{
+    "title": "Mefenamic acid-induced neutropenia and renal failure in elderly females with hypothyroidism.",
+    "abst": "We report mefenamic acid-induced non-oliguric renal failure and severe neutropenia occurring simultaneously in two elderly females. The neutropenia was due to maturation arrest of the myeloid series in one patient. Both patients were also hypothyroid, but it is not clear whether this was a predisposing factor to the development of these adverse reactions. However, it would seem prudent not to use mefenamic acid in hypothyroid patients until the hypothyroidism has been corrected.",
+    "title_plus_abst": "Mefenamic acid-induced neutropenia and renal failure in elderly females with hypothyroidism. We report mefenamic acid-induced non-oliguric renal failure and severe neutropenia occurring simultaneously in two elderly females. The neutropenia was due to maturation arrest of the myeloid series in one patient. Both patients were also hypothyroid, but it is not clear whether this was a predisposing factor to the development of these adverse reactions. However, it would seem prudent not to use mefenamic acid in hypothyroid patients until the hypothyroidism has been corrected.",
+    "pubmed_id": "2217015",
+    "entities": [
+        [
+            0,
+            14,
+            "Mefenamic acid",
+            "Chemical",
+            "D008528"
+        ],
+        [
+            23,
+            34,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            39,
+            52,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            77,
+            91,
+            "hypothyroidism",
+            "Disease",
+            "D007037"
+        ],
+        [
+            103,
+            117,
+            "mefenamic acid",
+            "Chemical",
+            "D008528"
+        ],
+        [
+            139,
+            152,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            164,
+            175,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            229,
+            240,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            332,
+            343,
+            "hypothyroid",
+            "Disease",
+            "D007037"
+        ],
+        [
+            493,
+            507,
+            "mefenamic acid",
+            "Chemical",
+            "D008528"
+        ],
+        [
+            511,
+            522,
+            "hypothyroid",
+            "Disease",
+            "D007037"
+        ],
+        [
+            542,
+            556,
+            "hypothyroidism",
+            "Disease",
+            "D007037"
+        ]
+    ],
+    "split_sentence": [
+        "Mefenamic acid-induced neutropenia and renal failure in elderly females with hypothyroidism.",
+        "We report mefenamic acid-induced non-oliguric renal failure and severe neutropenia occurring simultaneously in two elderly females.",
+        "The neutropenia was due to maturation arrest of the myeloid series in one patient.",
+        "Both patients were also hypothyroid, but it is not clear whether this was a predisposing factor to the development of these adverse reactions.",
+        "However, it would seem prudent not to use mefenamic acid in hypothyroid patients until the hypothyroidism has been corrected."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008528\tChemical\tMefenamic acid\t<target> Mefenamic acid </target> -induced neutropenia and renal failure in elderly females with hypothyroidism .",
+        "D009503\tDisease\tneutropenia\tMefenamic acid-induced <target> neutropenia </target> and renal failure in elderly females with hypothyroidism .",
+        "D051437\tDisease\trenal failure\tMefenamic acid-induced neutropenia and <target> renal failure </target> in elderly females with hypothyroidism .",
+        "D007037\tDisease\thypothyroidism\tMefenamic acid-induced neutropenia and renal failure in elderly females with <target> hypothyroidism </target> .",
+        "D008528\tChemical\tmefenamic acid\tWe report <target> mefenamic acid </target> -induced non-oliguric renal failure and severe neutropenia occurring simultaneously in two elderly females .",
+        "D051437\tDisease\trenal failure\tWe report mefenamic acid-induced non-oliguric <target> renal failure </target> and severe neutropenia occurring simultaneously in two elderly females .",
+        "D009503\tDisease\tneutropenia\tWe report mefenamic acid-induced non-oliguric renal failure and severe <target> neutropenia </target> occurring simultaneously in two elderly females .",
+        "D009503\tDisease\tneutropenia\tThe <target> neutropenia </target> was due to maturation arrest of the myeloid series in one patient .",
+        "D007037\tDisease\thypothyroid\tBoth patients were also <target> hypothyroid </target> , but it is not clear whether this was a predisposing factor to the development of these adverse reactions .",
+        "D008528\tChemical\tmefenamic acid\tHowever , it would seem prudent not to use <target> mefenamic acid </target> in hypothyroid patients until the hypothyroidism has been corrected .",
+        "D007037\tDisease\thypothyroid\tHowever , it would seem prudent not to use mefenamic acid in <target> hypothyroid </target> patients until the hypothyroidism has been corrected .",
+        "D007037\tDisease\thypothyroidism\tHowever , it would seem prudent not to use mefenamic acid in hypothyroid patients until the <target> hypothyroidism </target> has been corrected ."
+    ],
+    "lines_lemma": [
+        "D008528\tChemical\tMefenamic acid\t<target> mefenamic acid </target> -induced neutropenia and renal failure in elderly female with hypothyroidism .",
+        "D009503\tDisease\tneutropenia\tmefenamic acid-induced <target> neutropenia </target> and renal failure in elderly female with hypothyroidism .",
+        "D051437\tDisease\trenal failure\tmefenamic acid-induced neutropenia and <target> renal failure </target> in elderly female with hypothyroidism .",
+        "D007037\tDisease\thypothyroidism\tmefenamic acid-induced neutropenia and renal failure in elderly female with <target> hypothyroidism </target> .",
+        "D008528\tChemical\tmefenamic acid\twe report <target> mefenamic acid </target> -induced non-oliguric renal failure and severe neutropenia occur simultaneously in two elderly female .",
+        "D051437\tDisease\trenal failure\twe report mefenamic acid-induced non-oliguric <target> renal failure </target> and severe neutropenia occur simultaneously in two elderly female .",
+        "D009503\tDisease\tneutropenia\twe report mefenamic acid-induced non-oliguric renal failure and severe <target> neutropenia </target> occur simultaneously in two elderly female .",
+        "D009503\tDisease\tneutropenia\tthe <target> neutropenia </target> be due to maturation arrest of the myeloid series in one patient .",
+        "D007037\tDisease\thypothyroid\tboth patient be also <target> hypothyroid </target> , but it be not clear whether this be a predispose factor to the development of these adverse reaction .",
+        "D008528\tChemical\tmefenamic acid\thowever , it would seem prudent not to use <target> mefenamic acid </target> in hypothyroid patient until the hypothyroidism have be correct .",
+        "D007037\tDisease\thypothyroid\thowever , it would seem prudent not to use mefenamic acid in <target> hypothyroid </target> patient until the hypothyroidism have be correct .",
+        "D007037\tDisease\thypothyroidism\thowever , it would seem prudent not to use mefenamic acid in hypothyroid patient until the <target> hypothyroidism </target> have be correct ."
+    ]
+}

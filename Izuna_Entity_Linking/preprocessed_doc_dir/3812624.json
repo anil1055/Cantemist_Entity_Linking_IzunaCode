@@ -1,0 +1,102 @@
+{
+    "title": "Two cases of downbeat nystagmus and oscillopsia associated with carbamazepine.",
+    "abst": "Downbeat nystagmus is often associated with structural lesions at the craniocervical junction, but has occasionally been reported as a manifestation of metabolic imbalance or drug intoxication. We recorded the eye movements of two patients with reversible downbeat nystagmus related to carbamazepine therapy. The nystagmus of both patients resolved after reduction of the serum carbamazepine levels. Neuroradiologic investigations including magnetic resonance imaging scans in both patients showed no evidence of intracranial abnormality. In patients with downbeat nystagmus who are taking anticonvulsant medications, consideration should be given to reduction in dose before further investigation is undertaken.",
+    "title_plus_abst": "Two cases of downbeat nystagmus and oscillopsia associated with carbamazepine. Downbeat nystagmus is often associated with structural lesions at the craniocervical junction, but has occasionally been reported as a manifestation of metabolic imbalance or drug intoxication. We recorded the eye movements of two patients with reversible downbeat nystagmus related to carbamazepine therapy. The nystagmus of both patients resolved after reduction of the serum carbamazepine levels. Neuroradiologic investigations including magnetic resonance imaging scans in both patients showed no evidence of intracranial abnormality. In patients with downbeat nystagmus who are taking anticonvulsant medications, consideration should be given to reduction in dose before further investigation is undertaken.",
+    "pubmed_id": "3812624",
+    "entities": [
+        [
+            13,
+            31,
+            "downbeat nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            36,
+            47,
+            "oscillopsia",
+            "Disease",
+            "D015835"
+        ],
+        [
+            64,
+            77,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            79,
+            97,
+            "Downbeat nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            335,
+            353,
+            "downbeat nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            365,
+            378,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            392,
+            401,
+            "nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            457,
+            470,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            635,
+            653,
+            "downbeat nystagmus",
+            "Disease",
+            "D009759"
+        ]
+    ],
+    "split_sentence": [
+        "Two cases of downbeat nystagmus and oscillopsia associated with carbamazepine.",
+        "Downbeat nystagmus is often associated with structural lesions at the craniocervical junction, but has occasionally been reported as a manifestation of metabolic imbalance or drug intoxication.",
+        "We recorded the eye movements of two patients with reversible downbeat nystagmus related to carbamazepine therapy.",
+        "The nystagmus of both patients resolved after reduction of the serum carbamazepine levels.",
+        "Neuroradiologic investigations including magnetic resonance imaging scans in both patients showed no evidence of intracranial abnormality.",
+        "In patients with downbeat nystagmus who are taking anticonvulsant medications, consideration should be given to reduction in dose before further investigation is undertaken."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009759\tDisease\tdownbeat nystagmus\tTwo cases of <target> downbeat nystagmus </target> and oscillopsia associated with carbamazepine .",
+        "D015835\tDisease\toscillopsia\tTwo cases of downbeat nystagmus and <target> oscillopsia </target> associated with carbamazepine .",
+        "D002220\tChemical\tcarbamazepine\tTwo cases of downbeat nystagmus and oscillopsia associated with <target> carbamazepine </target> .",
+        "D009759\tDisease\tDownbeat nystagmus\t<target> Downbeat nystagmus </target> is often associated with structural lesions at the craniocervical junction , but has occasionally been reported as a manifestation of metabolic imbalance or drug intoxication .",
+        "D009759\tDisease\tdownbeat nystagmus\tWe recorded the eye movements of two patients with reversible <target> downbeat nystagmus </target> related to carbamazepine therapy .",
+        "D002220\tChemical\tcarbamazepine\tWe recorded the eye movements of two patients with reversible downbeat nystagmus related to <target> carbamazepine </target> therapy .",
+        "D009759\tDisease\tnystagmus\tThe <target> nystagmus </target> of both patients resolved after reduction of the serum carbamazepine levels .",
+        "D002220\tChemical\tcarbamazepine\tThe nystagmus of both patients resolved after reduction of the serum <target> carbamazepine </target> levels .",
+        "D009759\tDisease\tdownbeat nystagmus\tIn patients with <target> downbeat nystagmus </target> who are taking anticonvulsant medications , consideration should be given to reduction in dose before further investigation is undertaken ."
+    ],
+    "lines_lemma": [
+        "D009759\tDisease\tdownbeat nystagmus\ttwo case of <target> downbeat nystagmus </target> and oscillopsia associate with carbamazepine .",
+        "D015835\tDisease\toscillopsia\ttwo case of downbeat nystagmus and <target> oscillopsia </target> associate with carbamazepine .",
+        "D002220\tChemical\tcarbamazepine\ttwo case of downbeat nystagmus and oscillopsia associate with <target> carbamazepine </target> .",
+        "D009759\tDisease\tDownbeat nystagmus\t<target> downbeat nystagmus </target> be often associate with structural lesion at the craniocervical junction , but have occasionally be report as a manifestation of metabolic imbalance or drug intoxication .",
+        "D009759\tDisease\tdownbeat nystagmus\twe record the eye movement of two patient with reversible <target> downbeat nystagmus </target> related to carbamazepine therapy .",
+        "D002220\tChemical\tcarbamazepine\twe record the eye movement of two patient with reversible downbeat nystagmus related to <target> carbamazepine </target> therapy .",
+        "D009759\tDisease\tnystagmus\tthe <target> nystagmus </target> of both patient resolve after reduction of the serum carbamazepine level .",
+        "D002220\tChemical\tcarbamazepine\tthe nystagmus of both patient resolve after reduction of the serum <target> carbamazepine </target> level .",
+        "D009759\tDisease\tdownbeat nystagmus\tin patient with <target> downbeat nystagmus </target> who be take anticonvulsant medication , consideration should be give to reduction in dose before further investigation be undertake ."
+    ]
+}

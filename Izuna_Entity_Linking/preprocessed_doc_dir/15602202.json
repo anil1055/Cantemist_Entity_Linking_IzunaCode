@@ -1,0 +1,73 @@
+{
+    "title": "Recurrent acute interstitial nephritis induced by azithromycin.",
+    "abst": "A 14-year-old girl is reported with recurrent, azithromycin-induced, acute interstitial nephritis. The second episode was more severe than the first; and although both were treated with intensive corticosteroid therapy, renal function remained impaired. Although most cases of antibiotic induced acute interstitial nephritis are benign and self-limited, some patients are at risk for permanent renal injury.",
+    "title_plus_abst": "Recurrent acute interstitial nephritis induced by azithromycin. A 14-year-old girl is reported with recurrent, azithromycin-induced, acute interstitial nephritis. The second episode was more severe than the first; and although both were treated with intensive corticosteroid therapy, renal function remained impaired. Although most cases of antibiotic induced acute interstitial nephritis are benign and self-limited, some patients are at risk for permanent renal injury.",
+    "pubmed_id": "15602202",
+    "entities": [
+        [
+            16,
+            38,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            50,
+            62,
+            "azithromycin",
+            "Chemical",
+            "D017963"
+        ],
+        [
+            111,
+            123,
+            "azithromycin",
+            "Chemical",
+            "D017963"
+        ],
+        [
+            139,
+            161,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            366,
+            388,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            458,
+            470,
+            "renal injury",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Recurrent acute interstitial nephritis induced by azithromycin.",
+        "A 14-year-old girl is reported with recurrent, azithromycin-induced, acute interstitial nephritis.",
+        "The second episode was more severe than the first; and although both were treated with intensive corticosteroid therapy, renal function remained impaired.",
+        "Although most cases of antibiotic induced acute interstitial nephritis are benign and self-limited, some patients are at risk for permanent renal injury."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009395\tDisease\tinterstitial nephritis\tRecurrent acute <target> interstitial nephritis </target> induced by azithromycin .",
+        "D017963\tChemical\tazithromycin\tRecurrent acute interstitial nephritis induced by <target> azithromycin </target> .",
+        "D017963\tChemical\tazithromycin\tA 14-year-old girl is reported with recurrent , <target> azithromycin </target> -induced , acute interstitial nephritis .",
+        "D009395\tDisease\tinterstitial nephritis\tA 14-year-old girl is reported with recurrent , azithromycin-induced , acute <target> interstitial nephritis </target> .",
+        "D009395\tDisease\tinterstitial nephritis\tAlthough most cases of antibiotic induced acute <target> interstitial nephritis </target> are benign and self-limited , some patients are at risk for permanent renal injury .",
+        "D007674\tDisease\trenal injury\tAlthough most cases of antibiotic induced acute interstitial nephritis are benign and self-limited , some patients are at risk for permanent <target> renal injury </target> ."
+    ],
+    "lines_lemma": [
+        "D009395\tDisease\tinterstitial nephritis\trecurrent acute <target> interstitial nephritis </target> induce by azithromycin .",
+        "D017963\tChemical\tazithromycin\trecurrent acute interstitial nephritis induce by <target> azithromycin </target> .",
+        "D017963\tChemical\tazithromycin\ta 14-year-old girl be report with recurrent , <target> azithromycin </target> -induced , acute interstitial nephritis .",
+        "D009395\tDisease\tinterstitial nephritis\ta 14-year-old girl be report with recurrent , azithromycin-induced , acute <target> interstitial nephritis </target> .",
+        "D009395\tDisease\tinterstitial nephritis\talthough most case of antibiotic induce acute <target> interstitial nephritis </target> be benign and self-limited , some patient be at risk for permanent renal injury .",
+        "D007674\tDisease\trenal injury\talthough most case of antibiotic induce acute interstitial nephritis be benign and self-limited , some patient be at risk for permanent <target> renal injury </target> ."
+    ]
+}

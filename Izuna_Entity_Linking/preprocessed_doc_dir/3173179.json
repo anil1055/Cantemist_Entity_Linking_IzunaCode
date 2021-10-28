@@ -1,0 +1,119 @@
+{
+    "title": "Verapamil withdrawal as a possible cause of myocardial infarction in a hypertensive woman with a normal coronary angiogram.",
+    "abst": "Verapamil is an effective and relatively-safe antihypertensive drug. Serious adverse effects are uncommon and mainly have been related to the depression of cardiac contractility and conduction, especially when the drug is combined with beta-blocking agents. We report a case in which myocardial infarction coincided with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension. Possible mechanisms that involve a verapamil-related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for catecholamines are discussed.",
+    "title_plus_abst": "Verapamil withdrawal as a possible cause of myocardial infarction in a hypertensive woman with a normal coronary angiogram. Verapamil is an effective and relatively-safe antihypertensive drug. Serious adverse effects are uncommon and mainly have been related to the depression of cardiac contractility and conduction, especially when the drug is combined with beta-blocking agents. We report a case in which myocardial infarction coincided with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension. Possible mechanisms that involve a verapamil-related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for catecholamines are discussed.",
+    "pubmed_id": "3173179",
+    "entities": [
+        [
+            0,
+            9,
+            "Verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            44,
+            65,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            71,
+            83,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            124,
+            133,
+            "Verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            266,
+            276,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            408,
+            429,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            465,
+            474,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            497,
+            506,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            554,
+            566,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            603,
+            612,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            694,
+            708,
+            "catecholamines",
+            "Chemical",
+            "D002395"
+        ]
+    ],
+    "split_sentence": [
+        "Verapamil withdrawal as a possible cause of myocardial infarction in a hypertensive woman with a normal coronary angiogram.",
+        "Verapamil is an effective and relatively-safe antihypertensive drug.",
+        "Serious adverse effects are uncommon and mainly have been related to the depression of cardiac contractility and conduction, especially when the drug is combined with beta-blocking agents.",
+        "We report a case in which myocardial infarction coincided with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension.",
+        "Possible mechanisms that involve a verapamil-related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for catecholamines are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> withdrawal as a possible cause of myocardial infarction in a hypertensive woman with a normal coronary angiogram .",
+        "D009203\tDisease\tmyocardial infarction\tVerapamil withdrawal as a possible cause of <target> myocardial infarction </target> in a hypertensive woman with a normal coronary angiogram .",
+        "D006973\tDisease\thypertensive\tVerapamil withdrawal as a possible cause of myocardial infarction in a <target> hypertensive </target> woman with a normal coronary angiogram .",
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> is an effective and relatively-safe antihypertensive drug .",
+        "D003866\tDisease\tdepression\tSerious adverse effects are uncommon and mainly have been related to the <target> depression </target> of cardiac contractility and conduction , especially when the drug is combined with beta-blocking agents .",
+        "D009203\tDisease\tmyocardial infarction\tWe report a case in which <target> myocardial infarction </target> coincided with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension .",
+        "D002216\tChemical\tcaptopril\tWe report a case in which myocardial infarction coincided with the introduction of <target> captopril </target> and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension .",
+        "D014700\tChemical\tverapamil\tWe report a case in which myocardial infarction coincided with the introduction of captopril and the withdrawal of <target> verapamil </target> in a previously asymptomatic woman with severe hypertension .",
+        "D006973\tDisease\thypertension\tWe report a case in which myocardial infarction coincided with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe <target> hypertension </target> .",
+        "D014700\tChemical\tverapamil\tPossible mechanisms that involve a <target> verapamil </target> -related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for catecholamines are discussed .",
+        "D002395\tChemical\tcatecholamines\tPossible mechanisms that involve a verapamil-related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for <target> catecholamines </target> are discussed ."
+    ],
+    "lines_lemma": [
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> withdrawal as a possible cause of myocardial infarction in a hypertensive woman with a normal coronary angiogram .",
+        "D009203\tDisease\tmyocardial infarction\tVerapamil withdrawal as a possible cause of <target> myocardial infarction </target> in a hypertensive woman with a normal coronary angiogram .",
+        "D006973\tDisease\thypertensive\tVerapamil withdrawal as a possible cause of myocardial infarction in a <target> hypertensive </target> woman with a normal coronary angiogram .",
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> be an effective and relatively-safe antihypertensive drug .",
+        "D003866\tDisease\tdepression\tserious adverse effect be uncommon and mainly have be relate to the <target> depression </target> of cardiac contractility and conduction , especially when the drug be combine with beta-blocking agent .",
+        "D009203\tDisease\tmyocardial infarction\twe report a case in which <target> myocardial infarction </target> coincide with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension .",
+        "D002216\tChemical\tcaptopril\twe report a case in which myocardial infarction coincide with the introduction of <target> captopril </target> and the withdrawal of verapamil in a previously asymptomatic woman with severe hypertension .",
+        "D014700\tChemical\tverapamil\twe report a case in which myocardial infarction coincide with the introduction of captopril and the withdrawal of <target> verapamil </target> in a previously asymptomatic woman with severe hypertension .",
+        "D006973\tDisease\thypertension\twe report a case in which myocardial infarction coincide with the introduction of captopril and the withdrawal of verapamil in a previously asymptomatic woman with severe <target> hypertension </target> .",
+        "D014700\tChemical\tverapamil\tpossible mechanism that involve a <target> verapamil </target> -related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for catecholamine be discuss .",
+        "D002395\tChemical\tcatecholamines\tpossible mechanism that involve a verapamil-related increase in platelet and/or vascular alpha 2-adrenoreceptor affinity for <target> catecholamine </target> be discuss ."
+    ]
+}

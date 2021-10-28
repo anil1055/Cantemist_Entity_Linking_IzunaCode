@@ -1,0 +1,130 @@
+{
+    "title": "Acetazolamide-induced nephrolithiasis: implications for treatment of neuromuscular disorders.",
+    "abst": "Carbonic anhydrase inhibitors can cause nephrolithiasis. We studied 20 patients receiving long-term carbonic anhydrase inhibitor treatment for periodic paralysis and myotonia. Three patients on acetazolamide (15%) developed renal calculi. Extracorporeal lithotripsy successfully removed a renal calculus in one patient and surgery removed a staghorn calculus in another, permitting continued treatment. Renal function remained normal in all patients. Nephrolithiasis is a complication of acetazolamide but does not preclude its use.",
+    "title_plus_abst": "Acetazolamide-induced nephrolithiasis: implications for treatment of neuromuscular disorders. Carbonic anhydrase inhibitors can cause nephrolithiasis. We studied 20 patients receiving long-term carbonic anhydrase inhibitor treatment for periodic paralysis and myotonia. Three patients on acetazolamide (15%) developed renal calculi. Extracorporeal lithotripsy successfully removed a renal calculus in one patient and surgery removed a staghorn calculus in another, permitting continued treatment. Renal function remained normal in all patients. Nephrolithiasis is a complication of acetazolamide but does not preclude its use.",
+    "pubmed_id": "8170551",
+    "entities": [
+        [
+            0,
+            13,
+            "Acetazolamide",
+            "Chemical",
+            "D000086"
+        ],
+        [
+            22,
+            37,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            69,
+            92,
+            "neuromuscular disorders",
+            "Disease",
+            "D009468"
+        ],
+        [
+            134,
+            149,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            246,
+            255,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            260,
+            268,
+            "myotonia",
+            "Disease",
+            "D009222"
+        ],
+        [
+            288,
+            301,
+            "acetazolamide",
+            "Chemical",
+            "D000086"
+        ],
+        [
+            318,
+            331,
+            "renal calculi",
+            "Disease",
+            "D007669"
+        ],
+        [
+            383,
+            397,
+            "renal calculus",
+            "Disease",
+            "D007669"
+        ],
+        [
+            444,
+            452,
+            "calculus",
+            "Disease",
+            "D002137"
+        ],
+        [
+            545,
+            560,
+            "Nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            582,
+            595,
+            "acetazolamide",
+            "Chemical",
+            "D000086"
+        ]
+    ],
+    "split_sentence": [
+        "Acetazolamide-induced nephrolithiasis: implications for treatment of neuromuscular disorders.",
+        "Carbonic anhydrase inhibitors can cause nephrolithiasis.",
+        "We studied 20 patients receiving long-term carbonic anhydrase inhibitor treatment for periodic paralysis and myotonia.",
+        "Three patients on acetazolamide (15%) developed renal calculi.",
+        "Extracorporeal lithotripsy successfully removed a renal calculus in one patient and surgery removed a staghorn calculus in another, permitting continued treatment.",
+        "Renal function remained normal in all patients.",
+        "Nephrolithiasis is a complication of acetazolamide but does not preclude its use."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000086\tChemical\tAcetazolamide\t<target> Acetazolamide </target> -induced nephrolithiasis : implications for treatment of neuromuscular disorders .",
+        "D053040\tDisease\tnephrolithiasis\tAcetazolamide-induced <target> nephrolithiasis </target> : implications for treatment of neuromuscular disorders .",
+        "D009468\tDisease\tneuromuscular disorders\tAcetazolamide-induced nephrolithiasis : implications for treatment of <target> neuromuscular disorders </target> .",
+        "D053040\tDisease\tnephrolithiasis\tCarbonic anhydrase inhibitors can cause <target> nephrolithiasis </target> .",
+        "D010243\tDisease\tparalysis\tWe studied 20 patients receiving long-term carbonic anhydrase inhibitor treatment for periodic <target> paralysis </target> and myotonia .",
+        "D009222\tDisease\tmyotonia\tWe studied 20 patients receiving long-term carbonic anhydrase inhibitor treatment for periodic paralysis and <target> myotonia </target> .",
+        "D000086\tChemical\tacetazolamide\tThree patients on <target> acetazolamide </target> ( 15 % ) developed renal calculi .",
+        "D007669\tDisease\trenal calculi\tThree patients on acetazolamide ( 15 % ) developed <target> renal calculi </target> .",
+        "D007669\tDisease\trenal calculus\tExtracorporeal lithotripsy successfully removed a <target> renal calculus </target> in one patient and surgery removed a staghorn calculus in another , permitting continued treatment .",
+        "D002137\tDisease\tcalculus\tExtracorporeal lithotripsy successfully removed a renal calculus in one patient and surgery removed a staghorn <target> calculus </target> in another , permitting continued treatment .",
+        "D053040\tDisease\tNephrolithiasis\t<target> Nephrolithiasis </target> is a complication of acetazolamide but does not preclude its use .",
+        "D000086\tChemical\tacetazolamide\tNephrolithiasis is a complication of <target> acetazolamide </target> but does not preclude its use ."
+    ],
+    "lines_lemma": [
+        "D000086\tChemical\tAcetazolamide\t<target> Acetazolamide </target> -induced nephrolithiasis : implication for treatment of neuromuscular disorder .",
+        "D053040\tDisease\tnephrolithiasis\tacetazolamide-induced <target> nephrolithiasis </target> : implication for treatment of neuromuscular disorder .",
+        "D009468\tDisease\tneuromuscular disorders\tacetazolamide-induced nephrolithiasis : implication for treatment of <target> neuromuscular disorder </target> .",
+        "D053040\tDisease\tnephrolithiasis\tcarbonic anhydrase inhibitor can cause <target> nephrolithiasis </target> .",
+        "D010243\tDisease\tparalysis\twe study 20 patient receive long-term carbonic anhydrase inhibitor treatment for periodic <target> paralysis </target> and myotonia .",
+        "D009222\tDisease\tmyotonia\twe study 20 patient receive long-term carbonic anhydrase inhibitor treatment for periodic paralysis and <target> myotonia </target> .",
+        "D000086\tChemical\tacetazolamide\tthree patient on <target> acetazolamide </target> ( 15 % ) develop renal calculus .",
+        "D007669\tDisease\trenal calculi\tthree patient on acetazolamide ( 15 % ) develop <target> renal calculus </target> .",
+        "D007669\tDisease\trenal calculus\textracorporeal lithotripsy successfully remove a <target> renal calculus </target> in one patient and surgery remove a staghorn calculus in another , permit continued treatment .",
+        "D002137\tDisease\tcalculus\textracorporeal lithotripsy successfully remove a renal calculus in one patient and surgery remove a staghorn <target> calculus </target> in another , permit continued treatment .",
+        "D053040\tDisease\tNephrolithiasis\t<target> Nephrolithiasis </target> be a complication of acetazolamide but do not preclude its use .",
+        "D000086\tChemical\tacetazolamide\tnephrolithiasis be a complication of <target> acetazolamide </target> but do not preclude its use ."
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Magnetic resonance imaging of cerebral venous thrombosis secondary to \"low-dose\" birth control pills.",
+    "abst": "The clinical and radiographic features of cerebral deep venous thrombosis in a 21-year-old white woman are presented. This nulliparous patient presented with relatively mild clinical symptoms and progressing mental status changes. The only known risk factor was \"low-dose\" oral contraceptive pills. The magnetic resonance image (MRI) showed increased signal intensity from the internal cerebral veins, vein of Galen, and straight sinus. The diagnosis was confirmed by arterial angiography.",
+    "title_plus_abst": "Magnetic resonance imaging of cerebral venous thrombosis secondary to \"low-dose\" birth control pills. The clinical and radiographic features of cerebral deep venous thrombosis in a 21-year-old white woman are presented. This nulliparous patient presented with relatively mild clinical symptoms and progressing mental status changes. The only known risk factor was \"low-dose\" oral contraceptive pills. The magnetic resonance image (MRI) showed increased signal intensity from the internal cerebral veins, vein of Galen, and straight sinus. The diagnosis was confirmed by arterial angiography.",
+    "pubmed_id": "2819587",
+    "entities": [
+        [
+            39,
+            56,
+            "venous thrombosis",
+            "Disease",
+            "D020246"
+        ],
+        [
+            153,
+            175,
+            "deep venous thrombosis",
+            "Disease",
+            "D020246"
+        ],
+        [
+            375,
+            393,
+            "oral contraceptive",
+            "Chemical",
+            "D003276"
+        ]
+    ],
+    "split_sentence": [
+        "Magnetic resonance imaging of cerebral venous thrombosis secondary to \"low-dose\" birth control pills.",
+        "The clinical and radiographic features of cerebral deep venous thrombosis in a 21-year-old white woman are presented.",
+        "This nulliparous patient presented with relatively mild clinical symptoms and progressing mental status changes.",
+        "The only known risk factor was \"low-dose\" oral contraceptive pills.",
+        "The magnetic resonance image (MRI) showed increased signal intensity from the internal cerebral veins, vein of Galen, and straight sinus.",
+        "The diagnosis was confirmed by arterial angiography."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020246\tDisease\tvenous thrombosis\tMagnetic resonance imaging of cerebral <target> venous thrombosis </target> secondary to \" low-dose \" birth control pills .",
+        "D020246\tDisease\tdeep venous thrombosis\tThe clinical and radiographic features of cerebral <target> deep venous thrombosis </target> in a 21-year-old white woman are presented .",
+        "D003276\tChemical\toral contraceptive\tThe only known risk factor was \" low-dose \" <target> oral contraceptive </target> pills ."
+    ],
+    "lines_lemma": [
+        "D020246\tDisease\tvenous thrombosis\tmagnetic resonance imaging of cerebral <target> venous thrombosis </target> secondary to \" low-dose \" birth control pill .",
+        "D020246\tDisease\tdeep venous thrombosis\tthe clinical and radiographic feature of cerebral <target> deep venous thrombosis </target> in a 21-year-old white woman be present .",
+        "D003276\tChemical\toral contraceptive\tthe only known risk factor be \" low-dose \" <target> oral contraceptive </target> pill ."
+    ]
+}

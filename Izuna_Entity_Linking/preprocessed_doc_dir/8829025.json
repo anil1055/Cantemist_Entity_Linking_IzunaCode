@@ -1,0 +1,147 @@
+{
+    "title": "Effect of nifedipine on renal function in liver transplant recipients receiving tacrolimus.",
+    "abst": "The effect of nifedipine on renal function in liver transplant recipients who were receiving tacrolimus was evaluated between January 1992 and January 1996. Two groups of patients receiving tacrolimus were compared over a period of 1 year, one group comprising hypertensive patients who were receiving nifedipine, and the other comprising nonhypertensive patients not receiving nifedipine. The time from transplant to baseline was similar in all patients. Nifedipine significantly improved kidney function as indicated by a significant lowering of serum creatinine levels at 6 and 12 months. The observed positive impact of nifedipine on reducing the nephrotoxicity associated with tacrolimus in liver transplant recipients should be an important factor in selecting an agent to treat hypertension in this population.",
+    "title_plus_abst": "Effect of nifedipine on renal function in liver transplant recipients receiving tacrolimus. The effect of nifedipine on renal function in liver transplant recipients who were receiving tacrolimus was evaluated between January 1992 and January 1996. Two groups of patients receiving tacrolimus were compared over a period of 1 year, one group comprising hypertensive patients who were receiving nifedipine, and the other comprising nonhypertensive patients not receiving nifedipine. The time from transplant to baseline was similar in all patients. Nifedipine significantly improved kidney function as indicated by a significant lowering of serum creatinine levels at 6 and 12 months. The observed positive impact of nifedipine on reducing the nephrotoxicity associated with tacrolimus in liver transplant recipients should be an important factor in selecting an agent to treat hypertension in this population.",
+    "pubmed_id": "8829025",
+    "entities": [
+        [
+            10,
+            20,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            80,
+            90,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            106,
+            116,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            185,
+            195,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            282,
+            292,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            353,
+            365,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            394,
+            404,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            470,
+            480,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            548,
+            558,
+            "Nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            646,
+            656,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            716,
+            726,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            743,
+            757,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            774,
+            784,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            877,
+            889,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of nifedipine on renal function in liver transplant recipients receiving tacrolimus.",
+        "The effect of nifedipine on renal function in liver transplant recipients who were receiving tacrolimus was evaluated between January 1992 and January 1996.",
+        "Two groups of patients receiving tacrolimus were compared over a period of 1 year, one group comprising hypertensive patients who were receiving nifedipine, and the other comprising nonhypertensive patients not receiving nifedipine.",
+        "The time from transplant to baseline was similar in all patients.",
+        "Nifedipine significantly improved kidney function as indicated by a significant lowering of serum creatinine levels at 6 and 12 months.",
+        "The observed positive impact of nifedipine on reducing the nephrotoxicity associated with tacrolimus in liver transplant recipients should be an important factor in selecting an agent to treat hypertension in this population."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009543\tChemical\tnifedipine\tEffect of <target> nifedipine </target> on renal function in liver transplant recipients receiving tacrolimus .",
+        "D016559\tChemical\ttacrolimus\tEffect of nifedipine on renal function in liver transplant recipients receiving <target> tacrolimus </target> .",
+        "D009543\tChemical\tnifedipine\tThe effect of <target> nifedipine </target> on renal function in liver transplant recipients who were receiving tacrolimus was evaluated between January 1992 and January 1996 .",
+        "D016559\tChemical\ttacrolimus\tThe effect of nifedipine on renal function in liver transplant recipients who were receiving <target> tacrolimus </target> was evaluated between January 1992 and January 1996 .",
+        "D016559\tChemical\ttacrolimus\tTwo groups of patients receiving <target> tacrolimus </target> were compared over a period of 1 year , one group comprising hypertensive patients who were receiving nifedipine , and the other comprising nonhypertensive patients not receiving nifedipine .",
+        "D006973\tDisease\thypertensive\tTwo groups of patients receiving tacrolimus were compared over a period of 1 year , one group comprising <target> hypertensive </target> patients who were receiving nifedipine , and the other comprising nonhypertensive patients not receiving nifedipine .",
+        "D009543\tChemical\tnifedipine\tTwo groups of patients receiving tacrolimus were compared over a period of 1 year , one group comprising hypertensive patients who were receiving <target> nifedipine </target> , and the other comprising nonhypertensive patients not receiving nifedipine .",
+        "D009543\tChemical\tnifedipine\tTwo groups of patients receiving tacrolimus were compared over a period of 1 year , one group comprising hypertensive patients who were receiving nifedipine , and the other comprising nonhypertensive patients not receiving <target> nifedipine </target> .",
+        "D009543\tChemical\tNifedipine\t<target> Nifedipine </target> significantly improved kidney function as indicated by a significant lowering of serum creatinine levels at 6 and 12 months .",
+        "D003404\tChemical\tcreatinine\tNifedipine significantly improved kidney function as indicated by a significant lowering of serum <target> creatinine </target> levels at 6 and 12 months .",
+        "D009543\tChemical\tnifedipine\tThe observed positive impact of <target> nifedipine </target> on reducing the nephrotoxicity associated with tacrolimus in liver transplant recipients should be an important factor in selecting an agent to treat hypertension in this population .",
+        "D007674\tDisease\tnephrotoxicity\tThe observed positive impact of nifedipine on reducing the <target> nephrotoxicity </target> associated with tacrolimus in liver transplant recipients should be an important factor in selecting an agent to treat hypertension in this population .",
+        "D016559\tChemical\ttacrolimus\tThe observed positive impact of nifedipine on reducing the nephrotoxicity associated with <target> tacrolimus </target> in liver transplant recipients should be an important factor in selecting an agent to treat hypertension in this population .",
+        "D006973\tDisease\thypertension\tThe observed positive impact of nifedipine on reducing the nephrotoxicity associated with tacrolimus in liver transplant recipients should be an important factor in selecting an agent to treat <target> hypertension </target> in this population ."
+    ],
+    "lines_lemma": [
+        "D009543\tChemical\tnifedipine\teffect of <target> nifedipine </target> on renal function in liver transplant recipient receive tacrolimus .",
+        "D016559\tChemical\ttacrolimus\teffect of nifedipine on renal function in liver transplant recipient receive <target> tacrolimus </target> .",
+        "D009543\tChemical\tnifedipine\tthe effect of <target> nifedipine </target> on renal function in liver transplant recipient who be receive tacrolimus be evaluate between January 1992 and January 1996 .",
+        "D016559\tChemical\ttacrolimus\tthe effect of nifedipine on renal function in liver transplant recipient who be receive <target> tacrolimus </target> be evaluate between January 1992 and January 1996 .",
+        "D016559\tChemical\ttacrolimus\ttwo group of patient receive <target> tacrolimus </target> be compare over a period of 1 year , one group comprise hypertensive patient who be receive nifedipine , and the other comprise nonhypertensive patient not receive nifedipine .",
+        "D006973\tDisease\thypertensive\ttwo group of patient receive tacrolimus be compare over a period of 1 year , one group comprise <target> hypertensive </target> patient who be receive nifedipine , and the other comprise nonhypertensive patient not receive nifedipine .",
+        "D009543\tChemical\tnifedipine\ttwo group of patient receive tacrolimus be compare over a period of 1 year , one group comprise hypertensive patient who be receive <target> nifedipine </target> , and the other comprise nonhypertensive patient not receive nifedipine .",
+        "D009543\tChemical\tnifedipine\ttwo group of patient receive tacrolimus be compare over a period of 1 year , one group comprise hypertensive patient who be receive nifedipine , and the other comprise nonhypertensive patient not receive <target> nifedipine </target> .",
+        "D009543\tChemical\tNifedipine\t<target> Nifedipine </target> significantly improve kidney function as indicate by a significant lowering of serum creatinine level at 6 and 12 month .",
+        "D003404\tChemical\tcreatinine\tnifedipine significantly improve kidney function as indicate by a significant lowering of serum <target> creatinine </target> level at 6 and 12 month .",
+        "D009543\tChemical\tnifedipine\tthe observe positive impact of <target> nifedipine </target> on reduce the nephrotoxicity associate with tacrolimus in liver transplant recipient should be an important factor in select an agent to treat hypertension in this population .",
+        "D007674\tDisease\tnephrotoxicity\tthe observe positive impact of nifedipine on reduce the <target> nephrotoxicity </target> associate with tacrolimus in liver transplant recipient should be an important factor in select an agent to treat hypertension in this population .",
+        "D016559\tChemical\ttacrolimus\tthe observe positive impact of nifedipine on reduce the nephrotoxicity associate with <target> tacrolimus </target> in liver transplant recipient should be an important factor in select an agent to treat hypertension in this population .",
+        "D006973\tDisease\thypertension\tthe observe positive impact of nifedipine on reduce the nephrotoxicity associate with tacrolimus in liver transplant recipient should be an important factor in select an agent to treat <target> hypertension </target> in this population ."
+    ]
+}

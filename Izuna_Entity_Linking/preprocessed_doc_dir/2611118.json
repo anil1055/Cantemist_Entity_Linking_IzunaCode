@@ -1,0 +1,109 @@
+{
+    "title": "Chronic active hepatitis associated with diclofenac sodium therapy.",
+    "abst": "Diclofenac sodium (Voltarol, Geigy Pharmaceuticals) is a non-steroidal anti-inflammatory derivative of phenylacetic acid. Although generally well-tolerated, asymptomatic abnormalities of liver function have been recorded and, less commonly, severe hepatitis induced by diclofenac. The patient described developed chronic active hepatitis after six months therapy with diclofenac sodium which progressed despite the withdrawal of the drug, a finding not previously reported.",
+    "title_plus_abst": "Chronic active hepatitis associated with diclofenac sodium therapy. Diclofenac sodium (Voltarol, Geigy Pharmaceuticals) is a non-steroidal anti-inflammatory derivative of phenylacetic acid. Although generally well-tolerated, asymptomatic abnormalities of liver function have been recorded and, less commonly, severe hepatitis induced by diclofenac. The patient described developed chronic active hepatitis after six months therapy with diclofenac sodium which progressed despite the withdrawal of the drug, a finding not previously reported.",
+    "pubmed_id": "2611118",
+    "entities": [
+        [
+            0,
+            24,
+            "Chronic active hepatitis",
+            "Disease",
+            "D006521"
+        ],
+        [
+            41,
+            58,
+            "diclofenac sodium",
+            "Chemical",
+            "D004008"
+        ],
+        [
+            68,
+            85,
+            "Diclofenac sodium",
+            "Chemical",
+            "D004008"
+        ],
+        [
+            87,
+            95,
+            "Voltarol",
+            "Chemical",
+            "D004008"
+        ],
+        [
+            171,
+            188,
+            "phenylacetic acid",
+            "Chemical",
+            "C025136"
+        ],
+        [
+            238,
+            269,
+            "abnormalities of liver function",
+            "Disease",
+            "D056486"
+        ],
+        [
+            316,
+            325,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            337,
+            347,
+            "diclofenac",
+            "Chemical",
+            "D004008"
+        ],
+        [
+            381,
+            405,
+            "chronic active hepatitis",
+            "Disease",
+            "D006521"
+        ],
+        [
+            436,
+            453,
+            "diclofenac sodium",
+            "Chemical",
+            "D004008"
+        ]
+    ],
+    "split_sentence": [
+        "Chronic active hepatitis associated with diclofenac sodium therapy.",
+        "Diclofenac sodium (Voltarol, Geigy Pharmaceuticals) is a non-steroidal anti-inflammatory derivative of phenylacetic acid.",
+        "Although generally well-tolerated, asymptomatic abnormalities of liver function have been recorded and, less commonly, severe hepatitis induced by diclofenac.",
+        "The patient described developed chronic active hepatitis after six months therapy with diclofenac sodium which progressed despite the withdrawal of the drug, a finding not previously reported."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006521\tDisease\tChronic active hepatitis\t<target> Chronic active hepatitis </target> associated with diclofenac sodium therapy .",
+        "D004008\tChemical\tdiclofenac sodium\tChronic active hepatitis associated with <target> diclofenac sodium </target> therapy .",
+        "D004008\tChemical\tDiclofenac sodium\t<target> Diclofenac sodium </target> ( Voltarol , Geigy Pharmaceuticals ) is a non-steroidal anti-inflammatory derivative of phenylacetic acid .",
+        "D004008\tChemical\tVoltarol\tDiclofenac sodium ( <target> Voltarol </target> , Geigy Pharmaceuticals ) is a non-steroidal anti-inflammatory derivative of phenylacetic acid .",
+        "C025136\tChemical\tphenylacetic acid\tDiclofenac sodium ( Voltarol , Geigy Pharmaceuticals ) is a non-steroidal anti-inflammatory derivative of <target> phenylacetic acid </target> .",
+        "D056486\tDisease\tabnormalities of liver function\tAlthough generally well-tolerated , asymptomatic <target> abnormalities of liver function </target> have been recorded and , less commonly , severe hepatitis induced by diclofenac .",
+        "D056486\tDisease\thepatitis\tAlthough generally well-tolerated , asymptomatic abnormalities of liver function have been recorded and , less commonly , severe <target> hepatitis </target> induced by diclofenac .",
+        "D004008\tChemical\tdiclofenac\tAlthough generally well-tolerated , asymptomatic abnormalities of liver function have been recorded and , less commonly , severe hepatitis induced by <target> diclofenac </target> .",
+        "D006521\tDisease\tchronic active hepatitis\tThe patient described developed <target> chronic active hepatitis </target> after six months therapy with diclofenac sodium which progressed despite the withdrawal of the drug , a finding not previously reported .",
+        "D004008\tChemical\tdiclofenac sodium\tThe patient described developed chronic active hepatitis after six months therapy with <target> diclofenac sodium </target> which progressed despite the withdrawal of the drug , a finding not previously reported ."
+    ],
+    "lines_lemma": [
+        "D006521\tDisease\tChronic active hepatitis\t<target> chronic active hepatitis </target> associate with diclofenac sodium therapy .",
+        "D004008\tChemical\tdiclofenac sodium\tchronic active hepatitis associate with <target> diclofenac sodium </target> therapy .",
+        "D004008\tChemical\tDiclofenac sodium\t<target> diclofenac sodium </target> ( voltarol , Geigy Pharmaceuticals ) be a non-steroidal anti-inflammatory derivative of phenylacetic acid .",
+        "D004008\tChemical\tVoltarol\tdiclofenac sodium ( <target> voltarol </target> , Geigy Pharmaceuticals ) be a non-steroidal anti-inflammatory derivative of phenylacetic acid .",
+        "C025136\tChemical\tphenylacetic acid\tdiclofenac sodium ( voltarol , Geigy Pharmaceuticals ) be a non-steroidal anti-inflammatory derivative of <target> phenylacetic acid </target> .",
+        "D056486\tDisease\tabnormalities of liver function\talthough generally well-tolerated , asymptomatic <target> abnormality of liver function </target> have be record and , less commonly , severe hepatitis induce by diclofenac .",
+        "D056486\tDisease\thepatitis\talthough generally well-tolerated , asymptomatic abnormality of liver function have be record and , less commonly , severe <target> hepatitis </target> induce by diclofenac .",
+        "D004008\tChemical\tdiclofenac\talthough generally well-tolerated , asymptomatic abnormality of liver function have be record and , less commonly , severe hepatitis induce by <target> diclofenac </target> .",
+        "D006521\tDisease\tchronic active hepatitis\tthe patient describe develop <target> chronic active hepatitis </target> after six month therapy with diclofenac sodium which progress despite the withdrawal of the drug , a finding not previously report .",
+        "D004008\tChemical\tdiclofenac sodium\tthe patient describe develop chronic active hepatitis after six month therapy with <target> diclofenac sodium </target> which progress despite the withdrawal of the drug , a finding not previously report ."
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "title": "Possible intramuscular midazolam-associated cardiorespiratory arrest and death.",
+    "abst": "Midazolam hydrochloride is commonly used for dental or endoscopic procedures. Although generally consisted safe when given intramuscularly, intravenous administration is known to cause respiratory and cardiovascular depression. This report describes the first published case of cardiorespiratory arrest and death associated with intramuscular administration of midazolam. Information regarding midazolam use is reviewed to provide recommendation for safe administration.",
+    "title_plus_abst": "Possible intramuscular midazolam-associated cardiorespiratory arrest and death. Midazolam hydrochloride is commonly used for dental or endoscopic procedures. Although generally consisted safe when given intramuscularly, intravenous administration is known to cause respiratory and cardiovascular depression. This report describes the first published case of cardiorespiratory arrest and death associated with intramuscular administration of midazolam. Information regarding midazolam use is reviewed to provide recommendation for safe administration.",
+    "pubmed_id": "2375138",
+    "entities": [
+        [
+            23,
+            32,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            44,
+            68,
+            "cardiorespiratory arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            73,
+            78,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            80,
+            103,
+            "Midazolam hydrochloride",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            358,
+            382,
+            "cardiorespiratory arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            387,
+            392,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            441,
+            450,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            474,
+            483,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ]
+    ],
+    "split_sentence": [
+        "Possible intramuscular midazolam-associated cardiorespiratory arrest and death.",
+        "Midazolam hydrochloride is commonly used for dental or endoscopic procedures.",
+        "Although generally consisted safe when given intramuscularly, intravenous administration is known to cause respiratory and cardiovascular depression.",
+        "This report describes the first published case of cardiorespiratory arrest and death associated with intramuscular administration of midazolam.",
+        "Information regarding midazolam use is reviewed to provide recommendation for safe administration."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008874\tChemical\tmidazolam\tPossible intramuscular <target> midazolam </target> -associated cardiorespiratory arrest and death .",
+        "D006323\tDisease\tcardiorespiratory arrest\tPossible intramuscular midazolam-associated <target> cardiorespiratory arrest </target> and death .",
+        "D003643\tDisease\tdeath\tPossible intramuscular midazolam-associated cardiorespiratory arrest and <target> death </target> .",
+        "D008874\tChemical\tMidazolam hydrochloride\t<target> Midazolam hydrochloride </target> is commonly used for dental or endoscopic procedures .",
+        "D006323\tDisease\tcardiorespiratory arrest\tThis report describes the first published case of <target> cardiorespiratory arrest </target> and death associated with intramuscular administration of midazolam .",
+        "D003643\tDisease\tdeath\tThis report describes the first published case of cardiorespiratory arrest and <target> death </target> associated with intramuscular administration of midazolam .",
+        "D008874\tChemical\tmidazolam\tThis report describes the first published case of cardiorespiratory arrest and death associated with intramuscular administration of <target> midazolam </target> .",
+        "D008874\tChemical\tmidazolam\tInformation regarding <target> midazolam </target> use is reviewed to provide recommendation for safe administration ."
+    ],
+    "lines_lemma": [
+        "D008874\tChemical\tmidazolam\tpossible intramuscular <target> midazolam </target> -associated cardiorespiratory arrest and death .",
+        "D006323\tDisease\tcardiorespiratory arrest\tpossible intramuscular midazolam-associated <target> cardiorespiratory arrest </target> and death .",
+        "D003643\tDisease\tdeath\tpossible intramuscular midazolam-associated cardiorespiratory arrest and <target> death </target> .",
+        "D008874\tChemical\tMidazolam hydrochloride\t<target> Midazolam hydrochloride </target> be commonly use for dental or endoscopic procedure .",
+        "D006323\tDisease\tcardiorespiratory arrest\tthis report describe the first publish case of <target> cardiorespiratory arrest </target> and death associate with intramuscular administration of midazolam .",
+        "D003643\tDisease\tdeath\tthis report describe the first publish case of cardiorespiratory arrest and <target> death </target> associate with intramuscular administration of midazolam .",
+        "D008874\tChemical\tmidazolam\tthis report describe the first publish case of cardiorespiratory arrest and death associate with intramuscular administration of <target> midazolam </target> .",
+        "D008874\tChemical\tmidazolam\tinformation regard <target> midazolam </target> use be review to provide recommendation for safe administration ."
+    ]
+}

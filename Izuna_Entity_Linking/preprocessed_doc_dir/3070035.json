@@ -1,0 +1,100 @@
+{
+    "title": "Reversibility of captopril-induced renal insufficiency after prolonged use in an unusual case of renovascular hypertension.",
+    "abst": "We report a case of severe hypertension with an occluded renal artery to a solitary kidney, who developed sudden deterioration of renal function following treatment with captopril. His renal function remained impaired but stable during 2 years' treatment with captopril but returned to pre-treatment levels soon after cessation of the drug. This indicates reversibility in captopril-induced renal failure even after its prolonged use and suggests that no organic damage occurs to glomerular arterioles following chronic ACE inhibition.",
+    "title_plus_abst": "Reversibility of captopril-induced renal insufficiency after prolonged use in an unusual case of renovascular hypertension. We report a case of severe hypertension with an occluded renal artery to a solitary kidney, who developed sudden deterioration of renal function following treatment with captopril. His renal function remained impaired but stable during 2 years' treatment with captopril but returned to pre-treatment levels soon after cessation of the drug. This indicates reversibility in captopril-induced renal failure even after its prolonged use and suggests that no organic damage occurs to glomerular arterioles following chronic ACE inhibition.",
+    "pubmed_id": "3070035",
+    "entities": [
+        [
+            17,
+            26,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            35,
+            54,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ],
+        [
+            97,
+            122,
+            "renovascular hypertension",
+            "Disease",
+            "D006978"
+        ],
+        [
+            151,
+            163,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            230,
+            268,
+            "sudden deterioration of renal function",
+            "Disease",
+            "D058186"
+        ],
+        [
+            294,
+            303,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            384,
+            393,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            497,
+            506,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            515,
+            528,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ]
+    ],
+    "split_sentence": [
+        "Reversibility of captopril-induced renal insufficiency after prolonged use in an unusual case of renovascular hypertension.",
+        "We report a case of severe hypertension with an occluded renal artery to a solitary kidney, who developed sudden deterioration of renal function following treatment with captopril.",
+        "His renal function remained impaired but stable during 2 years' treatment with captopril but returned to pre-treatment levels soon after cessation of the drug.",
+        "This indicates reversibility in captopril-induced renal failure even after its prolonged use and suggests that no organic damage occurs to glomerular arterioles following chronic ACE inhibition."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002216\tChemical\tcaptopril\tReversibility of <target> captopril </target> -induced renal insufficiency after prolonged use in an unusual case of renovascular hypertension .",
+        "D051437\tDisease\trenal insufficiency\tReversibility of captopril-induced <target> renal insufficiency </target> after prolonged use in an unusual case of renovascular hypertension .",
+        "D006978\tDisease\trenovascular hypertension\tReversibility of captopril-induced renal insufficiency after prolonged use in an unusual case of <target> renovascular hypertension </target> .",
+        "D006973\tDisease\thypertension\tWe report a case of severe <target> hypertension </target> with an occluded renal artery to a solitary kidney , who developed sudden deterioration of renal function following treatment with captopril .",
+        "D058186\tDisease\tsudden deterioration of renal function\tWe report a case of severe hypertension with an occluded renal artery to a solitary kidney , who developed <target> sudden deterioration of renal function </target> following treatment with captopril .",
+        "D002216\tChemical\tcaptopril\tWe report a case of severe hypertension with an occluded renal artery to a solitary kidney , who developed sudden deterioration of renal function following treatment with <target> captopril </target> .",
+        "D002216\tChemical\tcaptopril\tHis renal function remained impaired but stable during 2 years ' treatment with <target> captopril </target> but returned to pre-treatment levels soon after cessation of the drug .",
+        "D002216\tChemical\tcaptopril\tThis indicates reversibility in <target> captopril </target> -induced renal failure even after its prolonged use and suggests that no organic damage occurs to glomerular arterioles following chronic ACE inhibition .",
+        "D051437\tDisease\trenal failure\tThis indicates reversibility in captopril-induced <target> renal failure </target> even after its prolonged use and suggests that no organic damage occurs to glomerular arterioles following chronic ACE inhibition ."
+    ],
+    "lines_lemma": [
+        "D002216\tChemical\tcaptopril\treversibility of <target> captopril </target> -induced renal insufficiency after prolonged use in an unusual case of renovascular hypertension .",
+        "D051437\tDisease\trenal insufficiency\treversibility of captopril-induced <target> renal insufficiency </target> after prolonged use in an unusual case of renovascular hypertension .",
+        "D006978\tDisease\trenovascular hypertension\treversibility of captopril-induced renal insufficiency after prolonged use in an unusual case of <target> renovascular hypertension </target> .",
+        "D006973\tDisease\thypertension\twe report a case of severe <target> hypertension </target> with an occluded renal artery to a solitary kidney , who develop sudden deterioration of renal function follow treatment with captopril .",
+        "D058186\tDisease\tsudden deterioration of renal function\twe report a case of severe hypertension with an occluded renal artery to a solitary kidney , who develop <target> sudden deterioration of renal function </target> follow treatment with captopril .",
+        "D002216\tChemical\tcaptopril\twe report a case of severe hypertension with an occluded renal artery to a solitary kidney , who develop sudden deterioration of renal function follow treatment with <target> captopril </target> .",
+        "D002216\tChemical\tcaptopril\this renal function remain impaired but stable during 2 year ' treatment with <target> captopril </target> but return to pre-treatment level soon after cessation of the drug .",
+        "D002216\tChemical\tcaptopril\tthis indicate reversibility in <target> captopril </target> -induced renal failure even after its prolonged use and suggest that no organic damage occur to glomerular arteriole follow chronic ace inhibition .",
+        "D051437\tDisease\trenal failure\tthis indicate reversibility in captopril-induced <target> renal failure </target> even after its prolonged use and suggest that no organic damage occur to glomerular arteriole follow chronic ace inhibition ."
+    ]
+}

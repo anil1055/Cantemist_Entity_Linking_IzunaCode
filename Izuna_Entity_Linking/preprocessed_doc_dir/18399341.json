@@ -1,0 +1,101 @@
+{
+    "title": "Clinical comparison of cardiorespiratory effects during unilateral and conventional spinal anaesthesia.",
+    "abst": "BACKGROUND: Spinal anaesthesia is widely employed in clinical practice but has the main drawback of post-spinal block hypotension. Efforts must therefore continue to be made to obviate this setback OBJECTIVE: To evaluate the cardiovascular and respiratory changes during unilateral and conventional spinal anaesthesia. METHODS: With ethical approval, we studied 74 American Society of Anesthesiologists (ASA), physical status class 1 and 2 patients scheduled for elective unilateral lower limb surgery. Patients were randomly allocated into one of two groups: lateral and conventional spinal anaesthesia groups. In the lateral position with operative side down, patients recived 10 mg (2mls) of 0.5% hyperbaric bupivacaine through a 25-gauge spinal needle. Patients in the unilateral group were maintained in the lateral position for 15 minutes following spinal injection while those in the conventional group were turned supine immediately after injection. Blood pressure, heart rate, respiratory rate and oxygen saturation were monitored over 1 hour. RESULTS: Three patients (8.1%) in the unilateral group and 5 (13.5%) in the conventional group developed hypotension, P= 0.71. Four (10.8%) patients in the conventional group and 1 (2.7%) in the unilateral group, P= 0.17 required epinephrine infusion to treat hypotension. Patients in the conventional group had statistically significant greater fall in the systolic blood pressures at 15, 30 and 45 minutes when compared to the baseline (P= 0.003, 0.001 and 0.004). The mean respiratory rate and oxygen saturations in the two groups were similar. CONCLUSION: Compared to conventional spinal anaesthesia, unilateral spinal anaesthesia was associated with fewer cardiovascular perturbations. Also, the type of spinal block instituted affected neither the respiratory rate nor the arterial oxygen saturation.",
+    "title_plus_abst": "Clinical comparison of cardiorespiratory effects during unilateral and conventional spinal anaesthesia. BACKGROUND: Spinal anaesthesia is widely employed in clinical practice but has the main drawback of post-spinal block hypotension. Efforts must therefore continue to be made to obviate this setback OBJECTIVE: To evaluate the cardiovascular and respiratory changes during unilateral and conventional spinal anaesthesia. METHODS: With ethical approval, we studied 74 American Society of Anesthesiologists (ASA), physical status class 1 and 2 patients scheduled for elective unilateral lower limb surgery. Patients were randomly allocated into one of two groups: lateral and conventional spinal anaesthesia groups. In the lateral position with operative side down, patients recived 10 mg (2mls) of 0.5% hyperbaric bupivacaine through a 25-gauge spinal needle. Patients in the unilateral group were maintained in the lateral position for 15 minutes following spinal injection while those in the conventional group were turned supine immediately after injection. Blood pressure, heart rate, respiratory rate and oxygen saturation were monitored over 1 hour. RESULTS: Three patients (8.1%) in the unilateral group and 5 (13.5%) in the conventional group developed hypotension, P= 0.71. Four (10.8%) patients in the conventional group and 1 (2.7%) in the unilateral group, P= 0.17 required epinephrine infusion to treat hypotension. Patients in the conventional group had statistically significant greater fall in the systolic blood pressures at 15, 30 and 45 minutes when compared to the baseline (P= 0.003, 0.001 and 0.004). The mean respiratory rate and oxygen saturations in the two groups were similar. CONCLUSION: Compared to conventional spinal anaesthesia, unilateral spinal anaesthesia was associated with fewer cardiovascular perturbations. Also, the type of spinal block instituted affected neither the respiratory rate nor the arterial oxygen saturation.",
+    "pubmed_id": "18399341",
+    "entities": [
+        [
+            222,
+            233,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            815,
+            826,
+            "bupivacaine",
+            "Chemical",
+            "D002045"
+        ],
+        [
+            1111,
+            1117,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            1262,
+            1273,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            1387,
+            1398,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            1417,
+            1428,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            1654,
+            1660,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            1945,
+            1951,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ]
+    ],
+    "split_sentence": [
+        "Clinical comparison of cardiorespiratory effects during unilateral and conventional spinal anaesthesia.",
+        "BACKGROUND: Spinal anaesthesia is widely employed in clinical practice but has the main drawback of post-spinal block hypotension.",
+        "Efforts must therefore continue to be made to obviate this setback OBJECTIVE: To evaluate the cardiovascular and respiratory changes during unilateral and conventional spinal anaesthesia.",
+        "METHODS: With ethical approval, we studied 74 American Society of Anesthesiologists (ASA), physical status class 1 and 2 patients scheduled for elective unilateral lower limb surgery.",
+        "Patients were randomly allocated into one of two groups: lateral and conventional spinal anaesthesia groups.",
+        "In the lateral position with operative side down, patients recived 10 mg (2mls) of 0.5% hyperbaric bupivacaine through a 25-gauge spinal needle.",
+        "Patients in the unilateral group were maintained in the lateral position for 15 minutes following spinal injection while those in the conventional group were turned supine immediately after injection.",
+        "Blood pressure, heart rate, respiratory rate and oxygen saturation were monitored over 1 hour.",
+        "RESULTS: Three patients (8.1%) in the unilateral group and 5 (13.5%) in the conventional group developed hypotension, P= 0.71.",
+        "Four (10.8%) patients in the conventional group and 1 (2.7%) in the unilateral group, P= 0.17 required epinephrine infusion to treat hypotension.",
+        "Patients in the conventional group had statistically significant greater fall in the systolic blood pressures at 15, 30 and 45 minutes when compared to the baseline (P= 0.003, 0.001 and 0.004).",
+        "The mean respiratory rate and oxygen saturations in the two groups were similar.",
+        "CONCLUSION: Compared to conventional spinal anaesthesia, unilateral spinal anaesthesia was associated with fewer cardiovascular perturbations.",
+        "Also, the type of spinal block instituted affected neither the respiratory rate nor the arterial oxygen saturation."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007022\tDisease\thypotension\tBACKGROUND : Spinal anaesthesia is widely employed in clinical practice but has the main drawback of post-spinal block <target> hypotension </target> .",
+        "D002045\tChemical\tbupivacaine\tIn the lateral position with operative side down , patients recived 10 mg ( 2mls ) of 0.5 % hyperbaric <target> bupivacaine </target> through a 25-gauge spinal needle .",
+        "D010100\tChemical\toxygen\tBlood pressure , heart rate , respiratory rate and <target> oxygen </target> saturation were monitored over 1 hour .",
+        "D007022\tDisease\thypotension\tRESULTS : Three patients ( 8.1 % ) in the unilateral group and 5 ( 13.5 % ) in the conventional group developed <target> hypotension </target> , P= 0.71 .",
+        "D004837\tChemical\tepinephrine\tFour ( 10.8 % ) patients in the conventional group and 1 ( 2.7 % ) in the unilateral group , P= 0.17 required <target> epinephrine </target> infusion to treat hypotension .",
+        "D007022\tDisease\thypotension\tFour ( 10.8 % ) patients in the conventional group and 1 ( 2.7 % ) in the unilateral group , P= 0.17 required epinephrine infusion to treat <target> hypotension </target> .",
+        "D010100\tChemical\toxygen\tThe mean respiratory rate and <target> oxygen </target> saturations in the two groups were similar .",
+        "D010100\tChemical\toxygen\tAlso , the type of spinal block instituted affected neither the respiratory rate nor the arterial <target> oxygen </target> saturation ."
+    ],
+    "lines_lemma": [
+        "D007022\tDisease\thypotension\tbackground : spinal anaesthesia be widely employ in clinical practice but have the main drawback of post-spinal block <target> hypotension </target> .",
+        "D002045\tChemical\tbupivacaine\tin the lateral position with operative side down , patient recive 10 mg ( 2mls ) of 0.5 % hyperbaric <target> bupivacaine </target> through a 25-gauge spinal needle .",
+        "D010100\tChemical\toxygen\tblood pressure , heart rate , respiratory rate and <target> oxygen </target> saturation be monitor over 1 hour .",
+        "D007022\tDisease\thypotension\tresult : three patient ( 8.1 % ) in the unilateral group and 5 ( 13.5 % ) in the conventional group develop <target> hypotension </target> , p= 0.71 .",
+        "D004837\tChemical\tepinephrine\tfour ( 10.8 % ) patient in the conventional group and 1 ( 2.7 % ) in the unilateral group , p= 0.17 require <target> epinephrine </target> infusion to treat hypotension .",
+        "D007022\tDisease\thypotension\tfour ( 10.8 % ) patient in the conventional group and 1 ( 2.7 % ) in the unilateral group , p= 0.17 require epinephrine infusion to treat <target> hypotension </target> .",
+        "D010100\tChemical\toxygen\tthe mean respiratory rate and <target> oxygen </target> saturation in the two group be similar .",
+        "D010100\tChemical\toxygen\talso , the type of spinal block institute affect neither the respiratory rate nor the arterial <target> oxygen </target> saturation ."
+    ]
+}

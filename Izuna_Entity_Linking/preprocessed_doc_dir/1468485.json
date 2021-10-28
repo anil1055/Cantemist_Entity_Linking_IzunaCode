@@ -1,0 +1,112 @@
+{
+    "title": "Hyperbaric oxygen therapy for control of intractable cyclophosphamide-induced hemorrhagic cystitis.",
+    "abst": "We report a case of intractable hemorrhagic cystitis due to cyclophosphamide therapy for Wegener's granulomatosis. Conservative treatment, including bladder irrigation with physiological saline and instillation of prostaglandin F2 alpha, failed to totally control hemorrhage. We then used hyperbaric oxygen at an absolute pressure of 2 atm, 5 days a week for 8 consecutive weeks. The bleeding ceased completely by the end of treatment and the patient remained free of hematuria thereafter. No side effect was noted during the course of therapy. In future, this form of therapy can offer a safe alternative in the treatment of cyclophosphamide-induced hemorrhagic cystitis.",
+    "title_plus_abst": "Hyperbaric oxygen therapy for control of intractable cyclophosphamide-induced hemorrhagic cystitis. We report a case of intractable hemorrhagic cystitis due to cyclophosphamide therapy for Wegener's granulomatosis. Conservative treatment, including bladder irrigation with physiological saline and instillation of prostaglandin F2 alpha, failed to totally control hemorrhage. We then used hyperbaric oxygen at an absolute pressure of 2 atm, 5 days a week for 8 consecutive weeks. The bleeding ceased completely by the end of treatment and the patient remained free of hematuria thereafter. No side effect was noted during the course of therapy. In future, this form of therapy can offer a safe alternative in the treatment of cyclophosphamide-induced hemorrhagic cystitis.",
+    "pubmed_id": "1468485",
+    "entities": [
+        [
+            11,
+            17,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            53,
+            69,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            160,
+            176,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            189,
+            213,
+            "Wegener's granulomatosis",
+            "Disease",
+            "D014890"
+        ],
+        [
+            314,
+            336,
+            "prostaglandin F2 alpha",
+            "Chemical",
+            "D015237"
+        ],
+        [
+            364,
+            374,
+            "hemorrhage",
+            "Disease",
+            "D006470"
+        ],
+        [
+            400,
+            406,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            484,
+            492,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ],
+        [
+            568,
+            577,
+            "hematuria",
+            "Disease",
+            "D006417"
+        ],
+        [
+            726,
+            742,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ]
+    ],
+    "split_sentence": [
+        "Hyperbaric oxygen therapy for control of intractable cyclophosphamide-induced hemorrhagic cystitis.",
+        "We report a case of intractable hemorrhagic cystitis due to cyclophosphamide therapy for Wegener's granulomatosis.",
+        "Conservative treatment, including bladder irrigation with physiological saline and instillation of prostaglandin F2 alpha, failed to totally control hemorrhage.",
+        "We then used hyperbaric oxygen at an absolute pressure of 2 atm, 5 days a week for 8 consecutive weeks.",
+        "The bleeding ceased completely by the end of treatment and the patient remained free of hematuria thereafter.",
+        "No side effect was noted during the course of therapy.",
+        "In future, this form of therapy can offer a safe alternative in the treatment of cyclophosphamide-induced hemorrhagic cystitis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010100\tChemical\toxygen\tHyperbaric <target> oxygen </target> therapy for control of intractable cyclophosphamide-induced hemorrhagic cystitis .",
+        "D003520\tChemical\tcyclophosphamide\tHyperbaric oxygen therapy for control of intractable <target> cyclophosphamide </target> -induced hemorrhagic cystitis .",
+        "D003520\tChemical\tcyclophosphamide\tWe report a case of intractable hemorrhagic cystitis due to <target> cyclophosphamide </target> therapy for Wegener 's granulomatosis .",
+        "D014890\tDisease\tWegener's granulomatosis\tWe report a case of intractable hemorrhagic cystitis due to cyclophosphamide therapy for <target> Wegener 's granulomatosis </target> .",
+        "D015237\tChemical\tprostaglandin F2 alpha\tConservative treatment , including bladder irrigation with physiological saline and instillation of <target> prostaglandin F2 alpha </target> , failed to totally control hemorrhage .",
+        "D006470\tDisease\themorrhage\tConservative treatment , including bladder irrigation with physiological saline and instillation of prostaglandin F2 alpha , failed to totally control <target> hemorrhage </target> .",
+        "D010100\tChemical\toxygen\tWe then used hyperbaric <target> oxygen </target> at an absolute pressure of 2 atm , 5 days a week for 8 consecutive weeks .",
+        "D006470\tDisease\tbleeding\tThe <target> bleeding </target> ceased completely by the end of treatment and the patient remained free of hematuria thereafter .",
+        "D006417\tDisease\thematuria\tThe bleeding ceased completely by the end of treatment and the patient remained free of <target> hematuria </target> thereafter .",
+        "D003520\tChemical\tcyclophosphamide\tIn future , this form of therapy can offer a safe alternative in the treatment of <target> cyclophosphamide </target> -induced hemorrhagic cystitis ."
+    ],
+    "lines_lemma": [
+        "D010100\tChemical\toxygen\tHyperbaric <target> oxygen </target> therapy for control of intractable cyclophosphamide-induced hemorrhagic cystitis .",
+        "D003520\tChemical\tcyclophosphamide\thyperbaric oxygen therapy for control of intractable <target> cyclophosphamide </target> -induced hemorrhagic cystitis .",
+        "D003520\tChemical\tcyclophosphamide\twe report a case of intractable hemorrhagic cystitis due to <target> cyclophosphamide </target> therapy for Wegener 's granulomatosis .",
+        "D014890\tDisease\tWegener's granulomatosis\twe report a case of intractable hemorrhagic cystitis due to cyclophosphamide therapy for <target> Wegener 's granulomatosis </target> .",
+        "D015237\tChemical\tprostaglandin F2 alpha\tconservative treatment , include bladder irrigation with physiological saline and instillation of <target> prostaglandin f2 alpha </target> , fail to totally control hemorrhage .",
+        "D006470\tDisease\themorrhage\tconservative treatment , include bladder irrigation with physiological saline and instillation of prostaglandin f2 alpha , fail to totally control <target> hemorrhage </target> .",
+        "D010100\tChemical\toxygen\twe then use hyperbaric <target> oxygen </target> at an absolute pressure of 2 atm , 5 day a week for 8 consecutive week .",
+        "D006470\tDisease\tbleeding\tthe <target> bleeding </target> cease completely by the end of treatment and the patient remain free of hematuria thereafter .",
+        "D006417\tDisease\thematuria\tthe bleeding cease completely by the end of treatment and the patient remain free of <target> hematuria </target> thereafter .",
+        "D003520\tChemical\tcyclophosphamide\tin future , this form of therapy can offer a safe alternative in the treatment of <target> cyclophosphamide </target> -induced hemorrhagic cystitis ."
+    ]
+}

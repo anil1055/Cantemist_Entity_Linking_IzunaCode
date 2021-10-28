@@ -1,0 +1,110 @@
+{
+    "title": "Pulmonary hypertension after ibuprofen prophylaxis in very preterm infants.",
+    "abst": "We report three cases of severe hypoxaemia after ibuprofen administration during a randomised controlled trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infants born at less than 28 weeks of gestation. Echocardiography showed severely decreased pulmonary blood flow. Hypoxaemia resolved quickly on inhaled nitric oxide therapy. We suggest that investigators involved in similar trials pay close attention to pulmonary pressure if hypoxaemia occurs after prophylactic administration of ibuprofen.",
+    "title_plus_abst": "Pulmonary hypertension after ibuprofen prophylaxis in very preterm infants. We report three cases of severe hypoxaemia after ibuprofen administration during a randomised controlled trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infants born at less than 28 weeks of gestation. Echocardiography showed severely decreased pulmonary blood flow. Hypoxaemia resolved quickly on inhaled nitric oxide therapy. We suggest that investigators involved in similar trials pay close attention to pulmonary pressure if hypoxaemia occurs after prophylactic administration of ibuprofen.",
+    "pubmed_id": "11988250",
+    "entities": [
+        [
+            0,
+            22,
+            "Pulmonary hypertension",
+            "Disease",
+            "D006976"
+        ],
+        [
+            29,
+            38,
+            "ibuprofen",
+            "Chemical",
+            "D007052"
+        ],
+        [
+            108,
+            118,
+            "hypoxaemia",
+            "Disease",
+            "D000860"
+        ],
+        [
+            125,
+            134,
+            "ibuprofen",
+            "Chemical",
+            "D007052"
+        ],
+        [
+            216,
+            240,
+            "patent ductus arteriosus",
+            "Disease",
+            "D004374"
+        ],
+        [
+            246,
+            255,
+            "ibuprofen",
+            "Chemical",
+            "D007052"
+        ],
+        [
+            383,
+            393,
+            "Hypoxaemia",
+            "Disease",
+            "D000860"
+        ],
+        [
+            422,
+            434,
+            "nitric oxide",
+            "Chemical",
+            "D009569"
+        ],
+        [
+            546,
+            556,
+            "hypoxaemia",
+            "Disease",
+            "D000860"
+        ],
+        [
+            601,
+            610,
+            "ibuprofen",
+            "Chemical",
+            "D007052"
+        ]
+    ],
+    "split_sentence": [
+        "Pulmonary hypertension after ibuprofen prophylaxis in very preterm infants.",
+        "We report three cases of severe hypoxaemia after ibuprofen administration during a randomised controlled trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infants born at less than 28 weeks of gestation.",
+        "Echocardiography showed severely decreased pulmonary blood flow.",
+        "Hypoxaemia resolved quickly on inhaled nitric oxide therapy.",
+        "We suggest that investigators involved in similar trials pay close attention to pulmonary pressure if hypoxaemia occurs after prophylactic administration of ibuprofen."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006976\tDisease\tPulmonary hypertension\t<target> Pulmonary hypertension </target> after ibuprofen prophylaxis in very preterm infants .",
+        "D007052\tChemical\tibuprofen\tPulmonary hypertension after <target> ibuprofen </target> prophylaxis in very preterm infants .",
+        "D000860\tDisease\thypoxaemia\tWe report three cases of severe <target> hypoxaemia </target> after ibuprofen administration during a randomised controlled trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infants born at less than 28 weeks of gestation .",
+        "D007052\tChemical\tibuprofen\tWe report three cases of severe hypoxaemia after <target> ibuprofen </target> administration during a randomised controlled trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infants born at less than 28 weeks of gestation .",
+        "D004374\tDisease\tpatent ductus arteriosus\tWe report three cases of severe hypoxaemia after ibuprofen administration during a randomised controlled trial of prophylactic treatment of <target> patent ductus arteriosus </target> with ibuprofen in premature infants born at less than 28 weeks of gestation .",
+        "D007052\tChemical\tibuprofen\tWe report three cases of severe hypoxaemia after ibuprofen administration during a randomised controlled trial of prophylactic treatment of patent ductus arteriosus with <target> ibuprofen </target> in premature infants born at less than 28 weeks of gestation .",
+        "D000860\tDisease\tHypoxaemia\t<target> Hypoxaemia </target> resolved quickly on inhaled nitric oxide therapy .",
+        "D009569\tChemical\tnitric oxide\tHypoxaemia resolved quickly on inhaled <target> nitric oxide </target> therapy .",
+        "D000860\tDisease\thypoxaemia\tWe suggest that investigators involved in similar trials pay close attention to pulmonary pressure if <target> hypoxaemia </target> occurs after prophylactic administration of ibuprofen .",
+        "D007052\tChemical\tibuprofen\tWe suggest that investigators involved in similar trials pay close attention to pulmonary pressure if hypoxaemia occurs after prophylactic administration of <target> ibuprofen </target> ."
+    ],
+    "lines_lemma": [
+        "D006976\tDisease\tPulmonary hypertension\t<target> pulmonary hypertension </target> after ibuprofen prophylaxis in very preterm infant .",
+        "D007052\tChemical\tibuprofen\tpulmonary hypertension after <target> ibuprofen </target> prophylaxis in very preterm infant .",
+        "D000860\tDisease\thypoxaemia\twe report three case of severe <target> hypoxaemia </target> after ibuprofen administration during a randomised control trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infant bear at less than 28 week of gestation .",
+        "D007052\tChemical\tibuprofen\twe report three case of severe hypoxaemia after <target> ibuprofen </target> administration during a randomised control trial of prophylactic treatment of patent ductus arteriosus with ibuprofen in premature infant bear at less than 28 week of gestation .",
+        "D004374\tDisease\tpatent ductus arteriosus\twe report three case of severe hypoxaemia after ibuprofen administration during a randomised control trial of prophylactic treatment of <target> patent ductus arteriosus </target> with ibuprofen in premature infant bear at less than 28 week of gestation .",
+        "D007052\tChemical\tibuprofen\twe report three case of severe hypoxaemia after ibuprofen administration during a randomised control trial of prophylactic treatment of patent ductus arteriosus with <target> ibuprofen </target> in premature infant bear at less than 28 week of gestation .",
+        "D000860\tDisease\tHypoxaemia\t<target> Hypoxaemia </target> resolve quickly on inhale nitric oxide therapy .",
+        "D009569\tChemical\tnitric oxide\tHypoxaemia resolve quickly on inhale <target> nitric oxide </target> therapy .",
+        "D000860\tDisease\thypoxaemia\twe suggest that investigator involve in similar trial pay close attention to pulmonary pressure if <target> hypoxaemia </target> occur after prophylactic administration of ibuprofen .",
+        "D007052\tChemical\tibuprofen\twe suggest that investigator involve in similar trial pay close attention to pulmonary pressure if hypoxaemia occur after prophylactic administration of <target> ibuprofen </target> ."
+    ]
+}

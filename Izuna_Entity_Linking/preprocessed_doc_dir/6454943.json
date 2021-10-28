@@ -1,0 +1,202 @@
+{
+    "title": "Effect of captopril on pre-existing and aminonucleoside-induced proteinuria in spontaneously hypertensive rats.",
+    "abst": "Proteinuria is a side effect of captopril treatment in hypertensive patients. The possibility of reproducing the same renal abnormality with captopril was examined in SHR. Oral administration of captopril at 100 mg/kg for 14 days failed to aggravate proteinuria pre-existing in SHR. Also, captopril treatment failed to potentiate or facilitate development of massive proteinuria invoked by puromycin aminonucleoside in SHR. Captopril had little or no demonstrable effects on serum electrolyte concentrations, excretion of urine, sodium and potassium, endogenous creatinine clearance, body weight, and food and water consumption. However, ketone bodies were consistently present in urine and several lethalities occurred during multiple dosing of captopril in SHR.",
+    "title_plus_abst": "Effect of captopril on pre-existing and aminonucleoside-induced proteinuria in spontaneously hypertensive rats. Proteinuria is a side effect of captopril treatment in hypertensive patients. The possibility of reproducing the same renal abnormality with captopril was examined in SHR. Oral administration of captopril at 100 mg/kg for 14 days failed to aggravate proteinuria pre-existing in SHR. Also, captopril treatment failed to potentiate or facilitate development of massive proteinuria invoked by puromycin aminonucleoside in SHR. Captopril had little or no demonstrable effects on serum electrolyte concentrations, excretion of urine, sodium and potassium, endogenous creatinine clearance, body weight, and food and water consumption. However, ketone bodies were consistently present in urine and several lethalities occurred during multiple dosing of captopril in SHR.",
+    "pubmed_id": "6454943",
+    "entities": [
+        [
+            10,
+            19,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            40,
+            55,
+            "aminonucleoside",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            64,
+            75,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            93,
+            105,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            112,
+            123,
+            "Proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            144,
+            153,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            167,
+            179,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            230,
+            247,
+            "renal abnormality",
+            "Disease",
+            "D007674"
+        ],
+        [
+            253,
+            262,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            307,
+            316,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            362,
+            373,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            401,
+            410,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            479,
+            490,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            502,
+            527,
+            "puromycin aminonucleoside",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            536,
+            545,
+            "Captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            641,
+            647,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            652,
+            661,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            674,
+            684,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            750,
+            756,
+            "ketone",
+            "Chemical",
+            "D007659"
+        ],
+        [
+            858,
+            867,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of captopril on pre-existing and aminonucleoside-induced proteinuria in spontaneously hypertensive rats.",
+        "Proteinuria is a side effect of captopril treatment in hypertensive patients.",
+        "The possibility of reproducing the same renal abnormality with captopril was examined in SHR.",
+        "Oral administration of captopril at 100 mg/kg for 14 days failed to aggravate proteinuria pre-existing in SHR.",
+        "Also, captopril treatment failed to potentiate or facilitate development of massive proteinuria invoked by puromycin aminonucleoside in SHR.",
+        "Captopril had little or no demonstrable effects on serum electrolyte concentrations, excretion of urine, sodium and potassium, endogenous creatinine clearance, body weight, and food and water consumption.",
+        "However, ketone bodies were consistently present in urine and several lethalities occurred during multiple dosing of captopril in SHR."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002216\tChemical\tcaptopril\tEffect of <target> captopril </target> on pre-existing and aminonucleoside-induced proteinuria in spontaneously hypertensive rats .",
+        "D011692\tChemical\taminonucleoside\tEffect of captopril on pre-existing and <target> aminonucleoside </target> -induced proteinuria in spontaneously hypertensive rats .",
+        "D011507\tDisease\tproteinuria\tEffect of captopril on pre-existing and aminonucleoside-induced <target> proteinuria </target> in spontaneously hypertensive rats .",
+        "D006973\tDisease\thypertensive\tEffect of captopril on pre-existing and aminonucleoside-induced proteinuria in spontaneously <target> hypertensive </target> rats .",
+        "D011507\tDisease\tProteinuria\t<target> Proteinuria </target> is a side effect of captopril treatment in hypertensive patients .",
+        "D002216\tChemical\tcaptopril\tProteinuria is a side effect of <target> captopril </target> treatment in hypertensive patients .",
+        "D006973\tDisease\thypertensive\tProteinuria is a side effect of captopril treatment in <target> hypertensive </target> patients .",
+        "D007674\tDisease\trenal abnormality\tThe possibility of reproducing the same <target> renal abnormality </target> with captopril was examined in SHR .",
+        "D002216\tChemical\tcaptopril\tThe possibility of reproducing the same renal abnormality with <target> captopril </target> was examined in SHR .",
+        "D002216\tChemical\tcaptopril\tOral administration of <target> captopril </target> at 100 mg/kg for 14 days failed to aggravate proteinuria pre-existing in SHR .",
+        "D011507\tDisease\tproteinuria\tOral administration of captopril at 100 mg/kg for 14 days failed to aggravate <target> proteinuria </target> pre-existing in SHR .",
+        "D002216\tChemical\tcaptopril\tAlso , <target> captopril </target> treatment failed to potentiate or facilitate development of massive proteinuria invoked by puromycin aminonucleoside in SHR .",
+        "D011507\tDisease\tproteinuria\tAlso , captopril treatment failed to potentiate or facilitate development of massive <target> proteinuria </target> invoked by puromycin aminonucleoside in SHR .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tAlso , captopril treatment failed to potentiate or facilitate development of massive proteinuria invoked by <target> puromycin aminonucleoside </target> in SHR .",
+        "D002216\tChemical\tCaptopril\t<target> Captopril </target> had little or no demonstrable effects on serum electrolyte concentrations , excretion of urine , sodium and potassium , endogenous creatinine clearance , body weight , and food and water consumption .",
+        "D012964\tChemical\tsodium\tCaptopril had little or no demonstrable effects on serum electrolyte concentrations , excretion of urine , <target> sodium </target> and potassium , endogenous creatinine clearance , body weight , and food and water consumption .",
+        "D011188\tChemical\tpotassium\tCaptopril had little or no demonstrable effects on serum electrolyte concentrations , excretion of urine , sodium and <target> potassium </target> , endogenous creatinine clearance , body weight , and food and water consumption .",
+        "D003404\tChemical\tcreatinine\tCaptopril had little or no demonstrable effects on serum electrolyte concentrations , excretion of urine , sodium and potassium , endogenous <target> creatinine </target> clearance , body weight , and food and water consumption .",
+        "D007659\tChemical\tketone\tHowever , <target> ketone </target> bodies were consistently present in urine and several lethalities occurred during multiple dosing of captopril in SHR .",
+        "D002216\tChemical\tcaptopril\tHowever , ketone bodies were consistently present in urine and several lethalities occurred during multiple dosing of <target> captopril </target> in SHR ."
+    ],
+    "lines_lemma": [
+        "D002216\tChemical\tcaptopril\teffect of <target> captopril </target> on pre-existing and aminonucleoside-induced proteinuria in spontaneously hypertensive rat .",
+        "D011692\tChemical\taminonucleoside\teffect of captopril on pre-existing and <target> aminonucleoside </target> -induced proteinuria in spontaneously hypertensive rat .",
+        "D011507\tDisease\tproteinuria\teffect of captopril on pre-existing and aminonucleoside-induced <target> proteinuria </target> in spontaneously hypertensive rat .",
+        "D006973\tDisease\thypertensive\teffect of captopril on pre-existing and aminonucleoside-induced proteinuria in spontaneously <target> hypertensive </target> rat .",
+        "D011507\tDisease\tProteinuria\t<target> Proteinuria </target> be a side effect of captopril treatment in hypertensive patient .",
+        "D002216\tChemical\tcaptopril\tProteinuria be a side effect of <target> captopril </target> treatment in hypertensive patient .",
+        "D006973\tDisease\thypertensive\tProteinuria be a side effect of captopril treatment in <target> hypertensive </target> patient .",
+        "D007674\tDisease\trenal abnormality\tthe possibility of reproduce the same <target> renal abnormality </target> with captopril be examine in shr .",
+        "D002216\tChemical\tcaptopril\tthe possibility of reproduce the same renal abnormality with <target> captopril </target> be examine in shr .",
+        "D002216\tChemical\tcaptopril\toral administration of <target> captopril </target> at 100 mg/kg for 14 day fail to aggravate proteinuria pre-existing in shr .",
+        "D011507\tDisease\tproteinuria\toral administration of captopril at 100 mg/kg for 14 day fail to aggravate <target> proteinuria </target> pre-existing in shr .",
+        "D002216\tChemical\tcaptopril\talso , <target> captopril </target> treatment fail to potentiate or facilitate development of massive proteinuria invoke by puromycin aminonucleoside in shr .",
+        "D011507\tDisease\tproteinuria\talso , captopril treatment fail to potentiate or facilitate development of massive <target> proteinuria </target> invoke by puromycin aminonucleoside in shr .",
+        "D011692\tChemical\tpuromycin aminonucleoside\talso , captopril treatment fail to potentiate or facilitate development of massive proteinuria invoke by <target> puromycin aminonucleoside </target> in shr .",
+        "D002216\tChemical\tCaptopril\t<target> Captopril </target> have little or no demonstrable effect on serum electrolyte concentration , excretion of urine , sodium and potassium , endogenous creatinine clearance , body weight , and food and water consumption .",
+        "D012964\tChemical\tsodium\tCaptopril have little or no demonstrable effect on serum electrolyte concentration , excretion of urine , <target> sodium </target> and potassium , endogenous creatinine clearance , body weight , and food and water consumption .",
+        "D011188\tChemical\tpotassium\tCaptopril have little or no demonstrable effect on serum electrolyte concentration , excretion of urine , sodium and <target> potassium </target> , endogenous creatinine clearance , body weight , and food and water consumption .",
+        "D003404\tChemical\tcreatinine\tCaptopril have little or no demonstrable effect on serum electrolyte concentration , excretion of urine , sodium and potassium , endogenous <target> creatinine </target> clearance , body weight , and food and water consumption .",
+        "D007659\tChemical\tketone\thowever , <target> ketone </target> body be consistently present in urine and several lethality occur during multiple dosing of captopril in shr .",
+        "D002216\tChemical\tcaptopril\thowever , ketone body be consistently present in urine and several lethality occur during multiple dosing of <target> captopril </target> in shr ."
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Myasthenia gravis caused by penicillamine and chloroquine therapy for rheumatoid arthritis.",
+    "abst": "We have described a unique patient who had reversible and dose-related myasthenia gravis after penicillamine and chloroquine therapy for rheumatoid arthritis. Although acetylcholine receptor antibodies were not detectable, the time course was consistent with an autoimmune process.",
+    "title_plus_abst": "Myasthenia gravis caused by penicillamine and chloroquine therapy for rheumatoid arthritis. We have described a unique patient who had reversible and dose-related myasthenia gravis after penicillamine and chloroquine therapy for rheumatoid arthritis. Although acetylcholine receptor antibodies were not detectable, the time course was consistent with an autoimmune process.",
+    "pubmed_id": "3750012",
+    "entities": [
+        [
+            0,
+            17,
+            "Myasthenia gravis",
+            "Disease",
+            "D009157"
+        ],
+        [
+            28,
+            41,
+            "penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            46,
+            57,
+            "chloroquine",
+            "Chemical",
+            "D002738"
+        ],
+        [
+            70,
+            90,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            163,
+            180,
+            "myasthenia gravis",
+            "Disease",
+            "D009157"
+        ],
+        [
+            187,
+            200,
+            "penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            205,
+            216,
+            "chloroquine",
+            "Chemical",
+            "D002738"
+        ],
+        [
+            229,
+            249,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            260,
+            273,
+            "acetylcholine",
+            "Chemical",
+            "D000109"
+        ]
+    ],
+    "split_sentence": [
+        "Myasthenia gravis caused by penicillamine and chloroquine therapy for rheumatoid arthritis.",
+        "We have described a unique patient who had reversible and dose-related myasthenia gravis after penicillamine and chloroquine therapy for rheumatoid arthritis.",
+        "Although acetylcholine receptor antibodies were not detectable, the time course was consistent with an autoimmune process."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009157\tDisease\tMyasthenia gravis\t<target> Myasthenia gravis </target> caused by penicillamine and chloroquine therapy for rheumatoid arthritis .",
+        "D010396\tChemical\tpenicillamine\tMyasthenia gravis caused by <target> penicillamine </target> and chloroquine therapy for rheumatoid arthritis .",
+        "D002738\tChemical\tchloroquine\tMyasthenia gravis caused by penicillamine and <target> chloroquine </target> therapy for rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tMyasthenia gravis caused by penicillamine and chloroquine therapy for <target> rheumatoid arthritis </target> .",
+        "D009157\tDisease\tmyasthenia gravis\tWe have described a unique patient who had reversible and dose-related <target> myasthenia gravis </target> after penicillamine and chloroquine therapy for rheumatoid arthritis .",
+        "D010396\tChemical\tpenicillamine\tWe have described a unique patient who had reversible and dose-related myasthenia gravis after <target> penicillamine </target> and chloroquine therapy for rheumatoid arthritis .",
+        "D002738\tChemical\tchloroquine\tWe have described a unique patient who had reversible and dose-related myasthenia gravis after penicillamine and <target> chloroquine </target> therapy for rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tWe have described a unique patient who had reversible and dose-related myasthenia gravis after penicillamine and chloroquine therapy for <target> rheumatoid arthritis </target> .",
+        "D000109\tChemical\tacetylcholine\tAlthough <target> acetylcholine </target> receptor antibodies were not detectable , the time course was consistent with an autoimmune process ."
+    ],
+    "lines_lemma": [
+        "D009157\tDisease\tMyasthenia gravis\t<target> Myasthenia gravis </target> cause by penicillamine and chloroquine therapy for rheumatoid arthritis .",
+        "D010396\tChemical\tpenicillamine\tMyasthenia gravis cause by <target> penicillamine </target> and chloroquine therapy for rheumatoid arthritis .",
+        "D002738\tChemical\tchloroquine\tMyasthenia gravis cause by penicillamine and <target> chloroquine </target> therapy for rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tMyasthenia gravis cause by penicillamine and chloroquine therapy for <target> rheumatoid arthritis </target> .",
+        "D009157\tDisease\tmyasthenia gravis\twe have describe a unique patient who have reversible and dose-related <target> myasthenia gravis </target> after penicillamine and chloroquine therapy for rheumatoid arthritis .",
+        "D010396\tChemical\tpenicillamine\twe have describe a unique patient who have reversible and dose-related myasthenia gravis after <target> penicillamine </target> and chloroquine therapy for rheumatoid arthritis .",
+        "D002738\tChemical\tchloroquine\twe have describe a unique patient who have reversible and dose-related myasthenia gravis after penicillamine and <target> chloroquine </target> therapy for rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\twe have describe a unique patient who have reversible and dose-related myasthenia gravis after penicillamine and chloroquine therapy for <target> rheumatoid arthritis </target> .",
+        "D000109\tChemical\tacetylcholine\talthough <target> acetylcholine </target> receptor antibody be not detectable , the time course be consistent with an autoimmune process ."
+    ]
+}

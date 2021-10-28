@@ -1,0 +1,130 @@
+{
+    "title": "Cardiovascular risk with cyclooxygenase inhibitors: general problem with substance specific differences?",
+    "abst": "Randomised clinical trials and observational studies have shown an increased risk of myocardial infarction, stroke, hypertension and heart failure during treatment with cyclooxygenase inhibitors. Adverse cardiovascular effects occurred mainly, but not exclusively, in patients with concomitant risk factors. Cyclooxygenase inhibitors cause complex changes in renal, vascular and cardiac prostanoid profiles thereby increasing vascular resistance and fluid retention. The incidence of cardiovascular adverse events tends to increase with the daily dose and total exposure time. A comparison of individual selective and unselective cyclooxygenase inhibitors suggests substance-specific differences, which may depend on differences in pharmacokinetic parameters or inhibitory potency and may be contributed by prostaglandin-independent effects. Diagnostic markers such as N-terminal pro brain natriuretic peptide (NT-proBNP) or high-sensitive C-reactive protein might help in the early identification of patients at risk, thus avoiding the occurrence of serious cardiovascular toxicity.",
+    "title_plus_abst": "Cardiovascular risk with cyclooxygenase inhibitors: general problem with substance specific differences? Randomised clinical trials and observational studies have shown an increased risk of myocardial infarction, stroke, hypertension and heart failure during treatment with cyclooxygenase inhibitors. Adverse cardiovascular effects occurred mainly, but not exclusively, in patients with concomitant risk factors. Cyclooxygenase inhibitors cause complex changes in renal, vascular and cardiac prostanoid profiles thereby increasing vascular resistance and fluid retention. The incidence of cardiovascular adverse events tends to increase with the daily dose and total exposure time. A comparison of individual selective and unselective cyclooxygenase inhibitors suggests substance-specific differences, which may depend on differences in pharmacokinetic parameters or inhibitory potency and may be contributed by prostaglandin-independent effects. Diagnostic markers such as N-terminal pro brain natriuretic peptide (NT-proBNP) or high-sensitive C-reactive protein might help in the early identification of patients at risk, thus avoiding the occurrence of serious cardiovascular toxicity.",
+    "pubmed_id": "16586083",
+    "entities": [
+        [
+            25,
+            50,
+            "cyclooxygenase inhibitors",
+            "Chemical",
+            "D016861"
+        ],
+        [
+            190,
+            211,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            213,
+            219,
+            "stroke",
+            "Disease",
+            "D020521"
+        ],
+        [
+            221,
+            233,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            238,
+            251,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            274,
+            299,
+            "cyclooxygenase inhibitors",
+            "Chemical",
+            "D016861"
+        ],
+        [
+            413,
+            438,
+            "Cyclooxygenase inhibitors",
+            "Chemical",
+            "D016861"
+        ],
+        [
+            735,
+            760,
+            "cyclooxygenase inhibitors",
+            "Chemical",
+            "D016861"
+        ],
+        [
+            912,
+            925,
+            "prostaglandin",
+            "Chemical",
+            "D011453"
+        ],
+        [
+            974,
+            1014,
+            "N-terminal pro brain natriuretic peptide",
+            "Chemical",
+            "C109794"
+        ],
+        [
+            1016,
+            1025,
+            "NT-proBNP",
+            "Chemical",
+            "C109794"
+        ],
+        [
+            1164,
+            1187,
+            "cardiovascular toxicity",
+            "Disease",
+            "D002318"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiovascular risk with cyclooxygenase inhibitors: general problem with substance specific differences?",
+        "Randomised clinical trials and observational studies have shown an increased risk of myocardial infarction, stroke, hypertension and heart failure during treatment with cyclooxygenase inhibitors.",
+        "Adverse cardiovascular effects occurred mainly, but not exclusively, in patients with concomitant risk factors.",
+        "Cyclooxygenase inhibitors cause complex changes in renal, vascular and cardiac prostanoid profiles thereby increasing vascular resistance and fluid retention.",
+        "The incidence of cardiovascular adverse events tends to increase with the daily dose and total exposure time.",
+        "A comparison of individual selective and unselective cyclooxygenase inhibitors suggests substance-specific differences, which may depend on differences in pharmacokinetic parameters or inhibitory potency and may be contributed by prostaglandin-independent effects.",
+        "Diagnostic markers such as N-terminal pro brain natriuretic peptide (NT-proBNP) or high-sensitive C-reactive protein might help in the early identification of patients at risk, thus avoiding the occurrence of serious cardiovascular toxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016861\tChemical\tcyclooxygenase inhibitors\tCardiovascular risk with <target> cyclooxygenase inhibitors </target> : general problem with substance specific differences ?",
+        "D009203\tDisease\tmyocardial infarction\tRandomised clinical trials and observational studies have shown an increased risk of <target> myocardial infarction </target> , stroke , hypertension and heart failure during treatment with cyclooxygenase inhibitors .",
+        "D020521\tDisease\tstroke\tRandomised clinical trials and observational studies have shown an increased risk of myocardial infarction , <target> stroke </target> , hypertension and heart failure during treatment with cyclooxygenase inhibitors .",
+        "D006973\tDisease\thypertension\tRandomised clinical trials and observational studies have shown an increased risk of myocardial infarction , stroke , <target> hypertension </target> and heart failure during treatment with cyclooxygenase inhibitors .",
+        "D006333\tDisease\theart failure\tRandomised clinical trials and observational studies have shown an increased risk of myocardial infarction , stroke , hypertension and <target> heart failure </target> during treatment with cyclooxygenase inhibitors .",
+        "D016861\tChemical\tcyclooxygenase inhibitors\tRandomised clinical trials and observational studies have shown an increased risk of myocardial infarction , stroke , hypertension and heart failure during treatment with <target> cyclooxygenase inhibitors </target> .",
+        "D016861\tChemical\tCyclooxygenase inhibitors\t<target> Cyclooxygenase inhibitors </target> cause complex changes in renal , vascular and cardiac prostanoid profiles thereby increasing vascular resistance and fluid retention .",
+        "D016861\tChemical\tcyclooxygenase inhibitors\tA comparison of individual selective and unselective <target> cyclooxygenase inhibitors </target> suggests substance-specific differences , which may depend on differences in pharmacokinetic parameters or inhibitory potency and may be contributed by prostaglandin-independent effects .",
+        "D011453\tChemical\tprostaglandin\tA comparison of individual selective and unselective cyclooxygenase inhibitors suggests substance-specific differences , which may depend on differences in pharmacokinetic parameters or inhibitory potency and may be contributed by <target> prostaglandin </target> -independent effects .",
+        "C109794\tChemical\tN-terminal pro brain natriuretic peptide\tDiagnostic markers such as <target> N-terminal pro brain natriuretic peptide </target> ( NT-proBNP ) or high-sensitive C-reactive protein might help in the early identification of patients at risk , thus avoiding the occurrence of serious cardiovascular toxicity .",
+        "C109794\tChemical\tNT-proBNP\tDiagnostic markers such as N-terminal pro brain natriuretic peptide ( <target> NT-proBNP </target> ) or high-sensitive C-reactive protein might help in the early identification of patients at risk , thus avoiding the occurrence of serious cardiovascular toxicity .",
+        "D002318\tDisease\tcardiovascular toxicity\tDiagnostic markers such as N-terminal pro brain natriuretic peptide ( NT-proBNP ) or high-sensitive C-reactive protein might help in the early identification of patients at risk , thus avoiding the occurrence of serious <target> cardiovascular toxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D016861\tChemical\tcyclooxygenase inhibitors\tcardiovascular risk with <target> cyclooxygenase inhibitor </target> : general problem with substance specific difference ?",
+        "D009203\tDisease\tmyocardial infarction\trandomised clinical trial and observational study have show an increase risk of <target> myocardial infarction </target> , stroke , hypertension and heart failure during treatment with cyclooxygenase inhibitor .",
+        "D020521\tDisease\tstroke\trandomised clinical trial and observational study have show an increase risk of myocardial infarction , <target> stroke </target> , hypertension and heart failure during treatment with cyclooxygenase inhibitor .",
+        "D006973\tDisease\thypertension\trandomised clinical trial and observational study have show an increase risk of myocardial infarction , stroke , <target> hypertension </target> and heart failure during treatment with cyclooxygenase inhibitor .",
+        "D006333\tDisease\theart failure\trandomised clinical trial and observational study have show an increase risk of myocardial infarction , stroke , hypertension and <target> heart failure </target> during treatment with cyclooxygenase inhibitor .",
+        "D016861\tChemical\tcyclooxygenase inhibitors\trandomised clinical trial and observational study have show an increase risk of myocardial infarction , stroke , hypertension and heart failure during treatment with <target> cyclooxygenase inhibitor </target> .",
+        "D016861\tChemical\tCyclooxygenase inhibitors\t<target> cyclooxygenase inhibitor </target> cause complex change in renal , vascular and cardiac prostanoid profile thereby increase vascular resistance and fluid retention .",
+        "D016861\tChemical\tcyclooxygenase inhibitors\ta comparison of individual selective and unselective <target> cyclooxygenase inhibitor </target> suggest substance-specific difference , which may depend on difference in pharmacokinetic parameter or inhibitory potency and may be contribute by prostaglandin-independent effect .",
+        "D011453\tChemical\tprostaglandin\ta comparison of individual selective and unselective cyclooxygenase inhibitor suggest substance-specific difference , which may depend on difference in pharmacokinetic parameter or inhibitory potency and may be contribute by <target> prostaglandin </target> -independent effect .",
+        "C109794\tChemical\tN-terminal pro brain natriuretic peptide\tdiagnostic marker such as <target> n-terminal pro brain natriuretic peptide </target> ( nt-probnp ) or high-sensitive c-reactive protein might help in the early identification of patient at risk , thus avoid the occurrence of serious cardiovascular toxicity .",
+        "C109794\tChemical\tNT-proBNP\tdiagnostic marker such as n-terminal pro brain natriuretic peptide ( <target> nt-probnp </target> ) or high-sensitive c-reactive protein might help in the early identification of patient at risk , thus avoid the occurrence of serious cardiovascular toxicity .",
+        "D002318\tDisease\tcardiovascular toxicity\tdiagnostic marker such as n-terminal pro brain natriuretic peptide ( nt-probnp ) or high-sensitive c-reactive protein might help in the early identification of patient at risk , thus avoid the occurrence of serious <target> cardiovascular toxicity </target> ."
+    ]
+}

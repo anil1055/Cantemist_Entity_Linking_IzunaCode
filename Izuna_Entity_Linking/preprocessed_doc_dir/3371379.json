@@ -1,0 +1,118 @@
+{
+    "title": "Verapamil-induced carbamazepine neurotoxicity. A report of two cases.",
+    "abst": "Two patients with signs of carbamazepine neurotoxicity after combined treatment with verapamil showed complete recovery after discontinuation of the calcium entry blocker. Use of verapamil in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose (usually reduction of the carbamazepine dose by one half).",
+    "title_plus_abst": "Verapamil-induced carbamazepine neurotoxicity. A report of two cases. Two patients with signs of carbamazepine neurotoxicity after combined treatment with verapamil showed complete recovery after discontinuation of the calcium entry blocker. Use of verapamil in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose (usually reduction of the carbamazepine dose by one half).",
+    "pubmed_id": "3371379",
+    "entities": [
+        [
+            0,
+            9,
+            "Verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            18,
+            31,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            32,
+            45,
+            "neurotoxicity",
+            "Disease",
+            "D020258"
+        ],
+        [
+            97,
+            110,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            111,
+            124,
+            "neurotoxicity",
+            "Disease",
+            "D020258"
+        ],
+        [
+            155,
+            164,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            219,
+            226,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            249,
+            258,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            279,
+            292,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            372,
+            385,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            417,
+            430,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ]
+    ],
+    "split_sentence": [
+        "Verapamil-induced carbamazepine neurotoxicity.",
+        "A report of two cases.",
+        "Two patients with signs of carbamazepine neurotoxicity after combined treatment with verapamil showed complete recovery after discontinuation of the calcium entry blocker.",
+        "Use of verapamil in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose (usually reduction of the carbamazepine dose by one half)."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> -induced carbamazepine neurotoxicity .",
+        "D002220\tChemical\tcarbamazepine\tVerapamil-induced <target> carbamazepine </target> neurotoxicity .",
+        "D020258\tDisease\tneurotoxicity\tVerapamil-induced carbamazepine <target> neurotoxicity </target> .",
+        "D002220\tChemical\tcarbamazepine\tTwo patients with signs of <target> carbamazepine </target> neurotoxicity after combined treatment with verapamil showed complete recovery after discontinuation of the calcium entry blocker .",
+        "D020258\tDisease\tneurotoxicity\tTwo patients with signs of carbamazepine <target> neurotoxicity </target> after combined treatment with verapamil showed complete recovery after discontinuation of the calcium entry blocker .",
+        "D014700\tChemical\tverapamil\tTwo patients with signs of carbamazepine neurotoxicity after combined treatment with <target> verapamil </target> showed complete recovery after discontinuation of the calcium entry blocker .",
+        "D002118\tChemical\tcalcium\tTwo patients with signs of carbamazepine neurotoxicity after combined treatment with verapamil showed complete recovery after discontinuation of the <target> calcium </target> entry blocker .",
+        "D014700\tChemical\tverapamil\tUse of <target> verapamil </target> in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "D002220\tChemical\tcarbamazepine\tUse of verapamil in combination with <target> carbamazepine </target> should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "D002220\tChemical\tcarbamazepine\tUse of verapamil in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the <target> carbamazepine </target> dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "D002220\tChemical\tcarbamazepine\tUse of verapamil in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose ( usually reduction of the <target> carbamazepine </target> dose by one half ) ."
+    ],
+    "lines_lemma": [
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> -induced carbamazepine neurotoxicity .",
+        "D002220\tChemical\tcarbamazepine\tverapamil-induced <target> carbamazepine </target> neurotoxicity .",
+        "D020258\tDisease\tneurotoxicity\tverapamil-induced carbamazepine <target> neurotoxicity </target> .",
+        "D002220\tChemical\tcarbamazepine\ttwo patient with sign of <target> carbamazepine </target> neurotoxicity after combined treatment with verapamil show complete recovery after discontinuation of the calcium entry blocker .",
+        "D020258\tDisease\tneurotoxicity\ttwo patient with sign of carbamazepine <target> neurotoxicity </target> after combined treatment with verapamil show complete recovery after discontinuation of the calcium entry blocker .",
+        "D014700\tChemical\tverapamil\ttwo patient with sign of carbamazepine neurotoxicity after combined treatment with <target> verapamil </target> show complete recovery after discontinuation of the calcium entry blocker .",
+        "D002118\tChemical\tcalcium\ttwo patient with sign of carbamazepine neurotoxicity after combined treatment with verapamil show complete recovery after discontinuation of the <target> calcium </target> entry blocker .",
+        "D014700\tChemical\tverapamil\tUse of <target> verapamil </target> in combination with carbamazepine should either be avoid or prescribe only with appropriate adjustment of the carbamazepine dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "D002220\tChemical\tcarbamazepine\tuse of verapamil in combination with <target> carbamazepine </target> should either be avoid or prescribe only with appropriate adjustment of the carbamazepine dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "D002220\tChemical\tcarbamazepine\tuse of verapamil in combination with carbamazepine should either be avoid or prescribe only with appropriate adjustment of the <target> carbamazepine </target> dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "D002220\tChemical\tcarbamazepine\tuse of verapamil in combination with carbamazepine should either be avoid or prescribe only with appropriate adjustment of the carbamazepine dose ( usually reduction of the <target> carbamazepine </target> dose by one half ) ."
+    ]
+}

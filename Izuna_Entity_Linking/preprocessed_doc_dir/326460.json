@@ -1,0 +1,136 @@
+{
+    "title": "Amelioration of bendrofluazide-induced hypokalemia by timolol.",
+    "abst": "The beta adrenergic blocking drug, timolol, tended to correct the hypokalemia of short-term bendrofluazide treatment in 6 healthy male subjects and although the effect was small it was significant. Timolol also reduced the rise in plasma aldosterone and urine potassium excretion following bendrofluazide and increased the urine sodium/potassium ratio. There was no evidence of a shift of potassium from the intracellular to the extracellular space.",
+    "title_plus_abst": "Amelioration of bendrofluazide-induced hypokalemia by timolol. The beta adrenergic blocking drug, timolol, tended to correct the hypokalemia of short-term bendrofluazide treatment in 6 healthy male subjects and although the effect was small it was significant. Timolol also reduced the rise in plasma aldosterone and urine potassium excretion following bendrofluazide and increased the urine sodium/potassium ratio. There was no evidence of a shift of potassium from the intracellular to the extracellular space.",
+    "pubmed_id": "326460",
+    "entities": [
+        [
+            16,
+            30,
+            "bendrofluazide",
+            "Chemical",
+            "D001539"
+        ],
+        [
+            39,
+            50,
+            "hypokalemia",
+            "Disease",
+            "D007008"
+        ],
+        [
+            54,
+            61,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            98,
+            105,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            129,
+            140,
+            "hypokalemia",
+            "Disease",
+            "D007008"
+        ],
+        [
+            155,
+            169,
+            "bendrofluazide",
+            "Chemical",
+            "D001539"
+        ],
+        [
+            261,
+            268,
+            "Timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            301,
+            312,
+            "aldosterone",
+            "Chemical",
+            "D000450"
+        ],
+        [
+            323,
+            332,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            353,
+            367,
+            "bendrofluazide",
+            "Chemical",
+            "D001539"
+        ],
+        [
+            392,
+            398,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            399,
+            408,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            452,
+            461,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ]
+    ],
+    "split_sentence": [
+        "Amelioration of bendrofluazide-induced hypokalemia by timolol.",
+        "The beta adrenergic blocking drug, timolol, tended to correct the hypokalemia of short-term bendrofluazide treatment in 6 healthy male subjects and although the effect was small it was significant.",
+        "Timolol also reduced the rise in plasma aldosterone and urine potassium excretion following bendrofluazide and increased the urine sodium/potassium ratio.",
+        "There was no evidence of a shift of potassium from the intracellular to the extracellular space."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001539\tChemical\tbendrofluazide\tAmelioration of <target> bendrofluazide </target> -induced hypokalemia by timolol .",
+        "D007008\tDisease\thypokalemia\tAmelioration of bendrofluazide-induced <target> hypokalemia </target> by timolol .",
+        "D013999\tChemical\ttimolol\tAmelioration of bendrofluazide-induced hypokalemia by <target> timolol </target> .",
+        "D013999\tChemical\ttimolol\tThe beta adrenergic blocking drug , <target> timolol </target> , tended to correct the hypokalemia of short-term bendrofluazide treatment in 6 healthy male subjects and although the effect was small it was significant .",
+        "D007008\tDisease\thypokalemia\tThe beta adrenergic blocking drug , timolol , tended to correct the <target> hypokalemia </target> of short-term bendrofluazide treatment in 6 healthy male subjects and although the effect was small it was significant .",
+        "D001539\tChemical\tbendrofluazide\tThe beta adrenergic blocking drug , timolol , tended to correct the hypokalemia of short-term <target> bendrofluazide </target> treatment in 6 healthy male subjects and although the effect was small it was significant .",
+        "D013999\tChemical\tTimolol\t<target> Timolol </target> also reduced the rise in plasma aldosterone and urine potassium excretion following bendrofluazide and increased the urine sodium/potassium ratio .",
+        "D000450\tChemical\taldosterone\tTimolol also reduced the rise in plasma <target> aldosterone </target> and urine potassium excretion following bendrofluazide and increased the urine sodium/potassium ratio .",
+        "D011188\tChemical\tpotassium\tTimolol also reduced the rise in plasma aldosterone and urine <target> potassium </target> excretion following bendrofluazide and increased the urine sodium/potassium ratio .",
+        "D001539\tChemical\tbendrofluazide\tTimolol also reduced the rise in plasma aldosterone and urine potassium excretion following <target> bendrofluazide </target> and increased the urine sodium/potassium ratio .",
+        "D012964\tChemical\tsodium\tTimolol also reduced the rise in plasma aldosterone and urine potassium excretion following bendrofluazide and increased the urine <target> sodium </target> /potassium ratio .",
+        "D011188\tChemical\tpotassium\tTimolol also reduced the rise in plasma aldosterone and urine potassium excretion following bendrofluazide and increased the urine sodium/ <target> potassium </target> ratio .",
+        "D011188\tChemical\tpotassium\tThere was no evidence of a shift of <target> potassium </target> from the intracellular to the extracellular space ."
+    ],
+    "lines_lemma": [
+        "D001539\tChemical\tbendrofluazide\tamelioration of <target> bendrofluazide </target> -induced hypokalemia by timolol .",
+        "D007008\tDisease\thypokalemia\tamelioration of bendrofluazide-induced <target> hypokalemia </target> by timolol .",
+        "D013999\tChemical\ttimolol\tamelioration of bendrofluazide-induced hypokalemia by <target> timolol </target> .",
+        "D013999\tChemical\ttimolol\tthe beta adrenergic blocking drug , <target> timolol </target> , tend to correct the hypokalemia of short-term bendrofluazide treatment in 6 healthy male subject and although the effect be small it be significant .",
+        "D007008\tDisease\thypokalemia\tthe beta adrenergic blocking drug , timolol , tend to correct the <target> hypokalemia </target> of short-term bendrofluazide treatment in 6 healthy male subject and although the effect be small it be significant .",
+        "D001539\tChemical\tbendrofluazide\tthe beta adrenergic blocking drug , timolol , tend to correct the hypokalemia of short-term <target> bendrofluazide </target> treatment in 6 healthy male subject and although the effect be small it be significant .",
+        "D013999\tChemical\tTimolol\t<target> Timolol </target> also reduce the rise in plasma aldosterone and urine potassium excretion follow bendrofluazide and increase the urine sodium/potassium ratio .",
+        "D000450\tChemical\taldosterone\tTimolol also reduce the rise in plasma <target> aldosterone </target> and urine potassium excretion follow bendrofluazide and increase the urine sodium/potassium ratio .",
+        "D011188\tChemical\tpotassium\tTimolol also reduce the rise in plasma aldosterone and urine <target> potassium </target> excretion follow bendrofluazide and increase the urine sodium/potassium ratio .",
+        "D001539\tChemical\tbendrofluazide\tTimolol also reduce the rise in plasma aldosterone and urine potassium excretion follow <target> bendrofluazide </target> and increase the urine sodium/potassium ratio .",
+        "D012964\tChemical\tsodium\tTimolol also reduce the rise in plasma aldosterone and urine potassium excretion follow bendrofluazide and increase the urine <target> sodium </target> /potassium ratio .",
+        "D011188\tChemical\tpotassium\tTimolol also reduce the rise in plasma aldosterone and urine potassium excretion follow bendrofluazide and increase the urine sodium/ <target> potassium </target> ratio .",
+        "D011188\tChemical\tpotassium\tthere be no evidence of a shift of <target> potassium </target> from the intracellular to the extracellular space ."
+    ]
+}

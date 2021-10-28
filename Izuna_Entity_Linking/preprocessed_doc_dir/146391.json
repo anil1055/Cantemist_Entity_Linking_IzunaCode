@@ -1,0 +1,184 @@
+{
+    "title": "Pure red cell aplasia, toxic dermatitis and lymphadenopathy in a patient taking diphenylhydantoin.",
+    "abst": "A patient taking diphenylhydantoin for 3 weeks developed a generalized skin rash, lymphadenopathy and pure red cell aplasia. After withdrawal of the pharmacon all symptoms disappeared spontaneously. Skin rash is a well-known complication of diphenylhydantoin treatment as is benign and malignant lymphadenopathy. Pure red cell aplasia associated with diphenylhydantoin medication has been reported in 3 patients. The exact mechanism by which diphenylhydantoin exerts its toxic effects is not known. In this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash, lymphadenopathy and pure red cell aplasia is very suggestive of a direct connection.",
+    "title_plus_abst": "Pure red cell aplasia, toxic dermatitis and lymphadenopathy in a patient taking diphenylhydantoin. A patient taking diphenylhydantoin for 3 weeks developed a generalized skin rash, lymphadenopathy and pure red cell aplasia. After withdrawal of the pharmacon all symptoms disappeared spontaneously. Skin rash is a well-known complication of diphenylhydantoin treatment as is benign and malignant lymphadenopathy. Pure red cell aplasia associated with diphenylhydantoin medication has been reported in 3 patients. The exact mechanism by which diphenylhydantoin exerts its toxic effects is not known. In this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash, lymphadenopathy and pure red cell aplasia is very suggestive of a direct connection.",
+    "pubmed_id": "146391",
+    "entities": [
+        [
+            0,
+            21,
+            "Pure red cell aplasia",
+            "Disease",
+            "D012010"
+        ],
+        [
+            23,
+            39,
+            "toxic dermatitis",
+            "Disease",
+            "D003875"
+        ],
+        [
+            44,
+            59,
+            "lymphadenopathy",
+            "Disease",
+            "D008206"
+        ],
+        [
+            80,
+            97,
+            "diphenylhydantoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            116,
+            133,
+            "diphenylhydantoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            170,
+            179,
+            "skin rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            181,
+            196,
+            "lymphadenopathy",
+            "Disease",
+            "D008206"
+        ],
+        [
+            201,
+            222,
+            "pure red cell aplasia",
+            "Disease",
+            "D012010"
+        ],
+        [
+            298,
+            307,
+            "Skin rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            340,
+            357,
+            "diphenylhydantoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            395,
+            410,
+            "lymphadenopathy",
+            "Disease",
+            "D008206"
+        ],
+        [
+            412,
+            433,
+            "Pure red cell aplasia",
+            "Disease",
+            "D012010"
+        ],
+        [
+            450,
+            467,
+            "diphenylhydantoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            541,
+            558,
+            "diphenylhydantoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            657,
+            674,
+            "diphenylhydantoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            701,
+            710,
+            "skin rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            712,
+            727,
+            "lymphadenopathy",
+            "Disease",
+            "D008206"
+        ],
+        [
+            732,
+            753,
+            "pure red cell aplasia",
+            "Disease",
+            "D012010"
+        ]
+    ],
+    "split_sentence": [
+        "Pure red cell aplasia, toxic dermatitis and lymphadenopathy in a patient taking diphenylhydantoin.",
+        "A patient taking diphenylhydantoin for 3 weeks developed a generalized skin rash, lymphadenopathy and pure red cell aplasia.",
+        "After withdrawal of the pharmacon all symptoms disappeared spontaneously.",
+        "Skin rash is a well-known complication of diphenylhydantoin treatment as is benign and malignant lymphadenopathy.",
+        "Pure red cell aplasia associated with diphenylhydantoin medication has been reported in 3 patients.",
+        "The exact mechanism by which diphenylhydantoin exerts its toxic effects is not known.",
+        "In this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash, lymphadenopathy and pure red cell aplasia is very suggestive of a direct connection."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012010\tDisease\tPure red cell aplasia\t<target> Pure red cell aplasia </target> , toxic dermatitis and lymphadenopathy in a patient taking diphenylhydantoin .",
+        "D003875\tDisease\ttoxic dermatitis\tPure red cell aplasia , <target> toxic dermatitis </target> and lymphadenopathy in a patient taking diphenylhydantoin .",
+        "D008206\tDisease\tlymphadenopathy\tPure red cell aplasia , toxic dermatitis and <target> lymphadenopathy </target> in a patient taking diphenylhydantoin .",
+        "D010672\tChemical\tdiphenylhydantoin\tPure red cell aplasia , toxic dermatitis and lymphadenopathy in a patient taking <target> diphenylhydantoin </target> .",
+        "D010672\tChemical\tdiphenylhydantoin\tA patient taking <target> diphenylhydantoin </target> for 3 weeks developed a generalized skin rash , lymphadenopathy and pure red cell aplasia .",
+        "D005076\tDisease\tskin rash\tA patient taking diphenylhydantoin for 3 weeks developed a generalized <target> skin rash </target> , lymphadenopathy and pure red cell aplasia .",
+        "D008206\tDisease\tlymphadenopathy\tA patient taking diphenylhydantoin for 3 weeks developed a generalized skin rash , <target> lymphadenopathy </target> and pure red cell aplasia .",
+        "D012010\tDisease\tpure red cell aplasia\tA patient taking diphenylhydantoin for 3 weeks developed a generalized skin rash , lymphadenopathy and <target> pure red cell aplasia </target> .",
+        "D005076\tDisease\tSkin rash\t<target> Skin rash </target> is a well-known complication of diphenylhydantoin treatment as is benign and malignant lymphadenopathy .",
+        "D010672\tChemical\tdiphenylhydantoin\tSkin rash is a well-known complication of <target> diphenylhydantoin </target> treatment as is benign and malignant lymphadenopathy .",
+        "D008206\tDisease\tlymphadenopathy\tSkin rash is a well-known complication of diphenylhydantoin treatment as is benign and malignant <target> lymphadenopathy </target> .",
+        "D012010\tDisease\tPure red cell aplasia\t<target> Pure red cell aplasia </target> associated with diphenylhydantoin medication has been reported in 3 patients .",
+        "D010672\tChemical\tdiphenylhydantoin\tPure red cell aplasia associated with <target> diphenylhydantoin </target> medication has been reported in 3 patients .",
+        "D010672\tChemical\tdiphenylhydantoin\tThe exact mechanism by which <target> diphenylhydantoin </target> exerts its toxic effects is not known .",
+        "D010672\tChemical\tdiphenylhydantoin\tIn this patient the time relation between the ingestion of <target> diphenylhydantoin </target> and the occurrence of the skin rash , lymphadenopathy and pure red cell aplasia is very suggestive of a direct connection .",
+        "D005076\tDisease\tskin rash\tIn this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the <target> skin rash </target> , lymphadenopathy and pure red cell aplasia is very suggestive of a direct connection .",
+        "D008206\tDisease\tlymphadenopathy\tIn this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash , <target> lymphadenopathy </target> and pure red cell aplasia is very suggestive of a direct connection .",
+        "D012010\tDisease\tpure red cell aplasia\tIn this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash , lymphadenopathy and <target> pure red cell aplasia </target> is very suggestive of a direct connection ."
+    ],
+    "lines_lemma": [
+        "D012010\tDisease\tPure red cell aplasia\t<target> pure red cell aplasia </target> , toxic dermatitis and lymphadenopathy in a patient take diphenylhydantoin .",
+        "D003875\tDisease\ttoxic dermatitis\tpure red cell aplasia , <target> toxic dermatitis </target> and lymphadenopathy in a patient take diphenylhydantoin .",
+        "D008206\tDisease\tlymphadenopathy\tpure red cell aplasia , toxic dermatitis and <target> lymphadenopathy </target> in a patient take diphenylhydantoin .",
+        "D010672\tChemical\tdiphenylhydantoin\tpure red cell aplasia , toxic dermatitis and lymphadenopathy in a patient take <target> diphenylhydantoin </target> .",
+        "D010672\tChemical\tdiphenylhydantoin\ta patient take <target> diphenylhydantoin </target> for 3 week develop a generalize skin rash , lymphadenopathy and pure red cell aplasia .",
+        "D005076\tDisease\tskin rash\ta patient take diphenylhydantoin for 3 week develop a generalized <target> skin rash </target> , lymphadenopathy and pure red cell aplasia .",
+        "D008206\tDisease\tlymphadenopathy\ta patient take diphenylhydantoin for 3 week develop a generalize skin rash , <target> lymphadenopathy </target> and pure red cell aplasia .",
+        "D012010\tDisease\tpure red cell aplasia\ta patient take diphenylhydantoin for 3 week develop a generalize skin rash , lymphadenopathy and <target> pure red cell aplasia </target> .",
+        "D005076\tDisease\tSkin rash\t<target> Skin rash </target> be a well-known complication of diphenylhydantoin treatment as be benign and malignant lymphadenopathy .",
+        "D010672\tChemical\tdiphenylhydantoin\tskin rash be a well-known complication of <target> diphenylhydantoin </target> treatment as be benign and malignant lymphadenopathy .",
+        "D008206\tDisease\tlymphadenopathy\tskin rash be a well-known complication of diphenylhydantoin treatment as be benign and malignant <target> lymphadenopathy </target> .",
+        "D012010\tDisease\tPure red cell aplasia\t<target> pure red cell aplasia </target> associate with diphenylhydantoin medication have be report in 3 patient .",
+        "D010672\tChemical\tdiphenylhydantoin\tpure red cell aplasia associate with <target> diphenylhydantoin </target> medication have be report in 3 patient .",
+        "D010672\tChemical\tdiphenylhydantoin\tthe exact mechanism by which <target> diphenylhydantoin </target> exert its toxic effect be not know .",
+        "D010672\tChemical\tdiphenylhydantoin\tin this patient the time relation between the ingestion of <target> diphenylhydantoin </target> and the occurrence of the skin rash , lymphadenopathy and pure red cell aplasia be very suggestive of a direct connection .",
+        "D005076\tDisease\tskin rash\tin this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the <target> skin rash </target> , lymphadenopathy and pure red cell aplasia be very suggestive of a direct connection .",
+        "D008206\tDisease\tlymphadenopathy\tin this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash , <target> lymphadenopathy </target> and pure red cell aplasia be very suggestive of a direct connection .",
+        "D012010\tDisease\tpure red cell aplasia\tin this patient the time relation between the ingestion of diphenylhydantoin and the occurrence of the skin rash , lymphadenopathy and <target> pure red cell aplasia </target> be very suggestive of a direct connection ."
+    ]
+}

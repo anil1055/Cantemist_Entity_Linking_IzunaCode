@@ -1,0 +1,134 @@
+{
+    "entities": [
+        [
+            980,
+            1006,
+            "cáncer de mama metastásico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1076,
+            1096,
+            "infiltración medular",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2067,
+            2087,
+            "infiltración medular",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2312,
+            2317,
+            "tumor",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            954,
+            961,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            796,
+            822,
+            "Cuadro leucoeritroblástico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1746,
+            1808,
+            "carcinoma infiltrante de mama izquierda grado II de Nottingham",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/32/H"
+        ],
+        [
+            2222,
+            2256,
+            "linfangitis pulmonar carcinomatosa",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2259,
+            2288,
+            "metástasis óseas de carcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Alta sospecha de  <objetivo> cáncer de mama metastásico </objetivo> pendiente de completar estudio.",
+        "Pancitopenia en probable contexto de  <objetivo> infiltración medular </objetivo> ósea.",
+        "No se realizó biopsia de médula ósea por alta sospecha de  <objetivo> infiltración medular </objetivo> sin condicionar actitud posterior a seguir.",
+        "Pancitopenia en probable contexto de  <objetivo> infiltración medular </objetivo> ósea.",
+        "No se realizó biopsia de médula ósea por alta sospecha de  <objetivo> infiltración medular </objetivo> sin condicionar actitud posterior a seguir.",
+        "Ingresa en Oncología Médica por hipercalcemia severa y fracaso renal agudo de probable origen  <objetivo> tumor </objetivo> l.",
+        "Para el estudio de extensión se realizó PET-TC FDG al cuarto día de ingreso: hallazgos de linfangitis pulmonar carcinomatosa y metástasis óseas de carcinoma de mama izquierda como  <objetivo> tumor </objetivo> primario, con afectación axilar bilateral.",
+        "Ingresa en Oncología Médica por hipercalcemia severa y fracaso renal agudo de probable origen  <objetivo> tumoral </objetivo> ",
+        "<objetivo> Cuadro leucoeritroblástico </objetivo> en el frotis de sangre.",
+        "Con PAAF bilateral y biopsia de la masa se le diagnostícó de  <objetivo> carcinoma infiltrante de mama izquierda grado II de Nottingham </objetivo>  con receptores de estrógeno y progesterona positivos un 90 y 20% repectivamente.",
+        "Para el estudio de extensión se realizó PET-TC FDG al cuarto día de ingreso: hallazgos de  <objetivo> linfangitis pulmonar carcinomatosa </objetivo> y metástasis óseas de carcinoma de mama izquierda como tumor primario, con afectación axilar bilateral.",
+        "Para el estudio de extensión se realizó PET-TC FDG al cuarto día de ingreso: hallazgos de linfangitis pulmonar carcinomatosa y  <objetivo> metástasis óseas de carcinoma </objetivo> de mama izquierda como tumor primario, con afectación axilar bilateral."
+    ],
+    "lines_lemma": [
+        "alta sospechar de   <objetivo> cáncer de mama metastásico </objetivo> pendiente de completar estudio .",
+        "pancitopeniar en probable contexto de   <objetivo> infiltración medular </objetivo> óseo .",
+        "no él realizar biopsia de médula óseo por alto sospecha de   <objetivo> infiltración medular </objetivo> sin condicionar actitud posterior a seguir .",
+        "pancitopeniar en probable contexto de   <objetivo> infiltración medular </objetivo> óseo .",
+        "no él realizar biopsia de médula óseo por alto sospecha de   <objetivo> infiltración medular </objetivo> sin condicionar actitud posterior a seguir .",
+        "ingresar en Oncología Médica por hipercalcemia severo y fracaso renal agudo de probable origen   <objetivo> tumor </objetivo> l.",
+        "para el estudio de extensión él realizar PET-TC FDG al cuarto día de ingreso : hallazgo de linfangitis  pulmonar carcinomatós y metástasi ósea de carcinoma de mama izquierdo como   <objetivo> tumor </objetivo> primario , con afectación axilar bilateral .",
+        "ingresar en Oncología Médica por hipercalcemia severo y fracaso renal agudo de probable origen   <objetivo> tumoral </objetivo>",
+        "<objetivo> Cuadro leucoeritroblástico </objetivo> en el froti de sangre .",
+        "con PAAF bilateral y biopsia de el masa él él diagnostícar de   <objetivo> carcinomar infiltrante de mama izquierdo grado II de Nottingham </objetivo>   con receptor de estrógeno y progesteronar positivo uno 90 y 20% repectivamente .",
+        "para el estudio de extensión él realizar PET-TC FDG al cuarto día de ingreso : hallazgo de   <objetivo> linfangitis pulmonar carcinomatosa </objetivo> y metástasi ósea de carcinoma de mama izquierdo como tumor primario , con afectación axilar bilateral .",
+        "para el estudio de extensión él realizar PET-TC FDG al cuarto día de ingreso : hallazgo de linfangitis  pulmonar carcinomatós y   <objetivo> metástasi ósea de carcinoma </objetivo> de mama izquierdo como tumor primario , con afectación axilar bilateral ."
+    ],
+    "pubmed_id": "onco359",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 45 años con mamoplastia bilateral en 2012 sin otros antecedentes de interés y sin revisiones ginecológicas previas.",
+        "Valorada en consultas de Ginecología en Marzo 2016 por úlcera cutánea en mama izquierda de un año de evolución.",
+        "Refería además mastalgia bilateral, dolor abdominal, dorsalgia, oliguria y pérdida de peso de 10 kg en 1 mes",
+        "Exploración física",
+        "Lesión ulcerada pétrea en la areola de la mama izquierda de 2 cm, con retracción cutánea.",
+        "Adenopatía palpable e indolora axilar izquierda de 0.5 cm y 2 nódulos rodadores de 1 y 1.5cm en el cuadrante superoexterno (CSE) de mama derecha.",
+        "Pruebas complementarias",
+        "En una analítica inicial se observó un calcio corregido de 13.9mg/dl, creatinina 1.85, hemograma con 10.700 leucocitos, hemoglobina 10g/dL y 40.000 plaquetas.",
+        "Cuadro leucoeritroblástico en el frotis de sangre.",
+        "Diagnóstico",
+        "Ingresa en Oncología Médica por hipercalcemia severa y fracaso renal agudo de probable origen tumoral.",
+        "Alta sospecha de cáncer de mama metastásico pendiente de completar estudio.",
+        "Pancitopenia en probable contexto de infiltración medular ósea.",
+        "Se llevó a cabo el manejo urgente de la hipercalcemia, estabilización hemodinámica y analgesia.",
+        "No se inició anticoagulación profiláctica por trombopenia.",
+        "Riesgo intermedio en la escala de Khonana (puntuación 1).",
+        "Se completó el estudio con mamografía de alta resolución derecha (no izquierda por ulceración) y ecografía de mama y axila bilateral encontrando una masa retroareolar izquierda espiculada de 38x19 mm con microcalcificaciones, una adenopatía axilar izquierda patológica y área glandular sospechosa en CSE de la mama derecha, también con microcalcificaciones (BIRADS 5).",
+        "Con PAAF bilateral y biopsia de la masa se le diagnostícó de carcinoma infiltrante de mama izquierda grado II de Nottingham, con receptores de estrógeno y progesterona positivos un 90 y 20% repectivamente.",
+        "No sobreexpresaba p53.",
+        "Ki-67 del 20%.",
+        "Quedaba pendiente el resultado de la inmunohistoquímica (herceptest) para HER2.",
+        "No se realizó biopsia de médula ósea por alta sospecha de infiltración medular sin condicionar actitud posterior a seguir.",
+        "Para el estudio de extensión se realizó PET-TC FDG al cuarto día de ingreso: hallazgos de linfangitis pulmonar carcinomatosa y metástasis óseas de carcinoma de mama izquierda como tumor primario, con afectación axilar bilateral.",
+        "Se observan defectos de repleción compatibles con tromboembolismo pulmonar (TEP) agudo en las arterias segmentarias del lóbulo inferior izquierdo.",
+        "La paciente había sido valorada la tercera noche de ingreso por dolor torácico que impresionaba de pleuromecánico, con electrocardiograma normal y que cedió con analgesia, sin asociar otros signos o sintomas que hicieran sospechar de TEP.",
+        "Tratamiento",
+        "En la analítíca de control del quinto día de ingreso presentó una hemoglobina de 9g/dL y trombopenia de 35.000/mm3 por lo que se transfundieron hematíes y, ante la ausencia de otros riesgos de sangrado agudo, se inició anticoagulación con HBPM a dosis terapéutica previa transfusión de plaquetas (consiguiendo cifras de 45.000/mm3).",
+        "Paralelamente se inició QT precoz con taxol semanal con dosis reducida (60mg/m2).",
+        "Se mantuvo tratamiento de soporte con oxigenoterapia y antibioterapia 10 días por posible sobreinfección pulmonar y se consiguió buen control analgésico con morfina oral.",
+        "Evolución",
+        "En la tercera semana del ingreso se obtuvieron los resultados de la inmunohistoquímica con HER2 POSITIVO (+3).",
+        "Tras comprobar una FEVI del 68% y con 99.000 plaquetas se administró el tercer ciclo de taxol semanal con misma reducción de dosis, añadiendo el primer ciclo de pertuzumab-trastuzumab trimestral.",
+        "Habiendo conseguido mejoría clínica y manteniendo estabilidad en las analíticas de control la paciente fue dada de alta ese mismo día, con idea de completar los siguientes ciclos ambulatoriamente y pendiente de reevaluación radiológica."
+    ],
+    "text": "Anamnesis\nMujer de 45 años con mamoplastia bilateral en 2012 sin otros antecedentes de interés y sin revisiones ginecológicas previas. Valorada en consultas de Ginecología en Marzo 2016 por úlcera cutánea en mama izquierda de un año de evolución. Refería además mastalgia bilateral, dolor abdominal, dorsalgia, oliguria y pérdida de peso de 10 kg en 1 mes\n\nExploración física\nLesión ulcerada pétrea en la areola de la mama izquierda de 2 cm, con retracción cutánea. Adenopatía palpable e indolora axilar izquierda de 0.5 cm y 2 nódulos rodadores de 1 y 1.5cm en el cuadrante superoexterno (CSE) de mama derecha.\n\nPruebas complementarias\nEn una analítica inicial se observó un calcio corregido de 13.9mg/dl, creatinina 1.85, hemograma con 10.700 leucocitos, hemoglobina 10g/dL y 40.000 plaquetas. Cuadro leucoeritroblástico en el frotis de sangre.\n\nDiagnóstico\nIngresa en Oncología Médica por hipercalcemia severa y fracaso renal agudo de probable origen tumoral. Alta sospecha de cáncer de mama metastásico pendiente de completar estudio. Pancitopenia en probable contexto de infiltración medular ósea.\nSe llevó a cabo el manejo urgente de la hipercalcemia, estabilización hemodinámica y analgesia. No se inició anticoagulación profiláctica por trombopenia. Riesgo intermedio en la escala de Khonana (puntuación 1).\nSe completó el estudio con mamografía de alta resolución derecha (no izquierda por ulceración) y ecografía de mama y axila bilateral encontrando una masa retroareolar izquierda espiculada de 38x19 mm con microcalcificaciones, una adenopatía axilar izquierda patológica y área glandular sospechosa en CSE de la mama derecha, también con microcalcificaciones (BIRADS 5).\nCon PAAF bilateral y biopsia de la masa se le diagnostícó de carcinoma infiltrante de mama izquierda grado II de Nottingham, con receptores de estrógeno y progesterona positivos un 90 y 20% repectivamente. No sobreexpresaba p53. Ki-67 del 20%. Quedaba pendiente el resultado de la inmunohistoquímica (herceptest) para HER2.\nNo se realizó biopsia de médula ósea por alta sospecha de infiltración medular sin condicionar actitud posterior a seguir. Para el estudio de extensión se realizó PET-TC FDG al cuarto día de ingreso: hallazgos de linfangitis pulmonar carcinomatosa y metástasis óseas de carcinoma de mama izquierda como tumor primario, con afectación axilar bilateral. Se observan defectos de repleción compatibles con tromboembolismo pulmonar (TEP) agudo en las arterias segmentarias del lóbulo inferior izquierdo. La paciente había sido valorada la tercera noche de ingreso por dolor torácico que impresionaba de pleuromecánico, con electrocardiograma normal y que cedió con analgesia, sin asociar otros signos o sintomas que hicieran sospechar de TEP.\n\nTratamiento\nEn la analítíca de control del quinto día de ingreso presentó una hemoglobina de 9g/dL y trombopenia de 35.000/mm3 por lo que se transfundieron hematíes y, ante la ausencia de otros riesgos de sangrado agudo, se inició anticoagulación con HBPM a dosis terapéutica previa transfusión de plaquetas (consiguiendo cifras de 45.000/mm3). Paralelamente se inició QT precoz con taxol semanal con dosis reducida (60mg/m2). Se mantuvo tratamiento de soporte con oxigenoterapia y antibioterapia 10 días por posible sobreinfección pulmonar y se consiguió buen control analgésico con morfina oral.\n\nEvolución\nEn la tercera semana del ingreso se obtuvieron los resultados de la inmunohistoquímica con HER2 POSITIVO (+3). Tras comprobar una FEVI del 68% y con 99.000 plaquetas se administró el tercer ciclo de taxol semanal con misma reducción de dosis, añadiendo el primer ciclo de pertuzumab-trastuzumab trimestral. Habiendo conseguido mejoría clínica y manteniendo estabilidad en las analíticas de control la paciente fue dada de alta ese mismo día, con idea de completar los siguientes ciclos ambulatoriamente y pendiente de reevaluación radiológica."
+}

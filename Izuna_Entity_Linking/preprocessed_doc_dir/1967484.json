@@ -1,0 +1,119 @@
+{
+    "title": "Sulpiride-induced tardive dystonia.",
+    "abst": "Sulpiride is a selective D2-receptor antagonist with antipsychotic and antidepressant properties. Although initially thought to be free of extrapyramidal side effects, sulpiride-induced tardive dyskinesia and parkinsonism have been reported occasionally. We studied a 37-year-old man who developed persistent segmental dystonia within 2 months after starting sulpiride therapy. We could not find any previous reports of sulpiride-induced tardive dystonia.",
+    "title_plus_abst": "Sulpiride-induced tardive dystonia. Sulpiride is a selective D2-receptor antagonist with antipsychotic and antidepressant properties. Although initially thought to be free of extrapyramidal side effects, sulpiride-induced tardive dyskinesia and parkinsonism have been reported occasionally. We studied a 37-year-old man who developed persistent segmental dystonia within 2 months after starting sulpiride therapy. We could not find any previous reports of sulpiride-induced tardive dystonia.",
+    "pubmed_id": "1967484",
+    "entities": [
+        [
+            0,
+            9,
+            "Sulpiride",
+            "Chemical",
+            "D013469"
+        ],
+        [
+            18,
+            34,
+            "tardive dystonia",
+            "Disease",
+            "D004421"
+        ],
+        [
+            36,
+            45,
+            "Sulpiride",
+            "Chemical",
+            "D013469"
+        ],
+        [
+            107,
+            121,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            204,
+            213,
+            "sulpiride",
+            "Chemical",
+            "D013469"
+        ],
+        [
+            222,
+            240,
+            "tardive dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            245,
+            257,
+            "parkinsonism",
+            "Disease",
+            "D010302"
+        ],
+        [
+            355,
+            363,
+            "dystonia",
+            "Disease",
+            "D004421"
+        ],
+        [
+            395,
+            404,
+            "sulpiride",
+            "Chemical",
+            "D013469"
+        ],
+        [
+            456,
+            465,
+            "sulpiride",
+            "Chemical",
+            "D013469"
+        ],
+        [
+            474,
+            490,
+            "tardive dystonia",
+            "Disease",
+            "D004421"
+        ]
+    ],
+    "split_sentence": [
+        "Sulpiride-induced tardive dystonia.",
+        "Sulpiride is a selective D2-receptor antagonist with antipsychotic and antidepressant properties.",
+        "Although initially thought to be free of extrapyramidal side effects, sulpiride-induced tardive dyskinesia and parkinsonism have been reported occasionally.",
+        "We studied a 37-year-old man who developed persistent segmental dystonia within 2 months after starting sulpiride therapy.",
+        "We could not find any previous reports of sulpiride-induced tardive dystonia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013469\tChemical\tSulpiride\t<target> Sulpiride </target> -induced tardive dystonia .",
+        "D004421\tDisease\ttardive dystonia\tSulpiride-induced <target> tardive dystonia </target> .",
+        "D013469\tChemical\tSulpiride\t<target> Sulpiride </target> is a selective D2-receptor antagonist with antipsychotic and antidepressant properties .",
+        "D000928\tChemical\tantidepressant\tSulpiride is a selective D2-receptor antagonist with antipsychotic and <target> antidepressant </target> properties .",
+        "D013469\tChemical\tsulpiride\tAlthough initially thought to be free of extrapyramidal side effects , <target> sulpiride </target> -induced tardive dyskinesia and parkinsonism have been reported occasionally .",
+        "D004409\tDisease\ttardive dyskinesia\tAlthough initially thought to be free of extrapyramidal side effects , sulpiride-induced <target> tardive dyskinesia </target> and parkinsonism have been reported occasionally .",
+        "D010302\tDisease\tparkinsonism\tAlthough initially thought to be free of extrapyramidal side effects , sulpiride-induced tardive dyskinesia and <target> parkinsonism </target> have been reported occasionally .",
+        "D004421\tDisease\tdystonia\tWe studied a 37-year-old man who developed persistent segmental <target> dystonia </target> within 2 months after starting sulpiride therapy .",
+        "D013469\tChemical\tsulpiride\tWe studied a 37-year-old man who developed persistent segmental dystonia within 2 months after starting <target> sulpiride </target> therapy .",
+        "D013469\tChemical\tsulpiride\tWe could not find any previous reports of <target> sulpiride </target> -induced tardive dystonia .",
+        "D004421\tDisease\ttardive dystonia\tWe could not find any previous reports of sulpiride-induced <target> tardive dystonia </target> ."
+    ],
+    "lines_lemma": [
+        "D013469\tChemical\tSulpiride\t<target> Sulpiride </target> -induced tardive dystonia .",
+        "D004421\tDisease\ttardive dystonia\tsulpiride-induced <target> tardive dystonia </target> .",
+        "D013469\tChemical\tSulpiride\t<target> Sulpiride </target> be a selective d2-receptor antagonist with antipsychotic and antidepressant property .",
+        "D000928\tChemical\tantidepressant\tSulpiride be a selective d2-receptor antagonist with antipsychotic and <target> antidepressant </target> property .",
+        "D013469\tChemical\tsulpiride\talthough initially think to be free of extrapyramidal side effect , <target> sulpiride </target> -induced tardive dyskinesia and parkinsonism have be report occasionally .",
+        "D004409\tDisease\ttardive dyskinesia\talthough initially think to be free of extrapyramidal side effect , sulpiride-induced <target> tardive dyskinesia </target> and parkinsonism have be report occasionally .",
+        "D010302\tDisease\tparkinsonism\talthough initially think to be free of extrapyramidal side effect , sulpiride-induced tardive dyskinesia and <target> parkinsonism </target> have be report occasionally .",
+        "D004421\tDisease\tdystonia\twe study a 37-year-old man who develop persistent segmental <target> dystonia </target> within 2 month after start sulpiride therapy .",
+        "D013469\tChemical\tsulpiride\twe study a 37-year-old man who develop persistent segmental dystonia within 2 month after start <target> sulpiride </target> therapy .",
+        "D013469\tChemical\tsulpiride\twe could not find any previous report of <target> sulpiride </target> -induced tardive dystonia .",
+        "D004421\tDisease\ttardive dystonia\twe could not find any previous report of sulpiride-induced <target> tardive dystonia </target> ."
+    ]
+}

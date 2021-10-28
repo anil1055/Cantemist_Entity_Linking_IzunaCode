@@ -1,0 +1,91 @@
+{
+    "title": "Fatal aplastic anemia in a patient treated with carbamazepine.",
+    "abst": "A case of fatal aplastic anemia due to carbamazepine treatment in an epileptic woman is reported. Despite concerns of fatal bone marrow toxicity due to carbamazepine, this is only the fourth documented and published report. Carbamazepine is a safe drug, but physicians and patients should be aware of the exceedingly rare but potentially fatal side effects, better prevented by clinical than by laboratory monitoring.",
+    "title_plus_abst": "Fatal aplastic anemia in a patient treated with carbamazepine. A case of fatal aplastic anemia due to carbamazepine treatment in an epileptic woman is reported. Despite concerns of fatal bone marrow toxicity due to carbamazepine, this is only the fourth documented and published report. Carbamazepine is a safe drug, but physicians and patients should be aware of the exceedingly rare but potentially fatal side effects, better prevented by clinical than by laboratory monitoring.",
+    "pubmed_id": "3409843",
+    "entities": [
+        [
+            6,
+            21,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            48,
+            61,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            79,
+            94,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            102,
+            115,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            132,
+            141,
+            "epileptic",
+            "Disease",
+            "D004827"
+        ],
+        [
+            187,
+            207,
+            "bone marrow toxicity",
+            "Disease",
+            "D001855"
+        ],
+        [
+            215,
+            228,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            287,
+            300,
+            "Carbamazepine",
+            "Chemical",
+            "D002220"
+        ]
+    ],
+    "split_sentence": [
+        "Fatal aplastic anemia in a patient treated with carbamazepine.",
+        "A case of fatal aplastic anemia due to carbamazepine treatment in an epileptic woman is reported.",
+        "Despite concerns of fatal bone marrow toxicity due to carbamazepine, this is only the fourth documented and published report.",
+        "Carbamazepine is a safe drug, but physicians and patients should be aware of the exceedingly rare but potentially fatal side effects, better prevented by clinical than by laboratory monitoring."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000741\tDisease\taplastic anemia\tFatal <target> aplastic anemia </target> in a patient treated with carbamazepine .",
+        "D002220\tChemical\tcarbamazepine\tFatal aplastic anemia in a patient treated with <target> carbamazepine </target> .",
+        "D000741\tDisease\taplastic anemia\tA case of fatal <target> aplastic anemia </target> due to carbamazepine treatment in an epileptic woman is reported .",
+        "D002220\tChemical\tcarbamazepine\tA case of fatal aplastic anemia due to <target> carbamazepine </target> treatment in an epileptic woman is reported .",
+        "D004827\tDisease\tepileptic\tA case of fatal aplastic anemia due to carbamazepine treatment in an <target> epileptic </target> woman is reported .",
+        "D001855\tDisease\tbone marrow toxicity\tDespite concerns of fatal <target> bone marrow toxicity </target> due to carbamazepine , this is only the fourth documented and published report .",
+        "D002220\tChemical\tcarbamazepine\tDespite concerns of fatal bone marrow toxicity due to <target> carbamazepine </target> , this is only the fourth documented and published report .",
+        "D002220\tChemical\tCarbamazepine\t<target> Carbamazepine </target> is a safe drug , but physicians and patients should be aware of the exceedingly rare but potentially fatal side effects , better prevented by clinical than by laboratory monitoring ."
+    ],
+    "lines_lemma": [
+        "D000741\tDisease\taplastic anemia\tfatal <target> aplastic anemia </target> in a patient treat with carbamazepine .",
+        "D002220\tChemical\tcarbamazepine\tfatal aplastic anemia in a patient treat with <target> carbamazepine </target> .",
+        "D000741\tDisease\taplastic anemia\ta case of fatal <target> aplastic anemia </target> due to carbamazepine treatment in an epileptic woman be report .",
+        "D002220\tChemical\tcarbamazepine\ta case of fatal aplastic anemia due to <target> carbamazepine </target> treatment in an epileptic woman be report .",
+        "D004827\tDisease\tepileptic\ta case of fatal aplastic anemia due to carbamazepine treatment in an <target> epileptic </target> woman be report .",
+        "D001855\tDisease\tbone marrow toxicity\tdespite concern of fatal <target> bone marrow toxicity </target> due to carbamazepine , this be only the fourth document and publish report .",
+        "D002220\tChemical\tcarbamazepine\tdespite concern of fatal bone marrow toxicity due to <target> carbamazepine </target> , this be only the fourth document and publish report .",
+        "D002220\tChemical\tCarbamazepine\t<target> carbamazepine </target> be a safe drug , but physician and patient should be aware of the exceedingly rare but potentially fatal side effect , well prevent by clinical than by laboratory monitoring ."
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "title": "Meloxicam-induced liver toxicity.",
+    "abst": "We report the case of a female patient with rheumatoid arthritis who developed acute cytolytic hepatitis due to meloxicam. Recently introduced in Belgium, meloxicam is the first nonsteroidal antiinflammatory drug with selective action on the inducible form of cyclooxygenase 2. The acute cytolytic hepatitis occurred rapidly after meloxicam administration and was associated with the development of antinuclear antibodies suggesting a hypersensitivity mechanism. This first case of meloxicam related liver toxicity demonstrates the potential of this drug to induce hepatic damage.",
+    "title_plus_abst": "Meloxicam-induced liver toxicity. We report the case of a female patient with rheumatoid arthritis who developed acute cytolytic hepatitis due to meloxicam. Recently introduced in Belgium, meloxicam is the first nonsteroidal antiinflammatory drug with selective action on the inducible form of cyclooxygenase 2. The acute cytolytic hepatitis occurred rapidly after meloxicam administration and was associated with the development of antinuclear antibodies suggesting a hypersensitivity mechanism. This first case of meloxicam related liver toxicity demonstrates the potential of this drug to induce hepatic damage.",
+    "pubmed_id": "10427794",
+    "entities": [
+        [
+            0,
+            9,
+            "Meloxicam",
+            "Chemical",
+            "C065757"
+        ],
+        [
+            18,
+            32,
+            "liver toxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            78,
+            98,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            129,
+            138,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            146,
+            155,
+            "meloxicam",
+            "Chemical",
+            "C065757"
+        ],
+        [
+            189,
+            198,
+            "meloxicam",
+            "Chemical",
+            "C065757"
+        ],
+        [
+            332,
+            341,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            365,
+            374,
+            "meloxicam",
+            "Chemical",
+            "C065757"
+        ],
+        [
+            469,
+            485,
+            "hypersensitivity",
+            "Disease",
+            "D004342"
+        ],
+        [
+            516,
+            525,
+            "meloxicam",
+            "Chemical",
+            "C065757"
+        ],
+        [
+            534,
+            548,
+            "liver toxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            599,
+            613,
+            "hepatic damage",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Meloxicam-induced liver toxicity.",
+        "We report the case of a female patient with rheumatoid arthritis who developed acute cytolytic hepatitis due to meloxicam.",
+        "Recently introduced in Belgium, meloxicam is the first nonsteroidal antiinflammatory drug with selective action on the inducible form of cyclooxygenase 2.",
+        "The acute cytolytic hepatitis occurred rapidly after meloxicam administration and was associated with the development of antinuclear antibodies suggesting a hypersensitivity mechanism.",
+        "This first case of meloxicam related liver toxicity demonstrates the potential of this drug to induce hepatic damage."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C065757\tChemical\tMeloxicam\t<target> Meloxicam </target> -induced liver toxicity .",
+        "D056486\tDisease\tliver toxicity\tMeloxicam-induced <target> liver toxicity </target> .",
+        "D001172\tDisease\trheumatoid arthritis\tWe report the case of a female patient with <target> rheumatoid arthritis </target> who developed acute cytolytic hepatitis due to meloxicam .",
+        "D056486\tDisease\thepatitis\tWe report the case of a female patient with rheumatoid arthritis who developed acute cytolytic <target> hepatitis </target> due to meloxicam .",
+        "C065757\tChemical\tmeloxicam\tWe report the case of a female patient with rheumatoid arthritis who developed acute cytolytic hepatitis due to <target> meloxicam </target> .",
+        "C065757\tChemical\tmeloxicam\tRecently introduced in Belgium , <target> meloxicam </target> is the first nonsteroidal antiinflammatory drug with selective action on the inducible form of cyclooxygenase 2 .",
+        "D056486\tDisease\thepatitis\tThe acute cytolytic <target> hepatitis </target> occurred rapidly after meloxicam administration and was associated with the development of antinuclear antibodies suggesting a hypersensitivity mechanism .",
+        "C065757\tChemical\tmeloxicam\tThe acute cytolytic hepatitis occurred rapidly after <target> meloxicam </target> administration and was associated with the development of antinuclear antibodies suggesting a hypersensitivity mechanism .",
+        "D004342\tDisease\thypersensitivity\tThe acute cytolytic hepatitis occurred rapidly after meloxicam administration and was associated with the development of antinuclear antibodies suggesting a <target> hypersensitivity </target> mechanism .",
+        "C065757\tChemical\tmeloxicam\tThis first case of <target> meloxicam </target> related liver toxicity demonstrates the potential of this drug to induce hepatic damage .",
+        "D056486\tDisease\tliver toxicity\tThis first case of meloxicam related <target> liver toxicity </target> demonstrates the potential of this drug to induce hepatic damage .",
+        "D056486\tDisease\thepatic damage\tThis first case of meloxicam related liver toxicity demonstrates the potential of this drug to induce <target> hepatic damage </target> ."
+    ],
+    "lines_lemma": [
+        "C065757\tChemical\tMeloxicam\t<target> Meloxicam </target> -induced liver toxicity .",
+        "D056486\tDisease\tliver toxicity\tmeloxicam-induced <target> liver toxicity </target> .",
+        "D001172\tDisease\trheumatoid arthritis\twe report the case of a female patient with <target> rheumatoid arthritis </target> who develop acute cytolytic hepatitis due to meloxicam .",
+        "D056486\tDisease\thepatitis\twe report the case of a female patient with rheumatoid arthritis who develop acute cytolytic <target> hepatitis </target> due to meloxicam .",
+        "C065757\tChemical\tmeloxicam\twe report the case of a female patient with rheumatoid arthritis who develop acute cytolytic hepatitis due to <target> meloxicam </target> .",
+        "C065757\tChemical\tmeloxicam\trecently introduce in Belgium , <target> meloxicam </target> be the first nonsteroidal antiinflammatory drug with selective action on the inducible form of cyclooxygenase 2 .",
+        "D056486\tDisease\thepatitis\tthe acute cytolytic <target> hepatitis </target> occur rapidly after meloxicam administration and be associate with the development of antinuclear antibody suggest a hypersensitivity mechanism .",
+        "C065757\tChemical\tmeloxicam\tthe acute cytolytic hepatitis occur rapidly after <target> meloxicam </target> administration and be associate with the development of antinuclear antibody suggest a hypersensitivity mechanism .",
+        "D004342\tDisease\thypersensitivity\tthe acute cytolytic hepatitis occur rapidly after meloxicam administration and be associate with the development of antinuclear antibody suggest a <target> hypersensitivity </target> mechanism .",
+        "C065757\tChemical\tmeloxicam\tthis first case of <target> meloxicam </target> related liver toxicity demonstrate the potential of this drug to induce hepatic damage .",
+        "D056486\tDisease\tliver toxicity\tthis first case of meloxicam related <target> liver toxicity </target> demonstrate the potential of this drug to induce hepatic damage .",
+        "D056486\tDisease\thepatic damage\tthis first case of meloxicam related liver toxicity demonstrate the potential of this drug to induce <target> hepatic damage </target> ."
+    ]
+}

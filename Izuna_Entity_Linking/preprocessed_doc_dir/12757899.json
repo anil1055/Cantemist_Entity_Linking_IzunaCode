@@ -1,0 +1,205 @@
+{
+    "title": "Estradiol reduces seizure-induced hippocampal injury in ovariectomized female but not in male rats.",
+    "abst": "Estrogens protect ovariectomized rats from hippocampal injury induced by kainic acid-induced status epilepticus (SE). We compared the effects of 17beta-estradiol in adult male and ovariectomized female rats subjected to lithium-pilocarpine-induced SE. Rats received subcutaneous injections of 17beta-estradiol (2 microg/rat) or oil once daily for four consecutive days. SE was induced 20 h following the second injection and terminated 3 h later. The extent of silver-stained CA3 and CA1 hippocampal neurons was evaluated 2 days after SE. 17beta-Estradiol did not alter the onset of first clonus in ovariectomized rats but accelerated it in males. 17beta-Estradiol reduced the argyrophilic neurons in the CA1 and CA3-C sectors of ovariectomized rats. In males, estradiol increased the total damage score. These findings suggest that the effects of estradiol on seizure threshold and damage may be altered by sex-related differences in the hormonal environment.",
+    "title_plus_abst": "Estradiol reduces seizure-induced hippocampal injury in ovariectomized female but not in male rats. Estrogens protect ovariectomized rats from hippocampal injury induced by kainic acid-induced status epilepticus (SE). We compared the effects of 17beta-estradiol in adult male and ovariectomized female rats subjected to lithium-pilocarpine-induced SE. Rats received subcutaneous injections of 17beta-estradiol (2 microg/rat) or oil once daily for four consecutive days. SE was induced 20 h following the second injection and terminated 3 h later. The extent of silver-stained CA3 and CA1 hippocampal neurons was evaluated 2 days after SE. 17beta-Estradiol did not alter the onset of first clonus in ovariectomized rats but accelerated it in males. 17beta-Estradiol reduced the argyrophilic neurons in the CA1 and CA3-C sectors of ovariectomized rats. In males, estradiol increased the total damage score. These findings suggest that the effects of estradiol on seizure threshold and damage may be altered by sex-related differences in the hormonal environment.",
+    "pubmed_id": "12757899",
+    "entities": [
+        [
+            0,
+            9,
+            "Estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            18,
+            25,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            34,
+            52,
+            "hippocampal injury",
+            "Disease",
+            "D001930"
+        ],
+        [
+            143,
+            161,
+            "hippocampal injury",
+            "Disease",
+            "D001930"
+        ],
+        [
+            173,
+            184,
+            "kainic acid",
+            "Chemical",
+            "D007608"
+        ],
+        [
+            193,
+            211,
+            "status epilepticus",
+            "Disease",
+            "D013226"
+        ],
+        [
+            213,
+            215,
+            "SE",
+            "Disease",
+            "D013226"
+        ],
+        [
+            245,
+            261,
+            "17beta-estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            320,
+            327,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            328,
+            339,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            348,
+            350,
+            "SE",
+            "Disease",
+            "D013226"
+        ],
+        [
+            393,
+            409,
+            "17beta-estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            470,
+            472,
+            "SE",
+            "Disease",
+            "D013226"
+        ],
+        [
+            561,
+            567,
+            "silver",
+            "Chemical",
+            "D012834"
+        ],
+        [
+            635,
+            637,
+            "SE",
+            "Disease",
+            "D013226"
+        ],
+        [
+            639,
+            655,
+            "17beta-Estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            748,
+            764,
+            "17beta-Estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            861,
+            870,
+            "estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            948,
+            957,
+            "estradiol",
+            "Chemical",
+            "D004958"
+        ],
+        [
+            961,
+            968,
+            "seizure",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Estradiol reduces seizure-induced hippocampal injury in ovariectomized female but not in male rats.",
+        "Estrogens protect ovariectomized rats from hippocampal injury induced by kainic acid-induced status epilepticus (SE).",
+        "We compared the effects of 17beta-estradiol in adult male and ovariectomized female rats subjected to lithium-pilocarpine-induced SE.",
+        "Rats received subcutaneous injections of 17beta-estradiol (2 microg/rat) or oil once daily for four consecutive days.",
+        "SE was induced 20 h following the second injection and terminated 3 h later.",
+        "The extent of silver-stained CA3 and CA1 hippocampal neurons was evaluated 2 days after SE.",
+        "17beta-Estradiol did not alter the onset of first clonus in ovariectomized rats but accelerated it in males.",
+        "17beta-Estradiol reduced the argyrophilic neurons in the CA1 and CA3-C sectors of ovariectomized rats.",
+        "In males, estradiol increased the total damage score.",
+        "These findings suggest that the effects of estradiol on seizure threshold and damage may be altered by sex-related differences in the hormonal environment."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004958\tChemical\tEstradiol\t<target> Estradiol </target> reduces seizure-induced hippocampal injury in ovariectomized female but not in male rats .",
+        "D012640\tDisease\tseizure\tEstradiol reduces <target> seizure </target> -induced hippocampal injury in ovariectomized female but not in male rats .",
+        "D001930\tDisease\thippocampal injury\tEstradiol reduces seizure-induced <target> hippocampal injury </target> in ovariectomized female but not in male rats .",
+        "D001930\tDisease\thippocampal injury\tEstrogens protect ovariectomized rats from <target> hippocampal injury </target> induced by kainic acid-induced status epilepticus ( SE ) .",
+        "D007608\tChemical\tkainic acid\tEstrogens protect ovariectomized rats from hippocampal injury induced by <target> kainic acid </target> -induced status epilepticus ( SE ) .",
+        "D013226\tDisease\tstatus epilepticus\tEstrogens protect ovariectomized rats from hippocampal injury induced by kainic acid-induced <target> status epilepticus </target> ( SE ) .",
+        "D013226\tDisease\tSE\tEstrogens protect ovariectomized rats from hippocampal injury induced by kainic acid-induced status epilepticus ( <target> SE </target> ) .",
+        "D004958\tChemical\t17beta-estradiol\tWe compared the effects of <target> 17beta-estradiol </target> in adult male and ovariectomized female rats subjected to lithium-pilocarpine-induced SE .",
+        "D008094\tChemical\tlithium\tWe compared the effects of 17beta-estradiol in adult male and ovariectomized female rats subjected to <target> lithium </target> -pilocarpine-induced SE .",
+        "D010862\tChemical\tpilocarpine\tWe compared the effects of 17beta-estradiol in adult male and ovariectomized female rats subjected to lithium- <target> pilocarpine </target> -induced SE .",
+        "D013226\tDisease\tSE\tWe compared the effects of 17beta-estradiol in adult male and ovariectomized female rats subjected to lithium-pilocarpine-induced <target> SE </target> .",
+        "D004958\tChemical\t17beta-estradiol\tRats received subcutaneous injections of <target> 17beta-estradiol </target> ( 2 microg/rat ) or oil once daily for four consecutive days .",
+        "D013226\tDisease\tSE\t<target> SE </target> was induced 20 h following the second injection and terminated 3 h later .",
+        "D012834\tChemical\tsilver\tThe extent of <target> silver </target> -stained CA3 and CA1 hippocampal neurons was evaluated 2 days after SE .",
+        "D013226\tDisease\tSE\tThe extent of silver-stained CA3 and CA1 hippocampal neurons was evaluated 2 days after <target> SE </target> .",
+        "D004958\tChemical\t17beta-Estradiol\t<target> 17beta-Estradiol </target> did not alter the onset of first clonus in ovariectomized rats but accelerated it in males .",
+        "D004958\tChemical\t17beta-Estradiol\t<target> 17beta-Estradiol </target> reduced the argyrophilic neurons in the CA1 and CA3-C sectors of ovariectomized rats .",
+        "D004958\tChemical\testradiol\tIn males , <target> estradiol </target> increased the total damage score .",
+        "D004958\tChemical\testradiol\tThese findings suggest that the effects of <target> estradiol </target> on seizure threshold and damage may be altered by sex-related differences in the hormonal environment .",
+        "D012640\tDisease\tseizure\tThese findings suggest that the effects of estradiol on <target> seizure </target> threshold and damage may be altered by sex-related differences in the hormonal environment ."
+    ],
+    "lines_lemma": [
+        "D004958\tChemical\tEstradiol\t<target> Estradiol </target> reduce seizure-induced hippocampal injury in ovariectomized female but not in male rat .",
+        "D012640\tDisease\tseizure\tEstradiol reduce <target> seizure </target> -induced hippocampal injury in ovariectomized female but not in male rat .",
+        "D001930\tDisease\thippocampal injury\tEstradiol reduce seizure-induced <target> hippocampal injury </target> in ovariectomized female but not in male rat .",
+        "D001930\tDisease\thippocampal injury\testrogen protect ovariectomized rat from <target> hippocampal injury </target> induce by kainic acid-induced status epilepticus ( se ) .",
+        "D007608\tChemical\tkainic acid\testrogen protect ovariectomized rat from hippocampal injury induce by <target> kainic acid </target> -induced status epilepticus ( se ) .",
+        "D013226\tDisease\tstatus epilepticus\testrogen protect ovariectomized rat from hippocampal injury induce by kainic acid-induced <target> status epilepticus </target> ( se ) .",
+        "D013226\tDisease\tSE\testrogen protect ovariectomized rat from hippocampal injury induce by kainic acid-induced status epilepticus ( <target> se </target> ) .",
+        "D004958\tChemical\t17beta-estradiol\twe compare the effect of <target> 17beta-estradiol </target> in adult male and ovariectomize female rat subject to lithium-pilocarpine-induced se .",
+        "D008094\tChemical\tlithium\twe compare the effect of 17beta-estradiol in adult male and ovariectomize female rat subject to <target> lithium </target> -pilocarpine-induced se .",
+        "D010862\tChemical\tpilocarpine\twe compare the effect of 17beta-estradiol in adult male and ovariectomize female rat subject to lithium- <target> pilocarpine </target> -induced se .",
+        "D013226\tDisease\tSE\twe compare the effect of 17beta-estradiol in adult male and ovariectomize female rat subject to lithium-pilocarpine-induced <target> se </target> .",
+        "D004958\tChemical\t17beta-estradiol\trat receive subcutaneous injection of <target> 17beta-estradiol </target> ( 2 microg/rat ) or oil once daily for four consecutive day .",
+        "D013226\tDisease\tSE\t<target> se </target> be induce 20 h follow the second injection and terminate 3 h later .",
+        "D012834\tChemical\tsilver\tthe extent of <target> silver </target> -stained ca3 and ca1 hippocampal neuron be evaluate 2 day after se .",
+        "D013226\tDisease\tSE\tthe extent of silver-stained ca3 and ca1 hippocampal neuron be evaluate 2 day after <target> se </target> .",
+        "D004958\tChemical\t17beta-Estradiol\t<target> 17beta-estradiol </target> do not alter the onset of first clonus in ovariectomized rat but accelerate it in male .",
+        "D004958\tChemical\t17beta-Estradiol\t<target> 17beta-estradiol </target> reduce the argyrophilic neuron in the ca1 and ca3-c sector of ovariectomized rat .",
+        "D004958\tChemical\testradiol\tin male , <target> estradiol </target> increase the total damage score .",
+        "D004958\tChemical\testradiol\tthese finding suggest that the effect of <target> estradiol </target> on seizure threshold and damage may be alter by sex-related difference in the hormonal environment .",
+        "D012640\tDisease\tseizure\tthese finding suggest that the effect of estradiol on <target> seizure </target> threshold and damage may be alter by sex-related difference in the hormonal environment ."
+    ]
+}

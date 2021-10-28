@@ -1,0 +1,118 @@
+{
+    "title": "Morphological evaluation of the effect of d-ribose on adriamycin-evoked cardiotoxicity in rats.",
+    "abst": "The influence of d-ribose on adriamycin-induced myocardiopathy in rats was studied. Adriamycin in the cumulative dose of 25 mg/kg evoked fully developed cardiac toxicity. D-ribose in the multiple doses of 200 mg/kg did not influence ADR cardiotoxicity.",
+    "title_plus_abst": "Morphological evaluation of the effect of d-ribose on adriamycin-evoked cardiotoxicity in rats. The influence of d-ribose on adriamycin-induced myocardiopathy in rats was studied. Adriamycin in the cumulative dose of 25 mg/kg evoked fully developed cardiac toxicity. D-ribose in the multiple doses of 200 mg/kg did not influence ADR cardiotoxicity.",
+    "pubmed_id": "16092435",
+    "entities": [
+        [
+            42,
+            50,
+            "d-ribose",
+            "Chemical",
+            "D012266"
+        ],
+        [
+            54,
+            64,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            72,
+            86,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            113,
+            121,
+            "d-ribose",
+            "Chemical",
+            "D012266"
+        ],
+        [
+            125,
+            135,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            144,
+            158,
+            "myocardiopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            180,
+            190,
+            "Adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            249,
+            265,
+            "cardiac toxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            267,
+            275,
+            "D-ribose",
+            "Chemical",
+            "D012266"
+        ],
+        [
+            329,
+            332,
+            "ADR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            333,
+            347,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ]
+    ],
+    "split_sentence": [
+        "Morphological evaluation of the effect of d-ribose on adriamycin-evoked cardiotoxicity in rats.",
+        "The influence of d-ribose on adriamycin-induced myocardiopathy in rats was studied.",
+        "Adriamycin in the cumulative dose of 25 mg/kg evoked fully developed cardiac toxicity.",
+        "D-ribose in the multiple doses of 200 mg/kg did not influence ADR cardiotoxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012266\tChemical\td-ribose\tMorphological evaluation of the effect of <target> d-ribose </target> on adriamycin-evoked cardiotoxicity in rats .",
+        "D004317\tChemical\tadriamycin\tMorphological evaluation of the effect of d-ribose on <target> adriamycin </target> -evoked cardiotoxicity in rats .",
+        "D066126\tDisease\tcardiotoxicity\tMorphological evaluation of the effect of d-ribose on adriamycin-evoked <target> cardiotoxicity </target> in rats .",
+        "D012266\tChemical\td-ribose\tThe influence of <target> d-ribose </target> on adriamycin-induced myocardiopathy in rats was studied .",
+        "D004317\tChemical\tadriamycin\tThe influence of d-ribose on <target> adriamycin </target> -induced myocardiopathy in rats was studied .",
+        "D009202\tDisease\tmyocardiopathy\tThe influence of d-ribose on adriamycin-induced <target> myocardiopathy </target> in rats was studied .",
+        "D004317\tChemical\tAdriamycin\t<target> Adriamycin </target> in the cumulative dose of 25 mg/kg evoked fully developed cardiac toxicity .",
+        "D066126\tDisease\tcardiac toxicity\tAdriamycin in the cumulative dose of 25 mg/kg evoked fully developed <target> cardiac toxicity </target> .",
+        "D012266\tChemical\tD-ribose\t<target> D-ribose </target> in the multiple doses of 200 mg/kg did not influence ADR cardiotoxicity .",
+        "D004317\tChemical\tADR\tD-ribose in the multiple doses of 200 mg/kg did not influence <target> ADR </target> cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tD-ribose in the multiple doses of 200 mg/kg did not influence ADR <target> cardiotoxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D012266\tChemical\td-ribose\tmorphological evaluation of the effect of <target> d-ribose </target> on adriamycin-evoked cardiotoxicity in rat .",
+        "D004317\tChemical\tadriamycin\tmorphological evaluation of the effect of d-ribose on <target> adriamycin </target> -evoked cardiotoxicity in rat .",
+        "D066126\tDisease\tcardiotoxicity\tmorphological evaluation of the effect of d-ribose on adriamycin-evoked <target> cardiotoxicity </target> in rat .",
+        "D012266\tChemical\td-ribose\tthe influence of <target> d-ribose </target> on adriamycin-induced myocardiopathy in rat be study .",
+        "D004317\tChemical\tadriamycin\tthe influence of d-ribose on <target> adriamycin </target> -induced myocardiopathy in rat be study .",
+        "D009202\tDisease\tmyocardiopathy\tthe influence of d-ribose on adriamycin-induced <target> myocardiopathy </target> in rat be study .",
+        "D004317\tChemical\tAdriamycin\t<target> adriamycin </target> in the cumulative dose of 25 mg/kg evoke fully develop cardiac toxicity .",
+        "D066126\tDisease\tcardiac toxicity\tadriamycin in the cumulative dose of 25 mg/kg evoke fully develop <target> cardiac toxicity </target> .",
+        "D012266\tChemical\tD-ribose\t<target> d-ribose </target> in the multiple dose of 200 mg/kg do not influence adr cardiotoxicity .",
+        "D004317\tChemical\tADR\td-ribose in the multiple dose of 200 mg/kg do not influence <target> adr </target> cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\td-ribose in the multiple dose of 200 mg/kg do not influence adr <target> cardiotoxicity </target> ."
+    ]
+}

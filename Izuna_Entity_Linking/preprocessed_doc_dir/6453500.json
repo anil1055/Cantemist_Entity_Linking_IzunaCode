@@ -1,0 +1,54 @@
+{
+    "title": "Toxic hepatitis induced by disulfiram in a non-alcoholic.",
+    "abst": "A reversible toxic liver damage was observed in a non-alcoholic woman treated with disulfiram. The causative relationship was proven by challenge.",
+    "title_plus_abst": "Toxic hepatitis induced by disulfiram in a non-alcoholic. A reversible toxic liver damage was observed in a non-alcoholic woman treated with disulfiram. The causative relationship was proven by challenge.",
+    "pubmed_id": "6453500",
+    "entities": [
+        [
+            0,
+            15,
+            "Toxic hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            27,
+            37,
+            "disulfiram",
+            "Chemical",
+            "D004221"
+        ],
+        [
+            71,
+            89,
+            "toxic liver damage",
+            "Disease",
+            "D056486"
+        ],
+        [
+            141,
+            151,
+            "disulfiram",
+            "Chemical",
+            "D004221"
+        ]
+    ],
+    "split_sentence": [
+        "Toxic hepatitis induced by disulfiram in a non-alcoholic.",
+        "A reversible toxic liver damage was observed in a non-alcoholic woman treated with disulfiram.",
+        "The causative relationship was proven by challenge."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056486\tDisease\tToxic hepatitis\t<target> Toxic hepatitis </target> induced by disulfiram in a non-alcoholic .",
+        "D004221\tChemical\tdisulfiram\tToxic hepatitis induced by <target> disulfiram </target> in a non-alcoholic .",
+        "D056486\tDisease\ttoxic liver damage\tA reversible <target> toxic liver damage </target> was observed in a non-alcoholic woman treated with disulfiram .",
+        "D004221\tChemical\tdisulfiram\tA reversible toxic liver damage was observed in a non-alcoholic woman treated with <target> disulfiram </target> ."
+    ],
+    "lines_lemma": [
+        "D056486\tDisease\tToxic hepatitis\t<target> toxic hepatitis </target> induce by disulfiram in a non-alcoholic .",
+        "D004221\tChemical\tdisulfiram\ttoxic hepatitis induce by <target> disulfiram </target> in a non-alcoholic .",
+        "D056486\tDisease\ttoxic liver damage\ta reversible <target> toxic liver damage </target> be observe in a non-alcoholic woman treat with disulfiram .",
+        "D004221\tChemical\tdisulfiram\ta reversible toxic liver damage be observe in a non-alcoholic woman treat with <target> disulfiram </target> ."
+    ]
+}

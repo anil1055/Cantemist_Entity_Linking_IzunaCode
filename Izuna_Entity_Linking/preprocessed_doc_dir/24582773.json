@@ -1,0 +1,201 @@
+{
+    "title": "Paradoxical severe agitation induced by add-on high-doses quetiapine in schizo-affective disorder.",
+    "abst": "We report the case of a 35-year-old patient suffering from schizo-affective disorder since the age of 19 years, treated by a combination of first-generation antipsychotics, zuclopenthixol (100 mg/day) and lithium (1200 mg/day) (serum lithium=0.85 mEq/l). This patient had no associated personality disorder (particularly no antisocial disorder) and no substance abuse disorder. Within the 48 h following the gradual introduction of quetiapine (up to 600 mg/day), the patient presented severe agitation without an environmental explanation, contrasting with the absence of a history of aggressiveness or personality disorder. The diagnoses of manic shift and akathisia were dismissed. The withdrawal and the gradual reintroduction of quetiapine 2 weeks later, which led to another severe agitation, enabled us to attribute the agitation specifically to quetiapine.",
+    "title_plus_abst": "Paradoxical severe agitation induced by add-on high-doses quetiapine in schizo-affective disorder. We report the case of a 35-year-old patient suffering from schizo-affective disorder since the age of 19 years, treated by a combination of first-generation antipsychotics, zuclopenthixol (100 mg/day) and lithium (1200 mg/day) (serum lithium=0.85 mEq/l). This patient had no associated personality disorder (particularly no antisocial disorder) and no substance abuse disorder. Within the 48 h following the gradual introduction of quetiapine (up to 600 mg/day), the patient presented severe agitation without an environmental explanation, contrasting with the absence of a history of aggressiveness or personality disorder. The diagnoses of manic shift and akathisia were dismissed. The withdrawal and the gradual reintroduction of quetiapine 2 weeks later, which led to another severe agitation, enabled us to attribute the agitation specifically to quetiapine.",
+    "pubmed_id": "24582773",
+    "entities": [
+        [
+            19,
+            28,
+            "agitation",
+            "Disease",
+            "D011595"
+        ],
+        [
+            58,
+            68,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            72,
+            97,
+            "schizo-affective disorder",
+            "Disease",
+            "D011618"
+        ],
+        [
+            158,
+            183,
+            "schizo-affective disorder",
+            "Disease",
+            "D011618"
+        ],
+        [
+            272,
+            286,
+            "zuclopenthixol",
+            "Chemical",
+            "D003006"
+        ],
+        [
+            304,
+            311,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            333,
+            340,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            385,
+            405,
+            "personality disorder",
+            "Disease",
+            "D010554"
+        ],
+        [
+            423,
+            442,
+            "antisocial disorder",
+            "Disease",
+            "D000987"
+        ],
+        [
+            451,
+            475,
+            "substance abuse disorder",
+            "Disease",
+            "D019966"
+        ],
+        [
+            531,
+            541,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            591,
+            600,
+            "agitation",
+            "Disease",
+            "D011595"
+        ],
+        [
+            684,
+            698,
+            "aggressiveness",
+            "Disease",
+            "D010554"
+        ],
+        [
+            702,
+            722,
+            "personality disorder",
+            "Disease",
+            "D010554"
+        ],
+        [
+            741,
+            746,
+            "manic",
+            "Disease",
+            "D001714"
+        ],
+        [
+            757,
+            766,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            832,
+            842,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            886,
+            895,
+            "agitation",
+            "Disease",
+            "D011595"
+        ],
+        [
+            925,
+            934,
+            "agitation",
+            "Disease",
+            "D011595"
+        ],
+        [
+            951,
+            961,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ]
+    ],
+    "split_sentence": [
+        "Paradoxical severe agitation induced by add-on high-doses quetiapine in schizo-affective disorder.",
+        "We report the case of a 35-year-old patient suffering from schizo-affective disorder since the age of 19 years, treated by a combination of first-generation antipsychotics, zuclopenthixol (100 mg/day) and lithium (1200 mg/day) (serum lithium=0.85 mEq/l).",
+        "This patient had no associated personality disorder (particularly no antisocial disorder) and no substance abuse disorder.",
+        "Within the 48 h following the gradual introduction of quetiapine (up to 600 mg/day), the patient presented severe agitation without an environmental explanation, contrasting with the absence of a history of aggressiveness or personality disorder.",
+        "The diagnoses of manic shift and akathisia were dismissed.",
+        "The withdrawal and the gradual reintroduction of quetiapine 2 weeks later, which led to another severe agitation, enabled us to attribute the agitation specifically to quetiapine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011595\tDisease\tagitation\tParadoxical severe <target> agitation </target> induced by add-on high-doses quetiapine in schizo-affective disorder .",
+        "C069541\tChemical\tquetiapine\tParadoxical severe agitation induced by add-on high-doses <target> quetiapine </target> in schizo-affective disorder .",
+        "D011618\tDisease\tschizo-affective disorder\tParadoxical severe agitation induced by add-on high-doses quetiapine in <target> schizo-affective disorder </target> .",
+        "D011618\tDisease\tschizo-affective disorder\tWe report the case of a 35-year-old patient suffering from <target> schizo-affective disorder </target> since the age of 19 years , treated by a combination of first-generation antipsychotics , zuclopenthixol ( 100 mg/day ) and lithium ( 1200 mg/day ) ( serum lithium=0.85 mEq/l ) .",
+        "D003006\tChemical\tzuclopenthixol\tWe report the case of a 35-year-old patient suffering from schizo-affective disorder since the age of 19 years , treated by a combination of first-generation antipsychotics , <target> zuclopenthixol </target> ( 100 mg/day ) and lithium ( 1200 mg/day ) ( serum lithium=0.85 mEq/l ) .",
+        "D008094\tChemical\tlithium\tWe report the case of a 35-year-old patient suffering from schizo-affective disorder since the age of 19 years , treated by a combination of first-generation antipsychotics , zuclopenthixol ( 100 mg/day ) and <target> lithium </target> ( 1200 mg/day ) ( serum lithium=0.85 mEq/l ) .",
+        "D008094\tChemical\tlithium\tWe report the case of a 35-year-old patient suffering from schizo-affective disorder since the age of 19 years , treated by a combination of first-generation antipsychotics , zuclopenthixol ( 100 mg/day ) and lithium ( 1200 mg/day ) ( serum <target> lithium </target> = 0.85 mEq/l ) .",
+        "D010554\tDisease\tpersonality disorder\tThis patient had no associated <target> personality disorder </target> ( particularly no antisocial disorder ) and no substance abuse disorder .",
+        "D000987\tDisease\tantisocial disorder\tThis patient had no associated personality disorder ( particularly no <target> antisocial disorder </target> ) and no substance abuse disorder .",
+        "D019966\tDisease\tsubstance abuse disorder\tThis patient had no associated personality disorder ( particularly no antisocial disorder ) and no <target> substance abuse disorder </target> .",
+        "C069541\tChemical\tquetiapine\tWithin the 48 h following the gradual introduction of <target> quetiapine </target> ( up to 600 mg/day ) , the patient presented severe agitation without an environmental explanation , contrasting with the absence of a history of aggressiveness or personality disorder .",
+        "D011595\tDisease\tagitation\tWithin the 48 h following the gradual introduction of quetiapine ( up to 600 mg/day ) , the patient presented severe <target> agitation </target> without an environmental explanation , contrasting with the absence of a history of aggressiveness or personality disorder .",
+        "D010554\tDisease\taggressiveness\tWithin the 48 h following the gradual introduction of quetiapine ( up to 600 mg/day ) , the patient presented severe agitation without an environmental explanation , contrasting with the absence of a history of <target> aggressiveness </target> or personality disorder .",
+        "D010554\tDisease\tpersonality disorder\tWithin the 48 h following the gradual introduction of quetiapine ( up to 600 mg/day ) , the patient presented severe agitation without an environmental explanation , contrasting with the absence of a history of aggressiveness or <target> personality disorder </target> .",
+        "D001714\tDisease\tmanic\tThe diagnoses of <target> manic </target> shift and akathisia were dismissed .",
+        "D017109\tDisease\takathisia\tThe diagnoses of manic shift and <target> akathisia </target> were dismissed .",
+        "C069541\tChemical\tquetiapine\tThe withdrawal and the gradual reintroduction of <target> quetiapine </target> 2 weeks later , which led to another severe agitation , enabled us to attribute the agitation specifically to quetiapine .",
+        "D011595\tDisease\tagitation\tThe withdrawal and the gradual reintroduction of quetiapine 2 weeks later , which led to another severe <target> agitation </target> , enabled us to attribute the agitation specifically to quetiapine .",
+        "D011595\tDisease\tagitation\tThe withdrawal and the gradual reintroduction of quetiapine 2 weeks later , which led to another severe agitation , enabled us to attribute the <target> agitation </target> specifically to quetiapine .",
+        "C069541\tChemical\tquetiapine\tThe withdrawal and the gradual reintroduction of quetiapine 2 weeks later , which led to another severe agitation , enabled us to attribute the agitation specifically to <target> quetiapine </target> ."
+    ],
+    "lines_lemma": [
+        "D011595\tDisease\tagitation\tparadoxical severe <target> agitation </target> induce by add-on high-dose quetiapine in schizo-affective disorder .",
+        "C069541\tChemical\tquetiapine\tparadoxical severe agitation induce by add-on high-dose <target> quetiapine </target> in schizo-affective disorder .",
+        "D011618\tDisease\tschizo-affective disorder\tparadoxical severe agitation induce by add-on high-dose quetiapine in <target> schizo-affective disorder </target> .",
+        "D011618\tDisease\tschizo-affective disorder\twe report the case of a 35-year-old patient suffer from <target> schizo-affective disorder </target> since the age of 19 year , treat by a combination of first-generation antipsychotic , zuclopenthixol ( 100 mg/day ) and lithium ( 1200 mg/day ) ( serum lithium=0.85 meq/l ) .",
+        "D003006\tChemical\tzuclopenthixol\twe report the case of a 35-year-old patient suffer from schizo-affective disorder since the age of 19 year , treat by a combination of first-generation antipsychotic , <target> zuclopenthixol </target> ( 100 mg/day ) and lithium ( 1200 mg/day ) ( serum lithium=0.85 meq/l ) .",
+        "D008094\tChemical\tlithium\twe report the case of a 35-year-old patient suffer from schizo-affective disorder since the age of 19 year , treat by a combination of first-generation antipsychotic , zuclopenthixol ( 100 mg/day ) and <target> lithium </target> ( 1200 mg/day ) ( serum lithium=0.85 meq/l ) .",
+        "D008094\tChemical\tlithium\twe report the case of a 35-year-old patient suffer from schizo-affective disorder since the age of 19 year , treat by a combination of first-generation antipsychotic , zuclopenthixol ( 100 mg/day ) and lithium ( 1200 mg/day ) ( serum <target> lithium </target> = 0.85 mEq/l ) .",
+        "D010554\tDisease\tpersonality disorder\tthis patient have no associate <target> personality disorder </target> ( particularly no antisocial disorder ) and no substance abuse disorder .",
+        "D000987\tDisease\tantisocial disorder\tthis patient have no associate personality disorder ( particularly no <target> antisocial disorder </target> ) and no substance abuse disorder .",
+        "D019966\tDisease\tsubstance abuse disorder\tthis patient have no associate personality disorder ( particularly no antisocial disorder ) and no <target> substance abuse disorder </target> .",
+        "C069541\tChemical\tquetiapine\twithin the 48 h follow the gradual introduction of <target> quetiapine </target> ( up to 600 mg/day ) , the patient present severe agitation without an environmental explanation , contrast with the absence of a history of aggressiveness or personality disorder .",
+        "D011595\tDisease\tagitation\twithin the 48 h follow the gradual introduction of quetiapine ( up to 600 mg/day ) , the patient present severe <target> agitation </target> without an environmental explanation , contrast with the absence of a history of aggressiveness or personality disorder .",
+        "D010554\tDisease\taggressiveness\twithin the 48 h follow the gradual introduction of quetiapine ( up to 600 mg/day ) , the patient present severe agitation without an environmental explanation , contrast with the absence of a history of <target> aggressiveness </target> or personality disorder .",
+        "D010554\tDisease\tpersonality disorder\twithin the 48 h follow the gradual introduction of quetiapine ( up to 600 mg/day ) , the patient present severe agitation without an environmental explanation , contrast with the absence of a history of aggressiveness or <target> personality disorder </target> .",
+        "D001714\tDisease\tmanic\tthe diagnosis of <target> manic </target> shift and akathisia be dismiss .",
+        "D017109\tDisease\takathisia\tthe diagnosis of manic shift and <target> akathisia </target> be dismiss .",
+        "C069541\tChemical\tquetiapine\tthe withdrawal and the gradual reintroduction of <target> quetiapine </target> 2 week later , which lead to another severe agitation , enable we to attribute the agitation specifically to quetiapine .",
+        "D011595\tDisease\tagitation\tthe withdrawal and the gradual reintroduction of quetiapine 2 week later , which lead to another severe <target> agitation </target> , enable we to attribute the agitation specifically to quetiapine .",
+        "D011595\tDisease\tagitation\tthe withdrawal and the gradual reintroduction of quetiapine 2 week later , which lead to another severe agitation , enable we to attribute the <target> agitation </target> specifically to quetiapine .",
+        "C069541\tChemical\tquetiapine\tthe withdrawal and the gradual reintroduction of quetiapine 2 week later , which lead to another severe agitation , enable we to attribute the agitation specifically to <target> quetiapine </target> ."
+    ]
+}

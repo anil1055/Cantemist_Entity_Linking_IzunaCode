@@ -1,0 +1,132 @@
+{
+    "title": "Ceftriaxone-associated biliary pseudolithiasis in paediatric surgical patients.",
+    "abst": "It is well known that ceftriaxone leads to pseudolithiasis in some patients. Clinical and experimental studies also suggest that situations causing gallbladder dysfunction, such as fasting, may have a role for the development of pseudolithiasis. In this study, we prospectively evaluated the incidence and clinical importance of pseudolithiasis in paediatric surgical patients receiving ceftriaxone treatment, who often had to fast in the post-operative period. Fifty children who were given ceftriaxone were evaluated by serial abdominal sonograms. Of those, 13 (26%) developed biliary pathology. Comparison of the patients with or without pseudolithiasis revealed no significant difference with respect to age, sex, duration of the treatment and starvation variables. After cessation of the treatment, pseudolithiasis resolved spontaneously within a short period. The incidence of pseudolithiasis is not affected by fasting.",
+    "title_plus_abst": "Ceftriaxone-associated biliary pseudolithiasis in paediatric surgical patients. It is well known that ceftriaxone leads to pseudolithiasis in some patients. Clinical and experimental studies also suggest that situations causing gallbladder dysfunction, such as fasting, may have a role for the development of pseudolithiasis. In this study, we prospectively evaluated the incidence and clinical importance of pseudolithiasis in paediatric surgical patients receiving ceftriaxone treatment, who often had to fast in the post-operative period. Fifty children who were given ceftriaxone were evaluated by serial abdominal sonograms. Of those, 13 (26%) developed biliary pathology. Comparison of the patients with or without pseudolithiasis revealed no significant difference with respect to age, sex, duration of the treatment and starvation variables. After cessation of the treatment, pseudolithiasis resolved spontaneously within a short period. The incidence of pseudolithiasis is not affected by fasting.",
+    "pubmed_id": "15737522",
+    "entities": [
+        [
+            0,
+            11,
+            "Ceftriaxone",
+            "Chemical",
+            "D002443"
+        ],
+        [
+            23,
+            46,
+            "biliary pseudolithiasis",
+            "Disease",
+            "D001660"
+        ],
+        [
+            102,
+            113,
+            "ceftriaxone",
+            "Chemical",
+            "D002443"
+        ],
+        [
+            123,
+            138,
+            "pseudolithiasis",
+            "Disease",
+            "D001660"
+        ],
+        [
+            228,
+            251,
+            "gallbladder dysfunction",
+            "Disease",
+            "D005705"
+        ],
+        [
+            309,
+            324,
+            "pseudolithiasis",
+            "Disease",
+            "D001660"
+        ],
+        [
+            409,
+            424,
+            "pseudolithiasis",
+            "Disease",
+            "D001660"
+        ],
+        [
+            467,
+            478,
+            "ceftriaxone",
+            "Chemical",
+            "D002443"
+        ],
+        [
+            572,
+            583,
+            "ceftriaxone",
+            "Chemical",
+            "D002443"
+        ],
+        [
+            721,
+            736,
+            "pseudolithiasis",
+            "Disease",
+            "D001660"
+        ],
+        [
+            884,
+            899,
+            "pseudolithiasis",
+            "Disease",
+            "D001660"
+        ],
+        [
+            963,
+            978,
+            "pseudolithiasis",
+            "Disease",
+            "D001660"
+        ]
+    ],
+    "split_sentence": [
+        "Ceftriaxone-associated biliary pseudolithiasis in paediatric surgical patients.",
+        "It is well known that ceftriaxone leads to pseudolithiasis in some patients.",
+        "Clinical and experimental studies also suggest that situations causing gallbladder dysfunction, such as fasting, may have a role for the development of pseudolithiasis.",
+        "In this study, we prospectively evaluated the incidence and clinical importance of pseudolithiasis in paediatric surgical patients receiving ceftriaxone treatment, who often had to fast in the post-operative period.",
+        "Fifty children who were given ceftriaxone were evaluated by serial abdominal sonograms.",
+        "Of those, 13 (26%) developed biliary pathology.",
+        "Comparison of the patients with or without pseudolithiasis revealed no significant difference with respect to age, sex, duration of the treatment and starvation variables.",
+        "After cessation of the treatment, pseudolithiasis resolved spontaneously within a short period.",
+        "The incidence of pseudolithiasis is not affected by fasting."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002443\tChemical\tCeftriaxone\t<target> Ceftriaxone </target> -associated biliary pseudolithiasis in paediatric surgical patients .",
+        "D001660\tDisease\tbiliary pseudolithiasis\tCeftriaxone-associated <target> biliary pseudolithiasis </target> in paediatric surgical patients .",
+        "D002443\tChemical\tceftriaxone\tIt is well known that <target> ceftriaxone </target> leads to pseudolithiasis in some patients .",
+        "D001660\tDisease\tpseudolithiasis\tIt is well known that ceftriaxone leads to <target> pseudolithiasis </target> in some patients .",
+        "D005705\tDisease\tgallbladder dysfunction\tClinical and experimental studies also suggest that situations causing <target> gallbladder dysfunction </target> , such as fasting , may have a role for the development of pseudolithiasis .",
+        "D001660\tDisease\tpseudolithiasis\tClinical and experimental studies also suggest that situations causing gallbladder dysfunction , such as fasting , may have a role for the development of <target> pseudolithiasis </target> .",
+        "D001660\tDisease\tpseudolithiasis\tIn this study , we prospectively evaluated the incidence and clinical importance of <target> pseudolithiasis </target> in paediatric surgical patients receiving ceftriaxone treatment , who often had to fast in the post-operative period .",
+        "D002443\tChemical\tceftriaxone\tIn this study , we prospectively evaluated the incidence and clinical importance of pseudolithiasis in paediatric surgical patients receiving <target> ceftriaxone </target> treatment , who often had to fast in the post-operative period .",
+        "D002443\tChemical\tceftriaxone\tFifty children who were given <target> ceftriaxone </target> were evaluated by serial abdominal sonograms .",
+        "D001660\tDisease\tpseudolithiasis\tComparison of the patients with or without <target> pseudolithiasis </target> revealed no significant difference with respect to age , sex , duration of the treatment and starvation variables .",
+        "D001660\tDisease\tpseudolithiasis\tAfter cessation of the treatment , <target> pseudolithiasis </target> resolved spontaneously within a short period .",
+        "D001660\tDisease\tpseudolithiasis\tThe incidence of <target> pseudolithiasis </target> is not affected by fasting ."
+    ],
+    "lines_lemma": [
+        "D002443\tChemical\tCeftriaxone\t<target> ceftriaxone </target> -associated biliary pseudolithiasis in paediatric surgical patient .",
+        "D001660\tDisease\tbiliary pseudolithiasis\tceftriaxone-associated <target> biliary pseudolithiasis </target> in paediatric surgical patient .",
+        "D002443\tChemical\tceftriaxone\tit be well know that <target> ceftriaxone </target> lead to pseudolithiasis in some patient .",
+        "D001660\tDisease\tpseudolithiasis\tit be well know that ceftriaxone lead to <target> pseudolithiasis </target> in some patient .",
+        "D005705\tDisease\tgallbladder dysfunction\tclinical and experimental study also suggest that situation cause <target> gallbladder dysfunction </target> , such as fasting , may have a role for the development of pseudolithiasis .",
+        "D001660\tDisease\tpseudolithiasis\tclinical and experimental study also suggest that situation cause gallbladder dysfunction , such as fasting , may have a role for the development of <target> pseudolithiasis </target> .",
+        "D001660\tDisease\tpseudolithiasis\tin this study , we prospectively evaluate the incidence and clinical importance of <target> pseudolithiasis </target> in paediatric surgical patient receive ceftriaxone treatment , who often have to fast in the post-operative period .",
+        "D002443\tChemical\tceftriaxone\tin this study , we prospectively evaluate the incidence and clinical importance of pseudolithiasis in paediatric surgical patient receive <target> ceftriaxone </target> treatment , who often have to fast in the post-operative period .",
+        "D002443\tChemical\tceftriaxone\tfifty child who be give <target> ceftriaxone </target> be evaluate by serial abdominal sonogram .",
+        "D001660\tDisease\tpseudolithiasis\tcomparison of the patient with or without <target> pseudolithiasis </target> reveal no significant difference with respect to age , sex , duration of the treatment and starvation variable .",
+        "D001660\tDisease\tpseudolithiasis\tafter cessation of the treatment , <target> pseudolithiasis </target> resolve spontaneously within a short period .",
+        "D001660\tDisease\tpseudolithiasis\tthe incidence of <target> pseudolithiasis </target> be not affect by fasting ."
+    ]
+}

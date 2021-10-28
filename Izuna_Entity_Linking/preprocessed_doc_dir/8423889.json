@@ -1,0 +1,118 @@
+{
+    "title": "Increase of Parkinson disability after fluoxetine medication.",
+    "abst": "Depression is a major clinical feature of Parkinson's disease. We report the increased amount of motor disability in four patients with idiopathic Parkinson's disease after exposure to the antidepressant fluoxetine. The possibility of a clinically relevant dopamine-antagonistic capacity of fluoxetine in Parkinson's disease patients must be considered.",
+    "title_plus_abst": "Increase of Parkinson disability after fluoxetine medication. Depression is a major clinical feature of Parkinson's disease. We report the increased amount of motor disability in four patients with idiopathic Parkinson's disease after exposure to the antidepressant fluoxetine. The possibility of a clinically relevant dopamine-antagonistic capacity of fluoxetine in Parkinson's disease patients must be considered.",
+    "pubmed_id": "8423889",
+    "entities": [
+        [
+            12,
+            32,
+            "Parkinson disability",
+            "Disease",
+            "D009069"
+        ],
+        [
+            39,
+            49,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            62,
+            72,
+            "Depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            104,
+            123,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            159,
+            175,
+            "motor disability",
+            "Disease",
+            "D009069"
+        ],
+        [
+            198,
+            228,
+            "idiopathic Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            251,
+            265,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            266,
+            276,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            319,
+            327,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            353,
+            363,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            367,
+            386,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ]
+    ],
+    "split_sentence": [
+        "Increase of Parkinson disability after fluoxetine medication.",
+        "Depression is a major clinical feature of Parkinson's disease.",
+        "We report the increased amount of motor disability in four patients with idiopathic Parkinson's disease after exposure to the antidepressant fluoxetine.",
+        "The possibility of a clinically relevant dopamine-antagonistic capacity of fluoxetine in Parkinson's disease patients must be considered."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009069\tDisease\tParkinson disability\tIncrease of <target> Parkinson disability </target> after fluoxetine medication .",
+        "D005473\tChemical\tfluoxetine\tIncrease of Parkinson disability after <target> fluoxetine </target> medication .",
+        "D003866\tDisease\tDepression\t<target> Depression </target> is a major clinical feature of Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tDepression is a major clinical feature of <target> Parkinson 's disease </target> .",
+        "D009069\tDisease\tmotor disability\tWe report the increased amount of <target> motor disability </target> in four patients with idiopathic Parkinson 's disease after exposure to the antidepressant fluoxetine .",
+        "D010300\tDisease\tidiopathic Parkinson's disease\tWe report the increased amount of motor disability in four patients with <target> idiopathic Parkinson 's disease </target> after exposure to the antidepressant fluoxetine .",
+        "D000928\tChemical\tantidepressant\tWe report the increased amount of motor disability in four patients with idiopathic Parkinson 's disease after exposure to the <target> antidepressant </target> fluoxetine .",
+        "D005473\tChemical\tfluoxetine\tWe report the increased amount of motor disability in four patients with idiopathic Parkinson 's disease after exposure to the antidepressant <target> fluoxetine </target> .",
+        "D004298\tChemical\tdopamine\tThe possibility of a clinically relevant <target> dopamine </target> -antagonistic capacity of fluoxetine in Parkinson 's disease patients must be considered .",
+        "D005473\tChemical\tfluoxetine\tThe possibility of a clinically relevant dopamine-antagonistic capacity of <target> fluoxetine </target> in Parkinson 's disease patients must be considered .",
+        "D010300\tDisease\tParkinson's disease\tThe possibility of a clinically relevant dopamine-antagonistic capacity of fluoxetine in <target> Parkinson 's disease </target> patients must be considered ."
+    ],
+    "lines_lemma": [
+        "D009069\tDisease\tParkinson disability\tincrease of <target> Parkinson disability </target> after fluoxetine medication .",
+        "D005473\tChemical\tfluoxetine\tincrease of Parkinson disability after <target> fluoxetine </target> medication .",
+        "D003866\tDisease\tDepression\t<target> Depression </target> be a major clinical feature of Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tDepression be a major clinical feature of <target> Parkinson 's disease </target> .",
+        "D009069\tDisease\tmotor disability\twe report the increase amount of <target> motor disability </target> in four patient with idiopathic Parkinson 's disease after exposure to the antidepressant fluoxetine .",
+        "D010300\tDisease\tidiopathic Parkinson's disease\twe report the increase amount of motor disability in four patient with <target> idiopathic Parkinson 's disease </target> after exposure to the antidepressant fluoxetine .",
+        "D000928\tChemical\tantidepressant\twe report the increase amount of motor disability in four patient with idiopathic Parkinson 's disease after exposure to the <target> antidepressant </target> fluoxetine .",
+        "D005473\tChemical\tfluoxetine\twe report the increase amount of motor disability in four patient with idiopathic Parkinson 's disease after exposure to the antidepressant <target> fluoxetine </target> .",
+        "D004298\tChemical\tdopamine\tthe possibility of a clinically relevant <target> dopamine </target> -antagonistic capacity of fluoxetine in Parkinson 's disease patient must be consider .",
+        "D005473\tChemical\tfluoxetine\tthe possibility of a clinically relevant dopamine-antagonistic capacity of <target> fluoxetine </target> in Parkinson 's disease patient must be consider .",
+        "D010300\tDisease\tParkinson's disease\tthe possibility of a clinically relevant dopamine-antagonistic capacity of fluoxetine in <target> Parkinson 's disease </target> patient must be consider ."
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Irreversible damage to the medullary interstitium in experimental analgesic nephropathy in F344 rats.",
+    "abst": "Renal papillary necrosis (RPN) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rats. Renal structure and concentrating ability were examined after a recovery period of up to 18 weeks, when no analgesics were given, to investigate whether the analgesic-induced changes were reversible. There was no evidence of repair to the damaged medullary interstitial matrix, or proliferation of remaining undamaged type 1 medullary interstitial cells after the recovery period following analgesic treatment. The recovery of urinary concentrating ability was related to the length of analgesic treatment and the extent of the resulting inner medullary structural damage. During the early stages of analgesic treatment, the changes in urinary concentrating ability were reversible, but after prolonged analgesic treatment, maximum urinary concentrating ability failed to recover. This study shows that prolonged analgesic treatment in Fischer 344 rats causes progressive and irreversible damage to the interstitial matrix and type 1 interstitial cells leading to RPN. The associated urinary concentrating defect is reversible only during the early stages of structural damage to the inner medulla.",
+    "title_plus_abst": "Irreversible damage to the medullary interstitium in experimental analgesic nephropathy in F344 rats. Renal papillary necrosis (RPN) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rats. Renal structure and concentrating ability were examined after a recovery period of up to 18 weeks, when no analgesics were given, to investigate whether the analgesic-induced changes were reversible. There was no evidence of repair to the damaged medullary interstitial matrix, or proliferation of remaining undamaged type 1 medullary interstitial cells after the recovery period following analgesic treatment. The recovery of urinary concentrating ability was related to the length of analgesic treatment and the extent of the resulting inner medullary structural damage. During the early stages of analgesic treatment, the changes in urinary concentrating ability were reversible, but after prolonged analgesic treatment, maximum urinary concentrating ability failed to recover. This study shows that prolonged analgesic treatment in Fischer 344 rats causes progressive and irreversible damage to the interstitial matrix and type 1 interstitial cells leading to RPN. The associated urinary concentrating defect is reversible only during the early stages of structural damage to the inner medulla.",
+    "pubmed_id": "1919871",
+    "entities": [
+        [
+            76,
+            87,
+            "nephropathy",
+            "Disease",
+            "D007674"
+        ],
+        [
+            102,
+            126,
+            "Renal papillary necrosis",
+            "Disease",
+            "D007681"
+        ],
+        [
+            128,
+            131,
+            "RPN",
+            "Disease",
+            "D007681"
+        ],
+        [
+            232,
+            239,
+            "aspirin",
+            "Chemical",
+            "D001241"
+        ],
+        [
+            244,
+            255,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            1248,
+            1251,
+            "RPN",
+            "Disease",
+            "D007681"
+        ]
+    ],
+    "split_sentence": [
+        "Irreversible damage to the medullary interstitium in experimental analgesic nephropathy in F344 rats.",
+        "Renal papillary necrosis (RPN) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rats.",
+        "Renal structure and concentrating ability were examined after a recovery period of up to 18 weeks, when no analgesics were given, to investigate whether the analgesic-induced changes were reversible.",
+        "There was no evidence of repair to the damaged medullary interstitial matrix, or proliferation of remaining undamaged type 1 medullary interstitial cells after the recovery period following analgesic treatment.",
+        "The recovery of urinary concentrating ability was related to the length of analgesic treatment and the extent of the resulting inner medullary structural damage.",
+        "During the early stages of analgesic treatment, the changes in urinary concentrating ability were reversible, but after prolonged analgesic treatment, maximum urinary concentrating ability failed to recover.",
+        "This study shows that prolonged analgesic treatment in Fischer 344 rats causes progressive and irreversible damage to the interstitial matrix and type 1 interstitial cells leading to RPN.",
+        "The associated urinary concentrating defect is reversible only during the early stages of structural damage to the inner medulla."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007674\tDisease\tnephropathy\tIrreversible damage to the medullary interstitium in experimental analgesic <target> nephropathy </target> in F344 rats .",
+        "D007681\tDisease\tRenal papillary necrosis\t<target> Renal papillary necrosis </target> ( RPN ) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rats .",
+        "D007681\tDisease\tRPN\tRenal papillary necrosis ( <target> RPN </target> ) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rats .",
+        "D001241\tChemical\taspirin\tRenal papillary necrosis ( RPN ) and a decreased urinary concentrating ability developed during continuous long-term treatment with <target> aspirin </target> and paracetamol in female Fischer 344 rats .",
+        "D000082\tChemical\tparacetamol\tRenal papillary necrosis ( RPN ) and a decreased urinary concentrating ability developed during continuous long-term treatment with aspirin and <target> paracetamol </target> in female Fischer 344 rats .",
+        "D007681\tDisease\tRPN\tThis study shows that prolonged analgesic treatment in Fischer 344 rats causes progressive and irreversible damage to the interstitial matrix and type 1 interstitial cells leading to <target> RPN </target> ."
+    ],
+    "lines_lemma": [
+        "D007674\tDisease\tnephropathy\tirreversible damage to the medullary interstitium in experimental analgesic <target> nephropathy </target> in f344 rat .",
+        "D007681\tDisease\tRenal papillary necrosis\t<target> renal papillary necrosis </target> ( rpn ) and a decrease urinary concentrating ability develop during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rat .",
+        "D007681\tDisease\tRPN\trenal papillary necrosis ( <target> rpn </target> ) and a decrease urinary concentrating ability develop during continuous long-term treatment with aspirin and paracetamol in female Fischer 344 rat .",
+        "D001241\tChemical\taspirin\trenal papillary necrosis ( rpn ) and a decrease urinary concentrating ability develop during continuous long-term treatment with <target> aspirin </target> and paracetamol in female Fischer 344 rat .",
+        "D000082\tChemical\tparacetamol\trenal papillary necrosis ( rpn ) and a decrease urinary concentrating ability develop during continuous long-term treatment with aspirin and <target> paracetamol </target> in female Fischer 344 rat .",
+        "D007681\tDisease\tRPN\tthis study show that prolonged analgesic treatment in Fischer 344 rat cause progressive and irreversible damage to the interstitial matrix and type 1 interstitial cell lead to <target> rpn </target> ."
+    ]
+}

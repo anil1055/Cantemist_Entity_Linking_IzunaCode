@@ -1,0 +1,131 @@
+{
+    "entities": [
+        [
+            1711,
+            1732,
+            "Carcinoma microcítico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/3"
+        ],
+        [
+            1751,
+            1765,
+            "Carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            360,
+            366,
+            "T3N2M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1743,
+            1749,
+            "T3N2M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            275,
+            296,
+            "carcinoma microcítico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/3"
+        ],
+        [
+            1675,
+            1696,
+            "carcinoma microcítico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/3"
+        ],
+        [
+            1595,
+            1609,
+            "carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            1256,
+            1278,
+            "enfermedad a distancia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2212,
+            2272,
+            "afectación masiva meníngea por carcinoma de células pequeñas",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "<objetivo> Carcinoma microcítico </objetivo> de vejiga T3N2M0.",
+        "<objetivo> Carcinomatosis </objetivo> leptomeníngea.",
+        "Diagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de carcinoma microcítico de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %)  <objetivo> T3N2M0 </objetivo> ",
+        "Carcinoma microcítico de vejiga  <objetivo> T3N2M0 </objetivo> ",
+        "Diagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de carcinoma microcítico de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %)  <objetivo> T3N2M0 </objetivo> ",
+        "Carcinoma microcítico de vejiga  <objetivo> T3N2M0 </objetivo> ",
+        "Diagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de  <objetivo> carcinoma microcítico </objetivo> de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %) T3N2M0.",
+        "Citología del LCR: células atípicas sugestivas de  <objetivo> carcinoma microcítico </objetivo> ",
+        "Diagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de  <objetivo> carcinoma microcítico </objetivo> de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %) T3N2M0.",
+        "Citología del LCR: células atípicas sugestivas de  <objetivo> carcinoma microcítico </objetivo> ",
+        "RM cerebral: incremento de señal en el espacio subaracnoideo a nivel de la cisura interhemisférica anterior, en surcos de convexidad frontal izquierda, valles silvianos, entre las folias cerebelosas, en superficie del tronco cerebral, unión bulbomedular y en trayecto de V,VII, VIII pares craneales, compatible con  <objetivo> carcinomatosis </objetivo> leptomeníngea.",
+        "TC corporal: sin  <objetivo> enfermedad a distancia </objetivo> ",
+        "El estudio necrópsico confirma la infiltración del parénquima troncoencefálico, cerebelo, tejido perihipofisario y muestra una  <objetivo> afectación masiva meníngea por carcinoma de células pequeñas </objetivo> de vejiga, sin afectación en ningún otro órgano."
+    ],
+    "lines_lemma": [
+        "<objetivo> Carcinoma microcítico </objetivo> de vejiga T3N2M0 .",
+        "<objetivo> Carcinomatosis </objetivo> leptomeníngea .",
+        "diagnosticado en mayo de 2012 mediante ecografía urológico , TC abdominopélvico , PET y RTU con biopsia de carcinoma microcítico de vejiga ( cromogranina y sinaptofisina positivo y ki67 50 % )   <objetivo> T3N2M0 </objetivo>",
+        "Carcinoma microcítico de vejiga   <objetivo> T3N2M0 </objetivo>",
+        "diagnosticado en mayo de 2012 mediante ecografía urológico , TC abdominopélvico , PET y RTU con biopsia de carcinoma microcítico de vejiga ( cromogranina y sinaptofisina positivo y ki67 50 % )   <objetivo> T3N2M0 </objetivo>",
+        "Carcinoma microcítico de vejiga   <objetivo> T3N2M0 </objetivo>",
+        "diagnosticado en mayo de 2012 mediante ecografía urológico , TC abdominopélvico , PET y RTU con biopsia de   <objetivo> carcinomar microcítico </objetivo> de vejiga ( cromogranina y sinaptofisina positivo y ki67 50 % ) T3N2M0 .",
+        "Citología del LCR : célula atípico sugestivo de   <objetivo> carcinomar microcítico </objetivo>",
+        "diagnosticado en mayo de 2012 mediante ecografía urológico , TC abdominopélvico , PET y RTU con biopsia de   <objetivo> carcinomar microcítico </objetivo> de vejiga ( cromogranina y sinaptofisina positivo y ki67 50 % ) T3N2M0 .",
+        "Citología del LCR : célula atípico sugestivo de   <objetivo> carcinomar microcítico </objetivo>",
+        "rm cerebral : incremento de señal en el espacio subaracnoideo a nivel de el cisura interhemisférico anterior , en surco de convexidad frontal izquierda , valle silviano , entre el folia cerebelosa , en superficie del tronco cerebral , unión bulbomedular y en trayecto de V , VII , VIII par craneal , compatible con   <objetivo> carcinomatosis </objetivo> leptomeníngea .",
+        "TC corporal : sin   <objetivo> enfermedad a distancia </objetivo>",
+        "el estudio necrópsico confirmar el infiltración del parénquimo troncoencefálico , cerebelo , tejido perihipofisario y mostrar uno   <objetivo> afectación masivo meníngea por carcinoma de célula pequeño </objetivo> de vejiga , sin afectación en ninguno otro órgano ."
+    ],
+    "pubmed_id": "onco1312",
+    "split_sentence": [
+        "Anamnesis",
+        "Varón de 66 años, fumador de 5 paquetes/año, ingesta enólica de 40 g de etanol/día, HTA en tratamiento farmacológico y adenomectomía prostática (2008) por HBP.",
+        "Diagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de carcinoma microcítico de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %) T3N2M0.",
+        "Se propone QRT radical basada en carboplatino-etopósido junto con RT (60 Gy).",
+        "Completa 6 ciclos entre mayo y septiembre de 2012 con respuesta completa radiológica y por PET.",
+        "En diciembre de 2012 ingresa para estudio por cuadro de 2 semanas de evolución de desorientación, pérdida de memoria, inestabilidad, cefalea y alteración del comportamiento con agresividad.",
+        "Examen físico",
+        "ECOG 3.",
+        "Lenguaje espontáneo prácticamente nulo, intoxicación con órdenes semicomplejas, desorientación en tiempo y circunstancia.",
+        "Resto, normal.",
+        "Pruebas complementarias",
+        "Hemograma y perfil Bbioquímico (con calcio, magnesio, hormonas tiroideas, vit.",
+        "B12 y ác. fólico): normales.",
+        "Serología VIH, hepatitis y sífilis: negativos.",
+        "TC craneal: normal.",
+        "Bioquímica del LCR: glucosa 13 mg/dl, hematíes 1687 U/l, células 65 U/l y proteínas totales 817 mg/dl.",
+        "Estudio inmunocitológico del LCR: negativo.",
+        "TC corporal: sin enfermedad a distancia.",
+        "RM cerebral: incremento de señal en el espacio subaracnoideo a nivel de la cisura interhemisférica anterior, en surcos de convexidad frontal izquierda, valles silvianos, entre las folias cerebelosas, en superficie del tronco cerebral, unión bulbomedular y en trayecto de V,VII, VIII pares craneales, compatible con carcinomatosis leptomeníngea.",
+        "Citología del LCR: células atípicas sugestivas de carcinoma microcítico.",
+        "Diagnóstico",
+        "Carcinoma microcítico de vejiga T3N2M0.",
+        "Carcinomatosis leptomeníngea.",
+        "Tratamiento",
+        "Tratamiento esteroideo a altas dosis, a pesar de lo cual se constata un deterioro progresivo neurológico, no tributario de tratamiento activo por ECOG e ILE menor a 3 meses, procediéndose a la sedoanalgesia.",
+        "Evolución",
+        "Fallece en las siguientes 24 horas.",
+        "Se solicita y concede la necropsia.",
+        "El estudio necrópsico confirma la infiltración del parénquima troncoencefálico, cerebelo, tejido perihipofisario y muestra una afectación masiva meníngea por carcinoma de células pequeñas de vejiga, sin afectación en ningún otro órgano."
+    ],
+    "text": "Anamnesis\nVarón de 66 años, fumador de 5 paquetes/año, ingesta enólica de 40 g de etanol/día, HTA en tratamiento farmacológico y adenomectomía prostática (2008) por HBP.\nDiagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de carcinoma microcítico de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %) T3N2M0. Se propone QRT radical basada en carboplatino-etopósido junto con RT (60 Gy). Completa 6 ciclos entre mayo y septiembre de 2012 con respuesta completa radiológica y por PET.\nEn diciembre de 2012 ingresa para estudio por cuadro de 2 semanas de evolución de desorientación, pérdida de memoria, inestabilidad, cefalea y alteración del comportamiento con agresividad.\n\nExamen físico\nECOG 3. Lenguaje espontáneo prácticamente nulo, intoxicación con órdenes semicomplejas, desorientación en tiempo y circunstancia. Resto, normal.\n\nPruebas complementarias\nHemograma y perfil Bbioquímico (con calcio, magnesio, hormonas tiroideas, vit. B12 y ác. fólico): normales.\nSerología VIH, hepatitis y sífilis: negativos.\nTC craneal: normal.\nBioquímica del LCR: glucosa 13 mg/dl, hematíes 1687 U/l, células 65 U/l y proteínas totales 817 mg/dl.\nEstudio inmunocitológico del LCR: negativo.\nTC corporal: sin enfermedad a distancia.\nRM cerebral: incremento de señal en el espacio subaracnoideo a nivel de la cisura interhemisférica anterior, en surcos de convexidad frontal izquierda, valles silvianos, entre las folias cerebelosas, en superficie del tronco cerebral, unión bulbomedular y en trayecto de V,VII, VIII pares craneales, compatible con carcinomatosis leptomeníngea.\nCitología del LCR: células atípicas sugestivas de carcinoma microcítico.\n\nDiagnóstico\nCarcinoma microcítico de vejiga T3N2M0.\nCarcinomatosis leptomeníngea.\n\nTratamiento\nTratamiento esteroideo a altas dosis, a pesar de lo cual se constata un deterioro progresivo neurológico, no tributario de tratamiento activo por ECOG e ILE menor a 3 meses, procediéndose a la sedoanalgesia.\n\nEvolución\nFallece en las siguientes 24 horas. Se solicita y concede la necropsia.\nEl estudio necrópsico confirma la infiltración del parénquima troncoencefálico, cerebelo, tejido perihipofisario y muestra una afectación masiva meníngea por carcinoma de células pequeñas de vejiga, sin afectación en ningún otro órgano."
+}

@@ -1,0 +1,177 @@
+{
+    "title": "Pravastatin-associated myopathy. Report of a case.",
+    "abst": "A case of acute inflammatory myopathy associated with the use of pravastatin, a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme A reductase inhibitor, is reported. The patient, a 69-year-old man was affected by non-insulin-dependent diabetes mellitus and hypertension. He assumed pravastatin (20 mg/day) because of hypercholesterolemia. He was admitted with acute myopathy of the lower limbs which resolved in a few days after pravastatin discontinuation. A previously unknown hypothyroidism, probably due to chronic autoimmune thyroiditis, was evidenced. Muscle biopsy (left gastrocnemius) revealed a perimysial and endomysial inflammatory infiltrate with a prevalence of CD4+ lymphocytes. While lovastatin and simvastatin have been associated with toxic myopathy, pravastatin-associated myopathy could represent a distinct, inflammatory entity.",
+    "title_plus_abst": "Pravastatin-associated myopathy. Report of a case. A case of acute inflammatory myopathy associated with the use of pravastatin, a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme A reductase inhibitor, is reported. The patient, a 69-year-old man was affected by non-insulin-dependent diabetes mellitus and hypertension. He assumed pravastatin (20 mg/day) because of hypercholesterolemia. He was admitted with acute myopathy of the lower limbs which resolved in a few days after pravastatin discontinuation. A previously unknown hypothyroidism, probably due to chronic autoimmune thyroiditis, was evidenced. Muscle biopsy (left gastrocnemius) revealed a perimysial and endomysial inflammatory infiltrate with a prevalence of CD4+ lymphocytes. While lovastatin and simvastatin have been associated with toxic myopathy, pravastatin-associated myopathy could represent a distinct, inflammatory entity.",
+    "pubmed_id": "7604176",
+    "entities": [
+        [
+            0,
+            11,
+            "Pravastatin",
+            "Chemical",
+            "D017035"
+        ],
+        [
+            23,
+            31,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            67,
+            88,
+            "inflammatory myopathy",
+            "Disease",
+            "D009220"
+        ],
+        [
+            116,
+            127,
+            "pravastatin",
+            "Chemical",
+            "D017035"
+        ],
+        [
+            266,
+            305,
+            "non-insulin-dependent diabetes mellitus",
+            "Disease",
+            "D003924"
+        ],
+        [
+            310,
+            322,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            335,
+            346,
+            "pravastatin",
+            "Chemical",
+            "D017035"
+        ],
+        [
+            370,
+            390,
+            "hypercholesterolemia",
+            "Disease",
+            "D006937"
+        ],
+        [
+            419,
+            427,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            482,
+            493,
+            "pravastatin",
+            "Chemical",
+            "D017035"
+        ],
+        [
+            532,
+            546,
+            "hypothyroidism",
+            "Disease",
+            "D007037"
+        ],
+        [
+            572,
+            594,
+            "autoimmune thyroiditis",
+            "Disease",
+            "D013967"
+        ],
+        [
+            752,
+            762,
+            "lovastatin",
+            "Chemical",
+            "D008148"
+        ],
+        [
+            767,
+            778,
+            "simvastatin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            811,
+            819,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            821,
+            832,
+            "pravastatin",
+            "Chemical",
+            "D017035"
+        ],
+        [
+            844,
+            852,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ]
+    ],
+    "split_sentence": [
+        "Pravastatin-associated myopathy.",
+        "Report of a case.",
+        "A case of acute inflammatory myopathy associated with the use of pravastatin, a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme A reductase inhibitor, is reported.",
+        "The patient, a 69-year-old man was affected by non-insulin-dependent diabetes mellitus and hypertension.",
+        "He assumed pravastatin (20 mg/day) because of hypercholesterolemia.",
+        "He was admitted with acute myopathy of the lower limbs which resolved in a few days after pravastatin discontinuation.",
+        "A previously unknown hypothyroidism, probably due to chronic autoimmune thyroiditis, was evidenced.",
+        "Muscle biopsy (left gastrocnemius) revealed a perimysial and endomysial inflammatory infiltrate with a prevalence of CD4+ lymphocytes.",
+        "While lovastatin and simvastatin have been associated with toxic myopathy, pravastatin-associated myopathy could represent a distinct, inflammatory entity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017035\tChemical\tPravastatin\t<target> Pravastatin </target> -associated myopathy .",
+        "D009135\tDisease\tmyopathy\tPravastatin-associated <target> myopathy </target> .",
+        "D009220\tDisease\tinflammatory myopathy\tA case of acute <target> inflammatory myopathy </target> associated with the use of pravastatin , a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme A reductase inhibitor , is reported .",
+        "D017035\tChemical\tpravastatin\tA case of acute inflammatory myopathy associated with the use of <target> pravastatin </target> , a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme A reductase inhibitor , is reported .",
+        "D003924\tDisease\tnon-insulin-dependent diabetes mellitus\tThe patient , a 69-year-old man was affected by <target> non-insulin-dependent diabetes mellitus </target> and hypertension .",
+        "D006973\tDisease\thypertension\tThe patient , a 69-year-old man was affected by non-insulin-dependent diabetes mellitus and <target> hypertension </target> .",
+        "D017035\tChemical\tpravastatin\tHe assumed <target> pravastatin </target> ( 20 mg/day ) because of hypercholesterolemia .",
+        "D006937\tDisease\thypercholesterolemia\tHe assumed pravastatin ( 20 mg/day ) because of <target> hypercholesterolemia </target> .",
+        "D009135\tDisease\tmyopathy\tHe was admitted with acute <target> myopathy </target> of the lower limbs which resolved in a few days after pravastatin discontinuation .",
+        "D017035\tChemical\tpravastatin\tHe was admitted with acute myopathy of the lower limbs which resolved in a few days after <target> pravastatin </target> discontinuation .",
+        "D007037\tDisease\thypothyroidism\tA previously unknown <target> hypothyroidism </target> , probably due to chronic autoimmune thyroiditis , was evidenced .",
+        "D013967\tDisease\tautoimmune thyroiditis\tA previously unknown hypothyroidism , probably due to chronic <target> autoimmune thyroiditis </target> , was evidenced .",
+        "D008148\tChemical\tlovastatin\tWhile <target> lovastatin </target> and simvastatin have been associated with toxic myopathy , pravastatin-associated myopathy could represent a distinct , inflammatory entity .",
+        "D019821\tChemical\tsimvastatin\tWhile lovastatin and <target> simvastatin </target> have been associated with toxic myopathy , pravastatin-associated myopathy could represent a distinct , inflammatory entity .",
+        "D009135\tDisease\tmyopathy\tWhile lovastatin and simvastatin have been associated with toxic <target> myopathy </target> , pravastatin-associated myopathy could represent a distinct , inflammatory entity .",
+        "D017035\tChemical\tpravastatin\tWhile lovastatin and simvastatin have been associated with toxic myopathy , <target> pravastatin </target> -associated myopathy could represent a distinct , inflammatory entity .",
+        "D009135\tDisease\tmyopathy\tWhile lovastatin and simvastatin have been associated with toxic myopathy , pravastatin-associated <target> myopathy </target> could represent a distinct , inflammatory entity ."
+    ],
+    "lines_lemma": [
+        "D017035\tChemical\tPravastatin\t<target> pravastatin </target> -associated myopathy .",
+        "D009135\tDisease\tmyopathy\tpravastatin-associated <target> myopathy </target> .",
+        "D009220\tDisease\tinflammatory myopathy\ta case of acute <target> inflammatory myopathy </target> associate with the use of pravastatin , a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme a reductase inhibitor , be report .",
+        "D017035\tChemical\tpravastatin\ta case of acute inflammatory myopathy associate with the use of <target> pravastatin </target> , a new hydrophilic 3-hydroxy-3 methylglutaril coenzyme a reductase inhibitor , be report .",
+        "D003924\tDisease\tnon-insulin-dependent diabetes mellitus\tthe patient , a 69-year-old man be affect by <target> non-insulin-dependent diabete mellitus </target> and hypertension .",
+        "D006973\tDisease\thypertension\tthe patient , a 69-year-old man be affect by non-insulin-dependent diabete mellitus and <target> hypertension </target> .",
+        "D017035\tChemical\tpravastatin\the assume <target> pravastatin </target> ( 20 mg/day ) because of hypercholesterolemia .",
+        "D006937\tDisease\thypercholesterolemia\the assume pravastatin ( 20 mg/day ) because of <target> hypercholesterolemia </target> .",
+        "D009135\tDisease\tmyopathy\the be admit with acute <target> myopathy </target> of the low limb which resolve in a few day after pravastatin discontinuation .",
+        "D017035\tChemical\tpravastatin\the be admit with acute myopathy of the low limb which resolve in a few day after <target> pravastatin </target> discontinuation .",
+        "D007037\tDisease\thypothyroidism\ta previously unknown <target> hypothyroidism </target> , probably due to chronic autoimmune thyroiditis , be evidence .",
+        "D013967\tDisease\tautoimmune thyroiditis\ta previously unknown hypothyroidism , probably due to chronic <target> autoimmune thyroiditis </target> , be evidence .",
+        "D008148\tChemical\tlovastatin\twhile <target> lovastatin </target> and simvastatin have be associate with toxic myopathy , pravastatin-associated myopathy could represent a distinct , inflammatory entity .",
+        "D019821\tChemical\tsimvastatin\twhile lovastatin and <target> simvastatin </target> have be associate with toxic myopathy , pravastatin-associated myopathy could represent a distinct , inflammatory entity .",
+        "D009135\tDisease\tmyopathy\twhile lovastatin and simvastatin have be associate with toxic <target> myopathy </target> , pravastatin-associated myopathy could represent a distinct , inflammatory entity .",
+        "D017035\tChemical\tpravastatin\twhile lovastatin and simvastatin have be associate with toxic myopathy , <target> pravastatin </target> -associated myopathy could represent a distinct , inflammatory entity .",
+        "D009135\tDisease\tmyopathy\twhile lovastatin and simvastatin have be associate with toxic myopathy , pravastatin-associated <target> myopathy </target> could represent a distinct , inflammatory entity ."
+    ]
+}

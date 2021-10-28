@@ -1,0 +1,103 @@
+{
+    "title": "Immunohistochemical studies with antibodies to neurofilament proteins on axonal damage in experimental focal lesions in rat.",
+    "abst": "Immunohistochemistry with monoclonal antibodies against neurofilament (NF) proteins of middle and high molecular weight class, NF-M and NF-H, was used to study axonal injury in the borderzone of focal lesions in rats. Focal injury in the cortex was produced by infusion of lactate at acid pH or by stab caused by needle insertion. Infarcts in substantia nigra pars reticulata were evoked by prolonged pilocarpine-induced status epilepticus. Immunohistochemical staining for NFs showed characteristic terminal clubs of axons in the borderzone of lesions. Differences in the labelling pattern occurred with different antibodies which apparently depended on molecular weight class of NFs and phosphorylation state. These immunohistochemical changes of NFs can serve as a marker for axonal damage in various experimental traumatic or ischemic lesions.",
+    "title_plus_abst": "Immunohistochemical studies with antibodies to neurofilament proteins on axonal damage in experimental focal lesions in rat. Immunohistochemistry with monoclonal antibodies against neurofilament (NF) proteins of middle and high molecular weight class, NF-M and NF-H, was used to study axonal injury in the borderzone of focal lesions in rats. Focal injury in the cortex was produced by infusion of lactate at acid pH or by stab caused by needle insertion. Infarcts in substantia nigra pars reticulata were evoked by prolonged pilocarpine-induced status epilepticus. Immunohistochemical staining for NFs showed characteristic terminal clubs of axons in the borderzone of lesions. Differences in the labelling pattern occurred with different antibodies which apparently depended on molecular weight class of NFs and phosphorylation state. These immunohistochemical changes of NFs can serve as a marker for axonal damage in various experimental traumatic or ischemic lesions.",
+    "pubmed_id": "8410052",
+    "entities": [
+        [
+            73,
+            86,
+            "axonal damage",
+            "Disease",
+            "D001480"
+        ],
+        [
+            285,
+            298,
+            "axonal injury",
+            "Disease",
+            "D001480"
+        ],
+        [
+            349,
+            369,
+            "injury in the cortex",
+            "Disease",
+            "D001480"
+        ],
+        [
+            398,
+            405,
+            "lactate",
+            "Chemical",
+            "D019344"
+        ],
+        [
+            456,
+            500,
+            "Infarcts in substantia nigra pars reticulata",
+            "Disease",
+            "D002544"
+        ],
+        [
+            526,
+            537,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            546,
+            564,
+            "status epilepticus",
+            "Disease",
+            "D013226"
+        ],
+        [
+            904,
+            917,
+            "axonal damage",
+            "Disease",
+            "D001480"
+        ],
+        [
+            942,
+            951,
+            "traumatic",
+            "Disease",
+            "D014947"
+        ]
+    ],
+    "split_sentence": [
+        "Immunohistochemical studies with antibodies to neurofilament proteins on axonal damage in experimental focal lesions in rat.",
+        "Immunohistochemistry with monoclonal antibodies against neurofilament (NF) proteins of middle and high molecular weight class, NF-M and NF-H, was used to study axonal injury in the borderzone of focal lesions in rats.",
+        "Focal injury in the cortex was produced by infusion of lactate at acid pH or by stab caused by needle insertion.",
+        "Infarcts in substantia nigra pars reticulata were evoked by prolonged pilocarpine-induced status epilepticus.",
+        "Immunohistochemical staining for NFs showed characteristic terminal clubs of axons in the borderzone of lesions.",
+        "Differences in the labelling pattern occurred with different antibodies which apparently depended on molecular weight class of NFs and phosphorylation state.",
+        "These immunohistochemical changes of NFs can serve as a marker for axonal damage in various experimental traumatic or ischemic lesions."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001480\tDisease\taxonal damage\tImmunohistochemical studies with antibodies to neurofilament proteins on <target> axonal damage </target> in experimental focal lesions in rat .",
+        "D001480\tDisease\taxonal injury\tImmunohistochemistry with monoclonal antibodies against neurofilament ( NF ) proteins of middle and high molecular weight class , NF-M and NF-H , was used to study <target> axonal injury </target> in the borderzone of focal lesions in rats .",
+        "D001480\tDisease\tinjury in the cortex\tFocal <target> injury in the cortex </target> was produced by infusion of lactate at acid pH or by stab caused by needle insertion .",
+        "D019344\tChemical\tlactate\tFocal injury in the cortex was produced by infusion of <target> lactate </target> at acid pH or by stab caused by needle insertion .",
+        "D002544\tDisease\tInfarcts in substantia nigra pars reticulata\t<target> Infarcts in substantia nigra pars reticulata </target> were evoked by prolonged pilocarpine-induced status epilepticus .",
+        "D010862\tChemical\tpilocarpine\tInfarcts in substantia nigra pars reticulata were evoked by prolonged <target> pilocarpine </target> -induced status epilepticus .",
+        "D013226\tDisease\tstatus epilepticus\tInfarcts in substantia nigra pars reticulata were evoked by prolonged pilocarpine-induced <target> status epilepticus </target> .",
+        "D001480\tDisease\taxonal damage\tThese immunohistochemical changes of NFs can serve as a marker for <target> axonal damage </target> in various experimental traumatic or ischemic lesions .",
+        "D014947\tDisease\ttraumatic\tThese immunohistochemical changes of NFs can serve as a marker for axonal damage in various experimental <target> traumatic </target> or ischemic lesions ."
+    ],
+    "lines_lemma": [
+        "D001480\tDisease\taxonal damage\timmunohistochemical study with antibody to neurofilament protein on <target> axonal damage </target> in experimental focal lesion in rat .",
+        "D001480\tDisease\taxonal injury\timmunohistochemistry with monoclonal antibody against neurofilament ( nf ) protein of middle and high molecular weight class , nf-m and nf-h , be use to study <target> axonal injury </target> in the borderzone of focal lesion in rat .",
+        "D001480\tDisease\tinjury in the cortex\tfocal <target> injury in the cortex </target> be produce by infusion of lactate at acid ph or by stab cause by needle insertion .",
+        "D019344\tChemical\tlactate\tfocal injury in the cortex be produce by infusion of <target> lactate </target> at acid ph or by stab cause by needle insertion .",
+        "D002544\tDisease\tInfarcts in substantia nigra pars reticulata\t<target> Infarcts in substantia nigra par reticulata </target> be evoke by prolonged pilocarpine-induced status epilepticus .",
+        "D010862\tChemical\tpilocarpine\tinfarct in substantia nigra par reticulata be evoke by prolonged <target> pilocarpine </target> -induced status epilepticus .",
+        "D013226\tDisease\tstatus epilepticus\tinfarct in substantia nigra par reticulata be evoke by prolonged pilocarpine-induced <target> status epilepticus </target> .",
+        "D001480\tDisease\taxonal damage\tthese immunohistochemical change of nf can serve as a marker for <target> axonal damage </target> in various experimental traumatic or ischemic lesion .",
+        "D014947\tDisease\ttraumatic\tthese immunohistochemical change of nf can serve as a marker for axonal damage in various experimental <target> traumatic </target> or ischemic lesion ."
+    ]
+}

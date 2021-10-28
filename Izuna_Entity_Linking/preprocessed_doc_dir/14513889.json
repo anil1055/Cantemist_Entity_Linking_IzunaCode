@@ -1,0 +1,101 @@
+{
+    "title": "Ketoconazole-induced neurologic sequelae.",
+    "abst": "A 77-y-old patient developed weakness of extremities, legs paralysis, dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life. All complaints faded away within 24 h. Few days later, the patient used another 200 mg ketoconazole tablet, and within an hour experienced a similar clinical picture, which resolved again spontaneously within hours. Laboratory evaluations, including head CT scan, were normal. This case illustrates the need for close vigilance in adverse drug reactions, particularly in the elderly.",
+    "title_plus_abst": "Ketoconazole-induced neurologic sequelae. A 77-y-old patient developed weakness of extremities, legs paralysis, dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life. All complaints faded away within 24 h. Few days later, the patient used another 200 mg ketoconazole tablet, and within an hour experienced a similar clinical picture, which resolved again spontaneously within hours. Laboratory evaluations, including head CT scan, were normal. This case illustrates the need for close vigilance in adverse drug reactions, particularly in the elderly.",
+    "pubmed_id": "14513889",
+    "entities": [
+        [
+            0,
+            12,
+            "Ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            21,
+            40,
+            "neurologic sequelae",
+            "Disease",
+            "D009422"
+        ],
+        [
+            71,
+            94,
+            "weakness of extremities",
+            "Disease",
+            "D018908"
+        ],
+        [
+            96,
+            110,
+            "legs paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            112,
+            122,
+            "dysarthria",
+            "Disease",
+            "D004401"
+        ],
+        [
+            127,
+            133,
+            "tremor",
+            "Disease",
+            "D014202"
+        ],
+        [
+            164,
+            176,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            296,
+            308,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            540,
+            562,
+            "adverse drug reactions",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Ketoconazole-induced neurologic sequelae.",
+        "A 77-y-old patient developed weakness of extremities, legs paralysis, dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life.",
+        "All complaints faded away within 24 h. Few days later, the patient used another 200 mg ketoconazole tablet, and within an hour experienced a similar clinical picture, which resolved again spontaneously within hours.",
+        "Laboratory evaluations, including head CT scan, were normal.",
+        "This case illustrates the need for close vigilance in adverse drug reactions, particularly in the elderly."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007654\tChemical\tKetoconazole\t<target> Ketoconazole </target> -induced neurologic sequelae .",
+        "D009422\tDisease\tneurologic sequelae\tKetoconazole-induced <target> neurologic sequelae </target> .",
+        "D018908\tDisease\tweakness of extremities\tA 77-y-old patient developed <target> weakness of extremities </target> , legs paralysis , dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D010243\tDisease\tlegs paralysis\tA 77-y-old patient developed weakness of extremities , <target> legs paralysis </target> , dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D004401\tDisease\tdysarthria\tA 77-y-old patient developed weakness of extremities , legs paralysis , <target> dysarthria </target> and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D014202\tDisease\ttremor\tA 77-y-old patient developed weakness of extremities , legs paralysis , dysarthria and <target> tremor </target> 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D007654\tChemical\tketoconazole\tA 77-y-old patient developed weakness of extremities , legs paralysis , dysarthria and tremor 1 h after ingestion of 200 mg <target> ketoconazole </target> for the first time in his life .",
+        "D007654\tChemical\tketoconazole\tAll complaints faded away within 24 h. Few days later , the patient used another 200 mg <target> ketoconazole </target> tablet , and within an hour experienced a similar clinical picture , which resolved again spontaneously within hours .",
+        "D064420\tDisease\tadverse drug reactions\tThis case illustrates the need for close vigilance in <target> adverse drug reactions </target> , particularly in the elderly ."
+    ],
+    "lines_lemma": [
+        "D007654\tChemical\tKetoconazole\t<target> Ketoconazole </target> -induced neurologic sequelae .",
+        "D009422\tDisease\tneurologic sequelae\tketoconazole-induced <target> neurologic sequelae </target> .",
+        "D018908\tDisease\tweakness of extremities\ta 77-y-old patient develop <target> weakness of extremity </target> , leg paralysis , dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D010243\tDisease\tlegs paralysis\ta 77-y-old patient develop weakness of extremity , <target> leg paralysis </target> , dysarthria and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D004401\tDisease\tdysarthria\ta 77-y-old patient develop weakness of extremity , leg paralysis , <target> dysarthria </target> and tremor 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D014202\tDisease\ttremor\ta 77-y-old patient develop weakness of extremity , leg paralysis , dysarthria and <target> tremor </target> 1 h after ingestion of 200 mg ketoconazole for the first time in his life .",
+        "D007654\tChemical\tketoconazole\ta 77-y-old patient develop weakness of extremity , leg paralysis , dysarthria and tremor 1 h after ingestion of 200 mg <target> ketoconazole </target> for the first time in his life .",
+        "D007654\tChemical\tketoconazole\tall complaint fade away within 24 h. few day later , the patient use another 200 mg <target> ketoconazole </target> tablet , and within an hour experience a similar clinical picture , which resolve again spontaneously within hour .",
+        "D064420\tDisease\tadverse drug reactions\tthis case illustrate the need for close vigilance in <target> adverse drug reaction </target> , particularly in the elderly ."
+    ]
+}

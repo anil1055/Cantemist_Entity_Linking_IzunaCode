@@ -1,0 +1,101 @@
+{
+    "title": "Acute renal failure occurring during intravenous desferrioxamine therapy: recovery after haemodialysis.",
+    "abst": "A patient with transfusion-dependent thalassemia was undergoing home intravenous desferrioxamine (DFX) treatment by means of a totally implanted system because of his poor compliance with the nightly subcutaneous therapy. Due to an accidental malfunctioning of the infusion pump, the patient was inadvertently administered a toxic dosage of the drug which caused renal insufficiency. Given the progressive deterioration of the symptoms and of the laboratory values, despite adequate medical treatment, a decision was made to introduce haemodialytical therapy in order to remove the drug and therapy reduce the nephrotoxicity. From the results obtained, haemodialysis can therefore be suggested as a useful therapy in rare cases of progressive acute renal failure caused by desferrioxamine.",
+    "title_plus_abst": "Acute renal failure occurring during intravenous desferrioxamine therapy: recovery after haemodialysis. A patient with transfusion-dependent thalassemia was undergoing home intravenous desferrioxamine (DFX) treatment by means of a totally implanted system because of his poor compliance with the nightly subcutaneous therapy. Due to an accidental malfunctioning of the infusion pump, the patient was inadvertently administered a toxic dosage of the drug which caused renal insufficiency. Given the progressive deterioration of the symptoms and of the laboratory values, despite adequate medical treatment, a decision was made to introduce haemodialytical therapy in order to remove the drug and therapy reduce the nephrotoxicity. From the results obtained, haemodialysis can therefore be suggested as a useful therapy in rare cases of progressive acute renal failure caused by desferrioxamine.",
+    "pubmed_id": "1289188",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            49,
+            64,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            141,
+            152,
+            "thalassemia",
+            "Disease",
+            "D013789"
+        ],
+        [
+            185,
+            200,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            202,
+            205,
+            "DFX",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            467,
+            486,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ],
+        [
+            714,
+            728,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            847,
+            866,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            877,
+            892,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ]
+    ],
+    "split_sentence": [
+        "Acute renal failure occurring during intravenous desferrioxamine therapy: recovery after haemodialysis.",
+        "A patient with transfusion-dependent thalassemia was undergoing home intravenous desferrioxamine (DFX) treatment by means of a totally implanted system because of his poor compliance with the nightly subcutaneous therapy.",
+        "Due to an accidental malfunctioning of the infusion pump, the patient was inadvertently administered a toxic dosage of the drug which caused renal insufficiency.",
+        "Given the progressive deterioration of the symptoms and of the laboratory values, despite adequate medical treatment, a decision was made to introduce haemodialytical therapy in order to remove the drug and therapy reduce the nephrotoxicity.",
+        "From the results obtained, haemodialysis can therefore be suggested as a useful therapy in rare cases of progressive acute renal failure caused by desferrioxamine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> occurring during intravenous desferrioxamine therapy : recovery after haemodialysis .",
+        "D003676\tChemical\tdesferrioxamine\tAcute renal failure occurring during intravenous <target> desferrioxamine </target> therapy : recovery after haemodialysis .",
+        "D013789\tDisease\tthalassemia\tA patient with transfusion-dependent <target> thalassemia </target> was undergoing home intravenous desferrioxamine ( DFX ) treatment by means of a totally implanted system because of his poor compliance with the nightly subcutaneous therapy .",
+        "D003676\tChemical\tdesferrioxamine\tA patient with transfusion-dependent thalassemia was undergoing home intravenous <target> desferrioxamine </target> ( DFX ) treatment by means of a totally implanted system because of his poor compliance with the nightly subcutaneous therapy .",
+        "D003676\tChemical\tDFX\tA patient with transfusion-dependent thalassemia was undergoing home intravenous desferrioxamine ( <target> DFX </target> ) treatment by means of a totally implanted system because of his poor compliance with the nightly subcutaneous therapy .",
+        "D051437\tDisease\trenal insufficiency\tDue to an accidental malfunctioning of the infusion pump , the patient was inadvertently administered a toxic dosage of the drug which caused <target> renal insufficiency </target> .",
+        "D007674\tDisease\tnephrotoxicity\tGiven the progressive deterioration of the symptoms and of the laboratory values , despite adequate medical treatment , a decision was made to introduce haemodialytical therapy in order to remove the drug and therapy reduce the <target> nephrotoxicity </target> .",
+        "D058186\tDisease\tacute renal failure\tFrom the results obtained , haemodialysis can therefore be suggested as a useful therapy in rare cases of progressive <target> acute renal failure </target> caused by desferrioxamine .",
+        "D003676\tChemical\tdesferrioxamine\tFrom the results obtained , haemodialysis can therefore be suggested as a useful therapy in rare cases of progressive acute renal failure caused by <target> desferrioxamine </target> ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> occur during intravenous desferrioxamine therapy : recovery after haemodialysis .",
+        "D003676\tChemical\tdesferrioxamine\tacute renal failure occur during intravenous <target> desferrioxamine </target> therapy : recovery after haemodialysis .",
+        "D013789\tDisease\tthalassemia\ta patient with transfusion-dependent <target> thalassemia </target> be undergo home intravenous desferrioxamine ( dfx ) treatment by mean of a totally implant system because of his poor compliance with the nightly subcutaneous therapy .",
+        "D003676\tChemical\tdesferrioxamine\ta patient with transfusion-dependent thalassemia be undergo home intravenous <target> desferrioxamine </target> ( dfx ) treatment by mean of a totally implant system because of his poor compliance with the nightly subcutaneous therapy .",
+        "D003676\tChemical\tDFX\ta patient with transfusion-dependent thalassemia be undergo home intravenous desferrioxamine ( <target> dfx </target> ) treatment by mean of a totally implant system because of his poor compliance with the nightly subcutaneous therapy .",
+        "D051437\tDisease\trenal insufficiency\tdue to an accidental malfunctioning of the infusion pump , the patient be inadvertently administer a toxic dosage of the drug which cause <target> renal insufficiency </target> .",
+        "D007674\tDisease\tnephrotoxicity\tgive the progressive deterioration of the symptom and of the laboratory value , despite adequate medical treatment , a decision be make to introduce haemodialytical therapy in order to remove the drug and therapy reduce the <target> nephrotoxicity </target> .",
+        "D058186\tDisease\tacute renal failure\tfrom the result obtain , haemodialysis can therefore be suggest as a useful therapy in rare case of progressive <target> acute renal failure </target> cause by desferrioxamine .",
+        "D003676\tChemical\tdesferrioxamine\tfrom the result obtain , haemodialysis can therefore be suggest as a useful therapy in rare case of progressive acute renal failure cause by <target> desferrioxamine </target> ."
+    ]
+}

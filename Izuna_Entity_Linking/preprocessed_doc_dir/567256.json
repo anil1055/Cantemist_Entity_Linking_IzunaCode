@@ -1,0 +1,64 @@
+{
+    "title": "Angiosarcoma of the liver associated with diethylstilbestrol.",
+    "abst": "Angiosarcoma of the liver occurred in a 76-year-old man who had been treated for a well-differentiated adenocarcinoma of the liver with diethylstilbestrol for 13 years. Angiosarcoma was also present within pulmonary and renal arteries. The possibility that the intraarterial lesions might represent independent primary tumors is considered.",
+    "title_plus_abst": "Angiosarcoma of the liver associated with diethylstilbestrol. Angiosarcoma of the liver occurred in a 76-year-old man who had been treated for a well-differentiated adenocarcinoma of the liver with diethylstilbestrol for 13 years. Angiosarcoma was also present within pulmonary and renal arteries. The possibility that the intraarterial lesions might represent independent primary tumors is considered.",
+    "pubmed_id": "567256",
+    "entities": [
+        [
+            42,
+            60,
+            "diethylstilbestrol",
+            "Chemical",
+            "D004054"
+        ],
+        [
+            198,
+            216,
+            "diethylstilbestrol",
+            "Chemical",
+            "D004054"
+        ],
+        [
+            231,
+            243,
+            "Angiosarcoma",
+            "Disease",
+            "D006394"
+        ],
+        [
+            323,
+            344,
+            "intraarterial lesions",
+            "Disease",
+            "D014652"
+        ],
+        [
+            381,
+            387,
+            "tumors",
+            "Disease",
+            "D009369"
+        ]
+    ],
+    "split_sentence": [
+        "Angiosarcoma of the liver associated with diethylstilbestrol.",
+        "Angiosarcoma of the liver occurred in a 76-year-old man who had been treated for a well-differentiated adenocarcinoma of the liver with diethylstilbestrol for 13 years.",
+        "Angiosarcoma was also present within pulmonary and renal arteries.",
+        "The possibility that the intraarterial lesions might represent independent primary tumors is considered."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004054\tChemical\tdiethylstilbestrol\tAngiosarcoma of the liver associated with <target> diethylstilbestrol </target> .",
+        "D004054\tChemical\tdiethylstilbestrol\tAngiosarcoma of the liver occurred in a 76-year-old man who had been treated for a well-differentiated adenocarcinoma of the liver with <target> diethylstilbestrol </target> for 13 years .",
+        "D006394\tDisease\tAngiosarcoma\t<target> Angiosarcoma </target> was also present within pulmonary and renal arteries .",
+        "D014652\tDisease\tintraarterial lesions\tThe possibility that the <target> intraarterial lesions </target> might represent independent primary tumors is considered .",
+        "D009369\tDisease\ttumors\tThe possibility that the intraarterial lesions might represent independent primary <target> tumors </target> is considered ."
+    ],
+    "lines_lemma": [
+        "D004054\tChemical\tdiethylstilbestrol\tAngiosarcoma of the liver associate with <target> diethylstilbestrol </target> .",
+        "D004054\tChemical\tdiethylstilbestrol\tAngiosarcoma of the liver occur in a 76-year-old man who have be treat for a well-differentiated adenocarcinoma of the liver with <target> diethylstilbestrol </target> for 13 year .",
+        "D006394\tDisease\tAngiosarcoma\t<target> Angiosarcoma </target> be also present within pulmonary and renal artery .",
+        "D014652\tDisease\tintraarterial lesions\tthe possibility that the <target> intraarterial lesion </target> might represent independent primary tumor be consider .",
+        "D009369\tDisease\ttumors\tthe possibility that the intraarterial lesion might represent independent primary <target> tumor </target> be consider ."
+    ]
+}

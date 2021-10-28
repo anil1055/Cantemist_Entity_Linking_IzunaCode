@@ -1,0 +1,81 @@
+{
+    "title": "Acetazolamide-induced Gerstmann syndrome.",
+    "abst": "Acute confusion induced by acetazolamide is a well known adverse drug reaction in patients with renal impairment. We report a case of acetazolamide-induced Gerstmann syndrome in a patient with normal renal function, to highlight predisposing factors that are frequently overlooked.",
+    "title_plus_abst": "Acetazolamide-induced Gerstmann syndrome. Acute confusion induced by acetazolamide is a well known adverse drug reaction in patients with renal impairment. We report a case of acetazolamide-induced Gerstmann syndrome in a patient with normal renal function, to highlight predisposing factors that are frequently overlooked.",
+    "pubmed_id": "10692744",
+    "entities": [
+        [
+            0,
+            13,
+            "Acetazolamide",
+            "Chemical",
+            "D000086"
+        ],
+        [
+            22,
+            40,
+            "Gerstmann syndrome",
+            "Disease",
+            "D005862"
+        ],
+        [
+            48,
+            57,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            69,
+            82,
+            "acetazolamide",
+            "Chemical",
+            "D000086"
+        ],
+        [
+            138,
+            154,
+            "renal impairment",
+            "Disease",
+            "D007674"
+        ],
+        [
+            176,
+            189,
+            "acetazolamide",
+            "Chemical",
+            "D000086"
+        ],
+        [
+            198,
+            216,
+            "Gerstmann syndrome",
+            "Disease",
+            "D005862"
+        ]
+    ],
+    "split_sentence": [
+        "Acetazolamide-induced Gerstmann syndrome.",
+        "Acute confusion induced by acetazolamide is a well known adverse drug reaction in patients with renal impairment.",
+        "We report a case of acetazolamide-induced Gerstmann syndrome in a patient with normal renal function, to highlight predisposing factors that are frequently overlooked."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000086\tChemical\tAcetazolamide\t<target> Acetazolamide </target> -induced Gerstmann syndrome .",
+        "D005862\tDisease\tGerstmann syndrome\tAcetazolamide-induced <target> Gerstmann syndrome </target> .",
+        "D003221\tDisease\tconfusion\tAcute <target> confusion </target> induced by acetazolamide is a well known adverse drug reaction in patients with renal impairment .",
+        "D000086\tChemical\tacetazolamide\tAcute confusion induced by <target> acetazolamide </target> is a well known adverse drug reaction in patients with renal impairment .",
+        "D007674\tDisease\trenal impairment\tAcute confusion induced by acetazolamide is a well known adverse drug reaction in patients with <target> renal impairment </target> .",
+        "D000086\tChemical\tacetazolamide\tWe report a case of <target> acetazolamide </target> -induced Gerstmann syndrome in a patient with normal renal function , to highlight predisposing factors that are frequently overlooked .",
+        "D005862\tDisease\tGerstmann syndrome\tWe report a case of acetazolamide-induced <target> Gerstmann syndrome </target> in a patient with normal renal function , to highlight predisposing factors that are frequently overlooked ."
+    ],
+    "lines_lemma": [
+        "D000086\tChemical\tAcetazolamide\t<target> Acetazolamide </target> -induced Gerstmann syndrome .",
+        "D005862\tDisease\tGerstmann syndrome\tacetazolamide-induced <target> Gerstmann syndrome </target> .",
+        "D003221\tDisease\tconfusion\tacute <target> confusion </target> induce by acetazolamide be a well known adverse drug reaction in patient with renal impairment .",
+        "D000086\tChemical\tacetazolamide\tacute confusion induce by <target> acetazolamide </target> be a well known adverse drug reaction in patient with renal impairment .",
+        "D007674\tDisease\trenal impairment\tacute confusion induce by acetazolamide be a well known adverse drug reaction in patient with <target> renal impairment </target> .",
+        "D000086\tChemical\tacetazolamide\twe report a case of <target> acetazolamide </target> -induced Gerstmann syndrome in a patient with normal renal function , to highlight predisposing factor that be frequently overlook .",
+        "D005862\tDisease\tGerstmann syndrome\twe report a case of acetazolamide-induced <target> Gerstmann syndrome </target> in a patient with normal renal function , to highlight predisposing factor that be frequently overlook ."
+    ]
+}

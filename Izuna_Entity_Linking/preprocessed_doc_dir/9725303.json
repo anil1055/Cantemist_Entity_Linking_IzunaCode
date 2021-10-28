@@ -1,0 +1,111 @@
+{
+    "title": "Nonopaque crystal deposition causing ureteric obstruction in patients with HIV undergoing indinavir therapy.",
+    "abst": "OBJECTIVE: We describe the unique CT features of ureteric calculi in six HIV-infected patients receiving indinavir, the most commonly used HIV protease inhibitor, which is associated with an increased incidence of urolithiasis. CONCLUSION: Ureteric obstruction caused by precipitated indinavir crystals may be difficult to diagnose with unenhanced CT. The calculi are not opaque, and secondary signs of obstruction may be absent or minimal and should be sought carefully. Images may need to be obtained using i.v. contrast material to enable diagnosis of ureteric stones or obstruction in patients with HIV infection who receive indinavir therapy.",
+    "title_plus_abst": "Nonopaque crystal deposition causing ureteric obstruction in patients with HIV undergoing indinavir therapy. OBJECTIVE: We describe the unique CT features of ureteric calculi in six HIV-infected patients receiving indinavir, the most commonly used HIV protease inhibitor, which is associated with an increased incidence of urolithiasis. CONCLUSION: Ureteric obstruction caused by precipitated indinavir crystals may be difficult to diagnose with unenhanced CT. The calculi are not opaque, and secondary signs of obstruction may be absent or minimal and should be sought carefully. Images may need to be obtained using i.v. contrast material to enable diagnosis of ureteric stones or obstruction in patients with HIV infection who receive indinavir therapy.",
+    "pubmed_id": "9725303",
+    "entities": [
+        [
+            37,
+            57,
+            "ureteric obstruction",
+            "Disease",
+            "D014517"
+        ],
+        [
+            90,
+            99,
+            "indinavir",
+            "Chemical",
+            "D019469"
+        ],
+        [
+            158,
+            174,
+            "ureteric calculi",
+            "Disease",
+            "D014514"
+        ],
+        [
+            182,
+            194,
+            "HIV-infected",
+            "Disease",
+            "D015658"
+        ],
+        [
+            214,
+            223,
+            "indinavir",
+            "Chemical",
+            "D019469"
+        ],
+        [
+            323,
+            335,
+            "urolithiasis",
+            "Disease",
+            "D052878"
+        ],
+        [
+            349,
+            369,
+            "Ureteric obstruction",
+            "Disease",
+            "D014517"
+        ],
+        [
+            393,
+            402,
+            "indinavir",
+            "Chemical",
+            "D019469"
+        ],
+        [
+            712,
+            725,
+            "HIV infection",
+            "Disease",
+            "D015658"
+        ],
+        [
+            738,
+            747,
+            "indinavir",
+            "Chemical",
+            "D019469"
+        ]
+    ],
+    "split_sentence": [
+        "Nonopaque crystal deposition causing ureteric obstruction in patients with HIV undergoing indinavir therapy.",
+        "OBJECTIVE: We describe the unique CT features of ureteric calculi in six HIV-infected patients receiving indinavir, the most commonly used HIV protease inhibitor, which is associated with an increased incidence of urolithiasis.",
+        "CONCLUSION: Ureteric obstruction caused by precipitated indinavir crystals may be difficult to diagnose with unenhanced CT.",
+        "The calculi are not opaque, and secondary signs of obstruction may be absent or minimal and should be sought carefully.",
+        "Images may need to be obtained using i.v.",
+        "contrast material to enable diagnosis of ureteric stones or obstruction in patients with HIV infection who receive indinavir therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014517\tDisease\tureteric obstruction\tNonopaque crystal deposition causing <target> ureteric obstruction </target> in patients with HIV undergoing indinavir therapy .",
+        "D019469\tChemical\tindinavir\tNonopaque crystal deposition causing ureteric obstruction in patients with HIV undergoing <target> indinavir </target> therapy .",
+        "D014514\tDisease\tureteric calculi\tOBJECTIVE : We describe the unique CT features of <target> ureteric calculi </target> in six HIV-infected patients receiving indinavir , the most commonly used HIV protease inhibitor , which is associated with an increased incidence of urolithiasis .",
+        "D015658\tDisease\tHIV-infected\tOBJECTIVE : We describe the unique CT features of ureteric calculi in six <target> HIV-infected </target> patients receiving indinavir , the most commonly used HIV protease inhibitor , which is associated with an increased incidence of urolithiasis .",
+        "D019469\tChemical\tindinavir\tOBJECTIVE : We describe the unique CT features of ureteric calculi in six HIV-infected patients receiving <target> indinavir </target> , the most commonly used HIV protease inhibitor , which is associated with an increased incidence of urolithiasis .",
+        "D052878\tDisease\turolithiasis\tOBJECTIVE : We describe the unique CT features of ureteric calculi in six HIV-infected patients receiving indinavir , the most commonly used HIV protease inhibitor , which is associated with an increased incidence of <target> urolithiasis </target> .",
+        "D014517\tDisease\tUreteric obstruction\tCONCLUSION : <target> Ureteric obstruction </target> caused by precipitated indinavir crystals may be difficult to diagnose with unenhanced CT .",
+        "D019469\tChemical\tindinavir\tCONCLUSION : Ureteric obstruction caused by precipitated <target> indinavir </target> crystals may be difficult to diagnose with unenhanced CT .",
+        "D015658\tDisease\tHIV infection\tcontrast material to enable diagnosis of ureteric stones or obstruction in patients with <target> HIV infection </target> who receive indinavir therapy .",
+        "D019469\tChemical\tindinavir\tcontrast material to enable diagnosis of ureteric stones or obstruction in patients with HIV infection who receive <target> indinavir </target> therapy ."
+    ],
+    "lines_lemma": [
+        "D014517\tDisease\tureteric obstruction\tnonopaque crystal deposition cause <target> ureteric obstruction </target> in patient with hiv undergo indinavir therapy .",
+        "D019469\tChemical\tindinavir\tnonopaque crystal deposition cause ureteric obstruction in patient with hiv undergo <target> indinavir </target> therapy .",
+        "D014514\tDisease\tureteric calculi\tobjective : we describe the unique ct feature of <target> ureteric calculus </target> in six hiv-infected patient receive indinavir , the most commonly use hiv protease inhibitor , which be associate with an increase incidence of urolithiasis .",
+        "D015658\tDisease\tHIV-infected\tobjective : we describe the unique ct feature of ureteric calculus in six <target> hiv-infected </target> patient receive indinavir , the most commonly use hiv protease inhibitor , which be associate with an increase incidence of urolithiasis .",
+        "D019469\tChemical\tindinavir\tobjective : we describe the unique ct feature of ureteric calculus in six hiv-infected patient receive <target> indinavir </target> , the most commonly use hiv protease inhibitor , which be associate with an increase incidence of urolithiasis .",
+        "D052878\tDisease\turolithiasis\tobjective : we describe the unique ct feature of ureteric calculus in six hiv-infected patient receive indinavir , the most commonly use hiv protease inhibitor , which be associate with an increase incidence of <target> urolithiasis </target> .",
+        "D014517\tDisease\tUreteric obstruction\tconclusion : <target> Ureteric obstruction </target> cause by precipitated indinavir crystal may be difficult to diagnose with unenhanced ct .",
+        "D019469\tChemical\tindinavir\tconclusion : ureteric obstruction cause by precipitate <target> indinavir </target> crystal may be difficult to diagnose with unenhanced ct .",
+        "D015658\tDisease\tHIV infection\tcontrast material to enable diagnosis of ureteric stone or obstruction in patient with <target> hiv infection </target> who receive indinavir therapy .",
+        "D019469\tChemical\tindinavir\tcontrast material to enable diagnosis of ureteric stone or obstruction in patient with hiv infection who receive <target> indinavir </target> therapy ."
+    ]
+}

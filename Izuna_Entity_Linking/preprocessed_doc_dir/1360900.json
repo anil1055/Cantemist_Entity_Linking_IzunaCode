@@ -1,0 +1,127 @@
+{
+    "title": "Ethacrynic acid-induced convulsions and brain neurotransmitters in mice.",
+    "abst": "Intracerebroventricular injection of ethacrynic acid (50% convulsive dose; 50 micrograms/mouse) accelerated the synthesis/turnover of 5-hydroxytryptamine (5-HT) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain. These effects were completely antagonized by pretreatment with a glutamate/N-methyl-D-aspartate antagonist, aminophosphonovaleric acid. In ethacrynic acid-induced convulsions, these neurotransmitter systems may be differentially modulated, probably through activation of glutaminergic neurons in the brain.",
+    "title_plus_abst": "Ethacrynic acid-induced convulsions and brain neurotransmitters in mice. Intracerebroventricular injection of ethacrynic acid (50% convulsive dose; 50 micrograms/mouse) accelerated the synthesis/turnover of 5-hydroxytryptamine (5-HT) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain. These effects were completely antagonized by pretreatment with a glutamate/N-methyl-D-aspartate antagonist, aminophosphonovaleric acid. In ethacrynic acid-induced convulsions, these neurotransmitter systems may be differentially modulated, probably through activation of glutaminergic neurons in the brain.",
+    "pubmed_id": "1360900",
+    "entities": [
+        [
+            0,
+            15,
+            "Ethacrynic acid",
+            "Chemical",
+            "D004976"
+        ],
+        [
+            24,
+            35,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            110,
+            125,
+            "ethacrynic acid",
+            "Chemical",
+            "D004976"
+        ],
+        [
+            131,
+            141,
+            "convulsive",
+            "Disease",
+            "D012640"
+        ],
+        [
+            207,
+            226,
+            "5-hydroxytryptamine",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            228,
+            232,
+            "5-HT",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            266,
+            289,
+            "gamma-aminobutyric acid",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            294,
+            307,
+            "acetylcholine",
+            "Chemical",
+            "D000109"
+        ],
+        [
+            389,
+            398,
+            "glutamate",
+            "Chemical",
+            "D018698"
+        ],
+        [
+            399,
+            419,
+            "N-methyl-D-aspartate",
+            "Chemical",
+            "D016202"
+        ],
+        [
+            463,
+            478,
+            "ethacrynic acid",
+            "Chemical",
+            "D004976"
+        ],
+        [
+            487,
+            498,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Ethacrynic acid-induced convulsions and brain neurotransmitters in mice.",
+        "Intracerebroventricular injection of ethacrynic acid (50% convulsive dose; 50 micrograms/mouse) accelerated the synthesis/turnover of 5-hydroxytryptamine (5-HT) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain.",
+        "These effects were completely antagonized by pretreatment with a glutamate/N-methyl-D-aspartate antagonist, aminophosphonovaleric acid.",
+        "In ethacrynic acid-induced convulsions, these neurotransmitter systems may be differentially modulated, probably through activation of glutaminergic neurons in the brain."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004976\tChemical\tEthacrynic acid\t<target> Ethacrynic acid </target> -induced convulsions and brain neurotransmitters in mice .",
+        "D012640\tDisease\tconvulsions\tEthacrynic acid-induced <target> convulsions </target> and brain neurotransmitters in mice .",
+        "D004976\tChemical\tethacrynic acid\tIntracerebroventricular injection of <target> ethacrynic acid </target> ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerated the synthesis/turnover of 5-hydroxytryptamine ( 5-HT ) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D012640\tDisease\tconvulsive\tIntracerebroventricular injection of ethacrynic acid ( 50 % <target> convulsive </target> dose ; 50 micrograms/mouse ) accelerated the synthesis/turnover of 5-hydroxytryptamine ( 5-HT ) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D012701\tChemical\t5-hydroxytryptamine\tIntracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerated the synthesis/turnover of <target> 5-hydroxytryptamine </target> ( 5-HT ) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D012701\tChemical\t5-HT\tIntracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerated the synthesis/turnover of 5-hydroxytryptamine ( <target> 5-HT </target> ) but suppressed the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D005680\tChemical\tgamma-aminobutyric acid\tIntracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerated the synthesis/turnover of 5-hydroxytryptamine ( 5-HT ) but suppressed the synthesis of <target> gamma-aminobutyric acid </target> and acetylcholine in mouse brain .",
+        "D000109\tChemical\tacetylcholine\tIntracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerated the synthesis/turnover of 5-hydroxytryptamine ( 5-HT ) but suppressed the synthesis of gamma-aminobutyric acid and <target> acetylcholine </target> in mouse brain .",
+        "D018698\tChemical\tglutamate\tThese effects were completely antagonized by pretreatment with a <target> glutamate </target> /N-methyl-D-aspartate antagonist , aminophosphonovaleric acid .",
+        "D016202\tChemical\tN-methyl-D-aspartate\tThese effects were completely antagonized by pretreatment with a glutamate/ <target> N-methyl-D-aspartate </target> antagonist , aminophosphonovaleric acid .",
+        "D004976\tChemical\tethacrynic acid\tIn <target> ethacrynic acid </target> -induced convulsions , these neurotransmitter systems may be differentially modulated , probably through activation of glutaminergic neurons in the brain .",
+        "D012640\tDisease\tconvulsions\tIn ethacrynic acid-induced <target> convulsions </target> , these neurotransmitter systems may be differentially modulated , probably through activation of glutaminergic neurons in the brain ."
+    ],
+    "lines_lemma": [
+        "D004976\tChemical\tEthacrynic acid\t<target> ethacrynic acid </target> -induced convulsion and brain neurotransmitter in mouse .",
+        "D012640\tDisease\tconvulsions\tethacrynic acid-induced <target> convulsion </target> and brain neurotransmitter in mouse .",
+        "D004976\tChemical\tethacrynic acid\tintracerebroventricular injection of <target> ethacrynic acid </target> ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerate the synthesis/turnover of 5-hydroxytryptamine ( 5-ht ) but suppress the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D012640\tDisease\tconvulsive\tintracerebroventricular injection of ethacrynic acid ( 50 % <target> convulsive </target> dose ; 50 micrograms/mouse ) accelerate the synthesis/turnover of 5-hydroxytryptamine ( 5-ht ) but suppress the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D012701\tChemical\t5-hydroxytryptamine\tintracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerate the synthesis/turnover of <target> 5-hydroxytryptamine </target> ( 5-ht ) but suppress the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D012701\tChemical\t5-HT\tintracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerate the synthesis/turnover of 5-hydroxytryptamine ( <target> 5-ht </target> ) but suppress the synthesis of gamma-aminobutyric acid and acetylcholine in mouse brain .",
+        "D005680\tChemical\tgamma-aminobutyric acid\tintracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerate the synthesis/turnover of 5-hydroxytryptamine ( 5-ht ) but suppress the synthesis of <target> gamma-aminobutyric acid </target> and acetylcholine in mouse brain .",
+        "D000109\tChemical\tacetylcholine\tintracerebroventricular injection of ethacrynic acid ( 50 % convulsive dose ; 50 micrograms/mouse ) accelerate the synthesis/turnover of 5-hydroxytryptamine ( 5-ht ) but suppress the synthesis of gamma-aminobutyric acid and <target> acetylcholine </target> in mouse brain .",
+        "D018698\tChemical\tglutamate\tthese effect be completely antagonize by pretreatment with a <target> glutamate </target> /n-methyl-d-aspartate antagonist , aminophosphonovaleric acid .",
+        "D016202\tChemical\tN-methyl-D-aspartate\tthese effect be completely antagonize by pretreatment with a glutamate/ <target> n-methyl-d-aspartate </target> antagonist , aminophosphonovaleric acid .",
+        "D004976\tChemical\tethacrynic acid\tin <target> ethacrynic acid </target> -induced convulsion , these neurotransmitter system may be differentially modulate , probably through activation of glutaminergic neuron in the brain .",
+        "D012640\tDisease\tconvulsions\tin ethacrynic acid-induced <target> convulsion </target> , these neurotransmitter system may be differentially modulate , probably through activation of glutaminergic neuron in the brain ."
+    ]
+}

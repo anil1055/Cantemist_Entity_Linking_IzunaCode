@@ -1,0 +1,167 @@
+{
+    "title": "Warfarin-induced leukocytoclastic vasculitis.",
+    "abst": "Skin reactions associated with oral coumarin-derived anticoagulants are an uncommon occurrence. Leukocytoclastic vasculitis (LV) is primarily a cutaneous small vessel vasculitis, though systemic involvement may be encountered. We report 4 patients with late-onset LV probably due to warfarin. All 4 patients presented with skin eruptions that developed after receiving warfarin for several years. The results of skin lesion biopsies were available in 3 patients, confirming LV Cutaneous lesions resolved in all patients after warfarin was discontinued. In 2 of the 4 patients, rechallenge with warfarin led to recurrence of the lesions. LV may be a late-onset adverse reaction associated with warfarin therapy.",
+    "title_plus_abst": "Warfarin-induced leukocytoclastic vasculitis. Skin reactions associated with oral coumarin-derived anticoagulants are an uncommon occurrence. Leukocytoclastic vasculitis (LV) is primarily a cutaneous small vessel vasculitis, though systemic involvement may be encountered. We report 4 patients with late-onset LV probably due to warfarin. All 4 patients presented with skin eruptions that developed after receiving warfarin for several years. The results of skin lesion biopsies were available in 3 patients, confirming LV Cutaneous lesions resolved in all patients after warfarin was discontinued. In 2 of the 4 patients, rechallenge with warfarin led to recurrence of the lesions. LV may be a late-onset adverse reaction associated with warfarin therapy.",
+    "pubmed_id": "16047871",
+    "entities": [
+        [
+            0,
+            8,
+            "Warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            17,
+            44,
+            "leukocytoclastic vasculitis",
+            "Disease",
+            "C535509"
+        ],
+        [
+            82,
+            90,
+            "coumarin",
+            "Chemical",
+            "C030123"
+        ],
+        [
+            142,
+            169,
+            "Leukocytoclastic vasculitis",
+            "Disease",
+            "C535509"
+        ],
+        [
+            171,
+            173,
+            "LV",
+            "Disease",
+            "C535509"
+        ],
+        [
+            190,
+            223,
+            "cutaneous small vessel vasculitis",
+            "Disease",
+            "C565222"
+        ],
+        [
+            310,
+            312,
+            "LV",
+            "Disease",
+            "C535509"
+        ],
+        [
+            329,
+            337,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            369,
+            383,
+            "skin eruptions",
+            "Disease",
+            "D012871"
+        ],
+        [
+            415,
+            423,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            458,
+            469,
+            "skin lesion",
+            "Disease",
+            "D012871"
+        ],
+        [
+            520,
+            540,
+            "LV Cutaneous lesions",
+            "Disease",
+            "D018366"
+        ],
+        [
+            572,
+            580,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            640,
+            648,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            683,
+            685,
+            "LV",
+            "Disease",
+            "C535509"
+        ],
+        [
+            739,
+            747,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ]
+    ],
+    "split_sentence": [
+        "Warfarin-induced leukocytoclastic vasculitis.",
+        "Skin reactions associated with oral coumarin-derived anticoagulants are an uncommon occurrence.",
+        "Leukocytoclastic vasculitis (LV) is primarily a cutaneous small vessel vasculitis, though systemic involvement may be encountered.",
+        "We report 4 patients with late-onset LV probably due to warfarin.",
+        "All 4 patients presented with skin eruptions that developed after receiving warfarin for several years.",
+        "The results of skin lesion biopsies were available in 3 patients, confirming LV Cutaneous lesions resolved in all patients after warfarin was discontinued.",
+        "In 2 of the 4 patients, rechallenge with warfarin led to recurrence of the lesions.",
+        "LV may be a late-onset adverse reaction associated with warfarin therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014859\tChemical\tWarfarin\t<target> Warfarin </target> -induced leukocytoclastic vasculitis .",
+        "C535509\tDisease\tleukocytoclastic vasculitis\tWarfarin-induced <target> leukocytoclastic vasculitis </target> .",
+        "C030123\tChemical\tcoumarin\tSkin reactions associated with oral <target> coumarin </target> -derived anticoagulants are an uncommon occurrence .",
+        "C535509\tDisease\tLeukocytoclastic vasculitis\t<target> Leukocytoclastic vasculitis </target> ( LV ) is primarily a cutaneous small vessel vasculitis , though systemic involvement may be encountered .",
+        "C535509\tDisease\tLV\tLeukocytoclastic vasculitis ( <target> LV </target> ) is primarily a cutaneous small vessel vasculitis , though systemic involvement may be encountered .",
+        "C565222\tDisease\tcutaneous small vessel vasculitis\tLeukocytoclastic vasculitis ( LV ) is primarily a <target> cutaneous small vessel vasculitis </target> , though systemic involvement may be encountered .",
+        "C535509\tDisease\tLV\tWe report 4 patients with late-onset <target> LV </target> probably due to warfarin .",
+        "D014859\tChemical\twarfarin\tWe report 4 patients with late-onset LV probably due to <target> warfarin </target> .",
+        "D012871\tDisease\tskin eruptions\tAll 4 patients presented with <target> skin eruptions </target> that developed after receiving warfarin for several years .",
+        "D014859\tChemical\twarfarin\tAll 4 patients presented with skin eruptions that developed after receiving <target> warfarin </target> for several years .",
+        "D012871\tDisease\tskin lesion\tThe results of <target> skin lesion </target> biopsies were available in 3 patients , confirming LV Cutaneous lesions resolved in all patients after warfarin was discontinued .",
+        "D018366\tDisease\tLV Cutaneous lesions\tThe results of skin lesion biopsies were available in 3 patients , confirming <target> LV Cutaneous lesions </target> resolved in all patients after warfarin was discontinued .",
+        "D014859\tChemical\twarfarin\tThe results of skin lesion biopsies were available in 3 patients , confirming LV Cutaneous lesions resolved in all patients after <target> warfarin </target> was discontinued .",
+        "D014859\tChemical\twarfarin\tIn 2 of the 4 patients , rechallenge with <target> warfarin </target> led to recurrence of the lesions .",
+        "C535509\tDisease\tLV\t<target> LV </target> may be a late-onset adverse reaction associated with warfarin therapy .",
+        "D014859\tChemical\twarfarin\tLV may be a late-onset adverse reaction associated with <target> warfarin </target> therapy ."
+    ],
+    "lines_lemma": [
+        "D014859\tChemical\tWarfarin\t<target> Warfarin </target> -induced leukocytoclastic vasculitis .",
+        "C535509\tDisease\tleukocytoclastic vasculitis\twarfarin-induced <target> leukocytoclastic vasculitis </target> .",
+        "C030123\tChemical\tcoumarin\tskin reaction associate with oral <target> coumarin </target> -derived anticoagulant be an uncommon occurrence .",
+        "C535509\tDisease\tLeukocytoclastic vasculitis\t<target> leukocytoclastic vasculitis </target> ( lv ) be primarily a cutaneous small vessel vasculitis , though systemic involvement may be encounter .",
+        "C535509\tDisease\tLV\tleukocytoclastic vasculitis ( <target> LV </target> ) be primarily a cutaneous small vessel vasculitis , though systemic involvement may be encounter .",
+        "C565222\tDisease\tcutaneous small vessel vasculitis\tleukocytoclastic vasculitis ( lv ) be primarily a <target> cutaneous small vessel vasculitis </target> , though systemic involvement may be encounter .",
+        "C535509\tDisease\tLV\twe report 4 patient with late-onset <target> LV </target> probably due to warfarin .",
+        "D014859\tChemical\twarfarin\twe report 4 patient with late-onset lv probably due to <target> warfarin </target> .",
+        "D012871\tDisease\tskin eruptions\tall 4 patient present with <target> skin eruption </target> that develop after receive warfarin for several year .",
+        "D014859\tChemical\twarfarin\tall 4 patient present with skin eruption that develop after receive <target> warfarin </target> for several year .",
+        "D012871\tDisease\tskin lesion\tthe result of <target> skin lesion </target> biopsy be available in 3 patient , confirm LV cutaneous lesion resolve in all patient after warfarin be discontinue .",
+        "D018366\tDisease\tLV Cutaneous lesions\tthe result of skin lesion biopsy be available in 3 patient , confirm <target> LV cutaneous lesion </target> resolve in all patient after warfarin be discontinue .",
+        "D014859\tChemical\twarfarin\tthe result of skin lesion biopsy be available in 3 patient , confirm LV cutaneous lesion resolve in all patient after <target> warfarin </target> be discontinue .",
+        "D014859\tChemical\twarfarin\tin 2 of the 4 patient , rechallenge with <target> warfarin </target> lead to recurrence of the lesion .",
+        "C535509\tDisease\tLV\t<target> LV </target> may be a late-onset adverse reaction associate with warfarin therapy .",
+        "D014859\tChemical\twarfarin\tLV may be a late-onset adverse reaction associate with <target> warfarin </target> therapy ."
+    ]
+}

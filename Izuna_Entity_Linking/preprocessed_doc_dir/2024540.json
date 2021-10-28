@@ -1,0 +1,176 @@
+{
+    "title": "Design and analysis of the HYPREN-trial: safety of enalapril and prazosin in the initial treatment phase of patients with congestive heart failure.",
+    "abst": "Since the introduction of angiotensin converting enzyme (ACE) inhibitors into the adjunctive treatment of patients with congestive heart failure, cases of severe hypotension, especially on the first day of treatment, have occasionally been reported. To assess the safety of the ACE inhibitor enalapril a multicenter, randomized, prazosin-controlled trial was designed that compared the incidence and severity of symptomatic hypotension on the first day of treatment. Trial medication was 2.5 mg enalapril or 0.5 prazosin. Subjects were 1210 inpatients with New York Heart Association (NYHA) functional class II and III. Patients who received enalapril experienced clinically and statistically significantly less symptomatic hypotension (5.2%) than the patients who received prazosin (12.9%). All patients recovered. It was concluded that treatment with enalapril was well tolerated and it is, therefore, unreasonable to restrict the initiation of treatment with enalapril to inpatients.",
+    "title_plus_abst": "Design and analysis of the HYPREN-trial: safety of enalapril and prazosin in the initial treatment phase of patients with congestive heart failure. Since the introduction of angiotensin converting enzyme (ACE) inhibitors into the adjunctive treatment of patients with congestive heart failure, cases of severe hypotension, especially on the first day of treatment, have occasionally been reported. To assess the safety of the ACE inhibitor enalapril a multicenter, randomized, prazosin-controlled trial was designed that compared the incidence and severity of symptomatic hypotension on the first day of treatment. Trial medication was 2.5 mg enalapril or 0.5 prazosin. Subjects were 1210 inpatients with New York Heart Association (NYHA) functional class II and III. Patients who received enalapril experienced clinically and statistically significantly less symptomatic hypotension (5.2%) than the patients who received prazosin (12.9%). All patients recovered. It was concluded that treatment with enalapril was well tolerated and it is, therefore, unreasonable to restrict the initiation of treatment with enalapril to inpatients.",
+    "pubmed_id": "2024540",
+    "entities": [
+        [
+            51,
+            60,
+            "enalapril",
+            "Chemical",
+            "D004656"
+        ],
+        [
+            65,
+            73,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            122,
+            146,
+            "congestive heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            174,
+            220,
+            "angiotensin converting enzyme (ACE) inhibitors",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            268,
+            292,
+            "congestive heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            310,
+            321,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            426,
+            439,
+            "ACE inhibitor",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            440,
+            449,
+            "enalapril",
+            "Chemical",
+            "D004656"
+        ],
+        [
+            477,
+            485,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            572,
+            583,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            643,
+            652,
+            "enalapril",
+            "Chemical",
+            "D004656"
+        ],
+        [
+            660,
+            668,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            790,
+            799,
+            "enalapril",
+            "Chemical",
+            "D004656"
+        ],
+        [
+            872,
+            883,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            922,
+            930,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            1001,
+            1010,
+            "enalapril",
+            "Chemical",
+            "D004656"
+        ],
+        [
+            1110,
+            1119,
+            "enalapril",
+            "Chemical",
+            "D004656"
+        ]
+    ],
+    "split_sentence": [
+        "Design and analysis of the HYPREN-trial: safety of enalapril and prazosin in the initial treatment phase of patients with congestive heart failure.",
+        "Since the introduction of angiotensin converting enzyme (ACE) inhibitors into the adjunctive treatment of patients with congestive heart failure, cases of severe hypotension, especially on the first day of treatment, have occasionally been reported.",
+        "To assess the safety of the ACE inhibitor enalapril a multicenter, randomized, prazosin-controlled trial was designed that compared the incidence and severity of symptomatic hypotension on the first day of treatment.",
+        "Trial medication was 2.5 mg enalapril or 0.5 prazosin.",
+        "Subjects were 1210 inpatients with New York Heart Association (NYHA) functional class II and III.",
+        "Patients who received enalapril experienced clinically and statistically significantly less symptomatic hypotension (5.2%) than the patients who received prazosin (12.9%).",
+        "All patients recovered.",
+        "It was concluded that treatment with enalapril was well tolerated and it is, therefore, unreasonable to restrict the initiation of treatment with enalapril to inpatients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004656\tChemical\tenalapril\tDesign and analysis of the HYPREN-trial : safety of <target> enalapril </target> and prazosin in the initial treatment phase of patients with congestive heart failure .",
+        "D011224\tChemical\tprazosin\tDesign and analysis of the HYPREN-trial : safety of enalapril and <target> prazosin </target> in the initial treatment phase of patients with congestive heart failure .",
+        "D006333\tDisease\tcongestive heart failure\tDesign and analysis of the HYPREN-trial : safety of enalapril and prazosin in the initial treatment phase of patients with <target> congestive heart failure </target> .",
+        "D000806\tChemical\tangiotensin converting enzyme (ACE) inhibitors\tSince the introduction of <target> angiotensin converting enzyme ( ACE ) inhibitors </target> into the adjunctive treatment of patients with congestive heart failure , cases of severe hypotension , especially on the first day of treatment , have occasionally been reported .",
+        "D006333\tDisease\tcongestive heart failure\tSince the introduction of angiotensin converting enzyme ( ACE ) inhibitors into the adjunctive treatment of patients with <target> congestive heart failure </target> , cases of severe hypotension , especially on the first day of treatment , have occasionally been reported .",
+        "D007022\tDisease\thypotension\tSince the introduction of angiotensin converting enzyme ( ACE ) inhibitors into the adjunctive treatment of patients with congestive heart failure , cases of severe <target> hypotension </target> , especially on the first day of treatment , have occasionally been reported .",
+        "D000806\tChemical\tACE inhibitor\tTo assess the safety of the <target> ACE inhibitor </target> enalapril a multicenter , randomized , prazosin-controlled trial was designed that compared the incidence and severity of symptomatic hypotension on the first day of treatment .",
+        "D004656\tChemical\tenalapril\tTo assess the safety of the ACE inhibitor <target> enalapril </target> a multicenter , randomized , prazosin-controlled trial was designed that compared the incidence and severity of symptomatic hypotension on the first day of treatment .",
+        "D011224\tChemical\tprazosin\tTo assess the safety of the ACE inhibitor enalapril a multicenter , randomized , <target> prazosin </target> -controlled trial was designed that compared the incidence and severity of symptomatic hypotension on the first day of treatment .",
+        "D007022\tDisease\thypotension\tTo assess the safety of the ACE inhibitor enalapril a multicenter , randomized , prazosin-controlled trial was designed that compared the incidence and severity of symptomatic <target> hypotension </target> on the first day of treatment .",
+        "D004656\tChemical\tenalapril\tTrial medication was 2.5 mg <target> enalapril </target> or 0.5 prazosin .",
+        "D011224\tChemical\tprazosin\tTrial medication was 2.5 mg enalapril or 0.5 <target> prazosin </target> .",
+        "D004656\tChemical\tenalapril\tPatients who received <target> enalapril </target> experienced clinically and statistically significantly less symptomatic hypotension ( 5.2 % ) than the patients who received prazosin ( 12.9 % ) .",
+        "D007022\tDisease\thypotension\tPatients who received enalapril experienced clinically and statistically significantly less symptomatic <target> hypotension </target> ( 5.2 % ) than the patients who received prazosin ( 12.9 % ) .",
+        "D011224\tChemical\tprazosin\tPatients who received enalapril experienced clinically and statistically significantly less symptomatic hypotension ( 5.2 % ) than the patients who received <target> prazosin </target> ( 12.9 % ) .",
+        "D004656\tChemical\tenalapril\tIt was concluded that treatment with <target> enalapril </target> was well tolerated and it is , therefore , unreasonable to restrict the initiation of treatment with enalapril to inpatients .",
+        "D004656\tChemical\tenalapril\tIt was concluded that treatment with enalapril was well tolerated and it is , therefore , unreasonable to restrict the initiation of treatment with <target> enalapril </target> to inpatients ."
+    ],
+    "lines_lemma": [
+        "D004656\tChemical\tenalapril\tdesign and analysis of the hypren-trial : safety of <target> enalapril </target> and prazosin in the initial treatment phase of patient with congestive heart failure .",
+        "D011224\tChemical\tprazosin\tdesign and analysis of the hypren-trial : safety of enalapril and <target> prazosin </target> in the initial treatment phase of patient with congestive heart failure .",
+        "D006333\tDisease\tcongestive heart failure\tdesign and analysis of the hypren-trial : safety of enalapril and prazosin in the initial treatment phase of patient with <target> congestive heart failure </target> .",
+        "D000806\tChemical\tangiotensin converting enzyme (ACE) inhibitors\tsince the introduction of <target> angiotensin converting enzyme ( ace ) inhibitor </target> into the adjunctive treatment of patient with congestive heart failure , case of severe hypotension , especially on the first day of treatment , have occasionally be report .",
+        "D006333\tDisease\tcongestive heart failure\tsince the introduction of angiotensin converting enzyme ( ace ) inhibitor into the adjunctive treatment of patient with <target> congestive heart failure </target> , case of severe hypotension , especially on the first day of treatment , have occasionally be report .",
+        "D007022\tDisease\thypotension\tsince the introduction of angiotensin converting enzyme ( ace ) inhibitor into the adjunctive treatment of patient with congestive heart failure , case of severe <target> hypotension </target> , especially on the first day of treatment , have occasionally be report .",
+        "D000806\tChemical\tACE inhibitor\tto assess the safety of the <target> ace inhibitor </target> enalapril a multicenter , randomize , prazosin-controlled trial be design that compare the incidence and severity of symptomatic hypotension on the first day of treatment .",
+        "D004656\tChemical\tenalapril\tto assess the safety of the ace inhibitor <target> enalapril </target> a multicenter , randomize , prazosin-controlled trial be design that compare the incidence and severity of symptomatic hypotension on the first day of treatment .",
+        "D011224\tChemical\tprazosin\tto assess the safety of the ace inhibitor enalapril a multicenter , randomize , <target> prazosin </target> -controlled trial be design that compare the incidence and severity of symptomatic hypotension on the first day of treatment .",
+        "D007022\tDisease\thypotension\tto assess the safety of the ace inhibitor enalapril a multicenter , randomize , prazosin-controlled trial be design that compare the incidence and severity of symptomatic <target> hypotension </target> on the first day of treatment .",
+        "D004656\tChemical\tenalapril\ttrial medication be 2.5 mg <target> enalapril </target> or 0.5 prazosin .",
+        "D011224\tChemical\tprazosin\ttrial medication be 2.5 mg enalapril or 0.5 <target> prazosin </target> .",
+        "D004656\tChemical\tenalapril\tpatient who receive <target> enalapril </target> experience clinically and statistically significantly less symptomatic hypotension ( 5.2 % ) than the patient who receive prazosin ( 12.9 % ) .",
+        "D007022\tDisease\thypotension\tpatient who receive enalapril experience clinically and statistically significantly less symptomatic <target> hypotension </target> ( 5.2 % ) than the patient who receive prazosin ( 12.9 % ) .",
+        "D011224\tChemical\tprazosin\tpatient who receive enalapril experience clinically and statistically significantly less symptomatic hypotension ( 5.2 % ) than the patient who receive <target> prazosin </target> ( 12.9 % ) .",
+        "D004656\tChemical\tenalapril\tit be conclude that treatment with <target> enalapril </target> be well tolerate and it be , therefore , unreasonable to restrict the initiation of treatment with enalapril to inpatient .",
+        "D004656\tChemical\tenalapril\tit be conclude that treatment with enalapril be well tolerate and it be , therefore , unreasonable to restrict the initiation of treatment with <target> enalapril </target> to inpatient ."
+    ]
+}

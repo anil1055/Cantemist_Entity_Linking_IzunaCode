@@ -1,0 +1,177 @@
+{
+    "entities": [
+        [
+            1308,
+            1315,
+            "adenoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/0"
+        ],
+        [
+            1138,
+            1148,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2359,
+            2375,
+            "tumor carcinoide",
+            "MORFOLOGIA_NEOPLASIA",
+            "8240/3"
+        ],
+        [
+            2378,
+            2386,
+            "tumorlet",
+            "MORFOLOGIA_NEOPLASIA",
+            "8040/1"
+        ],
+        [
+            3062,
+            3078,
+            "tumor carcinoide",
+            "MORFOLOGIA_NEOPLASIA",
+            "8240/3"
+        ],
+        [
+            3103,
+            3111,
+            "tumorlet",
+            "MORFOLOGIA_NEOPLASIA",
+            "8040/1"
+        ],
+        [
+            3140,
+            3160,
+            "tumor neuroendocrino",
+            "MORFOLOGIA_NEOPLASIA",
+            "8240/3"
+        ],
+        [
+            1414,
+            1450,
+            "neoplasia de páncreas con metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1615,
+            1625,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2907,
+            2922,
+            "lesión hepática",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            3725,
+            3740,
+            "lesión hepática",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1076,
+            1106,
+            "nódulos pulmonares bilaterales",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1162,
+            1177,
+            "nódulo hepático",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples nódulos pulmonares bilaterales subcentimétricos sugestivos de metástasis, así como un nódulo hepático de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con  <objetivo> adenoma </objetivo> no funcionante.",
+        "Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples nódulos pulmonares bilaterales subcentimétricos sugestivos de  <objetivo> metástasis </objetivo>  así como un nódulo hepático de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante.",
+        "Ante los hallazgos descritos, la primera opción diagnóstica que se plantea es una neoplasia de páncreas con  <objetivo> metástasis </objetivo> pulmonares múltiples y hepática única, por lo que se realiza punción de la lesión pancreática mediante ecoendoscopia, con resultado anatomopatológico negativo para malignidad.",
+        "La anatomía patológica de la pieza quirúrgica revela la existencia de un  <objetivo> tumor carcinoide </objetivo> y tumorlet asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.",
+        "Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de  <objetivo> tumor carcinoide </objetivo> pulmonar sincrónico con tumorlet pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).",
+        "La anatomía patológica de la pieza quirúrgica revela la existencia de un tumor carcinoide y  <objetivo> tumorlet </objetivo> asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.",
+        "Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de tumor carcinoide pulmonar sincrónico con  <objetivo> tumorlet </objetivo> pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).",
+        "La anatomía patológica de la pieza quirúrgica revela la existencia de un  <objetivo> tumor carcinoide </objetivo> y tumorlet asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.",
+        "Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de  <objetivo> tumor carcinoide </objetivo> pulmonar sincrónico con tumorlet pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).",
+        "La anatomía patológica de la pieza quirúrgica revela la existencia de un tumor carcinoide y  <objetivo> tumorlet </objetivo> asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.",
+        "Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de tumor carcinoide pulmonar sincrónico con  <objetivo> tumorlet </objetivo> pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).",
+        "Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de tumor carcinoide pulmonar sincrónico con tumorlet pulmonar (así como probable  <objetivo> tumor neuroendocrino </objetivo> pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).",
+        "Ante los hallazgos descritos, la primera opción diagnóstica que se plantea es una  <objetivo> neoplasia de páncreas con metástasis </objetivo> pulmonares múltiples y hepática única, por lo que se realiza punción de la lesión pancreática mediante ecoendoscopia, con resultado anatomopatológico negativo para malignidad.",
+        "Ante los hallazgos descritos, la primera opción diagnóstica que se plantea es una neoplasia de páncreas con metástasis pulmonares múltiples y hepática única, por lo que se realiza punción de la lesión pancreática mediante ecoendoscopia, con resultado anatomopatológico negativo para  <objetivo> malignidad </objetivo> ",
+        "Además, se amplía el estudio de imagen con una gammagrafía con octreótido, que muestra captación de la lesión pancreática descrita en la TC con expresión de receptores de somatostatina, sin captación de las lesiones pulmonares ni de la  <objetivo> lesión hepática </objetivo> ",
+        "Durante el seguimiento, se evidencia en gammagrafía con octreótido estabilidad de la lesión pancreática, que se mantiene hasta la actualidad sin cambios, así como de los nódulos pulmonares subcentimétricos y la  <objetivo> lesión hepática </objetivo> ",
+        "Además, se amplía el estudio de imagen con una gammagrafía con octreótido, que muestra captación de la lesión pancreática descrita en la TC con expresión de receptores de somatostatina, sin captación de las lesiones pulmonares ni de la  <objetivo> lesión hepática </objetivo> ",
+        "Durante el seguimiento, se evidencia en gammagrafía con octreótido estabilidad de la lesión pancreática, que se mantiene hasta la actualidad sin cambios, así como de los nódulos pulmonares subcentimétricos y la  <objetivo> lesión hepática </objetivo> ",
+        "Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples  <objetivo> nódulos pulmonares bilaterales </objetivo> subcentimétricos sugestivos de metástasis, así como un nódulo hepático de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante.",
+        "Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples nódulos pulmonares bilaterales subcentimétricos sugestivos de metástasis, así como un  <objetivo> nódulo hepático </objetivo> de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante."
+    ],
+    "lines_lemma": [
+        "él solicitar uno tomografía computarizado de tórax y abdomen ( TC ) , evidenciar múltiple nódulo pulmonar bilateral subcentimétrico sugestivo de metástasis , así como uno nódulo hepático de 5 mm en el segmento VII , uno lesión de 1.4 cm en el cuerpo del páncrea y uno nódulo suprarrenal derecho de 3 cm compatible con   <objetivo> adenomar </objetivo> no funcionante .",
+        "él solicitar uno tomografía computarizado de tórax y abdomen ( TC ) , evidenciar múltiple nódulo pulmonar bilateral subcentimétrico sugestivo de   <objetivo> metástasi </objetivo>   así como uno nódulo hepático de 5 mm en el segmento VII , uno lesión de 1.4 cm en el cuerpo del páncrea y uno nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante .",
+        "ante el hallazgo descrito , el primero opción diagnóstico que él plantear ser uno neoplasia de páncrea con   <objetivo> metástasi </objetivo> pulmonar múltiple y hepático único , por él que él realizar punción de el lesión pancreático mediante ecoendoscopia , con resultado anatomopatológico negativo para malignidad .",
+        "el anatomía patológico de el pieza quirúrgico revelar el existencia de uno   <objetivo> tumor carcinoidir </objetivo> y tumorlet asociado a uno hiperplasia neuroendocrín difús , con Ki 67 < 2 % y TTF1 positivo , confirmar él el origen pulmonar .",
+        "dar el hallazgo evidenciado en el exploración complementario detal él anteriormente , el juicio diagnóstico ser el de   <objetivo> tumor carcinoidir </objetivo> pulmonar sincrónico con tumorlet pulmonar ( así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológico ) .",
+        "el anatomía patológico de el pieza quirúrgico revelar el existencia de uno tumor carcinoide y   <objetivo> tumorlet </objetivo> asociado a uno hiperplasia neuroendocrín difús , con Ki 67 < 2 % y TTF1 positivo , confirmar él el origen pulmonar .",
+        "dar el hallazgo evidenciado en el exploración complementario detal él anteriormente , el juicio diagnóstico ser el de tumor carcinoide pulmonar sincrónico con   <objetivo> tumorlet </objetivo> pulmonar ( así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológico ) .",
+        "el anatomía patológico de el pieza quirúrgico revelar el existencia de uno   <objetivo> tumor carcinoidir </objetivo> y tumorlet asociado a uno hiperplasia neuroendocrín difús , con Ki 67 < 2 % y TTF1 positivo , confirmar él el origen pulmonar .",
+        "dar el hallazgo evidenciado en el exploración complementario detal él anteriormente , el juicio diagnóstico ser el de   <objetivo> tumor carcinoidir </objetivo> pulmonar sincrónico con tumorlet pulmonar ( así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológico ) .",
+        "el anatomía patológico de el pieza quirúrgico revelar el existencia de uno tumor carcinoide y   <objetivo> tumorlet </objetivo> asociado a uno hiperplasia neuroendocrín difús , con Ki 67 < 2 % y TTF1 positivo , confirmar él el origen pulmonar .",
+        "dar el hallazgo evidenciado en el exploración complementario detal él anteriormente , el juicio diagnóstico ser el de tumor carcinoide pulmonar sincrónico con   <objetivo> tumorlet </objetivo> pulmonar ( así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológico ) .",
+        "dar el hallazgo evidenciado en el exploración complementario detal él anteriormente , el juicio diagnóstico ser el de tumor carcinoide pulmonar sincrónico con tumorlet pulmonar ( así como probable   <objetivo> tumor neuroendocrino </objetivo> pancreático por captación en gammagrafía con octreótido pero sin confirmación histológico ) .",
+        "ante el hallazgo descrito , el primero opción diagnóstico que él plantear ser uno   <objetivo> neoplasio de páncrea con metástasis </objetivo> pulmonar múltiple y hepático único , por él que él realizar punción de el lesión pancreático mediante ecoendoscopia , con resultado anatomopatológico negativo para malignidad .",
+        "ante el hallazgo descrito , el primero opción diagnóstico que él plantear ser uno neoplasia de páncrea con metástasis pulmonar múltiple y hepático único , por él que él realizar punción de el lesión pancreático mediante ecoendoscopia , con resultado anatomopatológico negativo para   <objetivo> malignidad </objetivo>",
+        "además , él amplíar el estudio de imagen con uno gammagrafía con octreótido , que mostrar captación de el lesión pancreático descrito en el TC con expresión de receptor de somatostatina , sin captación de el lesión pulmonar ni de el   <objetivo> lesión hepático </objetivo>",
+        "durante el seguimiento , él evidenciar en gammagrafía con octreótido estabilidad de el lesión pancreático , que él mantener hasta el actualidad sin cambio , así como de el nódulo pulmonar subcentimétrico y el   <objetivo> lesión hepático </objetivo>",
+        "además , él amplíar el estudio de imagen con uno gammagrafía con octreótido , que mostrar captación de el lesión pancreático descrito en el TC con expresión de receptor de somatostatina , sin captación de el lesión pulmonar ni de el   <objetivo> lesión hepático </objetivo>",
+        "durante el seguimiento , él evidenciar en gammagrafía con octreótido estabilidad de el lesión pancreático , que él mantener hasta el actualidad sin cambio , así como de el nódulo pulmonar subcentimétrico y el   <objetivo> lesión hepático </objetivo>",
+        "él solicitar uno tomografía computarizado de tórax y abdomen ( TC ) , evidenciar múltiple   <objetivo> nódulo pulmonar bilateral </objetivo> subcentimétrico sugestivo de metástasis , así como uno nódulo hepático de 5 mm en el segmento VII , uno lesión de 1.4 cm en el cuerpo del páncrea y uno nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante .",
+        "él solicitar uno tomografía computarizado de tórax y abdomen ( TC ) , evidenciar múltiple nódulo pulmonar bilateral subcentimétrico sugestivo de metástasis , así como uno   <objetivo> nódulo hepático </objetivo> de 5 mm en el segmento VII , uno lesión de 1.4 cm en el cuerpo del páncrea y uno nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante ."
+    ],
+    "pubmed_id": "onco736",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 56 años, sin alergias medicamentosas conocidas ni hábitos tóxicos.",
+        "Como antecedentes personales, es diabética insulinodependiente y dislipémica con tratamiento médico.",
+        "Presenta síndrome de apnea-hipopnea del sueño, en tratamiento con ventilación mecánica no invasiva nocturna.",
+        "Fue colecistectomizada en 2008.",
+        "No presenta antecedentes familiares oncológicos de interés.",
+        "A inicios de 2011, comienza con clínica de tos y expectoración compatible con infección respiratoria.",
+        "Ante la persistencia de la clínica a pesar de tratamiento antibiótico, se inicia en junio de 2011 estudio diagnóstico.",
+        "Exploración física",
+        "ECOG 1.",
+        "Karnofsky 80 %.",
+        "Buen estado general, eupneica en reposo.",
+        "Durante la auscultación cardiopulmonar, presenta murmullo vesicular conservado, sin ruidos patológicos sobreañadidos.",
+        "El resto de la exploración se encuentra asimismo dentro de la normalidad.",
+        "Pruebas complementarias",
+        "Analíticamente, destaca una anemia microcítica con hemoglobina de 9,8 g/dl.",
+        "Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples nódulos pulmonares bilaterales subcentimétricos sugestivos de metástasis, así como un nódulo hepático de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante.",
+        "Ante los hallazgos descritos, la primera opción diagnóstica que se plantea es una neoplasia de páncreas con metástasis pulmonares múltiples y hepática única, por lo que se realiza punción de la lesión pancreática mediante ecoendoscopia, con resultado anatomopatológico negativo para malignidad.",
+        "Dado que, tanto las lesiones pulmonares como la hepática única eran de pequeño tamaño, y por tanto, difíciles de biopsiar, se procede nuevamente a realizar una ecoendoscopia para intentar tomar una muestra pancreática.",
+        "Sin embargo, la paciente presenta parada cardiorrespiratoria durante la realización de la ecoendoscopia previamente a la toma de biopsia, por lo que se ha de interrumpir el proceso diagnóstico.",
+        "Posteriormente, se plantea entonces biopsiar uno de los nódulos pulmonares.",
+        "Al ser éstos subcentimétricos, el abordaje para la punción ha de ser mediante videotoracoscopia, realizando resección en cuña del lóbulo medio y lóbulo superior derecho.",
+        "La anatomía patológica de la pieza quirúrgica revela la existencia de un tumor carcinoide y tumorlet asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.",
+        "Se completa el estudio con unas catecolaminas en orina, con elevación de noradrenalina; así como marcadores tumorales, con elevación de polipéptido pancreático basal.",
+        "Además, se amplía el estudio de imagen con una gammagrafía con octreótido, que muestra captación de la lesión pancreática descrita en la TC con expresión de receptores de somatostatina, sin captación de las lesiones pulmonares ni de la lesión hepática.",
+        "Diagnóstico",
+        "Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de tumor carcinoide pulmonar sincrónico con tumorlet pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).",
+        "Tratamiento",
+        "Se desestima la enucleación por el riesgo quirúrgico de la paciente.",
+        "Se decide iniciar tratamiento sistémico en diciembre de 2011 con análogos de la somatostatina (lanreótido mensual a dosis de 120 mg), que mantiene hasta la actualidad.",
+        "Evolución",
+        "Durante el seguimiento, se evidencia en gammagrafía con octreótido estabilidad de la lesión pancreática, que se mantiene hasta la actualidad sin cambios, así como de los nódulos pulmonares subcentimétricos y la lesión hepática.",
+        "Debemos destacar el diagnóstico incidental de tromboembolismo de pulmón en pruebas de imagen en septiembre de 2013, por lo que recibió tratamiento anticoagulante con heparina de bajo peso molecular durante 6 meses."
+    ],
+    "text": "Anamnesis\nMujer de 56 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Como antecedentes personales, es diabética insulinodependiente y dislipémica con tratamiento médico. Presenta síndrome de apnea-hipopnea del sueño, en tratamiento con ventilación mecánica no invasiva nocturna. Fue colecistectomizada en 2008.\nNo presenta antecedentes familiares oncológicos de interés.\nA inicios de 2011, comienza con clínica de tos y expectoración compatible con infección respiratoria. Ante la persistencia de la clínica a pesar de tratamiento antibiótico, se inicia en junio de 2011 estudio diagnóstico.\n\nExploración física\nECOG 1. Karnofsky 80 %. Buen estado general, eupneica en reposo. Durante la auscultación cardiopulmonar, presenta murmullo vesicular conservado, sin ruidos patológicos sobreañadidos. El resto de la exploración se encuentra asimismo dentro de la normalidad.\n\nPruebas complementarias\nAnalíticamente, destaca una anemia microcítica con hemoglobina de 9,8 g/dl. Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples nódulos pulmonares bilaterales subcentimétricos sugestivos de metástasis, así como un nódulo hepático de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante. Ante los hallazgos descritos, la primera opción diagnóstica que se plantea es una neoplasia de páncreas con metástasis pulmonares múltiples y hepática única, por lo que se realiza punción de la lesión pancreática mediante ecoendoscopia, con resultado anatomopatológico negativo para malignidad.\nDado que, tanto las lesiones pulmonares como la hepática única eran de pequeño tamaño, y por tanto, difíciles de biopsiar, se procede nuevamente a realizar una ecoendoscopia para intentar tomar una muestra pancreática. Sin embargo, la paciente presenta parada cardiorrespiratoria durante la realización de la ecoendoscopia previamente a la toma de biopsia, por lo que se ha de interrumpir el proceso diagnóstico.\nPosteriormente, se plantea entonces biopsiar uno de los nódulos pulmonares. Al ser éstos subcentimétricos, el abordaje para la punción ha de ser mediante videotoracoscopia, realizando resección en cuña del lóbulo medio y lóbulo superior derecho. La anatomía patológica de la pieza quirúrgica revela la existencia de un tumor carcinoide y tumorlet asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.\nSe completa el estudio con unas catecolaminas en orina, con elevación de noradrenalina; así como marcadores tumorales, con elevación de polipéptido pancreático basal. Además, se amplía el estudio de imagen con una gammagrafía con octreótido, que muestra captación de la lesión pancreática descrita en la TC con expresión de receptores de somatostatina, sin captación de las lesiones pulmonares ni de la lesión hepática.\n\nDiagnóstico\nDados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de tumor carcinoide pulmonar sincrónico con tumorlet pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).\n\nTratamiento\nSe desestima la enucleación por el riesgo quirúrgico de la paciente. Se decide iniciar tratamiento sistémico en diciembre de 2011 con análogos de la somatostatina (lanreótido mensual a dosis de 120 mg), que mantiene hasta la actualidad.\n\nEvolución\nDurante el seguimiento, se evidencia en gammagrafía con octreótido estabilidad de la lesión pancreática, que se mantiene hasta la actualidad sin cambios, así como de los nódulos pulmonares subcentimétricos y la lesión hepática.\nDebemos destacar el diagnóstico incidental de tromboembolismo de pulmón en pruebas de imagen en septiembre de 2013, por lo que recibió tratamiento anticoagulante con heparina de bajo peso molecular durante 6 meses."
+}

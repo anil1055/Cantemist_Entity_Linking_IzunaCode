@@ -1,0 +1,167 @@
+{
+    "title": "Angioedema following the intravenous administration of metoprolol.",
+    "abst": "A 72-year-old woman was admitted to the hospital with \"flash\" pulmonary edema, preceded by chest pain, requiring intubation. Her medical history included coronary artery disease with previous myocardial infarctions, hypertension, and diabetes mellitus. A history of angioedema secondary to lisinopril therapy was elicited. Current medications did not include angiotensin-converting enzyme inhibitors or beta-blockers. She had no previous beta-blocking drug exposure. During the first day of hospitalization (while intubated), intravenous metoprolol was given, resulting in severe angioedema. The angioedema resolved after therapy with intravenous steroids and diphenhydramine hydrochloride.",
+    "title_plus_abst": "Angioedema following the intravenous administration of metoprolol. A 72-year-old woman was admitted to the hospital with \"flash\" pulmonary edema, preceded by chest pain, requiring intubation. Her medical history included coronary artery disease with previous myocardial infarctions, hypertension, and diabetes mellitus. A history of angioedema secondary to lisinopril therapy was elicited. Current medications did not include angiotensin-converting enzyme inhibitors or beta-blockers. She had no previous beta-blocking drug exposure. During the first day of hospitalization (while intubated), intravenous metoprolol was given, resulting in severe angioedema. The angioedema resolved after therapy with intravenous steroids and diphenhydramine hydrochloride.",
+    "pubmed_id": "7988234",
+    "entities": [
+        [
+            0,
+            10,
+            "Angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            55,
+            65,
+            "metoprolol",
+            "Chemical",
+            "D008790"
+        ],
+        [
+            129,
+            144,
+            "pulmonary edema",
+            "Disease",
+            "D011654"
+        ],
+        [
+            158,
+            168,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            221,
+            244,
+            "coronary artery disease",
+            "Disease",
+            "D003324"
+        ],
+        [
+            259,
+            281,
+            "myocardial infarctions",
+            "Disease",
+            "D009203"
+        ],
+        [
+            283,
+            295,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            301,
+            318,
+            "diabetes mellitus",
+            "Disease",
+            "D003920"
+        ],
+        [
+            333,
+            343,
+            "angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            357,
+            367,
+            "lisinopril",
+            "Chemical",
+            "D017706"
+        ],
+        [
+            426,
+            437,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            605,
+            615,
+            "metoprolol",
+            "Chemical",
+            "D008790"
+        ],
+        [
+            647,
+            657,
+            "angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            663,
+            673,
+            "angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            714,
+            722,
+            "steroids",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            727,
+            742,
+            "diphenhydramine",
+            "Chemical",
+            "D004155"
+        ]
+    ],
+    "split_sentence": [
+        "Angioedema following the intravenous administration of metoprolol.",
+        "A 72-year-old woman was admitted to the hospital with \"flash\" pulmonary edema, preceded by chest pain, requiring intubation.",
+        "Her medical history included coronary artery disease with previous myocardial infarctions, hypertension, and diabetes mellitus.",
+        "A history of angioedema secondary to lisinopril therapy was elicited.",
+        "Current medications did not include angiotensin-converting enzyme inhibitors or beta-blockers.",
+        "She had no previous beta-blocking drug exposure.",
+        "During the first day of hospitalization (while intubated), intravenous metoprolol was given, resulting in severe angioedema.",
+        "The angioedema resolved after therapy with intravenous steroids and diphenhydramine hydrochloride."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000799\tDisease\tAngioedema\t<target> Angioedema </target> following the intravenous administration of metoprolol .",
+        "D008790\tChemical\tmetoprolol\tAngioedema following the intravenous administration of <target> metoprolol </target> .",
+        "D011654\tDisease\tpulmonary edema\tA 72-year-old woman was admitted to the hospital with \" flash \" <target> pulmonary edema </target> , preceded by chest pain , requiring intubation .",
+        "D002637\tDisease\tchest pain\tA 72-year-old woman was admitted to the hospital with \" flash \" pulmonary edema , preceded by <target> chest pain </target> , requiring intubation .",
+        "D003324\tDisease\tcoronary artery disease\tHer medical history included <target> coronary artery disease </target> with previous myocardial infarctions , hypertension , and diabetes mellitus .",
+        "D009203\tDisease\tmyocardial infarctions\tHer medical history included coronary artery disease with previous <target> myocardial infarctions </target> , hypertension , and diabetes mellitus .",
+        "D006973\tDisease\thypertension\tHer medical history included coronary artery disease with previous myocardial infarctions , <target> hypertension </target> , and diabetes mellitus .",
+        "D003920\tDisease\tdiabetes mellitus\tHer medical history included coronary artery disease with previous myocardial infarctions , hypertension , and <target> diabetes mellitus </target> .",
+        "D000799\tDisease\tangioedema\tA history of <target> angioedema </target> secondary to lisinopril therapy was elicited .",
+        "D017706\tChemical\tlisinopril\tA history of angioedema secondary to <target> lisinopril </target> therapy was elicited .",
+        "D000809\tChemical\tangiotensin\tCurrent medications did not include <target> angiotensin </target> -converting enzyme inhibitors or beta-blockers .",
+        "D008790\tChemical\tmetoprolol\tDuring the first day of hospitalization ( while intubated ) , intravenous <target> metoprolol </target> was given , resulting in severe angioedema .",
+        "D000799\tDisease\tangioedema\tDuring the first day of hospitalization ( while intubated ) , intravenous metoprolol was given , resulting in severe <target> angioedema </target> .",
+        "D000799\tDisease\tangioedema\tThe <target> angioedema </target> resolved after therapy with intravenous steroids and diphenhydramine hydrochloride .",
+        "D013256\tChemical\tsteroids\tThe angioedema resolved after therapy with intravenous <target> steroids </target> and diphenhydramine hydrochloride .",
+        "D004155\tChemical\tdiphenhydramine\tThe angioedema resolved after therapy with intravenous steroids and <target> diphenhydramine </target> hydrochloride ."
+    ],
+    "lines_lemma": [
+        "D000799\tDisease\tAngioedema\t<target> angioedema </target> follow the intravenous administration of metoprolol .",
+        "D008790\tChemical\tmetoprolol\tAngioedema follow the intravenous administration of <target> metoprolol </target> .",
+        "D011654\tDisease\tpulmonary edema\ta 72-year-old woman be admit to the hospital with \" flash \" <target> pulmonary edema </target> , precede by chest pain , require intubation .",
+        "D002637\tDisease\tchest pain\ta 72-year-old woman be admit to the hospital with \" flash \" pulmonary edema , precede by <target> chest pain </target> , require intubation .",
+        "D003324\tDisease\tcoronary artery disease\ther medical history include <target> coronary artery disease </target> with previous myocardial infarction , hypertension , and diabete mellitus .",
+        "D009203\tDisease\tmyocardial infarctions\ther medical history include coronary artery disease with previous <target> myocardial infarction </target> , hypertension , and diabete mellitus .",
+        "D006973\tDisease\thypertension\ther medical history include coronary artery disease with previous myocardial infarction , <target> hypertension </target> , and diabete mellitus .",
+        "D003920\tDisease\tdiabetes mellitus\ther medical history include coronary artery disease with previous myocardial infarction , hypertension , and <target> diabete mellitus </target> .",
+        "D000799\tDisease\tangioedema\ta history of <target> angioedema </target> secondary to lisinopril therapy be elicit .",
+        "D017706\tChemical\tlisinopril\ta history of angioedema secondary to <target> lisinopril </target> therapy be elicit .",
+        "D000809\tChemical\tangiotensin\tcurrent medication do not include <target> angiotensin </target> -converting enzyme inhibitor or beta-blocker .",
+        "D008790\tChemical\tmetoprolol\tduring the first day of hospitalization ( while intubate ) , intravenous <target> metoprolol </target> be give , result in severe angioedema .",
+        "D000799\tDisease\tangioedema\tduring the first day of hospitalization ( while intubate ) , intravenous metoprolol be give , result in severe <target> angioedema </target> .",
+        "D000799\tDisease\tangioedema\tthe <target> angioedema </target> resolve after therapy with intravenous steroid and diphenhydramine hydrochloride .",
+        "D013256\tChemical\tsteroids\tthe angioedema resolve after therapy with intravenous <target> steroid </target> and diphenhydramine hydrochloride .",
+        "D004155\tChemical\tdiphenhydramine\tthe angioedema resolve after therapy with intravenous steroid and <target> diphenhydramine </target> hydrochloride ."
+    ]
+}

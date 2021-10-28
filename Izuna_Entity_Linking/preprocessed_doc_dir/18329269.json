@@ -1,0 +1,81 @@
+{
+    "title": "Synthesis of N-pyrimidinyl-2-phenoxyacetamides as adenosine A2A receptor antagonists.",
+    "abst": "A series of N-pyrimidinyl-2-phenoxyacetamide adenosine A(2A) antagonists is described. SAR studies led to compound 14 with excellent potency (K(i) = 0.4 nM), selectivity (A(1)/A(2A) > 100), and efficacy (MED 10 mg/kg p.o.) in the rat haloperidol-induced catalepsy model for Parkinson's disease.",
+    "title_plus_abst": "Synthesis of N-pyrimidinyl-2-phenoxyacetamides as adenosine A2A receptor antagonists. A series of N-pyrimidinyl-2-phenoxyacetamide adenosine A(2A) antagonists is described. SAR studies led to compound 14 with excellent potency (K(i) = 0.4 nM), selectivity (A(1)/A(2A) > 100), and efficacy (MED 10 mg/kg p.o.) in the rat haloperidol-induced catalepsy model for Parkinson's disease.",
+    "pubmed_id": "18329269",
+    "entities": [
+        [
+            13,
+            46,
+            "N-pyrimidinyl-2-phenoxyacetamides",
+            "Chemical",
+            "D010642"
+        ],
+        [
+            50,
+            59,
+            "adenosine",
+            "Chemical",
+            "D000241"
+        ],
+        [
+            98,
+            130,
+            "N-pyrimidinyl-2-phenoxyacetamide",
+            "Chemical",
+            "D010642"
+        ],
+        [
+            131,
+            140,
+            "adenosine",
+            "Chemical",
+            "D000241"
+        ],
+        [
+            320,
+            331,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            340,
+            349,
+            "catalepsy",
+            "Disease",
+            "D002375"
+        ],
+        [
+            360,
+            379,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ]
+    ],
+    "split_sentence": [
+        "Synthesis of N-pyrimidinyl-2-phenoxyacetamides as adenosine A2A receptor antagonists.",
+        "A series of N-pyrimidinyl-2-phenoxyacetamide adenosine A(2A) antagonists is described.",
+        "SAR studies led to compound 14 with excellent potency (K(i) = 0.4 nM), selectivity (A(1)/A(2A) > 100), and efficacy (MED 10 mg/kg p.o.) in the rat haloperidol-induced catalepsy model for Parkinson's disease."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010642\tChemical\tN-pyrimidinyl-2-phenoxyacetamides\tSynthesis of <target> N-pyrimidinyl-2-phenoxyacetamides </target> as adenosine A2A receptor antagonists .",
+        "D000241\tChemical\tadenosine\tSynthesis of N-pyrimidinyl-2-phenoxyacetamides as <target> adenosine </target> A2A receptor antagonists .",
+        "D010642\tChemical\tN-pyrimidinyl-2-phenoxyacetamide\tA series of <target> N-pyrimidinyl-2-phenoxyacetamide </target> adenosine A(2A ) antagonists is described .",
+        "D000241\tChemical\tadenosine\tA series of N-pyrimidinyl-2-phenoxyacetamide <target> adenosine </target> A(2A ) antagonists is described .",
+        "D006220\tChemical\thaloperidol\tSAR studies led to compound 14 with excellent potency ( K(i ) = 0.4 nM ) , selectivity ( A(1)/A(2A ) > 100 ) , and efficacy ( MED 10 mg/kg p.o . ) in the rat <target> haloperidol </target> -induced catalepsy model for Parkinson 's disease .",
+        "D002375\tDisease\tcatalepsy\tSAR studies led to compound 14 with excellent potency ( K(i ) = 0.4 nM ) , selectivity ( A(1)/A(2A ) > 100 ) , and efficacy ( MED 10 mg/kg p.o . ) in the rat haloperidol-induced <target> catalepsy </target> model for Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tSAR studies led to compound 14 with excellent potency ( K(i ) = 0.4 nM ) , selectivity ( A(1)/A(2A ) > 100 ) , and efficacy ( MED 10 mg/kg p.o . ) in the rat haloperidol-induced catalepsy model for <target> Parkinson 's disease </target> ."
+    ],
+    "lines_lemma": [
+        "D010642\tChemical\tN-pyrimidinyl-2-phenoxyacetamides\tsynthesis of <target> n-pyrimidinyl-2-phenoxyacetamides </target> as adenosine a2a receptor antagonist .",
+        "D000241\tChemical\tadenosine\tsynthesis of n-pyrimidinyl-2-phenoxyacetamides as <target> adenosine </target> a2a receptor antagonist .",
+        "D010642\tChemical\tN-pyrimidinyl-2-phenoxyacetamide\ta series of <target> N-pyrimidinyl-2-phenoxyacetamide </target> adenosine a(2a ) antagonist be describe .",
+        "D000241\tChemical\tadenosine\ta series of N-pyrimidinyl-2-phenoxyacetamide <target> adenosine </target> a(2a ) antagonist be describe .",
+        "D006220\tChemical\thaloperidol\tsar study lead to compound 14 with excellent potency ( k(i ) = 0.4 nm ) , selectivity ( a(1)/a(2a ) > 100 ) , and efficacy ( med 10 mg/kg p.o . ) in the rat <target> haloperidol </target> -induced catalepsy model for Parkinson 's disease .",
+        "D002375\tDisease\tcatalepsy\tsar study lead to compound 14 with excellent potency ( k(i ) = 0.4 nm ) , selectivity ( a(1)/a(2a ) > 100 ) , and efficacy ( med 10 mg/kg p.o . ) in the rat haloperidol-induced <target> catalepsy </target> model for Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tsar study lead to compound 14 with excellent potency ( k(i ) = 0.4 nm ) , selectivity ( a(1)/a(2a ) > 100 ) , and efficacy ( med 10 mg/kg p.o . ) in the rat haloperidol-induced catalepsy model for <target> Parkinson 's disease </target> ."
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "title": "Prolonged cholestasis after troleandomycin-induced acute hepatitis.",
+    "abst": "We report the case of a patient in whom troleandomycin-induced hepatitis was followed by prolonged anicteric cholestasis. Jaundice occurred after administration of troleandomycin for 7 days and was associated with hypereosinophilia. Jaundice disappeared within 3 months but was followed by prolonged anicteric cholestasis marked by pruritus and high levels of alkaline phosphatase and gammaglutamyltransferase activities. Finally, pruritus disappeared within 19 months, and liver tests returned to normal 27 months after the onset of hepatitis. This observation demonstrates that prolonged cholestasis can follow troleandomycin-induced acute hepatitis.",
+    "title_plus_abst": "Prolonged cholestasis after troleandomycin-induced acute hepatitis. We report the case of a patient in whom troleandomycin-induced hepatitis was followed by prolonged anicteric cholestasis. Jaundice occurred after administration of troleandomycin for 7 days and was associated with hypereosinophilia. Jaundice disappeared within 3 months but was followed by prolonged anicteric cholestasis marked by pruritus and high levels of alkaline phosphatase and gammaglutamyltransferase activities. Finally, pruritus disappeared within 19 months, and liver tests returned to normal 27 months after the onset of hepatitis. This observation demonstrates that prolonged cholestasis can follow troleandomycin-induced acute hepatitis.",
+    "pubmed_id": "3496378",
+    "entities": [
+        [
+            10,
+            21,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            28,
+            42,
+            "troleandomycin",
+            "Chemical",
+            "D014217"
+        ],
+        [
+            57,
+            66,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            108,
+            122,
+            "troleandomycin",
+            "Chemical",
+            "D014217"
+        ],
+        [
+            131,
+            140,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            177,
+            188,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            190,
+            198,
+            "Jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            232,
+            246,
+            "troleandomycin",
+            "Chemical",
+            "D014217"
+        ],
+        [
+            282,
+            299,
+            "hypereosinophilia",
+            "Disease",
+            "D004802"
+        ],
+        [
+            301,
+            309,
+            "Jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            378,
+            389,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            400,
+            408,
+            "pruritus",
+            "Disease",
+            "D011537"
+        ],
+        [
+            499,
+            507,
+            "pruritus",
+            "Disease",
+            "D011537"
+        ],
+        [
+            602,
+            611,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            658,
+            669,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            681,
+            695,
+            "troleandomycin",
+            "Chemical",
+            "D014217"
+        ],
+        [
+            710,
+            719,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Prolonged cholestasis after troleandomycin-induced acute hepatitis.",
+        "We report the case of a patient in whom troleandomycin-induced hepatitis was followed by prolonged anicteric cholestasis.",
+        "Jaundice occurred after administration of troleandomycin for 7 days and was associated with hypereosinophilia.",
+        "Jaundice disappeared within 3 months but was followed by prolonged anicteric cholestasis marked by pruritus and high levels of alkaline phosphatase and gammaglutamyltransferase activities.",
+        "Finally, pruritus disappeared within 19 months, and liver tests returned to normal 27 months after the onset of hepatitis.",
+        "This observation demonstrates that prolonged cholestasis can follow troleandomycin-induced acute hepatitis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002779\tDisease\tcholestasis\tProlonged <target> cholestasis </target> after troleandomycin-induced acute hepatitis .",
+        "D014217\tChemical\ttroleandomycin\tProlonged cholestasis after <target> troleandomycin </target> -induced acute hepatitis .",
+        "D056486\tDisease\thepatitis\tProlonged cholestasis after troleandomycin-induced acute <target> hepatitis </target> .",
+        "D014217\tChemical\ttroleandomycin\tWe report the case of a patient in whom <target> troleandomycin </target> -induced hepatitis was followed by prolonged anicteric cholestasis .",
+        "D056486\tDisease\thepatitis\tWe report the case of a patient in whom troleandomycin-induced <target> hepatitis </target> was followed by prolonged anicteric cholestasis .",
+        "D002779\tDisease\tcholestasis\tWe report the case of a patient in whom troleandomycin-induced hepatitis was followed by prolonged anicteric <target> cholestasis </target> .",
+        "D007565\tDisease\tJaundice\t<target> Jaundice </target> occurred after administration of troleandomycin for 7 days and was associated with hypereosinophilia .",
+        "D014217\tChemical\ttroleandomycin\tJaundice occurred after administration of <target> troleandomycin </target> for 7 days and was associated with hypereosinophilia .",
+        "D004802\tDisease\thypereosinophilia\tJaundice occurred after administration of troleandomycin for 7 days and was associated with <target> hypereosinophilia </target> .",
+        "D007565\tDisease\tJaundice\t<target> Jaundice </target> disappeared within 3 months but was followed by prolonged anicteric cholestasis marked by pruritus and high levels of alkaline phosphatase and gammaglutamyltransferase activities .",
+        "D002779\tDisease\tcholestasis\tJaundice disappeared within 3 months but was followed by prolonged anicteric <target> cholestasis </target> marked by pruritus and high levels of alkaline phosphatase and gammaglutamyltransferase activities .",
+        "D011537\tDisease\tpruritus\tJaundice disappeared within 3 months but was followed by prolonged anicteric cholestasis marked by <target> pruritus </target> and high levels of alkaline phosphatase and gammaglutamyltransferase activities .",
+        "D011537\tDisease\tpruritus\tFinally , <target> pruritus </target> disappeared within 19 months , and liver tests returned to normal 27 months after the onset of hepatitis .",
+        "D056486\tDisease\thepatitis\tFinally , pruritus disappeared within 19 months , and liver tests returned to normal 27 months after the onset of <target> hepatitis </target> .",
+        "D002779\tDisease\tcholestasis\tThis observation demonstrates that prolonged <target> cholestasis </target> can follow troleandomycin-induced acute hepatitis .",
+        "D014217\tChemical\ttroleandomycin\tThis observation demonstrates that prolonged cholestasis can follow <target> troleandomycin </target> -induced acute hepatitis .",
+        "D056486\tDisease\thepatitis\tThis observation demonstrates that prolonged cholestasis can follow troleandomycin-induced acute <target> hepatitis </target> ."
+    ],
+    "lines_lemma": [
+        "D002779\tDisease\tcholestasis\tProlonged <target> cholestasis </target> after troleandomycin-induced acute hepatitis .",
+        "D014217\tChemical\ttroleandomycin\tprolonged cholestasis after <target> troleandomycin </target> -induced acute hepatitis .",
+        "D056486\tDisease\thepatitis\tprolonged cholestasis after troleandomycin-induced acute <target> hepatitis </target> .",
+        "D014217\tChemical\ttroleandomycin\twe report the case of a patient in whom <target> troleandomycin </target> -induced hepatitis be follow by prolonged anicteric cholestasis .",
+        "D056486\tDisease\thepatitis\twe report the case of a patient in whom troleandomycin-induced <target> hepatitis </target> be follow by prolonged anicteric cholestasis .",
+        "D002779\tDisease\tcholestasis\twe report the case of a patient in whom troleandomycin-induced hepatitis be follow by prolonged anicteric <target> cholestasis </target> .",
+        "D007565\tDisease\tJaundice\t<target> Jaundice </target> occur after administration of troleandomycin for 7 day and be associate with hypereosinophilia .",
+        "D014217\tChemical\ttroleandomycin\tJaundice occur after administration of <target> troleandomycin </target> for 7 day and be associate with hypereosinophilia .",
+        "D004802\tDisease\thypereosinophilia\tJaundice occur after administration of troleandomycin for 7 day and be associate with <target> hypereosinophilia </target> .",
+        "D007565\tDisease\tJaundice\t<target> Jaundice </target> disappear within 3 month but be follow by prolonged anicteric cholestasis mark by pruritus and high level of alkaline phosphatase and gammaglutamyltransferase activity .",
+        "D002779\tDisease\tcholestasis\tJaundice disappear within 3 month but be follow by prolonged anicteric <target> cholestasis </target> mark by pruritus and high level of alkaline phosphatase and gammaglutamyltransferase activity .",
+        "D011537\tDisease\tpruritus\tJaundice disappear within 3 month but be follow by prolonged anicteric cholestasis mark by <target> pruritus </target> and high level of alkaline phosphatase and gammaglutamyltransferase activity .",
+        "D011537\tDisease\tpruritus\tfinally , <target> pruritus </target> disappear within 19 month , and liver test return to normal 27 month after the onset of hepatitis .",
+        "D056486\tDisease\thepatitis\tfinally , pruritus disappear within 19 month , and liver test return to normal 27 month after the onset of <target> hepatitis </target> .",
+        "D002779\tDisease\tcholestasis\tthis observation demonstrate that prolonged <target> cholestasis </target> can follow troleandomycin-induced acute hepatitis .",
+        "D014217\tChemical\ttroleandomycin\tthis observation demonstrate that prolonged cholestasis can follow <target> troleandomycin </target> -induced acute hepatitis .",
+        "D056486\tDisease\thepatitis\tthis observation demonstrate that prolonged cholestasis can follow troleandomycin-induced acute <target> hepatitis </target> ."
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Topiramate-induced nephrolithiasis.",
+    "abst": "Topiramate is a recently developed antiepileptic medication that is becoming more widely prescribed because of its efficacy in treating refractory seizures. Urologists should be aware that this medication can cause metabolic acidosis in patients secondary to inhibition of carbonic anhydrase. In addition, a distal tubular acidification defect may result, thus impairing the normal compensatory drop in urine pH. These factors can lead to the development of calcium phosphate nephrolithiasis. We report the first two cases of topiramate-induced nephrolithiasis in the urologic literature.",
+    "title_plus_abst": "Topiramate-induced nephrolithiasis. Topiramate is a recently developed antiepileptic medication that is becoming more widely prescribed because of its efficacy in treating refractory seizures. Urologists should be aware that this medication can cause metabolic acidosis in patients secondary to inhibition of carbonic anhydrase. In addition, a distal tubular acidification defect may result, thus impairing the normal compensatory drop in urine pH. These factors can lead to the development of calcium phosphate nephrolithiasis. We report the first two cases of topiramate-induced nephrolithiasis in the urologic literature.",
+    "pubmed_id": "12042105",
+    "entities": [
+        [
+            0,
+            10,
+            "Topiramate",
+            "Chemical",
+            "C052342"
+        ],
+        [
+            19,
+            34,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            36,
+            46,
+            "Topiramate",
+            "Chemical",
+            "C052342"
+        ],
+        [
+            172,
+            191,
+            "refractory seizures",
+            "Disease",
+            "D004827"
+        ],
+        [
+            251,
+            269,
+            "metabolic acidosis",
+            "Disease",
+            "D000138"
+        ],
+        [
+            494,
+            511,
+            "calcium phosphate",
+            "Chemical",
+            "C020243"
+        ],
+        [
+            512,
+            527,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            562,
+            572,
+            "topiramate",
+            "Chemical",
+            "C052342"
+        ],
+        [
+            581,
+            596,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ]
+    ],
+    "split_sentence": [
+        "Topiramate-induced nephrolithiasis.",
+        "Topiramate is a recently developed antiepileptic medication that is becoming more widely prescribed because of its efficacy in treating refractory seizures.",
+        "Urologists should be aware that this medication can cause metabolic acidosis in patients secondary to inhibition of carbonic anhydrase.",
+        "In addition, a distal tubular acidification defect may result, thus impairing the normal compensatory drop in urine pH. These factors can lead to the development of calcium phosphate nephrolithiasis.",
+        "We report the first two cases of topiramate-induced nephrolithiasis in the urologic literature."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C052342\tChemical\tTopiramate\t<target> Topiramate </target> -induced nephrolithiasis .",
+        "D053040\tDisease\tnephrolithiasis\tTopiramate-induced <target> nephrolithiasis </target> .",
+        "C052342\tChemical\tTopiramate\t<target> Topiramate </target> is a recently developed antiepileptic medication that is becoming more widely prescribed because of its efficacy in treating refractory seizures .",
+        "D004827\tDisease\trefractory seizures\tTopiramate is a recently developed antiepileptic medication that is becoming more widely prescribed because of its efficacy in treating <target> refractory seizures </target> .",
+        "D000138\tDisease\tmetabolic acidosis\tUrologists should be aware that this medication can cause <target> metabolic acidosis </target> in patients secondary to inhibition of carbonic anhydrase .",
+        "C020243\tChemical\tcalcium phosphate\tIn addition , a distal tubular acidification defect may result , thus impairing the normal compensatory drop in urine pH. These factors can lead to the development of <target> calcium phosphate </target> nephrolithiasis .",
+        "D053040\tDisease\tnephrolithiasis\tIn addition , a distal tubular acidification defect may result , thus impairing the normal compensatory drop in urine pH. These factors can lead to the development of calcium phosphate <target> nephrolithiasis </target> .",
+        "C052342\tChemical\ttopiramate\tWe report the first two cases of <target> topiramate </target> -induced nephrolithiasis in the urologic literature .",
+        "D053040\tDisease\tnephrolithiasis\tWe report the first two cases of topiramate-induced <target> nephrolithiasis </target> in the urologic literature ."
+    ],
+    "lines_lemma": [
+        "C052342\tChemical\tTopiramate\t<target> Topiramate </target> -induced nephrolithiasis .",
+        "D053040\tDisease\tnephrolithiasis\ttopiramate-induced <target> nephrolithiasis </target> .",
+        "C052342\tChemical\tTopiramate\t<target> Topiramate </target> be a recently develop antiepileptic medication that be become more widely prescribe because of its efficacy in treat refractory seizure .",
+        "D004827\tDisease\trefractory seizures\tTopiramate be a recently develop antiepileptic medication that be become more widely prescribe because of its efficacy in treat <target> refractory seizure </target> .",
+        "D000138\tDisease\tmetabolic acidosis\tUrologists should be aware that this medication can cause <target> metabolic acidosis </target> in patient secondary to inhibition of carbonic anhydrase .",
+        "C020243\tChemical\tcalcium phosphate\tin addition , a distal tubular acidification defect may result , thus impair the normal compensatory drop in urine ph. these factor can lead to the development of <target> calcium phosphate </target> nephrolithiasis .",
+        "D053040\tDisease\tnephrolithiasis\tin addition , a distal tubular acidification defect may result , thus impair the normal compensatory drop in urine ph. these factor can lead to the development of calcium phosphate <target> nephrolithiasis </target> .",
+        "C052342\tChemical\ttopiramate\twe report the first two case of <target> topiramate </target> -induced nephrolithiasis in the urologic literature .",
+        "D053040\tDisease\tnephrolithiasis\twe report the first two case of topiramate-induced <target> nephrolithiasis </target> in the urologic literature ."
+    ]
+}

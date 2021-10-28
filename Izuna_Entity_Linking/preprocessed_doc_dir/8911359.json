@@ -1,0 +1,132 @@
+{
+    "title": "Cyclophosphamide associated bladder cancer--a highly aggressive disease: analysis of 12 cases.",
+    "abst": "PURPOSE: We gained knowledge of the etiology, treatment and prevention of cyclophosphamide associated urothelial cancer. MATERIALS AND METHODS: The medical records of 6 men and 6 women (mean age 55 years) with cyclophosphamide associated bladder cancer were reviewed. RESULTS: All tumors were grade 3 or 4 transitional cell carcinoma. Of the 5 patients initially treated with endoscopic resection alone only 1 is alive without disease. Of the 6 patients who underwent early cystectomy 4 were alive at 24 to 111 months. The remaining patient with extensive cancer underwent partial cystectomy for palliation and died 3 months later. CONCLUSIONS: Cyclophosphamide associated bladder tumor is an aggressive disease. However, long-term survival is possible when radical cystectomy is performed for bladder tumors with any sign of invasion and for recurrent high grade disease, even when noninvasive.",
+    "title_plus_abst": "Cyclophosphamide associated bladder cancer--a highly aggressive disease: analysis of 12 cases. PURPOSE: We gained knowledge of the etiology, treatment and prevention of cyclophosphamide associated urothelial cancer. MATERIALS AND METHODS: The medical records of 6 men and 6 women (mean age 55 years) with cyclophosphamide associated bladder cancer were reviewed. RESULTS: All tumors were grade 3 or 4 transitional cell carcinoma. Of the 5 patients initially treated with endoscopic resection alone only 1 is alive without disease. Of the 6 patients who underwent early cystectomy 4 were alive at 24 to 111 months. The remaining patient with extensive cancer underwent partial cystectomy for palliation and died 3 months later. CONCLUSIONS: Cyclophosphamide associated bladder tumor is an aggressive disease. However, long-term survival is possible when radical cystectomy is performed for bladder tumors with any sign of invasion and for recurrent high grade disease, even when noninvasive.",
+    "pubmed_id": "8911359",
+    "entities": [
+        [
+            0,
+            16,
+            "Cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            28,
+            42,
+            "bladder cancer",
+            "Disease",
+            "D001749"
+        ],
+        [
+            169,
+            185,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            197,
+            214,
+            "urothelial cancer",
+            "Disease",
+            "D014523"
+        ],
+        [
+            305,
+            321,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            333,
+            347,
+            "bladder cancer",
+            "Disease",
+            "D001749"
+        ],
+        [
+            376,
+            382,
+            "tumors",
+            "Disease",
+            "D009369"
+        ],
+        [
+            419,
+            428,
+            "carcinoma",
+            "Disease",
+            "D002277"
+        ],
+        [
+            651,
+            657,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            740,
+            756,
+            "Cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            768,
+            781,
+            "bladder tumor",
+            "Disease",
+            "D001749"
+        ],
+        [
+            889,
+            903,
+            "bladder tumors",
+            "Disease",
+            "D001749"
+        ]
+    ],
+    "split_sentence": [
+        "Cyclophosphamide associated bladder cancer--a highly aggressive disease: analysis of 12 cases.",
+        "PURPOSE: We gained knowledge of the etiology, treatment and prevention of cyclophosphamide associated urothelial cancer.",
+        "MATERIALS AND METHODS: The medical records of 6 men and 6 women (mean age 55 years) with cyclophosphamide associated bladder cancer were reviewed.",
+        "RESULTS: All tumors were grade 3 or 4 transitional cell carcinoma.",
+        "Of the 5 patients initially treated with endoscopic resection alone only 1 is alive without disease.",
+        "Of the 6 patients who underwent early cystectomy 4 were alive at 24 to 111 months.",
+        "The remaining patient with extensive cancer underwent partial cystectomy for palliation and died 3 months later.",
+        "CONCLUSIONS: Cyclophosphamide associated bladder tumor is an aggressive disease.",
+        "However, long-term survival is possible when radical cystectomy is performed for bladder tumors with any sign of invasion and for recurrent high grade disease, even when noninvasive."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003520\tChemical\tCyclophosphamide\t<target> Cyclophosphamide </target> associated bladder cancer -- a highly aggressive disease : analysis of 12 cases .",
+        "D001749\tDisease\tbladder cancer\tCyclophosphamide associated <target> bladder cancer </target> --a highly aggressive disease : analysis of 12 cases .",
+        "D003520\tChemical\tcyclophosphamide\tPURPOSE : We gained knowledge of the etiology , treatment and prevention of <target> cyclophosphamide </target> associated urothelial cancer .",
+        "D014523\tDisease\turothelial cancer\tPURPOSE : We gained knowledge of the etiology , treatment and prevention of cyclophosphamide associated <target> urothelial cancer </target> .",
+        "D003520\tChemical\tcyclophosphamide\tMATERIALS AND METHODS : The medical records of 6 men and 6 women ( mean age 55 years ) with <target> cyclophosphamide </target> associated bladder cancer were reviewed .",
+        "D001749\tDisease\tbladder cancer\tMATERIALS AND METHODS : The medical records of 6 men and 6 women ( mean age 55 years ) with cyclophosphamide associated <target> bladder cancer </target> were reviewed .",
+        "D009369\tDisease\ttumors\tRESULTS : All <target> tumors </target> were grade 3 or 4 transitional cell carcinoma .",
+        "D002277\tDisease\tcarcinoma\tRESULTS : All tumors were grade 3 or 4 transitional cell <target> carcinoma </target> .",
+        "D009369\tDisease\tcancer\tThe remaining patient with extensive <target> cancer </target> underwent partial cystectomy for palliation and died 3 months later .",
+        "D003520\tChemical\tCyclophosphamide\tCONCLUSIONS : <target> Cyclophosphamide </target> associated bladder tumor is an aggressive disease .",
+        "D001749\tDisease\tbladder tumor\tCONCLUSIONS : Cyclophosphamide associated <target> bladder tumor </target> is an aggressive disease .",
+        "D001749\tDisease\tbladder tumors\tHowever , long-term survival is possible when radical cystectomy is performed for <target> bladder tumors </target> with any sign of invasion and for recurrent high grade disease , even when noninvasive ."
+    ],
+    "lines_lemma": [
+        "D003520\tChemical\tCyclophosphamide\t<target> Cyclophosphamide </target> associate bladder cancer -- a highly aggressive disease : analysis of 12 case .",
+        "D001749\tDisease\tbladder cancer\tcyclophosphamide associate <target> bladder cancer </target> --a highly aggressive disease : analysis of 12 case .",
+        "D003520\tChemical\tcyclophosphamide\tpurpose : we gain knowledge of the etiology , treatment and prevention of <target> cyclophosphamide </target> associated urothelial cancer .",
+        "D014523\tDisease\turothelial cancer\tpurpose : we gain knowledge of the etiology , treatment and prevention of cyclophosphamide associate <target> urothelial cancer </target> .",
+        "D003520\tChemical\tcyclophosphamide\tmaterial and method : the medical record of 6 man and 6 woman ( mean age 55 year ) with <target> cyclophosphamide </target> associate bladder cancer be review .",
+        "D001749\tDisease\tbladder cancer\tmaterial and method : the medical record of 6 man and 6 woman ( mean age 55 year ) with cyclophosphamide associate <target> bladder cancer </target> be review .",
+        "D009369\tDisease\ttumors\tresult : all <target> tumor </target> be grade 3 or 4 transitional cell carcinoma .",
+        "D002277\tDisease\tcarcinoma\tresult : all tumor be grade 3 or 4 transitional cell <target> carcinoma </target> .",
+        "D009369\tDisease\tcancer\tthe remain patient with extensive <target> cancer </target> undergo partial cystectomy for palliation and die 3 month later .",
+        "D003520\tChemical\tCyclophosphamide\tconclusion : <target> Cyclophosphamide </target> associate bladder tumor be an aggressive disease .",
+        "D001749\tDisease\tbladder tumor\tconclusion : cyclophosphamide associate <target> bladder tumor </target> be an aggressive disease .",
+        "D001749\tDisease\tbladder tumors\thowever , long-term survival be possible when radical cystectomy be perform for <target> bladder tumor </target> with any sign of invasion and for recurrent high grade disease , even when noninvasive ."
+    ]
+}

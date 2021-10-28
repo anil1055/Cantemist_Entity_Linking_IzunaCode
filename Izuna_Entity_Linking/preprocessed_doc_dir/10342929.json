@@ -1,0 +1,54 @@
+{
+    "title": "Angioedema due to ACE inhibitors: common and inadequately diagnosed.",
+    "abst": "The estimated incidence of angioedema during angiotensin-converting enzyme (ACE) inhibitor treatment is between 1 and 7 per thousand patients. This potentially serious adverse effect is often preceded by minor manifestations that may serve as a warning.",
+    "title_plus_abst": "Angioedema due to ACE inhibitors: common and inadequately diagnosed. The estimated incidence of angioedema during angiotensin-converting enzyme (ACE) inhibitor treatment is between 1 and 7 per thousand patients. This potentially serious adverse effect is often preceded by minor manifestations that may serve as a warning.",
+    "pubmed_id": "10342929",
+    "entities": [
+        [
+            0,
+            10,
+            "Angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            18,
+            32,
+            "ACE inhibitors",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            96,
+            106,
+            "angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            114,
+            159,
+            "angiotensin-converting enzyme (ACE) inhibitor",
+            "Chemical",
+            "D000806"
+        ]
+    ],
+    "split_sentence": [
+        "Angioedema due to ACE inhibitors: common and inadequately diagnosed.",
+        "The estimated incidence of angioedema during angiotensin-converting enzyme (ACE) inhibitor treatment is between 1 and 7 per thousand patients.",
+        "This potentially serious adverse effect is often preceded by minor manifestations that may serve as a warning."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000799\tDisease\tAngioedema\t<target> Angioedema </target> due to ACE inhibitors : common and inadequately diagnosed .",
+        "D000806\tChemical\tACE inhibitors\tAngioedema due to <target> ACE inhibitors </target> : common and inadequately diagnosed .",
+        "D000799\tDisease\tangioedema\tThe estimated incidence of <target> angioedema </target> during angiotensin-converting enzyme ( ACE ) inhibitor treatment is between 1 and 7 per thousand patients .",
+        "D000806\tChemical\tangiotensin-converting enzyme (ACE) inhibitor\tThe estimated incidence of angioedema during <target> angiotensin-converting enzyme ( ACE ) inhibitor </target> treatment is between 1 and 7 per thousand patients ."
+    ],
+    "lines_lemma": [
+        "D000799\tDisease\tAngioedema\t<target> angioedema </target> due to ace inhibitor : common and inadequately diagnose .",
+        "D000806\tChemical\tACE inhibitors\tAngioedema due to <target> ace inhibitor </target> : common and inadequately diagnose .",
+        "D000799\tDisease\tangioedema\tthe estimate incidence of <target> angioedema </target> during angiotensin-converting enzyme ( ace ) inhibitor treatment be between 1 and 7 per thousand patient .",
+        "D000806\tChemical\tangiotensin-converting enzyme (ACE) inhibitor\tthe estimate incidence of angioedema during <target> angiotensin-converting enzyme ( ace ) inhibitor </target> treatment be between 1 and 7 per thousand patient ."
+    ]
+}

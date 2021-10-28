@@ -1,0 +1,157 @@
+{
+    "title": "Sexual dysfunction among patients with arthritis.",
+    "abst": "The relationship of arthritis and sexual dysfunction was investigated among 169 patients with rheumatoid arthritis, osteoarthritis and spondyloarthropathy, 130 of whom were pair-matched to controls. Assessments of marital happiness and depressed mood were also made using the CES-D and the Azrin Marital Happiness Scale (AMHS). Sexual dysfunctions were found to be common among patients and controls, the majority in both groups reporting one or more dysfunctions. Impotence was more common among male patients than controls and was found to be associated with co-morbidity and the taking of methotrexate. Depressed mood was more common among patients and was associated with certain sexual difficulties, but not with impotence. Marital unhappiness, as indicated by AMHS scores, was not associated with arthritis but was associated with sexual dysfunction, sexual dissatisfaction and being female.",
+    "title_plus_abst": "Sexual dysfunction among patients with arthritis. The relationship of arthritis and sexual dysfunction was investigated among 169 patients with rheumatoid arthritis, osteoarthritis and spondyloarthropathy, 130 of whom were pair-matched to controls. Assessments of marital happiness and depressed mood were also made using the CES-D and the Azrin Marital Happiness Scale (AMHS). Sexual dysfunctions were found to be common among patients and controls, the majority in both groups reporting one or more dysfunctions. Impotence was more common among male patients than controls and was found to be associated with co-morbidity and the taking of methotrexate. Depressed mood was more common among patients and was associated with certain sexual difficulties, but not with impotence. Marital unhappiness, as indicated by AMHS scores, was not associated with arthritis but was associated with sexual dysfunction, sexual dissatisfaction and being female.",
+    "pubmed_id": "3409645",
+    "entities": [
+        [
+            0,
+            18,
+            "Sexual dysfunction",
+            "Disease",
+            "D012735"
+        ],
+        [
+            39,
+            48,
+            "arthritis",
+            "Disease",
+            "D001168"
+        ],
+        [
+            70,
+            79,
+            "arthritis",
+            "Disease",
+            "D001168"
+        ],
+        [
+            84,
+            102,
+            "sexual dysfunction",
+            "Disease",
+            "D012735"
+        ],
+        [
+            144,
+            164,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            166,
+            180,
+            "osteoarthritis",
+            "Disease",
+            "D010003"
+        ],
+        [
+            185,
+            204,
+            "spondyloarthropathy",
+            "Disease",
+            "D025242"
+        ],
+        [
+            286,
+            300,
+            "depressed mood",
+            "Disease",
+            "D003866"
+        ],
+        [
+            378,
+            397,
+            "Sexual dysfunctions",
+            "Disease",
+            "D012735"
+        ],
+        [
+            515,
+            524,
+            "Impotence",
+            "Disease",
+            "D007172"
+        ],
+        [
+            642,
+            654,
+            "methotrexate",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            656,
+            670,
+            "Depressed mood",
+            "Disease",
+            "D003866"
+        ],
+        [
+            768,
+            777,
+            "impotence",
+            "Disease",
+            "D007172"
+        ],
+        [
+            853,
+            862,
+            "arthritis",
+            "Disease",
+            "D001168"
+        ],
+        [
+            887,
+            905,
+            "sexual dysfunction",
+            "Disease",
+            "D012735"
+        ]
+    ],
+    "split_sentence": [
+        "Sexual dysfunction among patients with arthritis.",
+        "The relationship of arthritis and sexual dysfunction was investigated among 169 patients with rheumatoid arthritis, osteoarthritis and spondyloarthropathy, 130 of whom were pair-matched to controls.",
+        "Assessments of marital happiness and depressed mood were also made using the CES-D and the Azrin Marital Happiness Scale (AMHS).",
+        "Sexual dysfunctions were found to be common among patients and controls, the majority in both groups reporting one or more dysfunctions.",
+        "Impotence was more common among male patients than controls and was found to be associated with co-morbidity and the taking of methotrexate.",
+        "Depressed mood was more common among patients and was associated with certain sexual difficulties, but not with impotence.",
+        "Marital unhappiness, as indicated by AMHS scores, was not associated with arthritis but was associated with sexual dysfunction, sexual dissatisfaction and being female."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012735\tDisease\tSexual dysfunction\t<target> Sexual dysfunction </target> among patients with arthritis .",
+        "D001168\tDisease\tarthritis\tSexual dysfunction among patients with <target> arthritis </target> .",
+        "D001168\tDisease\tarthritis\tThe relationship of <target> arthritis </target> and sexual dysfunction was investigated among 169 patients with rheumatoid arthritis , osteoarthritis and spondyloarthropathy , 130 of whom were pair-matched to controls .",
+        "D012735\tDisease\tsexual dysfunction\tThe relationship of arthritis and <target> sexual dysfunction </target> was investigated among 169 patients with rheumatoid arthritis , osteoarthritis and spondyloarthropathy , 130 of whom were pair-matched to controls .",
+        "D001172\tDisease\trheumatoid arthritis\tThe relationship of arthritis and sexual dysfunction was investigated among 169 patients with <target> rheumatoid arthritis </target> , osteoarthritis and spondyloarthropathy , 130 of whom were pair-matched to controls .",
+        "D010003\tDisease\tosteoarthritis\tThe relationship of arthritis and sexual dysfunction was investigated among 169 patients with rheumatoid arthritis , <target> osteoarthritis </target> and spondyloarthropathy , 130 of whom were pair-matched to controls .",
+        "D025242\tDisease\tspondyloarthropathy\tThe relationship of arthritis and sexual dysfunction was investigated among 169 patients with rheumatoid arthritis , osteoarthritis and <target> spondyloarthropathy </target> , 130 of whom were pair-matched to controls .",
+        "D003866\tDisease\tdepressed mood\tAssessments of marital happiness and <target> depressed mood </target> were also made using the CES-D and the Azrin Marital Happiness Scale ( AMHS ) .",
+        "D012735\tDisease\tSexual dysfunctions\t<target> Sexual dysfunctions </target> were found to be common among patients and controls , the majority in both groups reporting one or more dysfunctions .",
+        "D007172\tDisease\tImpotence\t<target> Impotence </target> was more common among male patients than controls and was found to be associated with co-morbidity and the taking of methotrexate .",
+        "D008727\tChemical\tmethotrexate\tImpotence was more common among male patients than controls and was found to be associated with co-morbidity and the taking of <target> methotrexate </target> .",
+        "D003866\tDisease\tDepressed mood\t<target> Depressed mood </target> was more common among patients and was associated with certain sexual difficulties , but not with impotence .",
+        "D007172\tDisease\timpotence\tDepressed mood was more common among patients and was associated with certain sexual difficulties , but not with <target> impotence </target> .",
+        "D001168\tDisease\tarthritis\tMarital unhappiness , as indicated by AMHS scores , was not associated with <target> arthritis </target> but was associated with sexual dysfunction , sexual dissatisfaction and being female .",
+        "D012735\tDisease\tsexual dysfunction\tMarital unhappiness , as indicated by AMHS scores , was not associated with arthritis but was associated with <target> sexual dysfunction </target> , sexual dissatisfaction and being female ."
+    ],
+    "lines_lemma": [
+        "D012735\tDisease\tSexual dysfunction\t<target> sexual dysfunction </target> among patient with arthritis .",
+        "D001168\tDisease\tarthritis\tsexual dysfunction among patient with <target> arthritis </target> .",
+        "D001168\tDisease\tarthritis\tthe relationship of <target> arthritis </target> and sexual dysfunction be investigate among 169 patient with rheumatoid arthritis , osteoarthritis and spondyloarthropathy , 130 of whom be pair-matched to control .",
+        "D012735\tDisease\tsexual dysfunction\tthe relationship of arthritis and <target> sexual dysfunction </target> be investigate among 169 patient with rheumatoid arthritis , osteoarthritis and spondyloarthropathy , 130 of whom be pair-matched to control .",
+        "D001172\tDisease\trheumatoid arthritis\tthe relationship of arthritis and sexual dysfunction be investigate among 169 patient with <target> rheumatoid arthritis </target> , osteoarthritis and spondyloarthropathy , 130 of whom be pair-matched to control .",
+        "D010003\tDisease\tosteoarthritis\tthe relationship of arthritis and sexual dysfunction be investigate among 169 patient with rheumatoid arthritis , <target> osteoarthritis </target> and spondyloarthropathy , 130 of whom be pair-matched to control .",
+        "D025242\tDisease\tspondyloarthropathy\tthe relationship of arthritis and sexual dysfunction be investigate among 169 patient with rheumatoid arthritis , osteoarthritis and <target> spondyloarthropathy </target> , 130 of whom be pair-matched to control .",
+        "D003866\tDisease\tdepressed mood\tassessment of marital happiness and <target> depressed mood </target> be also make use the ces-d and the Azrin Marital Happiness Scale ( amhs ) .",
+        "D012735\tDisease\tSexual dysfunctions\t<target> Sexual dysfunction </target> be find to be common among patient and control , the majority in both group report one or more dysfunction .",
+        "D007172\tDisease\tImpotence\t<target> impotence </target> be more common among male patient than control and be find to be associate with co-morbidity and the taking of methotrexate .",
+        "D008727\tChemical\tmethotrexate\timpotence be more common among male patient than control and be find to be associate with co-morbidity and the taking of <target> methotrexate </target> .",
+        "D003866\tDisease\tDepressed mood\t<target> depressed mood </target> be more common among patient and be associate with certain sexual difficulty , but not with impotence .",
+        "D007172\tDisease\timpotence\tdepressed mood be more common among patient and be associate with certain sexual difficulty , but not with <target> impotence </target> .",
+        "D001168\tDisease\tarthritis\tmarital unhappiness , as indicate by amhs score , be not associate with <target> arthritis </target> but be associate with sexual dysfunction , sexual dissatisfaction and be female .",
+        "D012735\tDisease\tsexual dysfunction\tmarital unhappiness , as indicate by amhs score , be not associate with arthritis but be associate with <target> sexual dysfunction </target> , sexual dissatisfaction and be female ."
+    ]
+}

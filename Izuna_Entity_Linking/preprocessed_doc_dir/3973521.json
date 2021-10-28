@@ -1,0 +1,55 @@
+{
+    "title": "Time course alterations of QTC interval due to hypaque 76.",
+    "abst": "Sequential measurement of QT interval during left ventricular angiography was made 30 seconds and one, three, five and ten minutes after injection of hypaque 76. The subjects were ten patients found to have normal left ventricles and coronary arteries. Significant QTC prolongation occurred in 30 seconds to one minute in association with marked hypotension and elevation of cardiac output.",
+    "title_plus_abst": "Time course alterations of QTC interval due to hypaque 76. Sequential measurement of QT interval during left ventricular angiography was made 30 seconds and one, three, five and ten minutes after injection of hypaque 76. The subjects were ten patients found to have normal left ventricles and coronary arteries. Significant QTC prolongation occurred in 30 seconds to one minute in association with marked hypotension and elevation of cardiac output.",
+    "pubmed_id": "3973521",
+    "entities": [
+        [
+            47,
+            57,
+            "hypaque 76",
+            "Chemical",
+            "C027278"
+        ],
+        [
+            209,
+            219,
+            "hypaque 76",
+            "Chemical",
+            "C027278"
+        ],
+        [
+            324,
+            340,
+            "QTC prolongation",
+            "Disease",
+            "D008133"
+        ],
+        [
+            405,
+            416,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ]
+    ],
+    "split_sentence": [
+        "Time course alterations of QTC interval due to hypaque 76.",
+        "Sequential measurement of QT interval during left ventricular angiography was made 30 seconds and one, three, five and ten minutes after injection of hypaque 76.",
+        "The subjects were ten patients found to have normal left ventricles and coronary arteries.",
+        "Significant QTC prolongation occurred in 30 seconds to one minute in association with marked hypotension and elevation of cardiac output."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C027278\tChemical\thypaque 76\tTime course alterations of QTC interval due to <target> hypaque 76 </target> .",
+        "C027278\tChemical\thypaque 76\tSequential measurement of QT interval during left ventricular angiography was made 30 seconds and one , three , five and ten minutes after injection of <target> hypaque 76 </target> .",
+        "D008133\tDisease\tQTC prolongation\tSignificant <target> QTC prolongation </target> occurred in 30 seconds to one minute in association with marked hypotension and elevation of cardiac output .",
+        "D007022\tDisease\thypotension\tSignificant QTC prolongation occurred in 30 seconds to one minute in association with marked <target> hypotension </target> and elevation of cardiac output ."
+    ],
+    "lines_lemma": [
+        "C027278\tChemical\thypaque 76\ttime course alteration of qtc interval due to <target> hypaque 76 </target> .",
+        "C027278\tChemical\thypaque 76\tsequential measurement of qt interval during leave ventricular angiography be make 30 second and one , three , five and ten minute after injection of <target> hypaque 76 </target> .",
+        "D008133\tDisease\tQTC prolongation\tsignificant <target> QTC prolongation </target> occur in 30 second to one minute in association with marked hypotension and elevation of cardiac output .",
+        "D007022\tDisease\thypotension\tsignificant QTC prolongation occur in 30 second to one minute in association with marked <target> hypotension </target> and elevation of cardiac output ."
+    ]
+}

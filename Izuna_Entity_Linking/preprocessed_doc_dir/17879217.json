@@ -1,0 +1,145 @@
+{
+    "title": "Rifampicin-associated segmental necrotizing glomerulonephritis in staphylococcal endocarditis.",
+    "abst": "Segmental necrotising glomerulonephritis has been reported as complication of rifampicin therapy in patients receiving treatment for tuberculosis. Changing epidemiology of infections such as infective endocarditis (IE) has led to an increase in the use of rifampicin for Staphylococcal infections. We describe a case of a patient with Staphylococcal IE who developed acute renal failure secondary to a segmental necrotising glomerulonephritis while being treated with rifampicin, and review the literature regarding this complication of rifampicin therapy.",
+    "title_plus_abst": "Rifampicin-associated segmental necrotizing glomerulonephritis in staphylococcal endocarditis. Segmental necrotising glomerulonephritis has been reported as complication of rifampicin therapy in patients receiving treatment for tuberculosis. Changing epidemiology of infections such as infective endocarditis (IE) has led to an increase in the use of rifampicin for Staphylococcal infections. We describe a case of a patient with Staphylococcal IE who developed acute renal failure secondary to a segmental necrotising glomerulonephritis while being treated with rifampicin, and review the literature regarding this complication of rifampicin therapy.",
+    "pubmed_id": "17879217",
+    "entities": [
+        [
+            0,
+            10,
+            "Rifampicin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            44,
+            62,
+            "glomerulonephritis",
+            "Disease",
+            "D005921"
+        ],
+        [
+            117,
+            135,
+            "glomerulonephritis",
+            "Disease",
+            "D005921"
+        ],
+        [
+            173,
+            183,
+            "rifampicin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            228,
+            240,
+            "tuberculosis",
+            "Disease",
+            "D014376"
+        ],
+        [
+            267,
+            277,
+            "infections",
+            "Disease",
+            "D007239"
+        ],
+        [
+            286,
+            308,
+            "infective endocarditis",
+            "Disease",
+            "D004696"
+        ],
+        [
+            310,
+            312,
+            "IE",
+            "Disease",
+            "D004696"
+        ],
+        [
+            351,
+            361,
+            "rifampicin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            366,
+            391,
+            "Staphylococcal infections",
+            "Disease",
+            "D013203"
+        ],
+        [
+            462,
+            481,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            519,
+            537,
+            "glomerulonephritis",
+            "Disease",
+            "D005921"
+        ],
+        [
+            563,
+            573,
+            "rifampicin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            632,
+            642,
+            "rifampicin",
+            "Chemical",
+            "D012293"
+        ]
+    ],
+    "split_sentence": [
+        "Rifampicin-associated segmental necrotizing glomerulonephritis in staphylococcal endocarditis.",
+        "Segmental necrotising glomerulonephritis has been reported as complication of rifampicin therapy in patients receiving treatment for tuberculosis.",
+        "Changing epidemiology of infections such as infective endocarditis (IE) has led to an increase in the use of rifampicin for Staphylococcal infections.",
+        "We describe a case of a patient with Staphylococcal IE who developed acute renal failure secondary to a segmental necrotising glomerulonephritis while being treated with rifampicin, and review the literature regarding this complication of rifampicin therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012293\tChemical\tRifampicin\t<target> Rifampicin </target> -associated segmental necrotizing glomerulonephritis in staphylococcal endocarditis .",
+        "D005921\tDisease\tglomerulonephritis\tRifampicin-associated segmental necrotizing <target> glomerulonephritis </target> in staphylococcal endocarditis .",
+        "D005921\tDisease\tglomerulonephritis\tSegmental necrotising <target> glomerulonephritis </target> has been reported as complication of rifampicin therapy in patients receiving treatment for tuberculosis .",
+        "D012293\tChemical\trifampicin\tSegmental necrotising glomerulonephritis has been reported as complication of <target> rifampicin </target> therapy in patients receiving treatment for tuberculosis .",
+        "D014376\tDisease\ttuberculosis\tSegmental necrotising glomerulonephritis has been reported as complication of rifampicin therapy in patients receiving treatment for <target> tuberculosis </target> .",
+        "D007239\tDisease\tinfections\tChanging epidemiology of <target> infections </target> such as infective endocarditis ( IE ) has led to an increase in the use of rifampicin for Staphylococcal infections .",
+        "D004696\tDisease\tinfective endocarditis\tChanging epidemiology of infections such as <target> infective endocarditis </target> ( IE ) has led to an increase in the use of rifampicin for Staphylococcal infections .",
+        "D004696\tDisease\tIE\tChanging epidemiology of infections such as infective endocarditis ( <target> IE </target> ) has led to an increase in the use of rifampicin for Staphylococcal infections .",
+        "D012293\tChemical\trifampicin\tChanging epidemiology of infections such as infective endocarditis ( IE ) has led to an increase in the use of <target> rifampicin </target> for Staphylococcal infections .",
+        "D013203\tDisease\tStaphylococcal infections\tChanging epidemiology of infections such as infective endocarditis ( IE ) has led to an increase in the use of rifampicin for <target> Staphylococcal infections </target> .",
+        "D058186\tDisease\tacute renal failure\tWe describe a case of a patient with Staphylococcal IE who developed <target> acute renal failure </target> secondary to a segmental necrotising glomerulonephritis while being treated with rifampicin , and review the literature regarding this complication of rifampicin therapy .",
+        "D005921\tDisease\tglomerulonephritis\tWe describe a case of a patient with Staphylococcal IE who developed acute renal failure secondary to a segmental necrotising <target> glomerulonephritis </target> while being treated with rifampicin , and review the literature regarding this complication of rifampicin therapy .",
+        "D012293\tChemical\trifampicin\tWe describe a case of a patient with Staphylococcal IE who developed acute renal failure secondary to a segmental necrotising glomerulonephritis while being treated with <target> rifampicin </target> , and review the literature regarding this complication of rifampicin therapy .",
+        "D012293\tChemical\trifampicin\tWe describe a case of a patient with Staphylococcal IE who developed acute renal failure secondary to a segmental necrotising glomerulonephritis while being treated with rifampicin , and review the literature regarding this complication of <target> rifampicin </target> therapy ."
+    ],
+    "lines_lemma": [
+        "D012293\tChemical\tRifampicin\t<target> rifampicin </target> -associated segmental necrotizing glomerulonephritis in staphylococcal endocarditis .",
+        "D005921\tDisease\tglomerulonephritis\trifampicin-associated segmental necrotizing <target> glomerulonephritis </target> in staphylococcal endocarditis .",
+        "D005921\tDisease\tglomerulonephritis\tsegmental necrotising <target> glomerulonephritis </target> have be report as complication of rifampicin therapy in patient receive treatment for tuberculosis .",
+        "D012293\tChemical\trifampicin\tsegmental necrotising glomerulonephritis have be report as complication of <target> rifampicin </target> therapy in patient receive treatment for tuberculosis .",
+        "D014376\tDisease\ttuberculosis\tsegmental necrotising glomerulonephritis have be report as complication of rifampicin therapy in patient receive treatment for <target> tuberculosis </target> .",
+        "D007239\tDisease\tinfections\tchange epidemiology of <target> infection </target> such as infective endocarditis ( ie ) have lead to an increase in the use of rifampicin for staphylococcal infection .",
+        "D004696\tDisease\tinfective endocarditis\tchange epidemiology of infection such as <target> infective endocarditis </target> ( ie ) have lead to an increase in the use of rifampicin for staphylococcal infection .",
+        "D004696\tDisease\tIE\tchange epidemiology of infection such as infective endocarditis ( <target> ie </target> ) have lead to an increase in the use of rifampicin for staphylococcal infection .",
+        "D012293\tChemical\trifampicin\tchange epidemiology of infection such as infective endocarditis ( ie ) have lead to an increase in the use of <target> rifampicin </target> for staphylococcal infection .",
+        "D013203\tDisease\tStaphylococcal infections\tchange epidemiology of infection such as infective endocarditis ( ie ) have lead to an increase in the use of rifampicin for <target> staphylococcal infection </target> .",
+        "D058186\tDisease\tacute renal failure\twe describe a case of a patient with staphylococcal IE who develop <target> acute renal failure </target> secondary to a segmental necrotising glomerulonephritis while be treat with rifampicin , and review the literature regard this complication of rifampicin therapy .",
+        "D005921\tDisease\tglomerulonephritis\twe describe a case of a patient with staphylococcal IE who develop acute renal failure secondary to a segmental necrotising <target> glomerulonephritis </target> while be treat with rifampicin , and review the literature regard this complication of rifampicin therapy .",
+        "D012293\tChemical\trifampicin\twe describe a case of a patient with staphylococcal IE who develop acute renal failure secondary to a segmental necrotising glomerulonephritis while be treat with <target> rifampicin </target> , and review the literature regard this complication of rifampicin therapy .",
+        "D012293\tChemical\trifampicin\twe describe a case of a patient with staphylococcal IE who develop acute renal failure secondary to a segmental necrotising glomerulonephritis while be treat with rifampicin , and review the literature regard this complication of <target> rifampicin </target> therapy ."
+    ]
+}

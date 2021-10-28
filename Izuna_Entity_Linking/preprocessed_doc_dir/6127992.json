@@ -1,0 +1,110 @@
+{
+    "title": "Adverse interaction between beta-adrenergic blocking drugs and verapamil--report of three cases.",
+    "abst": "Three patients with ischaemic heart disease developed profound cardiac failure, hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drugs. This clinical picture resolved completely with cessation of the combined therapy. Baseline left ventricular function, assessed by cardiac catheterisation or nuclear angiography, was normal in two patients and only mildly reduced in the other. Simultaneously administration of beta-adrenergic blocking drugs and verapamil may result in profound adverse interactions and should only be administered with great caution.",
+    "title_plus_abst": "Adverse interaction between beta-adrenergic blocking drugs and verapamil--report of three cases. Three patients with ischaemic heart disease developed profound cardiac failure, hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drugs. This clinical picture resolved completely with cessation of the combined therapy. Baseline left ventricular function, assessed by cardiac catheterisation or nuclear angiography, was normal in two patients and only mildly reduced in the other. Simultaneously administration of beta-adrenergic blocking drugs and verapamil may result in profound adverse interactions and should only be administered with great caution.",
+    "pubmed_id": "6127992",
+    "entities": [
+        [
+            28,
+            58,
+            "beta-adrenergic blocking drugs",
+            "Chemical",
+            "D000319"
+        ],
+        [
+            63,
+            72,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            117,
+            140,
+            "ischaemic heart disease",
+            "Disease",
+            "D017202"
+        ],
+        [
+            160,
+            175,
+            "cardiac failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            177,
+            188,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            193,
+            204,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            234,
+            243,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            248,
+            278,
+            "beta-adrenergic blocking drugs",
+            "Chemical",
+            "D000319"
+        ],
+        [
+            556,
+            586,
+            "beta-adrenergic blocking drugs",
+            "Chemical",
+            "D000319"
+        ],
+        [
+            591,
+            600,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ]
+    ],
+    "split_sentence": [
+        "Adverse interaction between beta-adrenergic blocking drugs and verapamil--report of three cases.",
+        "Three patients with ischaemic heart disease developed profound cardiac failure, hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drugs.",
+        "This clinical picture resolved completely with cessation of the combined therapy.",
+        "Baseline left ventricular function, assessed by cardiac catheterisation or nuclear angiography, was normal in two patients and only mildly reduced in the other.",
+        "Simultaneously administration of beta-adrenergic blocking drugs and verapamil may result in profound adverse interactions and should only be administered with great caution."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000319\tChemical\tbeta-adrenergic blocking drugs\tAdverse interaction between <target> beta-adrenergic blocking drugs </target> and verapamil -- report of three cases .",
+        "D014700\tChemical\tverapamil\tAdverse interaction between beta-adrenergic blocking drugs and <target> verapamil </target> --report of three cases .",
+        "D017202\tDisease\tischaemic heart disease\tThree patients with <target> ischaemic heart disease </target> developed profound cardiac failure , hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drugs .",
+        "D006333\tDisease\tcardiac failure\tThree patients with ischaemic heart disease developed profound <target> cardiac failure </target> , hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drugs .",
+        "D007022\tDisease\thypotension\tThree patients with ischaemic heart disease developed profound cardiac failure , <target> hypotension </target> and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drugs .",
+        "D001919\tDisease\tbradycardia\tThree patients with ischaemic heart disease developed profound cardiac failure , hypotension and <target> bradycardia </target> during combined therapy with verapamil and beta-adrenergic blocking drugs .",
+        "D014700\tChemical\tverapamil\tThree patients with ischaemic heart disease developed profound cardiac failure , hypotension and bradycardia during combined therapy with <target> verapamil </target> and beta-adrenergic blocking drugs .",
+        "D000319\tChemical\tbeta-adrenergic blocking drugs\tThree patients with ischaemic heart disease developed profound cardiac failure , hypotension and bradycardia during combined therapy with verapamil and <target> beta-adrenergic blocking drugs </target> .",
+        "D000319\tChemical\tbeta-adrenergic blocking drugs\tSimultaneously administration of <target> beta-adrenergic blocking drugs </target> and verapamil may result in profound adverse interactions and should only be administered with great caution .",
+        "D014700\tChemical\tverapamil\tSimultaneously administration of beta-adrenergic blocking drugs and <target> verapamil </target> may result in profound adverse interactions and should only be administered with great caution ."
+    ],
+    "lines_lemma": [
+        "D000319\tChemical\tbeta-adrenergic blocking drugs\tadverse interaction between <target> beta-adrenergic blocking drug </target> and verapamil -- report of three case .",
+        "D014700\tChemical\tverapamil\tadverse interaction between beta-adrenergic blocking drug and <target> verapamil </target> --report of three case .",
+        "D017202\tDisease\tischaemic heart disease\tthree patient with <target> ischaemic heart disease </target> develop profound cardiac failure , hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drug .",
+        "D006333\tDisease\tcardiac failure\tthree patient with ischaemic heart disease develop profound <target> cardiac failure </target> , hypotension and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drug .",
+        "D007022\tDisease\thypotension\tthree patient with ischaemic heart disease develop profound cardiac failure , <target> hypotension </target> and bradycardia during combined therapy with verapamil and beta-adrenergic blocking drug .",
+        "D001919\tDisease\tbradycardia\tthree patient with ischaemic heart disease develop profound cardiac failure , hypotension and <target> bradycardia </target> during combined therapy with verapamil and beta-adrenergic blocking drug .",
+        "D014700\tChemical\tverapamil\tthree patient with ischaemic heart disease develop profound cardiac failure , hypotension and bradycardia during combined therapy with <target> verapamil </target> and beta-adrenergic blocking drug .",
+        "D000319\tChemical\tbeta-adrenergic blocking drugs\tthree patient with ischaemic heart disease develop profound cardiac failure , hypotension and bradycardia during combined therapy with verapamil and <target> beta-adrenergic blocking drug </target> .",
+        "D000319\tChemical\tbeta-adrenergic blocking drugs\tsimultaneously administration of <target> beta-adrenergic blocking drug </target> and verapamil may result in profound adverse interaction and should only be administer with great caution .",
+        "D014700\tChemical\tverapamil\tsimultaneously administration of beta-adrenergic blocking drug and <target> verapamil </target> may result in profound adverse interaction and should only be administer with great caution ."
+    ]
+}

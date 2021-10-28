@@ -1,0 +1,63 @@
+{
+    "title": "Convulsion following intravenous fluorescein angiography.",
+    "abst": "Tonic-clonic seizures followed intravenous fluorescein injection for fundus angiography in a 47-year-old male. Despite precautions this adverse reaction recurred on re-exposure to intravenous fluorescein.",
+    "title_plus_abst": "Convulsion following intravenous fluorescein angiography. Tonic-clonic seizures followed intravenous fluorescein injection for fundus angiography in a 47-year-old male. Despite precautions this adverse reaction recurred on re-exposure to intravenous fluorescein.",
+    "pubmed_id": "2765447",
+    "entities": [
+        [
+            0,
+            10,
+            "Convulsion",
+            "Disease",
+            "D012640"
+        ],
+        [
+            33,
+            44,
+            "fluorescein",
+            "Chemical",
+            "D019793"
+        ],
+        [
+            58,
+            79,
+            "Tonic-clonic seizures",
+            "Disease",
+            "D004830"
+        ],
+        [
+            101,
+            112,
+            "fluorescein",
+            "Chemical",
+            "D019793"
+        ],
+        [
+            250,
+            261,
+            "fluorescein",
+            "Chemical",
+            "D019793"
+        ]
+    ],
+    "split_sentence": [
+        "Convulsion following intravenous fluorescein angiography.",
+        "Tonic-clonic seizures followed intravenous fluorescein injection for fundus angiography in a 47-year-old male.",
+        "Despite precautions this adverse reaction recurred on re-exposure to intravenous fluorescein."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012640\tDisease\tConvulsion\t<target> Convulsion </target> following intravenous fluorescein angiography .",
+        "D019793\tChemical\tfluorescein\tConvulsion following intravenous <target> fluorescein </target> angiography .",
+        "D004830\tDisease\tTonic-clonic seizures\t<target> Tonic-clonic seizures </target> followed intravenous fluorescein injection for fundus angiography in a 47-year-old male .",
+        "D019793\tChemical\tfluorescein\tTonic-clonic seizures followed intravenous <target> fluorescein </target> injection for fundus angiography in a 47-year-old male .",
+        "D019793\tChemical\tfluorescein\tDespite precautions this adverse reaction recurred on re-exposure to intravenous <target> fluorescein </target> ."
+    ],
+    "lines_lemma": [
+        "D012640\tDisease\tConvulsion\t<target> Convulsion </target> follow intravenous fluorescein angiography .",
+        "D019793\tChemical\tfluorescein\tConvulsion follow intravenous <target> fluorescein </target> angiography .",
+        "D004830\tDisease\tTonic-clonic seizures\t<target> tonic-clonic seizure </target> follow intravenous fluorescein injection for fundus angiography in a 47-year-old male .",
+        "D019793\tChemical\tfluorescein\ttonic-clonic seizure follow intravenous <target> fluorescein </target> injection for fundus angiography in a 47-year-old male .",
+        "D019793\tChemical\tfluorescein\tdespite precaution this adverse reaction recur on re-exposure to intravenous <target> fluorescein </target> ."
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "A case of isotretinoin embryopathy with bilateral anotia and Taussig-Bing malformation.",
+    "abst": "We report a newborn infant with multiple congenital anomalies (anotia and Taussig-Bing malformation) due to exposure to isotretinoin within the first trimester. In this paper we aim to draw to the fact that caution is needed when prescribing vitamin A-containing drugs to women of childbearing years.",
+    "title_plus_abst": "A case of isotretinoin embryopathy with bilateral anotia and Taussig-Bing malformation. We report a newborn infant with multiple congenital anomalies (anotia and Taussig-Bing malformation) due to exposure to isotretinoin within the first trimester. In this paper we aim to draw to the fact that caution is needed when prescribing vitamin A-containing drugs to women of childbearing years.",
+    "pubmed_id": "11105626",
+    "entities": [
+        [
+            10,
+            34,
+            "isotretinoin embryopathy",
+            "Disease",
+            "C535670"
+        ],
+        [
+            50,
+            56,
+            "anotia",
+            "Disease",
+            "D065817"
+        ],
+        [
+            61,
+            86,
+            "Taussig-Bing malformation",
+            "Disease",
+            "D004310"
+        ],
+        [
+            151,
+            157,
+            "anotia",
+            "Disease",
+            "D065817"
+        ],
+        [
+            162,
+            187,
+            "Taussig-Bing malformation",
+            "Disease",
+            "D004310"
+        ],
+        [
+            208,
+            220,
+            "isotretinoin",
+            "Chemical",
+            "D015474"
+        ],
+        [
+            330,
+            339,
+            "vitamin A",
+            "Chemical",
+            "D014801"
+        ]
+    ],
+    "split_sentence": [
+        "A case of isotretinoin embryopathy with bilateral anotia and Taussig-Bing malformation.",
+        "We report a newborn infant with multiple congenital anomalies (anotia and Taussig-Bing malformation) due to exposure to isotretinoin within the first trimester.",
+        "In this paper we aim to draw to the fact that caution is needed when prescribing vitamin A-containing drugs to women of childbearing years."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C535670\tDisease\tisotretinoin embryopathy\tA case of <target> isotretinoin embryopathy </target> with bilateral anotia and Taussig-Bing malformation .",
+        "D065817\tDisease\tanotia\tA case of isotretinoin embryopathy with bilateral <target> anotia </target> and Taussig-Bing malformation .",
+        "D004310\tDisease\tTaussig-Bing malformation\tA case of isotretinoin embryopathy with bilateral anotia and <target> Taussig-Bing malformation </target> .",
+        "D065817\tDisease\tanotia\tWe report a newborn infant with multiple congenital anomalies ( <target> anotia </target> and Taussig-Bing malformation ) due to exposure to isotretinoin within the first trimester .",
+        "D004310\tDisease\tTaussig-Bing malformation\tWe report a newborn infant with multiple congenital anomalies ( anotia and <target> Taussig-Bing malformation </target> ) due to exposure to isotretinoin within the first trimester .",
+        "D015474\tChemical\tisotretinoin\tWe report a newborn infant with multiple congenital anomalies ( anotia and Taussig-Bing malformation ) due to exposure to <target> isotretinoin </target> within the first trimester .",
+        "D014801\tChemical\tvitamin A\tIn this paper we aim to draw to the fact that caution is needed when prescribing <target> vitamin A </target> -containing drugs to women of childbearing years ."
+    ],
+    "lines_lemma": [
+        "C535670\tDisease\tisotretinoin embryopathy\ta case of <target> isotretinoin embryopathy </target> with bilateral anotia and taussig-bing malformation .",
+        "D065817\tDisease\tanotia\ta case of isotretinoin embryopathy with bilateral <target> anotia </target> and taussig-bing malformation .",
+        "D004310\tDisease\tTaussig-Bing malformation\ta case of isotretinoin embryopathy with bilateral anotia and <target> taussig-bing malformation </target> .",
+        "D065817\tDisease\tanotia\twe report a newborn infant with multiple congenital anomaly ( <target> anotia </target> and taussig-bing malformation ) due to exposure to isotretinoin within the first trimester .",
+        "D004310\tDisease\tTaussig-Bing malformation\twe report a newborn infant with multiple congenital anomaly ( anotia and <target> taussig-bing malformation </target> ) due to exposure to isotretinoin within the first trimester .",
+        "D015474\tChemical\tisotretinoin\twe report a newborn infant with multiple congenital anomaly ( anotia and taussig-bing malformation ) due to exposure to <target> isotretinoin </target> within the first trimester .",
+        "D014801\tChemical\tvitamin A\tin this paper we aim to draw to the fact that caution be need when prescribe <target> vitamin a </target> -containing drug to woman of childbearing year ."
+    ]
+}

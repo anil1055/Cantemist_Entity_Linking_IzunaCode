@@ -1,0 +1,173 @@
+{
+    "title": "Hyperosmolar nonketotic coma precipitated by lithium-induced nephrogenic diabetes insipidus.",
+    "abst": "A 45-year-old man, with a 10-year history of manic depression treated with lithium, was admitted with hyperosmolar, nonketotic coma. He gave a five-year history of polyuria and polydipsia, during which time urinalysis had been negative for glucose. After recovery from hyperglycaemia, he remained polyuric despite normal blood glucose concentrations; water deprivation testing indicated nephrogenic diabetes insipidus, likely to be lithium-induced. We hypothesize that when this man developed type 2 diabetes, chronic polyuria due to nephrogenic diabetes insipidus was sufficient to precipitate hyperosmolar dehydration.",
+    "title_plus_abst": "Hyperosmolar nonketotic coma precipitated by lithium-induced nephrogenic diabetes insipidus. A 45-year-old man, with a 10-year history of manic depression treated with lithium, was admitted with hyperosmolar, nonketotic coma. He gave a five-year history of polyuria and polydipsia, during which time urinalysis had been negative for glucose. After recovery from hyperglycaemia, he remained polyuric despite normal blood glucose concentrations; water deprivation testing indicated nephrogenic diabetes insipidus, likely to be lithium-induced. We hypothesize that when this man developed type 2 diabetes, chronic polyuria due to nephrogenic diabetes insipidus was sufficient to precipitate hyperosmolar dehydration.",
+    "pubmed_id": "9538487",
+    "entities": [
+        [
+            0,
+            28,
+            "Hyperosmolar nonketotic coma",
+            "Disease",
+            "D006944"
+        ],
+        [
+            45,
+            52,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            61,
+            91,
+            "nephrogenic diabetes insipidus",
+            "Disease",
+            "D018500"
+        ],
+        [
+            138,
+            154,
+            "manic depression",
+            "Disease",
+            "D001714"
+        ],
+        [
+            168,
+            175,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            195,
+            224,
+            "hyperosmolar, nonketotic coma",
+            "Disease",
+            "D006944"
+        ],
+        [
+            257,
+            265,
+            "polyuria",
+            "Disease",
+            "D011141"
+        ],
+        [
+            270,
+            280,
+            "polydipsia",
+            "Disease",
+            "D059606"
+        ],
+        [
+            333,
+            340,
+            "glucose",
+            "Chemical",
+            "D005947"
+        ],
+        [
+            390,
+            398,
+            "polyuric",
+            "Disease",
+            "D011141"
+        ],
+        [
+            420,
+            427,
+            "glucose",
+            "Chemical",
+            "D005947"
+        ],
+        [
+            480,
+            510,
+            "nephrogenic diabetes insipidus",
+            "Disease",
+            "D018500"
+        ],
+        [
+            525,
+            532,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            586,
+            601,
+            "type 2 diabetes",
+            "Disease",
+            "D003924"
+        ],
+        [
+            611,
+            619,
+            "polyuria",
+            "Disease",
+            "D011141"
+        ],
+        [
+            627,
+            657,
+            "nephrogenic diabetes insipidus",
+            "Disease",
+            "D018500"
+        ],
+        [
+            701,
+            712,
+            "dehydration",
+            "Disease",
+            "D003681"
+        ]
+    ],
+    "split_sentence": [
+        "Hyperosmolar nonketotic coma precipitated by lithium-induced nephrogenic diabetes insipidus.",
+        "A 45-year-old man, with a 10-year history of manic depression treated with lithium, was admitted with hyperosmolar, nonketotic coma.",
+        "He gave a five-year history of polyuria and polydipsia, during which time urinalysis had been negative for glucose.",
+        "After recovery from hyperglycaemia, he remained polyuric despite normal blood glucose concentrations; water deprivation testing indicated nephrogenic diabetes insipidus, likely to be lithium-induced.",
+        "We hypothesize that when this man developed type 2 diabetes, chronic polyuria due to nephrogenic diabetes insipidus was sufficient to precipitate hyperosmolar dehydration."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006944\tDisease\tHyperosmolar nonketotic coma\t<target> Hyperosmolar nonketotic coma </target> precipitated by lithium-induced nephrogenic diabetes insipidus .",
+        "D008094\tChemical\tlithium\tHyperosmolar nonketotic coma precipitated by <target> lithium </target> -induced nephrogenic diabetes insipidus .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\tHyperosmolar nonketotic coma precipitated by lithium-induced <target> nephrogenic diabetes insipidus </target> .",
+        "D001714\tDisease\tmanic depression\tA 45-year-old man , with a 10-year history of <target> manic depression </target> treated with lithium , was admitted with hyperosmolar , nonketotic coma .",
+        "D008094\tChemical\tlithium\tA 45-year-old man , with a 10-year history of manic depression treated with <target> lithium </target> , was admitted with hyperosmolar , nonketotic coma .",
+        "D006944\tDisease\thyperosmolar, nonketotic coma\tA 45-year-old man , with a 10-year history of manic depression treated with lithium , was admitted with <target> hyperosmolar , nonketotic coma </target> .",
+        "D011141\tDisease\tpolyuria\tHe gave a five-year history of <target> polyuria </target> and polydipsia , during which time urinalysis had been negative for glucose .",
+        "D059606\tDisease\tpolydipsia\tHe gave a five-year history of polyuria and <target> polydipsia </target> , during which time urinalysis had been negative for glucose .",
+        "D005947\tChemical\tglucose\tHe gave a five-year history of polyuria and polydipsia , during which time urinalysis had been negative for <target> glucose </target> .",
+        "D011141\tDisease\tpolyuric\tAfter recovery from hyperglycaemia , he remained <target> polyuric </target> despite normal blood glucose concentrations ; water deprivation testing indicated nephrogenic diabetes insipidus , likely to be lithium-induced .",
+        "D005947\tChemical\tglucose\tAfter recovery from hyperglycaemia , he remained polyuric despite normal blood <target> glucose </target> concentrations ; water deprivation testing indicated nephrogenic diabetes insipidus , likely to be lithium-induced .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\tAfter recovery from hyperglycaemia , he remained polyuric despite normal blood glucose concentrations ; water deprivation testing indicated <target> nephrogenic diabetes insipidus </target> , likely to be lithium-induced .",
+        "D008094\tChemical\tlithium\tAfter recovery from hyperglycaemia , he remained polyuric despite normal blood glucose concentrations ; water deprivation testing indicated nephrogenic diabetes insipidus , likely to be <target> lithium </target> -induced .",
+        "D003924\tDisease\ttype 2 diabetes\tWe hypothesize that when this man developed <target> type 2 diabetes </target> , chronic polyuria due to nephrogenic diabetes insipidus was sufficient to precipitate hyperosmolar dehydration .",
+        "D011141\tDisease\tpolyuria\tWe hypothesize that when this man developed type 2 diabetes , chronic <target> polyuria </target> due to nephrogenic diabetes insipidus was sufficient to precipitate hyperosmolar dehydration .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\tWe hypothesize that when this man developed type 2 diabetes , chronic polyuria due to <target> nephrogenic diabetes insipidus </target> was sufficient to precipitate hyperosmolar dehydration .",
+        "D003681\tDisease\tdehydration\tWe hypothesize that when this man developed type 2 diabetes , chronic polyuria due to nephrogenic diabetes insipidus was sufficient to precipitate hyperosmolar <target> dehydration </target> ."
+    ],
+    "lines_lemma": [
+        "D006944\tDisease\tHyperosmolar nonketotic coma\t<target> hyperosmolar nonketotic coma </target> precipitate by lithium-induced nephrogenic diabete insipidu .",
+        "D008094\tChemical\tlithium\thyperosmolar nonketotic coma precipitate by <target> lithium </target> -induced nephrogenic diabete insipidu .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\thyperosmolar nonketotic coma precipitate by lithium-induced <target> nephrogenic diabete insipidu </target> .",
+        "D001714\tDisease\tmanic depression\ta 45-year-old man , with a 10-year history of <target> manic depression </target> treat with lithium , be admit with hyperosmolar , nonketotic coma .",
+        "D008094\tChemical\tlithium\ta 45-year-old man , with a 10-year history of manic depression treat with <target> lithium </target> , be admit with hyperosmolar , nonketotic coma .",
+        "D006944\tDisease\thyperosmolar, nonketotic coma\ta 45-year-old man , with a 10-year history of manic depression treat with lithium , be admit with <target> hyperosmolar , nonketotic coma </target> .",
+        "D011141\tDisease\tpolyuria\the give a five-year history of <target> polyuria </target> and polydipsia , during which time urinalysis have be negative for glucose .",
+        "D059606\tDisease\tpolydipsia\the give a five-year history of polyuria and <target> polydipsia </target> , during which time urinalysis have be negative for glucose .",
+        "D005947\tChemical\tglucose\the give a five-year history of polyuria and polydipsia , during which time urinalysis have be negative for <target> glucose </target> .",
+        "D011141\tDisease\tpolyuric\tafter recovery from hyperglycaemia , he remain <target> polyuric </target> despite normal blood glucose concentration ; water deprivation testing indicate nephrogenic diabete insipidu , likely to be lithium-induced .",
+        "D005947\tChemical\tglucose\tafter recovery from hyperglycaemia , he remain polyuric despite normal blood <target> glucose </target> concentration ; water deprivation testing indicate nephrogenic diabete insipidu , likely to be lithium-induced .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\tafter recovery from hyperglycaemia , he remain polyuric despite normal blood glucose concentration ; water deprivation testing indicate <target> nephrogenic diabete insipidu </target> , likely to be lithium-induced .",
+        "D008094\tChemical\tlithium\tafter recovery from hyperglycaemia , he remain polyuric despite normal blood glucose concentration ; water deprivation testing indicate nephrogenic diabete insipidu , likely to be <target> lithium </target> -induced .",
+        "D003924\tDisease\ttype 2 diabetes\twe hypothesize that when this man develop <target> type 2 diabete </target> , chronic polyuria due to nephrogenic diabete insipidu be sufficient to precipitate hyperosmolar dehydration .",
+        "D011141\tDisease\tpolyuria\twe hypothesize that when this man develop type 2 diabete , chronic <target> polyuria </target> due to nephrogenic diabete insipidu be sufficient to precipitate hyperosmolar dehydration .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\twe hypothesize that when this man develop type 2 diabete , chronic polyuria due to <target> nephrogenic diabete insipidu </target> be sufficient to precipitate hyperosmolar dehydration .",
+        "D003681\tDisease\tdehydration\twe hypothesize that when this man develop type 2 diabete , chronic polyuria due to nephrogenic diabete insipidu be sufficient to precipitate hyperosmolar <target> dehydration </target> ."
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "title": "The ability of insulin treatment to reverse or prevent the changes in urinary bladder function caused by streptozotocin-induced diabetes mellitus.",
+    "abst": "1. The effects of insulin treatment on in vivo and in vitro urinary bladder function in streptozotocin-diabetic rats were investigated. 2. Diabetes of 2 months duration resulted in decreases in body weight and increases in fluid consumption, urine volume, frequency of micturition, and average volume per micturition; effects which were prevented by insulin treatment. 3. Insulin treatment also prevented the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation, ATP, and bethanechol. 4. Diabetes of 4 months duration also resulted in decreases in body weight, and increases in fluid consumption, urine volume, frequency of micturition, and average volume per micturition, effects which were reversed by insulin treatment for the final 2 months of the study. 5. Insulin treatment reversed the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation, ATP, and bethanechol. 6. The data indicate that the effects of streptozotocin-induced diabetes on urinary bladder function are both prevented and reversed by insulin treatment.",
+    "title_plus_abst": "The ability of insulin treatment to reverse or prevent the changes in urinary bladder function caused by streptozotocin-induced diabetes mellitus. 1. The effects of insulin treatment on in vivo and in vitro urinary bladder function in streptozotocin-diabetic rats were investigated. 2. Diabetes of 2 months duration resulted in decreases in body weight and increases in fluid consumption, urine volume, frequency of micturition, and average volume per micturition; effects which were prevented by insulin treatment. 3. Insulin treatment also prevented the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation, ATP, and bethanechol. 4. Diabetes of 4 months duration also resulted in decreases in body weight, and increases in fluid consumption, urine volume, frequency of micturition, and average volume per micturition, effects which were reversed by insulin treatment for the final 2 months of the study. 5. Insulin treatment reversed the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation, ATP, and bethanechol. 6. The data indicate that the effects of streptozotocin-induced diabetes on urinary bladder function are both prevented and reversed by insulin treatment.",
+    "pubmed_id": "2055425",
+    "entities": [
+        [
+            105,
+            119,
+            "streptozotocin",
+            "Chemical",
+            "D013311"
+        ],
+        [
+            128,
+            145,
+            "diabetes mellitus",
+            "Disease",
+            "D003920"
+        ],
+        [
+            235,
+            249,
+            "streptozotocin",
+            "Chemical",
+            "D013311"
+        ],
+        [
+            250,
+            258,
+            "diabetic",
+            "Disease",
+            "D003920"
+        ],
+        [
+            286,
+            294,
+            "Diabetes",
+            "Disease",
+            "D003920"
+        ],
+        [
+            619,
+            627,
+            "diabetic",
+            "Disease",
+            "D003920"
+        ],
+        [
+            655,
+            658,
+            "ATP",
+            "Chemical",
+            "D000255"
+        ],
+        [
+            664,
+            675,
+            "bethanechol",
+            "Chemical",
+            "D018723"
+        ],
+        [
+            680,
+            688,
+            "Diabetes",
+            "Disease",
+            "D003920"
+        ],
+        [
+            1048,
+            1056,
+            "diabetic",
+            "Disease",
+            "D003920"
+        ],
+        [
+            1084,
+            1087,
+            "ATP",
+            "Chemical",
+            "D000255"
+        ],
+        [
+            1093,
+            1104,
+            "bethanechol",
+            "Chemical",
+            "D018723"
+        ],
+        [
+            1147,
+            1161,
+            "streptozotocin",
+            "Chemical",
+            "D013311"
+        ],
+        [
+            1170,
+            1178,
+            "diabetes",
+            "Disease",
+            "D003920"
+        ]
+    ],
+    "split_sentence": [
+        "The ability of insulin treatment to reverse or prevent the changes in urinary bladder function caused by streptozotocin-induced diabetes mellitus.",
+        "1.",
+        "The effects of insulin treatment on in vivo and in vitro urinary bladder function in streptozotocin-diabetic rats were investigated.",
+        "2. Diabetes of 2 months duration resulted in decreases in body weight and increases in fluid consumption, urine volume, frequency of micturition, and average volume per micturition; effects which were prevented by insulin treatment.",
+        "3.",
+        "Insulin treatment also prevented the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation, ATP, and bethanechol.",
+        "4. Diabetes of 4 months duration also resulted in decreases in body weight, and increases in fluid consumption, urine volume, frequency of micturition, and average volume per micturition, effects which were reversed by insulin treatment for the final 2 months of the study.",
+        "5.",
+        "Insulin treatment reversed the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation, ATP, and bethanechol.",
+        "6.",
+        "The data indicate that the effects of streptozotocin-induced diabetes on urinary bladder function are both prevented and reversed by insulin treatment."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013311\tChemical\tstreptozotocin\tThe ability of insulin treatment to reverse or prevent the changes in urinary bladder function caused by <target> streptozotocin </target> -induced diabetes mellitus .",
+        "D003920\tDisease\tdiabetes mellitus\tThe ability of insulin treatment to reverse or prevent the changes in urinary bladder function caused by streptozotocin-induced <target> diabetes mellitus </target> .",
+        "D013311\tChemical\tstreptozotocin\tThe effects of insulin treatment on in vivo and in vitro urinary bladder function in <target> streptozotocin </target> -diabetic rats were investigated .",
+        "D003920\tDisease\tdiabetic\tThe effects of insulin treatment on in vivo and in vitro urinary bladder function in streptozotocin- <target> diabetic </target> rats were investigated .",
+        "D003920\tDisease\tDiabetes\t2 . <target> Diabetes </target> of 2 months duration resulted in decreases in body weight and increases in fluid consumption , urine volume , frequency of micturition , and average volume per micturition ; effects which were prevented by insulin treatment .",
+        "D003920\tDisease\tdiabetic\tInsulin treatment also prevented the increases in contractile responses of bladder body strips from <target> diabetic </target> rats to nerve stimulation , ATP , and bethanechol .",
+        "D000255\tChemical\tATP\tInsulin treatment also prevented the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation , <target> ATP </target> , and bethanechol .",
+        "D018723\tChemical\tbethanechol\tInsulin treatment also prevented the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation , ATP , and <target> bethanechol </target> .",
+        "D003920\tDisease\tDiabetes\t4 . <target> Diabetes </target> of 4 months duration also resulted in decreases in body weight , and increases in fluid consumption , urine volume , frequency of micturition , and average volume per micturition , effects which were reversed by insulin treatment for the final 2 months of the study .",
+        "D003920\tDisease\tdiabetic\tInsulin treatment reversed the increases in contractile responses of bladder body strips from <target> diabetic </target> rats to nerve stimulation , ATP , and bethanechol .",
+        "D000255\tChemical\tATP\tInsulin treatment reversed the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation , <target> ATP </target> , and bethanechol .",
+        "D018723\tChemical\tbethanechol\tInsulin treatment reversed the increases in contractile responses of bladder body strips from diabetic rats to nerve stimulation , ATP , and <target> bethanechol </target> .",
+        "D013311\tChemical\tstreptozotocin\tThe data indicate that the effects of <target> streptozotocin </target> -induced diabetes on urinary bladder function are both prevented and reversed by insulin treatment .",
+        "D003920\tDisease\tdiabetes\tThe data indicate that the effects of streptozotocin-induced <target> diabetes </target> on urinary bladder function are both prevented and reversed by insulin treatment ."
+    ],
+    "lines_lemma": [
+        "D013311\tChemical\tstreptozotocin\tthe ability of insulin treatment to reverse or prevent the change in urinary bladder function cause by <target> streptozotocin </target> -induced diabete mellitus .",
+        "D003920\tDisease\tdiabetes mellitus\tthe ability of insulin treatment to reverse or prevent the change in urinary bladder function cause by streptozotocin-induced <target> diabete mellitus </target> .",
+        "D013311\tChemical\tstreptozotocin\tthe effect of insulin treatment on in vivo and in vitro urinary bladder function in <target> streptozotocin </target> -diabetic rat be investigate .",
+        "D003920\tDisease\tdiabetic\tthe effect of insulin treatment on in vivo and in vitro urinary bladder function in streptozotocin- <target> diabetic </target> rat be investigate .",
+        "D003920\tDisease\tDiabetes\t2 . <target> Diabetes </target> of 2 month duration result in decrease in body weight and increase in fluid consumption , urine volume , frequency of micturition , and average volume per micturition ; effect which be prevent by insulin treatment .",
+        "D003920\tDisease\tdiabetic\tinsulin treatment also prevent the increase in contractile response of bladder body strip from <target> diabetic </target> rat to nerve stimulation , atp , and bethanechol .",
+        "D000255\tChemical\tATP\tinsulin treatment also prevent the increase in contractile response of bladder body strip from diabetic rat to nerve stimulation , <target> atp </target> , and bethanechol .",
+        "D018723\tChemical\tbethanechol\tinsulin treatment also prevent the increase in contractile response of bladder body strip from diabetic rat to nerve stimulation , atp , and <target> bethanechol </target> .",
+        "D003920\tDisease\tDiabetes\t4 . <target> Diabetes </target> of 4 month duration also result in decrease in body weight , and increase in fluid consumption , urine volume , frequency of micturition , and average volume per micturition , effect which be reverse by insulin treatment for the final 2 month of the study .",
+        "D003920\tDisease\tdiabetic\tinsulin treatment reverse the increase in contractile response of bladder body strip from <target> diabetic </target> rat to nerve stimulation , atp , and bethanechol .",
+        "D000255\tChemical\tATP\tinsulin treatment reverse the increase in contractile response of bladder body strip from diabetic rat to nerve stimulation , <target> atp </target> , and bethanechol .",
+        "D018723\tChemical\tbethanechol\tinsulin treatment reverse the increase in contractile response of bladder body strip from diabetic rat to nerve stimulation , atp , and <target> bethanechol </target> .",
+        "D013311\tChemical\tstreptozotocin\tthe datum indicate that the effect of <target> streptozotocin </target> -induced diabete on urinary bladder function be both prevent and reverse by insulin treatment .",
+        "D003920\tDisease\tdiabetes\tthe datum indicate that the effect of streptozotocin-induced <target> diabete </target> on urinary bladder function be both prevent and reverse by insulin treatment ."
+    ]
+}

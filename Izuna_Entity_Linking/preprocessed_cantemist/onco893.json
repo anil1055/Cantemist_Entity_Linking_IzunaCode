@@ -1,0 +1,127 @@
+{
+    "entities": [
+        [
+            935,
+            947,
+            "angiosarcoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "9120/3"
+        ],
+        [
+            553,
+            563,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            1119,
+            1129,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2784,
+            2794,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1324,
+            1331,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1206,
+            1312,
+            "Angiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC)",
+            "MORFOLOGIA_NEOPLASIA",
+            "9120/33"
+        ],
+        [
+            1525,
+            1527,
+            "Mx",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2709,
+            2735,
+            "metástasis de angiosarcoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "9120/6"
+        ],
+        [
+            2061,
+            2078,
+            "nódulo subcutáneo",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Se decide, por tanto, realizar exéresis quirúrgica de la lesión cutánea por parte de Dermatología el 31 de diciembre 2016, siendo informada como histología compatible con  <objetivo> angiosarcoma </objetivo> cutáneo.",
+        "Al realizarse inmunohistoquímica se observa expresión de CD31, CD34 y factor VIII , con expresión de receptores estrogénicos negativos, lo que sugiere metástasis de  <objetivo> angiosarcoma </objetivo> ",
+        "Se toma biopsia de la lesión de mayor tamaño, resultando inespecífica y sin signos de  <objetivo> malignidad </objetivo> ",
+        "Se realiza TC toracoabdominal para estadiaje de la enfermedad, visualizándose un aumento de la densidad mamaria con engrosamiento cutáneo asociado, sospechoso de  <objetivo> malignidad </objetivo> sin evidenciarse adenopatías mediastínicas ni intrabdominales.",
+        "Se toma biopsia de la lesión de mayor tamaño, resultando inespecífica y sin signos de  <objetivo> malignidad </objetivo> ",
+        "Se realiza TC toracoabdominal para estadiaje de la enfermedad, visualizándose un aumento de la densidad mamaria con engrosamiento cutáneo asociado, sospechoso de  <objetivo> malignidad </objetivo> sin evidenciarse adenopatías mediastínicas ni intrabdominales.",
+        "Al realizarse inmunohistoquímica se observa expresión de CD31, CD34 y factor VIII , con expresión de receptores estrogénicos negativos, lo que sugiere  <objetivo> metástasis </objetivo> de angiosarcoma.",
+        "En abril de 2017, se reseca quirúrgicamente la  <objetivo> metástasis </objetivo> con bordes libres.",
+        "Angiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC), extensión  <objetivo> tumoral </objetivo> hasta tejido celular subcutáneo, índice mitótico de 24 mitosis/10 CGA con márgenes libres.",
+        "<objetivo> Angiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC) </objetivo>  extensión tumoral hasta tejido celular subcutáneo, índice mitótico de 24 mitosis/10 CGA con márgenes libres.",
+        "Estadio TNM: pT1a Nx  <objetivo> Mx </objetivo> ",
+        "Al realizarse inmunohistoquímica se observa expresión de CD31, CD34 y factor VIII , con expresión de receptores estrogénicos negativos, lo que sugiere  <objetivo> metástasis de angiosarcoma </objetivo> ",
+        "En marzo 2017, se realiza PET para actualizar la situación de la enfermedad, objetivándose un  <objetivo> nódulo subcutáneo </objetivo> de 8 mm hipermetabólico con SULpeak 1.9 situado en región anterior al extremo proximal de clavícula izquierda, y que impresiona de adenopatía patológica (SULpeak de referencia 2.65)."
+    ],
+    "lines_lemma": [
+        "él decidir , por tanto , realizar exéresis quirúrgico de el lesión cutáneo por parte de Dermatología el 31 de diciembre 2016 , ser informar como histología compatible con   <objetivo> angiosarcomar </objetivo> cutáneo .",
+        "al realizar él inmunohistoquímico él observar expresión de CD31 , CD34 y factor VIII , con expresión de receptor estrogénico negativo , él que sugerir metástasis de   <objetivo> angiosarcomar </objetivo>",
+        "él tomar biopsia de el lesión de mayor tamaño , resultar inespecífica y sin signo de   <objetivo> malignidad </objetivo>",
+        "él realizar TC toracoabdominal para estadiaje de el enfermedad , visualizar él uno aumento de el densidad mamario con engrosamiento cutáneo asociado , sospechoso de   <objetivo> malignidad </objetivo> sin evidenciar él adenopatía mediastínica ni intrabdominal .",
+        "él tomar biopsia de el lesión de mayor tamaño , resultar inespecífica y sin signo de   <objetivo> malignidad </objetivo>",
+        "él realizar TC toracoabdominal para estadiaje de el enfermedad , visualizar él uno aumento de el densidad mamario con engrosamiento cutáneo asociado , sospechoso de   <objetivo> malignidad </objetivo> sin evidenciar él adenopatía mediastínica ni intrabdominal .",
+        "al realizar él inmunohistoquímico él observar expresión de CD31 , CD34 y factor VIII , con expresión de receptor estrogénico negativo , él que sugerir   <objetivo> metástasi </objetivo> de angiosarcoma .",
+        "en abril de 2017 , él resecar quirúrgicamente el   <objetivo> metástasi </objetivo> con borde libre .",
+        "angiosarcomir cutáneo convencional de 4.5 cm , grado histológico 3 ( según sistema de gradación de el FNCLCC ) , extensión   <objetivo> tumoral </objetivo> hasta tejer celular subcutáneo , índice mitótico de 24 mitosis/10 CGA con margen libre .",
+        "<objetivo> Angiosarcoma cutáneo convencional de 4.5 cm , grado histológico 3 ( según sistema de gradación de el FNCLCC ) </objetivo>   extensión tumoral hasta tejer celular subcutáneo , índice mitótico de 24 mitosis/10 CGA con margen libre .",
+        "Estadio TNM : pt1a Nx   <objetivo> mx </objetivo>",
+        "al realizar él inmunohistoquímico él observar expresión de CD31 , CD34 y factor VIII , con expresión de receptor estrogénico negativo , él que sugerir   <objetivo> metástasis de angiosarcoma </objetivo>",
+        "en marzo 2017 , él realizar PET para actualizar el situación de el enfermedad , objetivar él uno   <objetivo> nódulo subcutáneo </objetivo> de 8 mm hipermetabólico con SULpeak 1.9 situado en región anterior al extremo proximal de clavícula izquierdo , y que impresionar de adenopatía patológico ( SULpeak de referencia 2.65 ) ."
+    ],
+    "pubmed_id": "onco893",
+    "split_sentence": [
+        "Exploración física",
+        "La paciente presenta buen estado general, normocoloreada, bien hidratada y perfundida, eupneica.",
+        "Destaca en la exploración la aparición en mama izquierda de una lesión violácea en la zona superior del cuadrante interno de 2 cm y otra lesión violácea, indurada y dolorosa con equimosis subyacente de unos 5 cm sobre la cicatriz.",
+        "En la palpación no se aprecian adenopatías periféricas.",
+        "El resto de la exploración es anodina.",
+        "Pruebas complementarias",
+        "Se toma biopsia de la lesión de mayor tamaño, resultando inespecífica y sin signos de malignidad.",
+        "Ante el aumento de tamaño de la lesión y adquisición de aspecto necrótico, en diciembre de 2016, se remite al servicio de Dermatología quienes repiten la biopsia, obteniéndose los mismos resultados.",
+        "Se decide, por tanto, realizar exéresis quirúrgica de la lesión cutánea por parte de Dermatología el 31 de diciembre 2016, siendo informada como histología compatible con angiosarcoma cutáneo.",
+        "Se realiza TC toracoabdominal para estadiaje de la enfermedad, visualizándose un aumento de la densidad mamaria con engrosamiento cutáneo asociado, sospechoso de malignidad sin evidenciarse adenopatías mediastínicas ni intrabdominales.",
+        "Diagnóstico",
+        "Angiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC), extensión tumoral hasta tejido celular subcutáneo, índice mitótico de 24 mitosis/10 CGA con márgenes libres.",
+        "Inmunohistoquímica positiva para CD34 y negativa para HHV8 con un Ki 67 de 60 %.",
+        "Estadio TNM: pT1a Nx Mx.",
+        "Tratamiento",
+        "Ante la sospecha de persistencia de la enfermedad y rápido crecimiento local, se valora el caso en comité de tumores de mama conjuntamente con Nefrología y Ginecología, decidiéndose realizar mastectomía simple de mama izquierda, que se lleva a cabo en febrero de 2017.",
+        "Evolución",
+        "Es remitida a consulta de Oncología en febrero 2017 para seguimiento y tratamiento posterior, encontrándose la paciente asintomática con ECOG 0.",
+        "En marzo 2017, se realiza PET para actualizar la situación de la enfermedad, objetivándose un nódulo subcutáneo de 8 mm hipermetabólico con SULpeak 1.9 situado en región anterior al extremo proximal de clavícula izquierda, y que impresiona de adenopatía patológica (SULpeak de referencia 2.65).",
+        "Se realiza ecografía de partes blandas, apreciándose la adenopatía sospechosa de 12 x 10 mm, en tejido graso subcutáneo, no adherida ni dependiente del hueso, y se realiza biopsia percutánea.",
+        "Los resultados de Anatomía Patológica revelan tejido de necrosis sin poder reconocer ganglio linfático.",
+        "Al realizarse inmunohistoquímica se observa expresión de CD31, CD34 y factor VIII , con expresión de receptores estrogénicos negativos, lo que sugiere metástasis de angiosarcoma.",
+        "En abril de 2017, se reseca quirúrgicamente la metástasis con bordes libres.",
+        "Dada la ausencia de enfermedad residual macroscópica objetivada en nueva PET (mayo 2017), se desestima tratamiento radioterápico y se decide, tras valorar de nuevo el caso conjuntamente con Nefrología, la administración de paclitaxel a dosis de 80 mg/m2 semanal con intención adyuvante, que se inicia el 5 de junio de 2017.",
+        "Actualmente, lleva tres ciclos de los 12 planificados, administrados sin incidencias y manteniendo la función renal estable (creatinina basal en torno a 3.5)."
+    ],
+    "text": "Exploración física\nLa paciente presenta buen estado general, normocoloreada, bien hidratada y perfundida, eupneica. Destaca en la exploración la aparición en mama izquierda de una lesión violácea en la zona superior del cuadrante interno de 2 cm y otra lesión violácea, indurada y dolorosa con equimosis subyacente de unos 5 cm sobre la cicatriz. En la palpación no se aprecian adenopatías periféricas. El resto de la exploración es anodina.\n\nPruebas complementarias\nSe toma biopsia de la lesión de mayor tamaño, resultando inespecífica y sin signos de malignidad. Ante el aumento de tamaño de la lesión y adquisición de aspecto necrótico, en diciembre de 2016, se remite al servicio de Dermatología quienes repiten la biopsia, obteniéndose los mismos resultados.\nSe decide, por tanto, realizar exéresis quirúrgica de la lesión cutánea por parte de Dermatología el 31 de diciembre 2016, siendo informada como histología compatible con angiosarcoma cutáneo.\nSe realiza TC toracoabdominal para estadiaje de la enfermedad, visualizándose un aumento de la densidad mamaria con engrosamiento cutáneo asociado, sospechoso de malignidad sin evidenciarse adenopatías mediastínicas ni intrabdominales.\n\nDiagnóstico\nAngiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC), extensión tumoral hasta tejido celular subcutáneo, índice mitótico de 24 mitosis/10 CGA con márgenes libres. Inmunohistoquímica positiva para CD34 y negativa para HHV8 con un Ki 67 de 60 %. Estadio TNM: pT1a Nx Mx.\n\nTratamiento\nAnte la sospecha de persistencia de la enfermedad y rápido crecimiento local, se valora el caso en comité de tumores de mama conjuntamente con Nefrología y Ginecología, decidiéndose realizar mastectomía simple de mama izquierda, que se lleva a cabo en febrero de 2017.\n\nEvolución\nEs remitida a consulta de Oncología en febrero 2017 para seguimiento y tratamiento posterior, encontrándose la paciente asintomática con ECOG 0.\nEn marzo 2017, se realiza PET para actualizar la situación de la enfermedad, objetivándose un nódulo subcutáneo de 8 mm hipermetabólico con SULpeak 1.9 situado en región anterior al extremo proximal de clavícula izquierda, y que impresiona de adenopatía patológica (SULpeak de referencia 2.65). Se realiza ecografía de partes blandas, apreciándose la adenopatía sospechosa de 12 x 10 mm, en tejido graso subcutáneo, no adherida ni dependiente del hueso, y se realiza biopsia percutánea.\nLos resultados de Anatomía Patológica revelan tejido de necrosis sin poder reconocer ganglio linfático. Al realizarse inmunohistoquímica se observa expresión de CD31, CD34 y factor VIII , con expresión de receptores estrogénicos negativos, lo que sugiere metástasis de angiosarcoma.\nEn abril de 2017, se reseca quirúrgicamente la metástasis con bordes libres.\nDada la ausencia de enfermedad residual macroscópica objetivada en nueva PET (mayo 2017), se desestima tratamiento radioterápico y se decide, tras valorar de nuevo el caso conjuntamente con Nefrología, la administración de paclitaxel a dosis de 80 mg/m2 semanal con intención adyuvante, que se inicia el 5 de junio de 2017. Actualmente, lleva tres ciclos de los 12 planificados, administrados sin incidencias y manteniendo la función renal estable (creatinina basal en torno a 3.5)."
+}

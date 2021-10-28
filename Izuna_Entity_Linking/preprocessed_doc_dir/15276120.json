@@ -1,0 +1,63 @@
+{
+    "title": "Time trends in warfarin-associated hemorrhage.",
+    "abst": "The annual incidence of warfarin-related bleeding at Brigham and Women's Hospital increased from 0.97/1,000 patient admissions in the first time period (January 1995 to October 1998) to 1.19/1,000 patient admissions in the second time period (November 1998 to August 2002) of this study. The proportion of patients with major and intracranial bleeding increased from 20.2% and 1.9%, respectively, in the first time period, to 33.3% and 7.8%, respectively, in the second.",
+    "title_plus_abst": "Time trends in warfarin-associated hemorrhage. The annual incidence of warfarin-related bleeding at Brigham and Women's Hospital increased from 0.97/1,000 patient admissions in the first time period (January 1995 to October 1998) to 1.19/1,000 patient admissions in the second time period (November 1998 to August 2002) of this study. The proportion of patients with major and intracranial bleeding increased from 20.2% and 1.9%, respectively, in the first time period, to 33.3% and 7.8%, respectively, in the second.",
+    "pubmed_id": "15276120",
+    "entities": [
+        [
+            15,
+            23,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            35,
+            45,
+            "hemorrhage",
+            "Disease",
+            "D006470"
+        ],
+        [
+            71,
+            79,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            88,
+            96,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ],
+        [
+            377,
+            398,
+            "intracranial bleeding",
+            "Disease",
+            "D020300"
+        ]
+    ],
+    "split_sentence": [
+        "Time trends in warfarin-associated hemorrhage.",
+        "The annual incidence of warfarin-related bleeding at Brigham and Women's Hospital increased from 0.97/1,000 patient admissions in the first time period (January 1995 to October 1998) to 1.19/1,000 patient admissions in the second time period (November 1998 to August 2002) of this study.",
+        "The proportion of patients with major and intracranial bleeding increased from 20.2% and 1.9%, respectively, in the first time period, to 33.3% and 7.8%, respectively, in the second."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014859\tChemical\twarfarin\tTime trends in <target> warfarin </target> -associated hemorrhage .",
+        "D006470\tDisease\themorrhage\tTime trends in warfarin-associated <target> hemorrhage </target> .",
+        "D014859\tChemical\twarfarin\tThe annual incidence of <target> warfarin </target> -related bleeding at Brigham and Women 's Hospital increased from 0.97/1,000 patient admissions in the first time period ( January 1995 to October 1998 ) to 1.19/1,000 patient admissions in the second time period ( November 1998 to August 2002 ) of this study .",
+        "D006470\tDisease\tbleeding\tThe annual incidence of warfarin-related <target> bleeding </target> at Brigham and Women 's Hospital increased from 0.97/1,000 patient admissions in the first time period ( January 1995 to October 1998 ) to 1.19/1,000 patient admissions in the second time period ( November 1998 to August 2002 ) of this study .",
+        "D020300\tDisease\tintracranial bleeding\tThe proportion of patients with major and <target> intracranial bleeding </target> increased from 20.2 % and 1.9 % , respectively , in the first time period , to 33.3 % and 7.8 % , respectively , in the second ."
+    ],
+    "lines_lemma": [
+        "D014859\tChemical\twarfarin\ttime trend in <target> warfarin </target> -associated hemorrhage .",
+        "D006470\tDisease\themorrhage\ttime trend in warfarin-associated <target> hemorrhage </target> .",
+        "D014859\tChemical\twarfarin\tthe annual incidence of <target> warfarin </target> -related bleeding at Brigham and Women 's Hospital increase from 0.97/1,000 patient admission in the first time period ( January 1995 to October 1998 ) to 1.19/1,000 patient admission in the second time period ( November 1998 to August 2002 ) of this study .",
+        "D006470\tDisease\tbleeding\tthe annual incidence of warfarin-related <target> bleeding </target> at Brigham and Women 's Hospital increase from 0.97/1,000 patient admission in the first time period ( January 1995 to October 1998 ) to 1.19/1,000 patient admission in the second time period ( November 1998 to August 2002 ) of this study .",
+        "D020300\tDisease\tintracranial bleeding\tthe proportion of patient with major and <target> intracranial bleed </target> increase from 20.2 % and 1.9 % , respectively , in the first time period , to 33.3 % and 7.8 % , respectively , in the second ."
+    ]
+}

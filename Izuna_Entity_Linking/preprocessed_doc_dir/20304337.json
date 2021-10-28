@@ -1,0 +1,64 @@
+{
+    "title": "Brainstem dysgenesis in an infant prenatally exposed to cocaine.",
+    "abst": "Many authors described the effects on the fetus of maternal cocaine abuse during pregnancy. Vasoconstriction appears to be the common mechanism of action leading to a wide range of fetal anomalies. We report on an infant with multiple cranial-nerve involvement attributable to brainstem dysgenesis, born to a cocaine-addicted mother.",
+    "title_plus_abst": "Brainstem dysgenesis in an infant prenatally exposed to cocaine. Many authors described the effects on the fetus of maternal cocaine abuse during pregnancy. Vasoconstriction appears to be the common mechanism of action leading to a wide range of fetal anomalies. We report on an infant with multiple cranial-nerve involvement attributable to brainstem dysgenesis, born to a cocaine-addicted mother.",
+    "pubmed_id": "20304337",
+    "entities": [
+        [
+            56,
+            63,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            125,
+            138,
+            "cocaine abuse",
+            "Disease",
+            "D019970"
+        ],
+        [
+            246,
+            261,
+            "fetal anomalies",
+            "Disease",
+            "D005315"
+        ],
+        [
+            291,
+            325,
+            "multiple cranial-nerve involvement",
+            "Disease",
+            "D003389"
+        ],
+        [
+            374,
+            390,
+            "cocaine-addicted",
+            "Disease",
+            "D019970"
+        ]
+    ],
+    "split_sentence": [
+        "Brainstem dysgenesis in an infant prenatally exposed to cocaine.",
+        "Many authors described the effects on the fetus of maternal cocaine abuse during pregnancy.",
+        "Vasoconstriction appears to be the common mechanism of action leading to a wide range of fetal anomalies.",
+        "We report on an infant with multiple cranial-nerve involvement attributable to brainstem dysgenesis, born to a cocaine-addicted mother."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003042\tChemical\tcocaine\tBrainstem dysgenesis in an infant prenatally exposed to <target> cocaine </target> .",
+        "D019970\tDisease\tcocaine abuse\tMany authors described the effects on the fetus of maternal <target> cocaine abuse </target> during pregnancy .",
+        "D005315\tDisease\tfetal anomalies\tVasoconstriction appears to be the common mechanism of action leading to a wide range of <target> fetal anomalies </target> .",
+        "D003389\tDisease\tmultiple cranial-nerve involvement\tWe report on an infant with <target> multiple cranial-nerve involvement </target> attributable to brainstem dysgenesis , born to a cocaine-addicted mother .",
+        "D019970\tDisease\tcocaine-addicted\tWe report on an infant with multiple cranial-nerve involvement attributable to brainstem dysgenesis , born to a <target> cocaine-addicted </target> mother ."
+    ],
+    "lines_lemma": [
+        "D003042\tChemical\tcocaine\tbrainstem dysgenesis in an infant prenatally expose to <target> cocaine </target> .",
+        "D019970\tDisease\tcocaine abuse\tmany author describe the effect on the fetus of maternal <target> cocaine abuse </target> during pregnancy .",
+        "D005315\tDisease\tfetal anomalies\tVasoconstriction appear to be the common mechanism of action lead to a wide range of <target> fetal anomaly </target> .",
+        "D003389\tDisease\tmultiple cranial-nerve involvement\twe report on an infant with <target> multiple cranial-nerve involvement </target> attributable to brainstem dysgenesis , bear to a cocaine-addicted mother .",
+        "D019970\tDisease\tcocaine-addicted\twe report on an infant with multiple cranial-nerve involvement attributable to brainstem dysgenesis , bear to a <target> cocaine-addicted </target> mother ."
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "title": "Milk-alkali syndrome induced by 1,25(OH)2D in a patient with hypoparathyroidism.",
+    "abst": "Milk-alkali syndrome was first described 70 years ago in the context of the treatment of peptic ulcer disease with large amounts of calcium and alkali. Although with current ulcer therapy (H-2 blockers, omeprazole, and sucralfate), the frequency of milk-alkali syndrome has decreased significantly, the classic triad of hypercalcemia, alkalosis, and renal impairment remains the hallmark of the syndrome. Milk-alkali syndrome can present serious and occasionally life-threatening illness unless diagnosed and treated appropriately. This article presents a patient with hypoparathyroidism who was treated with calcium carbonate and calcitriol resulting in two admissions to the hospital for milk-alkali syndrome. The patient was successfully treated with intravenous pamidronate on his first admission and with hydrocortisone on the second. This illustrates intravenous pamidronate as a valuable therapeutic tool when milk-alkali syndrome presents as hypercalcemic emergency.",
+    "title_plus_abst": "Milk-alkali syndrome induced by 1,25(OH)2D in a patient with hypoparathyroidism. Milk-alkali syndrome was first described 70 years ago in the context of the treatment of peptic ulcer disease with large amounts of calcium and alkali. Although with current ulcer therapy (H-2 blockers, omeprazole, and sucralfate), the frequency of milk-alkali syndrome has decreased significantly, the classic triad of hypercalcemia, alkalosis, and renal impairment remains the hallmark of the syndrome. Milk-alkali syndrome can present serious and occasionally life-threatening illness unless diagnosed and treated appropriately. This article presents a patient with hypoparathyroidism who was treated with calcium carbonate and calcitriol resulting in two admissions to the hospital for milk-alkali syndrome. The patient was successfully treated with intravenous pamidronate on his first admission and with hydrocortisone on the second. This illustrates intravenous pamidronate as a valuable therapeutic tool when milk-alkali syndrome presents as hypercalcemic emergency.",
+    "pubmed_id": "8667442",
+    "entities": [
+        [
+            0,
+            20,
+            "Milk-alkali syndrome",
+            "Disease",
+            "D006934"
+        ],
+        [
+            32,
+            42,
+            "1,25(OH)2D",
+            "Chemical",
+            "D002117"
+        ],
+        [
+            61,
+            79,
+            "hypoparathyroidism",
+            "Disease",
+            "D007011"
+        ],
+        [
+            81,
+            101,
+            "Milk-alkali syndrome",
+            "Disease",
+            "D006934"
+        ],
+        [
+            170,
+            190,
+            "peptic ulcer disease",
+            "Disease",
+            "D010437"
+        ],
+        [
+            213,
+            220,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            225,
+            231,
+            "alkali",
+            "Chemical",
+            "D000468"
+        ],
+        [
+            255,
+            260,
+            "ulcer",
+            "Disease",
+            "D014456"
+        ],
+        [
+            284,
+            294,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            300,
+            310,
+            "sucralfate",
+            "Chemical",
+            "D013392"
+        ],
+        [
+            330,
+            350,
+            "milk-alkali syndrome",
+            "Disease",
+            "D006934"
+        ],
+        [
+            401,
+            414,
+            "hypercalcemia",
+            "Disease",
+            "D006934"
+        ],
+        [
+            416,
+            425,
+            "alkalosis",
+            "Disease",
+            "D000471"
+        ],
+        [
+            431,
+            447,
+            "renal impairment",
+            "Disease",
+            "D051437"
+        ],
+        [
+            486,
+            506,
+            "Milk-alkali syndrome",
+            "Disease",
+            "D006934"
+        ],
+        [
+            650,
+            668,
+            "hypoparathyroidism",
+            "Disease",
+            "D007011"
+        ],
+        [
+            690,
+            707,
+            "calcium carbonate",
+            "Chemical",
+            "D002119"
+        ],
+        [
+            712,
+            722,
+            "calcitriol",
+            "Chemical",
+            "D002117"
+        ],
+        [
+            771,
+            791,
+            "milk-alkali syndrome",
+            "Disease",
+            "D006934"
+        ],
+        [
+            847,
+            858,
+            "pamidronate",
+            "Chemical",
+            "C019248"
+        ],
+        [
+            891,
+            905,
+            "hydrocortisone",
+            "Chemical",
+            "D006854"
+        ],
+        [
+            950,
+            961,
+            "pamidronate",
+            "Chemical",
+            "C019248"
+        ],
+        [
+            998,
+            1018,
+            "milk-alkali syndrome",
+            "Disease",
+            "D006934"
+        ],
+        [
+            1031,
+            1054,
+            "hypercalcemic emergency",
+            "Disease",
+            "D006934"
+        ]
+    ],
+    "split_sentence": [
+        "Milk-alkali syndrome induced by 1,25(OH)2D in a patient with hypoparathyroidism.",
+        "Milk-alkali syndrome was first described 70 years ago in the context of the treatment of peptic ulcer disease with large amounts of calcium and alkali.",
+        "Although with current ulcer therapy (H-2 blockers, omeprazole, and sucralfate), the frequency of milk-alkali syndrome has decreased significantly, the classic triad of hypercalcemia, alkalosis, and renal impairment remains the hallmark of the syndrome.",
+        "Milk-alkali syndrome can present serious and occasionally life-threatening illness unless diagnosed and treated appropriately.",
+        "This article presents a patient with hypoparathyroidism who was treated with calcium carbonate and calcitriol resulting in two admissions to the hospital for milk-alkali syndrome.",
+        "The patient was successfully treated with intravenous pamidronate on his first admission and with hydrocortisone on the second.",
+        "This illustrates intravenous pamidronate as a valuable therapeutic tool when milk-alkali syndrome presents as hypercalcemic emergency."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006934\tDisease\tMilk-alkali syndrome\t<target> Milk-alkali syndrome </target> induced by 1,25(OH)2D in a patient with hypoparathyroidism .",
+        "D002117\tChemical\t1,25(OH)2D\tMilk-alkali syndrome induced by <target> 1,25(OH)2D </target> in a patient with hypoparathyroidism .",
+        "D007011\tDisease\thypoparathyroidism\tMilk-alkali syndrome induced by 1,25(OH)2D in a patient with <target> hypoparathyroidism </target> .",
+        "D006934\tDisease\tMilk-alkali syndrome\t<target> Milk-alkali syndrome </target> was first described 70 years ago in the context of the treatment of peptic ulcer disease with large amounts of calcium and alkali .",
+        "D010437\tDisease\tpeptic ulcer disease\tMilk-alkali syndrome was first described 70 years ago in the context of the treatment of <target> peptic ulcer disease </target> with large amounts of calcium and alkali .",
+        "D002118\tChemical\tcalcium\tMilk-alkali syndrome was first described 70 years ago in the context of the treatment of peptic ulcer disease with large amounts of <target> calcium </target> and alkali .",
+        "D000468\tChemical\talkali\tMilk-alkali syndrome was first described 70 years ago in the context of the treatment of peptic ulcer disease with large amounts of calcium and <target> alkali </target> .",
+        "D014456\tDisease\tulcer\tAlthough with current <target> ulcer </target> therapy ( H-2 blockers , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome has decreased significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remains the hallmark of the syndrome .",
+        "D009853\tChemical\tomeprazole\tAlthough with current ulcer therapy ( H-2 blockers , <target> omeprazole </target> , and sucralfate ) , the frequency of milk-alkali syndrome has decreased significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remains the hallmark of the syndrome .",
+        "D013392\tChemical\tsucralfate\tAlthough with current ulcer therapy ( H-2 blockers , omeprazole , and <target> sucralfate </target> ) , the frequency of milk-alkali syndrome has decreased significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remains the hallmark of the syndrome .",
+        "D006934\tDisease\tmilk-alkali syndrome\tAlthough with current ulcer therapy ( H-2 blockers , omeprazole , and sucralfate ) , the frequency of <target> milk-alkali syndrome </target> has decreased significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remains the hallmark of the syndrome .",
+        "D006934\tDisease\thypercalcemia\tAlthough with current ulcer therapy ( H-2 blockers , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome has decreased significantly , the classic triad of <target> hypercalcemia </target> , alkalosis , and renal impairment remains the hallmark of the syndrome .",
+        "D000471\tDisease\talkalosis\tAlthough with current ulcer therapy ( H-2 blockers , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome has decreased significantly , the classic triad of hypercalcemia , <target> alkalosis </target> , and renal impairment remains the hallmark of the syndrome .",
+        "D051437\tDisease\trenal impairment\tAlthough with current ulcer therapy ( H-2 blockers , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome has decreased significantly , the classic triad of hypercalcemia , alkalosis , and <target> renal impairment </target> remains the hallmark of the syndrome .",
+        "D006934\tDisease\tMilk-alkali syndrome\t<target> Milk-alkali syndrome </target> can present serious and occasionally life-threatening illness unless diagnosed and treated appropriately .",
+        "D007011\tDisease\thypoparathyroidism\tThis article presents a patient with <target> hypoparathyroidism </target> who was treated with calcium carbonate and calcitriol resulting in two admissions to the hospital for milk-alkali syndrome .",
+        "D002119\tChemical\tcalcium carbonate\tThis article presents a patient with hypoparathyroidism who was treated with <target> calcium carbonate </target> and calcitriol resulting in two admissions to the hospital for milk-alkali syndrome .",
+        "D002117\tChemical\tcalcitriol\tThis article presents a patient with hypoparathyroidism who was treated with calcium carbonate and <target> calcitriol </target> resulting in two admissions to the hospital for milk-alkali syndrome .",
+        "D006934\tDisease\tmilk-alkali syndrome\tThis article presents a patient with hypoparathyroidism who was treated with calcium carbonate and calcitriol resulting in two admissions to the hospital for <target> milk-alkali syndrome </target> .",
+        "C019248\tChemical\tpamidronate\tThe patient was successfully treated with intravenous <target> pamidronate </target> on his first admission and with hydrocortisone on the second .",
+        "D006854\tChemical\thydrocortisone\tThe patient was successfully treated with intravenous pamidronate on his first admission and with <target> hydrocortisone </target> on the second .",
+        "C019248\tChemical\tpamidronate\tThis illustrates intravenous <target> pamidronate </target> as a valuable therapeutic tool when milk-alkali syndrome presents as hypercalcemic emergency .",
+        "D006934\tDisease\tmilk-alkali syndrome\tThis illustrates intravenous pamidronate as a valuable therapeutic tool when <target> milk-alkali syndrome </target> presents as hypercalcemic emergency .",
+        "D006934\tDisease\thypercalcemic emergency\tThis illustrates intravenous pamidronate as a valuable therapeutic tool when milk-alkali syndrome presents as <target> hypercalcemic emergency </target> ."
+    ],
+    "lines_lemma": [
+        "D006934\tDisease\tMilk-alkali syndrome\t<target> milk-alkali syndrome </target> induce by 1,25(oh)2d in a patient with hypoparathyroidism .",
+        "D002117\tChemical\t1,25(OH)2D\tmilk-alkali syndrome induce by <target> 1,25(oh)2d </target> in a patient with hypoparathyroidism .",
+        "D007011\tDisease\thypoparathyroidism\tmilk-alkali syndrome induce by 1,25(oh)2d in a patient with <target> hypoparathyroidism </target> .",
+        "D006934\tDisease\tMilk-alkali syndrome\t<target> milk-alkali syndrome </target> be first describe 70 year ago in the context of the treatment of peptic ulcer disease with large amount of calcium and alkali .",
+        "D010437\tDisease\tpeptic ulcer disease\tmilk-alkali syndrome be first describe 70 year ago in the context of the treatment of <target> peptic ulcer disease </target> with large amount of calcium and alkali .",
+        "D002118\tChemical\tcalcium\tmilk-alkali syndrome be first describe 70 year ago in the context of the treatment of peptic ulcer disease with large amount of <target> calcium </target> and alkali .",
+        "D000468\tChemical\talkali\tmilk-alkali syndrome be first describe 70 year ago in the context of the treatment of peptic ulcer disease with large amount of calcium and <target> alkali </target> .",
+        "D014456\tDisease\tulcer\talthough with current <target> ulcer </target> therapy ( h-2 blocker , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome have decrease significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remain the hallmark of the syndrome .",
+        "D009853\tChemical\tomeprazole\talthough with current ulcer therapy ( h-2 blocker , <target> omeprazole </target> , and sucralfate ) , the frequency of milk-alkali syndrome have decrease significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remain the hallmark of the syndrome .",
+        "D013392\tChemical\tsucralfate\talthough with current ulcer therapy ( h-2 blocker , omeprazole , and <target> sucralfate </target> ) , the frequency of milk-alkali syndrome have decrease significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remain the hallmark of the syndrome .",
+        "D006934\tDisease\tmilk-alkali syndrome\talthough with current ulcer therapy ( h-2 blocker , omeprazole , and sucralfate ) , the frequency of <target> milk-alkali syndrome </target> have decrease significantly , the classic triad of hypercalcemia , alkalosis , and renal impairment remain the hallmark of the syndrome .",
+        "D006934\tDisease\thypercalcemia\talthough with current ulcer therapy ( h-2 blocker , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome have decrease significantly , the classic triad of <target> hypercalcemia </target> , alkalosis , and renal impairment remain the hallmark of the syndrome .",
+        "D000471\tDisease\talkalosis\talthough with current ulcer therapy ( h-2 blocker , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome have decrease significantly , the classic triad of hypercalcemia , <target> alkalosis </target> , and renal impairment remain the hallmark of the syndrome .",
+        "D051437\tDisease\trenal impairment\talthough with current ulcer therapy ( h-2 blocker , omeprazole , and sucralfate ) , the frequency of milk-alkali syndrome have decrease significantly , the classic triad of hypercalcemia , alkalosis , and <target> renal impairment </target> remain the hallmark of the syndrome .",
+        "D006934\tDisease\tMilk-alkali syndrome\t<target> milk-alkali syndrome </target> can present serious and occasionally life-threatening illness unless diagnose and treat appropriately .",
+        "D007011\tDisease\thypoparathyroidism\tthis article present a patient with <target> hypoparathyroidism </target> who be treat with calcium carbonate and calcitriol result in two admission to the hospital for milk-alkali syndrome .",
+        "D002119\tChemical\tcalcium carbonate\tthis article present a patient with hypoparathyroidism who be treat with <target> calcium carbonate </target> and calcitriol result in two admission to the hospital for milk-alkali syndrome .",
+        "D002117\tChemical\tcalcitriol\tthis article present a patient with hypoparathyroidism who be treat with calcium carbonate and <target> calcitriol </target> result in two admission to the hospital for milk-alkali syndrome .",
+        "D006934\tDisease\tmilk-alkali syndrome\tthis article present a patient with hypoparathyroidism who be treat with calcium carbonate and calcitriol result in two admission to the hospital for <target> milk-alkali syndrome </target> .",
+        "C019248\tChemical\tpamidronate\tthe patient be successfully treat with intravenous <target> pamidronate </target> on his first admission and with hydrocortisone on the second .",
+        "D006854\tChemical\thydrocortisone\tthe patient be successfully treat with intravenous pamidronate on his first admission and with <target> hydrocortisone </target> on the second .",
+        "C019248\tChemical\tpamidronate\tthis illustrate intravenous <target> pamidronate </target> as a valuable therapeutic tool when milk-alkali syndrome present as hypercalcemic emergency .",
+        "D006934\tDisease\tmilk-alkali syndrome\tthis illustrate intravenous pamidronate as a valuable therapeutic tool when <target> milk-alkali syndrome </target> present as hypercalcemic emergency .",
+        "D006934\tDisease\thypercalcemic emergency\tthis illustrate intravenous pamidronate as a valuable therapeutic tool when milk-alkali syndrome present as <target> hypercalcemic emergency </target> ."
+    ]
+}

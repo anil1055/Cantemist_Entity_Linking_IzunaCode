@@ -1,0 +1,166 @@
+{
+    "title": "Case report: Dexatrim (Phenylpropanolamine) as a cause of myocardial infarction.",
+    "abst": "Phenylpropanolamine (PPA) is a sympathetic amine used in over-the-counter cold remedies and weight-control preparations worldwide. Its use has been associated with hypertensive episodes and hemorrhagic strokes in younger women. Several reports have linked the abuse of PPA with myocardial injury, especially when overdose is involved. We report here the first case of Dexatrim (PPA)-induced myocardial injury in a young woman who was using it at recommended doses for weight control. In addition, we review the 7 other cases of PPA related myocardial injury that have been reported so far. Physicians and patients should be alert to the potential cardiac risk associated with the use of PPA, even at doses generally considered to be safe.",
+    "title_plus_abst": "Case report: Dexatrim (Phenylpropanolamine) as a cause of myocardial infarction. Phenylpropanolamine (PPA) is a sympathetic amine used in over-the-counter cold remedies and weight-control preparations worldwide. Its use has been associated with hypertensive episodes and hemorrhagic strokes in younger women. Several reports have linked the abuse of PPA with myocardial injury, especially when overdose is involved. We report here the first case of Dexatrim (PPA)-induced myocardial injury in a young woman who was using it at recommended doses for weight control. In addition, we review the 7 other cases of PPA related myocardial injury that have been reported so far. Physicians and patients should be alert to the potential cardiac risk associated with the use of PPA, even at doses generally considered to be safe.",
+    "pubmed_id": "12734532",
+    "entities": [
+        [
+            13,
+            21,
+            "Dexatrim",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            23,
+            42,
+            "Phenylpropanolamine",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            58,
+            79,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            81,
+            100,
+            "Phenylpropanolamine",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            102,
+            105,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            124,
+            129,
+            "amine",
+            "Chemical",
+            "D000588"
+        ],
+        [
+            245,
+            257,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            350,
+            353,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            359,
+            376,
+            "myocardial injury",
+            "Disease",
+            "D009202"
+        ],
+        [
+            394,
+            402,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            449,
+            457,
+            "Dexatrim",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            459,
+            462,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            472,
+            489,
+            "myocardial injury",
+            "Disease",
+            "D009202"
+        ],
+        [
+            609,
+            612,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            621,
+            638,
+            "myocardial injury",
+            "Disease",
+            "D009202"
+        ],
+        [
+            768,
+            771,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ]
+    ],
+    "split_sentence": [
+        "Case report: Dexatrim (Phenylpropanolamine) as a cause of myocardial infarction.",
+        "Phenylpropanolamine (PPA) is a sympathetic amine used in over-the-counter cold remedies and weight-control preparations worldwide.",
+        "Its use has been associated with hypertensive episodes and hemorrhagic strokes in younger women.",
+        "Several reports have linked the abuse of PPA with myocardial injury, especially when overdose is involved.",
+        "We report here the first case of Dexatrim (PPA)-induced myocardial injury in a young woman who was using it at recommended doses for weight control.",
+        "In addition, we review the 7 other cases of PPA related myocardial injury that have been reported so far.",
+        "Physicians and patients should be alert to the potential cardiac risk associated with the use of PPA, even at doses generally considered to be safe."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010665\tChemical\tDexatrim\tCase report : <target> Dexatrim </target> ( Phenylpropanolamine ) as a cause of myocardial infarction .",
+        "D010665\tChemical\tPhenylpropanolamine\tCase report : Dexatrim ( <target> Phenylpropanolamine </target> ) as a cause of myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tCase report : Dexatrim ( Phenylpropanolamine ) as a cause of <target> myocardial infarction </target> .",
+        "D010665\tChemical\tPhenylpropanolamine\t<target> Phenylpropanolamine </target> ( PPA ) is a sympathetic amine used in over-the-counter cold remedies and weight-control preparations worldwide .",
+        "D010665\tChemical\tPPA\tPhenylpropanolamine ( <target> PPA </target> ) is a sympathetic amine used in over-the-counter cold remedies and weight-control preparations worldwide .",
+        "D000588\tChemical\tamine\tPhenylpropanolamine ( PPA ) is a sympathetic <target> amine </target> used in over-the-counter cold remedies and weight-control preparations worldwide .",
+        "D006973\tDisease\thypertensive\tIts use has been associated with <target> hypertensive </target> episodes and hemorrhagic strokes in younger women .",
+        "D010665\tChemical\tPPA\tSeveral reports have linked the abuse of <target> PPA </target> with myocardial injury , especially when overdose is involved .",
+        "D009202\tDisease\tmyocardial injury\tSeveral reports have linked the abuse of PPA with <target> myocardial injury </target> , especially when overdose is involved .",
+        "D062787\tDisease\toverdose\tSeveral reports have linked the abuse of PPA with myocardial injury , especially when <target> overdose </target> is involved .",
+        "D010665\tChemical\tDexatrim\tWe report here the first case of <target> Dexatrim </target> (PPA)-induced myocardial injury in a young woman who was using it at recommended doses for weight control .",
+        "D010665\tChemical\tPPA\tWe report here the first case of Dexatrim ( <target> PPA </target> ) -induced myocardial injury in a young woman who was using it at recommended doses for weight control .",
+        "D009202\tDisease\tmyocardial injury\tWe report here the first case of Dexatrim (PPA)-induced <target> myocardial injury </target> in a young woman who was using it at recommended doses for weight control .",
+        "D010665\tChemical\tPPA\tIn addition , we review the 7 other cases of <target> PPA </target> related myocardial injury that have been reported so far .",
+        "D009202\tDisease\tmyocardial injury\tIn addition , we review the 7 other cases of PPA related <target> myocardial injury </target> that have been reported so far .",
+        "D010665\tChemical\tPPA\tPhysicians and patients should be alert to the potential cardiac risk associated with the use of <target> PPA </target> , even at doses generally considered to be safe ."
+    ],
+    "lines_lemma": [
+        "D010665\tChemical\tDexatrim\tcase report : <target> Dexatrim </target> ( phenylpropanolamine ) as a cause of myocardial infarction .",
+        "D010665\tChemical\tPhenylpropanolamine\tcase report : dexatrim ( <target> phenylpropanolamine </target> ) as a cause of myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tcase report : dexatrim ( phenylpropanolamine ) as a cause of <target> myocardial infarction </target> .",
+        "D010665\tChemical\tPhenylpropanolamine\t<target> phenylpropanolamine </target> ( ppa ) be a sympathetic amine use in over-the-counter cold remedy and weight-control preparation worldwide .",
+        "D010665\tChemical\tPPA\tphenylpropanolamine ( <target> ppa </target> ) be a sympathetic amine use in over-the-counter cold remedy and weight-control preparation worldwide .",
+        "D000588\tChemical\tamine\tphenylpropanolamine ( ppa ) be a sympathetic <target> amine </target> use in over-the-counter cold remedy and weight-control preparation worldwide .",
+        "D006973\tDisease\thypertensive\tits use have be associate with <target> hypertensive </target> episode and hemorrhagic stroke in young woman .",
+        "D010665\tChemical\tPPA\tseveral report have link the abuse of <target> ppa </target> with myocardial injury , especially when overdose be involve .",
+        "D009202\tDisease\tmyocardial injury\tseveral report have link the abuse of ppa with <target> myocardial injury </target> , especially when overdose be involve .",
+        "D062787\tDisease\toverdose\tseveral report have link the abuse of ppa with myocardial injury , especially when <target> overdose </target> be involve .",
+        "D010665\tChemical\tDexatrim\twe report here the first case of <target> Dexatrim </target> (ppa)-induced myocardial injury in a young woman who be use it at recommend dose for weight control .",
+        "D010665\tChemical\tPPA\twe report here the first case of Dexatrim ( <target> ppa </target> ) -induced myocardial injury in a young woman who be use it at recommend dose for weight control .",
+        "D009202\tDisease\tmyocardial injury\twe report here the first case of Dexatrim (ppa)-induced <target> myocardial injury </target> in a young woman who be use it at recommend dose for weight control .",
+        "D010665\tChemical\tPPA\tin addition , we review the 7 other case of <target> ppa </target> related myocardial injury that have be report so far .",
+        "D009202\tDisease\tmyocardial injury\tin addition , we review the 7 other case of ppa related <target> myocardial injury </target> that have be report so far .",
+        "D010665\tChemical\tPPA\tphysician and patient should be alert to the potential cardiac risk associate with the use of <target> ppa </target> , even at dose generally consider to be safe ."
+    ]
+}

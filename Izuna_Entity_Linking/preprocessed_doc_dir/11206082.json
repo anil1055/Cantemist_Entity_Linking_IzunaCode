@@ -1,0 +1,192 @@
+{
+    "title": "Two mouse lines selected for differential sensitivities to beta-carboline-induced seizures are also differentially sensitive to various pharmacological effects of other GABA(A) receptor ligands.",
+    "abst": "Two mouse lines were selectively bred according to their sensitivity (BS line) or resistance (BR line) to seizures induced by a single i.p. injection of methyl beta-carboline-3-carboxylate (beta-CCM), an inverse agonist of the GABA(A) receptor benzodiazepine site. Our aim was to characterize both lines' sensitivities to various physiological effects of other ligands of the GABA(A) receptor. We measured diazepam-induced anxiolysis with the elevated plus-maze test, diazepam-induced sedation by recording the vigilance states, and picrotoxin- and pentylenetetrazol-induced seizures after i.p. injections. Results presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam, picrotoxin, and pentylenetetrazol, suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A) receptor.",
+    "title_plus_abst": "Two mouse lines selected for differential sensitivities to beta-carboline-induced seizures are also differentially sensitive to various pharmacological effects of other GABA(A) receptor ligands. Two mouse lines were selectively bred according to their sensitivity (BS line) or resistance (BR line) to seizures induced by a single i.p. injection of methyl beta-carboline-3-carboxylate (beta-CCM), an inverse agonist of the GABA(A) receptor benzodiazepine site. Our aim was to characterize both lines' sensitivities to various physiological effects of other ligands of the GABA(A) receptor. We measured diazepam-induced anxiolysis with the elevated plus-maze test, diazepam-induced sedation by recording the vigilance states, and picrotoxin- and pentylenetetrazol-induced seizures after i.p. injections. Results presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam, picrotoxin, and pentylenetetrazol, suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A) receptor.",
+    "pubmed_id": "11206082",
+    "entities": [
+        [
+            59,
+            73,
+            "beta-carboline",
+            "Chemical",
+            "C036150"
+        ],
+        [
+            82,
+            90,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            169,
+            173,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            301,
+            309,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            348,
+            383,
+            "methyl beta-carboline-3-carboxylate",
+            "Chemical",
+            "C036150"
+        ],
+        [
+            385,
+            393,
+            "beta-CCM",
+            "Chemical",
+            "C036150"
+        ],
+        [
+            422,
+            426,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            439,
+            453,
+            "benzodiazepine",
+            "Chemical",
+            "D001569"
+        ],
+        [
+            571,
+            575,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            601,
+            609,
+            "diazepam",
+            "Chemical",
+            "D003975"
+        ],
+        [
+            663,
+            671,
+            "diazepam",
+            "Chemical",
+            "D003975"
+        ],
+        [
+            728,
+            738,
+            "picrotoxin",
+            "Chemical",
+            "D010852"
+        ],
+        [
+            744,
+            761,
+            "pentylenetetrazol",
+            "Chemical",
+            "D010433"
+        ],
+        [
+            770,
+            778,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            888,
+            896,
+            "beta-CCM",
+            "Chemical",
+            "C036150"
+        ],
+        [
+            916,
+            924,
+            "diazepam",
+            "Chemical",
+            "D003975"
+        ],
+        [
+            926,
+            936,
+            "picrotoxin",
+            "Chemical",
+            "D010852"
+        ],
+        [
+            942,
+            959,
+            "pentylenetetrazol",
+            "Chemical",
+            "D010433"
+        ],
+        [
+            1058,
+            1062,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ]
+    ],
+    "split_sentence": [
+        "Two mouse lines selected for differential sensitivities to beta-carboline-induced seizures are also differentially sensitive to various pharmacological effects of other GABA(A) receptor ligands.",
+        "Two mouse lines were selectively bred according to their sensitivity (BS line) or resistance (BR line) to seizures induced by a single i.p.",
+        "injection of methyl beta-carboline-3-carboxylate (beta-CCM), an inverse agonist of the GABA(A) receptor benzodiazepine site.",
+        "Our aim was to characterize both lines' sensitivities to various physiological effects of other ligands of the GABA(A) receptor.",
+        "We measured diazepam-induced anxiolysis with the elevated plus-maze test, diazepam-induced sedation by recording the vigilance states, and picrotoxin- and pentylenetetrazol-induced seizures after i.p. injections.",
+        "Results presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam, picrotoxin, and pentylenetetrazol, suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A) receptor."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C036150\tChemical\tbeta-carboline\tTwo mouse lines selected for differential sensitivities to <target> beta-carboline </target> -induced seizures are also differentially sensitive to various pharmacological effects of other GABA(A ) receptor ligands .",
+        "D012640\tDisease\tseizures\tTwo mouse lines selected for differential sensitivities to beta-carboline-induced <target> seizures </target> are also differentially sensitive to various pharmacological effects of other GABA(A ) receptor ligands .",
+        "D005680\tChemical\tGABA\tTwo mouse lines selected for differential sensitivities to beta-carboline-induced seizures are also differentially sensitive to various pharmacological effects of other <target> GABA </target> ( A ) receptor ligands .",
+        "D012640\tDisease\tseizures\tTwo mouse lines were selectively bred according to their sensitivity ( BS line ) or resistance ( BR line ) to <target> seizures </target> induced by a single i.p .",
+        "C036150\tChemical\tmethyl beta-carboline-3-carboxylate\tinjection of <target> methyl beta-carboline-3-carboxylate </target> ( beta-CCM ) , an inverse agonist of the GABA(A ) receptor benzodiazepine site .",
+        "C036150\tChemical\tbeta-CCM\tinjection of methyl beta-carboline-3-carboxylate ( <target> beta-CCM </target> ) , an inverse agonist of the GABA(A ) receptor benzodiazepine site .",
+        "D005680\tChemical\tGABA\tinjection of methyl beta-carboline-3-carboxylate ( beta-CCM ) , an inverse agonist of the <target> GABA </target> ( A ) receptor benzodiazepine site .",
+        "D001569\tChemical\tbenzodiazepine\tinjection of methyl beta-carboline-3-carboxylate ( beta-CCM ) , an inverse agonist of the GABA(A ) receptor <target> benzodiazepine </target> site .",
+        "D005680\tChemical\tGABA\tOur aim was to characterize both lines ' sensitivities to various physiological effects of other ligands of the <target> GABA </target> ( A ) receptor .",
+        "D003975\tChemical\tdiazepam\tWe measured <target> diazepam </target> -induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by recording the vigilance states , and picrotoxin- and pentylenetetrazol-induced seizures after i.p . injections .",
+        "D003975\tChemical\tdiazepam\tWe measured diazepam-induced anxiolysis with the elevated plus-maze test , <target> diazepam </target> -induced sedation by recording the vigilance states , and picrotoxin- and pentylenetetrazol-induced seizures after i.p . injections .",
+        "D010852\tChemical\tpicrotoxin\tWe measured diazepam-induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by recording the vigilance states , and <target> picrotoxin </target> - and pentylenetetrazol-induced seizures after i.p . injections .",
+        "D010433\tChemical\tpentylenetetrazol\tWe measured diazepam-induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by recording the vigilance states , and picrotoxin- and <target> pentylenetetrazol </target> -induced seizures after i.p . injections .",
+        "D012640\tDisease\tseizures\tWe measured diazepam-induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by recording the vigilance states , and picrotoxin- and pentylenetetrazol-induced <target> seizures </target> after i.p . injections .",
+        "C036150\tChemical\tbeta-CCM\tResults presented here show that the differential sensitivities of BS and BR lines to <target> beta-CCM </target> can be extended to diazepam , picrotoxin , and pentylenetetrazol , suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A ) receptor .",
+        "D003975\tChemical\tdiazepam\tResults presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to <target> diazepam </target> , picrotoxin , and pentylenetetrazol , suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A ) receptor .",
+        "D010852\tChemical\tpicrotoxin\tResults presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam , <target> picrotoxin </target> , and pentylenetetrazol , suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A ) receptor .",
+        "D010433\tChemical\tpentylenetetrazol\tResults presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam , picrotoxin , and <target> pentylenetetrazol </target> , suggesting a genetic selection of a general sensitivity and resistance to several ligands of the GABA(A ) receptor .",
+        "D005680\tChemical\tGABA\tResults presented here show that the differential sensitivities of BS and BR lines to beta-CCM can be extended to diazepam , picrotoxin , and pentylenetetrazol , suggesting a genetic selection of a general sensitivity and resistance to several ligands of the <target> GABA </target> ( A ) receptor ."
+    ],
+    "lines_lemma": [
+        "C036150\tChemical\tbeta-carboline\ttwo mouse line select for differential sensitivity to <target> beta-carboline </target> -induced seizure be also differentially sensitive to various pharmacological effect of other gaba(a ) receptor ligand .",
+        "D012640\tDisease\tseizures\ttwo mouse line select for differential sensitivity to beta-carboline-induced <target> seizure </target> be also differentially sensitive to various pharmacological effect of other gaba(a ) receptor ligand .",
+        "D005680\tChemical\tGABA\ttwo mouse line select for differential sensitivity to beta-carboline-induced seizure be also differentially sensitive to various pharmacological effect of other <target> gaba </target> ( a ) receptor ligand .",
+        "D012640\tDisease\tseizures\ttwo mouse line be selectively breed accord to their sensitivity ( bs line ) or resistance ( br line ) to <target> seizure </target> induce by a single i.p .",
+        "C036150\tChemical\tmethyl beta-carboline-3-carboxylate\tinjection of <target> methyl beta-carboline-3-carboxylate </target> ( beta-ccm ) , an inverse agonist of the gaba(a ) receptor benzodiazepine site .",
+        "C036150\tChemical\tbeta-CCM\tinjection of methyl beta-carboline-3-carboxylate ( <target> beta-ccm </target> ) , an inverse agonist of the gaba(a ) receptor benzodiazepine site .",
+        "D005680\tChemical\tGABA\tinjection of methyl beta-carboline-3-carboxylate ( beta-ccm ) , an inverse agonist of the <target> gaba </target> ( a ) receptor benzodiazepine site .",
+        "D001569\tChemical\tbenzodiazepine\tinjection of methyl beta-carboline-3-carboxylate ( beta-ccm ) , an inverse agonist of the gaba(a ) receptor <target> benzodiazepine </target> site .",
+        "D005680\tChemical\tGABA\tour aim be to characterize both line ' sensitivity to various physiological effect of other ligand of the <target> gaba </target> ( a ) receptor .",
+        "D003975\tChemical\tdiazepam\twe measure <target> diazepam </target> -induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by record the vigilance state , and picrotoxin- and pentylenetetrazol-induced seizure after i.p . injection .",
+        "D003975\tChemical\tdiazepam\twe measure diazepam-induced anxiolysis with the elevated plus-maze test , <target> diazepam </target> -induced sedation by record the vigilance state , and picrotoxin- and pentylenetetrazol-induced seizure after i.p . injection .",
+        "D010852\tChemical\tpicrotoxin\twe measure diazepam-induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by record the vigilance state , and <target> picrotoxin </target> - and pentylenetetrazol-induced seizure after i.p . injection .",
+        "D010433\tChemical\tpentylenetetrazol\twe measure diazepam-induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by record the vigilance state , and picrotoxin- and <target> pentylenetetrazol </target> -induced seizure after i.p . injection .",
+        "D012640\tDisease\tseizures\twe measure diazepam-induced anxiolysis with the elevated plus-maze test , diazepam-induced sedation by record the vigilance state , and picrotoxin- and pentylenetetrazol-induced <target> seizure </target> after i.p . injection .",
+        "C036150\tChemical\tbeta-CCM\tresult present here show that the differential sensitivity of bs and br line to <target> beta-ccm </target> can be extend to diazepam , picrotoxin , and pentylenetetrazol , suggest a genetic selection of a general sensitivity and resistance to several ligand of the gaba(a ) receptor .",
+        "D003975\tChemical\tdiazepam\tresult present here show that the differential sensitivity of bs and br line to beta-ccm can be extend to <target> diazepam </target> , picrotoxin , and pentylenetetrazol , suggest a genetic selection of a general sensitivity and resistance to several ligand of the gaba(a ) receptor .",
+        "D010852\tChemical\tpicrotoxin\tresult present here show that the differential sensitivity of bs and br line to beta-ccm can be extend to diazepam , <target> picrotoxin </target> , and pentylenetetrazol , suggest a genetic selection of a general sensitivity and resistance to several ligand of the gaba(a ) receptor .",
+        "D010433\tChemical\tpentylenetetrazol\tresult present here show that the differential sensitivity of bs and br line to beta-ccm can be extend to diazepam , picrotoxin , and <target> pentylenetetrazol </target> , suggest a genetic selection of a general sensitivity and resistance to several ligand of the gaba(a ) receptor .",
+        "D005680\tChemical\tGABA\tresult present here show that the differential sensitivity of bs and br line to beta-ccm can be extend to diazepam , picrotoxin , and pentylenetetrazol , suggest a genetic selection of a general sensitivity and resistance to several ligand of the <target> gaba </target> ( a ) receptor ."
+    ]
+}

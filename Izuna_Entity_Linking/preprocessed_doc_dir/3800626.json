@@ -1,0 +1,75 @@
+{
+    "title": "Compression neuropathy of the radial nerve due to pentazocine-induced fibrous myopathy.",
+    "abst": "Fibrous myopathy is a common, well-known side effect of repeated pentazocine injection. However, compression neuropathy due to fibrotic muscle affected by pentazocine-induced myopathy has not previously been reported. In a 37-year-old woman with documented pentazocine-induced fibrous myopathy of triceps and deltoid muscles bilaterally and a three-week history of right wrist drop, electrodiagnostic examination showed a severe but partial lesion of the right radial nerve distal to the branches to the triceps, in addition to the fibrous myopathy. Surgery revealed the right radial nerve to be severely compressed by the densely fibrotic lateral head of the triceps. Decompression and neurolysis were performed with good subsequent recovery of function.",
+    "title_plus_abst": "Compression neuropathy of the radial nerve due to pentazocine-induced fibrous myopathy. Fibrous myopathy is a common, well-known side effect of repeated pentazocine injection. However, compression neuropathy due to fibrotic muscle affected by pentazocine-induced myopathy has not previously been reported. In a 37-year-old woman with documented pentazocine-induced fibrous myopathy of triceps and deltoid muscles bilaterally and a three-week history of right wrist drop, electrodiagnostic examination showed a severe but partial lesion of the right radial nerve distal to the branches to the triceps, in addition to the fibrous myopathy. Surgery revealed the right radial nerve to be severely compressed by the densely fibrotic lateral head of the triceps. Decompression and neurolysis were performed with good subsequent recovery of function.",
+    "pubmed_id": "3800626",
+    "entities": [
+        [
+            50,
+            61,
+            "pentazocine",
+            "Chemical",
+            "D010423"
+        ],
+        [
+            153,
+            164,
+            "pentazocine",
+            "Chemical",
+            "D010423"
+        ],
+        [
+            185,
+            207,
+            "compression neuropathy",
+            "Disease",
+            "D009408"
+        ],
+        [
+            243,
+            254,
+            "pentazocine",
+            "Chemical",
+            "D010423"
+        ],
+        [
+            263,
+            271,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            345,
+            356,
+            "pentazocine",
+            "Chemical",
+            "D010423"
+        ]
+    ],
+    "split_sentence": [
+        "Compression neuropathy of the radial nerve due to pentazocine-induced fibrous myopathy.",
+        "Fibrous myopathy is a common, well-known side effect of repeated pentazocine injection.",
+        "However, compression neuropathy due to fibrotic muscle affected by pentazocine-induced myopathy has not previously been reported.",
+        "In a 37-year-old woman with documented pentazocine-induced fibrous myopathy of triceps and deltoid muscles bilaterally and a three-week history of right wrist drop, electrodiagnostic examination showed a severe but partial lesion of the right radial nerve distal to the branches to the triceps, in addition to the fibrous myopathy.",
+        "Surgery revealed the right radial nerve to be severely compressed by the densely fibrotic lateral head of the triceps.",
+        "Decompression and neurolysis were performed with good subsequent recovery of function."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010423\tChemical\tpentazocine\tCompression neuropathy of the radial nerve due to <target> pentazocine </target> -induced fibrous myopathy .",
+        "D010423\tChemical\tpentazocine\tFibrous myopathy is a common , well-known side effect of repeated <target> pentazocine </target> injection .",
+        "D009408\tDisease\tcompression neuropathy\tHowever , <target> compression neuropathy </target> due to fibrotic muscle affected by pentazocine-induced myopathy has not previously been reported .",
+        "D010423\tChemical\tpentazocine\tHowever , compression neuropathy due to fibrotic muscle affected by <target> pentazocine </target> -induced myopathy has not previously been reported .",
+        "D009135\tDisease\tmyopathy\tHowever , compression neuropathy due to fibrotic muscle affected by pentazocine-induced <target> myopathy </target> has not previously been reported .",
+        "D010423\tChemical\tpentazocine\tIn a 37-year-old woman with documented <target> pentazocine </target> -induced fibrous myopathy of triceps and deltoid muscles bilaterally and a three-week history of right wrist drop , electrodiagnostic examination showed a severe but partial lesion of the right radial nerve distal to the branches to the triceps , in addition to the fibrous myopathy ."
+    ],
+    "lines_lemma": [
+        "D010423\tChemical\tpentazocine\tcompression neuropathy of the radial nerve due to <target> pentazocine </target> -induced fibrous myopathy .",
+        "D010423\tChemical\tpentazocine\tfibrous myopathy be a common , well-known side effect of repeat <target> pentazocine </target> injection .",
+        "D009408\tDisease\tcompression neuropathy\thowever , <target> compression neuropathy </target> due to fibrotic muscle affect by pentazocine-induced myopathy have not previously be report .",
+        "D010423\tChemical\tpentazocine\thowever , compression neuropathy due to fibrotic muscle affect by <target> pentazocine </target> -induced myopathy have not previously be report .",
+        "D009135\tDisease\tmyopathy\thowever , compression neuropathy due to fibrotic muscle affect by pentazocine-induced <target> myopathy </target> have not previously be report .",
+        "D010423\tChemical\tpentazocine\tin a 37-year-old woman with document <target> pentazocine </target> -induced fibrous myopathy of tricep and deltoid muscle bilaterally and a three-week history of right wrist drop , electrodiagnostic examination show a severe but partial lesion of the right radial nerve distal to the branch to the tricep , in addition to the fibrous myopathy ."
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "title": "Thrombotic microangiopathy and renal failure associated with antineoplastic chemotherapy.",
+    "abst": "Five patients with carcinoma developed thrombotic microangiopathy (characterized by renal insufficiency, microangiopathic hemolytic anemia, and usually thrombocytopenia) after treatment with cisplatin, bleomycin, and a vinca alkaloid. One patient had thrombotic thrombocytopenic purpura, three the hemolytic-uremic syndrome, and one an apparent forme fruste of one of these disorders. Histologic examination of the renal tissue showed evidence of intravascular coagulation, primarily affecting the small arteries, arterioles, and glomeruli. Because each patient was tumor-free or had only a small tumor at the onset of this syndrome, the thrombotic microangiopathy may have been induced by chemotherapy. Diagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined, because renal failure may be ascribed to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression.",
+    "title_plus_abst": "Thrombotic microangiopathy and renal failure associated with antineoplastic chemotherapy. Five patients with carcinoma developed thrombotic microangiopathy (characterized by renal insufficiency, microangiopathic hemolytic anemia, and usually thrombocytopenia) after treatment with cisplatin, bleomycin, and a vinca alkaloid. One patient had thrombotic thrombocytopenic purpura, three the hemolytic-uremic syndrome, and one an apparent forme fruste of one of these disorders. Histologic examination of the renal tissue showed evidence of intravascular coagulation, primarily affecting the small arteries, arterioles, and glomeruli. Because each patient was tumor-free or had only a small tumor at the onset of this syndrome, the thrombotic microangiopathy may have been induced by chemotherapy. Diagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined, because renal failure may be ascribed to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression.",
+    "pubmed_id": "6203452",
+    "entities": [
+        [
+            0,
+            26,
+            "Thrombotic microangiopathy",
+            "Disease",
+            "D057049"
+        ],
+        [
+            31,
+            44,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            109,
+            118,
+            "carcinoma",
+            "Disease",
+            "D002277"
+        ],
+        [
+            129,
+            155,
+            "thrombotic microangiopathy",
+            "Disease",
+            "D057049"
+        ],
+        [
+            174,
+            193,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ],
+        [
+            195,
+            228,
+            "microangiopathic hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            242,
+            258,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            281,
+            290,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            292,
+            301,
+            "bleomycin",
+            "Chemical",
+            "D001761"
+        ],
+        [
+            309,
+            323,
+            "vinca alkaloid",
+            "Chemical",
+            "D014748"
+        ],
+        [
+            341,
+            376,
+            "thrombotic thrombocytopenic purpura",
+            "Disease",
+            "D011697"
+        ],
+        [
+            388,
+            413,
+            "hemolytic-uremic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            537,
+            562,
+            "intravascular coagulation",
+            "Disease",
+            "D004211"
+        ],
+        [
+            656,
+            661,
+            "tumor",
+            "Disease",
+            "D009369"
+        ],
+        [
+            687,
+            692,
+            "tumor",
+            "Disease",
+            "D009369"
+        ],
+        [
+            728,
+            754,
+            "thrombotic microangiopathy",
+            "Disease",
+            "D057049"
+        ],
+        [
+            939,
+            952,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            972,
+            981,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            982,
+            996,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            1005,
+            1011,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            1016,
+            1032,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            1049,
+            1072,
+            "bone marrow suppression",
+            "Disease",
+            "D001855"
+        ]
+    ],
+    "split_sentence": [
+        "Thrombotic microangiopathy and renal failure associated with antineoplastic chemotherapy.",
+        "Five patients with carcinoma developed thrombotic microangiopathy (characterized by renal insufficiency, microangiopathic hemolytic anemia, and usually thrombocytopenia) after treatment with cisplatin, bleomycin, and a vinca alkaloid.",
+        "One patient had thrombotic thrombocytopenic purpura, three the hemolytic-uremic syndrome, and one an apparent forme fruste of one of these disorders.",
+        "Histologic examination of the renal tissue showed evidence of intravascular coagulation, primarily affecting the small arteries, arterioles, and glomeruli.",
+        "Because each patient was tumor-free or had only a small tumor at the onset of this syndrome, the thrombotic microangiopathy may have been induced by chemotherapy.",
+        "Diagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined, because renal failure may be ascribed to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D057049\tDisease\tThrombotic microangiopathy\t<target> Thrombotic microangiopathy </target> and renal failure associated with antineoplastic chemotherapy .",
+        "D051437\tDisease\trenal failure\tThrombotic microangiopathy and <target> renal failure </target> associated with antineoplastic chemotherapy .",
+        "D002277\tDisease\tcarcinoma\tFive patients with <target> carcinoma </target> developed thrombotic microangiopathy ( characterized by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D057049\tDisease\tthrombotic microangiopathy\tFive patients with carcinoma developed <target> thrombotic microangiopathy </target> ( characterized by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D051437\tDisease\trenal insufficiency\tFive patients with carcinoma developed thrombotic microangiopathy ( characterized by <target> renal insufficiency </target> , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D000743\tDisease\tmicroangiopathic hemolytic anemia\tFive patients with carcinoma developed thrombotic microangiopathy ( characterized by renal insufficiency , <target> microangiopathic hemolytic anemia </target> , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D013921\tDisease\tthrombocytopenia\tFive patients with carcinoma developed thrombotic microangiopathy ( characterized by renal insufficiency , microangiopathic hemolytic anemia , and usually <target> thrombocytopenia </target> ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D002945\tChemical\tcisplatin\tFive patients with carcinoma developed thrombotic microangiopathy ( characterized by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with <target> cisplatin </target> , bleomycin , and a vinca alkaloid .",
+        "D001761\tChemical\tbleomycin\tFive patients with carcinoma developed thrombotic microangiopathy ( characterized by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , <target> bleomycin </target> , and a vinca alkaloid .",
+        "D014748\tChemical\tvinca alkaloid\tFive patients with carcinoma developed thrombotic microangiopathy ( characterized by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a <target> vinca alkaloid </target> .",
+        "D011697\tDisease\tthrombotic thrombocytopenic purpura\tOne patient had <target> thrombotic thrombocytopenic purpura </target> , three the hemolytic-uremic syndrome , and one an apparent forme fruste of one of these disorders .",
+        "D006463\tDisease\themolytic-uremic syndrome\tOne patient had thrombotic thrombocytopenic purpura , three the <target> hemolytic-uremic syndrome </target> , and one an apparent forme fruste of one of these disorders .",
+        "D004211\tDisease\tintravascular coagulation\tHistologic examination of the renal tissue showed evidence of <target> intravascular coagulation </target> , primarily affecting the small arteries , arterioles , and glomeruli .",
+        "D009369\tDisease\ttumor\tBecause each patient was <target> tumor </target> -free or had only a small tumor at the onset of this syndrome , the thrombotic microangiopathy may have been induced by chemotherapy .",
+        "D009369\tDisease\ttumor\tBecause each patient was tumor-free or had only a small <target> tumor </target> at the onset of this syndrome , the thrombotic microangiopathy may have been induced by chemotherapy .",
+        "D057049\tDisease\tthrombotic microangiopathy\tBecause each patient was tumor-free or had only a small tumor at the onset of this syndrome , the <target> thrombotic microangiopathy </target> may have been induced by chemotherapy .",
+        "D051437\tDisease\trenal failure\tDiagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined , because <target> renal failure </target> may be ascribed to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D002945\tChemical\tcisplatin\tDiagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined , because renal failure may be ascribed to <target> cisplatin </target> nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D007674\tDisease\tnephrotoxicity\tDiagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined , because renal failure may be ascribed to cisplatin <target> nephrotoxicity </target> and the anemia and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D000740\tDisease\tanemia\tDiagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined , because renal failure may be ascribed to cisplatin nephrotoxicity and the <target> anemia </target> and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D013921\tDisease\tthrombocytopenia\tDiagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined , because renal failure may be ascribed to cisplatin nephrotoxicity and the anemia and <target> thrombocytopenia </target> to drug-induced bone marrow suppression .",
+        "D001855\tDisease\tbone marrow suppression\tDiagnosis of this potentially fatal complication may be delayed or missed if renal tissue or the peripheral blood smear is not examined , because renal failure may be ascribed to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced <target> bone marrow suppression </target> ."
+    ],
+    "lines_lemma": [
+        "D057049\tDisease\tThrombotic microangiopathy\t<target> thrombotic microangiopathy </target> and renal failure associate with antineoplastic chemotherapy .",
+        "D051437\tDisease\trenal failure\tthrombotic microangiopathy and <target> renal failure </target> associate with antineoplastic chemotherapy .",
+        "D002277\tDisease\tcarcinoma\tfive patient with <target> carcinoma </target> develop thrombotic microangiopathy ( characterize by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D057049\tDisease\tthrombotic microangiopathy\tfive patient with carcinoma develop <target> thrombotic microangiopathy </target> ( characterize by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D051437\tDisease\trenal insufficiency\tfive patient with carcinoma develop thrombotic microangiopathy ( characterize by <target> renal insufficiency </target> , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D000743\tDisease\tmicroangiopathic hemolytic anemia\tfive patient with carcinoma develop thrombotic microangiopathy ( characterize by renal insufficiency , <target> microangiopathic hemolytic anemia </target> , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D013921\tDisease\tthrombocytopenia\tfive patient with carcinoma develop thrombotic microangiopathy ( characterize by renal insufficiency , microangiopathic hemolytic anemia , and usually <target> thrombocytopenia </target> ) after treatment with cisplatin , bleomycin , and a vinca alkaloid .",
+        "D002945\tChemical\tcisplatin\tfive patient with carcinoma develop thrombotic microangiopathy ( characterize by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with <target> cisplatin </target> , bleomycin , and a vinca alkaloid .",
+        "D001761\tChemical\tbleomycin\tfive patient with carcinoma develop thrombotic microangiopathy ( characterize by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , <target> bleomycin </target> , and a vinca alkaloid .",
+        "D014748\tChemical\tvinca alkaloid\tfive patient with carcinoma develop thrombotic microangiopathy ( characterize by renal insufficiency , microangiopathic hemolytic anemia , and usually thrombocytopenia ) after treatment with cisplatin , bleomycin , and a <target> vinca alkaloid </target> .",
+        "D011697\tDisease\tthrombotic thrombocytopenic purpura\tone patient have <target> thrombotic thrombocytopenic purpura </target> , three the hemolytic-uremic syndrome , and one an apparent forme fruste of one of these disorder .",
+        "D006463\tDisease\themolytic-uremic syndrome\tone patient have thrombotic thrombocytopenic purpura , three the <target> hemolytic-uremic syndrome </target> , and one an apparent forme fruste of one of these disorder .",
+        "D004211\tDisease\tintravascular coagulation\thistologic examination of the renal tissue show evidence of <target> intravascular coagulation </target> , primarily affect the small artery , arteriole , and glomerulus .",
+        "D009369\tDisease\ttumor\tbecause each patient be <target> tumor </target> -free or have only a small tumor at the onset of this syndrome , the thrombotic microangiopathy may have be induce by chemotherapy .",
+        "D009369\tDisease\ttumor\tbecause each patient be tumor-free or have only a small <target> tumor </target> at the onset of this syndrome , the thrombotic microangiopathy may have be induce by chemotherapy .",
+        "D057049\tDisease\tthrombotic microangiopathy\tbecause each patient be tumor-free or have only a small tumor at the onset of this syndrome , the <target> thrombotic microangiopathy </target> may have be induce by chemotherapy .",
+        "D051437\tDisease\trenal failure\tdiagnosis of this potentially fatal complication may be delay or miss if renal tissue or the peripheral blood smear be not examine , because <target> renal failure </target> may be ascribe to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D002945\tChemical\tcisplatin\tdiagnosis of this potentially fatal complication may be delay or miss if renal tissue or the peripheral blood smear be not examine , because renal failure may be ascribe to <target> cisplatin </target> nephrotoxicity and the anemia and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D007674\tDisease\tnephrotoxicity\tdiagnosis of this potentially fatal complication may be delay or miss if renal tissue or the peripheral blood smear be not examine , because renal failure may be ascribe to cisplatin <target> nephrotoxicity </target> and the anemia and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D000740\tDisease\tanemia\tdiagnosis of this potentially fatal complication may be delay or miss if renal tissue or the peripheral blood smear be not examine , because renal failure may be ascribe to cisplatin nephrotoxicity and the <target> anemia </target> and thrombocytopenia to drug-induced bone marrow suppression .",
+        "D013921\tDisease\tthrombocytopenia\tdiagnosis of this potentially fatal complication may be delay or miss if renal tissue or the peripheral blood smear be not examine , because renal failure may be ascribe to cisplatin nephrotoxicity and the anemia and <target> thrombocytopenia </target> to drug-induced bone marrow suppression .",
+        "D001855\tDisease\tbone marrow suppression\tdiagnosis of this potentially fatal complication may be delay or miss if renal tissue or the peripheral blood smear be not examine , because renal failure may be ascribe to cisplatin nephrotoxicity and the anemia and thrombocytopenia to drug-induced <target> bone marrow suppression </target> ."
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "title": "Effect of L-alpha-glyceryl-phosphorylcholine on amnesia caused by scopolamine.",
+    "abst": "The present study was carried out to test the effects of L-alpha-glycerylphosphorylcholine (L-alpha-GFC) on memory impairment induced by scopolamine in man. Thirty-two healthy young volunteers were randomly allocated to four different groups. They were given a ten day pretreatment with either L-alpha-GFC or placebo, p.o., and on the eleventh day either scopolamine or placebo, i.m. Before and 0.5, 1, 2, 3, and 6 h after injection the subjects were given attention and mnemonic tests. The findings of this study indicate that the drug is able to antagonize impairment of attention and memory induced by scopolamine.",
+    "title_plus_abst": "Effect of L-alpha-glyceryl-phosphorylcholine on amnesia caused by scopolamine. The present study was carried out to test the effects of L-alpha-glycerylphosphorylcholine (L-alpha-GFC) on memory impairment induced by scopolamine in man. Thirty-two healthy young volunteers were randomly allocated to four different groups. They were given a ten day pretreatment with either L-alpha-GFC or placebo, p.o., and on the eleventh day either scopolamine or placebo, i.m. Before and 0.5, 1, 2, 3, and 6 h after injection the subjects were given attention and mnemonic tests. The findings of this study indicate that the drug is able to antagonize impairment of attention and memory induced by scopolamine.",
+    "pubmed_id": "2071257",
+    "entities": [
+        [
+            10,
+            44,
+            "L-alpha-glyceryl-phosphorylcholine",
+            "Chemical",
+            "D005997"
+        ],
+        [
+            48,
+            55,
+            "amnesia",
+            "Disease",
+            "D000647"
+        ],
+        [
+            66,
+            77,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            136,
+            169,
+            "L-alpha-glycerylphosphorylcholine",
+            "Chemical",
+            "D005997"
+        ],
+        [
+            171,
+            182,
+            "L-alpha-GFC",
+            "Chemical",
+            "D005997"
+        ],
+        [
+            187,
+            204,
+            "memory impairment",
+            "Disease",
+            "D008569"
+        ],
+        [
+            216,
+            227,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            373,
+            384,
+            "L-alpha-GFC",
+            "Chemical",
+            "D005997"
+        ],
+        [
+            434,
+            445,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            638,
+            672,
+            "impairment of attention and memory",
+            "Disease",
+            "D008569"
+        ],
+        [
+            684,
+            695,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of L-alpha-glyceryl-phosphorylcholine on amnesia caused by scopolamine.",
+        "The present study was carried out to test the effects of L-alpha-glycerylphosphorylcholine (L-alpha-GFC) on memory impairment induced by scopolamine in man.",
+        "Thirty-two healthy young volunteers were randomly allocated to four different groups.",
+        "They were given a ten day pretreatment with either L-alpha-GFC or placebo, p.o., and on the eleventh day either scopolamine or placebo, i.m.",
+        "Before and 0.5, 1, 2, 3, and 6 h after injection the subjects were given attention and mnemonic tests.",
+        "The findings of this study indicate that the drug is able to antagonize impairment of attention and memory induced by scopolamine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005997\tChemical\tL-alpha-glyceryl-phosphorylcholine\tEffect of <target> L-alpha-glyceryl-phosphorylcholine </target> on amnesia caused by scopolamine .",
+        "D000647\tDisease\tamnesia\tEffect of L-alpha-glyceryl-phosphorylcholine on <target> amnesia </target> caused by scopolamine .",
+        "D012601\tChemical\tscopolamine\tEffect of L-alpha-glyceryl-phosphorylcholine on amnesia caused by <target> scopolamine </target> .",
+        "D005997\tChemical\tL-alpha-glycerylphosphorylcholine\tThe present study was carried out to test the effects of <target> L-alpha-glycerylphosphorylcholine </target> ( L-alpha-GFC ) on memory impairment induced by scopolamine in man .",
+        "D005997\tChemical\tL-alpha-GFC\tThe present study was carried out to test the effects of L-alpha-glycerylphosphorylcholine ( <target> L-alpha-GFC </target> ) on memory impairment induced by scopolamine in man .",
+        "D008569\tDisease\tmemory impairment\tThe present study was carried out to test the effects of L-alpha-glycerylphosphorylcholine ( L-alpha-GFC ) on <target> memory impairment </target> induced by scopolamine in man .",
+        "D012601\tChemical\tscopolamine\tThe present study was carried out to test the effects of L-alpha-glycerylphosphorylcholine ( L-alpha-GFC ) on memory impairment induced by <target> scopolamine </target> in man .",
+        "D005997\tChemical\tL-alpha-GFC\tThey were given a ten day pretreatment with either <target> L-alpha-GFC </target> or placebo , p.o . , and on the eleventh day either scopolamine or placebo , i.m .",
+        "D012601\tChemical\tscopolamine\tThey were given a ten day pretreatment with either L-alpha-GFC or placebo , p.o . , and on the eleventh day either <target> scopolamine </target> or placebo , i.m .",
+        "D008569\tDisease\timpairment of attention and memory\tThe findings of this study indicate that the drug is able to antagonize <target> impairment of attention and memory </target> induced by scopolamine .",
+        "D012601\tChemical\tscopolamine\tThe findings of this study indicate that the drug is able to antagonize impairment of attention and memory induced by <target> scopolamine </target> ."
+    ],
+    "lines_lemma": [
+        "D005997\tChemical\tL-alpha-glyceryl-phosphorylcholine\teffect of <target> l-alpha-glyceryl-phosphorylcholine </target> on amnesia cause by scopolamine .",
+        "D000647\tDisease\tamnesia\teffect of l-alpha-glyceryl-phosphorylcholine on <target> amnesia </target> cause by scopolamine .",
+        "D012601\tChemical\tscopolamine\teffect of l-alpha-glyceryl-phosphorylcholine on amnesia cause by <target> scopolamine </target> .",
+        "D005997\tChemical\tL-alpha-glycerylphosphorylcholine\tthe present study be carry out to test the effect of <target> l-alpha-glycerylphosphorylcholine </target> ( l-alpha-gfc ) on memory impairment induce by scopolamine in man .",
+        "D005997\tChemical\tL-alpha-GFC\tthe present study be carry out to test the effect of l-alpha-glycerylphosphorylcholine ( <target> l-alpha-gfc </target> ) on memory impairment induce by scopolamine in man .",
+        "D008569\tDisease\tmemory impairment\tthe present study be carry out to test the effect of l-alpha-glycerylphosphorylcholine ( l-alpha-gfc ) on <target> memory impairment </target> induce by scopolamine in man .",
+        "D012601\tChemical\tscopolamine\tthe present study be carry out to test the effect of l-alpha-glycerylphosphorylcholine ( l-alpha-gfc ) on memory impairment induce by <target> scopolamine </target> in man .",
+        "D005997\tChemical\tL-alpha-GFC\tthey be give a ten day pretreatment with either <target> l-alpha-gfc </target> or placebo , p.o . , and on the eleventh day either scopolamine or placebo , i.m .",
+        "D012601\tChemical\tscopolamine\tthey be give a ten day pretreatment with either l-alpha-gfc or placebo , p.o . , and on the eleventh day either <target> scopolamine </target> or placebo , i.m .",
+        "D008569\tDisease\timpairment of attention and memory\tthe finding of this study indicate that the drug be able to antagonize <target> impairment of attention and memory </target> induce by scopolamine .",
+        "D012601\tChemical\tscopolamine\tthe finding of this study indicate that the drug be able to antagonize impairment of attention and memory induce by <target> scopolamine </target> ."
+    ]
+}

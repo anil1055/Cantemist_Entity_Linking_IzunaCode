@@ -1,0 +1,166 @@
+{
+    "title": "Cerebellar and oculomotor dysfunction induced by rapid infusion of pethidine.",
+    "abst": "Pethidine is an opioid that gains its popularity for the effective pain control through acting on the opioid-receptors. However, rapid pain relief sometimes brings about unfavourable side effects that largely limit its clinical utility. Common side effects include nausea, vomiting and hypotension. In patients with impaired renal and liver function, and those who need long-term pain control, pethidine may cause excitatory central nervous system (CNS) effects through its neurotoxic metabolite, norpethidine, resulting in irritability and seizure attack. On the contrary, though not clinically apparent, pethidine potentially causes inhibitory impacts on the CNS and impairs normal cerebellar and oculomotor function in the short term. In this case report, we highlight opioid's inhibitory side effects on the cerebellar structure that causes dysmetria, dysarthria, reduced smooth pursuit gain and decreased saccadic velocity.",
+    "title_plus_abst": "Cerebellar and oculomotor dysfunction induced by rapid infusion of pethidine. Pethidine is an opioid that gains its popularity for the effective pain control through acting on the opioid-receptors. However, rapid pain relief sometimes brings about unfavourable side effects that largely limit its clinical utility. Common side effects include nausea, vomiting and hypotension. In patients with impaired renal and liver function, and those who need long-term pain control, pethidine may cause excitatory central nervous system (CNS) effects through its neurotoxic metabolite, norpethidine, resulting in irritability and seizure attack. On the contrary, though not clinically apparent, pethidine potentially causes inhibitory impacts on the CNS and impairs normal cerebellar and oculomotor function in the short term. In this case report, we highlight opioid's inhibitory side effects on the cerebellar structure that causes dysmetria, dysarthria, reduced smooth pursuit gain and decreased saccadic velocity.",
+    "pubmed_id": "24618873",
+    "entities": [
+        [
+            67,
+            76,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            78,
+            87,
+            "Pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            145,
+            149,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            213,
+            217,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            343,
+            349,
+            "nausea",
+            "Disease",
+            "D009325"
+        ],
+        [
+            351,
+            359,
+            "vomiting",
+            "Disease",
+            "D014839"
+        ],
+        [
+            364,
+            375,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            458,
+            462,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            472,
+            481,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            552,
+            562,
+            "neurotoxic",
+            "Disease",
+            "D020258"
+        ],
+        [
+            575,
+            587,
+            "norpethidine",
+            "Chemical",
+            "C002752"
+        ],
+        [
+            602,
+            614,
+            "irritability",
+            "Disease",
+            "D001523"
+        ],
+        [
+            619,
+            626,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            684,
+            693,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            923,
+            932,
+            "dysmetria",
+            "Disease",
+            "D002524"
+        ],
+        [
+            934,
+            944,
+            "dysarthria",
+            "Disease",
+            "D004401"
+        ]
+    ],
+    "split_sentence": [
+        "Cerebellar and oculomotor dysfunction induced by rapid infusion of pethidine.",
+        "Pethidine is an opioid that gains its popularity for the effective pain control through acting on the opioid-receptors.",
+        "However, rapid pain relief sometimes brings about unfavourable side effects that largely limit its clinical utility.",
+        "Common side effects include nausea, vomiting and hypotension.",
+        "In patients with impaired renal and liver function, and those who need long-term pain control, pethidine may cause excitatory central nervous system (CNS) effects through its neurotoxic metabolite, norpethidine, resulting in irritability and seizure attack.",
+        "On the contrary, though not clinically apparent, pethidine potentially causes inhibitory impacts on the CNS and impairs normal cerebellar and oculomotor function in the short term.",
+        "In this case report, we highlight opioid's inhibitory side effects on the cerebellar structure that causes dysmetria, dysarthria, reduced smooth pursuit gain and decreased saccadic velocity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008614\tChemical\tpethidine\tCerebellar and oculomotor dysfunction induced by rapid infusion of <target> pethidine </target> .",
+        "D008614\tChemical\tPethidine\t<target> Pethidine </target> is an opioid that gains its popularity for the effective pain control through acting on the opioid-receptors .",
+        "D010146\tDisease\tpain\tPethidine is an opioid that gains its popularity for the effective <target> pain </target> control through acting on the opioid-receptors .",
+        "D010146\tDisease\tpain\tHowever , rapid <target> pain </target> relief sometimes brings about unfavourable side effects that largely limit its clinical utility .",
+        "D009325\tDisease\tnausea\tCommon side effects include <target> nausea </target> , vomiting and hypotension .",
+        "D014839\tDisease\tvomiting\tCommon side effects include nausea , <target> vomiting </target> and hypotension .",
+        "D007022\tDisease\thypotension\tCommon side effects include nausea , vomiting and <target> hypotension </target> .",
+        "D010146\tDisease\tpain\tIn patients with impaired renal and liver function , and those who need long-term <target> pain </target> control , pethidine may cause excitatory central nervous system ( CNS ) effects through its neurotoxic metabolite , norpethidine , resulting in irritability and seizure attack .",
+        "D008614\tChemical\tpethidine\tIn patients with impaired renal and liver function , and those who need long-term pain control , <target> pethidine </target> may cause excitatory central nervous system ( CNS ) effects through its neurotoxic metabolite , norpethidine , resulting in irritability and seizure attack .",
+        "D020258\tDisease\tneurotoxic\tIn patients with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( CNS ) effects through its <target> neurotoxic </target> metabolite , norpethidine , resulting in irritability and seizure attack .",
+        "C002752\tChemical\tnorpethidine\tIn patients with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( CNS ) effects through its neurotoxic metabolite , <target> norpethidine </target> , resulting in irritability and seizure attack .",
+        "D001523\tDisease\tirritability\tIn patients with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( CNS ) effects through its neurotoxic metabolite , norpethidine , resulting in <target> irritability </target> and seizure attack .",
+        "D012640\tDisease\tseizure\tIn patients with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( CNS ) effects through its neurotoxic metabolite , norpethidine , resulting in irritability and <target> seizure </target> attack .",
+        "D008614\tChemical\tpethidine\tOn the contrary , though not clinically apparent , <target> pethidine </target> potentially causes inhibitory impacts on the CNS and impairs normal cerebellar and oculomotor function in the short term .",
+        "D002524\tDisease\tdysmetria\tIn this case report , we highlight opioid 's inhibitory side effects on the cerebellar structure that causes <target> dysmetria </target> , dysarthria , reduced smooth pursuit gain and decreased saccadic velocity .",
+        "D004401\tDisease\tdysarthria\tIn this case report , we highlight opioid 's inhibitory side effects on the cerebellar structure that causes dysmetria , <target> dysarthria </target> , reduced smooth pursuit gain and decreased saccadic velocity ."
+    ],
+    "lines_lemma": [
+        "D008614\tChemical\tpethidine\tcerebellar and oculomotor dysfunction induce by rapid infusion of <target> pethidine </target> .",
+        "D008614\tChemical\tPethidine\t<target> Pethidine </target> be an opioid that gain its popularity for the effective pain control through act on the opioid-receptor .",
+        "D010146\tDisease\tpain\tpethidine be an opioid that gain its popularity for the effective <target> pain </target> control through act on the opioid-receptor .",
+        "D010146\tDisease\tpain\thowever , rapid <target> pain </target> relief sometimes bring about unfavourable side effect that largely limit its clinical utility .",
+        "D009325\tDisease\tnausea\tcommon side effect include <target> nausea </target> , vomiting and hypotension .",
+        "D014839\tDisease\tvomiting\tcommon side effect include nausea , <target> vomiting </target> and hypotension .",
+        "D007022\tDisease\thypotension\tcommon side effect include nausea , vomiting and <target> hypotension </target> .",
+        "D010146\tDisease\tpain\tin patient with impaired renal and liver function , and those who need long-term <target> pain </target> control , pethidine may cause excitatory central nervous system ( cns ) effect through its neurotoxic metabolite , norpethidine , result in irritability and seizure attack .",
+        "D008614\tChemical\tpethidine\tin patient with impaired renal and liver function , and those who need long-term pain control , <target> pethidine </target> may cause excitatory central nervous system ( cns ) effect through its neurotoxic metabolite , norpethidine , result in irritability and seizure attack .",
+        "D020258\tDisease\tneurotoxic\tin patient with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( cns ) effect through its <target> neurotoxic </target> metabolite , norpethidine , result in irritability and seizure attack .",
+        "C002752\tChemical\tnorpethidine\tin patient with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( cns ) effect through its neurotoxic metabolite , <target> norpethidine </target> , result in irritability and seizure attack .",
+        "D001523\tDisease\tirritability\tin patient with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( cns ) effect through its neurotoxic metabolite , norpethidine , result in <target> irritability </target> and seizure attack .",
+        "D012640\tDisease\tseizure\tin patient with impaired renal and liver function , and those who need long-term pain control , pethidine may cause excitatory central nervous system ( cns ) effect through its neurotoxic metabolite , norpethidine , result in irritability and <target> seizure </target> attack .",
+        "D008614\tChemical\tpethidine\ton the contrary , though not clinically apparent , <target> pethidine </target> potentially cause inhibitory impact on the cns and impair normal cerebellar and oculomotor function in the short term .",
+        "D002524\tDisease\tdysmetria\tin this case report , we highlight opioid 's inhibitory side effect on the cerebellar structure that cause <target> dysmetria </target> , dysarthria , reduce smooth pursuit gain and decrease saccadic velocity .",
+        "D004401\tDisease\tdysarthria\tin this case report , we highlight opioid 's inhibitory side effect on the cerebellar structure that cause dysmetria , <target> dysarthria </target> , reduce smooth pursuit gain and decrease saccadic velocity ."
+    ]
+}

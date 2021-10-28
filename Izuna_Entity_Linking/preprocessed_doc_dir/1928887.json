@@ -1,0 +1,192 @@
+{
+    "title": "Naloxone reversal of hypotension due to captopril overdose.",
+    "abst": "The hemodynamic effects of captopril and other angiotensin-converting enzyme inhibitors may be mediated by the endogenous opioid system. The opioid antagonist naloxone has been shown to block or reverse the hypotensive actions of captopril. We report a case of an intentional captopril overdose, manifested by marked hypotension, that resolved promptly with the administration of naloxone. To our knowledge, this is the first reported case of captopril-induced hypotension treated with naloxone. Our experience demonstrates a possible role of naloxone in the reversal of hypotension resulting from captopril.",
+    "title_plus_abst": "Naloxone reversal of hypotension due to captopril overdose. The hemodynamic effects of captopril and other angiotensin-converting enzyme inhibitors may be mediated by the endogenous opioid system. The opioid antagonist naloxone has been shown to block or reverse the hypotensive actions of captopril. We report a case of an intentional captopril overdose, manifested by marked hypotension, that resolved promptly with the administration of naloxone. To our knowledge, this is the first reported case of captopril-induced hypotension treated with naloxone. Our experience demonstrates a possible role of naloxone in the reversal of hypotension resulting from captopril.",
+    "pubmed_id": "1928887",
+    "entities": [
+        [
+            0,
+            8,
+            "Naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            21,
+            32,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            40,
+            49,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            50,
+            58,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            87,
+            96,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            107,
+            147,
+            "angiotensin-converting enzyme inhibitors",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            219,
+            227,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            267,
+            278,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            290,
+            299,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            336,
+            345,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            346,
+            354,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            377,
+            388,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            440,
+            448,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            503,
+            512,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ],
+        [
+            521,
+            532,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            546,
+            554,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            603,
+            611,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            631,
+            642,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            658,
+            667,
+            "captopril",
+            "Chemical",
+            "D002216"
+        ]
+    ],
+    "split_sentence": [
+        "Naloxone reversal of hypotension due to captopril overdose.",
+        "The hemodynamic effects of captopril and other angiotensin-converting enzyme inhibitors may be mediated by the endogenous opioid system.",
+        "The opioid antagonist naloxone has been shown to block or reverse the hypotensive actions of captopril.",
+        "We report a case of an intentional captopril overdose, manifested by marked hypotension, that resolved promptly with the administration of naloxone.",
+        "To our knowledge, this is the first reported case of captopril-induced hypotension treated with naloxone.",
+        "Our experience demonstrates a possible role of naloxone in the reversal of hypotension resulting from captopril."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009270\tChemical\tNaloxone\t<target> Naloxone </target> reversal of hypotension due to captopril overdose .",
+        "D007022\tDisease\thypotension\tNaloxone reversal of <target> hypotension </target> due to captopril overdose .",
+        "D002216\tChemical\tcaptopril\tNaloxone reversal of hypotension due to <target> captopril </target> overdose .",
+        "D062787\tDisease\toverdose\tNaloxone reversal of hypotension due to captopril <target> overdose </target> .",
+        "D002216\tChemical\tcaptopril\tThe hemodynamic effects of <target> captopril </target> and other angiotensin-converting enzyme inhibitors may be mediated by the endogenous opioid system .",
+        "D000806\tChemical\tangiotensin-converting enzyme inhibitors\tThe hemodynamic effects of captopril and other <target> angiotensin-converting enzyme inhibitors </target> may be mediated by the endogenous opioid system .",
+        "D009270\tChemical\tnaloxone\tThe opioid antagonist <target> naloxone </target> has been shown to block or reverse the hypotensive actions of captopril .",
+        "D007022\tDisease\thypotensive\tThe opioid antagonist naloxone has been shown to block or reverse the <target> hypotensive </target> actions of captopril .",
+        "D002216\tChemical\tcaptopril\tThe opioid antagonist naloxone has been shown to block or reverse the hypotensive actions of <target> captopril </target> .",
+        "D002216\tChemical\tcaptopril\tWe report a case of an intentional <target> captopril </target> overdose , manifested by marked hypotension , that resolved promptly with the administration of naloxone .",
+        "D062787\tDisease\toverdose\tWe report a case of an intentional captopril <target> overdose </target> , manifested by marked hypotension , that resolved promptly with the administration of naloxone .",
+        "D007022\tDisease\thypotension\tWe report a case of an intentional captopril overdose , manifested by marked <target> hypotension </target> , that resolved promptly with the administration of naloxone .",
+        "D009270\tChemical\tnaloxone\tWe report a case of an intentional captopril overdose , manifested by marked hypotension , that resolved promptly with the administration of <target> naloxone </target> .",
+        "D002216\tChemical\tcaptopril\tTo our knowledge , this is the first reported case of <target> captopril </target> -induced hypotension treated with naloxone .",
+        "D007022\tDisease\thypotension\tTo our knowledge , this is the first reported case of captopril-induced <target> hypotension </target> treated with naloxone .",
+        "D009270\tChemical\tnaloxone\tTo our knowledge , this is the first reported case of captopril-induced hypotension treated with <target> naloxone </target> .",
+        "D009270\tChemical\tnaloxone\tOur experience demonstrates a possible role of <target> naloxone </target> in the reversal of hypotension resulting from captopril .",
+        "D007022\tDisease\thypotension\tOur experience demonstrates a possible role of naloxone in the reversal of <target> hypotension </target> resulting from captopril .",
+        "D002216\tChemical\tcaptopril\tOur experience demonstrates a possible role of naloxone in the reversal of hypotension resulting from <target> captopril </target> ."
+    ],
+    "lines_lemma": [
+        "D009270\tChemical\tNaloxone\t<target> Naloxone </target> reversal of hypotension due to captopril overdose .",
+        "D007022\tDisease\thypotension\tnaloxone reversal of <target> hypotension </target> due to captopril overdose .",
+        "D002216\tChemical\tcaptopril\tnaloxone reversal of hypotension due to <target> captopril </target> overdose .",
+        "D062787\tDisease\toverdose\tnaloxone reversal of hypotension due to captopril <target> overdose </target> .",
+        "D002216\tChemical\tcaptopril\tthe hemodynamic effect of <target> captopril </target> and other angiotensin-converting enzyme inhibitor may be mediate by the endogenous opioid system .",
+        "D000806\tChemical\tangiotensin-converting enzyme inhibitors\tthe hemodynamic effect of captopril and other <target> angiotensin-converting enzyme inhibitor </target> may be mediate by the endogenous opioid system .",
+        "D009270\tChemical\tnaloxone\tthe opioid antagonist <target> naloxone </target> have be show to block or reverse the hypotensive action of captopril .",
+        "D007022\tDisease\thypotensive\tthe opioid antagonist naloxone have be show to block or reverse the <target> hypotensive </target> action of captopril .",
+        "D002216\tChemical\tcaptopril\tthe opioid antagonist naloxone have be show to block or reverse the hypotensive action of <target> captopril </target> .",
+        "D002216\tChemical\tcaptopril\twe report a case of an intentional <target> captopril </target> overdose , manifest by marked hypotension , that resolve promptly with the administration of naloxone .",
+        "D062787\tDisease\toverdose\twe report a case of an intentional captopril <target> overdose </target> , manifest by marked hypotension , that resolve promptly with the administration of naloxone .",
+        "D007022\tDisease\thypotension\twe report a case of an intentional captopril overdose , manifest by marked <target> hypotension </target> , that resolve promptly with the administration of naloxone .",
+        "D009270\tChemical\tnaloxone\twe report a case of an intentional captopril overdose , manifest by marked hypotension , that resolve promptly with the administration of <target> naloxone </target> .",
+        "D002216\tChemical\tcaptopril\tto our knowledge , this be the first report case of <target> captopril </target> -induced hypotension treat with naloxone .",
+        "D007022\tDisease\thypotension\tto our knowledge , this be the first report case of captopril-induced <target> hypotension </target> treat with naloxone .",
+        "D009270\tChemical\tnaloxone\tto our knowledge , this be the first report case of captopril-induced hypotension treat with <target> naloxone </target> .",
+        "D009270\tChemical\tnaloxone\tour experience demonstrate a possible role of <target> naloxone </target> in the reversal of hypotension result from captopril .",
+        "D007022\tDisease\thypotension\tour experience demonstrate a possible role of naloxone in the reversal of <target> hypotension </target> result from captopril .",
+        "D002216\tChemical\tcaptopril\tour experience demonstrate a possible role of naloxone in the reversal of hypotension result from <target> captopril </target> ."
+    ]
+}

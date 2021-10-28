@@ -1,0 +1,132 @@
+{
+    "entities": [
+        [
+            611,
+            623,
+            "glioblastoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "9440/3"
+        ],
+        [
+            2680,
+            2692,
+            "glioblastoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "9440/3"
+        ],
+        [
+            2471,
+            2481,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2733,
+            2743,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            478,
+            490,
+            "neoformación",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            429,
+            439,
+            "tumoración",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            767,
+            799,
+            "glioblastoma de células gigantes",
+            "MORFOLOGIA_NEOPLASIA",
+            "9441/3"
+        ],
+        [
+            2762,
+            2794,
+            "Glioblastoma de células gigantes",
+            "MORFOLOGIA_NEOPLASIA",
+            "9441/3"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Ingresa en Neurocirugía donde se completa el estudio con resonancia magnética (RMN) orientando la lesión como  <objetivo> glioblastoma </objetivo> ",
+        "Los resultados anatomopatológicos muestran un  <objetivo> glioblastoma </objetivo> de células gigantes, IDH-1 negativa y MGMT no metilado.",
+        "Hallazgos sugestivos de  <objetivo> glioblastoma </objetivo> ",
+        "Ingresa en Neurocirugía donde se completa el estudio con resonancia magnética (RMN) orientando la lesión como  <objetivo> glioblastoma </objetivo> ",
+        "Los resultados anatomopatológicos muestran un  <objetivo> glioblastoma </objetivo> de células gigantes, IDH-1 negativa y MGMT no metilado.",
+        "Hallazgos sugestivos de  <objetivo> glioblastoma </objetivo> ",
+        "Analítica ingreso: Hb 13 g/dl, Ht 38 %, plaquetas 193.000 K/mcl, leucocitos 6.520 K/mcl, neutrófilos 5.000 K/mcl, linfocitos 500 K/mcl, urea 41 mg/dl, creatinina 0,67mg/dl, PCR 0,21 RMN columna vertebral (5/1/17): se observan dos lesiones en cola de caballo: una en L2-L3 y la segunda en la unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatibles con  <objetivo> metástasis </objetivo> medulares que condicionan estenosis del canal medular.",
+        "Compresión medular por  <objetivo> metástasis </objetivo> endomedulares.",
+        "Analítica ingreso: Hb 13 g/dl, Ht 38 %, plaquetas 193.000 K/mcl, leucocitos 6.520 K/mcl, neutrófilos 5.000 K/mcl, linfocitos 500 K/mcl, urea 41 mg/dl, creatinina 0,67mg/dl, PCR 0,21 RMN columna vertebral (5/1/17): se observan dos lesiones en cola de caballo: una en L2-L3 y la segunda en la unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatibles con  <objetivo> metástasis </objetivo> medulares que condicionan estenosis del canal medular.",
+        "Compresión medular por  <objetivo> metástasis </objetivo> endomedulares.",
+        "Se realiza tomografía computarizada (TC) de cráneo urgente donde se observa tumoración temporo-parietal derecha sugestiva de  <objetivo> neoformación </objetivo> primaria.",
+        "Se realiza tomografía computarizada (TC) de cráneo urgente donde se observa  <objetivo> tumoración </objetivo> temporo-parietal derecha sugestiva de neoformación primaria.",
+        "Los resultados anatomopatológicos muestran un  <objetivo> glioblastoma de células gigantes </objetivo>  IDH-1 negativa y MGMT no metilado.",
+        "<objetivo> Glioblastoma de células gigantes </objetivo> "
+    ],
+    "lines_lemma": [
+        "Ingresa en Neurocirugía donde él completar el estudio con resonancia magnético ( RMN ) orientar el lesión como   <objetivo> glioblastomar </objetivo>",
+        "el resultado anatomopatológico mostrar uno   <objetivo> glioblastomar </objetivo> de célula gigante , idh-1 negativo y MGMT no metilado .",
+        "hallazgo sugestivo de   <objetivo> glioblastomar </objetivo>",
+        "Ingresa en Neurocirugía donde él completar el estudio con resonancia magnético ( RMN ) orientar el lesión como   <objetivo> glioblastomar </objetivo>",
+        "el resultado anatomopatológico mostrar uno   <objetivo> glioblastomar </objetivo> de célula gigante , idh-1 negativo y MGMT no metilado .",
+        "hallazgo sugestivo de   <objetivo> glioblastomar </objetivo>",
+        "analítico ingreso : Hb 13 g / dl , ht 38 % , plaquetos 193000 k / mcl , leucocito 6520 K / mcl , neutrófilo 5000 k / mcl , linfocito 500 k / mcl , urea 41 mg / dl , creatininar 0,67mg / dl , PCR 0.21 RMN columna vertebral ( 5/1/17 ): él observar dos lesión en cola de caballo : uno en L2-L3 y el segundo en el unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatible con   <objetivo> metástasi </objetivo> medular que condicionar estenosis del canal medular .",
+        "Compresión medular por   <objetivo> metástasi </objetivo> endomedular .",
+        "analítico ingreso : Hb 13 g / dl , ht 38 % , plaquetos 193000 k / mcl , leucocito 6520 K / mcl , neutrófilo 5000 k / mcl , linfocito 500 k / mcl , urea 41 mg / dl , creatininar 0,67mg / dl , PCR 0.21 RMN columna vertebral ( 5/1/17 ): él observar dos lesión en cola de caballo : uno en L2-L3 y el segundo en el unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatible con   <objetivo> metástasi </objetivo> medular que condicionar estenosis del canal medular .",
+        "Compresión medular por   <objetivo> metástasi </objetivo> endomedular .",
+        "él realizar tomografía computarizado ( TC ) de cráneo urgente donde él observar tumoración temporo-parietal derecha sugestivo de   <objetivo> neoformación </objetivo> primario .",
+        "él realizar tomografía computarizado ( TC ) de cráneo urgente donde él observar   <objetivo> tumoración </objetivo> temporo-parietal derecha sugestivo de neoformación primario .",
+        "el resultado anatomopatológico mostrar uno   <objetivo> glioblastomar de célula gigante </objetivo>   idh-1 negativo y MGMT no metilado .",
+        "<objetivo> Glioblastoma de célula gigante </objetivo>"
+    ],
+    "pubmed_id": "onco1044",
+    "split_sentence": [
+        "Anamnesis",
+        "Paciente varón de 53 años de edad, alérgico a la penicilina.",
+        "Obesidad tipo I (IMC 31).",
+        "Sin hábitos tóxicos ni otros antecedentes patológicos de interés.",
+        "Historia oncológica:",
+        "Consulta en enero de 2016 por cefalea frontal derecha de características pulsátiles irradiada a nivel occipital de larga evolución refractaria a analgesia convencional.",
+        "Se realiza tomografía computarizada (TC) de cráneo urgente donde se observa tumoración temporo-parietal derecha sugestiva de neoformación primaria.",
+        "Ingresa en Neurocirugía donde se completa el estudio con resonancia magnética (RMN) orientando la lesión como glioblastoma.",
+        "Se realiza intervención quirúrgica mediante neuronavegador con resección del 85 % de la lesión.",
+        "Los resultados anatomopatológicos muestran un glioblastoma de células gigantes, IDH-1 negativa y MGMT no metilado.",
+        "Se remite a Oncología e inicia protocolo Stupp12 (temozolamida concomitante con radioterapia) del día 21/3/16 hasta el 3/5/16.",
+        "Posteriormente, se administra adyuvancia con temozolamida completando 5 ciclos hasta el 20/9/16.",
+        "Con un intervalo libre de progresión de 6 meses, en octubre de 2016, presenta progresión radiológica (la RMN informa de progresión local sin edema), por lo que inicia tratamiento de segunda línea con fotemustina (según protocolo Addeo11).",
+        "El 22/11/16, después de haber completado ocho ciclos, consulta por dolor lumbar irradiado a extremidades inferiores; se diagnostica de ciatalgia e inicia tratamiento analgésico.",
+        "Sin embargo, la clínica persiste y a finales de diciembre se añade anestesia en silla de montar, sin mejoría a pesar de opioides; incontinencia urinaria e impotencia funcional de extremidades inferiores.",
+        "Ingresa a cargo de Oncología Médica el día 9/1/17 para filiar el diagnóstico y controlar el dolor.",
+        "Exploración física",
+        "ECOG 3, índice Karnofsky 40 %, escala del dolor Edmonton N1I1P0A0C0.",
+        "Exploración neurológica: dolor en la palpación lumbar baja L4-L5.",
+        "Paraparesia de ambas extremidades inferiores, con alteración de la fuerza de 3/5 y nivel sensitivo desde L1.",
+        "Reflejos osteotendinosos conservados.",
+        "Pruebas complementarias",
+        "Analítica ingreso: Hb 13 g/dl, Ht 38 %, plaquetas 193.000 K/mcl, leucocitos 6.520 K/mcl, neutrófilos 5.000 K/mcl, linfocitos 500 K/mcl, urea 41 mg/dl, creatinina 0,67mg/dl, PCR 0,21 RMN columna vertebral (5/1/17): se observan dos lesiones en cola de caballo: una en L2-L3 y la segunda en la unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatibles con metástasis medulares que condicionan estenosis del canal medular.",
+        "RMN craneal al diagnóstico (28/1/16): lesión infiltrante temporo-insular derecha con lesión hiperintensa perilesional.",
+        "Hallazgos sugestivos de glioblastoma.",
+        "Diagnóstico",
+        "1.",
+        "Compresión medular por metástasis endomedulares.",
+        "2.",
+        "Glioblastoma de células gigantes.",
+        "Tratamiento",
+        "Durante el ingreso, el paciente recibe tratamiento sintomático con dexametasona 4 mg/8 horas.",
+        "Evolución",
+        "A lo largo de su estancia hospitalaria, presenta una hiperpotasemia de 8 mEq/l por retención aguda de orina e insuficiencia renal posrenal con creatinina de 6 que requiere sondaje vesical.",
+        "A nivel neurológico, presenta una recuperación parcial con mejora de la fuerza en extremidades inferiores después de recibir tratamiento con corticoides y rehabilitación."
+    ],
+    "text": "Anamnesis\nPaciente varón de 53 años de edad, alérgico a la penicilina. Obesidad tipo I (IMC 31). Sin hábitos tóxicos ni otros antecedentes patológicos de interés.\nHistoria oncológica:\nConsulta en enero de 2016 por cefalea frontal derecha de características pulsátiles irradiada a nivel occipital de larga evolución refractaria a analgesia convencional. Se realiza tomografía computarizada (TC) de cráneo urgente donde se observa tumoración temporo-parietal derecha sugestiva de neoformación primaria.\nIngresa en Neurocirugía donde se completa el estudio con resonancia magnética (RMN) orientando la lesión como glioblastoma. Se realiza intervención quirúrgica mediante neuronavegador con resección del 85 % de la lesión. Los resultados anatomopatológicos muestran un glioblastoma de células gigantes, IDH-1 negativa y MGMT no metilado.\nSe remite a Oncología e inicia protocolo Stupp12 (temozolamida concomitante con radioterapia) del día 21/3/16 hasta el 3/5/16. Posteriormente, se administra adyuvancia con temozolamida completando 5 ciclos hasta el 20/9/16.\nCon un intervalo libre de progresión de 6 meses, en octubre de 2016, presenta progresión radiológica (la RMN informa de progresión local sin edema), por lo que inicia tratamiento de segunda línea con fotemustina (según protocolo Addeo11). El 22/11/16, después de haber completado ocho ciclos, consulta por dolor lumbar irradiado a extremidades inferiores; se diagnostica de ciatalgia e inicia tratamiento analgésico.\nSin embargo, la clínica persiste y a finales de diciembre se añade anestesia en silla de montar, sin mejoría a pesar de opioides; incontinencia urinaria e impotencia funcional de extremidades inferiores. Ingresa a cargo de Oncología Médica el día 9/1/17 para filiar el diagnóstico y controlar el dolor.\n\nExploración física\nECOG 3, índice Karnofsky 40 %, escala del dolor Edmonton N1I1P0A0C0.\nExploración neurológica: dolor en la palpación lumbar baja L4-L5. Paraparesia de ambas extremidades inferiores, con alteración de la fuerza de 3/5 y nivel sensitivo desde L1. Reflejos osteotendinosos conservados.\n\nPruebas complementarias\nAnalítica ingreso: Hb 13 g/dl, Ht 38 %, plaquetas 193.000 K/mcl, leucocitos 6.520 K/mcl, neutrófilos 5.000 K/mcl, linfocitos 500 K/mcl, urea 41 mg/dl, creatinina 0,67mg/dl, PCR 0,21 RMN columna vertebral (5/1/17): se observan dos lesiones en cola de caballo: una en L2-L3 y la segunda en la unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatibles con metástasis medulares que condicionan estenosis del canal medular.\nRMN craneal al diagnóstico (28/1/16): lesión infiltrante temporo-insular derecha con lesión hiperintensa perilesional. Hallazgos sugestivos de glioblastoma.\n\nDiagnóstico\n1. Compresión medular por metástasis endomedulares.\n2. Glioblastoma de células gigantes.\n\nTratamiento\nDurante el ingreso, el paciente recibe tratamiento sintomático con dexametasona 4 mg/8 horas.\n\nEvolución\nA lo largo de su estancia hospitalaria, presenta una hiperpotasemia de 8 mEq/l por retención aguda de orina e insuficiencia renal posrenal con creatinina de 6 que requiere sondaje vesical.\nA nivel neurológico, presenta una recuperación parcial con mejora de la fuerza en extremidades inferiores después de recibir tratamiento con corticoides y rehabilitación."
+}

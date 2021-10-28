@@ -1,0 +1,101 @@
+{
+    "title": "Accelerated junctional rhythms during oral verapamil therapy.",
+    "abst": "This study examined the frequency of atrioventricular (AV) dissociation and accelerated junctional rhythms in 59 patients receiving oral verapamil. Accelerated junctional rhythms and AV dissociation were frequent in patients with supraventricular tachyarrhythmias, particularly AV nodal reentry. Verapamil administration to these patients led to an asymptomatic increase in activity of these junctional pacemakers. In patients with various chest pain syndromes, verapamil neither increased the frequency of junctional rhythms nor suppressed their role as escape rhythms under physiologically appropriate circumstances.",
+    "title_plus_abst": "Accelerated junctional rhythms during oral verapamil therapy. This study examined the frequency of atrioventricular (AV) dissociation and accelerated junctional rhythms in 59 patients receiving oral verapamil. Accelerated junctional rhythms and AV dissociation were frequent in patients with supraventricular tachyarrhythmias, particularly AV nodal reentry. Verapamil administration to these patients led to an asymptomatic increase in activity of these junctional pacemakers. In patients with various chest pain syndromes, verapamil neither increased the frequency of junctional rhythms nor suppressed their role as escape rhythms under physiologically appropriate circumstances.",
+    "pubmed_id": "6695685",
+    "entities": [
+        [
+            0,
+            30,
+            "Accelerated junctional rhythms",
+            "Disease",
+            "D001145"
+        ],
+        [
+            43,
+            52,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            138,
+            168,
+            "accelerated junctional rhythms",
+            "Disease",
+            "D001145"
+        ],
+        [
+            199,
+            208,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            210,
+            240,
+            "Accelerated junctional rhythms",
+            "Disease",
+            "D001145"
+        ],
+        [
+            292,
+            325,
+            "supraventricular tachyarrhythmias",
+            "Disease",
+            "D013617"
+        ],
+        [
+            358,
+            367,
+            "Verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            502,
+            512,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            524,
+            533,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ]
+    ],
+    "split_sentence": [
+        "Accelerated junctional rhythms during oral verapamil therapy.",
+        "This study examined the frequency of atrioventricular (AV) dissociation and accelerated junctional rhythms in 59 patients receiving oral verapamil.",
+        "Accelerated junctional rhythms and AV dissociation were frequent in patients with supraventricular tachyarrhythmias, particularly AV nodal reentry.",
+        "Verapamil administration to these patients led to an asymptomatic increase in activity of these junctional pacemakers.",
+        "In patients with various chest pain syndromes, verapamil neither increased the frequency of junctional rhythms nor suppressed their role as escape rhythms under physiologically appropriate circumstances."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001145\tDisease\tAccelerated junctional rhythms\t<target> Accelerated junctional rhythms </target> during oral verapamil therapy .",
+        "D014700\tChemical\tverapamil\tAccelerated junctional rhythms during oral <target> verapamil </target> therapy .",
+        "D001145\tDisease\taccelerated junctional rhythms\tThis study examined the frequency of atrioventricular ( AV ) dissociation and <target> accelerated junctional rhythms </target> in 59 patients receiving oral verapamil .",
+        "D014700\tChemical\tverapamil\tThis study examined the frequency of atrioventricular ( AV ) dissociation and accelerated junctional rhythms in 59 patients receiving oral <target> verapamil </target> .",
+        "D001145\tDisease\tAccelerated junctional rhythms\t<target> Accelerated junctional rhythms </target> and AV dissociation were frequent in patients with supraventricular tachyarrhythmias , particularly AV nodal reentry .",
+        "D013617\tDisease\tsupraventricular tachyarrhythmias\tAccelerated junctional rhythms and AV dissociation were frequent in patients with <target> supraventricular tachyarrhythmias </target> , particularly AV nodal reentry .",
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> administration to these patients led to an asymptomatic increase in activity of these junctional pacemakers .",
+        "D002637\tDisease\tchest pain\tIn patients with various <target> chest pain </target> syndromes , verapamil neither increased the frequency of junctional rhythms nor suppressed their role as escape rhythms under physiologically appropriate circumstances .",
+        "D014700\tChemical\tverapamil\tIn patients with various chest pain syndromes , <target> verapamil </target> neither increased the frequency of junctional rhythms nor suppressed their role as escape rhythms under physiologically appropriate circumstances ."
+    ],
+    "lines_lemma": [
+        "D001145\tDisease\tAccelerated junctional rhythms\t<target> accelerated junctional rhythm </target> during oral verapamil therapy .",
+        "D014700\tChemical\tverapamil\taccelerate junctional rhythm during oral <target> verapamil </target> therapy .",
+        "D001145\tDisease\taccelerated junctional rhythms\tthis study examine the frequency of atrioventricular ( av ) dissociation and <target> accelerate junctional rhythm </target> in 59 patient receive oral verapamil .",
+        "D014700\tChemical\tverapamil\tthis study examine the frequency of atrioventricular ( av ) dissociation and accelerate junctional rhythm in 59 patient receive oral <target> verapamil </target> .",
+        "D001145\tDisease\tAccelerated junctional rhythms\t<target> accelerated junctional rhythm </target> and av dissociation be frequent in patient with supraventricular tachyarrhythmia , particularly av nodal reentry .",
+        "D013617\tDisease\tsupraventricular tachyarrhythmias\taccelerate junctional rhythm and av dissociation be frequent in patient with <target> supraventricular tachyarrhythmia </target> , particularly av nodal reentry .",
+        "D014700\tChemical\tVerapamil\t<target> Verapamil </target> administration to these patient lead to an asymptomatic increase in activity of these junctional pacemaker .",
+        "D002637\tDisease\tchest pain\tin patient with various <target> chest pain </target> syndrome , verapamil neither increase the frequency of junctional rhythm nor suppress their role as escape rhythm under physiologically appropriate circumstance .",
+        "D014700\tChemical\tverapamil\tin patient with various chest pain syndrome , <target> verapamil </target> neither increase the frequency of junctional rhythm nor suppress their role as escape rhythm under physiologically appropriate circumstance ."
+    ]
+}

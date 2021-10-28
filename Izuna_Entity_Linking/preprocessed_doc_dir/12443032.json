@@ -1,0 +1,111 @@
+{
+    "title": "Cocaine related chest pain: are we seeing the tip of an iceberg?",
+    "abst": "The recreational use of cocaine is on the increase. The emergency nurse ought to be familiar with some of the cardiovascular consequences of cocaine use. In particular, the tendency of cocaine to produce chest pain ought to be in the mind of the emergency nurse when faced with a young victim of chest pain who is otherwise at low risk. The mechanism of chest pain related to cocaine use is discussed and treatment dilemmas are discussed. Finally, moral issues relating to the testing of potential cocaine users will be addressed.",
+    "title_plus_abst": "Cocaine related chest pain: are we seeing the tip of an iceberg? The recreational use of cocaine is on the increase. The emergency nurse ought to be familiar with some of the cardiovascular consequences of cocaine use. In particular, the tendency of cocaine to produce chest pain ought to be in the mind of the emergency nurse when faced with a young victim of chest pain who is otherwise at low risk. The mechanism of chest pain related to cocaine use is discussed and treatment dilemmas are discussed. Finally, moral issues relating to the testing of potential cocaine users will be addressed.",
+    "pubmed_id": "12443032",
+    "entities": [
+        [
+            0,
+            7,
+            "Cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            16,
+            26,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            89,
+            96,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            206,
+            213,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            250,
+            257,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            269,
+            279,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            361,
+            371,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            419,
+            429,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            441,
+            448,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            563,
+            570,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ]
+    ],
+    "split_sentence": [
+        "Cocaine related chest pain: are we seeing the tip of an iceberg?",
+        "The recreational use of cocaine is on the increase.",
+        "The emergency nurse ought to be familiar with some of the cardiovascular consequences of cocaine use.",
+        "In particular, the tendency of cocaine to produce chest pain ought to be in the mind of the emergency nurse when faced with a young victim of chest pain who is otherwise at low risk.",
+        "The mechanism of chest pain related to cocaine use is discussed and treatment dilemmas are discussed.",
+        "Finally, moral issues relating to the testing of potential cocaine users will be addressed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> related chest pain : are we seeing the tip of an iceberg ?",
+        "D002637\tDisease\tchest pain\tCocaine related <target> chest pain </target> : are we seeing the tip of an iceberg ?",
+        "D003042\tChemical\tcocaine\tThe recreational use of <target> cocaine </target> is on the increase .",
+        "D003042\tChemical\tcocaine\tThe emergency nurse ought to be familiar with some of the cardiovascular consequences of <target> cocaine </target> use .",
+        "D003042\tChemical\tcocaine\tIn particular , the tendency of <target> cocaine </target> to produce chest pain ought to be in the mind of the emergency nurse when faced with a young victim of chest pain who is otherwise at low risk .",
+        "D002637\tDisease\tchest pain\tIn particular , the tendency of cocaine to produce <target> chest pain </target> ought to be in the mind of the emergency nurse when faced with a young victim of chest pain who is otherwise at low risk .",
+        "D002637\tDisease\tchest pain\tIn particular , the tendency of cocaine to produce chest pain ought to be in the mind of the emergency nurse when faced with a young victim of <target> chest pain </target> who is otherwise at low risk .",
+        "D002637\tDisease\tchest pain\tThe mechanism of <target> chest pain </target> related to cocaine use is discussed and treatment dilemmas are discussed .",
+        "D003042\tChemical\tcocaine\tThe mechanism of chest pain related to <target> cocaine </target> use is discussed and treatment dilemmas are discussed .",
+        "D003042\tChemical\tcocaine\tFinally , moral issues relating to the testing of potential <target> cocaine </target> users will be addressed ."
+    ],
+    "lines_lemma": [
+        "D003042\tChemical\tCocaine\t<target> cocaine </target> related chest pain : be we see the tip of an iceberg ?",
+        "D002637\tDisease\tchest pain\tcocaine related <target> chest pain </target> : be we see the tip of an iceberg ?",
+        "D003042\tChemical\tcocaine\tthe recreational use of <target> cocaine </target> be on the increase .",
+        "D003042\tChemical\tcocaine\tthe emergency nurse ought to be familiar with some of the cardiovascular consequence of <target> cocaine </target> use .",
+        "D003042\tChemical\tcocaine\tin particular , the tendency of <target> cocaine </target> to produce chest pain ought to be in the mind of the emergency nurse when face with a young victim of chest pain who be otherwise at low risk .",
+        "D002637\tDisease\tchest pain\tin particular , the tendency of cocaine to produce <target> chest pain </target> ought to be in the mind of the emergency nurse when face with a young victim of chest pain who be otherwise at low risk .",
+        "D002637\tDisease\tchest pain\tin particular , the tendency of cocaine to produce chest pain ought to be in the mind of the emergency nurse when face with a young victim of <target> chest pain </target> who be otherwise at low risk .",
+        "D002637\tDisease\tchest pain\tthe mechanism of <target> chest pain </target> related to cocaine use be discuss and treatment dilemma be discuss .",
+        "D003042\tChemical\tcocaine\tthe mechanism of chest pain related to <target> cocaine </target> use be discuss and treatment dilemma be discuss .",
+        "D003042\tChemical\tcocaine\tfinally , moral issue relate to the testing of potential <target> cocaine </target> user will be address ."
+    ]
+}

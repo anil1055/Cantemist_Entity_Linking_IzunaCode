@@ -1,0 +1,198 @@
+{
+    "title": "Treatment of ovarian cancer with a combination of cis-platinum, adriamycin, cyclophosphamide and hexamethylmelamine.",
+    "abst": "During the last 2 1/2 years, 38 patients with ovarian cancer were treated with a combination of cisplatinum (CPDD), 50 mg/m2, adriamycin, 30 mg/m2, cyclophosphamide, 300 mg/m2, on day 1; and hexamethylmelamine (HMM), 6 mg/kg daily, for 14 days. Each course was repeated monthly. 2 patients had stage II, 14 stage III and 22 stage IV disease. 14 of the 38 patients were previously treated with chemotherapy, 1 with radiation, 6 with both chemotherapy and radiation, and 17 did not have any treatment before CPDD combination. 31 of the 38 cases (81.5%) demonstrated objective responses lasting for 2 months or more. These responses were partial in 19 and complete in 12 cases. Hematologic toxicity was moderate and with reversible anemia developing in 71% of patients. Gastrointestinal side effects from CPDD were universal. HMM gastrointestinal toxicity necessitated discontinuation of the drug in 5 patients. Severe nephrotoxicity was observed in 2 patients but was reversible. There were no drug-related deaths.",
+    "title_plus_abst": "Treatment of ovarian cancer with a combination of cis-platinum, adriamycin, cyclophosphamide and hexamethylmelamine. During the last 2 1/2 years, 38 patients with ovarian cancer were treated with a combination of cisplatinum (CPDD), 50 mg/m2, adriamycin, 30 mg/m2, cyclophosphamide, 300 mg/m2, on day 1; and hexamethylmelamine (HMM), 6 mg/kg daily, for 14 days. Each course was repeated monthly. 2 patients had stage II, 14 stage III and 22 stage IV disease. 14 of the 38 patients were previously treated with chemotherapy, 1 with radiation, 6 with both chemotherapy and radiation, and 17 did not have any treatment before CPDD combination. 31 of the 38 cases (81.5%) demonstrated objective responses lasting for 2 months or more. These responses were partial in 19 and complete in 12 cases. Hematologic toxicity was moderate and with reversible anemia developing in 71% of patients. Gastrointestinal side effects from CPDD were universal. HMM gastrointestinal toxicity necessitated discontinuation of the drug in 5 patients. Severe nephrotoxicity was observed in 2 patients but was reversible. There were no drug-related deaths.",
+    "pubmed_id": "6806735",
+    "entities": [
+        [
+            13,
+            27,
+            "ovarian cancer",
+            "Disease",
+            "D010051"
+        ],
+        [
+            50,
+            62,
+            "cis-platinum",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            64,
+            74,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            76,
+            92,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            97,
+            115,
+            "hexamethylmelamine",
+            "Chemical",
+            "D006585"
+        ],
+        [
+            163,
+            177,
+            "ovarian cancer",
+            "Disease",
+            "D010051"
+        ],
+        [
+            213,
+            224,
+            "cisplatinum",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            226,
+            230,
+            "CPDD",
+            "Chemical",
+            "C034868"
+        ],
+        [
+            243,
+            253,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            265,
+            281,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            308,
+            326,
+            "hexamethylmelamine",
+            "Chemical",
+            "D006585"
+        ],
+        [
+            328,
+            331,
+            "HMM",
+            "Chemical",
+            "D006585"
+        ],
+        [
+            623,
+            627,
+            "CPDD",
+            "Chemical",
+            "C034868"
+        ],
+        [
+            792,
+            812,
+            "Hematologic toxicity",
+            "Disease",
+            "D006402"
+        ],
+        [
+            846,
+            852,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            919,
+            923,
+            "CPDD",
+            "Chemical",
+            "C034868"
+        ],
+        [
+            940,
+            943,
+            "HMM",
+            "Chemical",
+            "D006585"
+        ],
+        [
+            944,
+            969,
+            "gastrointestinal toxicity",
+            "Disease",
+            "D005767"
+        ],
+        [
+            1033,
+            1047,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Treatment of ovarian cancer with a combination of cis-platinum, adriamycin, cyclophosphamide and hexamethylmelamine.",
+        "During the last 2 1/2 years, 38 patients with ovarian cancer were treated with a combination of cisplatinum (CPDD), 50 mg/m2, adriamycin, 30 mg/m2, cyclophosphamide, 300 mg/m2, on day 1; and hexamethylmelamine (HMM), 6 mg/kg daily, for 14 days.",
+        "Each course was repeated monthly.",
+        "2 patients had stage II, 14 stage III and 22 stage IV disease.",
+        "14 of the 38 patients were previously treated with chemotherapy, 1 with radiation, 6 with both chemotherapy and radiation, and 17 did not have any treatment before CPDD combination.",
+        "31 of the 38 cases (81.5%) demonstrated objective responses lasting for 2 months or more.",
+        "These responses were partial in 19 and complete in 12 cases.",
+        "Hematologic toxicity was moderate and with reversible anemia developing in 71% of patients.",
+        "Gastrointestinal side effects from CPDD were universal.",
+        "HMM gastrointestinal toxicity necessitated discontinuation of the drug in 5 patients.",
+        "Severe nephrotoxicity was observed in 2 patients but was reversible.",
+        "There were no drug-related deaths."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010051\tDisease\tovarian cancer\tTreatment of <target> ovarian cancer </target> with a combination of cis-platinum , adriamycin , cyclophosphamide and hexamethylmelamine .",
+        "D002945\tChemical\tcis-platinum\tTreatment of ovarian cancer with a combination of <target> cis-platinum </target> , adriamycin , cyclophosphamide and hexamethylmelamine .",
+        "D004317\tChemical\tadriamycin\tTreatment of ovarian cancer with a combination of cis-platinum , <target> adriamycin </target> , cyclophosphamide and hexamethylmelamine .",
+        "D003520\tChemical\tcyclophosphamide\tTreatment of ovarian cancer with a combination of cis-platinum , adriamycin , <target> cyclophosphamide </target> and hexamethylmelamine .",
+        "D006585\tChemical\thexamethylmelamine\tTreatment of ovarian cancer with a combination of cis-platinum , adriamycin , cyclophosphamide and <target> hexamethylmelamine </target> .",
+        "D010051\tDisease\tovarian cancer\tDuring the last 2 1/2 years , 38 patients with <target> ovarian cancer </target> were treated with a combination of cisplatinum ( CPDD ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( HMM ) , 6 mg/kg daily , for 14 days .",
+        "D002945\tChemical\tcisplatinum\tDuring the last 2 1/2 years , 38 patients with ovarian cancer were treated with a combination of <target> cisplatinum </target> ( CPDD ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( HMM ) , 6 mg/kg daily , for 14 days .",
+        "C034868\tChemical\tCPDD\tDuring the last 2 1/2 years , 38 patients with ovarian cancer were treated with a combination of cisplatinum ( <target> CPDD </target> ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( HMM ) , 6 mg/kg daily , for 14 days .",
+        "D004317\tChemical\tadriamycin\tDuring the last 2 1/2 years , 38 patients with ovarian cancer were treated with a combination of cisplatinum ( CPDD ) , 50 mg/m2 , <target> adriamycin </target> , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( HMM ) , 6 mg/kg daily , for 14 days .",
+        "D003520\tChemical\tcyclophosphamide\tDuring the last 2 1/2 years , 38 patients with ovarian cancer were treated with a combination of cisplatinum ( CPDD ) , 50 mg/m2 , adriamycin , 30 mg/m2 , <target> cyclophosphamide </target> , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( HMM ) , 6 mg/kg daily , for 14 days .",
+        "D006585\tChemical\thexamethylmelamine\tDuring the last 2 1/2 years , 38 patients with ovarian cancer were treated with a combination of cisplatinum ( CPDD ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and <target> hexamethylmelamine </target> ( HMM ) , 6 mg/kg daily , for 14 days .",
+        "D006585\tChemical\tHMM\tDuring the last 2 1/2 years , 38 patients with ovarian cancer were treated with a combination of cisplatinum ( CPDD ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( <target> HMM </target> ) , 6 mg/kg daily , for 14 days .",
+        "C034868\tChemical\tCPDD\t14 of the 38 patients were previously treated with chemotherapy , 1 with radiation , 6 with both chemotherapy and radiation , and 17 did not have any treatment before <target> CPDD </target> combination .",
+        "D006402\tDisease\tHematologic toxicity\t<target> Hematologic toxicity </target> was moderate and with reversible anemia developing in 71 % of patients .",
+        "D000740\tDisease\tanemia\tHematologic toxicity was moderate and with reversible <target> anemia </target> developing in 71 % of patients .",
+        "C034868\tChemical\tCPDD\tGastrointestinal side effects from <target> CPDD </target> were universal .",
+        "D006585\tChemical\tHMM\t<target> HMM </target> gastrointestinal toxicity necessitated discontinuation of the drug in 5 patients .",
+        "D005767\tDisease\tgastrointestinal toxicity\tHMM <target> gastrointestinal toxicity </target> necessitated discontinuation of the drug in 5 patients .",
+        "D007674\tDisease\tnephrotoxicity\tSevere <target> nephrotoxicity </target> was observed in 2 patients but was reversible ."
+    ],
+    "lines_lemma": [
+        "D010051\tDisease\tovarian cancer\ttreatment of <target> ovarian cancer </target> with a combination of cis-platinum , adriamycin , cyclophosphamide and hexamethylmelamine .",
+        "D002945\tChemical\tcis-platinum\ttreatment of ovarian cancer with a combination of <target> cis-platinum </target> , adriamycin , cyclophosphamide and hexamethylmelamine .",
+        "D004317\tChemical\tadriamycin\ttreatment of ovarian cancer with a combination of cis-platinum , <target> adriamycin </target> , cyclophosphamide and hexamethylmelamine .",
+        "D003520\tChemical\tcyclophosphamide\ttreatment of ovarian cancer with a combination of cis-platinum , adriamycin , <target> cyclophosphamide </target> and hexamethylmelamine .",
+        "D006585\tChemical\thexamethylmelamine\ttreatment of ovarian cancer with a combination of cis-platinum , adriamycin , cyclophosphamide and <target> hexamethylmelamine </target> .",
+        "D010051\tDisease\tovarian cancer\tduring the last 2 1/2 year , 38 patient with <target> ovarian cancer </target> be treat with a combination of cisplatinum ( cpdd ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( hmm ) , 6 mg/kg daily , for 14 day .",
+        "D002945\tChemical\tcisplatinum\tduring the last 2 1/2 year , 38 patient with ovarian cancer be treat with a combination of <target> cisplatinum </target> ( cpdd ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( hmm ) , 6 mg/kg daily , for 14 day .",
+        "C034868\tChemical\tCPDD\tduring the last 2 1/2 year , 38 patient with ovarian cancer be treat with a combination of cisplatinum ( <target> cpdd </target> ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( hmm ) , 6 mg/kg daily , for 14 day .",
+        "D004317\tChemical\tadriamycin\tduring the last 2 1/2 year , 38 patient with ovarian cancer be treat with a combination of cisplatinum ( cpdd ) , 50 mg/m2 , <target> adriamycin </target> , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( hmm ) , 6 mg/kg daily , for 14 day .",
+        "D003520\tChemical\tcyclophosphamide\tduring the last 2 1/2 year , 38 patient with ovarian cancer be treat with a combination of cisplatinum ( cpdd ) , 50 mg/m2 , adriamycin , 30 mg/m2 , <target> cyclophosphamide </target> , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( hmm ) , 6 mg/kg daily , for 14 day .",
+        "D006585\tChemical\thexamethylmelamine\tduring the last 2 1/2 year , 38 patient with ovarian cancer be treat with a combination of cisplatinum ( cpdd ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and <target> hexamethylmelamine </target> ( hmm ) , 6 mg/kg daily , for 14 day .",
+        "D006585\tChemical\tHMM\tduring the last 2 1/2 year , 38 patient with ovarian cancer be treat with a combination of cisplatinum ( cpdd ) , 50 mg/m2 , adriamycin , 30 mg/m2 , cyclophosphamide , 300 mg/m2 , on day 1 ; and hexamethylmelamine ( <target> hmm </target> ) , 6 mg/kg daily , for 14 day .",
+        "C034868\tChemical\tCPDD\t14 of the 38 patient be previously treat with chemotherapy , 1 with radiation , 6 with both chemotherapy and radiation , and 17 do not have any treatment before <target> cpdd </target> combination .",
+        "D006402\tDisease\tHematologic toxicity\t<target> hematologic toxicity </target> be moderate and with reversible anemia develop in 71 % of patient .",
+        "D000740\tDisease\tanemia\thematologic toxicity be moderate and with reversible <target> anemia </target> develop in 71 % of patient .",
+        "C034868\tChemical\tCPDD\tgastrointestinal side effect from <target> cpdd </target> be universal .",
+        "D006585\tChemical\tHMM\t<target> hmm </target> gastrointestinal toxicity necessitated discontinuation of the drug in 5 patient .",
+        "D005767\tDisease\tgastrointestinal toxicity\thmm <target> gastrointestinal toxicity </target> necessitated discontinuation of the drug in 5 patient .",
+        "D007674\tDisease\tnephrotoxicity\tsevere <target> nephrotoxicity </target> be observe in 2 patient but be reversible ."
+    ]
+}

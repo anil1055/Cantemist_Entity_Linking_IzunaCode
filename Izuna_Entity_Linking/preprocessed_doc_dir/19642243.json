@@ -1,0 +1,173 @@
+{
+    "title": "Acute renal failure in patients with AIDS on tenofovir while receiving prolonged vancomycin course for osteomyelitis.",
+    "abst": "Renal failure developed after a prolonged course of vancomycin therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen. Tenofovir has been implicated in the development of Fanconi syndrome and renal insufficiency because of its effects on the proximal renal tubule. Vancomycin nephrotoxicity is infrequent but may result from coadministration with a nephrotoxic agent. Clinicians should be aware that tenofovir may raise the risk of renal failure during prolonged administration of vancomycin.",
+    "title_plus_abst": "Acute renal failure in patients with AIDS on tenofovir while receiving prolonged vancomycin course for osteomyelitis. Renal failure developed after a prolonged course of vancomycin therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen. Tenofovir has been implicated in the development of Fanconi syndrome and renal insufficiency because of its effects on the proximal renal tubule. Vancomycin nephrotoxicity is infrequent but may result from coadministration with a nephrotoxic agent. Clinicians should be aware that tenofovir may raise the risk of renal failure during prolonged administration of vancomycin.",
+    "pubmed_id": "19642243",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            37,
+            41,
+            "AIDS",
+            "Disease",
+            "D000163"
+        ],
+        [
+            45,
+            54,
+            "tenofovir",
+            "Chemical",
+            "C096918"
+        ],
+        [
+            81,
+            91,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            103,
+            116,
+            "osteomyelitis",
+            "Disease",
+            "D010019"
+        ],
+        [
+            118,
+            131,
+            "Renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            170,
+            180,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            222,
+            251,
+            "tenofovir disoproxil fumarate",
+            "Chemical",
+            "C418563"
+        ],
+        [
+            290,
+            299,
+            "Tenofovir",
+            "Chemical",
+            "C096918"
+        ],
+        [
+            342,
+            358,
+            "Fanconi syndrome",
+            "Disease",
+            "D005198"
+        ],
+        [
+            363,
+            382,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ],
+        [
+            436,
+            446,
+            "Vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            447,
+            461,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            520,
+            531,
+            "nephrotoxic",
+            "Disease",
+            "D007674"
+        ],
+        [
+            571,
+            580,
+            "tenofovir",
+            "Chemical",
+            "C096918"
+        ],
+        [
+            603,
+            616,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            652,
+            662,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ]
+    ],
+    "split_sentence": [
+        "Acute renal failure in patients with AIDS on tenofovir while receiving prolonged vancomycin course for osteomyelitis.",
+        "Renal failure developed after a prolonged course of vancomycin therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen.",
+        "Tenofovir has been implicated in the development of Fanconi syndrome and renal insufficiency because of its effects on the proximal renal tubule.",
+        "Vancomycin nephrotoxicity is infrequent but may result from coadministration with a nephrotoxic agent.",
+        "Clinicians should be aware that tenofovir may raise the risk of renal failure during prolonged administration of vancomycin."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> in patients with AIDS on tenofovir while receiving prolonged vancomycin course for osteomyelitis .",
+        "D000163\tDisease\tAIDS\tAcute renal failure in patients with <target> AIDS </target> on tenofovir while receiving prolonged vancomycin course for osteomyelitis .",
+        "C096918\tChemical\ttenofovir\tAcute renal failure in patients with AIDS on <target> tenofovir </target> while receiving prolonged vancomycin course for osteomyelitis .",
+        "D014640\tChemical\tvancomycin\tAcute renal failure in patients with AIDS on tenofovir while receiving prolonged <target> vancomycin </target> course for osteomyelitis .",
+        "D010019\tDisease\tosteomyelitis\tAcute renal failure in patients with AIDS on tenofovir while receiving prolonged vancomycin course for <target> osteomyelitis </target> .",
+        "D051437\tDisease\tRenal failure\t<target> Renal failure </target> developed after a prolonged course of vancomycin therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen .",
+        "D014640\tChemical\tvancomycin\tRenal failure developed after a prolonged course of <target> vancomycin </target> therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen .",
+        "C418563\tChemical\ttenofovir disoproxil fumarate\tRenal failure developed after a prolonged course of vancomycin therapy in 2 patients who were receiving <target> tenofovir disoproxil fumarate </target> as part of an antiretroviral regimen .",
+        "C096918\tChemical\tTenofovir\t<target> Tenofovir </target> has been implicated in the development of Fanconi syndrome and renal insufficiency because of its effects on the proximal renal tubule .",
+        "D005198\tDisease\tFanconi syndrome\tTenofovir has been implicated in the development of <target> Fanconi syndrome </target> and renal insufficiency because of its effects on the proximal renal tubule .",
+        "D051437\tDisease\trenal insufficiency\tTenofovir has been implicated in the development of Fanconi syndrome and <target> renal insufficiency </target> because of its effects on the proximal renal tubule .",
+        "D014640\tChemical\tVancomycin\t<target> Vancomycin </target> nephrotoxicity is infrequent but may result from coadministration with a nephrotoxic agent .",
+        "D007674\tDisease\tnephrotoxicity\tVancomycin <target> nephrotoxicity </target> is infrequent but may result from coadministration with a nephrotoxic agent .",
+        "D007674\tDisease\tnephrotoxic\tVancomycin nephrotoxicity is infrequent but may result from coadministration with a <target> nephrotoxic </target> agent .",
+        "C096918\tChemical\ttenofovir\tClinicians should be aware that <target> tenofovir </target> may raise the risk of renal failure during prolonged administration of vancomycin .",
+        "D051437\tDisease\trenal failure\tClinicians should be aware that tenofovir may raise the risk of <target> renal failure </target> during prolonged administration of vancomycin .",
+        "D014640\tChemical\tvancomycin\tClinicians should be aware that tenofovir may raise the risk of renal failure during prolonged administration of <target> vancomycin </target> ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> in patient with aids on tenofovir while receive prolonged vancomycin course for osteomyelitis .",
+        "D000163\tDisease\tAIDS\tacute renal failure in patient with <target> AIDS </target> on tenofovir while receive prolonged vancomycin course for osteomyelitis .",
+        "C096918\tChemical\ttenofovir\tacute renal failure in patient with aids on <target> tenofovir </target> while receive prolonged vancomycin course for osteomyelitis .",
+        "D014640\tChemical\tvancomycin\tacute renal failure in patient with aids on tenofovir while receive prolonged <target> vancomycin </target> course for osteomyelitis .",
+        "D010019\tDisease\tosteomyelitis\tacute renal failure in patient with aids on tenofovir while receive prolonged vancomycin course for <target> osteomyelitis </target> .",
+        "D051437\tDisease\tRenal failure\t<target> renal failure </target> develop after a prolonged course of vancomycin therapy in 2 patient who be receive tenofovir disoproxil fumarate as part of an antiretroviral regimen .",
+        "D014640\tChemical\tvancomycin\trenal failure develop after a prolonged course of <target> vancomycin </target> therapy in 2 patient who be receive tenofovir disoproxil fumarate as part of an antiretroviral regimen .",
+        "C418563\tChemical\ttenofovir disoproxil fumarate\trenal failure develop after a prolonged course of vancomycin therapy in 2 patient who be receive <target> tenofovir disoproxil fumarate </target> as part of an antiretroviral regimen .",
+        "C096918\tChemical\tTenofovir\t<target> Tenofovir </target> have be implicate in the development of Fanconi syndrome and renal insufficiency because of its effect on the proximal renal tubule .",
+        "D005198\tDisease\tFanconi syndrome\tTenofovir have be implicate in the development of <target> Fanconi syndrome </target> and renal insufficiency because of its effect on the proximal renal tubule .",
+        "D051437\tDisease\trenal insufficiency\tTenofovir have be implicate in the development of Fanconi syndrome and <target> renal insufficiency </target> because of its effect on the proximal renal tubule .",
+        "D014640\tChemical\tVancomycin\t<target> Vancomycin </target> nephrotoxicity be infrequent but may result from coadministration with a nephrotoxic agent .",
+        "D007674\tDisease\tnephrotoxicity\tvancomycin <target> nephrotoxicity </target> be infrequent but may result from coadministration with a nephrotoxic agent .",
+        "D007674\tDisease\tnephrotoxic\tvancomycin nephrotoxicity be infrequent but may result from coadministration with a <target> nephrotoxic </target> agent .",
+        "C096918\tChemical\ttenofovir\tclinician should be aware that <target> tenofovir </target> may raise the risk of renal failure during prolonged administration of vancomycin .",
+        "D051437\tDisease\trenal failure\tclinician should be aware that tenofovir may raise the risk of <target> renal failure </target> during prolonged administration of vancomycin .",
+        "D014640\tChemical\tvancomycin\tclinician should be aware that tenofovir may raise the risk of renal failure during prolonged administration of <target> vancomycin </target> ."
+    ]
+}

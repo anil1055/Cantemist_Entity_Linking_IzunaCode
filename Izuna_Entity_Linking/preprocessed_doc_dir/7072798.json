@@ -1,0 +1,138 @@
+{
+    "title": "Fatal aplastic anemia following topical administration of ophthalmic chloramphenicol.",
+    "abst": "A 73-year-old woman died of aplastic anemia less than two months after undergoing cataract extraction and beginning topical therapy with chloramphenicol. The first signs of pancytopenia began within one month of the surgery. The pattern of the aplastic anemia was associated with an idiosyncratic response to chloramphenicol. This was the second report of fatal aplastic anemia after topical treatment with chloramphenicol for ocular conditions, although two cases of reversible bone marrow hypoplasia have also been reported. Any other suspected cases of ocular toxicity associated with topically applied chloramphenicol should be reported to the National Registry of Drug-Induced Ocular Side Effects, Oregon Health Sciences University, Portland, OR 97201.",
+    "title_plus_abst": "Fatal aplastic anemia following topical administration of ophthalmic chloramphenicol. A 73-year-old woman died of aplastic anemia less than two months after undergoing cataract extraction and beginning topical therapy with chloramphenicol. The first signs of pancytopenia began within one month of the surgery. The pattern of the aplastic anemia was associated with an idiosyncratic response to chloramphenicol. This was the second report of fatal aplastic anemia after topical treatment with chloramphenicol for ocular conditions, although two cases of reversible bone marrow hypoplasia have also been reported. Any other suspected cases of ocular toxicity associated with topically applied chloramphenicol should be reported to the National Registry of Drug-Induced Ocular Side Effects, Oregon Health Sciences University, Portland, OR 97201.",
+    "pubmed_id": "7072798",
+    "entities": [
+        [
+            6,
+            21,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            69,
+            84,
+            "chloramphenicol",
+            "Chemical",
+            "D002701"
+        ],
+        [
+            114,
+            129,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            168,
+            176,
+            "cataract",
+            "Disease",
+            "D002386"
+        ],
+        [
+            223,
+            238,
+            "chloramphenicol",
+            "Chemical",
+            "D002701"
+        ],
+        [
+            259,
+            271,
+            "pancytopenia",
+            "Disease",
+            "D010198"
+        ],
+        [
+            330,
+            345,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            395,
+            410,
+            "chloramphenicol",
+            "Chemical",
+            "D002701"
+        ],
+        [
+            448,
+            463,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            493,
+            508,
+            "chloramphenicol",
+            "Chemical",
+            "D002701"
+        ],
+        [
+            565,
+            587,
+            "bone marrow hypoplasia",
+            "Disease",
+            "D001855"
+        ],
+        [
+            642,
+            657,
+            "ocular toxicity",
+            "Disease",
+            "D005128"
+        ],
+        [
+            692,
+            707,
+            "chloramphenicol",
+            "Chemical",
+            "D002701"
+        ]
+    ],
+    "split_sentence": [
+        "Fatal aplastic anemia following topical administration of ophthalmic chloramphenicol.",
+        "A 73-year-old woman died of aplastic anemia less than two months after undergoing cataract extraction and beginning topical therapy with chloramphenicol.",
+        "The first signs of pancytopenia began within one month of the surgery.",
+        "The pattern of the aplastic anemia was associated with an idiosyncratic response to chloramphenicol.",
+        "This was the second report of fatal aplastic anemia after topical treatment with chloramphenicol for ocular conditions, although two cases of reversible bone marrow hypoplasia have also been reported.",
+        "Any other suspected cases of ocular toxicity associated with topically applied chloramphenicol should be reported to the National Registry of Drug-Induced Ocular Side Effects, Oregon Health Sciences University, Portland, OR 97201."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000741\tDisease\taplastic anemia\tFatal <target> aplastic anemia </target> following topical administration of ophthalmic chloramphenicol .",
+        "D002701\tChemical\tchloramphenicol\tFatal aplastic anemia following topical administration of ophthalmic <target> chloramphenicol </target> .",
+        "D000741\tDisease\taplastic anemia\tA 73-year-old woman died of <target> aplastic anemia </target> less than two months after undergoing cataract extraction and beginning topical therapy with chloramphenicol .",
+        "D002386\tDisease\tcataract\tA 73-year-old woman died of aplastic anemia less than two months after undergoing <target> cataract </target> extraction and beginning topical therapy with chloramphenicol .",
+        "D002701\tChemical\tchloramphenicol\tA 73-year-old woman died of aplastic anemia less than two months after undergoing cataract extraction and beginning topical therapy with <target> chloramphenicol </target> .",
+        "D010198\tDisease\tpancytopenia\tThe first signs of <target> pancytopenia </target> began within one month of the surgery .",
+        "D000741\tDisease\taplastic anemia\tThe pattern of the <target> aplastic anemia </target> was associated with an idiosyncratic response to chloramphenicol .",
+        "D002701\tChemical\tchloramphenicol\tThe pattern of the aplastic anemia was associated with an idiosyncratic response to <target> chloramphenicol </target> .",
+        "D000741\tDisease\taplastic anemia\tThis was the second report of fatal <target> aplastic anemia </target> after topical treatment with chloramphenicol for ocular conditions , although two cases of reversible bone marrow hypoplasia have also been reported .",
+        "D002701\tChemical\tchloramphenicol\tThis was the second report of fatal aplastic anemia after topical treatment with <target> chloramphenicol </target> for ocular conditions , although two cases of reversible bone marrow hypoplasia have also been reported .",
+        "D001855\tDisease\tbone marrow hypoplasia\tThis was the second report of fatal aplastic anemia after topical treatment with chloramphenicol for ocular conditions , although two cases of reversible <target> bone marrow hypoplasia </target> have also been reported .",
+        "D005128\tDisease\tocular toxicity\tAny other suspected cases of <target> ocular toxicity </target> associated with topically applied chloramphenicol should be reported to the National Registry of Drug-Induced Ocular Side Effects , Oregon Health Sciences University , Portland , OR 97201 .",
+        "D002701\tChemical\tchloramphenicol\tAny other suspected cases of ocular toxicity associated with topically applied <target> chloramphenicol </target> should be reported to the National Registry of Drug-Induced Ocular Side Effects , Oregon Health Sciences University , Portland , OR 97201 ."
+    ],
+    "lines_lemma": [
+        "D000741\tDisease\taplastic anemia\tfatal <target> aplastic anemia </target> follow topical administration of ophthalmic chloramphenicol .",
+        "D002701\tChemical\tchloramphenicol\tfatal aplastic anemia follow topical administration of ophthalmic <target> chloramphenicol </target> .",
+        "D000741\tDisease\taplastic anemia\ta 73-year-old woman die of <target> aplastic anemia </target> less than two month after undergo cataract extraction and begin topical therapy with chloramphenicol .",
+        "D002386\tDisease\tcataract\ta 73-year-old woman die of aplastic anemia less than two month after undergo <target> cataract </target> extraction and begin topical therapy with chloramphenicol .",
+        "D002701\tChemical\tchloramphenicol\ta 73-year-old woman die of aplastic anemia less than two month after undergo cataract extraction and begin topical therapy with <target> chloramphenicol </target> .",
+        "D010198\tDisease\tpancytopenia\tthe first sign of <target> pancytopenia </target> begin within one month of the surgery .",
+        "D000741\tDisease\taplastic anemia\tthe pattern of the <target> aplastic anemia </target> be associate with an idiosyncratic response to chloramphenicol .",
+        "D002701\tChemical\tchloramphenicol\tthe pattern of the aplastic anemia be associate with an idiosyncratic response to <target> chloramphenicol </target> .",
+        "D000741\tDisease\taplastic anemia\tthis be the second report of fatal <target> aplastic anemia </target> after topical treatment with chloramphenicol for ocular condition , although two case of reversible bone marrow hypoplasia have also be report .",
+        "D002701\tChemical\tchloramphenicol\tthis be the second report of fatal aplastic anemia after topical treatment with <target> chloramphenicol </target> for ocular condition , although two case of reversible bone marrow hypoplasia have also be report .",
+        "D001855\tDisease\tbone marrow hypoplasia\tthis be the second report of fatal aplastic anemia after topical treatment with chloramphenicol for ocular condition , although two case of reversible <target> bone marrow hypoplasia </target> have also be report .",
+        "D005128\tDisease\tocular toxicity\tany other suspect case of <target> ocular toxicity </target> associate with topically apply chloramphenicol should be report to the National Registry of drug-induced ocular Side effect , Oregon Health Sciences University , Portland , OR 97201 .",
+        "D002701\tChemical\tchloramphenicol\tany other suspect case of ocular toxicity associate with topically apply <target> chloramphenicol </target> should be report to the National Registry of drug-induced ocular Side effect , Oregon Health Sciences University , Portland , OR 97201 ."
+    ]
+}

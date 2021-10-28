@@ -1,0 +1,103 @@
+{
+    "title": "Delirium in an elderly woman possibly associated with administration of misoprostol.",
+    "abst": "Misoprostol has been associated with adverse reactions, including gastrointestinal symptoms, gynecologic problems, and headache. Changes in mental status, however, have not been reported. We present a case in which an 89-year-old woman in a long-term care facility became confused after the initiation of misoprostol therapy. The patient's change in mental status was first reported nine days after the initiation of therapy. Her delirium significantly improved after misoprostol was discontinued and her mental status returned to normal within a week. Because no other factors related to this patient changed significantly, the delirium experienced by this patient possibly resulted from misoprostol therapy.",
+    "title_plus_abst": "Delirium in an elderly woman possibly associated with administration of misoprostol. Misoprostol has been associated with adverse reactions, including gastrointestinal symptoms, gynecologic problems, and headache. Changes in mental status, however, have not been reported. We present a case in which an 89-year-old woman in a long-term care facility became confused after the initiation of misoprostol therapy. The patient's change in mental status was first reported nine days after the initiation of therapy. Her delirium significantly improved after misoprostol was discontinued and her mental status returned to normal within a week. Because no other factors related to this patient changed significantly, the delirium experienced by this patient possibly resulted from misoprostol therapy.",
+    "pubmed_id": "1905439",
+    "entities": [
+        [
+            0,
+            8,
+            "Delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            72,
+            83,
+            "misoprostol",
+            "Chemical",
+            "D016595"
+        ],
+        [
+            85,
+            96,
+            "Misoprostol",
+            "Chemical",
+            "D016595"
+        ],
+        [
+            204,
+            212,
+            "headache",
+            "Disease",
+            "D006261"
+        ],
+        [
+            390,
+            401,
+            "misoprostol",
+            "Chemical",
+            "D016595"
+        ],
+        [
+            515,
+            523,
+            "delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            553,
+            564,
+            "misoprostol",
+            "Chemical",
+            "D016595"
+        ],
+        [
+            714,
+            722,
+            "delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            774,
+            785,
+            "misoprostol",
+            "Chemical",
+            "D016595"
+        ]
+    ],
+    "split_sentence": [
+        "Delirium in an elderly woman possibly associated with administration of misoprostol.",
+        "Misoprostol has been associated with adverse reactions, including gastrointestinal symptoms, gynecologic problems, and headache.",
+        "Changes in mental status, however, have not been reported.",
+        "We present a case in which an 89-year-old woman in a long-term care facility became confused after the initiation of misoprostol therapy.",
+        "The patient's change in mental status was first reported nine days after the initiation of therapy.",
+        "Her delirium significantly improved after misoprostol was discontinued and her mental status returned to normal within a week.",
+        "Because no other factors related to this patient changed significantly, the delirium experienced by this patient possibly resulted from misoprostol therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003693\tDisease\tDelirium\t<target> Delirium </target> in an elderly woman possibly associated with administration of misoprostol .",
+        "D016595\tChemical\tmisoprostol\tDelirium in an elderly woman possibly associated with administration of <target> misoprostol </target> .",
+        "D016595\tChemical\tMisoprostol\t<target> Misoprostol </target> has been associated with adverse reactions , including gastrointestinal symptoms , gynecologic problems , and headache .",
+        "D006261\tDisease\theadache\tMisoprostol has been associated with adverse reactions , including gastrointestinal symptoms , gynecologic problems , and <target> headache </target> .",
+        "D016595\tChemical\tmisoprostol\tWe present a case in which an 89-year-old woman in a long-term care facility became confused after the initiation of <target> misoprostol </target> therapy .",
+        "D003693\tDisease\tdelirium\tHer <target> delirium </target> significantly improved after misoprostol was discontinued and her mental status returned to normal within a week .",
+        "D016595\tChemical\tmisoprostol\tHer delirium significantly improved after <target> misoprostol </target> was discontinued and her mental status returned to normal within a week .",
+        "D003693\tDisease\tdelirium\tBecause no other factors related to this patient changed significantly , the <target> delirium </target> experienced by this patient possibly resulted from misoprostol therapy .",
+        "D016595\tChemical\tmisoprostol\tBecause no other factors related to this patient changed significantly , the delirium experienced by this patient possibly resulted from <target> misoprostol </target> therapy ."
+    ],
+    "lines_lemma": [
+        "D003693\tDisease\tDelirium\t<target> Delirium </target> in an elderly woman possibly associate with administration of misoprostol .",
+        "D016595\tChemical\tmisoprostol\tDelirium in an elderly woman possibly associate with administration of <target> misoprostol </target> .",
+        "D016595\tChemical\tMisoprostol\t<target> Misoprostol </target> have be associate with adverse reaction , include gastrointestinal symptom , gynecologic problem , and headache .",
+        "D006261\tDisease\theadache\tMisoprostol have be associate with adverse reaction , include gastrointestinal symptom , gynecologic problem , and <target> headache </target> .",
+        "D016595\tChemical\tmisoprostol\twe present a case in which an 89-year-old woman in a long-term care facility become confuse after the initiation of <target> misoprostol </target> therapy .",
+        "D003693\tDisease\tdelirium\ther <target> delirium </target> significantly improve after misoprostol be discontinue and her mental status return to normal within a week .",
+        "D016595\tChemical\tmisoprostol\ther delirium significantly improve after <target> misoprostol </target> be discontinue and her mental status return to normal within a week .",
+        "D003693\tDisease\tdelirium\tbecause no other factor related to this patient change significantly , the <target> delirium </target> experience by this patient possibly result from misoprostol therapy .",
+        "D016595\tChemical\tmisoprostol\tbecause no other factor related to this patient change significantly , the delirium experience by this patient possibly result from <target> misoprostol </target> therapy ."
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Acute renal failure in high dose carboplatin chemotherapy.",
+    "abst": "Carboplatin has been reported to cause acute renal failure when administered in high doses to adult patients. We report a 4 1/2-year-old girl who was treated with high-dose carboplatin for metastatic parameningeal embryonal rhabdomyosarcoma. Acute renal failure developed followed by a slow partial recovery of renal function. Possible contributing factors are discussed.",
+    "title_plus_abst": "Acute renal failure in high dose carboplatin chemotherapy. Carboplatin has been reported to cause acute renal failure when administered in high doses to adult patients. We report a 4 1/2-year-old girl who was treated with high-dose carboplatin for metastatic parameningeal embryonal rhabdomyosarcoma. Acute renal failure developed followed by a slow partial recovery of renal function. Possible contributing factors are discussed.",
+    "pubmed_id": "7565311",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            33,
+            44,
+            "carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            59,
+            70,
+            "Carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            98,
+            117,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            232,
+            243,
+            "carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            273,
+            299,
+            "embryonal rhabdomyosarcoma",
+            "Disease",
+            "D018233"
+        ],
+        [
+            301,
+            320,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ]
+    ],
+    "split_sentence": [
+        "Acute renal failure in high dose carboplatin chemotherapy.",
+        "Carboplatin has been reported to cause acute renal failure when administered in high doses to adult patients.",
+        "We report a 4 1/2-year-old girl who was treated with high-dose carboplatin for metastatic parameningeal embryonal rhabdomyosarcoma.",
+        "Acute renal failure developed followed by a slow partial recovery of renal function.",
+        "Possible contributing factors are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> in high dose carboplatin chemotherapy .",
+        "D016190\tChemical\tcarboplatin\tAcute renal failure in high dose <target> carboplatin </target> chemotherapy .",
+        "D016190\tChemical\tCarboplatin\t<target> Carboplatin </target> has been reported to cause acute renal failure when administered in high doses to adult patients .",
+        "D058186\tDisease\tacute renal failure\tCarboplatin has been reported to cause <target> acute renal failure </target> when administered in high doses to adult patients .",
+        "D016190\tChemical\tcarboplatin\tWe report a 4 1/2-year-old girl who was treated with high-dose <target> carboplatin </target> for metastatic parameningeal embryonal rhabdomyosarcoma .",
+        "D018233\tDisease\tembryonal rhabdomyosarcoma\tWe report a 4 1/2-year-old girl who was treated with high-dose carboplatin for metastatic parameningeal <target> embryonal rhabdomyosarcoma </target> .",
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> developed followed by a slow partial recovery of renal function ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> in high dose carboplatin chemotherapy .",
+        "D016190\tChemical\tcarboplatin\tacute renal failure in high dose <target> carboplatin </target> chemotherapy .",
+        "D016190\tChemical\tCarboplatin\t<target> Carboplatin </target> have be report to cause acute renal failure when administer in high dose to adult patient .",
+        "D058186\tDisease\tacute renal failure\tCarboplatin have be report to cause <target> acute renal failure </target> when administer in high dose to adult patient .",
+        "D016190\tChemical\tcarboplatin\twe report a 4 1/2-year-old girl who be treat with high-dose <target> carboplatin </target> for metastatic parameningeal embryonal rhabdomyosarcoma .",
+        "D018233\tDisease\tembryonal rhabdomyosarcoma\twe report a 4 1/2-year-old girl who be treat with high-dose carboplatin for metastatic parameningeal <target> embryonal rhabdomyosarcoma </target> .",
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> develop follow by a slow partial recovery of renal function ."
+    ]
+}

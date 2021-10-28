@@ -1,0 +1,118 @@
+{
+    "title": "Simvastatin-induced bilateral leg compartment syndrome and myonecrosis associated with hypothyroidism.",
+    "abst": "A 54-year-old hypothyroid male taking thyroxine and simvastatin presented with bilateral leg compartment syndrome and myonecrosis. Urgent fasciotomies were performed and the patient made an uneventful recovery with the withdrawal of simvastatin. It is likely that this complication will be seen more often with the increased worldwide use of this drug and its approval for all arteriopathic patients.",
+    "title_plus_abst": "Simvastatin-induced bilateral leg compartment syndrome and myonecrosis associated with hypothyroidism. A 54-year-old hypothyroid male taking thyroxine and simvastatin presented with bilateral leg compartment syndrome and myonecrosis. Urgent fasciotomies were performed and the patient made an uneventful recovery with the withdrawal of simvastatin. It is likely that this complication will be seen more often with the increased worldwide use of this drug and its approval for all arteriopathic patients.",
+    "pubmed_id": "17344566",
+    "entities": [
+        [
+            0,
+            11,
+            "Simvastatin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            34,
+            54,
+            "compartment syndrome",
+            "Disease",
+            "D003161"
+        ],
+        [
+            59,
+            70,
+            "myonecrosis",
+            "Disease",
+            "D009135"
+        ],
+        [
+            87,
+            101,
+            "hypothyroidism",
+            "Disease",
+            "D007037"
+        ],
+        [
+            117,
+            128,
+            "hypothyroid",
+            "Disease",
+            "D007037"
+        ],
+        [
+            141,
+            150,
+            "thyroxine",
+            "Chemical",
+            "D013974"
+        ],
+        [
+            155,
+            166,
+            "simvastatin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            196,
+            216,
+            "compartment syndrome",
+            "Disease",
+            "D003161"
+        ],
+        [
+            221,
+            232,
+            "myonecrosis",
+            "Disease",
+            "D009135"
+        ],
+        [
+            336,
+            347,
+            "simvastatin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            480,
+            493,
+            "arteriopathic",
+            "Disease",
+            "D014652"
+        ]
+    ],
+    "split_sentence": [
+        "Simvastatin-induced bilateral leg compartment syndrome and myonecrosis associated with hypothyroidism.",
+        "A 54-year-old hypothyroid male taking thyroxine and simvastatin presented with bilateral leg compartment syndrome and myonecrosis.",
+        "Urgent fasciotomies were performed and the patient made an uneventful recovery with the withdrawal of simvastatin.",
+        "It is likely that this complication will be seen more often with the increased worldwide use of this drug and its approval for all arteriopathic patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019821\tChemical\tSimvastatin\t<target> Simvastatin </target> -induced bilateral leg compartment syndrome and myonecrosis associated with hypothyroidism .",
+        "D003161\tDisease\tcompartment syndrome\tSimvastatin-induced bilateral leg <target> compartment syndrome </target> and myonecrosis associated with hypothyroidism .",
+        "D009135\tDisease\tmyonecrosis\tSimvastatin-induced bilateral leg compartment syndrome and <target> myonecrosis </target> associated with hypothyroidism .",
+        "D007037\tDisease\thypothyroidism\tSimvastatin-induced bilateral leg compartment syndrome and myonecrosis associated with <target> hypothyroidism </target> .",
+        "D007037\tDisease\thypothyroid\tA 54-year-old <target> hypothyroid </target> male taking thyroxine and simvastatin presented with bilateral leg compartment syndrome and myonecrosis .",
+        "D013974\tChemical\tthyroxine\tA 54-year-old hypothyroid male taking <target> thyroxine </target> and simvastatin presented with bilateral leg compartment syndrome and myonecrosis .",
+        "D019821\tChemical\tsimvastatin\tA 54-year-old hypothyroid male taking thyroxine and <target> simvastatin </target> presented with bilateral leg compartment syndrome and myonecrosis .",
+        "D003161\tDisease\tcompartment syndrome\tA 54-year-old hypothyroid male taking thyroxine and simvastatin presented with bilateral leg <target> compartment syndrome </target> and myonecrosis .",
+        "D009135\tDisease\tmyonecrosis\tA 54-year-old hypothyroid male taking thyroxine and simvastatin presented with bilateral leg compartment syndrome and <target> myonecrosis </target> .",
+        "D019821\tChemical\tsimvastatin\tUrgent fasciotomies were performed and the patient made an uneventful recovery with the withdrawal of <target> simvastatin </target> .",
+        "D014652\tDisease\tarteriopathic\tIt is likely that this complication will be seen more often with the increased worldwide use of this drug and its approval for all <target> arteriopathic </target> patients ."
+    ],
+    "lines_lemma": [
+        "D019821\tChemical\tSimvastatin\t<target> simvastatin </target> -induced bilateral leg compartment syndrome and myonecrosis associate with hypothyroidism .",
+        "D003161\tDisease\tcompartment syndrome\tsimvastatin-induced bilateral leg <target> compartment syndrome </target> and myonecrosis associate with hypothyroidism .",
+        "D009135\tDisease\tmyonecrosis\tsimvastatin-induced bilateral leg compartment syndrome and <target> myonecrosis </target> associate with hypothyroidism .",
+        "D007037\tDisease\thypothyroidism\tsimvastatin-induced bilateral leg compartment syndrome and myonecrosis associate with <target> hypothyroidism </target> .",
+        "D007037\tDisease\thypothyroid\ta 54-year-old <target> hypothyroid </target> male take thyroxine and simvastatin present with bilateral leg compartment syndrome and myonecrosis .",
+        "D013974\tChemical\tthyroxine\ta 54-year-old hypothyroid male take <target> thyroxine </target> and simvastatin present with bilateral leg compartment syndrome and myonecrosis .",
+        "D019821\tChemical\tsimvastatin\ta 54-year-old hypothyroid male take thyroxine and <target> simvastatin </target> present with bilateral leg compartment syndrome and myonecrosis .",
+        "D003161\tDisease\tcompartment syndrome\ta 54-year-old hypothyroid male take thyroxine and simvastatin present with bilateral leg <target> compartment syndrome </target> and myonecrosis .",
+        "D009135\tDisease\tmyonecrosis\ta 54-year-old hypothyroid male take thyroxine and simvastatin present with bilateral leg compartment syndrome and <target> myonecrosis </target> .",
+        "D019821\tChemical\tsimvastatin\turgent fasciotomie be perform and the patient make an uneventful recovery with the withdrawal of <target> simvastatin </target> .",
+        "D014652\tDisease\tarteriopathic\tit be likely that this complication will be see more often with the increase worldwide use of this drug and its approval for all <target> arteriopathic </target> patient ."
+    ]
+}

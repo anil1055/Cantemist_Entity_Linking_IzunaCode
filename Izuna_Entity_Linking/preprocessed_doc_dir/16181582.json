@@ -1,0 +1,94 @@
+{
+    "title": "Valproate-induced encephalopathy.",
+    "abst": "Valproate-induced encephalopathy is a rare syndrome that may manifest in otherwise normal epileptic individuals. It may even present in patients who have tolerated this medicine well in the past. It is usually but not necessarily associated with hyperammonemia. The EEG shows characteristic triphasic waves in most patients with this complication. A case of valproate-induced encephalopathy is presented. The problems in diagnosing this condition are subsequently discussed.",
+    "title_plus_abst": "Valproate-induced encephalopathy. Valproate-induced encephalopathy is a rare syndrome that may manifest in otherwise normal epileptic individuals. It may even present in patients who have tolerated this medicine well in the past. It is usually but not necessarily associated with hyperammonemia. The EEG shows characteristic triphasic waves in most patients with this complication. A case of valproate-induced encephalopathy is presented. The problems in diagnosing this condition are subsequently discussed.",
+    "pubmed_id": "16181582",
+    "entities": [
+        [
+            0,
+            9,
+            "Valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            18,
+            32,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            34,
+            43,
+            "Valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            52,
+            66,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            124,
+            133,
+            "epileptic",
+            "Disease",
+            "D004827"
+        ],
+        [
+            280,
+            294,
+            "hyperammonemia",
+            "Disease",
+            "D022124"
+        ],
+        [
+            392,
+            401,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            410,
+            424,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ]
+    ],
+    "split_sentence": [
+        "Valproate-induced encephalopathy.",
+        "Valproate-induced encephalopathy is a rare syndrome that may manifest in otherwise normal epileptic individuals.",
+        "It may even present in patients who have tolerated this medicine well in the past.",
+        "It is usually but not necessarily associated with hyperammonemia.",
+        "The EEG shows characteristic triphasic waves in most patients with this complication.",
+        "A case of valproate-induced encephalopathy is presented.",
+        "The problems in diagnosing this condition are subsequently discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014635\tChemical\tValproate\t<target> Valproate </target> -induced encephalopathy .",
+        "D001927\tDisease\tencephalopathy\tValproate-induced <target> encephalopathy </target> .",
+        "D014635\tChemical\tValproate\t<target> Valproate </target> -induced encephalopathy is a rare syndrome that may manifest in otherwise normal epileptic individuals .",
+        "D001927\tDisease\tencephalopathy\tValproate-induced <target> encephalopathy </target> is a rare syndrome that may manifest in otherwise normal epileptic individuals .",
+        "D004827\tDisease\tepileptic\tValproate-induced encephalopathy is a rare syndrome that may manifest in otherwise normal <target> epileptic </target> individuals .",
+        "D022124\tDisease\thyperammonemia\tIt is usually but not necessarily associated with <target> hyperammonemia </target> .",
+        "D014635\tChemical\tvalproate\tA case of <target> valproate </target> -induced encephalopathy is presented .",
+        "D001927\tDisease\tencephalopathy\tA case of valproate-induced <target> encephalopathy </target> is presented ."
+    ],
+    "lines_lemma": [
+        "D014635\tChemical\tValproate\t<target> Valproate </target> -induced encephalopathy .",
+        "D001927\tDisease\tencephalopathy\tvalproate-induced <target> encephalopathy </target> .",
+        "D014635\tChemical\tValproate\t<target> Valproate </target> -induced encephalopathy be a rare syndrome that may manifest in otherwise normal epileptic individual .",
+        "D001927\tDisease\tencephalopathy\tvalproate-induced <target> encephalopathy </target> be a rare syndrome that may manifest in otherwise normal epileptic individual .",
+        "D004827\tDisease\tepileptic\tvalproate-induced encephalopathy be a rare syndrome that may manifest in otherwise normal <target> epileptic </target> individual .",
+        "D022124\tDisease\thyperammonemia\tit be usually but not necessarily associate with <target> hyperammonemia </target> .",
+        "D014635\tChemical\tvalproate\ta case of <target> valproate </target> -induced encephalopathy be present .",
+        "D001927\tDisease\tencephalopathy\ta case of valproate-induced <target> encephalopathy </target> be present ."
+    ]
+}

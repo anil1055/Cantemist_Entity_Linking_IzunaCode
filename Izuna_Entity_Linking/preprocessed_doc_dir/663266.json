@@ -1,0 +1,145 @@
+{
+    "title": "Ventricular fibrillation from diatrizoate with and without chelating agents.",
+    "abst": "The toxicity of Renografin 76% was compared with that of Hypaque 76% by selective injection of each into the right coronary artery of dogs. Renografin contains the chelating agents sodium citrate and disodium edetate, while Hypaque contains calcium disodium edetate and no sodium citrate. Ventricular fibrillation occurred significantly more often with Renografin, suggesting that chelating agents contribute to toxicity in coronary angiography.",
+    "title_plus_abst": "Ventricular fibrillation from diatrizoate with and without chelating agents. The toxicity of Renografin 76% was compared with that of Hypaque 76% by selective injection of each into the right coronary artery of dogs. Renografin contains the chelating agents sodium citrate and disodium edetate, while Hypaque contains calcium disodium edetate and no sodium citrate. Ventricular fibrillation occurred significantly more often with Renografin, suggesting that chelating agents contribute to toxicity in coronary angiography.",
+    "pubmed_id": "663266",
+    "entities": [
+        [
+            0,
+            24,
+            "Ventricular fibrillation",
+            "Disease",
+            "D014693"
+        ],
+        [
+            30,
+            41,
+            "diatrizoate",
+            "Chemical",
+            "D003973"
+        ],
+        [
+            81,
+            89,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            93,
+            107,
+            "Renografin 76%",
+            "Chemical",
+            "C027278"
+        ],
+        [
+            134,
+            145,
+            "Hypaque 76%",
+            "Chemical",
+            "C027278"
+        ],
+        [
+            217,
+            227,
+            "Renografin",
+            "Chemical",
+            "D003974"
+        ],
+        [
+            258,
+            272,
+            "sodium citrate",
+            "Chemical",
+            "C102006"
+        ],
+        [
+            277,
+            293,
+            "disodium edetate",
+            "Chemical",
+            "D004492"
+        ],
+        [
+            301,
+            308,
+            "Hypaque",
+            "Chemical",
+            "D003973"
+        ],
+        [
+            318,
+            342,
+            "calcium disodium edetate",
+            "Chemical",
+            "D004492"
+        ],
+        [
+            350,
+            364,
+            "sodium citrate",
+            "Chemical",
+            "C102006"
+        ],
+        [
+            366,
+            390,
+            "Ventricular fibrillation",
+            "Disease",
+            "D014693"
+        ],
+        [
+            430,
+            440,
+            "Renografin",
+            "Chemical",
+            "D003974"
+        ],
+        [
+            489,
+            497,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Ventricular fibrillation from diatrizoate with and without chelating agents.",
+        "The toxicity of Renografin 76% was compared with that of Hypaque 76% by selective injection of each into the right coronary artery of dogs.",
+        "Renografin contains the chelating agents sodium citrate and disodium edetate, while Hypaque contains calcium disodium edetate and no sodium citrate.",
+        "Ventricular fibrillation occurred significantly more often with Renografin, suggesting that chelating agents contribute to toxicity in coronary angiography."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014693\tDisease\tVentricular fibrillation\t<target> Ventricular fibrillation </target> from diatrizoate with and without chelating agents .",
+        "D003973\tChemical\tdiatrizoate\tVentricular fibrillation from <target> diatrizoate </target> with and without chelating agents .",
+        "D064420\tDisease\ttoxicity\tThe <target> toxicity </target> of Renografin 76 % was compared with that of Hypaque 76 % by selective injection of each into the right coronary artery of dogs .",
+        "C027278\tChemical\tRenografin 76%\tThe toxicity of <target> Renografin 76 % </target> was compared with that of Hypaque 76 % by selective injection of each into the right coronary artery of dogs .",
+        "C027278\tChemical\tHypaque 76%\tThe toxicity of Renografin 76 % was compared with that of <target> Hypaque 76 % </target> by selective injection of each into the right coronary artery of dogs .",
+        "D003974\tChemical\tRenografin\t<target> Renografin </target> contains the chelating agents sodium citrate and disodium edetate , while Hypaque contains calcium disodium edetate and no sodium citrate .",
+        "C102006\tChemical\tsodium citrate\tRenografin contains the chelating agents <target> sodium citrate </target> and disodium edetate , while Hypaque contains calcium disodium edetate and no sodium citrate .",
+        "D004492\tChemical\tdisodium edetate\tRenografin contains the chelating agents sodium citrate and <target> disodium edetate </target> , while Hypaque contains calcium disodium edetate and no sodium citrate .",
+        "D003973\tChemical\tHypaque\tRenografin contains the chelating agents sodium citrate and disodium edetate , while <target> Hypaque </target> contains calcium disodium edetate and no sodium citrate .",
+        "D004492\tChemical\tcalcium disodium edetate\tRenografin contains the chelating agents sodium citrate and disodium edetate , while Hypaque contains <target> calcium disodium edetate </target> and no sodium citrate .",
+        "C102006\tChemical\tsodium citrate\tRenografin contains the chelating agents sodium citrate and disodium edetate , while Hypaque contains calcium disodium edetate and no <target> sodium citrate </target> .",
+        "D014693\tDisease\tVentricular fibrillation\t<target> Ventricular fibrillation </target> occurred significantly more often with Renografin , suggesting that chelating agents contribute to toxicity in coronary angiography .",
+        "D003974\tChemical\tRenografin\tVentricular fibrillation occurred significantly more often with <target> Renografin </target> , suggesting that chelating agents contribute to toxicity in coronary angiography .",
+        "D064420\tDisease\ttoxicity\tVentricular fibrillation occurred significantly more often with Renografin , suggesting that chelating agents contribute to <target> toxicity </target> in coronary angiography ."
+    ],
+    "lines_lemma": [
+        "D014693\tDisease\tVentricular fibrillation\t<target> ventricular fibrillation </target> from diatrizoate with and without chelate agent .",
+        "D003973\tChemical\tdiatrizoate\tventricular fibrillation from <target> diatrizoate </target> with and without chelate agent .",
+        "D064420\tDisease\ttoxicity\tthe <target> toxicity </target> of Renografin 76 % be compare with that of hypaque 76 % by selective injection of each into the right coronary artery of dog .",
+        "C027278\tChemical\tRenografin 76%\tthe toxicity of <target> Renografin 76 % </target> be compare with that of hypaque 76 % by selective injection of each into the right coronary artery of dog .",
+        "C027278\tChemical\tHypaque 76%\tthe toxicity of Renografin 76 % be compare with that of <target> hypaque 76 % </target> by selective injection of each into the right coronary artery of dog .",
+        "D003974\tChemical\tRenografin\t<target> Renografin </target> contain the chelating agent sodium citrate and disodium edetate , while hypaque contain calcium disodium edetate and no sodium citrate .",
+        "C102006\tChemical\tsodium citrate\tRenografin contain the chelating agent <target> sodium citrate </target> and disodium edetate , while hypaque contain calcium disodium edetate and no sodium citrate .",
+        "D004492\tChemical\tdisodium edetate\tRenografin contain the chelating agent sodium citrate and <target> disodium edetate </target> , while hypaque contain calcium disodium edetate and no sodium citrate .",
+        "D003973\tChemical\tHypaque\tRenografin contain the chelating agent sodium citrate and disodium edetate , while <target> hypaque </target> contain calcium disodium edetate and no sodium citrate .",
+        "D004492\tChemical\tcalcium disodium edetate\tRenografin contain the chelating agent sodium citrate and disodium edetate , while hypaque contain <target> calcium disodium edetate </target> and no sodium citrate .",
+        "C102006\tChemical\tsodium citrate\tRenografin contain the chelating agent sodium citrate and disodium edetate , while hypaque contain calcium disodium edetate and no <target> sodium citrate </target> .",
+        "D014693\tDisease\tVentricular fibrillation\t<target> ventricular fibrillation </target> occur significantly more often with Renografin , suggest that chelate agent contribute to toxicity in coronary angiography .",
+        "D003974\tChemical\tRenografin\tventricular fibrillation occur significantly more often with <target> Renografin </target> , suggest that chelate agent contribute to toxicity in coronary angiography .",
+        "D064420\tDisease\ttoxicity\tventricular fibrillation occur significantly more often with Renografin , suggest that chelate agent contribute to <target> toxicity </target> in coronary angiography ."
+    ]
+}

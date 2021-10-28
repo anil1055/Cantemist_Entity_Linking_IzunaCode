@@ -1,0 +1,123 @@
+{
+    "title": "A dramatic drop in blood pressure following prehospital GTN administration.",
+    "abst": "A male in his sixties with no history of cardiac chest pain awoke with chest pain following an afternoon sleep. The patient did not self medicate. The patient's observations were within normal limits, he was administered oxygen via a face mask and glyceryl trinitrate (GTN). Several minutes after the GTN the patient experienced a sudden drop in blood pressure and heart rate, this was rectified by atropine sulphate and a fluid challenge. There was no further deterioration in the patient's condition during transport to hospital. There are very few documented case like this in the prehospital scientific literature. The cause appears to be the Bezold-Jarish reflex, stimulation of the ventricular walls which in turn decreases sympathetic outflow from the vasomotor centre. Prehospital care providers who are managing any patient with a syncopal episode that fails to recover within a reasonable time frame should consider the Bezold-Jarisch reflex as the cause and manage the patient accordingly.",
+    "title_plus_abst": "A dramatic drop in blood pressure following prehospital GTN administration. A male in his sixties with no history of cardiac chest pain awoke with chest pain following an afternoon sleep. The patient did not self medicate. The patient's observations were within normal limits, he was administered oxygen via a face mask and glyceryl trinitrate (GTN). Several minutes after the GTN the patient experienced a sudden drop in blood pressure and heart rate, this was rectified by atropine sulphate and a fluid challenge. There was no further deterioration in the patient's condition during transport to hospital. There are very few documented case like this in the prehospital scientific literature. The cause appears to be the Bezold-Jarish reflex, stimulation of the ventricular walls which in turn decreases sympathetic outflow from the vasomotor centre. Prehospital care providers who are managing any patient with a syncopal episode that fails to recover within a reasonable time frame should consider the Bezold-Jarisch reflex as the cause and manage the patient accordingly.",
+    "pubmed_id": "17351238",
+    "entities": [
+        [
+            11,
+            33,
+            "drop in blood pressure",
+            "Disease",
+            "D007022"
+        ],
+        [
+            56,
+            59,
+            "GTN",
+            "Chemical",
+            "D005996"
+        ],
+        [
+            125,
+            135,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            147,
+            157,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            297,
+            303,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            324,
+            343,
+            "glyceryl trinitrate",
+            "Chemical",
+            "D005996"
+        ],
+        [
+            345,
+            348,
+            "GTN",
+            "Chemical",
+            "D005996"
+        ],
+        [
+            377,
+            380,
+            "GTN",
+            "Chemical",
+            "D005996"
+        ],
+        [
+            414,
+            436,
+            "drop in blood pressure",
+            "Disease",
+            "D007022"
+        ],
+        [
+            475,
+            492,
+            "atropine sulphate",
+            "Chemical",
+            "D001285"
+        ],
+        [
+            916,
+            932,
+            "syncopal episode",
+            "Disease",
+            "D013575"
+        ]
+    ],
+    "split_sentence": [
+        "A dramatic drop in blood pressure following prehospital GTN administration.",
+        "A male in his sixties with no history of cardiac chest pain awoke with chest pain following an afternoon sleep.",
+        "The patient did not self medicate.",
+        "The patient's observations were within normal limits, he was administered oxygen via a face mask and glyceryl trinitrate (GTN).",
+        "Several minutes after the GTN the patient experienced a sudden drop in blood pressure and heart rate, this was rectified by atropine sulphate and a fluid challenge.",
+        "There was no further deterioration in the patient's condition during transport to hospital.",
+        "There are very few documented case like this in the prehospital scientific literature.",
+        "The cause appears to be the Bezold-Jarish reflex, stimulation of the ventricular walls which in turn decreases sympathetic outflow from the vasomotor centre.",
+        "Prehospital care providers who are managing any patient with a syncopal episode that fails to recover within a reasonable time frame should consider the Bezold-Jarisch reflex as the cause and manage the patient accordingly."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007022\tDisease\tdrop in blood pressure\tA dramatic <target> drop in blood pressure </target> following prehospital GTN administration .",
+        "D005996\tChemical\tGTN\tA dramatic drop in blood pressure following prehospital <target> GTN </target> administration .",
+        "D002637\tDisease\tchest pain\tA male in his sixties with no history of cardiac <target> chest pain </target> awoke with chest pain following an afternoon sleep .",
+        "D002637\tDisease\tchest pain\tA male in his sixties with no history of cardiac chest pain awoke with <target> chest pain </target> following an afternoon sleep .",
+        "D010100\tChemical\toxygen\tThe patient 's observations were within normal limits , he was administered <target> oxygen </target> via a face mask and glyceryl trinitrate ( GTN ) .",
+        "D005996\tChemical\tglyceryl trinitrate\tThe patient 's observations were within normal limits , he was administered oxygen via a face mask and <target> glyceryl trinitrate </target> ( GTN ) .",
+        "D005996\tChemical\tGTN\tThe patient 's observations were within normal limits , he was administered oxygen via a face mask and glyceryl trinitrate ( <target> GTN </target> ) .",
+        "D005996\tChemical\tGTN\tSeveral minutes after the <target> GTN </target> the patient experienced a sudden drop in blood pressure and heart rate , this was rectified by atropine sulphate and a fluid challenge .",
+        "D007022\tDisease\tdrop in blood pressure\tSeveral minutes after the GTN the patient experienced a sudden <target> drop in blood pressure </target> and heart rate , this was rectified by atropine sulphate and a fluid challenge .",
+        "D001285\tChemical\tatropine sulphate\tSeveral minutes after the GTN the patient experienced a sudden drop in blood pressure and heart rate , this was rectified by <target> atropine sulphate </target> and a fluid challenge .",
+        "D013575\tDisease\tsyncopal episode\tPrehospital care providers who are managing any patient with a <target> syncopal episode </target> that fails to recover within a reasonable time frame should consider the Bezold-Jarisch reflex as the cause and manage the patient accordingly ."
+    ],
+    "lines_lemma": [
+        "D007022\tDisease\tdrop in blood pressure\ta dramatic <target> drop in blood pressure </target> follow prehospital gtn administration .",
+        "D005996\tChemical\tGTN\ta dramatic drop in blood pressure follow prehospital <target> gtn </target> administration .",
+        "D002637\tDisease\tchest pain\ta male in his sixty with no history of cardiac <target> chest pain </target> awake with chest pain follow an afternoon sleep .",
+        "D002637\tDisease\tchest pain\ta male in his sixty with no history of cardiac chest pain awake with <target> chest pain </target> follow an afternoon sleep .",
+        "D010100\tChemical\toxygen\tthe patient 's observation be within normal limit , he be administer <target> oxygen </target> via a face mask and glyceryl trinitrate ( gtn ) .",
+        "D005996\tChemical\tglyceryl trinitrate\tthe patient 's observation be within normal limit , he be administer oxygen via a face mask and <target> glyceryl trinitrate </target> ( gtn ) .",
+        "D005996\tChemical\tGTN\tthe patient 's observation be within normal limit , he be administer oxygen via a face mask and glyceryl trinitrate ( <target> gtn </target> ) .",
+        "D005996\tChemical\tGTN\tseveral minute after the <target> gtn </target> the patient experience a sudden drop in blood pressure and heart rate , this be rectify by atropine sulphate and a fluid challenge .",
+        "D007022\tDisease\tdrop in blood pressure\tseveral minute after the gtn the patient experience a sudden <target> drop in blood pressure </target> and heart rate , this be rectify by atropine sulphate and a fluid challenge .",
+        "D001285\tChemical\tatropine sulphate\tseveral minute after the gtn the patient experience a sudden drop in blood pressure and heart rate , this be rectify by <target> atropine sulphate </target> and a fluid challenge .",
+        "D013575\tDisease\tsyncopal episode\tprehospital care provider who be manage any patient with a <target> syncopal episode </target> that fail to recover within a reasonable time frame should consider the bezold-jarisch reflex as the cause and manage the patient accordingly ."
+    ]
+}

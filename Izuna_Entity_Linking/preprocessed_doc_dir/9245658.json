@@ -1,0 +1,157 @@
+{
+    "title": "The role of nicotine in smoking-related cardiovascular disease.",
+    "abst": "Nicotine activates the sympathetic nervous system and in this way could contribute to cardiovascular disease. Animal studies and mechanistic studies indicate that nicotine could play a role in accelerating atherosclerosis, but evidence among humans is too inadequate to be definitive about such an effect. Almost certainly, nicotine via its hemodynamic effects contributes to acute cardiovascular events, although current evidence suggests that the effects of nicotine are much less important than are the prothrombotic effects of cigarette smoking or the effects of carbon monoxide. Nicotine does not appear to enhance thrombosis among humans. Clinical studies of pipe smokers and people using transdermal nicotine support the idea that toxins other than nicotine are the most important causes of acute cardiovascular events. Finally, the dose response for cardiovascular events of nicotine appears to be flat, suggesting that if nicotine is involved, adverse effects might be seen with relatively low-level cigarette exposures.",
+    "title_plus_abst": "The role of nicotine in smoking-related cardiovascular disease. Nicotine activates the sympathetic nervous system and in this way could contribute to cardiovascular disease. Animal studies and mechanistic studies indicate that nicotine could play a role in accelerating atherosclerosis, but evidence among humans is too inadequate to be definitive about such an effect. Almost certainly, nicotine via its hemodynamic effects contributes to acute cardiovascular events, although current evidence suggests that the effects of nicotine are much less important than are the prothrombotic effects of cigarette smoking or the effects of carbon monoxide. Nicotine does not appear to enhance thrombosis among humans. Clinical studies of pipe smokers and people using transdermal nicotine support the idea that toxins other than nicotine are the most important causes of acute cardiovascular events. Finally, the dose response for cardiovascular events of nicotine appears to be flat, suggesting that if nicotine is involved, adverse effects might be seen with relatively low-level cigarette exposures.",
+    "pubmed_id": "9245658",
+    "entities": [
+        [
+            12,
+            20,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            40,
+            62,
+            "cardiovascular disease",
+            "Disease",
+            "D002318"
+        ],
+        [
+            64,
+            72,
+            "Nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            150,
+            172,
+            "cardiovascular disease",
+            "Disease",
+            "D002318"
+        ],
+        [
+            227,
+            235,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            270,
+            285,
+            "atherosclerosis",
+            "Disease",
+            "D050197"
+        ],
+        [
+            388,
+            396,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            524,
+            532,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            631,
+            646,
+            "carbon monoxide",
+            "Chemical",
+            "D002248"
+        ],
+        [
+            648,
+            656,
+            "Nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            684,
+            694,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            771,
+            779,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            820,
+            828,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            947,
+            955,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            995,
+            1003,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ]
+    ],
+    "split_sentence": [
+        "The role of nicotine in smoking-related cardiovascular disease.",
+        "Nicotine activates the sympathetic nervous system and in this way could contribute to cardiovascular disease.",
+        "Animal studies and mechanistic studies indicate that nicotine could play a role in accelerating atherosclerosis, but evidence among humans is too inadequate to be definitive about such an effect.",
+        "Almost certainly, nicotine via its hemodynamic effects contributes to acute cardiovascular events, although current evidence suggests that the effects of nicotine are much less important than are the prothrombotic effects of cigarette smoking or the effects of carbon monoxide.",
+        "Nicotine does not appear to enhance thrombosis among humans.",
+        "Clinical studies of pipe smokers and people using transdermal nicotine support the idea that toxins other than nicotine are the most important causes of acute cardiovascular events.",
+        "Finally, the dose response for cardiovascular events of nicotine appears to be flat, suggesting that if nicotine is involved, adverse effects might be seen with relatively low-level cigarette exposures."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009538\tChemical\tnicotine\tThe role of <target> nicotine </target> in smoking-related cardiovascular disease .",
+        "D002318\tDisease\tcardiovascular disease\tThe role of nicotine in smoking-related <target> cardiovascular disease </target> .",
+        "D009538\tChemical\tNicotine\t<target> Nicotine </target> activates the sympathetic nervous system and in this way could contribute to cardiovascular disease .",
+        "D002318\tDisease\tcardiovascular disease\tNicotine activates the sympathetic nervous system and in this way could contribute to <target> cardiovascular disease </target> .",
+        "D009538\tChemical\tnicotine\tAnimal studies and mechanistic studies indicate that <target> nicotine </target> could play a role in accelerating atherosclerosis , but evidence among humans is too inadequate to be definitive about such an effect .",
+        "D050197\tDisease\tatherosclerosis\tAnimal studies and mechanistic studies indicate that nicotine could play a role in accelerating <target> atherosclerosis </target> , but evidence among humans is too inadequate to be definitive about such an effect .",
+        "D009538\tChemical\tnicotine\tAlmost certainly , <target> nicotine </target> via its hemodynamic effects contributes to acute cardiovascular events , although current evidence suggests that the effects of nicotine are much less important than are the prothrombotic effects of cigarette smoking or the effects of carbon monoxide .",
+        "D009538\tChemical\tnicotine\tAlmost certainly , nicotine via its hemodynamic effects contributes to acute cardiovascular events , although current evidence suggests that the effects of <target> nicotine </target> are much less important than are the prothrombotic effects of cigarette smoking or the effects of carbon monoxide .",
+        "D002248\tChemical\tcarbon monoxide\tAlmost certainly , nicotine via its hemodynamic effects contributes to acute cardiovascular events , although current evidence suggests that the effects of nicotine are much less important than are the prothrombotic effects of cigarette smoking or the effects of <target> carbon monoxide </target> .",
+        "D009538\tChemical\tNicotine\t<target> Nicotine </target> does not appear to enhance thrombosis among humans .",
+        "D013927\tDisease\tthrombosis\tNicotine does not appear to enhance <target> thrombosis </target> among humans .",
+        "D009538\tChemical\tnicotine\tClinical studies of pipe smokers and people using transdermal <target> nicotine </target> support the idea that toxins other than nicotine are the most important causes of acute cardiovascular events .",
+        "D009538\tChemical\tnicotine\tClinical studies of pipe smokers and people using transdermal nicotine support the idea that toxins other than <target> nicotine </target> are the most important causes of acute cardiovascular events .",
+        "D009538\tChemical\tnicotine\tFinally , the dose response for cardiovascular events of <target> nicotine </target> appears to be flat , suggesting that if nicotine is involved , adverse effects might be seen with relatively low-level cigarette exposures .",
+        "D009538\tChemical\tnicotine\tFinally , the dose response for cardiovascular events of nicotine appears to be flat , suggesting that if <target> nicotine </target> is involved , adverse effects might be seen with relatively low-level cigarette exposures ."
+    ],
+    "lines_lemma": [
+        "D009538\tChemical\tnicotine\tthe role of <target> nicotine </target> in smoking-related cardiovascular disease .",
+        "D002318\tDisease\tcardiovascular disease\tthe role of nicotine in smoking-related <target> cardiovascular disease </target> .",
+        "D009538\tChemical\tNicotine\t<target> Nicotine </target> activate the sympathetic nervous system and in this way could contribute to cardiovascular disease .",
+        "D002318\tDisease\tcardiovascular disease\tNicotine activate the sympathetic nervous system and in this way could contribute to <target> cardiovascular disease </target> .",
+        "D009538\tChemical\tnicotine\tanimal study and mechanistic study indicate that <target> nicotine </target> could play a role in accelerate atherosclerosis , but evidence among human be too inadequate to be definitive about such an effect .",
+        "D050197\tDisease\tatherosclerosis\tanimal study and mechanistic study indicate that nicotine could play a role in accelerate <target> atherosclerosis </target> , but evidence among human be too inadequate to be definitive about such an effect .",
+        "D009538\tChemical\tnicotine\talmost certainly , <target> nicotine </target> via its hemodynamic effect contribute to acute cardiovascular event , although current evidence suggest that the effect of nicotine be much less important than be the prothrombotic effect of cigarette smoking or the effect of carbon monoxide .",
+        "D009538\tChemical\tnicotine\talmost certainly , nicotine via its hemodynamic effect contribute to acute cardiovascular event , although current evidence suggest that the effect of <target> nicotine </target> be much less important than be the prothrombotic effect of cigarette smoking or the effect of carbon monoxide .",
+        "D002248\tChemical\tcarbon monoxide\talmost certainly , nicotine via its hemodynamic effect contribute to acute cardiovascular event , although current evidence suggest that the effect of nicotine be much less important than be the prothrombotic effect of cigarette smoking or the effect of <target> carbon monoxide </target> .",
+        "D009538\tChemical\tNicotine\t<target> Nicotine </target> do not appear to enhance thrombosis among human .",
+        "D013927\tDisease\tthrombosis\tNicotine do not appear to enhance <target> thrombosis </target> among human .",
+        "D009538\tChemical\tnicotine\tclinical study of pipe smoker and people use transdermal <target> nicotine </target> support the idea that toxin other than nicotine be the most important cause of acute cardiovascular event .",
+        "D009538\tChemical\tnicotine\tclinical study of pipe smoker and people use transdermal nicotine support the idea that toxin other than <target> nicotine </target> be the most important cause of acute cardiovascular event .",
+        "D009538\tChemical\tnicotine\tfinally , the dose response for cardiovascular event of <target> nicotine </target> appear to be flat , suggest that if nicotine be involve , adverse effect might be see with relatively low-level cigarette exposure .",
+        "D009538\tChemical\tnicotine\tfinally , the dose response for cardiovascular event of nicotine appear to be flat , suggest that if <target> nicotine </target> be involve , adverse effect might be see with relatively low-level cigarette exposure ."
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "title": "The epidemiology of the acute flank pain syndrome from suprofen.",
+    "abst": "Suprofen, a new nonsteroidal anti-inflammatory drug, was marketed in early 1986 as an analgesic agent. Until physicians began reporting an unusual acute flank pain syndrome to the spontaneous reporting system, 700,000 persons used the drug in the United States. Through August 1986, a total of 163 cases of this syndrome were reported. To elucidate the epidemiology of the syndrome, a case-control study was performed, comparing 62 of the case patients who had been reported to the spontaneous reporting system to 185 suprofen-exposed control subjects who did not have the syndrome. Case patients were more likely to be men (odds ratio, 3.8; 95% confidence interval, 1.2-12.1), suffer from hay fever and asthma (odds ratio, 3.4; 95% confidence interval, 1.0-11.9); to participate in regular exercise (odds ratio, 5.9; 95% confidence interval, 1.1-30.7), especially in the use of Nautilus equipment (p = 0.02); and to use alcohol (odds ratio, 4.4; 95% confidence interval, 1.1-17.5). Possible risk factors included young age, concurrent use of other analgesic agents (especially ibuprofen), preexisting renal disease, a history of kidney stones, a history of gout, a recent increase in activity, a recent increase in sun exposure, and residence in the Sunbelt. These were findings that were suggestive but did not reach conventional statistical significance. These findings are consistent with the postulated mechanism for this unusual syndrome: acute diffuse crystallization of uric acid in renal tubules.",
+    "title_plus_abst": "The epidemiology of the acute flank pain syndrome from suprofen. Suprofen, a new nonsteroidal anti-inflammatory drug, was marketed in early 1986 as an analgesic agent. Until physicians began reporting an unusual acute flank pain syndrome to the spontaneous reporting system, 700,000 persons used the drug in the United States. Through August 1986, a total of 163 cases of this syndrome were reported. To elucidate the epidemiology of the syndrome, a case-control study was performed, comparing 62 of the case patients who had been reported to the spontaneous reporting system to 185 suprofen-exposed control subjects who did not have the syndrome. Case patients were more likely to be men (odds ratio, 3.8; 95% confidence interval, 1.2-12.1), suffer from hay fever and asthma (odds ratio, 3.4; 95% confidence interval, 1.0-11.9); to participate in regular exercise (odds ratio, 5.9; 95% confidence interval, 1.1-30.7), especially in the use of Nautilus equipment (p = 0.02); and to use alcohol (odds ratio, 4.4; 95% confidence interval, 1.1-17.5). Possible risk factors included young age, concurrent use of other analgesic agents (especially ibuprofen), preexisting renal disease, a history of kidney stones, a history of gout, a recent increase in activity, a recent increase in sun exposure, and residence in the Sunbelt. These were findings that were suggestive but did not reach conventional statistical significance. These findings are consistent with the postulated mechanism for this unusual syndrome: acute diffuse crystallization of uric acid in renal tubules.",
+    "pubmed_id": "2598570",
+    "entities": [
+        [
+            30,
+            40,
+            "flank pain",
+            "Disease",
+            "D021501"
+        ],
+        [
+            55,
+            63,
+            "suprofen",
+            "Chemical",
+            "D013496"
+        ],
+        [
+            65,
+            73,
+            "Suprofen",
+            "Chemical",
+            "D013496"
+        ],
+        [
+            218,
+            228,
+            "flank pain",
+            "Disease",
+            "D021501"
+        ],
+        [
+            583,
+            591,
+            "suprofen",
+            "Chemical",
+            "D013496"
+        ],
+        [
+            755,
+            764,
+            "hay fever",
+            "Disease",
+            "D006255"
+        ],
+        [
+            769,
+            775,
+            "asthma",
+            "Disease",
+            "D001249"
+        ],
+        [
+            986,
+            993,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            1143,
+            1152,
+            "ibuprofen",
+            "Chemical",
+            "D007052"
+        ],
+        [
+            1167,
+            1180,
+            "renal disease",
+            "Disease",
+            "D007674"
+        ],
+        [
+            1195,
+            1208,
+            "kidney stones",
+            "Disease",
+            "D007669"
+        ],
+        [
+            1223,
+            1227,
+            "gout",
+            "Disease",
+            "D006073"
+        ],
+        [
+            1543,
+            1552,
+            "uric acid",
+            "Chemical",
+            "D014527"
+        ]
+    ],
+    "split_sentence": [
+        "The epidemiology of the acute flank pain syndrome from suprofen.",
+        "Suprofen, a new nonsteroidal anti-inflammatory drug, was marketed in early 1986 as an analgesic agent.",
+        "Until physicians began reporting an unusual acute flank pain syndrome to the spontaneous reporting system, 700,000 persons used the drug in the United States.",
+        "Through August 1986, a total of 163 cases of this syndrome were reported.",
+        "To elucidate the epidemiology of the syndrome, a case-control study was performed, comparing 62 of the case patients who had been reported to the spontaneous reporting system to 185 suprofen-exposed control subjects who did not have the syndrome.",
+        "Case patients were more likely to be men (odds ratio, 3.8; 95% confidence interval, 1.2-12.1), suffer from hay fever and asthma (odds ratio, 3.4; 95% confidence interval, 1.0-11.9); to participate in regular exercise (odds ratio, 5.9; 95% confidence interval, 1.1-30.7), especially in the use of Nautilus equipment (p = 0.02); and to use alcohol (odds ratio, 4.4; 95% confidence interval, 1.1-17.5).",
+        "Possible risk factors included young age, concurrent use of other analgesic agents (especially ibuprofen), preexisting renal disease, a history of kidney stones, a history of gout, a recent increase in activity, a recent increase in sun exposure, and residence in the Sunbelt.",
+        "These were findings that were suggestive but did not reach conventional statistical significance.",
+        "These findings are consistent with the postulated mechanism for this unusual syndrome: acute diffuse crystallization of uric acid in renal tubules."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D021501\tDisease\tflank pain\tThe epidemiology of the acute <target> flank pain </target> syndrome from suprofen .",
+        "D013496\tChemical\tsuprofen\tThe epidemiology of the acute flank pain syndrome from <target> suprofen </target> .",
+        "D013496\tChemical\tSuprofen\t<target> Suprofen </target> , a new nonsteroidal anti-inflammatory drug , was marketed in early 1986 as an analgesic agent .",
+        "D021501\tDisease\tflank pain\tUntil physicians began reporting an unusual acute <target> flank pain </target> syndrome to the spontaneous reporting system , 700,000 persons used the drug in the United States .",
+        "D013496\tChemical\tsuprofen\tTo elucidate the epidemiology of the syndrome , a case-control study was performed , comparing 62 of the case patients who had been reported to the spontaneous reporting system to 185 <target> suprofen </target> -exposed control subjects who did not have the syndrome .",
+        "D006255\tDisease\thay fever\tCase patients were more likely to be men ( odds ratio , 3.8 ; 95 % confidence interval , 1.2 - 12.1 ) , suffer from <target> hay fever </target> and asthma ( odds ratio , 3.4 ; 95 % confidence interval , 1.0 - 11.9 ) ; to participate in regular exercise ( odds ratio , 5.9 ; 95 % confidence interval , 1.1 - 30.7 ) , especially in the use of Nautilus equipment ( p = 0.02 ) ; and to use alcohol ( odds ratio , 4.4 ; 95 % confidence interval , 1.1 - 17.5 ) .",
+        "D001249\tDisease\tasthma\tCase patients were more likely to be men ( odds ratio , 3.8 ; 95 % confidence interval , 1.2 - 12.1 ) , suffer from hay fever and <target> asthma </target> ( odds ratio , 3.4 ; 95 % confidence interval , 1.0 - 11.9 ) ; to participate in regular exercise ( odds ratio , 5.9 ; 95 % confidence interval , 1.1 - 30.7 ) , especially in the use of Nautilus equipment ( p = 0.02 ) ; and to use alcohol ( odds ratio , 4.4 ; 95 % confidence interval , 1.1 - 17.5 ) .",
+        "D000431\tChemical\talcohol\tCase patients were more likely to be men ( odds ratio , 3.8 ; 95 % confidence interval , 1.2 - 12.1 ) , suffer from hay fever and asthma ( odds ratio , 3.4 ; 95 % confidence interval , 1.0 - 11.9 ) ; to participate in regular exercise ( odds ratio , 5.9 ; 95 % confidence interval , 1.1 - 30.7 ) , especially in the use of Nautilus equipment ( p = 0.02 ) ; and to use <target> alcohol </target> ( odds ratio , 4.4 ; 95 % confidence interval , 1.1 - 17.5 ) .",
+        "D007052\tChemical\tibuprofen\tPossible risk factors included young age , concurrent use of other analgesic agents ( especially <target> ibuprofen </target> ) , preexisting renal disease , a history of kidney stones , a history of gout , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D007674\tDisease\trenal disease\tPossible risk factors included young age , concurrent use of other analgesic agents ( especially ibuprofen ) , preexisting <target> renal disease </target> , a history of kidney stones , a history of gout , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D007669\tDisease\tkidney stones\tPossible risk factors included young age , concurrent use of other analgesic agents ( especially ibuprofen ) , preexisting renal disease , a history of <target> kidney stones </target> , a history of gout , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D006073\tDisease\tgout\tPossible risk factors included young age , concurrent use of other analgesic agents ( especially ibuprofen ) , preexisting renal disease , a history of kidney stones , a history of <target> gout </target> , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D014527\tChemical\turic acid\tThese findings are consistent with the postulated mechanism for this unusual syndrome : acute diffuse crystallization of <target> uric acid </target> in renal tubules ."
+    ],
+    "lines_lemma": [
+        "D021501\tDisease\tflank pain\tthe epidemiology of the acute <target> flank pain </target> syndrome from suprofen .",
+        "D013496\tChemical\tsuprofen\tthe epidemiology of the acute flank pain syndrome from <target> suprofen </target> .",
+        "D013496\tChemical\tSuprofen\t<target> Suprofen </target> , a new nonsteroidal anti-inflammatory drug , be market in early 1986 as an analgesic agent .",
+        "D021501\tDisease\tflank pain\tuntil physician begin report an unusual acute <target> flank pain </target> syndrome to the spontaneous reporting system , 700,000 person use the drug in the United States .",
+        "D013496\tChemical\tsuprofen\tto elucidate the epidemiology of the syndrome , a case-control study be perform , compare 62 of the case patient who have be report to the spontaneous reporting system to 185 <target> suprofen </target> -exposed control subject who do not have the syndrome .",
+        "D006255\tDisease\thay fever\tcase patient be more likely to be man ( odd ratio , 3.8 ; 95 % confidence interval , 1.2 - 12.1 ) , suffer from <target> hay fever </target> and asthma ( odd ratio , 3.4 ; 95 % confidence interval , 1.0 - 11.9 ) ; to participate in regular exercise ( odd ratio , 5.9 ; 95 % confidence interval , 1.1 - 30.7 ) , especially in the use of nautilus equipment ( p = 0.02 ) ; and to use alcohol ( odd ratio , 4.4 ; 95 % confidence interval , 1.1 - 17.5 ) .",
+        "D001249\tDisease\tasthma\tcase patient be more likely to be man ( odd ratio , 3.8 ; 95 % confidence interval , 1.2 - 12.1 ) , suffer from hay fever and <target> asthma </target> ( odd ratio , 3.4 ; 95 % confidence interval , 1.0 - 11.9 ) ; to participate in regular exercise ( odd ratio , 5.9 ; 95 % confidence interval , 1.1 - 30.7 ) , especially in the use of nautilus equipment ( p = 0.02 ) ; and to use alcohol ( odd ratio , 4.4 ; 95 % confidence interval , 1.1 - 17.5 ) .",
+        "D000431\tChemical\talcohol\tcase patient be more likely to be man ( odd ratio , 3.8 ; 95 % confidence interval , 1.2 - 12.1 ) , suffer from hay fever and asthma ( odd ratio , 3.4 ; 95 % confidence interval , 1.0 - 11.9 ) ; to participate in regular exercise ( odd ratio , 5.9 ; 95 % confidence interval , 1.1 - 30.7 ) , especially in the use of nautilus equipment ( p = 0.02 ) ; and to use <target> alcohol </target> ( odd ratio , 4.4 ; 95 % confidence interval , 1.1 - 17.5 ) .",
+        "D007052\tChemical\tibuprofen\tpossible risk factor include young age , concurrent use of other analgesic agent ( especially <target> ibuprofen </target> ) , preexist renal disease , a history of kidney stone , a history of gout , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D007674\tDisease\trenal disease\tpossible risk factor include young age , concurrent use of other analgesic agent ( especially ibuprofen ) , preexist <target> renal disease </target> , a history of kidney stone , a history of gout , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D007669\tDisease\tkidney stones\tpossible risk factor include young age , concurrent use of other analgesic agent ( especially ibuprofen ) , preexist renal disease , a history of <target> kidney stone </target> , a history of gout , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D006073\tDisease\tgout\tpossible risk factor include young age , concurrent use of other analgesic agent ( especially ibuprofen ) , preexist renal disease , a history of kidney stone , a history of <target> gout </target> , a recent increase in activity , a recent increase in sun exposure , and residence in the Sunbelt .",
+        "D014527\tChemical\turic acid\tthese finding be consistent with the postulate mechanism for this unusual syndrome : acute diffuse crystallization of <target> uric acid </target> in renal tubule ."
+    ]
+}

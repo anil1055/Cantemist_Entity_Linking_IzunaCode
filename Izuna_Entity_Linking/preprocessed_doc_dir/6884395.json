@@ -1,0 +1,62 @@
+{
+    "title": "Nontraumatic dissecting aneurysm of the basilar artery.",
+    "abst": "A case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension, smoke, and oral contraceptives is reported in a young female patient with a locked-in syndrome.",
+    "title_plus_abst": "Nontraumatic dissecting aneurysm of the basilar artery. A case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension, smoke, and oral contraceptives is reported in a young female patient with a locked-in syndrome.",
+    "pubmed_id": "6884395",
+    "entities": [
+        [
+            13,
+            32,
+            "dissecting aneurysm",
+            "Disease",
+            "D000784"
+        ],
+        [
+            79,
+            98,
+            "dissecting aneurysm",
+            "Disease",
+            "D000784"
+        ],
+        [
+            141,
+            153,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            166,
+            185,
+            "oral contraceptives",
+            "Chemical",
+            "D003276"
+        ],
+        [
+            231,
+            249,
+            "locked-in syndrome",
+            "Disease",
+            "D011782"
+        ]
+    ],
+    "split_sentence": [
+        "Nontraumatic dissecting aneurysm of the basilar artery.",
+        "A case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension, smoke, and oral contraceptives is reported in a young female patient with a locked-in syndrome."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000784\tDisease\tdissecting aneurysm\tNontraumatic <target> dissecting aneurysm </target> of the basilar artery .",
+        "D000784\tDisease\tdissecting aneurysm\tA case of nontraumatic <target> dissecting aneurysm </target> of the basilar artery in association with hypertension , smoke , and oral contraceptives is reported in a young female patient with a locked-in syndrome .",
+        "D006973\tDisease\thypertension\tA case of nontraumatic dissecting aneurysm of the basilar artery in association with <target> hypertension </target> , smoke , and oral contraceptives is reported in a young female patient with a locked-in syndrome .",
+        "D003276\tChemical\toral contraceptives\tA case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension , smoke , and <target> oral contraceptives </target> is reported in a young female patient with a locked-in syndrome .",
+        "D011782\tDisease\tlocked-in syndrome\tA case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension , smoke , and oral contraceptives is reported in a young female patient with a <target> locked-in syndrome </target> ."
+    ],
+    "lines_lemma": [
+        "D000784\tDisease\tdissecting aneurysm\tNontraumatic <target> dissecting aneurysm </target> of the basilar artery .",
+        "D000784\tDisease\tdissecting aneurysm\ta case of nontraumatic <target> dissecting aneurysm </target> of the basilar artery in association with hypertension , smoke , and oral contraceptive be report in a young female patient with a locked-in syndrome .",
+        "D006973\tDisease\thypertension\ta case of nontraumatic dissecting aneurysm of the basilar artery in association with <target> hypertension </target> , smoke , and oral contraceptive be report in a young female patient with a locked-in syndrome .",
+        "D003276\tChemical\toral contraceptives\ta case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension , smoke , and <target> oral contraceptive </target> be report in a young female patient with a locked-in syndrome .",
+        "D011782\tDisease\tlocked-in syndrome\ta case of nontraumatic dissecting aneurysm of the basilar artery in association with hypertension , smoke , and oral contraceptive be report in a young female patient with a <target> locked-in syndrome </target> ."
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Effects of training on the extent of experimental myocardial infarction in aging rats.",
+    "abst": "The effects of exercise on the severity of isoproterenol-induced myocardial infarction were studied in female albino rats of 20,40,60 and 80 weeks of age. The rats were trained to swim for a specific duration and for a particular period. The occurrence of infarcts were confirmed by histological methods. Elevations in the serum GOT and GPT were maximum in the sedentary-isoproterenols and minimum in the exercise-controls. These changes in the serum transaminases were associated with corresponding depletions in the cardiac GOT and GPT. However, age was seen to interfere with the responses exhibited by the young and old rats. Studies dealing with myocardial infarction are more informative when dealt with age.",
+    "title_plus_abst": "Effects of training on the extent of experimental myocardial infarction in aging rats. The effects of exercise on the severity of isoproterenol-induced myocardial infarction were studied in female albino rats of 20,40,60 and 80 weeks of age. The rats were trained to swim for a specific duration and for a particular period. The occurrence of infarcts were confirmed by histological methods. Elevations in the serum GOT and GPT were maximum in the sedentary-isoproterenols and minimum in the exercise-controls. These changes in the serum transaminases were associated with corresponding depletions in the cardiac GOT and GPT. However, age was seen to interfere with the responses exhibited by the young and old rats. Studies dealing with myocardial infarction are more informative when dealt with age.",
+    "pubmed_id": "6534871",
+    "entities": [
+        [
+            50,
+            71,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            130,
+            143,
+            "isoproterenol",
+            "Chemical",
+            "D007545"
+        ],
+        [
+            152,
+            173,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            343,
+            351,
+            "infarcts",
+            "Disease",
+            "D007238"
+        ],
+        [
+            458,
+            472,
+            "isoproterenols",
+            "Chemical",
+            "D007545"
+        ],
+        [
+            738,
+            759,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ]
+    ],
+    "split_sentence": [
+        "Effects of training on the extent of experimental myocardial infarction in aging rats.",
+        "The effects of exercise on the severity of isoproterenol-induced myocardial infarction were studied in female albino rats of 20,40,60 and 80 weeks of age.",
+        "The rats were trained to swim for a specific duration and for a particular period.",
+        "The occurrence of infarcts were confirmed by histological methods.",
+        "Elevations in the serum GOT and GPT were maximum in the sedentary-isoproterenols and minimum in the exercise-controls.",
+        "These changes in the serum transaminases were associated with corresponding depletions in the cardiac GOT and GPT.",
+        "However, age was seen to interfere with the responses exhibited by the young and old rats.",
+        "Studies dealing with myocardial infarction are more informative when dealt with age."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009203\tDisease\tmyocardial infarction\tEffects of training on the extent of experimental <target> myocardial infarction </target> in aging rats .",
+        "D007545\tChemical\tisoproterenol\tThe effects of exercise on the severity of <target> isoproterenol </target> -induced myocardial infarction were studied in female albino rats of 20,40,60 and 80 weeks of age .",
+        "D009203\tDisease\tmyocardial infarction\tThe effects of exercise on the severity of isoproterenol-induced <target> myocardial infarction </target> were studied in female albino rats of 20,40,60 and 80 weeks of age .",
+        "D007238\tDisease\tinfarcts\tThe occurrence of <target> infarcts </target> were confirmed by histological methods .",
+        "D007545\tChemical\tisoproterenols\tElevations in the serum GOT and GPT were maximum in the sedentary- <target> isoproterenols </target> and minimum in the exercise-controls .",
+        "D009203\tDisease\tmyocardial infarction\tStudies dealing with <target> myocardial infarction </target> are more informative when dealt with age ."
+    ],
+    "lines_lemma": [
+        "D009203\tDisease\tmyocardial infarction\teffect of training on the extent of experimental <target> myocardial infarction </target> in aging rat .",
+        "D007545\tChemical\tisoproterenol\tthe effect of exercise on the severity of <target> isoproterenol </target> -induced myocardial infarction be study in female albino rat of 20,40,60 and 80 week of age .",
+        "D009203\tDisease\tmyocardial infarction\tthe effect of exercise on the severity of isoproterenol-induced <target> myocardial infarction </target> be study in female albino rat of 20,40,60 and 80 week of age .",
+        "D007238\tDisease\tinfarcts\tthe occurrence of <target> infarct </target> be confirm by histological method .",
+        "D007545\tChemical\tisoproterenols\televation in the serum got and gpt be maximum in the sedentary- <target> isoproterenol </target> and minimum in the exercise-control .",
+        "D009203\tDisease\tmyocardial infarction\tstudy deal with <target> myocardial infarction </target> be more informative when deal with age ."
+    ]
+}

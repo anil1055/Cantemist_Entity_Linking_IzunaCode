@@ -1,0 +1,118 @@
+{
+    "title": "Postpartum psychosis induced by bromocriptine.",
+    "abst": "Two multigravida patients with no prior psychiatric history were seen with postpartum psychosis, having received bromocriptine for inhibition of lactation. Bromocriptine given in high doses has been associated with psychosis in patients receiving the drug for Parkinson's disease. These cases demonstrate that bromocriptine may cause psychosis even when given in low doses.",
+    "title_plus_abst": "Postpartum psychosis induced by bromocriptine. Two multigravida patients with no prior psychiatric history were seen with postpartum psychosis, having received bromocriptine for inhibition of lactation. Bromocriptine given in high doses has been associated with psychosis in patients receiving the drug for Parkinson's disease. These cases demonstrate that bromocriptine may cause psychosis even when given in low doses.",
+    "pubmed_id": "3686155",
+    "entities": [
+        [
+            11,
+            20,
+            "psychosis",
+            "Disease",
+            "D011605"
+        ],
+        [
+            32,
+            45,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            87,
+            98,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ],
+        [
+            133,
+            142,
+            "psychosis",
+            "Disease",
+            "D011605"
+        ],
+        [
+            160,
+            173,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            178,
+            201,
+            "inhibition of lactation",
+            "Disease",
+            "D007775"
+        ],
+        [
+            203,
+            216,
+            "Bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            262,
+            271,
+            "psychosis",
+            "Disease",
+            "D011605"
+        ],
+        [
+            307,
+            326,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            357,
+            370,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            381,
+            390,
+            "psychosis",
+            "Disease",
+            "D011605"
+        ]
+    ],
+    "split_sentence": [
+        "Postpartum psychosis induced by bromocriptine.",
+        "Two multigravida patients with no prior psychiatric history were seen with postpartum psychosis, having received bromocriptine for inhibition of lactation.",
+        "Bromocriptine given in high doses has been associated with psychosis in patients receiving the drug for Parkinson's disease.",
+        "These cases demonstrate that bromocriptine may cause psychosis even when given in low doses."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011605\tDisease\tpsychosis\tPostpartum <target> psychosis </target> induced by bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tPostpartum psychosis induced by <target> bromocriptine </target> .",
+        "D001523\tDisease\tpsychiatric\tTwo multigravida patients with no prior <target> psychiatric </target> history were seen with postpartum psychosis , having received bromocriptine for inhibition of lactation .",
+        "D011605\tDisease\tpsychosis\tTwo multigravida patients with no prior psychiatric history were seen with postpartum <target> psychosis </target> , having received bromocriptine for inhibition of lactation .",
+        "D001971\tChemical\tbromocriptine\tTwo multigravida patients with no prior psychiatric history were seen with postpartum psychosis , having received <target> bromocriptine </target> for inhibition of lactation .",
+        "D007775\tDisease\tinhibition of lactation\tTwo multigravida patients with no prior psychiatric history were seen with postpartum psychosis , having received bromocriptine for <target> inhibition of lactation </target> .",
+        "D001971\tChemical\tBromocriptine\t<target> Bromocriptine </target> given in high doses has been associated with psychosis in patients receiving the drug for Parkinson 's disease .",
+        "D011605\tDisease\tpsychosis\tBromocriptine given in high doses has been associated with <target> psychosis </target> in patients receiving the drug for Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tBromocriptine given in high doses has been associated with psychosis in patients receiving the drug for <target> Parkinson 's disease </target> .",
+        "D001971\tChemical\tbromocriptine\tThese cases demonstrate that <target> bromocriptine </target> may cause psychosis even when given in low doses .",
+        "D011605\tDisease\tpsychosis\tThese cases demonstrate that bromocriptine may cause <target> psychosis </target> even when given in low doses ."
+    ],
+    "lines_lemma": [
+        "D011605\tDisease\tpsychosis\tpostpartum <target> psychosis </target> induce by bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tpostpartum psychosis induce by <target> bromocriptine </target> .",
+        "D001523\tDisease\tpsychiatric\ttwo multigravida patient with no prior <target> psychiatric </target> history be see with postpartum psychosis , have receive bromocriptine for inhibition of lactation .",
+        "D011605\tDisease\tpsychosis\ttwo multigravida patient with no prior psychiatric history be see with postpartum <target> psychosis </target> , have receive bromocriptine for inhibition of lactation .",
+        "D001971\tChemical\tbromocriptine\ttwo multigravida patient with no prior psychiatric history be see with postpartum psychosis , have receive <target> bromocriptine </target> for inhibition of lactation .",
+        "D007775\tDisease\tinhibition of lactation\ttwo multigravida patient with no prior psychiatric history be see with postpartum psychosis , have receive bromocriptine for <target> inhibition of lactation </target> .",
+        "D001971\tChemical\tBromocriptine\t<target> Bromocriptine </target> give in high dose have be associate with psychosis in patient receive the drug for Parkinson 's disease .",
+        "D011605\tDisease\tpsychosis\tBromocriptine give in high dose have be associate with <target> psychosis </target> in patient receive the drug for Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tBromocriptine give in high dose have be associate with psychosis in patient receive the drug for <target> Parkinson 's disease </target> .",
+        "D001971\tChemical\tbromocriptine\tthese case demonstrate that <target> bromocriptine </target> may cause psychosis even when give in low dose .",
+        "D011605\tDisease\tpsychosis\tthese case demonstrate that bromocriptine may cause <target> psychosis </target> even when give in low dose ."
+    ]
+}

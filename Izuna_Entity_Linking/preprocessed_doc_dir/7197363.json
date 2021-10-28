@@ -1,0 +1,145 @@
+{
+    "title": "REM sleep deprivation changes behavioral response to catecholaminergic and serotonergic receptor activation in rats.",
+    "abst": "The effects of REM sleep deprivation (REMD) on apomorphine-induced aggressiveness and quipazine-induced head twitches in rats were determined. Forty-eight hr of REMD increased apomorphine-induced aggressiveness, and reduced (immediately after completing of REMD) or increased (96 hr after completing of REMD) quipazine-induced head twitches. Results are discussed in terms of similarity to pharmacological effects of other antidepressive treatments.",
+    "title_plus_abst": "REM sleep deprivation changes behavioral response to catecholaminergic and serotonergic receptor activation in rats. The effects of REM sleep deprivation (REMD) on apomorphine-induced aggressiveness and quipazine-induced head twitches in rats were determined. Forty-eight hr of REMD increased apomorphine-induced aggressiveness, and reduced (immediately after completing of REMD) or increased (96 hr after completing of REMD) quipazine-induced head twitches. Results are discussed in terms of similarity to pharmacological effects of other antidepressive treatments.",
+    "pubmed_id": "7197363",
+    "entities": [
+        [
+            0,
+            21,
+            "REM sleep deprivation",
+            "Disease",
+            "D012892"
+        ],
+        [
+            132,
+            153,
+            "REM sleep deprivation",
+            "Disease",
+            "D012892"
+        ],
+        [
+            155,
+            159,
+            "REMD",
+            "Disease",
+            "D012892"
+        ],
+        [
+            164,
+            175,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            184,
+            198,
+            "aggressiveness",
+            "Disease",
+            "D001523"
+        ],
+        [
+            203,
+            212,
+            "quipazine",
+            "Chemical",
+            "D011814"
+        ],
+        [
+            221,
+            234,
+            "head twitches",
+            "Disease",
+            "D009069"
+        ],
+        [
+            278,
+            282,
+            "REMD",
+            "Disease",
+            "D012892"
+        ],
+        [
+            293,
+            304,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            313,
+            327,
+            "aggressiveness",
+            "Disease",
+            "D001523"
+        ],
+        [
+            374,
+            378,
+            "REMD",
+            "Disease",
+            "D012892"
+        ],
+        [
+            420,
+            424,
+            "REMD",
+            "Disease",
+            "D012892"
+        ],
+        [
+            426,
+            435,
+            "quipazine",
+            "Chemical",
+            "D011814"
+        ],
+        [
+            444,
+            457,
+            "head twitches",
+            "Disease",
+            "D009069"
+        ]
+    ],
+    "split_sentence": [
+        "REM sleep deprivation changes behavioral response to catecholaminergic and serotonergic receptor activation in rats.",
+        "The effects of REM sleep deprivation (REMD) on apomorphine-induced aggressiveness and quipazine-induced head twitches in rats were determined.",
+        "Forty-eight hr of REMD increased apomorphine-induced aggressiveness, and reduced (immediately after completing of REMD) or increased (96 hr after completing of REMD) quipazine-induced head twitches.",
+        "Results are discussed in terms of similarity to pharmacological effects of other antidepressive treatments."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012892\tDisease\tREM sleep deprivation\t<target> REM sleep deprivation </target> changes behavioral response to catecholaminergic and serotonergic receptor activation in rats .",
+        "D012892\tDisease\tREM sleep deprivation\tThe effects of <target> REM sleep deprivation </target> ( REMD ) on apomorphine-induced aggressiveness and quipazine-induced head twitches in rats were determined .",
+        "D012892\tDisease\tREMD\tThe effects of REM sleep deprivation ( <target> REMD </target> ) on apomorphine-induced aggressiveness and quipazine-induced head twitches in rats were determined .",
+        "D001058\tChemical\tapomorphine\tThe effects of REM sleep deprivation ( REMD ) on <target> apomorphine </target> -induced aggressiveness and quipazine-induced head twitches in rats were determined .",
+        "D001523\tDisease\taggressiveness\tThe effects of REM sleep deprivation ( REMD ) on apomorphine-induced <target> aggressiveness </target> and quipazine-induced head twitches in rats were determined .",
+        "D011814\tChemical\tquipazine\tThe effects of REM sleep deprivation ( REMD ) on apomorphine-induced aggressiveness and <target> quipazine </target> -induced head twitches in rats were determined .",
+        "D009069\tDisease\thead twitches\tThe effects of REM sleep deprivation ( REMD ) on apomorphine-induced aggressiveness and quipazine-induced <target> head twitches </target> in rats were determined .",
+        "D012892\tDisease\tREMD\tForty-eight hr of <target> REMD </target> increased apomorphine-induced aggressiveness , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of REMD ) quipazine-induced head twitches .",
+        "D001058\tChemical\tapomorphine\tForty-eight hr of REMD increased <target> apomorphine </target> -induced aggressiveness , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of REMD ) quipazine-induced head twitches .",
+        "D001523\tDisease\taggressiveness\tForty-eight hr of REMD increased apomorphine-induced <target> aggressiveness </target> , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of REMD ) quipazine-induced head twitches .",
+        "D012892\tDisease\tREMD\tForty-eight hr of REMD increased apomorphine-induced aggressiveness , and reduced ( immediately after completing of <target> REMD </target> ) or increased ( 96 hr after completing of REMD ) quipazine-induced head twitches .",
+        "D012892\tDisease\tREMD\tForty-eight hr of REMD increased apomorphine-induced aggressiveness , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of <target> REMD </target> ) quipazine-induced head twitches .",
+        "D011814\tChemical\tquipazine\tForty-eight hr of REMD increased apomorphine-induced aggressiveness , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of REMD ) <target> quipazine </target> -induced head twitches .",
+        "D009069\tDisease\thead twitches\tForty-eight hr of REMD increased apomorphine-induced aggressiveness , and reduced ( immediately after completing of REMD ) or increased ( 96 hr after completing of REMD ) quipazine-induced <target> head twitches </target> ."
+    ],
+    "lines_lemma": [
+        "D012892\tDisease\tREM sleep deprivation\t<target> rem sleep deprivation </target> change behavioral response to catecholaminergic and serotonergic receptor activation in rat .",
+        "D012892\tDisease\tREM sleep deprivation\tthe effect of <target> rem sleep deprivation </target> ( remd ) on apomorphine-induced aggressiveness and quipazine-induced head twitch in rat be determine .",
+        "D012892\tDisease\tREMD\tthe effect of rem sleep deprivation ( <target> remd </target> ) on apomorphine-induced aggressiveness and quipazine-induced head twitch in rat be determine .",
+        "D001058\tChemical\tapomorphine\tthe effect of rem sleep deprivation ( remd ) on <target> apomorphine </target> -induced aggressiveness and quipazine-induced head twitch in rat be determine .",
+        "D001523\tDisease\taggressiveness\tthe effect of rem sleep deprivation ( remd ) on apomorphine-induced <target> aggressiveness </target> and quipazine-induced head twitch in rat be determine .",
+        "D011814\tChemical\tquipazine\tthe effect of rem sleep deprivation ( remd ) on apomorphine-induced aggressiveness and <target> quipazine </target> -induced head twitch in rat be determine .",
+        "D009069\tDisease\thead twitches\tthe effect of rem sleep deprivation ( remd ) on apomorphine-induced aggressiveness and quipazine-induced <target> head twitch </target> in rat be determine .",
+        "D012892\tDisease\tREMD\tforty-eight hr of <target> remd </target> increase apomorphine-induced aggressiveness , and reduce ( immediately after completing of remd ) or increase ( 96 hr after completing of remd ) quipazine-induced head twitch .",
+        "D001058\tChemical\tapomorphine\tforty-eight hr of remd increase <target> apomorphine </target> -induced aggressiveness , and reduce ( immediately after completing of remd ) or increase ( 96 hr after completing of remd ) quipazine-induced head twitch .",
+        "D001523\tDisease\taggressiveness\tforty-eight hr of remd increase apomorphine-induced <target> aggressiveness </target> , and reduce ( immediately after completing of remd ) or increase ( 96 hr after completing of remd ) quipazine-induced head twitch .",
+        "D012892\tDisease\tREMD\tforty-eight hr of remd increase apomorphine-induced aggressiveness , and reduce ( immediately after completing of <target> remd </target> ) or increase ( 96 hr after completing of remd ) quipazine-induced head twitch .",
+        "D012892\tDisease\tREMD\tforty-eight hr of remd increase apomorphine-induced aggressiveness , and reduce ( immediately after completing of remd ) or increase ( 96 hr after completing of <target> remd </target> ) quipazine-induced head twitch .",
+        "D011814\tChemical\tquipazine\tforty-eight hr of remd increase apomorphine-induced aggressiveness , and reduce ( immediately after completing of remd ) or increase ( 96 hr after completing of remd ) <target> quipazine </target> -induced head twitch .",
+        "D009069\tDisease\thead twitches\tforty-eight hr of remd increase apomorphine-induced aggressiveness , and reduce ( immediately after completing of remd ) or increase ( 96 hr after completing of remd ) quipazine-induced <target> head twitch </target> ."
+    ]
+}

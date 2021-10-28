@@ -1,0 +1,145 @@
+{
+    "title": "Multiple side effects of penicillamine therapy in one patient with rheumatoid arthritis.",
+    "abst": "Skin rashes, proteinuria, systemic lupus erythematosus, polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis. A patient who had developed all 5 is now described. The skin lesion resembled elastosis perforans serpiginosa, which has been reported as a rare side effect in patients with Wilson's disease but not in patients with rheumatoid arthritis treated with penicillamine.",
+    "title_plus_abst": "Multiple side effects of penicillamine therapy in one patient with rheumatoid arthritis. Skin rashes, proteinuria, systemic lupus erythematosus, polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis. A patient who had developed all 5 is now described. The skin lesion resembled elastosis perforans serpiginosa, which has been reported as a rare side effect in patients with Wilson's disease but not in patients with rheumatoid arthritis treated with penicillamine.",
+    "pubmed_id": "6216862",
+    "entities": [
+        [
+            25,
+            38,
+            "penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            67,
+            87,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            89,
+            100,
+            "Skin rashes",
+            "Disease",
+            "D005076"
+        ],
+        [
+            102,
+            113,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            115,
+            143,
+            "systemic lupus erythematosus",
+            "Disease",
+            "D008180"
+        ],
+        [
+            145,
+            157,
+            "polymyositis",
+            "Disease",
+            "D017285"
+        ],
+        [
+            162,
+            179,
+            "myasthenia gravis",
+            "Disease",
+            "D009157"
+        ],
+        [
+            223,
+            236,
+            "penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            262,
+            282,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            340,
+            351,
+            "skin lesion",
+            "Disease",
+            "D012871"
+        ],
+        [
+            362,
+            393,
+            "elastosis perforans serpiginosa",
+            "Disease",
+            "C536202"
+        ],
+        [
+            458,
+            474,
+            "Wilson's disease",
+            "Disease",
+            "D006527"
+        ],
+        [
+            500,
+            520,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            534,
+            547,
+            "penicillamine",
+            "Chemical",
+            "D010396"
+        ]
+    ],
+    "split_sentence": [
+        "Multiple side effects of penicillamine therapy in one patient with rheumatoid arthritis.",
+        "Skin rashes, proteinuria, systemic lupus erythematosus, polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis.",
+        "A patient who had developed all 5 is now described.",
+        "The skin lesion resembled elastosis perforans serpiginosa, which has been reported as a rare side effect in patients with Wilson's disease but not in patients with rheumatoid arthritis treated with penicillamine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010396\tChemical\tpenicillamine\tMultiple side effects of <target> penicillamine </target> therapy in one patient with rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tMultiple side effects of penicillamine therapy in one patient with <target> rheumatoid arthritis </target> .",
+        "D005076\tDisease\tSkin rashes\t<target> Skin rashes </target> , proteinuria , systemic lupus erythematosus , polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis .",
+        "D011507\tDisease\tproteinuria\tSkin rashes , <target> proteinuria </target> , systemic lupus erythematosus , polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis .",
+        "D008180\tDisease\tsystemic lupus erythematosus\tSkin rashes , proteinuria , <target> systemic lupus erythematosus </target> , polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis .",
+        "D017285\tDisease\tpolymyositis\tSkin rashes , proteinuria , systemic lupus erythematosus , <target> polymyositis </target> and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis .",
+        "D009157\tDisease\tmyasthenia gravis\tSkin rashes , proteinuria , systemic lupus erythematosus , polymyositis and <target> myasthenia gravis </target> have all been recorded as complications of penicillamine therapy in patients with rheumatoid arthritis .",
+        "D010396\tChemical\tpenicillamine\tSkin rashes , proteinuria , systemic lupus erythematosus , polymyositis and myasthenia gravis have all been recorded as complications of <target> penicillamine </target> therapy in patients with rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tSkin rashes , proteinuria , systemic lupus erythematosus , polymyositis and myasthenia gravis have all been recorded as complications of penicillamine therapy in patients with <target> rheumatoid arthritis </target> .",
+        "D012871\tDisease\tskin lesion\tThe <target> skin lesion </target> resembled elastosis perforans serpiginosa , which has been reported as a rare side effect in patients with Wilson 's disease but not in patients with rheumatoid arthritis treated with penicillamine .",
+        "C536202\tDisease\telastosis perforans serpiginosa\tThe skin lesion resembled <target> elastosis perforans serpiginosa </target> , which has been reported as a rare side effect in patients with Wilson 's disease but not in patients with rheumatoid arthritis treated with penicillamine .",
+        "D006527\tDisease\tWilson's disease\tThe skin lesion resembled elastosis perforans serpiginosa , which has been reported as a rare side effect in patients with <target> Wilson 's disease </target> but not in patients with rheumatoid arthritis treated with penicillamine .",
+        "D001172\tDisease\trheumatoid arthritis\tThe skin lesion resembled elastosis perforans serpiginosa , which has been reported as a rare side effect in patients with Wilson 's disease but not in patients with <target> rheumatoid arthritis </target> treated with penicillamine .",
+        "D010396\tChemical\tpenicillamine\tThe skin lesion resembled elastosis perforans serpiginosa , which has been reported as a rare side effect in patients with Wilson 's disease but not in patients with rheumatoid arthritis treated with <target> penicillamine </target> ."
+    ],
+    "lines_lemma": [
+        "D010396\tChemical\tpenicillamine\tmultiple side effect of <target> penicillamine </target> therapy in one patient with rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tmultiple side effect of penicillamine therapy in one patient with <target> rheumatoid arthritis </target> .",
+        "D005076\tDisease\tSkin rashes\t<target> Skin rashe </target> , proteinuria , systemic lupus erythematosus , polymyositis and myasthenia gravis have all be record as complication of penicillamine therapy in patient with rheumatoid arthritis .",
+        "D011507\tDisease\tproteinuria\tskin rash , <target> proteinuria </target> , systemic lupus erythematosus , polymyositis and myasthenia gravis have all be record as complication of penicillamine therapy in patient with rheumatoid arthritis .",
+        "D008180\tDisease\tsystemic lupus erythematosus\tskin rash , proteinuria , <target> systemic lupus erythematosus </target> , polymyositis and myasthenia gravis have all be record as complication of penicillamine therapy in patient with rheumatoid arthritis .",
+        "D017285\tDisease\tpolymyositis\tskin rash , proteinuria , systemic lupus erythematosus , <target> polymyositis </target> and myasthenia gravis have all be record as complication of penicillamine therapy in patient with rheumatoid arthritis .",
+        "D009157\tDisease\tmyasthenia gravis\tskin rash , proteinuria , systemic lupus erythematosus , polymyositis and <target> myasthenia gravis </target> have all be record as complication of penicillamine therapy in patient with rheumatoid arthritis .",
+        "D010396\tChemical\tpenicillamine\tskin rash , proteinuria , systemic lupus erythematosus , polymyositis and myasthenia gravis have all be record as complication of <target> penicillamine </target> therapy in patient with rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tskin rash , proteinuria , systemic lupus erythematosus , polymyositis and myasthenia gravis have all be record as complication of penicillamine therapy in patient with <target> rheumatoid arthritis </target> .",
+        "D012871\tDisease\tskin lesion\tthe <target> skin lesion </target> resemble elastosis perforan serpiginosa , which have be report as a rare side effect in patient with wilson 's disease but not in patient with rheumatoid arthritis treat with penicillamine .",
+        "C536202\tDisease\telastosis perforans serpiginosa\tthe skin lesion resemble <target> elastosis perforan serpiginosa </target> , which have be report as a rare side effect in patient with wilson 's disease but not in patient with rheumatoid arthritis treat with penicillamine .",
+        "D006527\tDisease\tWilson's disease\tthe skin lesion resemble elastosis perforan serpiginosa , which have be report as a rare side effect in patient with <target> Wilson 's disease </target> but not in patient with rheumatoid arthritis treat with penicillamine .",
+        "D001172\tDisease\trheumatoid arthritis\tthe skin lesion resemble elastosis perforan serpiginosa , which have be report as a rare side effect in patient with wilson 's disease but not in patient with <target> rheumatoid arthritis </target> treat with penicillamine .",
+        "D010396\tChemical\tpenicillamine\tthe skin lesion resemble elastosis perforan serpiginosa , which have be report as a rare side effect in patient with wilson 's disease but not in patient with rheumatoid arthritis treat with <target> penicillamine </target> ."
+    ]
+}

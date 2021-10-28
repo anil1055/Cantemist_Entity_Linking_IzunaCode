@@ -1,0 +1,92 @@
+{
+    "title": "Transmural myocardial infarction with sumatriptan.",
+    "abst": "For sumatriptan, tightness in the chest caused by an unknown mechanism has been reported in 3-5% of users. We describe a 47-year-old woman with an acute myocardial infarction after administration of sumatriptan 6 mg subcutaneously for cluster headache. The patient had no history of underlying ischaemic heart disease or Prinzmetal's angina. She recovered without complications.",
+    "title_plus_abst": "Transmural myocardial infarction with sumatriptan. For sumatriptan, tightness in the chest caused by an unknown mechanism has been reported in 3-5% of users. We describe a 47-year-old woman with an acute myocardial infarction after administration of sumatriptan 6 mg subcutaneously for cluster headache. The patient had no history of underlying ischaemic heart disease or Prinzmetal's angina. She recovered without complications.",
+    "pubmed_id": "8096565",
+    "entities": [
+        [
+            11,
+            32,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            38,
+            49,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            55,
+            66,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            204,
+            225,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            250,
+            261,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            286,
+            302,
+            "cluster headache",
+            "Disease",
+            "D003027"
+        ],
+        [
+            345,
+            368,
+            "ischaemic heart disease",
+            "Disease",
+            "D017202"
+        ],
+        [
+            372,
+            391,
+            "Prinzmetal's angina",
+            "Disease",
+            "D000788"
+        ]
+    ],
+    "split_sentence": [
+        "Transmural myocardial infarction with sumatriptan.",
+        "For sumatriptan, tightness in the chest caused by an unknown mechanism has been reported in 3-5% of users.",
+        "We describe a 47-year-old woman with an acute myocardial infarction after administration of sumatriptan 6 mg subcutaneously for cluster headache.",
+        "The patient had no history of underlying ischaemic heart disease or Prinzmetal's angina.",
+        "She recovered without complications."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009203\tDisease\tmyocardial infarction\tTransmural <target> myocardial infarction </target> with sumatriptan .",
+        "D018170\tChemical\tsumatriptan\tTransmural myocardial infarction with <target> sumatriptan </target> .",
+        "D018170\tChemical\tsumatriptan\tFor <target> sumatriptan </target> , tightness in the chest caused by an unknown mechanism has been reported in 3 - 5 % of users .",
+        "D009203\tDisease\tmyocardial infarction\tWe describe a 47-year-old woman with an acute <target> myocardial infarction </target> after administration of sumatriptan 6 mg subcutaneously for cluster headache .",
+        "D018170\tChemical\tsumatriptan\tWe describe a 47-year-old woman with an acute myocardial infarction after administration of <target> sumatriptan </target> 6 mg subcutaneously for cluster headache .",
+        "D003027\tDisease\tcluster headache\tWe describe a 47-year-old woman with an acute myocardial infarction after administration of sumatriptan 6 mg subcutaneously for <target> cluster headache </target> .",
+        "D017202\tDisease\tischaemic heart disease\tThe patient had no history of underlying <target> ischaemic heart disease </target> or Prinzmetal 's angina .",
+        "D000788\tDisease\tPrinzmetal's angina\tThe patient had no history of underlying ischaemic heart disease or <target> Prinzmetal 's angina </target> ."
+    ],
+    "lines_lemma": [
+        "D009203\tDisease\tmyocardial infarction\tTransmural <target> myocardial infarction </target> with sumatriptan .",
+        "D018170\tChemical\tsumatriptan\ttransmural myocardial infarction with <target> sumatriptan </target> .",
+        "D018170\tChemical\tsumatriptan\tfor <target> sumatriptan </target> , tightness in the chest cause by an unknown mechanism have be report in 3 - 5 % of user .",
+        "D009203\tDisease\tmyocardial infarction\twe describe a 47-year-old woman with an acute <target> myocardial infarction </target> after administration of sumatriptan 6 mg subcutaneously for cluster headache .",
+        "D018170\tChemical\tsumatriptan\twe describe a 47-year-old woman with an acute myocardial infarction after administration of <target> sumatriptan </target> 6 mg subcutaneously for cluster headache .",
+        "D003027\tDisease\tcluster headache\twe describe a 47-year-old woman with an acute myocardial infarction after administration of sumatriptan 6 mg subcutaneously for <target> cluster headache </target> .",
+        "D017202\tDisease\tischaemic heart disease\tthe patient have no history of underlie <target> ischaemic heart disease </target> or Prinzmetal 's angina .",
+        "D000788\tDisease\tPrinzmetal's angina\tthe patient have no history of underlie ischaemic heart disease or <target> Prinzmetal 's angina </target> ."
+    ]
+}

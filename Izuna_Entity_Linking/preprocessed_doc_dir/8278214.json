@@ -1,0 +1,166 @@
+{
+    "title": "Hyperalgesia and myoclonus in terminal cancer patients treated with continuous intravenous morphine.",
+    "abst": "Eight cancer patients in the terminal stages of the disease treated with high doses of intravenous morphine developed hyperalgesia. All cases were retrospectively sampled from three different hospitals in Copenhagen. Five patients developed universal hyperalgesia and hyperesthesia which in 2 cases were accompanied by myoclonus. In 3 patients a pre-existing neuralgia increased to excruciating intensity and in 2 of these cases myoclonus occurred simultaneously. Although only few clinical descriptions of the relationship between hyperalgesia/myoclonus and high doses of morphine are available, experimental support from animal studies indicates that morphine, or its metabolites, plays a causative role for the observed behavioural syndrome. The possible mechanisms are discussed and treatment proposals given suggesting the use of more efficacious opioids with less excitatory potency in these situations.",
+    "title_plus_abst": "Hyperalgesia and myoclonus in terminal cancer patients treated with continuous intravenous morphine. Eight cancer patients in the terminal stages of the disease treated with high doses of intravenous morphine developed hyperalgesia. All cases were retrospectively sampled from three different hospitals in Copenhagen. Five patients developed universal hyperalgesia and hyperesthesia which in 2 cases were accompanied by myoclonus. In 3 patients a pre-existing neuralgia increased to excruciating intensity and in 2 of these cases myoclonus occurred simultaneously. Although only few clinical descriptions of the relationship between hyperalgesia/myoclonus and high doses of morphine are available, experimental support from animal studies indicates that morphine, or its metabolites, plays a causative role for the observed behavioural syndrome. The possible mechanisms are discussed and treatment proposals given suggesting the use of more efficacious opioids with less excitatory potency in these situations.",
+    "pubmed_id": "8278214",
+    "entities": [
+        [
+            0,
+            12,
+            "Hyperalgesia",
+            "Disease",
+            "D006930"
+        ],
+        [
+            17,
+            26,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            39,
+            45,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            91,
+            99,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            107,
+            113,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            200,
+            208,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            219,
+            231,
+            "hyperalgesia",
+            "Disease",
+            "D006930"
+        ],
+        [
+            352,
+            364,
+            "hyperalgesia",
+            "Disease",
+            "D006930"
+        ],
+        [
+            369,
+            382,
+            "hyperesthesia",
+            "Disease",
+            "D006941"
+        ],
+        [
+            420,
+            429,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            460,
+            469,
+            "neuralgia",
+            "Disease",
+            "D009437"
+        ],
+        [
+            530,
+            539,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            633,
+            645,
+            "hyperalgesia",
+            "Disease",
+            "D006930"
+        ],
+        [
+            646,
+            655,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            674,
+            682,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            754,
+            762,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ]
+    ],
+    "split_sentence": [
+        "Hyperalgesia and myoclonus in terminal cancer patients treated with continuous intravenous morphine.",
+        "Eight cancer patients in the terminal stages of the disease treated with high doses of intravenous morphine developed hyperalgesia.",
+        "All cases were retrospectively sampled from three different hospitals in Copenhagen.",
+        "Five patients developed universal hyperalgesia and hyperesthesia which in 2 cases were accompanied by myoclonus.",
+        "In 3 patients a pre-existing neuralgia increased to excruciating intensity and in 2 of these cases myoclonus occurred simultaneously.",
+        "Although only few clinical descriptions of the relationship between hyperalgesia/myoclonus and high doses of morphine are available, experimental support from animal studies indicates that morphine, or its metabolites, plays a causative role for the observed behavioural syndrome.",
+        "The possible mechanisms are discussed and treatment proposals given suggesting the use of more efficacious opioids with less excitatory potency in these situations."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006930\tDisease\tHyperalgesia\t<target> Hyperalgesia </target> and myoclonus in terminal cancer patients treated with continuous intravenous morphine .",
+        "D009207\tDisease\tmyoclonus\tHyperalgesia and <target> myoclonus </target> in terminal cancer patients treated with continuous intravenous morphine .",
+        "D009369\tDisease\tcancer\tHyperalgesia and myoclonus in terminal <target> cancer </target> patients treated with continuous intravenous morphine .",
+        "D009020\tChemical\tmorphine\tHyperalgesia and myoclonus in terminal cancer patients treated with continuous intravenous <target> morphine </target> .",
+        "D009369\tDisease\tcancer\tEight <target> cancer </target> patients in the terminal stages of the disease treated with high doses of intravenous morphine developed hyperalgesia .",
+        "D009020\tChemical\tmorphine\tEight cancer patients in the terminal stages of the disease treated with high doses of intravenous <target> morphine </target> developed hyperalgesia .",
+        "D006930\tDisease\thyperalgesia\tEight cancer patients in the terminal stages of the disease treated with high doses of intravenous morphine developed <target> hyperalgesia </target> .",
+        "D006930\tDisease\thyperalgesia\tFive patients developed universal <target> hyperalgesia </target> and hyperesthesia which in 2 cases were accompanied by myoclonus .",
+        "D006941\tDisease\thyperesthesia\tFive patients developed universal hyperalgesia and <target> hyperesthesia </target> which in 2 cases were accompanied by myoclonus .",
+        "D009207\tDisease\tmyoclonus\tFive patients developed universal hyperalgesia and hyperesthesia which in 2 cases were accompanied by <target> myoclonus </target> .",
+        "D009437\tDisease\tneuralgia\tIn 3 patients a pre-existing <target> neuralgia </target> increased to excruciating intensity and in 2 of these cases myoclonus occurred simultaneously .",
+        "D009207\tDisease\tmyoclonus\tIn 3 patients a pre-existing neuralgia increased to excruciating intensity and in 2 of these cases <target> myoclonus </target> occurred simultaneously .",
+        "D006930\tDisease\thyperalgesia\tAlthough only few clinical descriptions of the relationship between <target> hyperalgesia </target> /myoclonus and high doses of morphine are available , experimental support from animal studies indicates that morphine , or its metabolites , plays a causative role for the observed behavioural syndrome .",
+        "D009207\tDisease\tmyoclonus\tAlthough only few clinical descriptions of the relationship between hyperalgesia/ <target> myoclonus </target> and high doses of morphine are available , experimental support from animal studies indicates that morphine , or its metabolites , plays a causative role for the observed behavioural syndrome .",
+        "D009020\tChemical\tmorphine\tAlthough only few clinical descriptions of the relationship between hyperalgesia/myoclonus and high doses of <target> morphine </target> are available , experimental support from animal studies indicates that morphine , or its metabolites , plays a causative role for the observed behavioural syndrome .",
+        "D009020\tChemical\tmorphine\tAlthough only few clinical descriptions of the relationship between hyperalgesia/myoclonus and high doses of morphine are available , experimental support from animal studies indicates that <target> morphine </target> , or its metabolites , plays a causative role for the observed behavioural syndrome ."
+    ],
+    "lines_lemma": [
+        "D006930\tDisease\tHyperalgesia\t<target> Hyperalgesia </target> and myoclonus in terminal cancer patient treat with continuous intravenous morphine .",
+        "D009207\tDisease\tmyoclonus\tHyperalgesia and <target> myoclonus </target> in terminal cancer patient treat with continuous intravenous morphine .",
+        "D009369\tDisease\tcancer\tHyperalgesia and myoclonus in terminal <target> cancer </target> patient treat with continuous intravenous morphine .",
+        "D009020\tChemical\tmorphine\tHyperalgesia and myoclonus in terminal cancer patient treat with continuous intravenous <target> morphine </target> .",
+        "D009369\tDisease\tcancer\teight <target> cancer </target> patient in the terminal stage of the disease treat with high dose of intravenous morphine developed hyperalgesia .",
+        "D009020\tChemical\tmorphine\teight cancer patient in the terminal stage of the disease treat with high dose of intravenous <target> morphine </target> develop hyperalgesia .",
+        "D006930\tDisease\thyperalgesia\teight cancer patient in the terminal stage of the disease treat with high dose of intravenous morphine develop <target> hyperalgesia </target> .",
+        "D006930\tDisease\thyperalgesia\tfive patient develop universal <target> hyperalgesia </target> and hyperesthesia which in 2 case be accompany by myoclonus .",
+        "D006941\tDisease\thyperesthesia\tfive patient develop universal hyperalgesia and <target> hyperesthesia </target> which in 2 case be accompany by myoclonus .",
+        "D009207\tDisease\tmyoclonus\tfive patient develop universal hyperalgesia and hyperesthesia which in 2 case be accompany by <target> myoclonus </target> .",
+        "D009437\tDisease\tneuralgia\tin 3 patient a pre-existing <target> neuralgia </target> increase to excruciate intensity and in 2 of these case myoclonus occur simultaneously .",
+        "D009207\tDisease\tmyoclonus\tin 3 patient a pre-existing neuralgia increase to excruciate intensity and in 2 of these case <target> myoclonus </target> occur simultaneously .",
+        "D006930\tDisease\thyperalgesia\talthough only few clinical description of the relationship between <target> hyperalgesia </target> /myoclonus and high dose of morphine be available , experimental support from animal study indicate that morphine , or its metabolite , play a causative role for the observe behavioural syndrome .",
+        "D009207\tDisease\tmyoclonus\talthough only few clinical description of the relationship between hyperalgesia/ <target> myoclonus </target> and high dose of morphine be available , experimental support from animal study indicate that morphine , or its metabolite , play a causative role for the observe behavioural syndrome .",
+        "D009020\tChemical\tmorphine\talthough only few clinical description of the relationship between hyperalgesia/myoclonu and high dose of <target> morphine </target> be available , experimental support from animal study indicate that morphine , or its metabolite , play a causative role for the observe behavioural syndrome .",
+        "D009020\tChemical\tmorphine\talthough only few clinical description of the relationship between hyperalgesia/myoclonu and high dose of morphine be available , experimental support from animal study indicate that <target> morphine </target> , or its metabolite , play a causative role for the observe behavioural syndrome ."
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "title": "Trimethoprim-induced immune hemolytic anemia in a pediatric oncology patient presenting as an acute hemolytic transfusion reaction.",
+    "abst": "A 10-year-old male with acute leukemia presented with post-chemotherapy anemia. During red cell transfusion, he developed hemoglobinuria. Transfusion reaction workup was negative. Drug-induced immune hemolytic anemia was suspected because of positive direct antiglobulin test, negative eluate, and microspherocytes on smear pre- and post-transfusion. Drug studies using the indirect antiglobulin test were strongly positive with trimethoprim and trimethoprim-sulfamethoxazole but negative with sulfamethoxazole. The patient recovered after discontinuing the drug, with no recurrence in 2 years. Other causes of anemia should be considered in patients with worse-than-expected anemia after chemotherapy. Furthermore, hemolysis during transfusion is not always a transfusion reaction.",
+    "title_plus_abst": "Trimethoprim-induced immune hemolytic anemia in a pediatric oncology patient presenting as an acute hemolytic transfusion reaction. A 10-year-old male with acute leukemia presented with post-chemotherapy anemia. During red cell transfusion, he developed hemoglobinuria. Transfusion reaction workup was negative. Drug-induced immune hemolytic anemia was suspected because of positive direct antiglobulin test, negative eluate, and microspherocytes on smear pre- and post-transfusion. Drug studies using the indirect antiglobulin test were strongly positive with trimethoprim and trimethoprim-sulfamethoxazole but negative with sulfamethoxazole. The patient recovered after discontinuing the drug, with no recurrence in 2 years. Other causes of anemia should be considered in patients with worse-than-expected anemia after chemotherapy. Furthermore, hemolysis during transfusion is not always a transfusion reaction.",
+    "pubmed_id": "20589632",
+    "entities": [
+        [
+            0,
+            12,
+            "Trimethoprim",
+            "Chemical",
+            "D014295"
+        ],
+        [
+            28,
+            44,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            156,
+            170,
+            "acute leukemia",
+            "Disease",
+            "D015470"
+        ],
+        [
+            204,
+            210,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            254,
+            268,
+            "hemoglobinuria",
+            "Disease",
+            "D006456"
+        ],
+        [
+            332,
+            348,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            561,
+            573,
+            "trimethoprim",
+            "Chemical",
+            "D014295"
+        ],
+        [
+            578,
+            607,
+            "trimethoprim-sulfamethoxazole",
+            "Chemical",
+            "D015662"
+        ],
+        [
+            626,
+            642,
+            "sulfamethoxazole",
+            "Chemical",
+            "D013420"
+        ],
+        [
+            743,
+            749,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            808,
+            814,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            848,
+            857,
+            "hemolysis",
+            "Disease",
+            "D006461"
+        ]
+    ],
+    "split_sentence": [
+        "Trimethoprim-induced immune hemolytic anemia in a pediatric oncology patient presenting as an acute hemolytic transfusion reaction.",
+        "A 10-year-old male with acute leukemia presented with post-chemotherapy anemia.",
+        "During red cell transfusion, he developed hemoglobinuria.",
+        "Transfusion reaction workup was negative.",
+        "Drug-induced immune hemolytic anemia was suspected because of positive direct antiglobulin test, negative eluate, and microspherocytes on smear pre- and post-transfusion.",
+        "Drug studies using the indirect antiglobulin test were strongly positive with trimethoprim and trimethoprim-sulfamethoxazole but negative with sulfamethoxazole.",
+        "The patient recovered after discontinuing the drug, with no recurrence in 2 years.",
+        "Other causes of anemia should be considered in patients with worse-than-expected anemia after chemotherapy.",
+        "Furthermore, hemolysis during transfusion is not always a transfusion reaction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014295\tChemical\tTrimethoprim\t<target> Trimethoprim </target> -induced immune hemolytic anemia in a pediatric oncology patient presenting as an acute hemolytic transfusion reaction .",
+        "D000743\tDisease\themolytic anemia\tTrimethoprim-induced immune <target> hemolytic anemia </target> in a pediatric oncology patient presenting as an acute hemolytic transfusion reaction .",
+        "D015470\tDisease\tacute leukemia\tA 10-year-old male with <target> acute leukemia </target> presented with post-chemotherapy anemia .",
+        "D000740\tDisease\tanemia\tA 10-year-old male with acute leukemia presented with post-chemotherapy <target> anemia </target> .",
+        "D006456\tDisease\themoglobinuria\tDuring red cell transfusion , he developed <target> hemoglobinuria </target> .",
+        "D000743\tDisease\themolytic anemia\tDrug-induced immune <target> hemolytic anemia </target> was suspected because of positive direct antiglobulin test , negative eluate , and microspherocytes on smear pre- and post-transfusion .",
+        "D014295\tChemical\ttrimethoprim\tDrug studies using the indirect antiglobulin test were strongly positive with <target> trimethoprim </target> and trimethoprim-sulfamethoxazole but negative with sulfamethoxazole .",
+        "D015662\tChemical\ttrimethoprim-sulfamethoxazole\tDrug studies using the indirect antiglobulin test were strongly positive with trimethoprim and <target> trimethoprim-sulfamethoxazole </target> but negative with sulfamethoxazole .",
+        "D013420\tChemical\tsulfamethoxazole\tDrug studies using the indirect antiglobulin test were strongly positive with trimethoprim and trimethoprim-sulfamethoxazole but negative with <target> sulfamethoxazole </target> .",
+        "D000740\tDisease\tanemia\tOther causes of <target> anemia </target> should be considered in patients with worse-than-expected anemia after chemotherapy .",
+        "D000740\tDisease\tanemia\tOther causes of anemia should be considered in patients with worse-than-expected <target> anemia </target> after chemotherapy .",
+        "D006461\tDisease\themolysis\tFurthermore , <target> hemolysis </target> during transfusion is not always a transfusion reaction ."
+    ],
+    "lines_lemma": [
+        "D014295\tChemical\tTrimethoprim\t<target> trimethoprim </target> -induced immune hemolytic anemia in a pediatric oncology patient present as an acute hemolytic transfusion reaction .",
+        "D000743\tDisease\themolytic anemia\ttrimethoprim-induced immune <target> hemolytic anemia </target> in a pediatric oncology patient present as an acute hemolytic transfusion reaction .",
+        "D015470\tDisease\tacute leukemia\ta 10-year-old male with <target> acute leukemia </target> present with post-chemotherapy anemia .",
+        "D000740\tDisease\tanemia\ta 10-year-old male with acute leukemia present with post-chemotherapy <target> anemia </target> .",
+        "D006456\tDisease\themoglobinuria\tduring red cell transfusion , he develop <target> hemoglobinuria </target> .",
+        "D000743\tDisease\themolytic anemia\tdrug-induced immune <target> hemolytic anemia </target> be suspect because of positive direct antiglobulin test , negative eluate , and microspherocyte on smear pre- and post-transfusion .",
+        "D014295\tChemical\ttrimethoprim\tdrug study use the indirect antiglobulin test be strongly positive with <target> trimethoprim </target> and trimethoprim-sulfamethoxazole but negative with sulfamethoxazole .",
+        "D015662\tChemical\ttrimethoprim-sulfamethoxazole\tdrug study use the indirect antiglobulin test be strongly positive with trimethoprim and <target> trimethoprim-sulfamethoxazole </target> but negative with sulfamethoxazole .",
+        "D013420\tChemical\tsulfamethoxazole\tdrug study use the indirect antiglobulin test be strongly positive with trimethoprim and trimethoprim-sulfamethoxazole but negative with <target> sulfamethoxazole </target> .",
+        "D000740\tDisease\tanemia\tother cause of <target> anemia </target> should be consider in patient with worse-than-expected anemia after chemotherapy .",
+        "D000740\tDisease\tanemia\tother cause of anemia should be consider in patient with worse-than-expected <target> anemia </target> after chemotherapy .",
+        "D006461\tDisease\themolysis\tfurthermore , <target> hemolysis </target> during transfusion be not always a transfusion reaction ."
+    ]
+}

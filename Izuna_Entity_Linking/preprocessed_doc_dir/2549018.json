@@ -1,0 +1,201 @@
+{
+    "title": "Fluoxetine-induced akathisia: clinical and theoretical implications.",
+    "abst": "Five patients receiving fluoxetine for the treatment of obsessive compulsive disorder or major depression developed akathisia. The typical fluoxetine-induced symptoms of restlessness, constant pacing, purposeless movements of the feet and legs, and marked anxiety were indistinguishable from those of neuroleptic-induced akathisia. Three patients who had experienced neuroleptic-induced akathisia in the past reported that the symptoms of fluoxetine-induced akathisia were identical, although somewhat milder. Akathisia appeared to be a common side effect of fluoxetine and generally responded well to treatment with the beta-adrenergic antagonist propranolol, dose reduction, or both. The authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \"jitteriness\" may be identical.",
+    "title_plus_abst": "Fluoxetine-induced akathisia: clinical and theoretical implications. Five patients receiving fluoxetine for the treatment of obsessive compulsive disorder or major depression developed akathisia. The typical fluoxetine-induced symptoms of restlessness, constant pacing, purposeless movements of the feet and legs, and marked anxiety were indistinguishable from those of neuroleptic-induced akathisia. Three patients who had experienced neuroleptic-induced akathisia in the past reported that the symptoms of fluoxetine-induced akathisia were identical, although somewhat milder. Akathisia appeared to be a common side effect of fluoxetine and generally responded well to treatment with the beta-adrenergic antagonist propranolol, dose reduction, or both. The authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \"jitteriness\" may be identical.",
+    "pubmed_id": "2549018",
+    "entities": [
+        [
+            0,
+            10,
+            "Fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            19,
+            28,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            93,
+            103,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            125,
+            154,
+            "obsessive compulsive disorder",
+            "Disease",
+            "D009771"
+        ],
+        [
+            158,
+            174,
+            "major depression",
+            "Disease",
+            "D003865"
+        ],
+        [
+            185,
+            194,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            208,
+            218,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            325,
+            332,
+            "anxiety",
+            "Disease",
+            "D001008"
+        ],
+        [
+            390,
+            399,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            456,
+            465,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            508,
+            518,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            527,
+            536,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            579,
+            588,
+            "Akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            628,
+            638,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            717,
+            728,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            780,
+            790,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            799,
+            808,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            929,
+            939,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            948,
+            957,
+            "akathisia",
+            "Disease",
+            "D017109"
+        ],
+        [
+            972,
+            986,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ]
+    ],
+    "split_sentence": [
+        "Fluoxetine-induced akathisia: clinical and theoretical implications.",
+        "Five patients receiving fluoxetine for the treatment of obsessive compulsive disorder or major depression developed akathisia.",
+        "The typical fluoxetine-induced symptoms of restlessness, constant pacing, purposeless movements of the feet and legs, and marked anxiety were indistinguishable from those of neuroleptic-induced akathisia.",
+        "Three patients who had experienced neuroleptic-induced akathisia in the past reported that the symptoms of fluoxetine-induced akathisia were identical, although somewhat milder.",
+        "Akathisia appeared to be a common side effect of fluoxetine and generally responded well to treatment with the beta-adrenergic antagonist propranolol, dose reduction, or both.",
+        "The authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \"jitteriness\" may be identical."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005473\tChemical\tFluoxetine\t<target> Fluoxetine </target> -induced akathisia : clinical and theoretical implications .",
+        "D017109\tDisease\takathisia\tFluoxetine-induced <target> akathisia </target> : clinical and theoretical implications .",
+        "D005473\tChemical\tfluoxetine\tFive patients receiving <target> fluoxetine </target> for the treatment of obsessive compulsive disorder or major depression developed akathisia .",
+        "D009771\tDisease\tobsessive compulsive disorder\tFive patients receiving fluoxetine for the treatment of <target> obsessive compulsive disorder </target> or major depression developed akathisia .",
+        "D003865\tDisease\tmajor depression\tFive patients receiving fluoxetine for the treatment of obsessive compulsive disorder or <target> major depression </target> developed akathisia .",
+        "D017109\tDisease\takathisia\tFive patients receiving fluoxetine for the treatment of obsessive compulsive disorder or major depression developed <target> akathisia </target> .",
+        "D005473\tChemical\tfluoxetine\tThe typical <target> fluoxetine </target> -induced symptoms of restlessness , constant pacing , purposeless movements of the feet and legs , and marked anxiety were indistinguishable from those of neuroleptic-induced akathisia .",
+        "D001008\tDisease\tanxiety\tThe typical fluoxetine-induced symptoms of restlessness , constant pacing , purposeless movements of the feet and legs , and marked <target> anxiety </target> were indistinguishable from those of neuroleptic-induced akathisia .",
+        "D017109\tDisease\takathisia\tThe typical fluoxetine-induced symptoms of restlessness , constant pacing , purposeless movements of the feet and legs , and marked anxiety were indistinguishable from those of neuroleptic-induced <target> akathisia </target> .",
+        "D017109\tDisease\takathisia\tThree patients who had experienced neuroleptic-induced <target> akathisia </target> in the past reported that the symptoms of fluoxetine-induced akathisia were identical , although somewhat milder .",
+        "D005473\tChemical\tfluoxetine\tThree patients who had experienced neuroleptic-induced akathisia in the past reported that the symptoms of <target> fluoxetine </target> -induced akathisia were identical , although somewhat milder .",
+        "D017109\tDisease\takathisia\tThree patients who had experienced neuroleptic-induced akathisia in the past reported that the symptoms of fluoxetine-induced <target> akathisia </target> were identical , although somewhat milder .",
+        "D017109\tDisease\tAkathisia\t<target> Akathisia </target> appeared to be a common side effect of fluoxetine and generally responded well to treatment with the beta-adrenergic antagonist propranolol , dose reduction , or both .",
+        "D005473\tChemical\tfluoxetine\tAkathisia appeared to be a common side effect of <target> fluoxetine </target> and generally responded well to treatment with the beta-adrenergic antagonist propranolol , dose reduction , or both .",
+        "D011433\tChemical\tpropranolol\tAkathisia appeared to be a common side effect of fluoxetine and generally responded well to treatment with the beta-adrenergic antagonist <target> propranolol </target> , dose reduction , or both .",
+        "D005473\tChemical\tfluoxetine\tThe authors suggest that <target> fluoxetine </target> -induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D017109\tDisease\takathisia\tThe authors suggest that fluoxetine-induced <target> akathisia </target> may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D005473\tChemical\tfluoxetine\tThe authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of <target> fluoxetine </target> -induced akathisia and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D017109\tDisease\takathisia\tThe authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced <target> akathisia </target> and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D000928\tChemical\tantidepressant\tThe authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic <target> antidepressant </target> -induced \" jitteriness \" may be identical ."
+    ],
+    "lines_lemma": [
+        "D005473\tChemical\tFluoxetine\t<target> fluoxetine </target> -induced akathisia : clinical and theoretical implication .",
+        "D017109\tDisease\takathisia\tfluoxetine-induced <target> akathisia </target> : clinical and theoretical implication .",
+        "D005473\tChemical\tfluoxetine\tfive patient receive <target> fluoxetine </target> for the treatment of obsessive compulsive disorder or major depression develop akathisia .",
+        "D009771\tDisease\tobsessive compulsive disorder\tfive patient receive fluoxetine for the treatment of <target> obsessive compulsive disorder </target> or major depression develop akathisia .",
+        "D003865\tDisease\tmajor depression\tfive patient receive fluoxetine for the treatment of obsessive compulsive disorder or <target> major depression </target> develop akathisia .",
+        "D017109\tDisease\takathisia\tfive patient receive fluoxetine for the treatment of obsessive compulsive disorder or major depression develop <target> akathisia </target> .",
+        "D005473\tChemical\tfluoxetine\tthe typical <target> fluoxetine </target> -induced symptom of restlessness , constant pacing , purposeless movement of the foot and leg , and marked anxiety be indistinguishable from those of neuroleptic-induced akathisia .",
+        "D001008\tDisease\tanxiety\tthe typical fluoxetine-induced symptom of restlessness , constant pacing , purposeless movement of the foot and leg , and mark <target> anxiety </target> be indistinguishable from those of neuroleptic-induced akathisia .",
+        "D017109\tDisease\takathisia\tthe typical fluoxetine-induced symptom of restlessness , constant pacing , purposeless movement of the foot and leg , and marked anxiety be indistinguishable from those of neuroleptic-induced <target> akathisia </target> .",
+        "D017109\tDisease\takathisia\tthree patient who have experience neuroleptic-induced <target> akathisia </target> in the past report that the symptom of fluoxetine-induced akathisia be identical , although somewhat milder .",
+        "D005473\tChemical\tfluoxetine\tthree patient who have experience neuroleptic-induced akathisia in the past report that the symptom of <target> fluoxetine </target> -induced akathisia be identical , although somewhat milder .",
+        "D017109\tDisease\takathisia\tthree patient who have experience neuroleptic-induced akathisia in the past report that the symptom of fluoxetine-induced <target> akathisia </target> be identical , although somewhat milder .",
+        "D017109\tDisease\tAkathisia\t<target> Akathisia </target> appear to be a common side effect of fluoxetine and generally respond well to treatment with the beta-adrenergic antagonist propranolol , dose reduction , or both .",
+        "D005473\tChemical\tfluoxetine\tAkathisia appear to be a common side effect of <target> fluoxetine </target> and generally respond well to treatment with the beta-adrenergic antagonist propranolol , dose reduction , or both .",
+        "D011433\tChemical\tpropranolol\tAkathisia appear to be a common side effect of fluoxetine and generally respond well to treatment with the beta-adrenergic antagonist <target> propranolol </target> , dose reduction , or both .",
+        "D005473\tChemical\tfluoxetine\tthe author suggest that <target> fluoxetine </target> -induced akathisia may be cause by serotonergically mediate inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D017109\tDisease\takathisia\tthe author suggest that fluoxetine-induced <target> akathisia </target> may be cause by serotonergically mediate inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D005473\tChemical\tfluoxetine\tthe author suggest that fluoxetine-induced akathisia may be cause by serotonergically mediate inhibition of dopaminergic neurotransmission and that the pathophysiology of <target> fluoxetine </target> -induced akathisia and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D017109\tDisease\takathisia\tthe author suggest that fluoxetine-induced akathisia may be cause by serotonergically mediate inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced <target> akathisia </target> and tricyclic antidepressant-induced \" jitteriness \" may be identical .",
+        "D000928\tChemical\tantidepressant\tthe author suggest that fluoxetine-induced akathisia may be cause by serotonergically mediate inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic <target> antidepressant </target> -induced \" jitteriness \" may be identical ."
+    ]
+}

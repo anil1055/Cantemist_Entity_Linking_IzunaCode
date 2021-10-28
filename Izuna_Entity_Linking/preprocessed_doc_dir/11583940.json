@@ -1,0 +1,131 @@
+{
+    "title": "Sirolimus and mycophenolate mofetil for calcineurin-free immunosuppression in renal transplant recipients.",
+    "abst": "Calcineurin inhibitors, such as cyclosporine and tacrolimus, have been available for almost 20 years. Although these drugs are highly effective and represent the mainstay of transplant immunosuppression, they are associated with acute and chronic nephrotoxicity. Acute nephrotoxicity, which occurs in the early period after transplantation, leads to a higher rate of dialysis, and chronic nephrotoxicity may eventually result in graft loss. Acute and chronic nephrotoxicity is becoming more common as the use of marginal kidneys for transplantation increases. Two recently available immunosuppressive agents, mycophenolate mofetil and sirolimus (rapamycin), have no nephrotoxicity. The use of these drugs in combination with other agents has led to the development of new paradigms of immunosuppressive therapy. This paper reviews the results of clinical trials that have investigated these new approaches to immunosuppression in renal transplant recipients.",
+    "title_plus_abst": "Sirolimus and mycophenolate mofetil for calcineurin-free immunosuppression in renal transplant recipients. Calcineurin inhibitors, such as cyclosporine and tacrolimus, have been available for almost 20 years. Although these drugs are highly effective and represent the mainstay of transplant immunosuppression, they are associated with acute and chronic nephrotoxicity. Acute nephrotoxicity, which occurs in the early period after transplantation, leads to a higher rate of dialysis, and chronic nephrotoxicity may eventually result in graft loss. Acute and chronic nephrotoxicity is becoming more common as the use of marginal kidneys for transplantation increases. Two recently available immunosuppressive agents, mycophenolate mofetil and sirolimus (rapamycin), have no nephrotoxicity. The use of these drugs in combination with other agents has led to the development of new paradigms of immunosuppressive therapy. This paper reviews the results of clinical trials that have investigated these new approaches to immunosuppression in renal transplant recipients.",
+    "pubmed_id": "11583940",
+    "entities": [
+        [
+            0,
+            9,
+            "Sirolimus",
+            "Chemical",
+            "D020123"
+        ],
+        [
+            14,
+            35,
+            "mycophenolate mofetil",
+            "Chemical",
+            "C063008"
+        ],
+        [
+            139,
+            151,
+            "cyclosporine",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            156,
+            166,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            354,
+            368,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            376,
+            390,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            496,
+            510,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            566,
+            580,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            716,
+            737,
+            "mycophenolate mofetil",
+            "Chemical",
+            "C063008"
+        ],
+        [
+            742,
+            751,
+            "sirolimus",
+            "Chemical",
+            "D020123"
+        ],
+        [
+            753,
+            762,
+            "rapamycin",
+            "Chemical",
+            "D020123"
+        ],
+        [
+            773,
+            787,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Sirolimus and mycophenolate mofetil for calcineurin-free immunosuppression in renal transplant recipients.",
+        "Calcineurin inhibitors, such as cyclosporine and tacrolimus, have been available for almost 20 years.",
+        "Although these drugs are highly effective and represent the mainstay of transplant immunosuppression, they are associated with acute and chronic nephrotoxicity.",
+        "Acute nephrotoxicity, which occurs in the early period after transplantation, leads to a higher rate of dialysis, and chronic nephrotoxicity may eventually result in graft loss.",
+        "Acute and chronic nephrotoxicity is becoming more common as the use of marginal kidneys for transplantation increases.",
+        "Two recently available immunosuppressive agents, mycophenolate mofetil and sirolimus (rapamycin), have no nephrotoxicity.",
+        "The use of these drugs in combination with other agents has led to the development of new paradigms of immunosuppressive therapy.",
+        "This paper reviews the results of clinical trials that have investigated these new approaches to immunosuppression in renal transplant recipients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020123\tChemical\tSirolimus\t<target> Sirolimus </target> and mycophenolate mofetil for calcineurin-free immunosuppression in renal transplant recipients .",
+        "C063008\tChemical\tmycophenolate mofetil\tSirolimus and <target> mycophenolate mofetil </target> for calcineurin-free immunosuppression in renal transplant recipients .",
+        "D016572\tChemical\tcyclosporine\tCalcineurin inhibitors , such as <target> cyclosporine </target> and tacrolimus , have been available for almost 20 years .",
+        "D016559\tChemical\ttacrolimus\tCalcineurin inhibitors , such as cyclosporine and <target> tacrolimus </target> , have been available for almost 20 years .",
+        "D007674\tDisease\tnephrotoxicity\tAlthough these drugs are highly effective and represent the mainstay of transplant immunosuppression , they are associated with acute and chronic <target> nephrotoxicity </target> .",
+        "D007674\tDisease\tnephrotoxicity\tAcute <target> nephrotoxicity </target> , which occurs in the early period after transplantation , leads to a higher rate of dialysis , and chronic nephrotoxicity may eventually result in graft loss .",
+        "D007674\tDisease\tnephrotoxicity\tAcute nephrotoxicity , which occurs in the early period after transplantation , leads to a higher rate of dialysis , and chronic <target> nephrotoxicity </target> may eventually result in graft loss .",
+        "D007674\tDisease\tnephrotoxicity\tAcute and chronic <target> nephrotoxicity </target> is becoming more common as the use of marginal kidneys for transplantation increases .",
+        "C063008\tChemical\tmycophenolate mofetil\tTwo recently available immunosuppressive agents , <target> mycophenolate mofetil </target> and sirolimus ( rapamycin ) , have no nephrotoxicity .",
+        "D020123\tChemical\tsirolimus\tTwo recently available immunosuppressive agents , mycophenolate mofetil and <target> sirolimus </target> ( rapamycin ) , have no nephrotoxicity .",
+        "D020123\tChemical\trapamycin\tTwo recently available immunosuppressive agents , mycophenolate mofetil and sirolimus ( <target> rapamycin </target> ) , have no nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tTwo recently available immunosuppressive agents , mycophenolate mofetil and sirolimus ( rapamycin ) , have no <target> nephrotoxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D020123\tChemical\tSirolimus\t<target> Sirolimus </target> and mycophenolate mofetil for calcineurin-free immunosuppression in renal transplant recipient .",
+        "C063008\tChemical\tmycophenolate mofetil\tSirolimus and <target> mycophenolate mofetil </target> for calcineurin-free immunosuppression in renal transplant recipient .",
+        "D016572\tChemical\tcyclosporine\tcalcineurin inhibitor , such as <target> cyclosporine </target> and tacrolimus , have be available for almost 20 year .",
+        "D016559\tChemical\ttacrolimus\tcalcineurin inhibitor , such as cyclosporine and <target> tacrolimus </target> , have be available for almost 20 year .",
+        "D007674\tDisease\tnephrotoxicity\talthough these drug be highly effective and represent the mainstay of transplant immunosuppression , they be associate with acute and chronic <target> nephrotoxicity </target> .",
+        "D007674\tDisease\tnephrotoxicity\tacute <target> nephrotoxicity </target> , which occur in the early period after transplantation , lead to a high rate of dialysis , and chronic nephrotoxicity may eventually result in graft loss .",
+        "D007674\tDisease\tnephrotoxicity\tacute nephrotoxicity , which occur in the early period after transplantation , lead to a high rate of dialysis , and chronic <target> nephrotoxicity </target> may eventually result in graft loss .",
+        "D007674\tDisease\tnephrotoxicity\tacute and chronic <target> nephrotoxicity </target> be become more common as the use of marginal kidney for transplantation increase .",
+        "C063008\tChemical\tmycophenolate mofetil\ttwo recently available immunosuppressive agent , <target> mycophenolate mofetil </target> and sirolimus ( rapamycin ) , have no nephrotoxicity .",
+        "D020123\tChemical\tsirolimus\ttwo recently available immunosuppressive agent , mycophenolate mofetil and <target> sirolimus </target> ( rapamycin ) , have no nephrotoxicity .",
+        "D020123\tChemical\trapamycin\ttwo recently available immunosuppressive agent , mycophenolate mofetil and sirolimus ( <target> rapamycin </target> ) , have no nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\ttwo recently available immunosuppressive agent , mycophenolate mofetil and sirolimus ( rapamycin ) , have no <target> nephrotoxicity </target> ."
+    ]
+}

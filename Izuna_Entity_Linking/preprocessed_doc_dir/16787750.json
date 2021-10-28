@@ -1,0 +1,201 @@
+{
+    "title": "Valproic acid induced encephalopathy--19 new cases in Germany from 1994 to 2003--a side effect associated to VPA-therapy not only in young children.",
+    "abst": "Valproic acid (VPA) is a broad-spectrum antiepileptic drug and is usually well-tolerated. Rare serious complications may occur in some patients, including haemorrhagic pancreatitis, bone marrow suppression, VPA-induced hepatotoxicity and VPA-induced encephalopathy. The typical signs of VPA-induced encephalopathy are impaired consciousness, sometimes marked EEG background slowing, increased seizure frequency, with or without hyperammonemia. There is still no proof of causative effect of VPA in patients with encephalopathy, but only of an association with an assumed causal relation. We report 19 patients with VPA-associated encephalopathy in Germany from the years 1994 to 2003, none of whom had been published previously.",
+    "title_plus_abst": "Valproic acid induced encephalopathy--19 new cases in Germany from 1994 to 2003--a side effect associated to VPA-therapy not only in young children. Valproic acid (VPA) is a broad-spectrum antiepileptic drug and is usually well-tolerated. Rare serious complications may occur in some patients, including haemorrhagic pancreatitis, bone marrow suppression, VPA-induced hepatotoxicity and VPA-induced encephalopathy. The typical signs of VPA-induced encephalopathy are impaired consciousness, sometimes marked EEG background slowing, increased seizure frequency, with or without hyperammonemia. There is still no proof of causative effect of VPA in patients with encephalopathy, but only of an association with an assumed causal relation. We report 19 patients with VPA-associated encephalopathy in Germany from the years 1994 to 2003, none of whom had been published previously.",
+    "pubmed_id": "16787750",
+    "entities": [
+        [
+            0,
+            13,
+            "Valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            22,
+            36,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            109,
+            112,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            149,
+            162,
+            "Valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            164,
+            167,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            317,
+            329,
+            "pancreatitis",
+            "Disease",
+            "D010195"
+        ],
+        [
+            331,
+            354,
+            "bone marrow suppression",
+            "Disease",
+            "D001855"
+        ],
+        [
+            356,
+            359,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            368,
+            382,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            387,
+            390,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            399,
+            413,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            436,
+            439,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            448,
+            462,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            467,
+            489,
+            "impaired consciousness",
+            "Disease",
+            "D003244"
+        ],
+        [
+            542,
+            549,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            577,
+            591,
+            "hyperammonemia",
+            "Disease",
+            "D022124"
+        ],
+        [
+            640,
+            643,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            661,
+            675,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            764,
+            767,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            779,
+            793,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ]
+    ],
+    "split_sentence": [
+        "Valproic acid induced encephalopathy--19 new cases in Germany from 1994 to 2003--a side effect associated to VPA-therapy not only in young children.",
+        "Valproic acid (VPA) is a broad-spectrum antiepileptic drug and is usually well-tolerated.",
+        "Rare serious complications may occur in some patients, including haemorrhagic pancreatitis, bone marrow suppression, VPA-induced hepatotoxicity and VPA-induced encephalopathy.",
+        "The typical signs of VPA-induced encephalopathy are impaired consciousness, sometimes marked EEG background slowing, increased seizure frequency, with or without hyperammonemia.",
+        "There is still no proof of causative effect of VPA in patients with encephalopathy, but only of an association with an assumed causal relation.",
+        "We report 19 patients with VPA-associated encephalopathy in Germany from the years 1994 to 2003, none of whom had been published previously."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> induced encephalopathy--19 new cases in Germany from 1994 to 2003 - -a side effect associated to VPA-therapy not only in young children .",
+        "D001927\tDisease\tencephalopathy\tValproic acid induced <target> encephalopathy </target> --19 new cases in Germany from 1994 to 2003 - -a side effect associated to VPA-therapy not only in young children .",
+        "D014635\tChemical\tVPA\tValproic acid induced encephalopathy--19 new cases in Germany from 1994 to 2003 - -a side effect associated to <target> VPA </target> -therapy not only in young children .",
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> ( VPA ) is a broad-spectrum antiepileptic drug and is usually well-tolerated .",
+        "D014635\tChemical\tVPA\tValproic acid ( <target> VPA </target> ) is a broad-spectrum antiepileptic drug and is usually well-tolerated .",
+        "D010195\tDisease\tpancreatitis\tRare serious complications may occur in some patients , including haemorrhagic <target> pancreatitis </target> , bone marrow suppression , VPA-induced hepatotoxicity and VPA-induced encephalopathy .",
+        "D001855\tDisease\tbone marrow suppression\tRare serious complications may occur in some patients , including haemorrhagic pancreatitis , <target> bone marrow suppression </target> , VPA-induced hepatotoxicity and VPA-induced encephalopathy .",
+        "D014635\tChemical\tVPA\tRare serious complications may occur in some patients , including haemorrhagic pancreatitis , bone marrow suppression , <target> VPA </target> -induced hepatotoxicity and VPA-induced encephalopathy .",
+        "D056486\tDisease\thepatotoxicity\tRare serious complications may occur in some patients , including haemorrhagic pancreatitis , bone marrow suppression , VPA-induced <target> hepatotoxicity </target> and VPA-induced encephalopathy .",
+        "D014635\tChemical\tVPA\tRare serious complications may occur in some patients , including haemorrhagic pancreatitis , bone marrow suppression , VPA-induced hepatotoxicity and <target> VPA </target> -induced encephalopathy .",
+        "D001927\tDisease\tencephalopathy\tRare serious complications may occur in some patients , including haemorrhagic pancreatitis , bone marrow suppression , VPA-induced hepatotoxicity and VPA-induced <target> encephalopathy </target> .",
+        "D014635\tChemical\tVPA\tThe typical signs of <target> VPA </target> -induced encephalopathy are impaired consciousness , sometimes marked EEG background slowing , increased seizure frequency , with or without hyperammonemia .",
+        "D001927\tDisease\tencephalopathy\tThe typical signs of VPA-induced <target> encephalopathy </target> are impaired consciousness , sometimes marked EEG background slowing , increased seizure frequency , with or without hyperammonemia .",
+        "D003244\tDisease\timpaired consciousness\tThe typical signs of VPA-induced encephalopathy are <target> impaired consciousness </target> , sometimes marked EEG background slowing , increased seizure frequency , with or without hyperammonemia .",
+        "D012640\tDisease\tseizure\tThe typical signs of VPA-induced encephalopathy are impaired consciousness , sometimes marked EEG background slowing , increased <target> seizure </target> frequency , with or without hyperammonemia .",
+        "D022124\tDisease\thyperammonemia\tThe typical signs of VPA-induced encephalopathy are impaired consciousness , sometimes marked EEG background slowing , increased seizure frequency , with or without <target> hyperammonemia </target> .",
+        "D014635\tChemical\tVPA\tThere is still no proof of causative effect of <target> VPA </target> in patients with encephalopathy , but only of an association with an assumed causal relation .",
+        "D001927\tDisease\tencephalopathy\tThere is still no proof of causative effect of VPA in patients with <target> encephalopathy </target> , but only of an association with an assumed causal relation .",
+        "D014635\tChemical\tVPA\tWe report 19 patients with <target> VPA </target> -associated encephalopathy in Germany from the years 1994 to 2003 , none of whom had been published previously .",
+        "D001927\tDisease\tencephalopathy\tWe report 19 patients with VPA-associated <target> encephalopathy </target> in Germany from the years 1994 to 2003 , none of whom had been published previously ."
+    ],
+    "lines_lemma": [
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> induce encephalopathy--19 new case in Germany from 1994 to 2003 - -a side effect associate to vpa-therapy not only in young child .",
+        "D001927\tDisease\tencephalopathy\tvalproic acid induce <target> encephalopathy </target> --19 new case in Germany from 1994 to 2003 - -a side effect associate to vpa-therapy not only in young child .",
+        "D014635\tChemical\tVPA\tvalproic acid induce encephalopathy--19 new case in Germany from 1994 to 2003 - -a side effect associate to <target> vpa </target> -therapy not only in young child .",
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> ( vpa ) be a broad-spectrum antiepileptic drug and be usually well-tolerate .",
+        "D014635\tChemical\tVPA\tvalproic acid ( <target> vpa </target> ) be a broad-spectrum antiepileptic drug and be usually well-tolerate .",
+        "D010195\tDisease\tpancreatitis\trare serious complication may occur in some patient , include haemorrhagic <target> pancreatitis </target> , bone marrow suppression , vpa-induced hepatotoxicity and vpa-induced encephalopathy .",
+        "D001855\tDisease\tbone marrow suppression\trare serious complication may occur in some patient , include haemorrhagic pancreatitis , <target> bone marrow suppression </target> , vpa-induced hepatotoxicity and vpa-induced encephalopathy .",
+        "D014635\tChemical\tVPA\trare serious complication may occur in some patient , include haemorrhagic pancreatitis , bone marrow suppression , <target> vpa </target> -induced hepatotoxicity and vpa-induced encephalopathy .",
+        "D056486\tDisease\thepatotoxicity\trare serious complication may occur in some patient , include haemorrhagic pancreatitis , bone marrow suppression , vpa-induced <target> hepatotoxicity </target> and vpa-induced encephalopathy .",
+        "D014635\tChemical\tVPA\trare serious complication may occur in some patient , include haemorrhagic pancreatitis , bone marrow suppression , vpa-induced hepatotoxicity and <target> vpa </target> -induced encephalopathy .",
+        "D001927\tDisease\tencephalopathy\trare serious complication may occur in some patient , include haemorrhagic pancreatitis , bone marrow suppression , vpa-induced hepatotoxicity and vpa-induced <target> encephalopathy </target> .",
+        "D014635\tChemical\tVPA\tthe typical sign of <target> vpa </target> -induced encephalopathy be impaired consciousness , sometimes marked eeg background slowing , increase seizure frequency , with or without hyperammonemia .",
+        "D001927\tDisease\tencephalopathy\tthe typical sign of vpa-induced <target> encephalopathy </target> be impaired consciousness , sometimes marked eeg background slowing , increase seizure frequency , with or without hyperammonemia .",
+        "D003244\tDisease\timpaired consciousness\tthe typical sign of vpa-induced encephalopathy be <target> impaired consciousness </target> , sometimes marked eeg background slowing , increase seizure frequency , with or without hyperammonemia .",
+        "D012640\tDisease\tseizure\tthe typical sign of vpa-induced encephalopathy be impaired consciousness , sometimes marked eeg background slowing , increase <target> seizure </target> frequency , with or without hyperammonemia .",
+        "D022124\tDisease\thyperammonemia\tthe typical sign of vpa-induced encephalopathy be impaired consciousness , sometimes marked eeg background slowing , increase seizure frequency , with or without <target> hyperammonemia </target> .",
+        "D014635\tChemical\tVPA\tthere be still no proof of causative effect of <target> vpa </target> in patient with encephalopathy , but only of an association with an assumed causal relation .",
+        "D001927\tDisease\tencephalopathy\tthere be still no proof of causative effect of vpa in patient with <target> encephalopathy </target> , but only of an association with an assumed causal relation .",
+        "D014635\tChemical\tVPA\twe report 19 patient with <target> vpa </target> -associated encephalopathy in Germany from the year 1994 to 2003 , none of whom have be publish previously .",
+        "D001927\tDisease\tencephalopathy\twe report 19 patient with vpa-associated <target> encephalopathy </target> in Germany from the year 1994 to 2003 , none of whom have be publish previously ."
+    ]
+}

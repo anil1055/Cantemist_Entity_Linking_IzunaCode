@@ -1,0 +1,64 @@
+{
+    "entities": [
+        [
+            84,
+            87,
+            "CDI",
+            "MORFOLOGIA_NEOPLASIA",
+            "8500/3"
+        ],
+        [
+            54,
+            82,
+            "carcinoma ductal infiltrante",
+            "MORFOLOGIA_NEOPLASIA",
+            "8500/3"
+        ],
+        [
+            359,
+            369,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Paciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante ( <objetivo> CDI </objetivo>  de mama izquierda con ganglios 0/14.",
+        "Paciente mujer de 39 años, diagnosticada de  <objetivo> carcinoma ductal infiltrante </objetivo> (CDI) de mama izquierda con ganglios 0/14.",
+        "Tratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por  <objetivo> metástasis </objetivo> hepáticas, pulmonares y cerebrales, en tratamiento de QT con paclitaxel, carboplatino y trastuzumab."
+    ],
+    "lines_lemma": [
+        "Paciente mujer de 39 año , diagnosticado de carcinoma ductal infiltrante ( <objetivo> CDI </objetivo>   de mama izquierdo con ganglio 0/14 .",
+        "Paciente mujer de 39 año , diagnosticado de   <objetivo> carcinomar ductal infiltrante </objetivo> ( CDI ) de mama izquierdo con ganglio 0/14 .",
+        "tratado con MRM , quimioterapia ( QT ) , hormonoterapia ( HT ) y radioterapio ( RT ) holocraneal ; actualmente estadio IV por   <objetivo> metástasi </objetivo> hepático , pulmonar y cerebral , en tratamiento de qt con paclitaxel , carboplatino y trastuzumab ."
+    ],
+    "pubmed_id": "onco1371",
+    "split_sentence": [
+        "Anamnesis",
+        "Paciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante (CDI) de mama izquierda con ganglios 0/14.",
+        "Inmunohistoquimia (IHQ): receptores de estrógenos (RE) negativos; receptores de progesterona (RP) 70 %; HER-2 +++).",
+        "Tratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por metástasis hepáticas, pulmonares y cerebrales, en tratamiento de QT con paclitaxel, carboplatino y trastuzumab.",
+        "Acude a Urgencias 10 días después del último ciclo de QT por cuadro de 24 horas de evolución de fiebre de 39,5 ºC, sin clínica respiratoria, digestiva ni miccional.",
+        "Examen físico",
+        "La exploración física es anodina.",
+        "La paciente está consciente y orientada, la auscultación cardiaca es rítmica, no hay ruidos patológicos en la auscultación pulmonar, el abdomen es blando y no doloroso, y la exploración neurológica es normal, sin rigidez nucal.",
+        "Pruebas complementarias",
+        "Analítica sanguínea: hemoglobina 11,2 g/dl, hematocrito 32,5 %, leucocitos 4,3 x 109/l con un 53 % de neutrófilos, plaquetas 233 x 109/l, APT 79 %, INR 1,17, APTT 30,6 s, fibrinógeno 449 mg/dl, glucosa 102 mg/dl, creatinina 0,81 mg/dl, urea 19 mg/dl, proteínas 7,6 g/dl, bilirrubina 1,1 mg/dl, ALT 14 U/l, amilasa 60 U/l, sodio (Na+) 131 mEq/l, cloro (Cl-) 97 mEq/l, procalcitonina 3,47 ng/ml, proteína C reactiva (PCR) 2,5 mg/l.",
+        "Electrocardiograma (ECG): RS a 97 lpm.",
+        "Radiografía de tórax: normal.",
+        "Diagnóstico",
+        "Se recogen hemocultivos y se decide ingresar a la paciente en el Servicio de Oncología Médica con diagnóstico de fiebre sin foco en paciente inmunodeprimida.",
+        "Tratamiento",
+        "Continúa con el tratamiento.",
+        "Evolución",
+        "En planta de Oncología Médica, se detecta disartria y afasia global, con lenguaje monosilábico.",
+        "Reinterrogando a los familiares, estos refieren que presenta esta sintomatología desde hace 48 horas.",
+        "Se realiza una tomografía computarizada (TC) craneal, y al no detectarse patología aguda, se solicita valoración por el Servicio de Neurología.",
+        "Con sospecha de encefalitis herpética en paciente inmunodeprimida, indican tratamiento empírico con aciclovir 750 mg IV cada 8 horas.",
+        "Solicitan resonancia magnética (RM) craneal, que muestra una alteración de señal en la región anterior temporal izquierda con signos de pérdida de volumen, e hiperintensidad de señal en T2 que afecta a la corteza insular y se acompaña de restricción a la difusión; EEG, en el que se observa foco lento (delta) continuo en región temporal izquierda con ocasional difusión a zonas anteriores; y punción lumbar, con glucosa de 64 mg/dl, proteínas de 27 mg/dl y PCR de VHS tipo I positivo.",
+        "Durante los días posteriores a la introducción del tratamiento antiviral la paciente experimentó una mejoría progresiva, estando 4 días después afebril, y presentando orientación temporoespacial adecuada, con lenguaje coherente y fluido.",
+        "Se mantuvo aciclovir IV 14 días más y, teniendo en cuenta la excelente evolución, se indicó alta hospitalaria."
+    ],
+    "text": "Anamnesis\nPaciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante (CDI) de mama izquierda con ganglios 0/14.\nInmunohistoquimia (IHQ): receptores de estrógenos (RE) negativos; receptores de progesterona (RP) 70 %; HER-2 +++). Tratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por metástasis hepáticas, pulmonares y cerebrales, en tratamiento de QT con paclitaxel, carboplatino y trastuzumab.\nAcude a Urgencias 10 días después del último ciclo de QT por cuadro de 24 horas de evolución de fiebre de 39,5 ºC, sin clínica respiratoria, digestiva ni miccional.\n\nExamen físico\nLa exploración física es anodina. La paciente está consciente y orientada, la auscultación cardiaca es rítmica, no hay ruidos patológicos en la auscultación pulmonar, el abdomen es blando y no doloroso, y la exploración neurológica es normal, sin rigidez nucal.\n\nPruebas complementarias\nAnalítica sanguínea: hemoglobina 11,2 g/dl, hematocrito 32,5 %, leucocitos 4,3 x 109/l con un 53 % de neutrófilos, plaquetas 233 x 109/l, APT 79 %, INR 1,17, APTT 30,6 s, fibrinógeno 449 mg/dl, glucosa 102 mg/dl, creatinina 0,81 mg/dl, urea 19 mg/dl, proteínas 7,6 g/dl, bilirrubina 1,1 mg/dl, ALT 14 U/l, amilasa 60 U/l, sodio (Na+) 131 mEq/l, cloro (Cl-) 97 mEq/l, procalcitonina 3,47 ng/ml, proteína C reactiva (PCR) 2,5 mg/l.\nElectrocardiograma (ECG): RS a 97 lpm.\nRadiografía de tórax: normal.\n\nDiagnóstico\nSe recogen hemocultivos y se decide ingresar a la paciente en el Servicio de Oncología Médica con diagnóstico de fiebre sin foco en paciente inmunodeprimida.\n\nTratamiento\nContinúa con el tratamiento.\n\nEvolución\nEn planta de Oncología Médica, se detecta disartria y afasia global, con lenguaje monosilábico. Reinterrogando a los familiares, estos refieren que presenta esta sintomatología desde hace 48 horas. Se realiza una tomografía computarizada (TC) craneal, y al no detectarse patología aguda, se solicita valoración por el Servicio de Neurología.\nCon sospecha de encefalitis herpética en paciente inmunodeprimida, indican tratamiento empírico con aciclovir 750 mg IV cada 8 horas. Solicitan resonancia magnética (RM) craneal, que muestra una alteración de señal en la región anterior temporal izquierda con signos de pérdida de volumen, e hiperintensidad de señal en T2 que afecta a la corteza insular y se acompaña de restricción a la difusión; EEG, en el que se observa foco lento (delta) continuo en región temporal izquierda con ocasional difusión a zonas anteriores; y punción lumbar, con glucosa de 64 mg/dl, proteínas de 27 mg/dl y PCR de VHS tipo I positivo.\nDurante los días posteriores a la introducción del tratamiento antiviral la paciente experimentó una mejoría progresiva, estando 4 días después afebril, y presentando orientación temporoespacial adecuada, con lenguaje coherente y fluido.\nSe mantuvo aciclovir IV 14 días más y, teniendo en cuenta la excelente evolución, se indicó alta hospitalaria."
+}

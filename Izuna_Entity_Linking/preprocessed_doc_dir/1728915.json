@@ -1,0 +1,157 @@
+{
+    "title": "Carbamazepine-induced cardiac dysfunction. Characterization of two distinct clinical syndromes.",
+    "abst": "A patient with sinus bradycardia and atrioventricular block, induced by carbamazepine, prompted an extensive literature review of all previously reported cases. From the analysis of these cases, two distinct forms of carbamazepine-associated cardiac dysfunction emerged. One patient group developed sinus tachycardias in the setting of a massive carbamazepine overdose. The second group consisted almost exclusively of elderly women who developed potentially life-threatening bradyarrhythmias or atrioventricular conduction delay, associated with either therapeutic or modestly elevated carbamazepine serum levels. Because carbamazepine is widely used in the treatment of many neurologic and psychiatric conditions, the recognition of the latter syndrome has important implications for the use of this drug in elderly patients.",
+    "title_plus_abst": "Carbamazepine-induced cardiac dysfunction. Characterization of two distinct clinical syndromes. A patient with sinus bradycardia and atrioventricular block, induced by carbamazepine, prompted an extensive literature review of all previously reported cases. From the analysis of these cases, two distinct forms of carbamazepine-associated cardiac dysfunction emerged. One patient group developed sinus tachycardias in the setting of a massive carbamazepine overdose. The second group consisted almost exclusively of elderly women who developed potentially life-threatening bradyarrhythmias or atrioventricular conduction delay, associated with either therapeutic or modestly elevated carbamazepine serum levels. Because carbamazepine is widely used in the treatment of many neurologic and psychiatric conditions, the recognition of the latter syndrome has important implications for the use of this drug in elderly patients.",
+    "pubmed_id": "1728915",
+    "entities": [
+        [
+            0,
+            13,
+            "Carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            22,
+            41,
+            "cardiac dysfunction",
+            "Disease",
+            "D006331"
+        ],
+        [
+            117,
+            128,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            133,
+            155,
+            "atrioventricular block",
+            "Disease",
+            "D054537"
+        ],
+        [
+            168,
+            181,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            313,
+            326,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            338,
+            357,
+            "cardiac dysfunction",
+            "Disease",
+            "D006331"
+        ],
+        [
+            395,
+            413,
+            "sinus tachycardias",
+            "Disease",
+            "D013616"
+        ],
+        [
+            442,
+            455,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            456,
+            464,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            572,
+            588,
+            "bradyarrhythmias",
+            "Disease",
+            "D001919"
+        ],
+        [
+            592,
+            625,
+            "atrioventricular conduction delay",
+            "Disease",
+            "D054537"
+        ],
+        [
+            683,
+            696,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            719,
+            732,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            788,
+            799,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ]
+    ],
+    "split_sentence": [
+        "Carbamazepine-induced cardiac dysfunction.",
+        "Characterization of two distinct clinical syndromes.",
+        "A patient with sinus bradycardia and atrioventricular block, induced by carbamazepine, prompted an extensive literature review of all previously reported cases.",
+        "From the analysis of these cases, two distinct forms of carbamazepine-associated cardiac dysfunction emerged.",
+        "One patient group developed sinus tachycardias in the setting of a massive carbamazepine overdose.",
+        "The second group consisted almost exclusively of elderly women who developed potentially life-threatening bradyarrhythmias or atrioventricular conduction delay, associated with either therapeutic or modestly elevated carbamazepine serum levels.",
+        "Because carbamazepine is widely used in the treatment of many neurologic and psychiatric conditions, the recognition of the latter syndrome has important implications for the use of this drug in elderly patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002220\tChemical\tCarbamazepine\t<target> Carbamazepine </target> -induced cardiac dysfunction .",
+        "D006331\tDisease\tcardiac dysfunction\tCarbamazepine-induced <target> cardiac dysfunction </target> .",
+        "D001919\tDisease\tbradycardia\tA patient with sinus <target> bradycardia </target> and atrioventricular block , induced by carbamazepine , prompted an extensive literature review of all previously reported cases .",
+        "D054537\tDisease\tatrioventricular block\tA patient with sinus bradycardia and <target> atrioventricular block </target> , induced by carbamazepine , prompted an extensive literature review of all previously reported cases .",
+        "D002220\tChemical\tcarbamazepine\tA patient with sinus bradycardia and atrioventricular block , induced by <target> carbamazepine </target> , prompted an extensive literature review of all previously reported cases .",
+        "D002220\tChemical\tcarbamazepine\tFrom the analysis of these cases , two distinct forms of <target> carbamazepine </target> -associated cardiac dysfunction emerged .",
+        "D006331\tDisease\tcardiac dysfunction\tFrom the analysis of these cases , two distinct forms of carbamazepine-associated <target> cardiac dysfunction </target> emerged .",
+        "D013616\tDisease\tsinus tachycardias\tOne patient group developed <target> sinus tachycardias </target> in the setting of a massive carbamazepine overdose .",
+        "D002220\tChemical\tcarbamazepine\tOne patient group developed sinus tachycardias in the setting of a massive <target> carbamazepine </target> overdose .",
+        "D062787\tDisease\toverdose\tOne patient group developed sinus tachycardias in the setting of a massive carbamazepine <target> overdose </target> .",
+        "D001919\tDisease\tbradyarrhythmias\tThe second group consisted almost exclusively of elderly women who developed potentially life-threatening <target> bradyarrhythmias </target> or atrioventricular conduction delay , associated with either therapeutic or modestly elevated carbamazepine serum levels .",
+        "D054537\tDisease\tatrioventricular conduction delay\tThe second group consisted almost exclusively of elderly women who developed potentially life-threatening bradyarrhythmias or <target> atrioventricular conduction delay </target> , associated with either therapeutic or modestly elevated carbamazepine serum levels .",
+        "D002220\tChemical\tcarbamazepine\tThe second group consisted almost exclusively of elderly women who developed potentially life-threatening bradyarrhythmias or atrioventricular conduction delay , associated with either therapeutic or modestly elevated <target> carbamazepine </target> serum levels .",
+        "D002220\tChemical\tcarbamazepine\tBecause <target> carbamazepine </target> is widely used in the treatment of many neurologic and psychiatric conditions , the recognition of the latter syndrome has important implications for the use of this drug in elderly patients .",
+        "D001523\tDisease\tpsychiatric\tBecause carbamazepine is widely used in the treatment of many neurologic and <target> psychiatric </target> conditions , the recognition of the latter syndrome has important implications for the use of this drug in elderly patients ."
+    ],
+    "lines_lemma": [
+        "D002220\tChemical\tCarbamazepine\t<target> carbamazepine </target> -induced cardiac dysfunction .",
+        "D006331\tDisease\tcardiac dysfunction\tcarbamazepine-induced <target> cardiac dysfunction </target> .",
+        "D001919\tDisease\tbradycardia\ta patient with sinus <target> bradycardia </target> and atrioventricular block , induce by carbamazepine , prompt an extensive literature review of all previously report case .",
+        "D054537\tDisease\tatrioventricular block\ta patient with sinus bradycardia and <target> atrioventricular block </target> , induce by carbamazepine , prompt an extensive literature review of all previously report case .",
+        "D002220\tChemical\tcarbamazepine\ta patient with sinus bradycardia and atrioventricular block , induce by <target> carbamazepine </target> , prompt an extensive literature review of all previously report case .",
+        "D002220\tChemical\tcarbamazepine\tfrom the analysis of these case , two distinct form of <target> carbamazepine </target> -associated cardiac dysfunction emerge .",
+        "D006331\tDisease\tcardiac dysfunction\tfrom the analysis of these case , two distinct form of carbamazepine-associated <target> cardiac dysfunction </target> emerge .",
+        "D013616\tDisease\tsinus tachycardias\tone patient group develop <target> sinus tachycardia </target> in the setting of a massive carbamazepine overdose .",
+        "D002220\tChemical\tcarbamazepine\tone patient group develop sinus tachycardia in the setting of a massive <target> carbamazepine </target> overdose .",
+        "D062787\tDisease\toverdose\tone patient group develop sinus tachycardia in the setting of a massive carbamazepine <target> overdose </target> .",
+        "D001919\tDisease\tbradyarrhythmias\tthe second group consist almost exclusively of elderly woman who develop potentially life-threatening <target> bradyarrhythmia </target> or atrioventricular conduction delay , associate with either therapeutic or modestly elevated carbamazepine serum level .",
+        "D054537\tDisease\tatrioventricular conduction delay\tthe second group consist almost exclusively of elderly woman who develop potentially life-threatening bradyarrhythmia or <target> atrioventricular conduction delay </target> , associate with either therapeutic or modestly elevated carbamazepine serum level .",
+        "D002220\tChemical\tcarbamazepine\tthe second group consist almost exclusively of elderly woman who develop potentially life-threatening bradyarrhythmia or atrioventricular conduction delay , associate with either therapeutic or modestly elevated <target> carbamazepine </target> serum level .",
+        "D002220\tChemical\tcarbamazepine\tbecause <target> carbamazepine </target> be widely use in the treatment of many neurologic and psychiatric condition , the recognition of the latter syndrome have important implication for the use of this drug in elderly patient .",
+        "D001523\tDisease\tpsychiatric\tbecause carbamazepine be widely use in the treatment of many neurologic and <target> psychiatric </target> condition , the recognition of the latter syndrome have important implication for the use of this drug in elderly patient ."
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "title": "Prazosin-induced stress incontinence.",
+    "abst": "A case of genuine stress incontinence due to prazosin, a common antihypertensive drug, is presented. Prazosin exerts its antihypertensive effects through vasodilatation caused by selective blockade of postsynaptic alpha-1 adrenergic receptors. As an alpha-blocker, it also exerts a significant relaxant effect on the bladder neck and urethra. The patient's clinical course is described and correlated with initial urodynamic studies while on prazosin and subsequent studies while taking verapamil. Her incontinence resolved with the change of medication. The restoration of continence was accompanied by a substantial rise in maximum urethral pressure, maximum urethral closure pressure, and functional urethral length. Patients who present with stress incontinence while taking prazosin should change their antihypertensive medication before considering surgery, because their incontinence may resolve spontaneously with a change in drug therapy.",
+    "title_plus_abst": "Prazosin-induced stress incontinence. A case of genuine stress incontinence due to prazosin, a common antihypertensive drug, is presented. Prazosin exerts its antihypertensive effects through vasodilatation caused by selective blockade of postsynaptic alpha-1 adrenergic receptors. As an alpha-blocker, it also exerts a significant relaxant effect on the bladder neck and urethra. The patient's clinical course is described and correlated with initial urodynamic studies while on prazosin and subsequent studies while taking verapamil. Her incontinence resolved with the change of medication. The restoration of continence was accompanied by a substantial rise in maximum urethral pressure, maximum urethral closure pressure, and functional urethral length. Patients who present with stress incontinence while taking prazosin should change their antihypertensive medication before considering surgery, because their incontinence may resolve spontaneously with a change in drug therapy.",
+    "pubmed_id": "2304736",
+    "entities": [
+        [
+            0,
+            8,
+            "Prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            17,
+            36,
+            "stress incontinence",
+            "Disease",
+            "D014550"
+        ],
+        [
+            56,
+            75,
+            "stress incontinence",
+            "Disease",
+            "D014550"
+        ],
+        [
+            83,
+            91,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            139,
+            147,
+            "Prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            480,
+            488,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            525,
+            534,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            540,
+            552,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            784,
+            803,
+            "stress incontinence",
+            "Disease",
+            "D014550"
+        ],
+        [
+            817,
+            825,
+            "prazosin",
+            "Chemical",
+            "D011224"
+        ],
+        [
+            916,
+            928,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ]
+    ],
+    "split_sentence": [
+        "Prazosin-induced stress incontinence.",
+        "A case of genuine stress incontinence due to prazosin, a common antihypertensive drug, is presented.",
+        "Prazosin exerts its antihypertensive effects through vasodilatation caused by selective blockade of postsynaptic alpha-1 adrenergic receptors.",
+        "As an alpha-blocker, it also exerts a significant relaxant effect on the bladder neck and urethra.",
+        "The patient's clinical course is described and correlated with initial urodynamic studies while on prazosin and subsequent studies while taking verapamil.",
+        "Her incontinence resolved with the change of medication.",
+        "The restoration of continence was accompanied by a substantial rise in maximum urethral pressure, maximum urethral closure pressure, and functional urethral length.",
+        "Patients who present with stress incontinence while taking prazosin should change their antihypertensive medication before considering surgery, because their incontinence may resolve spontaneously with a change in drug therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011224\tChemical\tPrazosin\t<target> Prazosin </target> -induced stress incontinence .",
+        "D014550\tDisease\tstress incontinence\tPrazosin-induced <target> stress incontinence </target> .",
+        "D014550\tDisease\tstress incontinence\tA case of genuine <target> stress incontinence </target> due to prazosin , a common antihypertensive drug , is presented .",
+        "D011224\tChemical\tprazosin\tA case of genuine stress incontinence due to <target> prazosin </target> , a common antihypertensive drug , is presented .",
+        "D011224\tChemical\tPrazosin\t<target> Prazosin </target> exerts its antihypertensive effects through vasodilatation caused by selective blockade of postsynaptic alpha-1 adrenergic receptors .",
+        "D011224\tChemical\tprazosin\tThe patient 's clinical course is described and correlated with initial urodynamic studies while on <target> prazosin </target> and subsequent studies while taking verapamil .",
+        "D014700\tChemical\tverapamil\tThe patient 's clinical course is described and correlated with initial urodynamic studies while on prazosin and subsequent studies while taking <target> verapamil </target> .",
+        "D014549\tDisease\tincontinence\tHer <target> incontinence </target> resolved with the change of medication .",
+        "D014550\tDisease\tstress incontinence\tPatients who present with <target> stress incontinence </target> while taking prazosin should change their antihypertensive medication before considering surgery , because their incontinence may resolve spontaneously with a change in drug therapy .",
+        "D011224\tChemical\tprazosin\tPatients who present with stress incontinence while taking <target> prazosin </target> should change their antihypertensive medication before considering surgery , because their incontinence may resolve spontaneously with a change in drug therapy .",
+        "D014549\tDisease\tincontinence\tPatients who present with stress incontinence while taking prazosin should change their antihypertensive medication before considering surgery , because their <target> incontinence </target> may resolve spontaneously with a change in drug therapy ."
+    ],
+    "lines_lemma": [
+        "D011224\tChemical\tPrazosin\t<target> prazosin </target> -induced stress incontinence .",
+        "D014550\tDisease\tstress incontinence\tprazosin-induced <target> stress incontinence </target> .",
+        "D014550\tDisease\tstress incontinence\ta case of genuine <target> stress incontinence </target> due to prazosin , a common antihypertensive drug , be present .",
+        "D011224\tChemical\tprazosin\ta case of genuine stress incontinence due to <target> prazosin </target> , a common antihypertensive drug , be present .",
+        "D011224\tChemical\tPrazosin\t<target> prazosin </target> exert its antihypertensive effect through vasodilatation cause by selective blockade of postsynaptic alpha-1 adrenergic receptor .",
+        "D011224\tChemical\tprazosin\tthe patient 's clinical course be describe and correlate with initial urodynamic study while on <target> prazosin </target> and subsequent study while take verapamil .",
+        "D014700\tChemical\tverapamil\tthe patient 's clinical course be describe and correlate with initial urodynamic study while on prazosin and subsequent study while take <target> verapamil </target> .",
+        "D014549\tDisease\tincontinence\ther <target> incontinence </target> resolve with the change of medication .",
+        "D014550\tDisease\tstress incontinence\tpatient who present with <target> stress incontinence </target> while take prazosin should change their antihypertensive medication before consider surgery , because their incontinence may resolve spontaneously with a change in drug therapy .",
+        "D011224\tChemical\tprazosin\tpatient who present with stress incontinence while take <target> prazosin </target> should change their antihypertensive medication before consider surgery , because their incontinence may resolve spontaneously with a change in drug therapy .",
+        "D014549\tDisease\tincontinence\tpatient who present with stress incontinence while take prazosin should change their antihypertensive medication before consider surgery , because their <target> incontinence </target> may resolve spontaneously with a change in drug therapy ."
+    ]
+}

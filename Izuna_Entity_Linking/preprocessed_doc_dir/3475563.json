@@ -1,0 +1,185 @@
+{
+    "title": "Rechallenge of patients who developed oral candidiasis or hoarseness with beclomethasone dipropionate.",
+    "abst": "Of 158 asthmatic patients who were placed on inhaled beclomethasone, 15 (9.5%) developed either hoarseness (8), oral thrush (6), or both (1). When their adverse reactions subsided, seven of these 15 patients were rechallenged with inhaled beclomethasone. These included five cases who developed hoarseness and three who developed Candidiasis. One patient had both. Oral thrush did not recur, but 60% (3/5) of patients with hoarseness had recurrence. We conclude that patients may be restarted on inhaled beclomethasone when clinically indicated; however, because of the high recurrence rate, patients who develop hoarseness should not be re-challenged. Concomitant use of oral prednisone and topical beclomethasone may increase the risk of developing hoarseness or candidiasis.",
+    "title_plus_abst": "Rechallenge of patients who developed oral candidiasis or hoarseness with beclomethasone dipropionate. Of 158 asthmatic patients who were placed on inhaled beclomethasone, 15 (9.5%) developed either hoarseness (8), oral thrush (6), or both (1). When their adverse reactions subsided, seven of these 15 patients were rechallenged with inhaled beclomethasone. These included five cases who developed hoarseness and three who developed Candidiasis. One patient had both. Oral thrush did not recur, but 60% (3/5) of patients with hoarseness had recurrence. We conclude that patients may be restarted on inhaled beclomethasone when clinically indicated; however, because of the high recurrence rate, patients who develop hoarseness should not be re-challenged. Concomitant use of oral prednisone and topical beclomethasone may increase the risk of developing hoarseness or candidiasis.",
+    "pubmed_id": "3475563",
+    "entities": [
+        [
+            38,
+            54,
+            "oral candidiasis",
+            "Disease",
+            "D002180"
+        ],
+        [
+            58,
+            68,
+            "hoarseness",
+            "Disease",
+            "D006685"
+        ],
+        [
+            74,
+            101,
+            "beclomethasone dipropionate",
+            "Chemical",
+            "D001507"
+        ],
+        [
+            110,
+            119,
+            "asthmatic",
+            "Disease",
+            "D001249"
+        ],
+        [
+            156,
+            170,
+            "beclomethasone",
+            "Chemical",
+            "D001507"
+        ],
+        [
+            199,
+            209,
+            "hoarseness",
+            "Disease",
+            "D006685"
+        ],
+        [
+            220,
+            226,
+            "thrush",
+            "Disease",
+            "D002180"
+        ],
+        [
+            342,
+            356,
+            "beclomethasone",
+            "Chemical",
+            "D001507"
+        ],
+        [
+            398,
+            408,
+            "hoarseness",
+            "Disease",
+            "D006685"
+        ],
+        [
+            433,
+            444,
+            "Candidiasis",
+            "Disease",
+            "D002177"
+        ],
+        [
+            473,
+            479,
+            "thrush",
+            "Disease",
+            "D002180"
+        ],
+        [
+            526,
+            536,
+            "hoarseness",
+            "Disease",
+            "D006685"
+        ],
+        [
+            607,
+            621,
+            "beclomethasone",
+            "Chemical",
+            "D001507"
+        ],
+        [
+            716,
+            726,
+            "hoarseness",
+            "Disease",
+            "D006685"
+        ],
+        [
+            780,
+            790,
+            "prednisone",
+            "Chemical",
+            "D011241"
+        ],
+        [
+            803,
+            817,
+            "beclomethasone",
+            "Chemical",
+            "D001507"
+        ],
+        [
+            854,
+            864,
+            "hoarseness",
+            "Disease",
+            "D006685"
+        ],
+        [
+            868,
+            879,
+            "candidiasis",
+            "Disease",
+            "D002177"
+        ]
+    ],
+    "split_sentence": [
+        "Rechallenge of patients who developed oral candidiasis or hoarseness with beclomethasone dipropionate.",
+        "Of 158 asthmatic patients who were placed on inhaled beclomethasone, 15 (9.5%) developed either hoarseness (8), oral thrush (6), or both (1).",
+        "When their adverse reactions subsided, seven of these 15 patients were rechallenged with inhaled beclomethasone.",
+        "These included five cases who developed hoarseness and three who developed Candidiasis.",
+        "One patient had both.",
+        "Oral thrush did not recur, but 60% (3/5) of patients with hoarseness had recurrence.",
+        "We conclude that patients may be restarted on inhaled beclomethasone when clinically indicated; however, because of the high recurrence rate, patients who develop hoarseness should not be re-challenged.",
+        "Concomitant use of oral prednisone and topical beclomethasone may increase the risk of developing hoarseness or candidiasis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002180\tDisease\toral candidiasis\tRechallenge of patients who developed <target> oral candidiasis </target> or hoarseness with beclomethasone dipropionate .",
+        "D006685\tDisease\thoarseness\tRechallenge of patients who developed oral candidiasis or <target> hoarseness </target> with beclomethasone dipropionate .",
+        "D001507\tChemical\tbeclomethasone dipropionate\tRechallenge of patients who developed oral candidiasis or hoarseness with <target> beclomethasone dipropionate </target> .",
+        "D001249\tDisease\tasthmatic\tOf 158 <target> asthmatic </target> patients who were placed on inhaled beclomethasone , 15 ( 9.5 % ) developed either hoarseness ( 8) , oral thrush ( 6 ) , or both ( 1 ) .",
+        "D001507\tChemical\tbeclomethasone\tOf 158 asthmatic patients who were placed on inhaled <target> beclomethasone </target> , 15 ( 9.5 % ) developed either hoarseness ( 8) , oral thrush ( 6 ) , or both ( 1 ) .",
+        "D006685\tDisease\thoarseness\tOf 158 asthmatic patients who were placed on inhaled beclomethasone , 15 ( 9.5 % ) developed either <target> hoarseness </target> ( 8) , oral thrush ( 6 ) , or both ( 1 ) .",
+        "D002180\tDisease\tthrush\tOf 158 asthmatic patients who were placed on inhaled beclomethasone , 15 ( 9.5 % ) developed either hoarseness ( 8) , oral <target> thrush </target> ( 6 ) , or both ( 1 ) .",
+        "D001507\tChemical\tbeclomethasone\tWhen their adverse reactions subsided , seven of these 15 patients were rechallenged with inhaled <target> beclomethasone </target> .",
+        "D006685\tDisease\thoarseness\tThese included five cases who developed <target> hoarseness </target> and three who developed Candidiasis .",
+        "D002177\tDisease\tCandidiasis\tThese included five cases who developed hoarseness and three who developed <target> Candidiasis </target> .",
+        "D002180\tDisease\tthrush\tOral <target> thrush </target> did not recur , but 60 % ( 3/5 ) of patients with hoarseness had recurrence .",
+        "D006685\tDisease\thoarseness\tOral thrush did not recur , but 60 % ( 3/5 ) of patients with <target> hoarseness </target> had recurrence .",
+        "D001507\tChemical\tbeclomethasone\tWe conclude that patients may be restarted on inhaled <target> beclomethasone </target> when clinically indicated ; however , because of the high recurrence rate , patients who develop hoarseness should not be re-challenged .",
+        "D006685\tDisease\thoarseness\tWe conclude that patients may be restarted on inhaled beclomethasone when clinically indicated ; however , because of the high recurrence rate , patients who develop <target> hoarseness </target> should not be re-challenged .",
+        "D011241\tChemical\tprednisone\tConcomitant use of oral <target> prednisone </target> and topical beclomethasone may increase the risk of developing hoarseness or candidiasis .",
+        "D001507\tChemical\tbeclomethasone\tConcomitant use of oral prednisone and topical <target> beclomethasone </target> may increase the risk of developing hoarseness or candidiasis .",
+        "D006685\tDisease\thoarseness\tConcomitant use of oral prednisone and topical beclomethasone may increase the risk of developing <target> hoarseness </target> or candidiasis .",
+        "D002177\tDisease\tcandidiasis\tConcomitant use of oral prednisone and topical beclomethasone may increase the risk of developing hoarseness or <target> candidiasis </target> ."
+    ],
+    "lines_lemma": [
+        "D002180\tDisease\toral candidiasis\trechallenge of patient who develop <target> oral candidiasis </target> or hoarseness with beclomethasone dipropionate .",
+        "D006685\tDisease\thoarseness\trechallenge of patient who develop oral candidiasis or <target> hoarseness </target> with beclomethasone dipropionate .",
+        "D001507\tChemical\tbeclomethasone dipropionate\trechallenge of patient who develop oral candidiasis or hoarseness with <target> beclomethasone dipropionate </target> .",
+        "D001249\tDisease\tasthmatic\tof 158 <target> asthmatic </target> patient who be place on inhale beclomethasone , 15 ( 9.5 % ) develop either hoarseness ( 8) , oral thrush ( 6 ) , or both ( 1 ) .",
+        "D001507\tChemical\tbeclomethasone\tof 158 asthmatic patient who be place on inhale <target> beclomethasone </target> , 15 ( 9.5 % ) develop either hoarseness ( 8) , oral thrush ( 6 ) , or both ( 1 ) .",
+        "D006685\tDisease\thoarseness\tof 158 asthmatic patient who be place on inhale beclomethasone , 15 ( 9.5 % ) develop either <target> hoarseness </target> ( 8) , oral thrush ( 6 ) , or both ( 1 ) .",
+        "D002180\tDisease\tthrush\tof 158 asthmatic patient who be place on inhale beclomethasone , 15 ( 9.5 % ) develop either hoarseness ( 8) , oral <target> thrush </target> ( 6 ) , or both ( 1 ) .",
+        "D001507\tChemical\tbeclomethasone\twhen their adverse reaction subside , seven of these 15 patient be rechallenge with inhale <target> beclomethasone </target> .",
+        "D006685\tDisease\thoarseness\tthese include five case who develop <target> hoarseness </target> and three who develop Candidiasis .",
+        "D002177\tDisease\tCandidiasis\tthese include five case who develop hoarseness and three who develop <target> candidiasis </target> .",
+        "D002180\tDisease\tthrush\toral <target> thrush </target> do not recur , but 60 % ( 3/5 ) of patient with hoarseness have recurrence .",
+        "D006685\tDisease\thoarseness\toral thrush do not recur , but 60 % ( 3/5 ) of patient with <target> hoarseness </target> have recurrence .",
+        "D001507\tChemical\tbeclomethasone\twe conclude that patient may be restart on inhale <target> beclomethasone </target> when clinically indicate ; however , because of the high recurrence rate , patient who develop hoarseness should not be re-challenge .",
+        "D006685\tDisease\thoarseness\twe conclude that patient may be restart on inhale beclomethasone when clinically indicate ; however , because of the high recurrence rate , patient who develop <target> hoarseness </target> should not be re-challenge .",
+        "D011241\tChemical\tprednisone\tconcomitant use of oral <target> prednisone </target> and topical beclomethasone may increase the risk of develop hoarseness or candidiasis .",
+        "D001507\tChemical\tbeclomethasone\tconcomitant use of oral prednisone and topical <target> beclomethasone </target> may increase the risk of develop hoarseness or candidiasis .",
+        "D006685\tDisease\thoarseness\tconcomitant use of oral prednisone and topical beclomethasone may increase the risk of develop <target> hoarseness </target> or candidiasis .",
+        "D002177\tDisease\tcandidiasis\tconcomitant use of oral prednisone and topical beclomethasone may increase the risk of develop hoarseness or <target> candidiasis </target> ."
+    ]
+}

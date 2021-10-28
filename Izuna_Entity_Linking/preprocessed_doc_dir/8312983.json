@@ -1,0 +1,139 @@
+{
+    "title": "Delirium during fluoxetine treatment. A case report.",
+    "abst": "The correlation between high serum tricyclic antidepressant concentrations and central nervous system side effects has been well established. Only a few reports exist, however, on the relationship between the serum concentrations of selective serotonin reuptake inhibitors (SSRIs) and their toxic effects. In some cases, a high serum concentration of citalopram (> 600 nmol/L) in elderly patients has been associated with increased somnolence and movement difficulties. Widespread cognitive disorders, such as delirium, have not been previously linked with high blood levels of SSRIs. In this report, we describe a patient with acute hyperkinetic delirium connected with a high serum total fluoxetine (fluoxetine plus desmethylfluoxetine) concentration.",
+    "title_plus_abst": "Delirium during fluoxetine treatment. A case report. The correlation between high serum tricyclic antidepressant concentrations and central nervous system side effects has been well established. Only a few reports exist, however, on the relationship between the serum concentrations of selective serotonin reuptake inhibitors (SSRIs) and their toxic effects. In some cases, a high serum concentration of citalopram (> 600 nmol/L) in elderly patients has been associated with increased somnolence and movement difficulties. Widespread cognitive disorders, such as delirium, have not been previously linked with high blood levels of SSRIs. In this report, we describe a patient with acute hyperkinetic delirium connected with a high serum total fluoxetine (fluoxetine plus desmethylfluoxetine) concentration.",
+    "pubmed_id": "8312983",
+    "entities": [
+        [
+            0,
+            8,
+            "Delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            16,
+            26,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            296,
+            305,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            404,
+            414,
+            "citalopram",
+            "Chemical",
+            "D015283"
+        ],
+        [
+            485,
+            495,
+            "somnolence",
+            "Disease",
+            "D006970"
+        ],
+        [
+            500,
+            521,
+            "movement difficulties",
+            "Disease",
+            "D020820"
+        ],
+        [
+            534,
+            553,
+            "cognitive disorders",
+            "Disease",
+            "D003072"
+        ],
+        [
+            563,
+            571,
+            "delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            687,
+            699,
+            "hyperkinetic",
+            "Disease",
+            "D006948"
+        ],
+        [
+            700,
+            708,
+            "delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            743,
+            753,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            755,
+            765,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            771,
+            790,
+            "desmethylfluoxetine",
+            "Chemical",
+            "C036139"
+        ]
+    ],
+    "split_sentence": [
+        "Delirium during fluoxetine treatment.",
+        "A case report.",
+        "The correlation between high serum tricyclic antidepressant concentrations and central nervous system side effects has been well established.",
+        "Only a few reports exist, however, on the relationship between the serum concentrations of selective serotonin reuptake inhibitors (SSRIs) and their toxic effects.",
+        "In some cases, a high serum concentration of citalopram (> 600 nmol/L) in elderly patients has been associated with increased somnolence and movement difficulties.",
+        "Widespread cognitive disorders, such as delirium, have not been previously linked with high blood levels of SSRIs.",
+        "In this report, we describe a patient with acute hyperkinetic delirium connected with a high serum total fluoxetine (fluoxetine plus desmethylfluoxetine) concentration."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003693\tDisease\tDelirium\t<target> Delirium </target> during fluoxetine treatment .",
+        "D005473\tChemical\tfluoxetine\tDelirium during <target> fluoxetine </target> treatment .",
+        "D012701\tChemical\tserotonin\tOnly a few reports exist , however , on the relationship between the serum concentrations of selective <target> serotonin </target> reuptake inhibitors ( SSRIs ) and their toxic effects .",
+        "D015283\tChemical\tcitalopram\tIn some cases , a high serum concentration of <target> citalopram </target> ( > 600 nmol/L ) in elderly patients has been associated with increased somnolence and movement difficulties .",
+        "D006970\tDisease\tsomnolence\tIn some cases , a high serum concentration of citalopram ( > 600 nmol/L ) in elderly patients has been associated with increased <target> somnolence </target> and movement difficulties .",
+        "D020820\tDisease\tmovement difficulties\tIn some cases , a high serum concentration of citalopram ( > 600 nmol/L ) in elderly patients has been associated with increased somnolence and <target> movement difficulties </target> .",
+        "D003072\tDisease\tcognitive disorders\tWidespread <target> cognitive disorders </target> , such as delirium , have not been previously linked with high blood levels of SSRIs .",
+        "D003693\tDisease\tdelirium\tWidespread cognitive disorders , such as <target> delirium </target> , have not been previously linked with high blood levels of SSRIs .",
+        "D006948\tDisease\thyperkinetic\tIn this report , we describe a patient with acute <target> hyperkinetic </target> delirium connected with a high serum total fluoxetine ( fluoxetine plus desmethylfluoxetine ) concentration .",
+        "D003693\tDisease\tdelirium\tIn this report , we describe a patient with acute hyperkinetic <target> delirium </target> connected with a high serum total fluoxetine ( fluoxetine plus desmethylfluoxetine ) concentration .",
+        "D005473\tChemical\tfluoxetine\tIn this report , we describe a patient with acute hyperkinetic delirium connected with a high serum total <target> fluoxetine </target> ( fluoxetine plus desmethylfluoxetine ) concentration .",
+        "D005473\tChemical\tfluoxetine\tIn this report , we describe a patient with acute hyperkinetic delirium connected with a high serum total fluoxetine ( <target> fluoxetine </target> plus desmethylfluoxetine ) concentration .",
+        "C036139\tChemical\tdesmethylfluoxetine\tIn this report , we describe a patient with acute hyperkinetic delirium connected with a high serum total fluoxetine ( fluoxetine plus <target> desmethylfluoxetine </target> ) concentration ."
+    ],
+    "lines_lemma": [
+        "D003693\tDisease\tDelirium\t<target> Delirium </target> during fluoxetine treatment .",
+        "D005473\tChemical\tfluoxetine\tDelirium during <target> fluoxetine </target> treatment .",
+        "D012701\tChemical\tserotonin\tonly a few report exist , however , on the relationship between the serum concentration of selective <target> serotonin </target> reuptake inhibitor ( ssri ) and their toxic effect .",
+        "D015283\tChemical\tcitalopram\tin some case , a high serum concentration of <target> citalopram </target> ( > 600 nmol/l ) in elderly patient have be associate with increase somnolence and movement difficulty .",
+        "D006970\tDisease\tsomnolence\tin some case , a high serum concentration of citalopram ( > 600 nmol/l ) in elderly patient have be associate with increase <target> somnolence </target> and movement difficulty .",
+        "D020820\tDisease\tmovement difficulties\tin some case , a high serum concentration of citalopram ( > 600 nmol/l ) in elderly patient have be associate with increase somnolence and <target> movement difficulty </target> .",
+        "D003072\tDisease\tcognitive disorders\tWidespread <target> cognitive disorder </target> , such as delirium , have not be previously link with high blood level of ssri .",
+        "D003693\tDisease\tdelirium\twidespread cognitive disorder , such as <target> delirium </target> , have not be previously link with high blood level of ssri .",
+        "D006948\tDisease\thyperkinetic\tin this report , we describe a patient with acute <target> hyperkinetic </target> delirium connect with a high serum total fluoxetine ( fluoxetine plus desmethylfluoxetine ) concentration .",
+        "D003693\tDisease\tdelirium\tin this report , we describe a patient with acute hyperkinetic <target> delirium </target> connect with a high serum total fluoxetine ( fluoxetine plus desmethylfluoxetine ) concentration .",
+        "D005473\tChemical\tfluoxetine\tin this report , we describe a patient with acute hyperkinetic delirium connect with a high serum total <target> fluoxetine </target> ( fluoxetine plus desmethylfluoxetine ) concentration .",
+        "D005473\tChemical\tfluoxetine\tin this report , we describe a patient with acute hyperkinetic delirium connect with a high serum total fluoxetine ( <target> fluoxetine </target> plus desmethylfluoxetine ) concentration .",
+        "C036139\tChemical\tdesmethylfluoxetine\tin this report , we describe a patient with acute hyperkinetic delirium connect with a high serum total fluoxetine ( fluoxetine plus <target> desmethylfluoxetine </target> ) concentration ."
+    ]
+}

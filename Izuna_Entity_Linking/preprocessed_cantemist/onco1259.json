@@ -1,0 +1,121 @@
+{
+    "entities": [
+        [
+            1921,
+            1935,
+            "Carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            2008,
+            2022,
+            "Carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            1624,
+            1648,
+            "afectación leptomeningea",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1759,
+            1785,
+            "diseminación leptomeningea",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1536,
+            1555,
+            "lesiones cerebrales",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1611,
+            1621,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            220,
+            271,
+            "adenocarcinoma de pulmón derecho estadio IV (pleura",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ],
+        [
+            1813,
+            1860,
+            "Adenocarcinoma de pulmón derecho con metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "SNC:  <objetivo> Carcinomatosis </objetivo> meníngea generalizada (cerebro, cerebelo, tronco, médula).",
+        "<objetivo> Carcinomatosis </objetivo> leptomeníngea.",
+        "SNC:  <objetivo> Carcinomatosis </objetivo> meníngea generalizada (cerebro, cerebelo, tronco, médula).",
+        "<objetivo> Carcinomatosis </objetivo> leptomeníngea.",
+        "-RM cerebral 2: Control evolutivo con aumento de tamaño de lesiones cerebrales y focos de captación intraparenquimatosa sugestivos de metástasis y  <objetivo> afectación leptomeningea </objetivo> ",
+        "-TC craneal: Discreto borramiento de los surcos de la convexidad cerebral y folias cerebelosas en relación a  <objetivo> diseminación leptomeningea </objetivo> ",
+        "-RM cerebral 2: Control evolutivo con aumento de tamaño de  <objetivo> lesiones cerebrales </objetivo> y focos de captación intraparenquimatosa sugestivos de metástasis y afectación leptomeningea.",
+        "-RM cerebral 2: Control evolutivo con aumento de tamaño de lesiones cerebrales y focos de captación intraparenquimatosa sugestivos de  <objetivo> metástasis </objetivo> y afectación leptomeningea.",
+        "-Informe de la necropsia: Adenocarcinoma de pulmón derecho con  <objetivo> metástasis </objetivo> en pulmón y pleura, ganglios linfáticos mediastínicos.",
+        "Diagnosticada en mayo de 2011 mediante TC torácica, broncoscopia y PET, a raíz de un cuadro de dolor torácico de características pleuríticas de  <objetivo> adenocarcinoma de pulmón derecho estadio IV (pleura </objetivo> y hueso).",
+        "-Informe de la necropsia:  <objetivo> Adenocarcinoma de pulmón derecho con metástasis </objetivo> en pulmón y pleura, ganglios linfáticos mediastínicos."
+    ],
+    "lines_lemma": [
+        "snc :   <objetivo> Carcinomatosis </objetivo> meníngea generalizado ( cerebro , cerebelo , tronco , médula ) .",
+        "<objetivo> Carcinomatosis </objetivo> leptomeníngea .",
+        "snc :   <objetivo> Carcinomatosis </objetivo> meníngea generalizado ( cerebro , cerebelo , tronco , médula ) .",
+        "<objetivo> Carcinomatosis </objetivo> leptomeníngea .",
+        "-rm cerebral 2 : Control evolutivo con aumento de tamaño de lesión cerebral y foco de captación intraparenquimatós sugestivo de metástasis y   <objetivo> afectación leptomeningear </objetivo>",
+        "-tc craneal : discretir borramiento de el surco de el convexidad cerebral y folia cerebelosa en relación a   <objetivo> diseminación leptomeningea </objetivo>",
+        "-rm cerebral 2 : Control evolutivo con aumento de tamaño de   <objetivo> lesión cerebral </objetivo> y foco de captación intraparenquimatós sugestivo de metástasis y afectación leptomeningea .",
+        "-rm cerebral 2 : Control evolutivo con aumento de tamaño de lesión cerebral y foco de captación intraparenquimatós sugestivo de   <objetivo> metástasi </objetivo> y afectación leptomeningea .",
+        "-informe de el necropsia : Adenocarcinoma de pulmón derecho con   <objetivo> metástasi </objetivo> en pulmón y pleura , ganglio linfático mediastínico .",
+        "diagnosticado en mayo de 2011 mediante TC torácico , broncoscopio y PET , a raíz de uno cuadro de dolor torácico de característica pleurítica de   <objetivo> adenocarcinomar de pulmón derecho estadio IV ( pleura </objetivo> y hueso ) .",
+        "-informe de el necropsia :   <objetivo> Adenocarcinoma de pulmón derecho con metástasis </objetivo> en pulmón y pleura , ganglio linfático mediastínico ."
+    ],
+    "pubmed_id": "onco1259",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 52 años fumadora de 15 paquetes-años hasta hace 10 años.",
+        "Diagnosticada en mayo de 2011 mediante TC torácica, broncoscopia y PET, a raíz de un cuadro de dolor torácico de características pleuríticas de adenocarcinoma de pulmón derecho estadio IV (pleura y hueso).",
+        "El estudio de las mutaciones de EGFR resultó ser positivo.",
+        "Inició gefitinb con buena tolerancia, salvo episodios febriles de probable origen paraneoplásico controlados con naproxeno y acné de grado 1.",
+        "En febrero de 2012 se demuestra una respuesta parcial mantenida.",
+        "Posteriormente presentó sintomatología de pérdida de fuerza en la extremidad superior izquierda.",
+        "Examen físico",
+        "Únicamente destacaba a la exploración neurológica una fuerza 4/5 en ESI; resto 5/5.",
+        "Pruebas complementarias",
+        "Hemograma y bioquímica normal, salvo dímero-D 20.000.",
+        "Bioquímica LCR: glucosa 9 mg/dl; proteínas totales 30 mg/dl; hematíes 1 mm3, células 5 mm3, ADA 29 U/l, ECA 3 U/l.",
+        "Anticuerpos antineuronales negativos.",
+        "-Microbiología de LCR: PCR de herpes simplex 1 y 2, parvovirus JC y Mycobacterium tuberculosis complex negativos, VDRL Treponema pallidum negativo; Citologías de ambas punciones lumbares negativas",
+        "-AngioTC torácico: TEP bilateral extenso",
+        "-RM cerebral: hiperintensidad de señal en sustancia blanca de polos anteriores de lóbulos temporales de características inespecíficas que podrían estar en relación con afectación toxico-metabólica.",
+        "-EEG : Actividad cerebral difusamente enlentecida en grado leve.",
+        "-RM cerebral 2: Control evolutivo con aumento de tamaño de lesiones cerebrales y focos de captación intraparenquimatosa sugestivos de metástasis y afectación leptomeningea.",
+        "-TC craneal: Discreto borramiento de los surcos de la convexidad cerebral y folias cerebelosas en relación a diseminación leptomeningea.",
+        "-Informe de la necropsia: Adenocarcinoma de pulmón derecho con metástasis en pulmón y pleura, ganglios linfáticos mediastínicos.",
+        "SNC: Carcinomatosis meníngea generalizada (cerebro, cerebelo, tronco, médula).",
+        "Diagnóstico",
+        "Carcinomatosis leptomeníngea.",
+        "Tratamiento",
+        "Se inició tratamiento con esteroides, añadiéndose fenitoína y levetirazepam tras constatarse la presencia de crisis, junto con enoxaparina a dosis anticoagulantes para tratamiento del TEP.",
+        "Evolución",
+        "Ingresó por presentar episodios de emesis, desconexión y parestesias en la extremidad superior derecha.",
+        "Evolucionó con deterioro progresivo del nivel de conciencia y crisis parciales, siendo valorada por Neurología y se realizaron dos punciones lumbares con presencia de meningismo en el momento de su realización y presión elevada.",
+        "Los estudios radiológicos iniciales tampoco orientaron sobre el origen del cuadro, lo que obligó a realizar más pruebas complementarias.",
+        "A pesar de tratamiento sintomático, el deterioro se hizo notable, se complicó con un tromboembolismo pulmonar y, finalmente, la paciente falleció."
+    ],
+    "text": "Anamnesis\nMujer de 52 años fumadora de 15 paquetes-años hasta hace 10 años.\nDiagnosticada en mayo de 2011 mediante TC torácica, broncoscopia y PET, a raíz de un cuadro de dolor torácico de características pleuríticas de adenocarcinoma de pulmón derecho estadio IV (pleura y hueso). El estudio de las mutaciones de EGFR resultó ser positivo.\nInició gefitinb con buena tolerancia, salvo episodios febriles de probable origen paraneoplásico controlados con naproxeno y acné de grado 1. En febrero de 2012 se demuestra una respuesta parcial mantenida.\nPosteriormente presentó sintomatología de pérdida de fuerza en la extremidad superior izquierda.\n\nExamen físico\nÚnicamente destacaba a la exploración neurológica una fuerza 4/5 en ESI; resto 5/5.\n\nPruebas complementarias\nHemograma y bioquímica normal, salvo dímero-D 20.000.\nBioquímica LCR: glucosa 9 mg/dl; proteínas totales 30 mg/dl; hematíes 1 mm3, células 5 mm3, ADA 29 U/l, ECA 3 U/l.\nAnticuerpos antineuronales negativos.\n-Microbiología de LCR: PCR de herpes simplex 1 y 2, parvovirus JC y Mycobacterium tuberculosis complex negativos, VDRL Treponema pallidum negativo; Citologías de ambas punciones lumbares negativas\n-AngioTC torácico: TEP bilateral extenso\n-RM cerebral: hiperintensidad de señal en sustancia blanca de polos anteriores de lóbulos temporales de características inespecíficas que podrían estar en relación con afectación toxico-metabólica.\n-EEG : Actividad cerebral difusamente enlentecida en grado leve.\n-RM cerebral 2: Control evolutivo con aumento de tamaño de lesiones cerebrales y focos de captación intraparenquimatosa sugestivos de metástasis y afectación leptomeningea.\n-TC craneal: Discreto borramiento de los surcos de la convexidad cerebral y folias cerebelosas en relación a diseminación leptomeningea.\n-Informe de la necropsia: Adenocarcinoma de pulmón derecho con metástasis en pulmón y pleura, ganglios linfáticos mediastínicos. SNC: Carcinomatosis meníngea generalizada (cerebro, cerebelo, tronco, médula).\n\nDiagnóstico\nCarcinomatosis leptomeníngea.\n\nTratamiento\nSe inició tratamiento con esteroides, añadiéndose fenitoína y levetirazepam tras constatarse la presencia de crisis, junto con enoxaparina a dosis anticoagulantes para tratamiento del TEP.\n\nEvolución\nIngresó por presentar episodios de emesis, desconexión y parestesias en la extremidad superior derecha. Evolucionó con deterioro progresivo del nivel de conciencia y crisis parciales, siendo valorada por Neurología y se realizaron dos punciones lumbares con presencia de meningismo en el momento de su realización y presión elevada. Los estudios radiológicos iniciales tampoco orientaron sobre el origen del cuadro, lo que obligó a realizar más pruebas complementarias. A pesar de tratamiento sintomático, el deterioro se hizo notable, se complicó con un tromboembolismo pulmonar y, finalmente, la paciente falleció."
+}

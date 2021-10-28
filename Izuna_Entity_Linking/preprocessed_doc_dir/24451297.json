@@ -1,0 +1,131 @@
+{
+    "title": "Drug-Induced Acute Liver Injury Within 12 Hours After Fluvastatin Therapy.",
+    "abst": "Although statins are generally well-tolerated drugs, recent cases of drug-induced liver injury associated with their use have been reported. A 52-year-old Chinese man reported with liver damage, which appeared 12 hours after beginning treatment with fluvastatin. Patient presented with complaints of increasing nausea, anorexia, and upper abdominal pain. His laboratory values showed elevated creatine kinase and transaminases. Testing for autoantibodies was also negative. The liver biochemistries eventually normalized within 3 weeks of stopping the fluvastatin. Therefore, when prescribing statins, the possibility of hepatic damage should be taken into account.",
+    "title_plus_abst": "Drug-Induced Acute Liver Injury Within 12 Hours After Fluvastatin Therapy. Although statins are generally well-tolerated drugs, recent cases of drug-induced liver injury associated with their use have been reported. A 52-year-old Chinese man reported with liver damage, which appeared 12 hours after beginning treatment with fluvastatin. Patient presented with complaints of increasing nausea, anorexia, and upper abdominal pain. His laboratory values showed elevated creatine kinase and transaminases. Testing for autoantibodies was also negative. The liver biochemistries eventually normalized within 3 weeks of stopping the fluvastatin. Therefore, when prescribing statins, the possibility of hepatic damage should be taken into account.",
+    "pubmed_id": "24451297",
+    "entities": [
+        [
+            0,
+            31,
+            "Drug-Induced Acute Liver Injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            54,
+            65,
+            "Fluvastatin",
+            "Chemical",
+            "C065180"
+        ],
+        [
+            84,
+            91,
+            "statins",
+            "Chemical",
+            "D019161"
+        ],
+        [
+            144,
+            169,
+            "drug-induced liver injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            256,
+            268,
+            "liver damage",
+            "Disease",
+            "D056486"
+        ],
+        [
+            325,
+            336,
+            "fluvastatin",
+            "Chemical",
+            "C065180"
+        ],
+        [
+            386,
+            392,
+            "nausea",
+            "Disease",
+            "D009325"
+        ],
+        [
+            394,
+            402,
+            "anorexia",
+            "Disease",
+            "D000855"
+        ],
+        [
+            414,
+            428,
+            "abdominal pain",
+            "Disease",
+            "D015746"
+        ],
+        [
+            468,
+            476,
+            "creatine",
+            "Chemical",
+            "D003401"
+        ],
+        [
+            627,
+            638,
+            "fluvastatin",
+            "Chemical",
+            "C065180"
+        ],
+        [
+            696,
+            710,
+            "hepatic damage",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Drug-Induced Acute Liver Injury Within 12 Hours After Fluvastatin Therapy.",
+        "Although statins are generally well-tolerated drugs, recent cases of drug-induced liver injury associated with their use have been reported.",
+        "A 52-year-old Chinese man reported with liver damage, which appeared 12 hours after beginning treatment with fluvastatin.",
+        "Patient presented with complaints of increasing nausea, anorexia, and upper abdominal pain.",
+        "His laboratory values showed elevated creatine kinase and transaminases.",
+        "Testing for autoantibodies was also negative.",
+        "The liver biochemistries eventually normalized within 3 weeks of stopping the fluvastatin.",
+        "Therefore, when prescribing statins, the possibility of hepatic damage should be taken into account."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056486\tDisease\tDrug-Induced Acute Liver Injury\t<target> Drug-Induced Acute Liver Injury </target> Within 12 Hours After Fluvastatin Therapy .",
+        "C065180\tChemical\tFluvastatin\tDrug-Induced Acute Liver Injury Within 12 Hours After <target> Fluvastatin </target> Therapy .",
+        "D019161\tChemical\tstatins\tAlthough <target> statins </target> are generally well-tolerated drugs , recent cases of drug-induced liver injury associated with their use have been reported .",
+        "D056486\tDisease\tdrug-induced liver injury\tAlthough statins are generally well-tolerated drugs , recent cases of <target> drug-induced liver injury </target> associated with their use have been reported .",
+        "D056486\tDisease\tliver damage\tA 52-year-old Chinese man reported with <target> liver damage </target> , which appeared 12 hours after beginning treatment with fluvastatin .",
+        "C065180\tChemical\tfluvastatin\tA 52-year-old Chinese man reported with liver damage , which appeared 12 hours after beginning treatment with <target> fluvastatin </target> .",
+        "D009325\tDisease\tnausea\tPatient presented with complaints of increasing <target> nausea </target> , anorexia , and upper abdominal pain .",
+        "D000855\tDisease\tanorexia\tPatient presented with complaints of increasing nausea , <target> anorexia </target> , and upper abdominal pain .",
+        "D015746\tDisease\tabdominal pain\tPatient presented with complaints of increasing nausea , anorexia , and upper <target> abdominal pain </target> .",
+        "D003401\tChemical\tcreatine\tHis laboratory values showed elevated <target> creatine </target> kinase and transaminases .",
+        "C065180\tChemical\tfluvastatin\tThe liver biochemistries eventually normalized within 3 weeks of stopping the <target> fluvastatin </target> .",
+        "D056486\tDisease\thepatic damage\tTherefore , when prescribing statins , the possibility of <target> hepatic damage </target> should be taken into account ."
+    ],
+    "lines_lemma": [
+        "D056486\tDisease\tDrug-Induced Acute Liver Injury\t<target> Drug-Induced Acute Liver Injury </target> within 12 Hours after Fluvastatin Therapy .",
+        "C065180\tChemical\tFluvastatin\tdrug-induced Acute Liver Injury within 12 Hours after <target> Fluvastatin </target> therapy .",
+        "D019161\tChemical\tstatins\talthough <target> statin </target> be generally well-tolerated drug , recent case of drug-induced liver injury associate with their use have be report .",
+        "D056486\tDisease\tdrug-induced liver injury\talthough statin be generally well-tolerated drug , recent case of <target> drug-induced liver injury </target> associate with their use have be report .",
+        "D056486\tDisease\tliver damage\ta 52-year-old chinese man report with <target> liver damage </target> , which appear 12 hour after begin treatment with fluvastatin .",
+        "C065180\tChemical\tfluvastatin\ta 52-year-old chinese man report with liver damage , which appear 12 hour after begin treatment with <target> fluvastatin </target> .",
+        "D009325\tDisease\tnausea\tpatient present with complaint of increase <target> nausea </target> , anorexia , and upper abdominal pain .",
+        "D000855\tDisease\tanorexia\tpatient present with complaint of increase nausea , <target> anorexia </target> , and upper abdominal pain .",
+        "D015746\tDisease\tabdominal pain\tpatient present with complaint of increase nausea , anorexia , and upper <target> abdominal pain </target> .",
+        "D003401\tChemical\tcreatine\this laboratory value show elevated <target> creatine </target> kinase and transaminase .",
+        "C065180\tChemical\tfluvastatin\tthe liver biochemistry eventually normalize within 3 week of stop the <target> fluvastatin </target> .",
+        "D056486\tDisease\thepatic damage\ttherefore , when prescribe statin , the possibility of <target> hepatic damage </target> should be take into account ."
+    ]
+}

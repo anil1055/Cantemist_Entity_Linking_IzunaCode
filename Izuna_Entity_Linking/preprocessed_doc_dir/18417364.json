@@ -1,0 +1,111 @@
+{
+    "title": "Nicotine-induced nystagmus correlates with midpontine activation.",
+    "abst": "The pathomechanism of nicotine-induced nystagmus (NIN) is unknown. The aim of this study was to delineate brain structures that are involved in NIN generation. Eight healthy volunteers inhaled nicotine in darkness during a functional magnetic resonance imaging (fMRI) experiment; eye movements were registered using video-oculography. NIN correlated with blood oxygen level-dependent (BOLD) activity levels in a midpontine site in the posterior basis pontis. NIN-induced midpontine activation may correspond to activation of the dorsomedial pontine nuclei and the nucleus reticularis tegmenti pontis, structures known to participate in the generation of multidirectional saccades and smooth pursuit eye movements.",
+    "title_plus_abst": "Nicotine-induced nystagmus correlates with midpontine activation. The pathomechanism of nicotine-induced nystagmus (NIN) is unknown. The aim of this study was to delineate brain structures that are involved in NIN generation. Eight healthy volunteers inhaled nicotine in darkness during a functional magnetic resonance imaging (fMRI) experiment; eye movements were registered using video-oculography. NIN correlated with blood oxygen level-dependent (BOLD) activity levels in a midpontine site in the posterior basis pontis. NIN-induced midpontine activation may correspond to activation of the dorsomedial pontine nuclei and the nucleus reticularis tegmenti pontis, structures known to participate in the generation of multidirectional saccades and smooth pursuit eye movements.",
+    "pubmed_id": "18417364",
+    "entities": [
+        [
+            0,
+            8,
+            "Nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            17,
+            26,
+            "nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            88,
+            96,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            105,
+            114,
+            "nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            116,
+            119,
+            "NIN",
+            "Disease",
+            "D009759"
+        ],
+        [
+            210,
+            213,
+            "NIN",
+            "Disease",
+            "D009759"
+        ],
+        [
+            259,
+            267,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            401,
+            404,
+            "NIN",
+            "Disease",
+            "D009759"
+        ],
+        [
+            427,
+            433,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            525,
+            528,
+            "NIN",
+            "Disease",
+            "D009759"
+        ]
+    ],
+    "split_sentence": [
+        "Nicotine-induced nystagmus correlates with midpontine activation.",
+        "The pathomechanism of nicotine-induced nystagmus (NIN) is unknown.",
+        "The aim of this study was to delineate brain structures that are involved in NIN generation.",
+        "Eight healthy volunteers inhaled nicotine in darkness during a functional magnetic resonance imaging (fMRI) experiment; eye movements were registered using video-oculography.",
+        "NIN correlated with blood oxygen level-dependent (BOLD) activity levels in a midpontine site in the posterior basis pontis.",
+        "NIN-induced midpontine activation may correspond to activation of the dorsomedial pontine nuclei and the nucleus reticularis tegmenti pontis, structures known to participate in the generation of multidirectional saccades and smooth pursuit eye movements."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009538\tChemical\tNicotine\t<target> Nicotine </target> -induced nystagmus correlates with midpontine activation .",
+        "D009759\tDisease\tnystagmus\tNicotine-induced <target> nystagmus </target> correlates with midpontine activation .",
+        "D009538\tChemical\tnicotine\tThe pathomechanism of <target> nicotine </target> -induced nystagmus ( NIN ) is unknown .",
+        "D009759\tDisease\tnystagmus\tThe pathomechanism of nicotine-induced <target> nystagmus </target> ( NIN ) is unknown .",
+        "D009759\tDisease\tNIN\tThe pathomechanism of nicotine-induced nystagmus ( <target> NIN </target> ) is unknown .",
+        "D009759\tDisease\tNIN\tThe aim of this study was to delineate brain structures that are involved in <target> NIN </target> generation .",
+        "D009538\tChemical\tnicotine\tEight healthy volunteers inhaled <target> nicotine </target> in darkness during a functional magnetic resonance imaging ( fMRI ) experiment ; eye movements were registered using video-oculography .",
+        "D009759\tDisease\tNIN\t<target> NIN </target> correlated with blood oxygen level-dependent ( BOLD ) activity levels in a midpontine site in the posterior basis pontis .",
+        "D010100\tChemical\toxygen\tNIN correlated with blood <target> oxygen </target> level-dependent ( BOLD ) activity levels in a midpontine site in the posterior basis pontis .",
+        "D009759\tDisease\tNIN\t<target> NIN </target> -induced midpontine activation may correspond to activation of the dorsomedial pontine nuclei and the nucleus reticularis tegmenti pontis , structures known to participate in the generation of multidirectional saccades and smooth pursuit eye movements ."
+    ],
+    "lines_lemma": [
+        "D009538\tChemical\tNicotine\t<target> nicotine </target> -induced nystagmus correlate with midpontine activation .",
+        "D009759\tDisease\tnystagmus\tnicotine-induced <target> nystagmus </target> correlate with midpontine activation .",
+        "D009538\tChemical\tnicotine\tthe pathomechanism of <target> nicotine </target> -induced nystagmus ( nin ) be unknown .",
+        "D009759\tDisease\tnystagmus\tthe pathomechanism of nicotine-induced <target> nystagmus </target> ( nin ) be unknown .",
+        "D009759\tDisease\tNIN\tthe pathomechanism of nicotine-induced nystagmus ( <target> nin </target> ) be unknown .",
+        "D009759\tDisease\tNIN\tthe aim of this study be to delineate brain structure that be involve in <target> nin </target> generation .",
+        "D009538\tChemical\tnicotine\teight healthy volunteer inhale <target> nicotine </target> in darkness during a functional magnetic resonance imaging ( fmri ) experiment ; eye movement be register use video-oculography .",
+        "D009759\tDisease\tNIN\t<target> nin </target> correlate with blood oxygen level-dependent ( bold ) activity level in a midpontine site in the posterior basis pontis .",
+        "D010100\tChemical\toxygen\tnin correlate with blood <target> oxygen </target> level-dependent ( bold ) activity level in a midpontine site in the posterior basis pontis .",
+        "D009759\tDisease\tNIN\t<target> nin </target> -induced midpontine activation may correspond to activation of the dorsomedial pontine nucleus and the nucleus reticularis tegmenti pontis , structure know to participate in the generation of multidirectional saccade and smooth pursuit eye movement ."
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Dipyridamole-induced myocardial ischemia.",
+    "abst": "Angina and ischemic electrocardiographic changes occurred after administration of oral dipyridamole in four patients awaiting urgent myocardial revascularization procedures. To our knowledge, this has not previously been reported as a side effect of preoperative dipyridamole therapy, although dipyridamole-induced myocardial ischemia has been demonstrated to occur in animals and humans with coronary artery disease. Epicardial coronary collateral vessels were demonstrated in all four patients; a coronary \"steal\" phenomenon may be the mechanism of the dipyridamole-induced ischemia observed.",
+    "title_plus_abst": "Dipyridamole-induced myocardial ischemia. Angina and ischemic electrocardiographic changes occurred after administration of oral dipyridamole in four patients awaiting urgent myocardial revascularization procedures. To our knowledge, this has not previously been reported as a side effect of preoperative dipyridamole therapy, although dipyridamole-induced myocardial ischemia has been demonstrated to occur in animals and humans with coronary artery disease. Epicardial coronary collateral vessels were demonstrated in all four patients; a coronary \"steal\" phenomenon may be the mechanism of the dipyridamole-induced ischemia observed.",
+    "pubmed_id": "2950248",
+    "entities": [
+        [
+            0,
+            12,
+            "Dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            21,
+            40,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            42,
+            48,
+            "Angina",
+            "Disease",
+            "D000787"
+        ],
+        [
+            129,
+            141,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            305,
+            317,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            336,
+            348,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            357,
+            376,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            435,
+            458,
+            "coronary artery disease",
+            "Disease",
+            "D003324"
+        ],
+        [
+            597,
+            609,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            618,
+            626,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ]
+    ],
+    "split_sentence": [
+        "Dipyridamole-induced myocardial ischemia.",
+        "Angina and ischemic electrocardiographic changes occurred after administration of oral dipyridamole in four patients awaiting urgent myocardial revascularization procedures.",
+        "To our knowledge, this has not previously been reported as a side effect of preoperative dipyridamole therapy, although dipyridamole-induced myocardial ischemia has been demonstrated to occur in animals and humans with coronary artery disease.",
+        "Epicardial coronary collateral vessels were demonstrated in all four patients; a coronary \"steal\" phenomenon may be the mechanism of the dipyridamole-induced ischemia observed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004176\tChemical\tDipyridamole\t<target> Dipyridamole </target> -induced myocardial ischemia .",
+        "D017202\tDisease\tmyocardial ischemia\tDipyridamole-induced <target> myocardial ischemia </target> .",
+        "D000787\tDisease\tAngina\t<target> Angina </target> and ischemic electrocardiographic changes occurred after administration of oral dipyridamole in four patients awaiting urgent myocardial revascularization procedures .",
+        "D004176\tChemical\tdipyridamole\tAngina and ischemic electrocardiographic changes occurred after administration of oral <target> dipyridamole </target> in four patients awaiting urgent myocardial revascularization procedures .",
+        "D004176\tChemical\tdipyridamole\tTo our knowledge , this has not previously been reported as a side effect of preoperative <target> dipyridamole </target> therapy , although dipyridamole-induced myocardial ischemia has been demonstrated to occur in animals and humans with coronary artery disease .",
+        "D004176\tChemical\tdipyridamole\tTo our knowledge , this has not previously been reported as a side effect of preoperative dipyridamole therapy , although <target> dipyridamole </target> -induced myocardial ischemia has been demonstrated to occur in animals and humans with coronary artery disease .",
+        "D017202\tDisease\tmyocardial ischemia\tTo our knowledge , this has not previously been reported as a side effect of preoperative dipyridamole therapy , although dipyridamole-induced <target> myocardial ischemia </target> has been demonstrated to occur in animals and humans with coronary artery disease .",
+        "D003324\tDisease\tcoronary artery disease\tTo our knowledge , this has not previously been reported as a side effect of preoperative dipyridamole therapy , although dipyridamole-induced myocardial ischemia has been demonstrated to occur in animals and humans with <target> coronary artery disease </target> .",
+        "D004176\tChemical\tdipyridamole\tEpicardial coronary collateral vessels were demonstrated in all four patients ; a coronary \" steal \" phenomenon may be the mechanism of the <target> dipyridamole </target> -induced ischemia observed .",
+        "D007511\tDisease\tischemia\tEpicardial coronary collateral vessels were demonstrated in all four patients ; a coronary \" steal \" phenomenon may be the mechanism of the dipyridamole-induced <target> ischemia </target> observed ."
+    ],
+    "lines_lemma": [
+        "D004176\tChemical\tDipyridamole\t<target> Dipyridamole </target> -induced myocardial ischemia .",
+        "D017202\tDisease\tmyocardial ischemia\tdipyridamole-induced <target> myocardial ischemia </target> .",
+        "D000787\tDisease\tAngina\t<target> Angina </target> and ischemic electrocardiographic change occur after administration of oral dipyridamole in four patient await urgent myocardial revascularization procedure .",
+        "D004176\tChemical\tdipyridamole\tAngina and ischemic electrocardiographic change occur after administration of oral <target> dipyridamole </target> in four patient await urgent myocardial revascularization procedure .",
+        "D004176\tChemical\tdipyridamole\tto our knowledge , this have not previously be report as a side effect of preoperative <target> dipyridamole </target> therapy , although dipyridamole-induced myocardial ischemia have be demonstrate to occur in animal and human with coronary artery disease .",
+        "D004176\tChemical\tdipyridamole\tto our knowledge , this have not previously be report as a side effect of preoperative dipyridamole therapy , although <target> dipyridamole </target> -induced myocardial ischemia have be demonstrate to occur in animal and human with coronary artery disease .",
+        "D017202\tDisease\tmyocardial ischemia\tto our knowledge , this have not previously be report as a side effect of preoperative dipyridamole therapy , although dipyridamole-induced <target> myocardial ischemia </target> have be demonstrate to occur in animal and human with coronary artery disease .",
+        "D003324\tDisease\tcoronary artery disease\tto our knowledge , this have not previously be report as a side effect of preoperative dipyridamole therapy , although dipyridamole-induced myocardial ischemia have be demonstrate to occur in animal and human with <target> coronary artery disease </target> .",
+        "D004176\tChemical\tdipyridamole\tepicardial coronary collateral vessel be demonstrate in all four patient ; a coronary \" steal \" phenomenon may be the mechanism of the <target> dipyridamole </target> -induced ischemia observe .",
+        "D007511\tDisease\tischemia\tepicardial coronary collateral vessel be demonstrate in all four patient ; a coronary \" steal \" phenomenon may be the mechanism of the dipyridamole-induced <target> ischemia </target> observe ."
+    ]
+}

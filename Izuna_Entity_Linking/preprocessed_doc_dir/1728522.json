@@ -1,0 +1,128 @@
+{
+    "title": "Granulomatous hepatitis due to combination of amoxicillin and clavulanic acid.",
+    "abst": "We report the case of a patient with amoxicillin-clavulanic acid-induced hepatitis with histologic multiple granulomas. This type of lesion broadens the spectrum of liver injury due to this drug combination, mainly represented by a benign cholestatic syndrome. The association of granulomas and eosinophilia favor an immunoallergic mechanism. As penicillin derivatives and amoxicillin alone are known to induce such types of lesions, the amoxicillin component, with or without a potentiating effect of clavulanic acid, might have a major role.",
+    "title_plus_abst": "Granulomatous hepatitis due to combination of amoxicillin and clavulanic acid. We report the case of a patient with amoxicillin-clavulanic acid-induced hepatitis with histologic multiple granulomas. This type of lesion broadens the spectrum of liver injury due to this drug combination, mainly represented by a benign cholestatic syndrome. The association of granulomas and eosinophilia favor an immunoallergic mechanism. As penicillin derivatives and amoxicillin alone are known to induce such types of lesions, the amoxicillin component, with or without a potentiating effect of clavulanic acid, might have a major role.",
+    "pubmed_id": "1728522",
+    "entities": [
+        [
+            31,
+            77,
+            "combination of amoxicillin and clavulanic acid",
+            "Chemical",
+            "D019980"
+        ],
+        [
+            116,
+            143,
+            "amoxicillin-clavulanic acid",
+            "Chemical",
+            "D019980"
+        ],
+        [
+            152,
+            161,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            187,
+            197,
+            "granulomas",
+            "Disease",
+            "D006099"
+        ],
+        [
+            244,
+            256,
+            "liver injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            318,
+            338,
+            "cholestatic syndrome",
+            "Disease",
+            "D002779"
+        ],
+        [
+            359,
+            369,
+            "granulomas",
+            "Disease",
+            "D006099"
+        ],
+        [
+            374,
+            386,
+            "eosinophilia",
+            "Disease",
+            "D004802"
+        ],
+        [
+            425,
+            435,
+            "penicillin",
+            "Chemical",
+            "D010406"
+        ],
+        [
+            452,
+            463,
+            "amoxicillin",
+            "Chemical",
+            "D000658"
+        ],
+        [
+            517,
+            528,
+            "amoxicillin",
+            "Chemical",
+            "D000658"
+        ],
+        [
+            581,
+            596,
+            "clavulanic acid",
+            "Chemical",
+            "D019818"
+        ]
+    ],
+    "split_sentence": [
+        "Granulomatous hepatitis due to combination of amoxicillin and clavulanic acid.",
+        "We report the case of a patient with amoxicillin-clavulanic acid-induced hepatitis with histologic multiple granulomas.",
+        "This type of lesion broadens the spectrum of liver injury due to this drug combination, mainly represented by a benign cholestatic syndrome.",
+        "The association of granulomas and eosinophilia favor an immunoallergic mechanism.",
+        "As penicillin derivatives and amoxicillin alone are known to induce such types of lesions, the amoxicillin component, with or without a potentiating effect of clavulanic acid, might have a major role."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019980\tChemical\tcombination of amoxicillin and clavulanic acid\tGranulomatous hepatitis due to <target> combination of amoxicillin and clavulanic acid </target> .",
+        "D019980\tChemical\tamoxicillin-clavulanic acid\tWe report the case of a patient with <target> amoxicillin-clavulanic acid </target> -induced hepatitis with histologic multiple granulomas .",
+        "D056486\tDisease\thepatitis\tWe report the case of a patient with amoxicillin-clavulanic acid-induced <target> hepatitis </target> with histologic multiple granulomas .",
+        "D006099\tDisease\tgranulomas\tWe report the case of a patient with amoxicillin-clavulanic acid-induced hepatitis with histologic multiple <target> granulomas </target> .",
+        "D056486\tDisease\tliver injury\tThis type of lesion broadens the spectrum of <target> liver injury </target> due to this drug combination , mainly represented by a benign cholestatic syndrome .",
+        "D002779\tDisease\tcholestatic syndrome\tThis type of lesion broadens the spectrum of liver injury due to this drug combination , mainly represented by a benign <target> cholestatic syndrome </target> .",
+        "D006099\tDisease\tgranulomas\tThe association of <target> granulomas </target> and eosinophilia favor an immunoallergic mechanism .",
+        "D004802\tDisease\teosinophilia\tThe association of granulomas and <target> eosinophilia </target> favor an immunoallergic mechanism .",
+        "D010406\tChemical\tpenicillin\tAs <target> penicillin </target> derivatives and amoxicillin alone are known to induce such types of lesions , the amoxicillin component , with or without a potentiating effect of clavulanic acid , might have a major role .",
+        "D000658\tChemical\tamoxicillin\tAs penicillin derivatives and <target> amoxicillin </target> alone are known to induce such types of lesions , the amoxicillin component , with or without a potentiating effect of clavulanic acid , might have a major role .",
+        "D000658\tChemical\tamoxicillin\tAs penicillin derivatives and amoxicillin alone are known to induce such types of lesions , the <target> amoxicillin </target> component , with or without a potentiating effect of clavulanic acid , might have a major role .",
+        "D019818\tChemical\tclavulanic acid\tAs penicillin derivatives and amoxicillin alone are known to induce such types of lesions , the amoxicillin component , with or without a potentiating effect of <target> clavulanic acid </target> , might have a major role ."
+    ],
+    "lines_lemma": [
+        "D019980\tChemical\tcombination of amoxicillin and clavulanic acid\tgranulomatous hepatitis due to <target> combination of amoxicillin and clavulanic acid </target> .",
+        "D019980\tChemical\tamoxicillin-clavulanic acid\twe report the case of a patient with <target> amoxicillin-clavulanic acid </target> -induced hepatitis with histologic multiple granuloma .",
+        "D056486\tDisease\thepatitis\twe report the case of a patient with amoxicillin-clavulanic acid-induced <target> hepatitis </target> with histologic multiple granuloma .",
+        "D006099\tDisease\tgranulomas\twe report the case of a patient with amoxicillin-clavulanic acid-induced hepatitis with histologic multiple <target> granuloma </target> .",
+        "D056486\tDisease\tliver injury\tthis type of lesion broaden the spectrum of <target> liver injury </target> due to this drug combination , mainly represent by a benign cholestatic syndrome .",
+        "D002779\tDisease\tcholestatic syndrome\tthis type of lesion broaden the spectrum of liver injury due to this drug combination , mainly represent by a benign <target> cholestatic syndrome </target> .",
+        "D006099\tDisease\tgranulomas\tthe association of <target> granuloma </target> and eosinophilia favor an immunoallergic mechanism .",
+        "D004802\tDisease\teosinophilia\tthe association of granuloma and <target> eosinophilia </target> favor an immunoallergic mechanism .",
+        "D010406\tChemical\tpenicillin\tas <target> penicillin </target> derivative and amoxicillin alone be know to induce such type of lesion , the amoxicillin component , with or without a potentiating effect of clavulanic acid , might have a major role .",
+        "D000658\tChemical\tamoxicillin\tas penicillin derivative and <target> amoxicillin </target> alone be know to induce such type of lesion , the amoxicillin component , with or without a potentiating effect of clavulanic acid , might have a major role .",
+        "D000658\tChemical\tamoxicillin\tas penicillin derivative and amoxicillin alone be know to induce such type of lesion , the <target> amoxicillin </target> component , with or without a potentiating effect of clavulanic acid , might have a major role .",
+        "D019818\tChemical\tclavulanic acid\tas penicillin derivative and amoxicillin alone be know to induce such type of lesion , the amoxicillin component , with or without a potentiating effect of <target> clavulanic acid </target> , might have a major role ."
+    ]
+}

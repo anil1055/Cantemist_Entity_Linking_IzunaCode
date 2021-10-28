@@ -1,0 +1,150 @@
+{
+    "title": "Topotecan in combination with radiotherapy in unresectable glioblastoma: a phase 2 study.",
+    "abst": "Improving glioblastoma multiforme (GBM) treatment with radio-chemotherapy remains a challenge. Topotecan is an attractive option as it exhibits growth inhibition of human glioma as well as brain penetration. The present study assessed the combination of radiotherapy (60 Gy/30 fractions/40 days) and topotecan (0.9 mg/m(2)/day on days 1-5 on weeks 1, 3 and 5) in 50 adults with histologically proven and untreated GBM. The incidence of non-hematological toxicities was low and grade 3-4 hematological toxicities were reported in 20 patients (mainly lymphopenia and neutropenia). Partial response and stabilization rates were 2% and 32%, respectively, with an overall time to progression of 12 weeks. One-year overall survival (OS) rate was 42%, with a median OS of 40 weeks. Topotecan in combination with radiotherapy was well tolerated. However, while response and stabilization concerned one-third of the patients, the study did not show increased benefits in terms of survival in patients with unresectable GBM.",
+    "title_plus_abst": "Topotecan in combination with radiotherapy in unresectable glioblastoma: a phase 2 study. Improving glioblastoma multiforme (GBM) treatment with radio-chemotherapy remains a challenge. Topotecan is an attractive option as it exhibits growth inhibition of human glioma as well as brain penetration. The present study assessed the combination of radiotherapy (60 Gy/30 fractions/40 days) and topotecan (0.9 mg/m(2)/day on days 1-5 on weeks 1, 3 and 5) in 50 adults with histologically proven and untreated GBM. The incidence of non-hematological toxicities was low and grade 3-4 hematological toxicities were reported in 20 patients (mainly lymphopenia and neutropenia). Partial response and stabilization rates were 2% and 32%, respectively, with an overall time to progression of 12 weeks. One-year overall survival (OS) rate was 42%, with a median OS of 40 weeks. Topotecan in combination with radiotherapy was well tolerated. However, while response and stabilization concerned one-third of the patients, the study did not show increased benefits in terms of survival in patients with unresectable GBM.",
+    "pubmed_id": "19139825",
+    "entities": [
+        [
+            0,
+            9,
+            "Topotecan",
+            "Chemical",
+            "D019772"
+        ],
+        [
+            59,
+            71,
+            "glioblastoma",
+            "Disease",
+            "D005909"
+        ],
+        [
+            100,
+            123,
+            "glioblastoma multiforme",
+            "Disease",
+            "D005909"
+        ],
+        [
+            125,
+            128,
+            "GBM",
+            "Disease",
+            "D005909"
+        ],
+        [
+            185,
+            194,
+            "Topotecan",
+            "Chemical",
+            "D019772"
+        ],
+        [
+            261,
+            267,
+            "glioma",
+            "Disease",
+            "D005910"
+        ],
+        [
+            390,
+            399,
+            "topotecan",
+            "Chemical",
+            "D019772"
+        ],
+        [
+            504,
+            507,
+            "GBM",
+            "Disease",
+            "D005909"
+        ],
+        [
+            544,
+            554,
+            "toxicities",
+            "Disease",
+            "D064420"
+        ],
+        [
+            591,
+            601,
+            "toxicities",
+            "Disease",
+            "D064420"
+        ],
+        [
+            639,
+            650,
+            "lymphopenia",
+            "Disease",
+            "D008231"
+        ],
+        [
+            655,
+            666,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            865,
+            874,
+            "Topotecan",
+            "Chemical",
+            "D019772"
+        ],
+        [
+            1100,
+            1103,
+            "GBM",
+            "Disease",
+            "D005909"
+        ]
+    ],
+    "split_sentence": [
+        "Topotecan in combination with radiotherapy in unresectable glioblastoma: a phase 2 study.",
+        "Improving glioblastoma multiforme (GBM) treatment with radio-chemotherapy remains a challenge.",
+        "Topotecan is an attractive option as it exhibits growth inhibition of human glioma as well as brain penetration.",
+        "The present study assessed the combination of radiotherapy (60 Gy/30 fractions/40 days) and topotecan (0.9 mg/m(2)/day on days 1-5 on weeks 1, 3 and 5) in 50 adults with histologically proven and untreated GBM.",
+        "The incidence of non-hematological toxicities was low and grade 3-4 hematological toxicities were reported in 20 patients (mainly lymphopenia and neutropenia).",
+        "Partial response and stabilization rates were 2% and 32%, respectively, with an overall time to progression of 12 weeks.",
+        "One-year overall survival (OS) rate was 42%, with a median OS of 40 weeks.",
+        "Topotecan in combination with radiotherapy was well tolerated.",
+        "However, while response and stabilization concerned one-third of the patients, the study did not show increased benefits in terms of survival in patients with unresectable GBM."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019772\tChemical\tTopotecan\t<target> Topotecan </target> in combination with radiotherapy in unresectable glioblastoma : a phase 2 study .",
+        "D005909\tDisease\tglioblastoma\tTopotecan in combination with radiotherapy in unresectable <target> glioblastoma </target> : a phase 2 study .",
+        "D005909\tDisease\tglioblastoma multiforme\tImproving <target> glioblastoma multiforme </target> ( GBM ) treatment with radio-chemotherapy remains a challenge .",
+        "D005909\tDisease\tGBM\tImproving glioblastoma multiforme ( <target> GBM </target> ) treatment with radio-chemotherapy remains a challenge .",
+        "D019772\tChemical\tTopotecan\t<target> Topotecan </target> is an attractive option as it exhibits growth inhibition of human glioma as well as brain penetration .",
+        "D005910\tDisease\tglioma\tTopotecan is an attractive option as it exhibits growth inhibition of human <target> glioma </target> as well as brain penetration .",
+        "D019772\tChemical\ttopotecan\tThe present study assessed the combination of radiotherapy ( 60 Gy/30 fractions/40 days ) and <target> topotecan </target> ( 0.9 mg/m(2)/day on days 1 - 5 on weeks 1 , 3 and 5 ) in 50 adults with histologically proven and untreated GBM .",
+        "D005909\tDisease\tGBM\tThe present study assessed the combination of radiotherapy ( 60 Gy/30 fractions/40 days ) and topotecan ( 0.9 mg/m(2)/day on days 1 - 5 on weeks 1 , 3 and 5 ) in 50 adults with histologically proven and untreated <target> GBM </target> .",
+        "D064420\tDisease\ttoxicities\tThe incidence of non-hematological <target> toxicities </target> was low and grade 3 - 4 hematological toxicities were reported in 20 patients ( mainly lymphopenia and neutropenia ) .",
+        "D064420\tDisease\ttoxicities\tThe incidence of non-hematological toxicities was low and grade 3 - 4 hematological <target> toxicities </target> were reported in 20 patients ( mainly lymphopenia and neutropenia ) .",
+        "D008231\tDisease\tlymphopenia\tThe incidence of non-hematological toxicities was low and grade 3 - 4 hematological toxicities were reported in 20 patients ( mainly <target> lymphopenia </target> and neutropenia ) .",
+        "D009503\tDisease\tneutropenia\tThe incidence of non-hematological toxicities was low and grade 3 - 4 hematological toxicities were reported in 20 patients ( mainly lymphopenia and <target> neutropenia </target> ) .",
+        "D019772\tChemical\tTopotecan\t<target> Topotecan </target> in combination with radiotherapy was well tolerated .",
+        "D005909\tDisease\tGBM\tHowever , while response and stabilization concerned one-third of the patients , the study did not show increased benefits in terms of survival in patients with unresectable <target> GBM </target> ."
+    ],
+    "lines_lemma": [
+        "D019772\tChemical\tTopotecan\t<target> Topotecan </target> in combination with radiotherapy in unresectable glioblastoma : a phase 2 study .",
+        "D005909\tDisease\tglioblastoma\ttopotecan in combination with radiotherapy in unresectable <target> glioblastoma </target> : a phase 2 study .",
+        "D005909\tDisease\tglioblastoma multiforme\timprove <target> glioblastoma multiforme </target> ( gbm ) treatment with radio-chemotherapy remain a challenge .",
+        "D005909\tDisease\tGBM\timprove glioblastoma multiforme ( <target> gbm </target> ) treatment with radio-chemotherapy remain a challenge .",
+        "D019772\tChemical\tTopotecan\t<target> Topotecan </target> be an attractive option as it exhibit growth inhibition of human glioma as well as brain penetration .",
+        "D005910\tDisease\tglioma\tTopotecan be an attractive option as it exhibit growth inhibition of human <target> glioma </target> as well as brain penetration .",
+        "D019772\tChemical\ttopotecan\tthe present study assess the combination of radiotherapy ( 60 gy/30 fractions/40 day ) and <target> topotecan </target> ( 0.9 mg/m(2)/day on day 1 - 5 on week 1 , 3 and 5 ) in 50 adult with histologically prove and untreated gbm .",
+        "D005909\tDisease\tGBM\tthe present study assess the combination of radiotherapy ( 60 gy/30 fractions/40 day ) and topotecan ( 0.9 mg/m(2)/day on day 1 - 5 on week 1 , 3 and 5 ) in 50 adult with histologically prove and untreated <target> gbm </target> .",
+        "D064420\tDisease\ttoxicities\tthe incidence of non-hematological <target> toxicity </target> be low and grade 3 - 4 hematological toxicity be report in 20 patient ( mainly lymphopenia and neutropenia ) .",
+        "D064420\tDisease\ttoxicities\tthe incidence of non-hematological toxicity be low and grade 3 - 4 hematological <target> toxicity </target> be report in 20 patient ( mainly lymphopenia and neutropenia ) .",
+        "D008231\tDisease\tlymphopenia\tthe incidence of non-hematological toxicity be low and grade 3 - 4 hematological toxicity be report in 20 patient ( mainly <target> lymphopenia </target> and neutropenia ) .",
+        "D009503\tDisease\tneutropenia\tthe incidence of non-hematological toxicity be low and grade 3 - 4 hematological toxicity be report in 20 patient ( mainly lymphopenia and <target> neutropenia </target> ) .",
+        "D019772\tChemical\tTopotecan\t<target> Topotecan </target> in combination with radiotherapy be well tolerate .",
+        "D005909\tDisease\tGBM\thowever , while response and stabilization concerned one-third of the patient , the study do not show increase benefit in term of survival in patient with unresectable <target> gbm </target> ."
+    ]
+}

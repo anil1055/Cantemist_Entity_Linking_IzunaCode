@@ -1,0 +1,171 @@
+{
+    "title": "Ethambutol-associated optic neuropathy.",
+    "abst": "INTRODUCTION: Ethambutol is used in the treatment of tuberculosis, which is still prevalent in Southeast Asia, and can be associated with permanent visual loss. We report 3 cases which presented with bitemporal hemianopia. CLINICAL PICTURE: Three patients with ethambutol-associated toxic optic neuropathy are described. All 3 patients had loss of central visual acuity, colour vision (Ishihara) and visual field. The visual field loss had a bitemporal flavour, suggesting involvement of the optic chiasm. TREATMENT: Despite stopping ethambutol on diagnosis, visual function continued to deteriorate for a few months. Subsequent improvement was mild in 2 cases. In the third case, visual acuity and colour vision normalised but the optic discs were pale. OUTCOME: All 3 patients had some permanent loss of visual function. CONCLUSIONS: Ethambutol usage is associated with permanent visual loss and should be avoided if possible or used with caution and proper ophthalmological follow-up. The author postulates that in cases of ethambutol associated chiasmopathy, ethambutol may initially affect the optic nerves and subsequently progress to involve the optic chiasm.",
+    "title_plus_abst": "Ethambutol-associated optic neuropathy. INTRODUCTION: Ethambutol is used in the treatment of tuberculosis, which is still prevalent in Southeast Asia, and can be associated with permanent visual loss. We report 3 cases which presented with bitemporal hemianopia. CLINICAL PICTURE: Three patients with ethambutol-associated toxic optic neuropathy are described. All 3 patients had loss of central visual acuity, colour vision (Ishihara) and visual field. The visual field loss had a bitemporal flavour, suggesting involvement of the optic chiasm. TREATMENT: Despite stopping ethambutol on diagnosis, visual function continued to deteriorate for a few months. Subsequent improvement was mild in 2 cases. In the third case, visual acuity and colour vision normalised but the optic discs were pale. OUTCOME: All 3 patients had some permanent loss of visual function. CONCLUSIONS: Ethambutol usage is associated with permanent visual loss and should be avoided if possible or used with caution and proper ophthalmological follow-up. The author postulates that in cases of ethambutol associated chiasmopathy, ethambutol may initially affect the optic nerves and subsequently progress to involve the optic chiasm.",
+    "pubmed_id": "16710500",
+    "entities": [
+        [
+            0,
+            10,
+            "Ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            22,
+            38,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            54,
+            64,
+            "Ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            93,
+            105,
+            "tuberculosis",
+            "Disease",
+            "D014376"
+        ],
+        [
+            188,
+            199,
+            "visual loss",
+            "Disease",
+            "D014786"
+        ],
+        [
+            240,
+            261,
+            "bitemporal hemianopia",
+            "Disease",
+            "D006423"
+        ],
+        [
+            301,
+            311,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            329,
+            345,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            380,
+            452,
+            "loss of central visual acuity, colour vision (Ishihara) and visual field",
+            "Disease",
+            "D014786"
+        ],
+        [
+            458,
+            475,
+            "visual field loss",
+            "Disease",
+            "D014786"
+        ],
+        [
+            574,
+            584,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            838,
+            861,
+            "loss of visual function",
+            "Disease",
+            "D014786"
+        ],
+        [
+            876,
+            886,
+            "Ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            922,
+            933,
+            "visual loss",
+            "Disease",
+            "D014786"
+        ],
+        [
+            1067,
+            1077,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            1103,
+            1113,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ]
+    ],
+    "split_sentence": [
+        "Ethambutol-associated optic neuropathy.",
+        "INTRODUCTION: Ethambutol is used in the treatment of tuberculosis, which is still prevalent in Southeast Asia, and can be associated with permanent visual loss.",
+        "We report 3 cases which presented with bitemporal hemianopia.",
+        "CLINICAL PICTURE: Three patients with ethambutol-associated toxic optic neuropathy are described.",
+        "All 3 patients had loss of central visual acuity, colour vision (Ishihara) and visual field.",
+        "The visual field loss had a bitemporal flavour, suggesting involvement of the optic chiasm.",
+        "TREATMENT: Despite stopping ethambutol on diagnosis, visual function continued to deteriorate for a few months.",
+        "Subsequent improvement was mild in 2 cases.",
+        "In the third case, visual acuity and colour vision normalised but the optic discs were pale.",
+        "OUTCOME: All 3 patients had some permanent loss of visual function.",
+        "CONCLUSIONS: Ethambutol usage is associated with permanent visual loss and should be avoided if possible or used with caution and proper ophthalmological follow-up.",
+        "The author postulates that in cases of ethambutol associated chiasmopathy, ethambutol may initially affect the optic nerves and subsequently progress to involve the optic chiasm."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> -associated optic neuropathy .",
+        "D009901\tDisease\toptic neuropathy\tEthambutol-associated <target> optic neuropathy </target> .",
+        "D004977\tChemical\tEthambutol\tINTRODUCTION : <target> Ethambutol </target> is used in the treatment of tuberculosis , which is still prevalent in Southeast Asia , and can be associated with permanent visual loss .",
+        "D014376\tDisease\ttuberculosis\tINTRODUCTION : Ethambutol is used in the treatment of <target> tuberculosis </target> , which is still prevalent in Southeast Asia , and can be associated with permanent visual loss .",
+        "D014786\tDisease\tvisual loss\tINTRODUCTION : Ethambutol is used in the treatment of tuberculosis , which is still prevalent in Southeast Asia , and can be associated with permanent <target> visual loss </target> .",
+        "D006423\tDisease\tbitemporal hemianopia\tWe report 3 cases which presented with <target> bitemporal hemianopia </target> .",
+        "D004977\tChemical\tethambutol\tCLINICAL PICTURE : Three patients with <target> ethambutol </target> -associated toxic optic neuropathy are described .",
+        "D009901\tDisease\toptic neuropathy\tCLINICAL PICTURE : Three patients with ethambutol-associated toxic <target> optic neuropathy </target> are described .",
+        "D014786\tDisease\tloss of central visual acuity, colour vision (Ishihara) and visual field\tAll 3 patients had <target> loss of central visual acuity , colour vision ( Ishihara ) and visual field </target> .",
+        "D014786\tDisease\tvisual field loss\tThe <target> visual field loss </target> had a bitemporal flavour , suggesting involvement of the optic chiasm .",
+        "D004977\tChemical\tethambutol\tTREATMENT : Despite stopping <target> ethambutol </target> on diagnosis , visual function continued to deteriorate for a few months .",
+        "D014786\tDisease\tloss of visual function\tOUTCOME : All 3 patients had some permanent <target> loss of visual function </target> .",
+        "D004977\tChemical\tEthambutol\tCONCLUSIONS : <target> Ethambutol </target> usage is associated with permanent visual loss and should be avoided if possible or used with caution and proper ophthalmological follow-up .",
+        "D014786\tDisease\tvisual loss\tCONCLUSIONS : Ethambutol usage is associated with permanent <target> visual loss </target> and should be avoided if possible or used with caution and proper ophthalmological follow-up .",
+        "D004977\tChemical\tethambutol\tThe author postulates that in cases of <target> ethambutol </target> associated chiasmopathy , ethambutol may initially affect the optic nerves and subsequently progress to involve the optic chiasm .",
+        "D004977\tChemical\tethambutol\tThe author postulates that in cases of ethambutol associated chiasmopathy , <target> ethambutol </target> may initially affect the optic nerves and subsequently progress to involve the optic chiasm ."
+    ],
+    "lines_lemma": [
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> -associated optic neuropathy .",
+        "D009901\tDisease\toptic neuropathy\tethambutol-associated <target> optic neuropathy </target> .",
+        "D004977\tChemical\tEthambutol\tintroduction : <target> Ethambutol </target> be use in the treatment of tuberculosis , which be still prevalent in Southeast Asia , and can be associate with permanent visual loss .",
+        "D014376\tDisease\ttuberculosis\tintroduction : Ethambutol be use in the treatment of <target> tuberculosis </target> , which be still prevalent in Southeast Asia , and can be associate with permanent visual loss .",
+        "D014786\tDisease\tvisual loss\tintroduction : Ethambutol be use in the treatment of tuberculosis , which be still prevalent in Southeast Asia , and can be associate with permanent <target> visual loss </target> .",
+        "D006423\tDisease\tbitemporal hemianopia\twe report 3 case which present with <target> bitemporal hemianopia </target> .",
+        "D004977\tChemical\tethambutol\tCLINICAL PICTURE : three patient with <target> ethambutol </target> -associated toxic optic neuropathy be describe .",
+        "D009901\tDisease\toptic neuropathy\tCLINICAL PICTURE : three patient with ethambutol-associated toxic <target> optic neuropathy </target> be describe .",
+        "D014786\tDisease\tloss of central visual acuity, colour vision (Ishihara) and visual field\tall 3 patient have <target> loss of central visual acuity , colour vision ( Ishihara ) and visual field </target> .",
+        "D014786\tDisease\tvisual field loss\tthe <target> visual field loss </target> have a bitemporal flavour , suggest involvement of the optic chiasm .",
+        "D004977\tChemical\tethambutol\ttreatment : despite stop <target> ethambutol </target> on diagnosis , visual function continue to deteriorate for a few month .",
+        "D014786\tDisease\tloss of visual function\toutcome : all 3 patient have some permanent <target> loss of visual function </target> .",
+        "D004977\tChemical\tEthambutol\tconclusion : <target> Ethambutol </target> usage be associate with permanent visual loss and should be avoid if possible or use with caution and proper ophthalmological follow-up .",
+        "D014786\tDisease\tvisual loss\tconclusion : ethambutol usage be associate with permanent <target> visual loss </target> and should be avoid if possible or use with caution and proper ophthalmological follow-up .",
+        "D004977\tChemical\tethambutol\tthe author postulate that in case of <target> ethambutol </target> associated chiasmopathy , ethambutol may initially affect the optic nerve and subsequently progress to involve the optic chiasm .",
+        "D004977\tChemical\tethambutol\tthe author postulate that in case of ethambutol associate chiasmopathy , <target> ethambutol </target> may initially affect the optic nerve and subsequently progress to involve the optic chiasm ."
+    ]
+}

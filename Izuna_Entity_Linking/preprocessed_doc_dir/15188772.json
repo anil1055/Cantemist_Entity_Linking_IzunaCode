@@ -1,0 +1,128 @@
+{
+    "title": "Severe reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine overdose.",
+    "abst": "Catecholamine-induced cardiomyopathy due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon. In contrast, reports of myocardial dysfunction due to acute iatrogenic overdose are rare. A 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise, profound, albeit transient, left ventricular systolic and diastolic dysfunction, and only modestly elevated biochemical markers of myocardial necrosis. Our case illustrates the serious consequences of medical errors that can be avoided through improved medication labeling and staff supervision.",
+    "title_plus_abst": "Severe reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine overdose. Catecholamine-induced cardiomyopathy due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon. In contrast, reports of myocardial dysfunction due to acute iatrogenic overdose are rare. A 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise, profound, albeit transient, left ventricular systolic and diastolic dysfunction, and only modestly elevated biochemical markers of myocardial necrosis. Our case illustrates the serious consequences of medical errors that can be avoided through improved medication labeling and staff supervision.",
+    "pubmed_id": "15188772",
+    "entities": [
+        [
+            18,
+            69,
+            "left ventricular systolic and diastolic dysfunction",
+            "Disease",
+            "D018487"
+        ],
+        [
+            99,
+            110,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            111,
+            119,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            121,
+            134,
+            "Catecholamine",
+            "Chemical",
+            "D002395"
+        ],
+        [
+            143,
+            157,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            194,
+            208,
+            "catecholamines",
+            "Chemical",
+            "D002395"
+        ],
+        [
+            291,
+            313,
+            "myocardial dysfunction",
+            "Disease",
+            "D009202"
+        ],
+        [
+            338,
+            346,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            436,
+            447,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            458,
+            477,
+            "myocardial stunning",
+            "Disease",
+            "D017682"
+        ],
+        [
+            563,
+            614,
+            "left ventricular systolic and diastolic dysfunction",
+            "Disease",
+            "D018487"
+        ],
+        [
+            666,
+            685,
+            "myocardial necrosis",
+            "Disease",
+            "D009202"
+        ]
+    ],
+    "split_sentence": [
+        "Severe reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine overdose.",
+        "Catecholamine-induced cardiomyopathy due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon.",
+        "In contrast, reports of myocardial dysfunction due to acute iatrogenic overdose are rare.",
+        "A 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise, profound, albeit transient, left ventricular systolic and diastolic dysfunction, and only modestly elevated biochemical markers of myocardial necrosis.",
+        "Our case illustrates the serious consequences of medical errors that can be avoided through improved medication labeling and staff supervision."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018487\tDisease\tleft ventricular systolic and diastolic dysfunction\tSevere reversible <target> left ventricular systolic and diastolic dysfunction </target> due to accidental iatrogenic epinephrine overdose .",
+        "D004837\tChemical\tepinephrine\tSevere reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic <target> epinephrine </target> overdose .",
+        "D062787\tDisease\toverdose\tSevere reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine <target> overdose </target> .",
+        "D002395\tChemical\tCatecholamine\t<target> Catecholamine </target> -induced cardiomyopathy due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon .",
+        "D009202\tDisease\tcardiomyopathy\tCatecholamine-induced <target> cardiomyopathy </target> due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon .",
+        "D002395\tChemical\tcatecholamines\tCatecholamine-induced cardiomyopathy due to chronic excess of endogenous <target> catecholamines </target> has been recognized for decades as a clinical phenomenon .",
+        "D009202\tDisease\tmyocardial dysfunction\tIn contrast , reports of <target> myocardial dysfunction </target> due to acute iatrogenic overdose are rare .",
+        "D062787\tDisease\toverdose\tIn contrast , reports of myocardial dysfunction due to acute iatrogenic <target> overdose </target> are rare .",
+        "D004837\tChemical\tepinephrine\tA 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of <target> epinephrine </target> developed myocardial stunning that was characterized by severe hemodynamic compromise , profound , albeit transient , left ventricular systolic and diastolic dysfunction , and only modestly elevated biochemical markers of myocardial necrosis .",
+        "D017682\tDisease\tmyocardial stunning\tA 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed <target> myocardial stunning </target> that was characterized by severe hemodynamic compromise , profound , albeit transient , left ventricular systolic and diastolic dysfunction , and only modestly elevated biochemical markers of myocardial necrosis .",
+        "D018487\tDisease\tleft ventricular systolic and diastolic dysfunction\tA 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise , profound , albeit transient , <target> left ventricular systolic and diastolic dysfunction </target> , and only modestly elevated biochemical markers of myocardial necrosis .",
+        "D009202\tDisease\tmyocardial necrosis\tA 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise , profound , albeit transient , left ventricular systolic and diastolic dysfunction , and only modestly elevated biochemical markers of <target> myocardial necrosis </target> ."
+    ],
+    "lines_lemma": [
+        "D018487\tDisease\tleft ventricular systolic and diastolic dysfunction\tsevere reversible <target> leave ventricular systolic and diastolic dysfunction </target> due to accidental iatrogenic epinephrine overdose .",
+        "D004837\tChemical\tepinephrine\tsevere reversible leave ventricular systolic and diastolic dysfunction due to accidental iatrogenic <target> epinephrine </target> overdose .",
+        "D062787\tDisease\toverdose\tsevere reversible leave ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine <target> overdose </target> .",
+        "D002395\tChemical\tCatecholamine\t<target> catecholamine </target> -induced cardiomyopathy due to chronic excess of endogenous catecholamine have be recognize for decade as a clinical phenomenon .",
+        "D009202\tDisease\tcardiomyopathy\tcatecholamine-induced <target> cardiomyopathy </target> due to chronic excess of endogenous catecholamine have be recognize for decade as a clinical phenomenon .",
+        "D002395\tChemical\tcatecholamines\tcatecholamine-induced cardiomyopathy due to chronic excess of endogenous <target> catecholamine </target> have be recognize for decade as a clinical phenomenon .",
+        "D009202\tDisease\tmyocardial dysfunction\tin contrast , report of <target> myocardial dysfunction </target> due to acute iatrogenic overdose be rare .",
+        "D062787\tDisease\toverdose\tin contrast , report of myocardial dysfunction due to acute iatrogenic <target> overdose </target> be rare .",
+        "D004837\tChemical\tepinephrine\ta 35-year-old woman whose cervix uteri be inadvertently inject with 8 mg of <target> epinephrine </target> develop myocardial stunning that be characterize by severe hemodynamic compromise , profound , albeit transient , leave ventricular systolic and diastolic dysfunction , and only modestly elevated biochemical marker of myocardial necrosis .",
+        "D017682\tDisease\tmyocardial stunning\ta 35-year-old woman whose cervix uteri be inadvertently inject with 8 mg of epinephrine develop <target> myocardial stunning </target> that be characterize by severe hemodynamic compromise , profound , albeit transient , leave ventricular systolic and diastolic dysfunction , and only modestly elevated biochemical marker of myocardial necrosis .",
+        "D018487\tDisease\tleft ventricular systolic and diastolic dysfunction\ta 35-year-old woman whose cervix uteri be inadvertently inject with 8 mg of epinephrine develop myocardial stunning that be characterize by severe hemodynamic compromise , profound , albeit transient , <target> leave ventricular systolic and diastolic dysfunction </target> , and only modestly elevated biochemical marker of myocardial necrosis .",
+        "D009202\tDisease\tmyocardial necrosis\ta 35-year-old woman whose cervix uteri be inadvertently inject with 8 mg of epinephrine develop myocardial stunning that be characterize by severe hemodynamic compromise , profound , albeit transient , leave ventricular systolic and diastolic dysfunction , and only modestly elevated biochemical marker of <target> myocardial necrosis </target> ."
+    ]
+}

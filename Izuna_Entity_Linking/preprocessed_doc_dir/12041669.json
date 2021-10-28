@@ -1,0 +1,100 @@
+{
+    "title": "Antithymocyte globulin in the treatment of D-penicillamine-induced aplastic anemia.",
+    "abst": "A patient who received antithymocyte globulin therapy for aplastic anemia due to D-penicillamine therapy is described. Bone marrow recovery and peripheral blood recovery were complete 1 month and 3 months, respectively, after treatment, and blood transfusion or other therapies were not necessary in a follow-up period of more than 2 years. Use of antithymocyte globulin may be the optimal treatment of D-penicillamine-induced aplastic anemia.",
+    "title_plus_abst": "Antithymocyte globulin in the treatment of D-penicillamine-induced aplastic anemia. A patient who received antithymocyte globulin therapy for aplastic anemia due to D-penicillamine therapy is described. Bone marrow recovery and peripheral blood recovery were complete 1 month and 3 months, respectively, after treatment, and blood transfusion or other therapies were not necessary in a follow-up period of more than 2 years. Use of antithymocyte globulin may be the optimal treatment of D-penicillamine-induced aplastic anemia.",
+    "pubmed_id": "12041669",
+    "entities": [
+        [
+            0,
+            22,
+            "Antithymocyte globulin",
+            "Chemical",
+            "D000961"
+        ],
+        [
+            43,
+            58,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            67,
+            82,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            107,
+            129,
+            "antithymocyte globulin",
+            "Chemical",
+            "D000961"
+        ],
+        [
+            142,
+            157,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            165,
+            180,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            432,
+            454,
+            "antithymocyte globulin",
+            "Chemical",
+            "D000961"
+        ],
+        [
+            487,
+            502,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            511,
+            526,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ]
+    ],
+    "split_sentence": [
+        "Antithymocyte globulin in the treatment of D-penicillamine-induced aplastic anemia.",
+        "A patient who received antithymocyte globulin therapy for aplastic anemia due to D-penicillamine therapy is described.",
+        "Bone marrow recovery and peripheral blood recovery were complete 1 month and 3 months, respectively, after treatment, and blood transfusion or other therapies were not necessary in a follow-up period of more than 2 years.",
+        "Use of antithymocyte globulin may be the optimal treatment of D-penicillamine-induced aplastic anemia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000961\tChemical\tAntithymocyte globulin\t<target> Antithymocyte globulin </target> in the treatment of D-penicillamine-induced aplastic anemia .",
+        "D010396\tChemical\tD-penicillamine\tAntithymocyte globulin in the treatment of <target> D-penicillamine </target> -induced aplastic anemia .",
+        "D000741\tDisease\taplastic anemia\tAntithymocyte globulin in the treatment of D-penicillamine-induced <target> aplastic anemia </target> .",
+        "D000961\tChemical\tantithymocyte globulin\tA patient who received <target> antithymocyte globulin </target> therapy for aplastic anemia due to D-penicillamine therapy is described .",
+        "D000741\tDisease\taplastic anemia\tA patient who received antithymocyte globulin therapy for <target> aplastic anemia </target> due to D-penicillamine therapy is described .",
+        "D010396\tChemical\tD-penicillamine\tA patient who received antithymocyte globulin therapy for aplastic anemia due to <target> D-penicillamine </target> therapy is described .",
+        "D000961\tChemical\tantithymocyte globulin\tUse of <target> antithymocyte globulin </target> may be the optimal treatment of D-penicillamine-induced aplastic anemia .",
+        "D010396\tChemical\tD-penicillamine\tUse of antithymocyte globulin may be the optimal treatment of <target> D-penicillamine </target> -induced aplastic anemia .",
+        "D000741\tDisease\taplastic anemia\tUse of antithymocyte globulin may be the optimal treatment of D-penicillamine-induced <target> aplastic anemia </target> ."
+    ],
+    "lines_lemma": [
+        "D000961\tChemical\tAntithymocyte globulin\t<target> antithymocyte globulin </target> in the treatment of d-penicillamine-induced aplastic anemia .",
+        "D010396\tChemical\tD-penicillamine\tantithymocyte globulin in the treatment of <target> d-penicillamine </target> -induced aplastic anemia .",
+        "D000741\tDisease\taplastic anemia\tantithymocyte globulin in the treatment of d-penicillamine-induced <target> aplastic anemia </target> .",
+        "D000961\tChemical\tantithymocyte globulin\ta patient who receive <target> antithymocyte globulin </target> therapy for aplastic anemia due to d-penicillamine therapy be describe .",
+        "D000741\tDisease\taplastic anemia\ta patient who receive antithymocyte globulin therapy for <target> aplastic anemia </target> due to d-penicillamine therapy be describe .",
+        "D010396\tChemical\tD-penicillamine\ta patient who receive antithymocyte globulin therapy for aplastic anemia due to <target> d-penicillamine </target> therapy be describe .",
+        "D000961\tChemical\tantithymocyte globulin\tUse of <target> antithymocyte globulin </target> may be the optimal treatment of d-penicillamine-induced aplastic anemia .",
+        "D010396\tChemical\tD-penicillamine\tuse of antithymocyte globulin may be the optimal treatment of <target> d-penicillamine </target> -induced aplastic anemia .",
+        "D000741\tDisease\taplastic anemia\tuse of antithymocyte globulin may be the optimal treatment of d-penicillamine-induced <target> aplastic anemia </target> ."
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "title": "A measure of pupillary oscillation as a marker of cocaine-induced paranoia.",
+    "abst": "Cocaine-induced paranoia (CIP) remains an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker has yet emerged. Measures of pupillary oscillation were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past CIP (n = 32) from another group of crack addicts who denied past CIP (n = 29).",
+    "title_plus_abst": "A measure of pupillary oscillation as a marker of cocaine-induced paranoia. Cocaine-induced paranoia (CIP) remains an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker has yet emerged. Measures of pupillary oscillation were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past CIP (n = 32) from another group of crack addicts who denied past CIP (n = 29).",
+    "pubmed_id": "8854309",
+    "entities": [
+        [
+            13,
+            34,
+            "pupillary oscillation",
+            "Disease",
+            "D011681"
+        ],
+        [
+            50,
+            57,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            66,
+            74,
+            "paranoia",
+            "Disease",
+            "D010259"
+        ],
+        [
+            76,
+            83,
+            "Cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            92,
+            100,
+            "paranoia",
+            "Disease",
+            "D010259"
+        ],
+        [
+            102,
+            105,
+            "CIP",
+            "Disease",
+            "D010259"
+        ],
+        [
+            161,
+            169,
+            "paranoia",
+            "Disease",
+            "D010259"
+        ],
+        [
+            237,
+            258,
+            "pupillary oscillation",
+            "Disease",
+            "D011681"
+        ],
+        [
+            319,
+            332,
+            "crack cocaine",
+            "Chemical",
+            "D016578"
+        ],
+        [
+            356,
+            359,
+            "CIP",
+            "Disease",
+            "D010259"
+        ],
+        [
+            391,
+            396,
+            "crack",
+            "Chemical",
+            "D016578"
+        ],
+        [
+            421,
+            424,
+            "CIP",
+            "Disease",
+            "D010259"
+        ]
+    ],
+    "split_sentence": [
+        "A measure of pupillary oscillation as a marker of cocaine-induced paranoia.",
+        "Cocaine-induced paranoia (CIP) remains an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker has yet emerged.",
+        "Measures of pupillary oscillation were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past CIP (n = 32) from another group of crack addicts who denied past CIP (n = 29)."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011681\tDisease\tpupillary oscillation\tA measure of <target> pupillary oscillation </target> as a marker of cocaine-induced paranoia .",
+        "D003042\tChemical\tcocaine\tA measure of pupillary oscillation as a marker of <target> cocaine </target> -induced paranoia .",
+        "D010259\tDisease\tparanoia\tA measure of pupillary oscillation as a marker of cocaine-induced <target> paranoia </target> .",
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> -induced paranoia ( CIP ) remains an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker has yet emerged .",
+        "D010259\tDisease\tparanoia\tCocaine-induced <target> paranoia </target> ( CIP ) remains an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker has yet emerged .",
+        "D010259\tDisease\tCIP\tCocaine-induced paranoia ( <target> CIP </target> ) remains an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker has yet emerged .",
+        "D010259\tDisease\tparanoia\tCocaine-induced paranoia ( CIP ) remains an important drug-induced model of idiopathic <target> paranoia </target> for which no psychophysiologic marker has yet emerged .",
+        "D011681\tDisease\tpupillary oscillation\tMeasures of <target> pupillary oscillation </target> were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past CIP ( n = 32 ) from another group of crack addicts who denied past CIP ( n = 29 ) .",
+        "D016578\tChemical\tcrack cocaine\tMeasures of pupillary oscillation were able to significantly distinguish a group of abstinent <target> crack cocaine </target> abusers endorsing past CIP ( n = 32 ) from another group of crack addicts who denied past CIP ( n = 29 ) .",
+        "D010259\tDisease\tCIP\tMeasures of pupillary oscillation were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past <target> CIP </target> ( n = 32 ) from another group of crack addicts who denied past CIP ( n = 29 ) .",
+        "D016578\tChemical\tcrack\tMeasures of pupillary oscillation were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past CIP ( n = 32 ) from another group of <target> crack </target> addicts who denied past CIP ( n = 29 ) .",
+        "D010259\tDisease\tCIP\tMeasures of pupillary oscillation were able to significantly distinguish a group of abstinent crack cocaine abusers endorsing past CIP ( n = 32 ) from another group of crack addicts who denied past <target> CIP </target> ( n = 29 ) ."
+    ],
+    "lines_lemma": [
+        "D011681\tDisease\tpupillary oscillation\ta measure of <target> pupillary oscillation </target> as a marker of cocaine-induced paranoia .",
+        "D003042\tChemical\tcocaine\ta measure of pupillary oscillation as a marker of <target> cocaine </target> -induced paranoia .",
+        "D010259\tDisease\tparanoia\ta measure of pupillary oscillation as a marker of cocaine-induced <target> paranoia </target> .",
+        "D003042\tChemical\tCocaine\t<target> cocaine </target> -induced paranoia ( cip ) remain an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker have yet emerge .",
+        "D010259\tDisease\tparanoia\tcocaine-induced <target> paranoia </target> ( cip ) remain an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker have yet emerge .",
+        "D010259\tDisease\tCIP\tcocaine-induced paranoia ( <target> cip </target> ) remain an important drug-induced model of idiopathic paranoia for which no psychophysiologic marker have yet emerge .",
+        "D010259\tDisease\tparanoia\tcocaine-induced paranoia ( cip ) remain an important drug-induced model of idiopathic <target> paranoia </target> for which no psychophysiologic marker have yet emerge .",
+        "D011681\tDisease\tpupillary oscillation\tmeasure of <target> pupillary oscillation </target> be able to significantly distinguish a group of abstinent crack cocaine abuser endorse past cip ( n = 32 ) from another group of crack addict who deny past cip ( n = 29 ) .",
+        "D016578\tChemical\tcrack cocaine\tmeasure of pupillary oscillation be able to significantly distinguish a group of abstinent <target> crack cocaine </target> abuser endorse past cip ( n = 32 ) from another group of crack addict who deny past cip ( n = 29 ) .",
+        "D010259\tDisease\tCIP\tmeasure of pupillary oscillation be able to significantly distinguish a group of abstinent crack cocaine abuser endorse past <target> cip </target> ( n = 32 ) from another group of crack addict who deny past cip ( n = 29 ) .",
+        "D016578\tChemical\tcrack\tmeasure of pupillary oscillation be able to significantly distinguish a group of abstinent crack cocaine abuser endorse past cip ( n = 32 ) from another group of <target> crack </target> addict who deny past cip ( n = 29 ) .",
+        "D010259\tDisease\tCIP\tmeasure of pupillary oscillation be able to significantly distinguish a group of abstinent crack cocaine abuser endorse past cip ( n = 32 ) from another group of crack addict who deny past <target> cip </target> ( n = 29 ) ."
+    ]
+}

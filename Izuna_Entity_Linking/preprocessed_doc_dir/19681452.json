@@ -1,0 +1,156 @@
+{
+    "title": "Bilateral haemorrhagic infarction of the globus pallidus after cocaine and alcohol intoxication.",
+    "abst": "Cocaine is a risk factor for both ischemic and haemorrhagic stroke. We present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal cocaine use. Drug-related globus pallidus infarctions are most often associated with heroin. Bilateral basal ganglia infarcts after the use of cocaine, without concurrent heroin use, have never been reported. In our patient, transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion.",
+    "title_plus_abst": "Bilateral haemorrhagic infarction of the globus pallidus after cocaine and alcohol intoxication. Cocaine is a risk factor for both ischemic and haemorrhagic stroke. We present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal cocaine use. Drug-related globus pallidus infarctions are most often associated with heroin. Bilateral basal ganglia infarcts after the use of cocaine, without concurrent heroin use, have never been reported. In our patient, transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion.",
+    "pubmed_id": "19681452",
+    "entities": [
+        [
+            63,
+            70,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            75,
+            82,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            97,
+            104,
+            "Cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            221,
+            252,
+            "ischemia of the globus pallidus",
+            "Disease",
+            "D002545"
+        ],
+        [
+            269,
+            276,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            292,
+            299,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            318,
+            345,
+            "globus pallidus infarctions",
+            "Disease",
+            "D020520"
+        ],
+        [
+            377,
+            383,
+            "heroin",
+            "Chemical",
+            "D003932"
+        ],
+        [
+            395,
+            417,
+            "basal ganglia infarcts",
+            "Disease",
+            "D020520"
+        ],
+        [
+            435,
+            442,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            463,
+            469,
+            "heroin",
+            "Chemical",
+            "D003932"
+        ],
+        [
+            527,
+            545,
+            "cardiac arrhythmia",
+            "Disease",
+            "D001145"
+        ],
+        [
+            549,
+            572,
+            "respiratory dysfunction",
+            "Disease",
+            "D012131"
+        ],
+        [
+            584,
+            591,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            599,
+            606,
+            "ethanol",
+            "Chemical",
+            "D000431"
+        ]
+    ],
+    "split_sentence": [
+        "Bilateral haemorrhagic infarction of the globus pallidus after cocaine and alcohol intoxication.",
+        "Cocaine is a risk factor for both ischemic and haemorrhagic stroke.",
+        "We present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal cocaine use.",
+        "Drug-related globus pallidus infarctions are most often associated with heroin.",
+        "Bilateral basal ganglia infarcts after the use of cocaine, without concurrent heroin use, have never been reported.",
+        "In our patient, transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003042\tChemical\tcocaine\tBilateral haemorrhagic infarction of the globus pallidus after <target> cocaine </target> and alcohol intoxication .",
+        "D000431\tChemical\talcohol\tBilateral haemorrhagic infarction of the globus pallidus after cocaine and <target> alcohol </target> intoxication .",
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> is a risk factor for both ischemic and haemorrhagic stroke .",
+        "D002545\tDisease\tischemia of the globus pallidus\tWe present the case of a 31-year-old man with bilateral <target> ischemia of the globus pallidus </target> after excessive alcohol and intranasal cocaine use .",
+        "D000431\tChemical\talcohol\tWe present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive <target> alcohol </target> and intranasal cocaine use .",
+        "D003042\tChemical\tcocaine\tWe present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal <target> cocaine </target> use .",
+        "D020520\tDisease\tglobus pallidus infarctions\tDrug-related <target> globus pallidus infarctions </target> are most often associated with heroin .",
+        "D003932\tChemical\theroin\tDrug-related globus pallidus infarctions are most often associated with <target> heroin </target> .",
+        "D020520\tDisease\tbasal ganglia infarcts\tBilateral <target> basal ganglia infarcts </target> after the use of cocaine , without concurrent heroin use , have never been reported .",
+        "D003042\tChemical\tcocaine\tBilateral basal ganglia infarcts after the use of <target> cocaine </target> , without concurrent heroin use , have never been reported .",
+        "D003932\tChemical\theroin\tBilateral basal ganglia infarcts after the use of cocaine , without concurrent <target> heroin </target> use , have never been reported .",
+        "D001145\tDisease\tcardiac arrhythmia\tIn our patient , transient <target> cardiac arrhythmia </target> or respiratory dysfunction related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion .",
+        "D012131\tDisease\trespiratory dysfunction\tIn our patient , transient cardiac arrhythmia or <target> respiratory dysfunction </target> related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion .",
+        "D003042\tChemical\tcocaine\tIn our patient , transient cardiac arrhythmia or respiratory dysfunction related to <target> cocaine </target> and/or ethanol use were the most likely causes of cerebral hypoperfusion .",
+        "D000431\tChemical\tethanol\tIn our patient , transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or <target> ethanol </target> use were the most likely causes of cerebral hypoperfusion ."
+    ],
+    "lines_lemma": [
+        "D003042\tChemical\tcocaine\tbilateral haemorrhagic infarction of the globus pallidus after <target> cocaine </target> and alcohol intoxication .",
+        "D000431\tChemical\talcohol\tbilateral haemorrhagic infarction of the globus pallidus after cocaine and <target> alcohol </target> intoxication .",
+        "D003042\tChemical\tCocaine\t<target> cocaine </target> be a risk factor for both ischemic and haemorrhagic stroke .",
+        "D002545\tDisease\tischemia of the globus pallidus\twe present the case of a 31-year-old man with bilateral <target> ischemia of the globus pallidus </target> after excessive alcohol and intranasal cocaine use .",
+        "D000431\tChemical\talcohol\twe present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive <target> alcohol </target> and intranasal cocaine use .",
+        "D003042\tChemical\tcocaine\twe present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal <target> cocaine </target> use .",
+        "D020520\tDisease\tglobus pallidus infarctions\tdrug-related <target> globus pallidus infarction </target> be most often associate with heroin .",
+        "D003932\tChemical\theroin\tdrug-related globus pallidus infarction be most often associate with <target> heroin </target> .",
+        "D020520\tDisease\tbasal ganglia infarcts\tBilateral <target> basal ganglia infarct </target> after the use of cocaine , without concurrent heroin use , have never be report .",
+        "D003042\tChemical\tcocaine\tbilateral basal ganglia infarct after the use of <target> cocaine </target> , without concurrent heroin use , have never be report .",
+        "D003932\tChemical\theroin\tbilateral basal ganglia infarct after the use of cocaine , without concurrent <target> heroin </target> use , have never be report .",
+        "D001145\tDisease\tcardiac arrhythmia\tin our patient , transient <target> cardiac arrhythmia </target> or respiratory dysfunction related to cocaine and/or ethanol use be the most likely cause of cerebral hypoperfusion .",
+        "D012131\tDisease\trespiratory dysfunction\tin our patient , transient cardiac arrhythmia or <target> respiratory dysfunction </target> related to cocaine and/or ethanol use be the most likely cause of cerebral hypoperfusion .",
+        "D003042\tChemical\tcocaine\tin our patient , transient cardiac arrhythmia or respiratory dysfunction related to <target> cocaine </target> and/or ethanol use be the most likely cause of cerebral hypoperfusion .",
+        "D000431\tChemical\tethanol\tin our patient , transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or <target> ethanol </target> use be the most likely cause of cerebral hypoperfusion ."
+    ]
+}

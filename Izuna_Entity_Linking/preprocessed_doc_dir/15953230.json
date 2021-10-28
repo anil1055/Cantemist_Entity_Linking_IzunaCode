@@ -1,0 +1,101 @@
+{
+    "title": "Two cases of amisulpride overdose: a cause for prolonged QT syndrome.",
+    "abst": "Two cases of deliberate self-poisoning with 5 g and 3.6 g of amisulpride, respectively, are reported. In both cases, QT prolongation and hypocalcaemia were noted. The QT prolongation appeared to respond to administration of i.v. calcium gluconate.",
+    "title_plus_abst": "Two cases of amisulpride overdose: a cause for prolonged QT syndrome. Two cases of deliberate self-poisoning with 5 g and 3.6 g of amisulpride, respectively, are reported. In both cases, QT prolongation and hypocalcaemia were noted. The QT prolongation appeared to respond to administration of i.v. calcium gluconate.",
+    "pubmed_id": "15953230",
+    "entities": [
+        [
+            13,
+            24,
+            "amisulpride",
+            "Chemical",
+            "C012052"
+        ],
+        [
+            25,
+            33,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            47,
+            68,
+            "prolonged QT syndrome",
+            "Disease",
+            "D008133"
+        ],
+        [
+            99,
+            108,
+            "poisoning",
+            "Disease",
+            "D011041"
+        ],
+        [
+            131,
+            142,
+            "amisulpride",
+            "Chemical",
+            "C012052"
+        ],
+        [
+            187,
+            202,
+            "QT prolongation",
+            "Disease",
+            "D008133"
+        ],
+        [
+            207,
+            220,
+            "hypocalcaemia",
+            "Disease",
+            "D006996"
+        ],
+        [
+            237,
+            252,
+            "QT prolongation",
+            "Disease",
+            "D008133"
+        ],
+        [
+            299,
+            316,
+            "calcium gluconate",
+            "Chemical",
+            "D002125"
+        ]
+    ],
+    "split_sentence": [
+        "Two cases of amisulpride overdose: a cause for prolonged QT syndrome.",
+        "Two cases of deliberate self-poisoning with 5 g and 3.6 g of amisulpride, respectively, are reported.",
+        "In both cases, QT prolongation and hypocalcaemia were noted.",
+        "The QT prolongation appeared to respond to administration of i.v.",
+        "calcium gluconate."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C012052\tChemical\tamisulpride\tTwo cases of <target> amisulpride </target> overdose : a cause for prolonged QT syndrome .",
+        "D062787\tDisease\toverdose\tTwo cases of amisulpride <target> overdose </target> : a cause for prolonged QT syndrome .",
+        "D008133\tDisease\tprolonged QT syndrome\tTwo cases of amisulpride overdose : a cause for <target> prolonged QT syndrome </target> .",
+        "D011041\tDisease\tpoisoning\tTwo cases of deliberate self- <target> poisoning </target> with 5 g and 3.6 g of amisulpride , respectively , are reported .",
+        "C012052\tChemical\tamisulpride\tTwo cases of deliberate self-poisoning with 5 g and 3.6 g of <target> amisulpride </target> , respectively , are reported .",
+        "D008133\tDisease\tQT prolongation\tIn both cases , <target> QT prolongation </target> and hypocalcaemia were noted .",
+        "D006996\tDisease\thypocalcaemia\tIn both cases , QT prolongation and <target> hypocalcaemia </target> were noted .",
+        "D008133\tDisease\tQT prolongation\tThe <target> QT prolongation </target> appeared to respond to administration of i.v .",
+        "D002125\tChemical\tcalcium gluconate\t<target> calcium gluconate </target> ."
+    ],
+    "lines_lemma": [
+        "C012052\tChemical\tamisulpride\ttwo case of <target> amisulpride </target> overdose : a cause for prolonged qt syndrome .",
+        "D062787\tDisease\toverdose\ttwo case of amisulpride <target> overdose </target> : a cause for prolonged qt syndrome .",
+        "D008133\tDisease\tprolonged QT syndrome\ttwo case of amisulpride overdose : a cause for <target> prolonged qt syndrome </target> .",
+        "D011041\tDisease\tpoisoning\ttwo case of deliberate self- <target> poison </target> with 5 g and 3.6 g of amisulpride , respectively , be report .",
+        "C012052\tChemical\tamisulpride\ttwo case of deliberate self-poisoning with 5 g and 3.6 g of <target> amisulpride </target> , respectively , be report .",
+        "D008133\tDisease\tQT prolongation\tin both case , <target> qt prolongation </target> and hypocalcaemia be note .",
+        "D006996\tDisease\thypocalcaemia\tin both case , qt prolongation and <target> hypocalcaemia </target> be note .",
+        "D008133\tDisease\tQT prolongation\tthe <target> qt prolongation </target> appear to respond to administration of i.v .",
+        "D002125\tChemical\tcalcium gluconate\t<target> calcium gluconate </target> ."
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "title": "Cardiac toxicity of 5-fluorouracil. Report of a case of spontaneous angina.",
+    "abst": "We report a case of a patient with colon carcinoma and liver metastasis who presented chest pain after 5-fluorouracil (5-FU) administration. Clinical electrocardiographic evolution was similar to that observed in Prinzmetal's angina, and chest pain promptly resolved with nifedipine. These data suggest that coronary spasm may be the cause of cardiotoxicity due to 5-FU, and that calcium antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity.",
+    "title_plus_abst": "Cardiac toxicity of 5-fluorouracil. Report of a case of spontaneous angina. We report a case of a patient with colon carcinoma and liver metastasis who presented chest pain after 5-fluorouracil (5-FU) administration. Clinical electrocardiographic evolution was similar to that observed in Prinzmetal's angina, and chest pain promptly resolved with nifedipine. These data suggest that coronary spasm may be the cause of cardiotoxicity due to 5-FU, and that calcium antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity.",
+    "pubmed_id": "3952818",
+    "entities": [
+        [
+            0,
+            16,
+            "Cardiac toxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            20,
+            34,
+            "5-fluorouracil",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            68,
+            74,
+            "angina",
+            "Disease",
+            "D000787"
+        ],
+        [
+            111,
+            126,
+            "colon carcinoma",
+            "Disease",
+            "D003110"
+        ],
+        [
+            137,
+            147,
+            "metastasis",
+            "Disease",
+            "D009362"
+        ],
+        [
+            162,
+            172,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            179,
+            193,
+            "5-fluorouracil",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            195,
+            199,
+            "5-FU",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            289,
+            308,
+            "Prinzmetal's angina",
+            "Disease",
+            "D000788"
+        ],
+        [
+            314,
+            324,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            348,
+            358,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            384,
+            398,
+            "coronary spasm",
+            "Disease",
+            "D003329"
+        ],
+        [
+            419,
+            433,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            441,
+            445,
+            "5-FU",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            456,
+            463,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            531,
+            535,
+            "5-FU",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            536,
+            550,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiac toxicity of 5-fluorouracil.",
+        "Report of a case of spontaneous angina.",
+        "We report a case of a patient with colon carcinoma and liver metastasis who presented chest pain after 5-fluorouracil (5-FU) administration.",
+        "Clinical electrocardiographic evolution was similar to that observed in Prinzmetal's angina, and chest pain promptly resolved with nifedipine.",
+        "These data suggest that coronary spasm may be the cause of cardiotoxicity due to 5-FU, and that calcium antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D066126\tDisease\tCardiac toxicity\t<target> Cardiac toxicity </target> of 5-fluorouracil .",
+        "D005472\tChemical\t5-fluorouracil\tCardiac toxicity of <target> 5-fluorouracil </target> .",
+        "D000787\tDisease\tangina\tReport of a case of spontaneous <target> angina </target> .",
+        "D003110\tDisease\tcolon carcinoma\tWe report a case of a patient with <target> colon carcinoma </target> and liver metastasis who presented chest pain after 5-fluorouracil ( 5-FU ) administration .",
+        "D009362\tDisease\tmetastasis\tWe report a case of a patient with colon carcinoma and liver <target> metastasis </target> who presented chest pain after 5-fluorouracil ( 5-FU ) administration .",
+        "D002637\tDisease\tchest pain\tWe report a case of a patient with colon carcinoma and liver metastasis who presented <target> chest pain </target> after 5-fluorouracil ( 5-FU ) administration .",
+        "D005472\tChemical\t5-fluorouracil\tWe report a case of a patient with colon carcinoma and liver metastasis who presented chest pain after <target> 5-fluorouracil </target> ( 5-FU ) administration .",
+        "D005472\tChemical\t5-FU\tWe report a case of a patient with colon carcinoma and liver metastasis who presented chest pain after 5-fluorouracil ( <target> 5-FU </target> ) administration .",
+        "D000788\tDisease\tPrinzmetal's angina\tClinical electrocardiographic evolution was similar to that observed in <target> Prinzmetal 's angina </target> , and chest pain promptly resolved with nifedipine .",
+        "D002637\tDisease\tchest pain\tClinical electrocardiographic evolution was similar to that observed in Prinzmetal 's angina , and <target> chest pain </target> promptly resolved with nifedipine .",
+        "D009543\tChemical\tnifedipine\tClinical electrocardiographic evolution was similar to that observed in Prinzmetal 's angina , and chest pain promptly resolved with <target> nifedipine </target> .",
+        "D003329\tDisease\tcoronary spasm\tThese data suggest that <target> coronary spasm </target> may be the cause of cardiotoxicity due to 5-FU , and that calcium antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tThese data suggest that coronary spasm may be the cause of <target> cardiotoxicity </target> due to 5-FU , and that calcium antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity .",
+        "D005472\tChemical\t5-FU\tThese data suggest that coronary spasm may be the cause of cardiotoxicity due to <target> 5-FU </target> , and that calcium antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity .",
+        "D002118\tChemical\tcalcium\tThese data suggest that coronary spasm may be the cause of cardiotoxicity due to 5-FU , and that <target> calcium </target> antagonists may probably be used in the prevention or treatment of 5-FU cardiotoxicity .",
+        "D005472\tChemical\t5-FU\tThese data suggest that coronary spasm may be the cause of cardiotoxicity due to 5-FU , and that calcium antagonists may probably be used in the prevention or treatment of <target> 5-FU </target> cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tThese data suggest that coronary spasm may be the cause of cardiotoxicity due to 5-FU , and that calcium antagonists may probably be used in the prevention or treatment of 5-FU <target> cardiotoxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D066126\tDisease\tCardiac toxicity\t<target> cardiac toxicity </target> of 5-fluorouracil .",
+        "D005472\tChemical\t5-fluorouracil\tcardiac toxicity of <target> 5-fluorouracil </target> .",
+        "D000787\tDisease\tangina\treport of a case of spontaneous <target> angina </target> .",
+        "D003110\tDisease\tcolon carcinoma\twe report a case of a patient with <target> colon carcinoma </target> and liver metastasis who present chest pain after 5-fluorouracil ( 5-fu ) administration .",
+        "D009362\tDisease\tmetastasis\twe report a case of a patient with colon carcinoma and liver <target> metastasis </target> who present chest pain after 5-fluorouracil ( 5-fu ) administration .",
+        "D002637\tDisease\tchest pain\twe report a case of a patient with colon carcinoma and liver metastasis who present <target> chest pain </target> after 5-fluorouracil ( 5-fu ) administration .",
+        "D005472\tChemical\t5-fluorouracil\twe report a case of a patient with colon carcinoma and liver metastasis who present chest pain after <target> 5-fluorouracil </target> ( 5-fu ) administration .",
+        "D005472\tChemical\t5-FU\twe report a case of a patient with colon carcinoma and liver metastasis who present chest pain after 5-fluorouracil ( <target> 5-fu </target> ) administration .",
+        "D000788\tDisease\tPrinzmetal's angina\tclinical electrocardiographic evolution be similar to that observe in <target> Prinzmetal 's angina </target> , and chest pain promptly resolve with nifedipine .",
+        "D002637\tDisease\tchest pain\tclinical electrocardiographic evolution be similar to that observe in Prinzmetal 's angina , and <target> chest pain </target> promptly resolve with nifedipine .",
+        "D009543\tChemical\tnifedipine\tclinical electrocardiographic evolution be similar to that observe in Prinzmetal 's angina , and chest pain promptly resolve with <target> nifedipine </target> .",
+        "D003329\tDisease\tcoronary spasm\tthese datum suggest that <target> coronary spasm </target> may be the cause of cardiotoxicity due to 5-fu , and that calcium antagonist may probably be use in the prevention or treatment of 5-fu cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tthese datum suggest that coronary spasm may be the cause of <target> cardiotoxicity </target> due to 5-fu , and that calcium antagonist may probably be use in the prevention or treatment of 5-fu cardiotoxicity .",
+        "D005472\tChemical\t5-FU\tthese datum suggest that coronary spasm may be the cause of cardiotoxicity due to <target> 5-fu </target> , and that calcium antagonist may probably be use in the prevention or treatment of 5-fu cardiotoxicity .",
+        "D002118\tChemical\tcalcium\tthese datum suggest that coronary spasm may be the cause of cardiotoxicity due to 5-fu , and that <target> calcium </target> antagonist may probably be use in the prevention or treatment of 5-fu cardiotoxicity .",
+        "D005472\tChemical\t5-FU\tthese datum suggest that coronary spasm may be the cause of cardiotoxicity due to 5-fu , and that calcium antagonist may probably be use in the prevention or treatment of <target> 5-fu </target> cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tthese datum suggest that coronary spasm may be the cause of cardiotoxicity due to 5-fu , and that calcium antagonist may probably be use in the prevention or treatment of 5-fu <target> cardiotoxicity </target> ."
+    ]
+}

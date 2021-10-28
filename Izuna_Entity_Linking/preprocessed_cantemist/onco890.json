@@ -1,0 +1,128 @@
+{
+    "entities": [
+        [
+            1061,
+            1064,
+            "cM0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1105,
+            1112,
+            "cT3N0M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            3047,
+            3054,
+            "maligno",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2996,
+            3006,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2414,
+            2426,
+            "neoformación",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            601,
+            627,
+            "adenoma prostático grado 2",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/02"
+        ],
+        [
+            807,
+            842,
+            "adenocarcinoma prostático Gleason 5",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/31"
+        ],
+        [
+            1079,
+            1093,
+            "Adenocarcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/3"
+        ],
+        [
+            2540,
+            2566,
+            "angiosarcoma de alto grado",
+            "MORFOLOGIA_NEOPLASIA",
+            "9120/34"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "La estadificación TNM definitiva tras completar estudio con RM pélvica y rastreo óseo fue cT3 (por infiltración de vesícula seminal) cN0  <objetivo> cM0 </objetivo> ",
+        "Adenocarcinoma prostático  <objetivo> cT3N0M0 </objetivo> ",
+        "El estudio de extensión posquirúrgico reveló una rápida progresión de la enfermedad, tanto a nivel pélvico como a nivel sistémico con desarrollo de metástasis hepáticas, pulmonares y derrame pleural  <objetivo> maligno </objetivo> ",
+        "El estudio de extensión posquirúrgico reveló una rápida progresión de la enfermedad, tanto a nivel pélvico como a nivel sistémico con desarrollo de  <objetivo> metástasis </objetivo> hepáticas, pulmonares y derrame pleural maligno.",
+        "El estudio anatomopatológico reveló la existencia de una  <objetivo> neoformación </objetivo> con áreas fusocelulares/sarcomatoides y otras más epitelioides con gran componente hemorrágico compatible con un angiosarcoma de alto grado (Ki-67 90 %) que ocupaba la práctica totalidad de la vejiga y se extendía a grasa perivesical con afectación del margen quirúrgico a nivel de trígono.",
+        "En la exploración física, se objetiva  <objetivo> adenoma prostático grado 2 </objetivo> con zona irregular en lóbulo izquierdo.",
+        "Se completó el estudio con biopsia prostática con hallazgo de  <objetivo> adenocarcinoma prostático Gleason 5 </objetivo> (3",
+        "<objetivo> Adenocarcinoma </objetivo> prostático cT3N0M0.",
+        "El estudio anatomopatológico reveló la existencia de una neoformación con áreas fusocelulares/sarcomatoides y otras más epitelioides con gran componente hemorrágico compatible con un  <objetivo> angiosarcoma de alto grado </objetivo> (Ki-67 90 %) que ocupaba la práctica totalidad de la vejiga y se extendía a grasa perivesical con afectación del margen quirúrgico a nivel de trígono."
+    ],
+    "lines_lemma": [
+        "el estadificación TNM definitivo tras completar estudio con RM pélvico y rastreo óseo ser cT3 ( por infiltración de vesícula seminal ) cN0   <objetivo> cM0 </objetivo>",
+        "Adenocarcinoma prostático   <objetivo> ct3n0m0 </objetivo>",
+        "el estudio de extensión posquirúrgico revelar uno rápido progresión de el enfermedad , tanto a nivel pélvico como a nivel sistémico con desarrollo de metástasis hepático , pulmonar y derrame pleural   <objetivo> maligno </objetivo>",
+        "el estudio de extensión posquirúrgico revelar uno rápido progresión de el enfermedad , tanto a nivel pélvico como a nivel sistémico con desarrollo de   <objetivo> metástasi </objetivo> hepático , pulmonar y derrame pleural maligno .",
+        "el estudio anatomopatológico revelar el existencia de uno   <objetivo> neoformación </objetivo> con área fusocelular / sarcomatoid y otro más epitelioid con gran componente hemorrágico compatible con uno angiosarcoma de alto grado ( ki-67 90 % ) que ocupar el práctico totalidad de el vejiga y él extender a grasa perivesical con afectación del margen quirúrgico a nivel de trígono .",
+        "en el exploración físico , él objetiir   <objetivo> adenomar prostático grado 2 </objetivo> con zona irregular en lóbulo izquierdo .",
+        "él completar el estudio con biopsia prostático con hallazgo de   <objetivo> adenocarcinomar prostático Gleason 5 </objetivo> ( 3",
+        "<objetivo> Adenocarcinoma </objetivo> prostático ct3n0m0 .",
+        "el estudio anatomopatológico revelar el existencia de uno neoformación con área fusocelular / sarcomatoid y otro más epitelioid con gran componente hemorrágico compatible con uno   <objetivo> angiosarcomar de alto grado </objetivo> ( ki-67 90 % ) que ocupar el práctico totalidad de el vejiga y él extender a grasa perivesical con afectación del margen quirúrgico a nivel de trígono ."
+    ],
+    "pubmed_id": "onco890",
+    "split_sentence": [
+        "Anamnesis",
+        "Paciente con buen estado general y asintomático, remitido a Servicio de Urología por elevación de PSA.",
+        "Varón de 67 años de edad con antecedentes de dislipemia.",
+        "Niega consumo de tóxicos, ni exposición laboral a sustancias carcinogénicas.",
+        "Trabajó como chófer, actualmente jubilado.",
+        "Su tratamiento habitual son estatinas e inhibidor de la bomba de protones.",
+        "En febrero de 2009, se remite al paciente al Servicio de Urología por elevación del PSA a 11,7 ng/dl.",
+        "Exploración física",
+        "Paciente con buen estado general, constantes dentro de rango de normalidad.",
+        "En la exploración física, se objetiva adenoma prostático grado 2 con zona irregular en lóbulo izquierdo.",
+        "El resto de la exploración por aparatos es anodina.",
+        "Pruebas complementarias",
+        "Se completó el estudio con biopsia prostática con hallazgo de adenocarcinoma prostático Gleason 5 (3",
+        "+ 2) en lóbulo derecho (80 %) y Gleason 6 (3 + 3) en lóbulo izquierdo (20 %).",
+        "La estadificación TNM definitiva tras completar estudio con RM pélvica y rastreo óseo fue cT3 (por infiltración de vesícula seminal) cN0 cM0.",
+        "Diagnóstico",
+        "Adenocarcinoma prostático cT3N0M0.",
+        "Tratamiento",
+        "Se propuso tratamiento con radioterapia radical y deprivación androgénica con bloqueo completo durante 24 meses.",
+        "Se administró una dosis total de 76 Gy con imagen guiada por IGRT entre septiembre y noviembre de 2009.",
+        "Controles posteriores con PSA < 0,1 ng/dl.",
+        "Evolución",
+        "En diciembre de 2016, tras un intervalo de 7 años de finalizar radioterapia sobre el área pélvica, el paciente presenta episodio de insuficiencia renal aguda por uropatía obstructiva bilateral que obliga a implantación de nefrostomía percutánea izquierda.",
+        "En el estudio por TC no se objetivó causa obstructiva por lo que se practicó una uretrocistoscopia intraoperatoria sin conseguir entrada a vejiga a pesar de empleo de resector y uretrotomo.",
+        "Ante la sospecha de que el cuadro obstructivo fuese secundario a una fibrosis uretral prostática asociada a cistitis rádica, se propone la realización de cistectomía con derivación ureteroileal.",
+        "En marzo de 2017 se practicó una cistectomía radical con derivación urinaria tipo Bricker y nefrostomía derecha previa, hallando zona pélvica con gran componente inflamatorio incluso peritoneal (adherencia epiploica) y una vejiga hipertrófica y retraída, así como una próstata completamente adherida a planos vecinos.",
+        "El estudio anatomopatológico reveló la existencia de una neoformación con áreas fusocelulares/sarcomatoides y otras más epitelioides con gran componente hemorrágico compatible con un angiosarcoma de alto grado (Ki-67 90 %) que ocupaba la práctica totalidad de la vejiga y se extendía a grasa perivesical con afectación del margen quirúrgico a nivel de trígono.",
+        "Se evidenciaba extensa necrosis (> 50 %) e invasión vasculolinfática.",
+        "El perfil inmunohistoquímico era CD31+, CD117+, CKAE1/AE3-.",
+        "El estudio de extensión posquirúrgico reveló una rápida progresión de la enfermedad, tanto a nivel pélvico como a nivel sistémico con desarrollo de metástasis hepáticas, pulmonares y derrame pleural maligno.",
+        "El paciente desarrollo disnea de esfuerzo rápidamente progresiva hasta hacerse de reposo que obligaron a su ingreso hospitalario y a la colocación de tubo de drenaje torácico y posterior pleurodesis paliativa.",
+        "El deterioro clínico del paciente durante el ingreso es rápido con predominio de disnea y cuadro constitucional.",
+        "En el momento de la valoración por el Servicio de Oncología, el estado general del paciente es pobre con un ECOG 3, por lo que se desestima administración de quimioterapia paliativa y se opta por un tratamiento sintomático exclusivo con apoyo de la Unidad de Hospitalización a Domicilio.",
+        "Se produce el fallecimiento pocos días después del alta hospitalaria."
+    ],
+    "text": "Anamnesis\nPaciente con buen estado general y asintomático, remitido a Servicio de Urología por elevación de PSA.\nVarón de 67 años de edad con antecedentes de dislipemia. Niega consumo de tóxicos, ni exposición laboral a sustancias carcinogénicas. Trabajó como chófer, actualmente jubilado. Su tratamiento habitual son estatinas e inhibidor de la bomba de protones. En febrero de 2009, se remite al paciente al Servicio de Urología por elevación del PSA a 11,7 ng/dl.\n\nExploración física\nPaciente con buen estado general, constantes dentro de rango de normalidad. En la exploración física, se objetiva adenoma prostático grado 2 con zona irregular en lóbulo izquierdo. El resto de la exploración por aparatos es anodina.\n\nPruebas complementarias\nSe completó el estudio con biopsia prostática con hallazgo de adenocarcinoma prostático Gleason 5 (3\n+ 2) en lóbulo derecho (80 %) y Gleason 6 (3 + 3) en lóbulo izquierdo (20 %).\nLa estadificación TNM definitiva tras completar estudio con RM pélvica y rastreo óseo fue cT3 (por infiltración de vesícula seminal) cN0 cM0.\n\nDiagnóstico\nAdenocarcinoma prostático cT3N0M0.\n\nTratamiento\nSe propuso tratamiento con radioterapia radical y deprivación androgénica con bloqueo completo durante 24 meses. Se administró una dosis total de 76 Gy con imagen guiada por IGRT entre septiembre y noviembre de 2009. Controles posteriores con PSA < 0,1 ng/dl.\n\nEvolución\nEn diciembre de 2016, tras un intervalo de 7 años de finalizar radioterapia sobre el área pélvica, el paciente presenta episodio de insuficiencia renal aguda por uropatía obstructiva bilateral que obliga a implantación de nefrostomía percutánea izquierda. En el estudio por TC no se objetivó causa obstructiva por lo que se practicó una uretrocistoscopia intraoperatoria sin conseguir entrada a vejiga a pesar de empleo de resector y uretrotomo.\nAnte la sospecha de que el cuadro obstructivo fuese secundario a una fibrosis uretral prostática asociada a cistitis rádica, se propone la realización de cistectomía con derivación ureteroileal. En marzo de 2017 se practicó una cistectomía radical con derivación urinaria tipo Bricker y nefrostomía derecha previa, hallando zona pélvica con gran componente inflamatorio incluso peritoneal (adherencia epiploica) y una vejiga hipertrófica y retraída, así como una próstata completamente adherida a planos vecinos.\nEl estudio anatomopatológico reveló la existencia de una neoformación con áreas fusocelulares/sarcomatoides y otras más epitelioides con gran componente hemorrágico compatible con un angiosarcoma de alto grado (Ki-67 90 %) que ocupaba la práctica totalidad de la vejiga y se extendía a grasa perivesical con afectación del margen quirúrgico a nivel de trígono. Se evidenciaba extensa necrosis (> 50 %) e invasión vasculolinfática. El perfil inmunohistoquímico era CD31+, CD117+, CKAE1/AE3-.\nEl estudio de extensión posquirúrgico reveló una rápida progresión de la enfermedad, tanto a nivel pélvico como a nivel sistémico con desarrollo de metástasis hepáticas, pulmonares y derrame pleural maligno.\nEl paciente desarrollo disnea de esfuerzo rápidamente progresiva hasta hacerse de reposo que obligaron a su ingreso hospitalario y a la colocación de tubo de drenaje torácico y posterior pleurodesis paliativa.\nEl deterioro clínico del paciente durante el ingreso es rápido con predominio de disnea y cuadro constitucional. En el momento de la valoración por el Servicio de Oncología, el estado general del paciente es pobre con un ECOG 3, por lo que se desestima administración de quimioterapia paliativa y se opta por un tratamiento sintomático exclusivo con apoyo de la Unidad de Hospitalización a Domicilio. Se produce el fallecimiento pocos días después del alta hospitalaria."
+}

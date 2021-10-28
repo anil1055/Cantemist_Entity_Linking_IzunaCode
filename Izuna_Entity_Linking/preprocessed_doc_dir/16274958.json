@@ -1,0 +1,83 @@
+{
+    "title": "Recurrent dysphonia and acitretin.",
+    "abst": "We report the case of a woman complaining of dysphonia while she was treated by acitretin. Her symptoms totally regressed after drug withdrawal and reappeared when acitretin was reintroduced. To our knowledge, this is the first case of acitretin-induced dysphonia. This effect may be related to the pharmacological effect of this drug on mucous membranes.",
+    "title_plus_abst": "Recurrent dysphonia and acitretin. We report the case of a woman complaining of dysphonia while she was treated by acitretin. Her symptoms totally regressed after drug withdrawal and reappeared when acitretin was reintroduced. To our knowledge, this is the first case of acitretin-induced dysphonia. This effect may be related to the pharmacological effect of this drug on mucous membranes.",
+    "pubmed_id": "16274958",
+    "entities": [
+        [
+            10,
+            19,
+            "dysphonia",
+            "Disease",
+            "D055154"
+        ],
+        [
+            24,
+            33,
+            "acitretin",
+            "Chemical",
+            "D017255"
+        ],
+        [
+            80,
+            89,
+            "dysphonia",
+            "Disease",
+            "D055154"
+        ],
+        [
+            115,
+            124,
+            "acitretin",
+            "Chemical",
+            "D017255"
+        ],
+        [
+            199,
+            208,
+            "acitretin",
+            "Chemical",
+            "D017255"
+        ],
+        [
+            271,
+            280,
+            "acitretin",
+            "Chemical",
+            "D017255"
+        ],
+        [
+            289,
+            298,
+            "dysphonia",
+            "Disease",
+            "D055154"
+        ]
+    ],
+    "split_sentence": [
+        "Recurrent dysphonia and acitretin.",
+        "We report the case of a woman complaining of dysphonia while she was treated by acitretin.",
+        "Her symptoms totally regressed after drug withdrawal and reappeared when acitretin was reintroduced.",
+        "To our knowledge, this is the first case of acitretin-induced dysphonia.",
+        "This effect may be related to the pharmacological effect of this drug on mucous membranes."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D055154\tDisease\tdysphonia\tRecurrent <target> dysphonia </target> and acitretin .",
+        "D017255\tChemical\tacitretin\tRecurrent dysphonia and <target> acitretin </target> .",
+        "D055154\tDisease\tdysphonia\tWe report the case of a woman complaining of <target> dysphonia </target> while she was treated by acitretin .",
+        "D017255\tChemical\tacitretin\tWe report the case of a woman complaining of dysphonia while she was treated by <target> acitretin </target> .",
+        "D017255\tChemical\tacitretin\tHer symptoms totally regressed after drug withdrawal and reappeared when <target> acitretin </target> was reintroduced .",
+        "D017255\tChemical\tacitretin\tTo our knowledge , this is the first case of <target> acitretin </target> -induced dysphonia .",
+        "D055154\tDisease\tdysphonia\tTo our knowledge , this is the first case of acitretin-induced <target> dysphonia </target> ."
+    ],
+    "lines_lemma": [
+        "D055154\tDisease\tdysphonia\tRecurrent <target> dysphonia </target> and acitretin .",
+        "D017255\tChemical\tacitretin\trecurrent dysphonia and <target> acitretin </target> .",
+        "D055154\tDisease\tdysphonia\twe report the case of a woman complaining of <target> dysphonia </target> while she be treat by acitretin .",
+        "D017255\tChemical\tacitretin\twe report the case of a woman complaining of dysphonia while she be treat by <target> acitretin </target> .",
+        "D017255\tChemical\tacitretin\ther symptom totally regress after drug withdrawal and reappear when <target> acitretin </target> be reintroduce .",
+        "D017255\tChemical\tacitretin\tto our knowledge , this be the first case of <target> acitretin </target> -induced dysphonia .",
+        "D055154\tDisease\tdysphonia\tto our knowledge , this be the first case of acitretin-induced <target> dysphonia </target> ."
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "title": "Drug-associated acute-onset vanishing bile duct and Stevens-Johnson syndromes in a child.",
+    "abst": "Acute vanishing bile duct syndrome is a rare but established cause of progressive cholestasis in adults, is most often drug or toxin related, and is of unknown pathogenesis. It has not been reported previously in children. Stevens-Johnson syndrome is a well-recognized immune complex-mediated hypersensitivity reaction that affects all age groups, is drug or infection induced, and has classic systemic, mucosal, and dermatologic manifestations. A previously healthy child who developed acute, severe, rapidly progressive vanishing bile duct syndrome shortly after Stevens-Johnson syndrome is described; this was temporally associated with ibuprofen use. Despite therapy with ursodeoxycholic acid, prednisone, and then tacrolimus, her cholestatic disease was unrelenting, with cirrhosis shown by biopsy 6 months after presentation. This case documents acute drug-related vanishing bile duct syndrome in the pediatric age group and suggests shared immune mechanisms in the pathogenesis of both Stevens-Johnson syndrome and vanishing bile duct syndrome.",
+    "title_plus_abst": "Drug-associated acute-onset vanishing bile duct and Stevens-Johnson syndromes in a child. Acute vanishing bile duct syndrome is a rare but established cause of progressive cholestasis in adults, is most often drug or toxin related, and is of unknown pathogenesis. It has not been reported previously in children. Stevens-Johnson syndrome is a well-recognized immune complex-mediated hypersensitivity reaction that affects all age groups, is drug or infection induced, and has classic systemic, mucosal, and dermatologic manifestations. A previously healthy child who developed acute, severe, rapidly progressive vanishing bile duct syndrome shortly after Stevens-Johnson syndrome is described; this was temporally associated with ibuprofen use. Despite therapy with ursodeoxycholic acid, prednisone, and then tacrolimus, her cholestatic disease was unrelenting, with cirrhosis shown by biopsy 6 months after presentation. This case documents acute drug-related vanishing bile duct syndrome in the pediatric age group and suggests shared immune mechanisms in the pathogenesis of both Stevens-Johnson syndrome and vanishing bile duct syndrome.",
+    "pubmed_id": "9721172",
+    "entities": [
+        [
+            28,
+            47,
+            "vanishing bile duct",
+            "Disease",
+            "D001649"
+        ],
+        [
+            52,
+            77,
+            "Stevens-Johnson syndromes",
+            "Disease",
+            "D013262"
+        ],
+        [
+            96,
+            115,
+            "vanishing bile duct",
+            "Disease",
+            "D001649"
+        ],
+        [
+            172,
+            183,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            313,
+            337,
+            "Stevens-Johnson syndrome",
+            "Disease",
+            "D013262"
+        ],
+        [
+            383,
+            399,
+            "hypersensitivity",
+            "Disease",
+            "D004342"
+        ],
+        [
+            449,
+            458,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            612,
+            640,
+            "vanishing bile duct syndrome",
+            "Disease",
+            "D001649"
+        ],
+        [
+            655,
+            679,
+            "Stevens-Johnson syndrome",
+            "Disease",
+            "D013262"
+        ],
+        [
+            730,
+            739,
+            "ibuprofen",
+            "Chemical",
+            "D007052"
+        ],
+        [
+            766,
+            786,
+            "ursodeoxycholic acid",
+            "Chemical",
+            "D014580"
+        ],
+        [
+            788,
+            798,
+            "prednisone",
+            "Chemical",
+            "D011241"
+        ],
+        [
+            809,
+            819,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            825,
+            844,
+            "cholestatic disease",
+            "Disease",
+            "D002779"
+        ],
+        [
+            867,
+            876,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            961,
+            989,
+            "vanishing bile duct syndrome",
+            "Disease",
+            "D001649"
+        ],
+        [
+            1083,
+            1107,
+            "Stevens-Johnson syndrome",
+            "Disease",
+            "D013262"
+        ],
+        [
+            1112,
+            1140,
+            "vanishing bile duct syndrome",
+            "Disease",
+            "D001649"
+        ]
+    ],
+    "split_sentence": [
+        "Drug-associated acute-onset vanishing bile duct and Stevens-Johnson syndromes in a child.",
+        "Acute vanishing bile duct syndrome is a rare but established cause of progressive cholestasis in adults, is most often drug or toxin related, and is of unknown pathogenesis.",
+        "It has not been reported previously in children.",
+        "Stevens-Johnson syndrome is a well-recognized immune complex-mediated hypersensitivity reaction that affects all age groups, is drug or infection induced, and has classic systemic, mucosal, and dermatologic manifestations.",
+        "A previously healthy child who developed acute, severe, rapidly progressive vanishing bile duct syndrome shortly after Stevens-Johnson syndrome is described; this was temporally associated with ibuprofen use.",
+        "Despite therapy with ursodeoxycholic acid, prednisone, and then tacrolimus, her cholestatic disease was unrelenting, with cirrhosis shown by biopsy 6 months after presentation.",
+        "This case documents acute drug-related vanishing bile duct syndrome in the pediatric age group and suggests shared immune mechanisms in the pathogenesis of both Stevens-Johnson syndrome and vanishing bile duct syndrome."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001649\tDisease\tvanishing bile duct\tDrug-associated acute-onset <target> vanishing bile duct </target> and Stevens-Johnson syndromes in a child .",
+        "D013262\tDisease\tStevens-Johnson syndromes\tDrug-associated acute-onset vanishing bile duct and <target> Stevens-Johnson syndromes </target> in a child .",
+        "D001649\tDisease\tvanishing bile duct\tAcute <target> vanishing bile duct </target> syndrome is a rare but established cause of progressive cholestasis in adults , is most often drug or toxin related , and is of unknown pathogenesis .",
+        "D002779\tDisease\tcholestasis\tAcute vanishing bile duct syndrome is a rare but established cause of progressive <target> cholestasis </target> in adults , is most often drug or toxin related , and is of unknown pathogenesis .",
+        "D013262\tDisease\tStevens-Johnson syndrome\t<target> Stevens-Johnson syndrome </target> is a well-recognized immune complex-mediated hypersensitivity reaction that affects all age groups , is drug or infection induced , and has classic systemic , mucosal , and dermatologic manifestations .",
+        "D004342\tDisease\thypersensitivity\tStevens-Johnson syndrome is a well-recognized immune complex-mediated <target> hypersensitivity </target> reaction that affects all age groups , is drug or infection induced , and has classic systemic , mucosal , and dermatologic manifestations .",
+        "D007239\tDisease\tinfection\tStevens-Johnson syndrome is a well-recognized immune complex-mediated hypersensitivity reaction that affects all age groups , is drug or <target> infection </target> induced , and has classic systemic , mucosal , and dermatologic manifestations .",
+        "D001649\tDisease\tvanishing bile duct syndrome\tA previously healthy child who developed acute , severe , rapidly progressive <target> vanishing bile duct syndrome </target> shortly after Stevens-Johnson syndrome is described ; this was temporally associated with ibuprofen use .",
+        "D013262\tDisease\tStevens-Johnson syndrome\tA previously healthy child who developed acute , severe , rapidly progressive vanishing bile duct syndrome shortly after <target> Stevens-Johnson syndrome </target> is described ; this was temporally associated with ibuprofen use .",
+        "D007052\tChemical\tibuprofen\tA previously healthy child who developed acute , severe , rapidly progressive vanishing bile duct syndrome shortly after Stevens-Johnson syndrome is described ; this was temporally associated with <target> ibuprofen </target> use .",
+        "D014580\tChemical\tursodeoxycholic acid\tDespite therapy with <target> ursodeoxycholic acid </target> , prednisone , and then tacrolimus , her cholestatic disease was unrelenting , with cirrhosis shown by biopsy 6 months after presentation .",
+        "D011241\tChemical\tprednisone\tDespite therapy with ursodeoxycholic acid , <target> prednisone </target> , and then tacrolimus , her cholestatic disease was unrelenting , with cirrhosis shown by biopsy 6 months after presentation .",
+        "D016559\tChemical\ttacrolimus\tDespite therapy with ursodeoxycholic acid , prednisone , and then <target> tacrolimus </target> , her cholestatic disease was unrelenting , with cirrhosis shown by biopsy 6 months after presentation .",
+        "D002779\tDisease\tcholestatic disease\tDespite therapy with ursodeoxycholic acid , prednisone , and then tacrolimus , her <target> cholestatic disease </target> was unrelenting , with cirrhosis shown by biopsy 6 months after presentation .",
+        "D005355\tDisease\tcirrhosis\tDespite therapy with ursodeoxycholic acid , prednisone , and then tacrolimus , her cholestatic disease was unrelenting , with <target> cirrhosis </target> shown by biopsy 6 months after presentation .",
+        "D001649\tDisease\tvanishing bile duct syndrome\tThis case documents acute drug-related <target> vanishing bile duct syndrome </target> in the pediatric age group and suggests shared immune mechanisms in the pathogenesis of both Stevens-Johnson syndrome and vanishing bile duct syndrome .",
+        "D013262\tDisease\tStevens-Johnson syndrome\tThis case documents acute drug-related vanishing bile duct syndrome in the pediatric age group and suggests shared immune mechanisms in the pathogenesis of both <target> Stevens-Johnson syndrome </target> and vanishing bile duct syndrome .",
+        "D001649\tDisease\tvanishing bile duct syndrome\tThis case documents acute drug-related vanishing bile duct syndrome in the pediatric age group and suggests shared immune mechanisms in the pathogenesis of both Stevens-Johnson syndrome and <target> vanishing bile duct syndrome </target> ."
+    ],
+    "lines_lemma": [
+        "D001649\tDisease\tvanishing bile duct\tdrug-associated acute-onset <target> vanishing bile duct </target> and stevens-johnson syndrome in a child .",
+        "D013262\tDisease\tStevens-Johnson syndromes\tdrug-associated acute-onset vanishing bile duct and <target> stevens-johnson syndrome </target> in a child .",
+        "D001649\tDisease\tvanishing bile duct\tacute <target> vanishing bile duct </target> syndrome be a rare but established cause of progressive cholestasis in adult , be most often drug or toxin related , and be of unknown pathogenesis .",
+        "D002779\tDisease\tcholestasis\tacute vanishing bile duct syndrome be a rare but established cause of progressive <target> cholestasis </target> in adult , be most often drug or toxin related , and be of unknown pathogenesis .",
+        "D013262\tDisease\tStevens-Johnson syndrome\t<target> stevens-johnson syndrome </target> be a well-recognized immune complex-mediated hypersensitivity reaction that affect all age group , be drug or infection induce , and have classic systemic , mucosal , and dermatologic manifestation .",
+        "D004342\tDisease\thypersensitivity\tstevens-johnson syndrome be a well-recognized immune complex-mediated <target> hypersensitivity </target> reaction that affect all age group , be drug or infection induce , and have classic systemic , mucosal , and dermatologic manifestation .",
+        "D007239\tDisease\tinfection\tstevens-johnson syndrome be a well-recognized immune complex-mediated hypersensitivity reaction that affect all age group , be drug or <target> infection </target> induce , and have classic systemic , mucosal , and dermatologic manifestation .",
+        "D001649\tDisease\tvanishing bile duct syndrome\ta previously healthy child who develop acute , severe , rapidly progressive <target> vanishing bile duct syndrome </target> shortly after stevens-johnson syndrome be describe ; this be temporally associate with ibuprofen use .",
+        "D013262\tDisease\tStevens-Johnson syndrome\ta previously healthy child who develop acute , severe , rapidly progressive vanishing bile duct syndrome shortly after <target> stevens-johnson syndrome </target> be describe ; this be temporally associate with ibuprofen use .",
+        "D007052\tChemical\tibuprofen\ta previously healthy child who develop acute , severe , rapidly progressive vanishing bile duct syndrome shortly after stevens-johnson syndrome be describe ; this be temporally associate with <target> ibuprofen </target> use .",
+        "D014580\tChemical\tursodeoxycholic acid\tdespite therapy with <target> ursodeoxycholic acid </target> , prednisone , and then tacrolimus , her cholestatic disease be unrelente , with cirrhosis show by biopsy 6 month after presentation .",
+        "D011241\tChemical\tprednisone\tdespite therapy with ursodeoxycholic acid , <target> prednisone </target> , and then tacrolimus , her cholestatic disease be unrelente , with cirrhosis show by biopsy 6 month after presentation .",
+        "D016559\tChemical\ttacrolimus\tdespite therapy with ursodeoxycholic acid , prednisone , and then <target> tacrolimus </target> , her cholestatic disease be unrelente , with cirrhosis show by biopsy 6 month after presentation .",
+        "D002779\tDisease\tcholestatic disease\tdespite therapy with ursodeoxycholic acid , prednisone , and then tacrolimus , her <target> cholestatic disease </target> be unrelente , with cirrhosis show by biopsy 6 month after presentation .",
+        "D005355\tDisease\tcirrhosis\tdespite therapy with ursodeoxycholic acid , prednisone , and then tacrolimus , her cholestatic disease be unrelente , with <target> cirrhosis </target> show by biopsy 6 month after presentation .",
+        "D001649\tDisease\tvanishing bile duct syndrome\tthis case document acute drug-related <target> vanishing bile duct syndrome </target> in the pediatric age group and suggest share immune mechanism in the pathogenesis of both stevens-johnson syndrome and vanishing bile duct syndrome .",
+        "D013262\tDisease\tStevens-Johnson syndrome\tthis case document acute drug-related vanishing bile duct syndrome in the pediatric age group and suggest share immune mechanism in the pathogenesis of both <target> stevens-johnson syndrome </target> and vanishing bile duct syndrome .",
+        "D001649\tDisease\tvanishing bile duct syndrome\tthis case document acute drug-related vanishing bile duct syndrome in the pediatric age group and suggest share immune mechanism in the pathogenesis of both stevens-johnson syndrome and <target> vanishing bile duct syndrome </target> ."
+    ]
+}

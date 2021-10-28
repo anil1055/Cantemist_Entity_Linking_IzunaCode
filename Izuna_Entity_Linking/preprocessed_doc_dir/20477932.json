@@ -1,0 +1,177 @@
+{
+    "title": "Cocaine causes memory and learning impairments in rats: involvement of nuclear factor kappa B and oxidative stress, and prevention by topiramate.",
+    "abst": "Different mechanisms have been suggested for cocaine toxicity including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood. Nuclear factor kappa B (NFkappaB) is a sensor of oxidative stress and participates in memory formation that could be involved in drug toxicity and addiction mechanisms. Therefore NFkappaB activity, oxidative stress, neuronal nitric oxide synthase (nNOS) activity, spatial learning and memory as well as the effect of topiramate, a previously proposed therapy for cocaine addiction, were evaluated in an experimental model of cocaine administration in rats. NFkappaB activity was decreased in the frontal cortex of cocaine treated rats, as well as GSH concentration and glutathione peroxidase activity in the hippocampus, whereas nNOS activity in the hippocampus was increased. Memory retrieval of experiences acquired prior to cocaine administration was impaired and negatively correlated with NFkappaB activity in the frontal cortex. In contrast, learning of new tasks was enhanced and correlated with the increase of nNOS activity and the decrease of glutathione peroxidase. These results provide evidence for a possible mechanistic role of oxidative and nitrosative stress and NFkappaB in the alterations induced by cocaine. Topiramate prevented all the alterations observed, showing novel neuroprotective properties.",
+    "title_plus_abst": "Cocaine causes memory and learning impairments in rats: involvement of nuclear factor kappa B and oxidative stress, and prevention by topiramate. Different mechanisms have been suggested for cocaine toxicity including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood. Nuclear factor kappa B (NFkappaB) is a sensor of oxidative stress and participates in memory formation that could be involved in drug toxicity and addiction mechanisms. Therefore NFkappaB activity, oxidative stress, neuronal nitric oxide synthase (nNOS) activity, spatial learning and memory as well as the effect of topiramate, a previously proposed therapy for cocaine addiction, were evaluated in an experimental model of cocaine administration in rats. NFkappaB activity was decreased in the frontal cortex of cocaine treated rats, as well as GSH concentration and glutathione peroxidase activity in the hippocampus, whereas nNOS activity in the hippocampus was increased. Memory retrieval of experiences acquired prior to cocaine administration was impaired and negatively correlated with NFkappaB activity in the frontal cortex. In contrast, learning of new tasks was enhanced and correlated with the increase of nNOS activity and the decrease of glutathione peroxidase. These results provide evidence for a possible mechanistic role of oxidative and nitrosative stress and NFkappaB in the alterations induced by cocaine. Topiramate prevented all the alterations observed, showing novel neuroprotective properties.",
+    "pubmed_id": "20477932",
+    "entities": [
+        [
+            0,
+            7,
+            "Cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            134,
+            144,
+            "topiramate",
+            "Chemical",
+            "C052342"
+        ],
+        [
+            191,
+            198,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            199,
+            207,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            312,
+            319,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            494,
+            502,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            585,
+            597,
+            "nitric oxide",
+            "Chemical",
+            "D009569"
+        ],
+        [
+            677,
+            687,
+            "topiramate",
+            "Chemical",
+            "C052342"
+        ],
+        [
+            723,
+            740,
+            "cocaine addiction",
+            "Disease",
+            "D019970"
+        ],
+        [
+            785,
+            792,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            874,
+            881,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            907,
+            910,
+            "GSH",
+            "Chemical",
+            "D005978"
+        ],
+        [
+            929,
+            940,
+            "glutathione",
+            "Chemical",
+            "D005978"
+        ],
+        [
+            1087,
+            1094,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            1313,
+            1324,
+            "glutathione",
+            "Chemical",
+            "D005978"
+        ],
+        [
+            1479,
+            1486,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            1488,
+            1498,
+            "Topiramate",
+            "Chemical",
+            "C052342"
+        ]
+    ],
+    "split_sentence": [
+        "Cocaine causes memory and learning impairments in rats: involvement of nuclear factor kappa B and oxidative stress, and prevention by topiramate.",
+        "Different mechanisms have been suggested for cocaine toxicity including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood.",
+        "Nuclear factor kappa B (NFkappaB) is a sensor of oxidative stress and participates in memory formation that could be involved in drug toxicity and addiction mechanisms.",
+        "Therefore NFkappaB activity, oxidative stress, neuronal nitric oxide synthase (nNOS) activity, spatial learning and memory as well as the effect of topiramate, a previously proposed therapy for cocaine addiction, were evaluated in an experimental model of cocaine administration in rats.",
+        "NFkappaB activity was decreased in the frontal cortex of cocaine treated rats, as well as GSH concentration and glutathione peroxidase activity in the hippocampus, whereas nNOS activity in the hippocampus was increased.",
+        "Memory retrieval of experiences acquired prior to cocaine administration was impaired and negatively correlated with NFkappaB activity in the frontal cortex.",
+        "In contrast, learning of new tasks was enhanced and correlated with the increase of nNOS activity and the decrease of glutathione peroxidase.",
+        "These results provide evidence for a possible mechanistic role of oxidative and nitrosative stress and NFkappaB in the alterations induced by cocaine.",
+        "Topiramate prevented all the alterations observed, showing novel neuroprotective properties."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> causes memory and learning impairments in rats : involvement of nuclear factor kappa B and oxidative stress , and prevention by topiramate .",
+        "C052342\tChemical\ttopiramate\tCocaine causes memory and learning impairments in rats : involvement of nuclear factor kappa B and oxidative stress , and prevention by <target> topiramate </target> .",
+        "D003042\tChemical\tcocaine\tDifferent mechanisms have been suggested for <target> cocaine </target> toxicity including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood .",
+        "D064420\tDisease\ttoxicity\tDifferent mechanisms have been suggested for cocaine <target> toxicity </target> including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood .",
+        "D003042\tChemical\tcocaine\tDifferent mechanisms have been suggested for cocaine toxicity including an increase in oxidative stress but the association between oxidative status in the brain and <target> cocaine </target> induced-behaviour is poorly understood .",
+        "D064420\tDisease\ttoxicity\tNuclear factor kappa B ( NFkappaB ) is a sensor of oxidative stress and participates in memory formation that could be involved in drug <target> toxicity </target> and addiction mechanisms .",
+        "D009569\tChemical\tnitric oxide\tTherefore NFkappaB activity , oxidative stress , neuronal <target> nitric oxide </target> synthase ( nNOS ) activity , spatial learning and memory as well as the effect of topiramate , a previously proposed therapy for cocaine addiction , were evaluated in an experimental model of cocaine administration in rats .",
+        "C052342\tChemical\ttopiramate\tTherefore NFkappaB activity , oxidative stress , neuronal nitric oxide synthase ( nNOS ) activity , spatial learning and memory as well as the effect of <target> topiramate </target> , a previously proposed therapy for cocaine addiction , were evaluated in an experimental model of cocaine administration in rats .",
+        "D019970\tDisease\tcocaine addiction\tTherefore NFkappaB activity , oxidative stress , neuronal nitric oxide synthase ( nNOS ) activity , spatial learning and memory as well as the effect of topiramate , a previously proposed therapy for <target> cocaine addiction </target> , were evaluated in an experimental model of cocaine administration in rats .",
+        "D003042\tChemical\tcocaine\tTherefore NFkappaB activity , oxidative stress , neuronal nitric oxide synthase ( nNOS ) activity , spatial learning and memory as well as the effect of topiramate , a previously proposed therapy for cocaine addiction , were evaluated in an experimental model of <target> cocaine </target> administration in rats .",
+        "D003042\tChemical\tcocaine\tNFkappaB activity was decreased in the frontal cortex of <target> cocaine </target> treated rats , as well as GSH concentration and glutathione peroxidase activity in the hippocampus , whereas nNOS activity in the hippocampus was increased .",
+        "D005978\tChemical\tGSH\tNFkappaB activity was decreased in the frontal cortex of cocaine treated rats , as well as <target> GSH </target> concentration and glutathione peroxidase activity in the hippocampus , whereas nNOS activity in the hippocampus was increased .",
+        "D005978\tChemical\tglutathione\tNFkappaB activity was decreased in the frontal cortex of cocaine treated rats , as well as GSH concentration and <target> glutathione </target> peroxidase activity in the hippocampus , whereas nNOS activity in the hippocampus was increased .",
+        "D003042\tChemical\tcocaine\tMemory retrieval of experiences acquired prior to <target> cocaine </target> administration was impaired and negatively correlated with NFkappaB activity in the frontal cortex .",
+        "D005978\tChemical\tglutathione\tIn contrast , learning of new tasks was enhanced and correlated with the increase of nNOS activity and the decrease of <target> glutathione </target> peroxidase .",
+        "D003042\tChemical\tcocaine\tThese results provide evidence for a possible mechanistic role of oxidative and nitrosative stress and NFkappaB in the alterations induced by <target> cocaine </target> .",
+        "C052342\tChemical\tTopiramate\t<target> Topiramate </target> prevented all the alterations observed , showing novel neuroprotective properties ."
+    ],
+    "lines_lemma": [
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> cause memory and learning impairment in rat : involvement of nuclear factor kappa b and oxidative stress , and prevention by topiramate .",
+        "C052342\tChemical\ttopiramate\tCocaine cause memory and learning impairment in rat : involvement of nuclear factor kappa b and oxidative stress , and prevention by <target> topiramate </target> .",
+        "D003042\tChemical\tcocaine\tdifferent mechanism have be suggest for <target> cocaine </target> toxicity include an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour be poorly understand .",
+        "D064420\tDisease\ttoxicity\tdifferent mechanism have be suggest for cocaine <target> toxicity </target> include an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour be poorly understand .",
+        "D003042\tChemical\tcocaine\tdifferent mechanism have be suggest for cocaine toxicity include an increase in oxidative stress but the association between oxidative status in the brain and <target> cocaine </target> induced-behaviour be poorly understand .",
+        "D064420\tDisease\ttoxicity\tnuclear factor kappa b ( nfkappab ) be a sensor of oxidative stress and participate in memory formation that could be involve in drug <target> toxicity </target> and addiction mechanism .",
+        "D009569\tChemical\tnitric oxide\ttherefore nfkappab activity , oxidative stress , neuronal <target> nitric oxide </target> synthase ( nnos ) activity , spatial learning and memory as well as the effect of topiramate , a previously propose therapy for cocaine addiction , be evaluate in an experimental model of cocaine administration in rat .",
+        "C052342\tChemical\ttopiramate\ttherefore nfkappab activity , oxidative stress , neuronal nitric oxide synthase ( nnos ) activity , spatial learning and memory as well as the effect of <target> topiramate </target> , a previously propose therapy for cocaine addiction , be evaluate in an experimental model of cocaine administration in rat .",
+        "D019970\tDisease\tcocaine addiction\ttherefore nfkappab activity , oxidative stress , neuronal nitric oxide synthase ( nnos ) activity , spatial learning and memory as well as the effect of topiramate , a previously propose therapy for <target> cocaine addiction </target> , be evaluate in an experimental model of cocaine administration in rat .",
+        "D003042\tChemical\tcocaine\ttherefore nfkappab activity , oxidative stress , neuronal nitric oxide synthase ( nnos ) activity , spatial learning and memory as well as the effect of topiramate , a previously propose therapy for cocaine addiction , be evaluate in an experimental model of <target> cocaine </target> administration in rat .",
+        "D003042\tChemical\tcocaine\tnfkappab activity be decrease in the frontal cortex of <target> cocaine </target> treat rat , as well as gsh concentration and glutathione peroxidase activity in the hippocampus , whereas nnos activity in the hippocampus be increase .",
+        "D005978\tChemical\tGSH\tnfkappab activity be decrease in the frontal cortex of cocaine treated rat , as well as <target> gsh </target> concentration and glutathione peroxidase activity in the hippocampus , whereas nnos activity in the hippocampus be increase .",
+        "D005978\tChemical\tglutathione\tnfkappab activity be decrease in the frontal cortex of cocaine treated rat , as well as gsh concentration and <target> glutathione </target> peroxidase activity in the hippocampus , whereas nnos activity in the hippocampus be increase .",
+        "D003042\tChemical\tcocaine\tmemory retrieval of experience acquire prior to <target> cocaine </target> administration be impaired and negatively correlate with nfkappab activity in the frontal cortex .",
+        "D005978\tChemical\tglutathione\tin contrast , learning of new task be enhance and correlate with the increase of nnos activity and the decrease of <target> glutathione </target> peroxidase .",
+        "D003042\tChemical\tcocaine\tthese result provide evidence for a possible mechanistic role of oxidative and nitrosative stress and nfkappab in the alteration induce by <target> cocaine </target> .",
+        "C052342\tChemical\tTopiramate\t<target> Topiramate </target> prevent all the alteration observe , show novel neuroprotective property ."
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "Changes in depressive status associated with topical beta-blockers.",
+    "abst": "Depression and sexual dysfunction have been related to side effects of topical beta-blockers. We performed a preliminary study in order to determine any difference between a non selective beta-blocker (timolol) and a selective beta-blocker (betaxolol) regarding CNS side effects. Eight glaucomatous patients chronically treated with timolol 0.5%/12h, suffering from depression diagnosed through DMS-III-R criteria, were included in the study. During the six-month follow up, depression was quantified through the Beck and Zung-Conde scales every two months. In a double blind cross-over study with control group, the patients under timolol treatment presented higher depression values measured through the Beck and the Zung-Conde scales (p < 0.001 vs control). These results suggest that betaxolol could be less of a depression-inducer than timolol in predisposed patients.",
+    "title_plus_abst": "Changes in depressive status associated with topical beta-blockers. Depression and sexual dysfunction have been related to side effects of topical beta-blockers. We performed a preliminary study in order to determine any difference between a non selective beta-blocker (timolol) and a selective beta-blocker (betaxolol) regarding CNS side effects. Eight glaucomatous patients chronically treated with timolol 0.5%/12h, suffering from depression diagnosed through DMS-III-R criteria, were included in the study. During the six-month follow up, depression was quantified through the Beck and Zung-Conde scales every two months. In a double blind cross-over study with control group, the patients under timolol treatment presented higher depression values measured through the Beck and the Zung-Conde scales (p < 0.001 vs control). These results suggest that betaxolol could be less of a depression-inducer than timolol in predisposed patients.",
+    "pubmed_id": "1428568",
+    "entities": [
+        [
+            11,
+            21,
+            "depressive",
+            "Disease",
+            "D003866"
+        ],
+        [
+            68,
+            78,
+            "Depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            83,
+            101,
+            "sexual dysfunction",
+            "Disease",
+            "D012735"
+        ],
+        [
+            270,
+            277,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            309,
+            318,
+            "betaxolol",
+            "Chemical",
+            "D015784"
+        ],
+        [
+            354,
+            366,
+            "glaucomatous",
+            "Disease",
+            "D005901"
+        ],
+        [
+            401,
+            408,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            434,
+            444,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            543,
+            553,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            700,
+            707,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            735,
+            745,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            856,
+            865,
+            "betaxolol",
+            "Chemical",
+            "D015784"
+        ],
+        [
+            885,
+            895,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            909,
+            916,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ]
+    ],
+    "split_sentence": [
+        "Changes in depressive status associated with topical beta-blockers.",
+        "Depression and sexual dysfunction have been related to side effects of topical beta-blockers.",
+        "We performed a preliminary study in order to determine any difference between a non selective beta-blocker (timolol) and a selective beta-blocker (betaxolol) regarding CNS side effects.",
+        "Eight glaucomatous patients chronically treated with timolol 0.5%/12h, suffering from depression diagnosed through DMS-III-R criteria, were included in the study.",
+        "During the six-month follow up, depression was quantified through the Beck and Zung-Conde scales every two months.",
+        "In a double blind cross-over study with control group, the patients under timolol treatment presented higher depression values measured through the Beck and the Zung-Conde scales (p < 0.001 vs control).",
+        "These results suggest that betaxolol could be less of a depression-inducer than timolol in predisposed patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003866\tDisease\tdepressive\tChanges in <target> depressive </target> status associated with topical beta-blockers .",
+        "D003866\tDisease\tDepression\t<target> Depression </target> and sexual dysfunction have been related to side effects of topical beta-blockers .",
+        "D012735\tDisease\tsexual dysfunction\tDepression and <target> sexual dysfunction </target> have been related to side effects of topical beta-blockers .",
+        "D013999\tChemical\ttimolol\tWe performed a preliminary study in order to determine any difference between a non selective beta-blocker ( <target> timolol </target> ) and a selective beta-blocker ( betaxolol ) regarding CNS side effects .",
+        "D015784\tChemical\tbetaxolol\tWe performed a preliminary study in order to determine any difference between a non selective beta-blocker ( timolol ) and a selective beta-blocker ( <target> betaxolol </target> ) regarding CNS side effects .",
+        "D005901\tDisease\tglaucomatous\tEight <target> glaucomatous </target> patients chronically treated with timolol 0.5%/12h , suffering from depression diagnosed through DMS-III-R criteria , were included in the study .",
+        "D013999\tChemical\ttimolol\tEight glaucomatous patients chronically treated with <target> timolol </target> 0.5%/12h , suffering from depression diagnosed through DMS-III-R criteria , were included in the study .",
+        "D003866\tDisease\tdepression\tEight glaucomatous patients chronically treated with timolol 0.5%/12h , suffering from <target> depression </target> diagnosed through DMS-III-R criteria , were included in the study .",
+        "D003866\tDisease\tdepression\tDuring the six-month follow up , <target> depression </target> was quantified through the Beck and Zung-Conde scales every two months .",
+        "D013999\tChemical\ttimolol\tIn a double blind cross-over study with control group , the patients under <target> timolol </target> treatment presented higher depression values measured through the Beck and the Zung-Conde scales ( p < 0.001 vs control ) .",
+        "D003866\tDisease\tdepression\tIn a double blind cross-over study with control group , the patients under timolol treatment presented higher <target> depression </target> values measured through the Beck and the Zung-Conde scales ( p < 0.001 vs control ) .",
+        "D015784\tChemical\tbetaxolol\tThese results suggest that <target> betaxolol </target> could be less of a depression-inducer than timolol in predisposed patients .",
+        "D003866\tDisease\tdepression\tThese results suggest that betaxolol could be less of a <target> depression </target> -inducer than timolol in predisposed patients .",
+        "D013999\tChemical\ttimolol\tThese results suggest that betaxolol could be less of a depression-inducer than <target> timolol </target> in predisposed patients ."
+    ],
+    "lines_lemma": [
+        "D003866\tDisease\tdepressive\tchange in <target> depressive </target> status associate with topical beta-blocker .",
+        "D003866\tDisease\tDepression\t<target> Depression </target> and sexual dysfunction have be related to side effect of topical beta-blocker .",
+        "D012735\tDisease\tsexual dysfunction\tdepression and <target> sexual dysfunction </target> have be related to side effect of topical beta-blocker .",
+        "D013999\tChemical\ttimolol\twe perform a preliminary study in order to determine any difference between a non selective beta-blocker ( <target> timolol </target> ) and a selective beta-blocker ( betaxolol ) regard cns side effect .",
+        "D015784\tChemical\tbetaxolol\twe perform a preliminary study in order to determine any difference between a non selective beta-blocker ( timolol ) and a selective beta-blocker ( <target> betaxolol </target> ) regard cns side effect .",
+        "D005901\tDisease\tglaucomatous\teight <target> glaucomatous </target> patient chronically treat with timolol 0.5%/12h , suffer from depression diagnose through dms-iii-r criterion , be include in the study .",
+        "D013999\tChemical\ttimolol\teight glaucomatous patient chronically treat with <target> timolol </target> 0.5%/12h , suffer from depression diagnose through dms-iii-r criterion , be include in the study .",
+        "D003866\tDisease\tdepression\teight glaucomatous patient chronically treat with timolol 0.5%/12h , suffer from <target> depression </target> diagnose through dms-iii-r criterion , be include in the study .",
+        "D003866\tDisease\tdepression\tduring the six-month follow up , <target> depression </target> be quantify through the Beck and Zung-Conde scale every two month .",
+        "D013999\tChemical\ttimolol\tin a double blind cross-over study with control group , the patient under <target> timolol </target> treatment present high depression value measure through the Beck and the Zung-Conde scale ( p < 0.001 vs control ) .",
+        "D003866\tDisease\tdepression\tin a double blind cross-over study with control group , the patient under timolol treatment present high <target> depression </target> value measure through the Beck and the Zung-Conde scale ( p < 0.001 vs control ) .",
+        "D015784\tChemical\tbetaxolol\tthese result suggest that <target> betaxolol </target> could be less of a depression-inducer than timolol in predisposed patient .",
+        "D003866\tDisease\tdepression\tthese result suggest that betaxolol could be less of a <target> depression </target> -inducer than timolol in predisposed patient .",
+        "D013999\tChemical\ttimolol\tthese result suggest that betaxolol could be less of a depression-inducer than <target> timolol </target> in predisposed patient ."
+    ]
+}

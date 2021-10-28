@@ -1,0 +1,132 @@
+{
+    "title": "Aging process of epithelial cells of the rat prostate lateral lobe in experimental hyperprolactinemia induced by haloperidol.",
+    "abst": "The aim of the study was to examine the influence of hyperprolactinemia, induced by haloperidol (HAL) on age related morphology and function changes of epithelial cells in rat prostate lateral lobe. The study was performed on sexually mature male rats. Serum concentrations of prolactin (PRL) and testosterone (T) were measured. Tissue sections were evaluated with light and electron microscopy. Immunohistochemical reactions for Anti-Proliferating Cell Nuclear Antigen (PCNA) were performed. In rats of the experimental group, the mean concentration of: PRL was more than twice higher, whereas T concentration was almost twice lower than that in the control group. Light microscopy visualized the following: hypertrophy and epithelium hyperplasia of the glandular ducts, associated with increased PCNA expression. Electron microscopy revealed changes in columnar epithelial cells, concerning organelles, engaged in protein synthesis and secretion.",
+    "title_plus_abst": "Aging process of epithelial cells of the rat prostate lateral lobe in experimental hyperprolactinemia induced by haloperidol. The aim of the study was to examine the influence of hyperprolactinemia, induced by haloperidol (HAL) on age related morphology and function changes of epithelial cells in rat prostate lateral lobe. The study was performed on sexually mature male rats. Serum concentrations of prolactin (PRL) and testosterone (T) were measured. Tissue sections were evaluated with light and electron microscopy. Immunohistochemical reactions for Anti-Proliferating Cell Nuclear Antigen (PCNA) were performed. In rats of the experimental group, the mean concentration of: PRL was more than twice higher, whereas T concentration was almost twice lower than that in the control group. Light microscopy visualized the following: hypertrophy and epithelium hyperplasia of the glandular ducts, associated with increased PCNA expression. Electron microscopy revealed changes in columnar epithelial cells, concerning organelles, engaged in protein synthesis and secretion.",
+    "pubmed_id": "15638391",
+    "entities": [
+        [
+            83,
+            101,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            113,
+            124,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            179,
+            197,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            210,
+            221,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            223,
+            226,
+            "HAL",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            414,
+            417,
+            "PRL",
+            "Chemical",
+            "D011388"
+        ],
+        [
+            423,
+            435,
+            "testosterone",
+            "Chemical",
+            "D013739"
+        ],
+        [
+            437,
+            438,
+            "T",
+            "Chemical",
+            "D013739"
+        ],
+        [
+            681,
+            684,
+            "PRL",
+            "Chemical",
+            "D011388"
+        ],
+        [
+            721,
+            722,
+            "T",
+            "Chemical",
+            "D013739"
+        ],
+        [
+            835,
+            846,
+            "hypertrophy",
+            "Disease",
+            "D006984"
+        ],
+        [
+            862,
+            873,
+            "hyperplasia",
+            "Disease",
+            "D006965"
+        ]
+    ],
+    "split_sentence": [
+        "Aging process of epithelial cells of the rat prostate lateral lobe in experimental hyperprolactinemia induced by haloperidol.",
+        "The aim of the study was to examine the influence of hyperprolactinemia, induced by haloperidol (HAL) on age related morphology and function changes of epithelial cells in rat prostate lateral lobe.",
+        "The study was performed on sexually mature male rats.",
+        "Serum concentrations of prolactin (PRL) and testosterone (T) were measured.",
+        "Tissue sections were evaluated with light and electron microscopy.",
+        "Immunohistochemical reactions for Anti-Proliferating Cell Nuclear Antigen (PCNA) were performed.",
+        "In rats of the experimental group, the mean concentration of: PRL was more than twice higher, whereas T concentration was almost twice lower than that in the control group.",
+        "Light microscopy visualized the following: hypertrophy and epithelium hyperplasia of the glandular ducts, associated with increased PCNA expression.",
+        "Electron microscopy revealed changes in columnar epithelial cells, concerning organelles, engaged in protein synthesis and secretion."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006966\tDisease\thyperprolactinemia\tAging process of epithelial cells of the rat prostate lateral lobe in experimental <target> hyperprolactinemia </target> induced by haloperidol .",
+        "D006220\tChemical\thaloperidol\tAging process of epithelial cells of the rat prostate lateral lobe in experimental hyperprolactinemia induced by <target> haloperidol </target> .",
+        "D006966\tDisease\thyperprolactinemia\tThe aim of the study was to examine the influence of <target> hyperprolactinemia </target> , induced by haloperidol ( HAL ) on age related morphology and function changes of epithelial cells in rat prostate lateral lobe .",
+        "D006220\tChemical\thaloperidol\tThe aim of the study was to examine the influence of hyperprolactinemia , induced by <target> haloperidol </target> ( HAL ) on age related morphology and function changes of epithelial cells in rat prostate lateral lobe .",
+        "D006220\tChemical\tHAL\tThe aim of the study was to examine the influence of hyperprolactinemia , induced by haloperidol ( <target> HAL </target> ) on age related morphology and function changes of epithelial cells in rat prostate lateral lobe .",
+        "D011388\tChemical\tPRL\tSerum concentrations of prolactin ( <target> PRL </target> ) and testosterone ( T ) were measured .",
+        "D013739\tChemical\ttestosterone\tSerum concentrations of prolactin ( PRL ) and <target> testosterone </target> ( T ) were measured .",
+        "D013739\tChemical\tT\tSerum concentrations of prolactin ( PRL ) and testosterone ( <target> T </target> ) were measured .",
+        "D011388\tChemical\tPRL\tIn rats of the experimental group , the mean concentration of : <target> PRL </target> was more than twice higher , whereas T concentration was almost twice lower than that in the control group .",
+        "D013739\tChemical\tT\tIn rats of the experimental group , the mean concentration of : PRL was more than twice higher , whereas <target> T </target> concentration was almost twice lower than that in the control group .",
+        "D006984\tDisease\thypertrophy\tLight microscopy visualized the following : <target> hypertrophy </target> and epithelium hyperplasia of the glandular ducts , associated with increased PCNA expression .",
+        "D006965\tDisease\thyperplasia\tLight microscopy visualized the following : hypertrophy and epithelium <target> hyperplasia </target> of the glandular ducts , associated with increased PCNA expression ."
+    ],
+    "lines_lemma": [
+        "D006966\tDisease\thyperprolactinemia\taging process of epithelial cell of the rat prostate lateral lobe in experimental <target> hyperprolactinemia </target> induce by haloperidol .",
+        "D006220\tChemical\thaloperidol\taging process of epithelial cell of the rat prostate lateral lobe in experimental hyperprolactinemia induce by <target> haloperidol </target> .",
+        "D006966\tDisease\thyperprolactinemia\tthe aim of the study be to examine the influence of <target> hyperprolactinemia </target> , induce by haloperidol ( hal ) on age related morphology and function change of epithelial cell in rat prostate lateral lobe .",
+        "D006220\tChemical\thaloperidol\tthe aim of the study be to examine the influence of hyperprolactinemia , induce by <target> haloperidol </target> ( hal ) on age related morphology and function change of epithelial cell in rat prostate lateral lobe .",
+        "D006220\tChemical\tHAL\tthe aim of the study be to examine the influence of hyperprolactinemia , induce by haloperidol ( <target> hal </target> ) on age related morphology and function change of epithelial cell in rat prostate lateral lobe .",
+        "D011388\tChemical\tPRL\tserum concentration of prolactin ( <target> prl </target> ) and testosterone ( t ) be measure .",
+        "D013739\tChemical\ttestosterone\tserum concentration of prolactin ( prl ) and <target> testosterone </target> ( t ) be measure .",
+        "D013739\tChemical\tT\tserum concentration of prolactin ( prl ) and testosterone ( <target> t </target> ) be measure .",
+        "D011388\tChemical\tPRL\tin rat of the experimental group , the mean concentration of : <target> prl </target> be more than twice high , whereas t concentration be almost twice low than that in the control group .",
+        "D013739\tChemical\tT\tin rat of the experimental group , the mean concentration of : prl be more than twice high , whereas <target> t </target> concentration be almost twice low than that in the control group .",
+        "D006984\tDisease\thypertrophy\tlight microscopy visualize the following : <target> hypertrophy </target> and epithelium hyperplasia of the glandular duct , associate with increase pcna expression .",
+        "D006965\tDisease\thyperplasia\tlight microscopy visualize the following : hypertrophy and epithelium <target> hyperplasia </target> of the glandular duct , associate with increase pcna expression ."
+    ]
+}

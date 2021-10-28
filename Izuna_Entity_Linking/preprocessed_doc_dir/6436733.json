@@ -1,0 +1,137 @@
+{
+    "title": "Acute changes of blood ammonia may predict short-term adverse effects of valproic acid.",
+    "abst": "Valproic acid (VPA) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs. A standardized loading dose of VPA was administered, and venous blood was sampled at 0, 1, 2, 3, and 4 hours. Ammonia (NH3) was higher in patients who, during continuous therapy, complained of drowsiness (7 patients) than in those who were symptom-free (17 patients), although VPA plasma levels were similar in both groups. By measuring VPA-induced changes of blood NH3 content, it may be possible to identify patients at higher risk of obtundation when VPA is given chronically.",
+    "title_plus_abst": "Acute changes of blood ammonia may predict short-term adverse effects of valproic acid. Valproic acid (VPA) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs. A standardized loading dose of VPA was administered, and venous blood was sampled at 0, 1, 2, 3, and 4 hours. Ammonia (NH3) was higher in patients who, during continuous therapy, complained of drowsiness (7 patients) than in those who were symptom-free (17 patients), although VPA plasma levels were similar in both groups. By measuring VPA-induced changes of blood NH3 content, it may be possible to identify patients at higher risk of obtundation when VPA is given chronically.",
+    "pubmed_id": "6436733",
+    "entities": [
+        [
+            23,
+            30,
+            "ammonia",
+            "Chemical",
+            "D000641"
+        ],
+        [
+            73,
+            86,
+            "valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            88,
+            101,
+            "Valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            103,
+            106,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            124,
+            133,
+            "epileptic",
+            "Disease",
+            "D004827"
+        ],
+        [
+            237,
+            240,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            316,
+            323,
+            "Ammonia",
+            "Chemical",
+            "D000641"
+        ],
+        [
+            325,
+            328,
+            "NH3",
+            "Chemical",
+            "D000641"
+        ],
+        [
+            399,
+            409,
+            "drowsiness",
+            "Disease",
+            "D006970"
+        ],
+        [
+            483,
+            486,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            543,
+            546,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            572,
+            575,
+            "NH3",
+            "Chemical",
+            "D000641"
+        ],
+        [
+            660,
+            663,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ]
+    ],
+    "split_sentence": [
+        "Acute changes of blood ammonia may predict short-term adverse effects of valproic acid.",
+        "Valproic acid (VPA) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs.",
+        "A standardized loading dose of VPA was administered, and venous blood was sampled at 0, 1, 2, 3, and 4 hours.",
+        "Ammonia (NH3) was higher in patients who, during continuous therapy, complained of drowsiness (7 patients) than in those who were symptom-free (17 patients), although VPA plasma levels were similar in both groups.",
+        "By measuring VPA-induced changes of blood NH3 content, it may be possible to identify patients at higher risk of obtundation when VPA is given chronically."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000641\tChemical\tammonia\tAcute changes of blood <target> ammonia </target> may predict short-term adverse effects of valproic acid .",
+        "D014635\tChemical\tvalproic acid\tAcute changes of blood ammonia may predict short-term adverse effects of <target> valproic acid </target> .",
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> ( VPA ) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs .",
+        "D014635\tChemical\tVPA\tValproic acid ( <target> VPA </target> ) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs .",
+        "D004827\tDisease\tepileptic\tValproic acid ( VPA ) was given to 24 <target> epileptic </target> patients who were already being treated with other antiepileptic drugs .",
+        "D014635\tChemical\tVPA\tA standardized loading dose of <target> VPA </target> was administered , and venous blood was sampled at 0 , 1 , 2 , 3 , and 4 hours .",
+        "D000641\tChemical\tAmmonia\t<target> Ammonia </target> ( NH3 ) was higher in patients who , during continuous therapy , complained of drowsiness ( 7 patients ) than in those who were symptom-free ( 17 patients ) , although VPA plasma levels were similar in both groups .",
+        "D000641\tChemical\tNH3\tAmmonia ( <target> NH3 </target> ) was higher in patients who , during continuous therapy , complained of drowsiness ( 7 patients ) than in those who were symptom-free ( 17 patients ) , although VPA plasma levels were similar in both groups .",
+        "D006970\tDisease\tdrowsiness\tAmmonia ( NH3 ) was higher in patients who , during continuous therapy , complained of <target> drowsiness </target> ( 7 patients ) than in those who were symptom-free ( 17 patients ) , although VPA plasma levels were similar in both groups .",
+        "D014635\tChemical\tVPA\tAmmonia ( NH3 ) was higher in patients who , during continuous therapy , complained of drowsiness ( 7 patients ) than in those who were symptom-free ( 17 patients ) , although <target> VPA </target> plasma levels were similar in both groups .",
+        "D014635\tChemical\tVPA\tBy measuring <target> VPA </target> -induced changes of blood NH3 content , it may be possible to identify patients at higher risk of obtundation when VPA is given chronically .",
+        "D000641\tChemical\tNH3\tBy measuring VPA-induced changes of blood <target> NH3 </target> content , it may be possible to identify patients at higher risk of obtundation when VPA is given chronically .",
+        "D014635\tChemical\tVPA\tBy measuring VPA-induced changes of blood NH3 content , it may be possible to identify patients at higher risk of obtundation when <target> VPA </target> is given chronically ."
+    ],
+    "lines_lemma": [
+        "D000641\tChemical\tammonia\tacute change of blood <target> ammonia </target> may predict short-term adverse effect of valproic acid .",
+        "D014635\tChemical\tvalproic acid\tacute change of blood ammonia may predict short-term adverse effect of <target> valproic acid </target> .",
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> ( vpa ) be give to 24 epileptic patient who be already be treat with other antiepileptic drug .",
+        "D014635\tChemical\tVPA\tvalproic acid ( <target> vpa </target> ) be give to 24 epileptic patient who be already be treat with other antiepileptic drug .",
+        "D004827\tDisease\tepileptic\tvalproic acid ( vpa ) be give to 24 <target> epileptic </target> patient who be already be treat with other antiepileptic drug .",
+        "D014635\tChemical\tVPA\ta standardized load dose of <target> vpa </target> be administer , and venous blood be sample at 0 , 1 , 2 , 3 , and 4 hour .",
+        "D000641\tChemical\tAmmonia\t<target> Ammonia </target> ( nh3 ) be high in patient who , during continuous therapy , complain of drowsiness ( 7 patient ) than in those who be symptom-free ( 17 patient ) , although vpa plasma level be similar in both group .",
+        "D000641\tChemical\tNH3\tammonia ( <target> nh3 </target> ) be high in patient who , during continuous therapy , complain of drowsiness ( 7 patient ) than in those who be symptom-free ( 17 patient ) , although vpa plasma level be similar in both group .",
+        "D006970\tDisease\tdrowsiness\tAmmonia ( nh3 ) be high in patient who , during continuous therapy , complain of <target> drowsiness </target> ( 7 patient ) than in those who be symptom-free ( 17 patient ) , although vpa plasma level be similar in both group .",
+        "D014635\tChemical\tVPA\tAmmonia ( nh3 ) be high in patient who , during continuous therapy , complain of drowsiness ( 7 patient ) than in those who be symptom-free ( 17 patient ) , although <target> vpa </target> plasma level be similar in both group .",
+        "D014635\tChemical\tVPA\tby measure <target> vpa </target> -induced change of blood nh3 content , it may be possible to identify patient at high risk of obtundation when VPA be give chronically .",
+        "D000641\tChemical\tNH3\tby measure vpa-induced change of blood <target> nh3 </target> content , it may be possible to identify patient at high risk of obtundation when VPA be give chronically .",
+        "D014635\tChemical\tVPA\tby measure vpa-induced change of blood nh3 content , it may be possible to identify patient at high risk of obtundation when <target> vpa </target> be give chronically ."
+    ]
+}

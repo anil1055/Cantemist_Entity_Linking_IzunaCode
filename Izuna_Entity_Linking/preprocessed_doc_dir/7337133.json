@@ -1,0 +1,102 @@
+{
+    "title": "Massive cerebral edema associated with fulminant hepatic failure in acetaminophen overdose: possible role of cranial decompression.",
+    "abst": "Cerebral edema may complicate the course of fulminant hepatic failure. Response to conventional therapy has been disappointing. We present a patient with fatal acetaminophen-induced fulminant hepatic failure, with signs and symptoms of cerebral edema, unresponsive to conventional medical therapy. Cranial decompression was carried out. A justification of the need for further evaluation of cranial decompression in such patients is presented.",
+    "title_plus_abst": "Massive cerebral edema associated with fulminant hepatic failure in acetaminophen overdose: possible role of cranial decompression. Cerebral edema may complicate the course of fulminant hepatic failure. Response to conventional therapy has been disappointing. We present a patient with fatal acetaminophen-induced fulminant hepatic failure, with signs and symptoms of cerebral edema, unresponsive to conventional medical therapy. Cranial decompression was carried out. A justification of the need for further evaluation of cranial decompression in such patients is presented.",
+    "pubmed_id": "7337133",
+    "entities": [
+        [
+            8,
+            22,
+            "cerebral edema",
+            "Disease",
+            "D001929"
+        ],
+        [
+            49,
+            64,
+            "hepatic failure",
+            "Disease",
+            "D017093"
+        ],
+        [
+            68,
+            81,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            82,
+            90,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            132,
+            146,
+            "Cerebral edema",
+            "Disease",
+            "D001929"
+        ],
+        [
+            176,
+            201,
+            "fulminant hepatic failure",
+            "Disease",
+            "D017093"
+        ],
+        [
+            292,
+            305,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            314,
+            339,
+            "fulminant hepatic failure",
+            "Disease",
+            "D017093"
+        ],
+        [
+            368,
+            382,
+            "cerebral edema",
+            "Disease",
+            "D001929"
+        ]
+    ],
+    "split_sentence": [
+        "Massive cerebral edema associated with fulminant hepatic failure in acetaminophen overdose: possible role of cranial decompression.",
+        "Cerebral edema may complicate the course of fulminant hepatic failure.",
+        "Response to conventional therapy has been disappointing.",
+        "We present a patient with fatal acetaminophen-induced fulminant hepatic failure, with signs and symptoms of cerebral edema, unresponsive to conventional medical therapy.",
+        "Cranial decompression was carried out.",
+        "A justification of the need for further evaluation of cranial decompression in such patients is presented."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001929\tDisease\tcerebral edema\tMassive <target> cerebral edema </target> associated with fulminant hepatic failure in acetaminophen overdose : possible role of cranial decompression .",
+        "D017093\tDisease\thepatic failure\tMassive cerebral edema associated with fulminant <target> hepatic failure </target> in acetaminophen overdose : possible role of cranial decompression .",
+        "D000082\tChemical\tacetaminophen\tMassive cerebral edema associated with fulminant hepatic failure in <target> acetaminophen </target> overdose : possible role of cranial decompression .",
+        "D062787\tDisease\toverdose\tMassive cerebral edema associated with fulminant hepatic failure in acetaminophen <target> overdose </target> : possible role of cranial decompression .",
+        "D001929\tDisease\tCerebral edema\t<target> Cerebral edema </target> may complicate the course of fulminant hepatic failure .",
+        "D017093\tDisease\tfulminant hepatic failure\tCerebral edema may complicate the course of <target> fulminant hepatic failure </target> .",
+        "D000082\tChemical\tacetaminophen\tWe present a patient with fatal <target> acetaminophen </target> -induced fulminant hepatic failure , with signs and symptoms of cerebral edema , unresponsive to conventional medical therapy .",
+        "D017093\tDisease\tfulminant hepatic failure\tWe present a patient with fatal acetaminophen-induced <target> fulminant hepatic failure </target> , with signs and symptoms of cerebral edema , unresponsive to conventional medical therapy .",
+        "D001929\tDisease\tcerebral edema\tWe present a patient with fatal acetaminophen-induced fulminant hepatic failure , with signs and symptoms of <target> cerebral edema </target> , unresponsive to conventional medical therapy ."
+    ],
+    "lines_lemma": [
+        "D001929\tDisease\tcerebral edema\tmassive <target> cerebral edema </target> associate with fulminant hepatic failure in acetaminophen overdose : possible role of cranial decompression .",
+        "D017093\tDisease\thepatic failure\tmassive cerebral edema associate with fulminant <target> hepatic failure </target> in acetaminophen overdose : possible role of cranial decompression .",
+        "D000082\tChemical\tacetaminophen\tmassive cerebral edema associate with fulminant hepatic failure in <target> acetaminophen </target> overdose : possible role of cranial decompression .",
+        "D062787\tDisease\toverdose\tmassive cerebral edema associate with fulminant hepatic failure in acetaminophen <target> overdose </target> : possible role of cranial decompression .",
+        "D001929\tDisease\tCerebral edema\t<target> cerebral edema </target> may complicate the course of fulminant hepatic failure .",
+        "D017093\tDisease\tfulminant hepatic failure\tcerebral edema may complicate the course of <target> fulminant hepatic failure </target> .",
+        "D000082\tChemical\tacetaminophen\twe present a patient with fatal <target> acetaminophen </target> -induced fulminant hepatic failure , with sign and symptom of cerebral edema , unresponsive to conventional medical therapy .",
+        "D017093\tDisease\tfulminant hepatic failure\twe present a patient with fatal acetaminophen-induced <target> fulminant hepatic failure </target> , with sign and symptom of cerebral edema , unresponsive to conventional medical therapy .",
+        "D001929\tDisease\tcerebral edema\twe present a patient with fatal acetaminophen-induced fulminant hepatic failure , with sign and symptom of <target> cerebral edema </target> , unresponsive to conventional medical therapy ."
+    ]
+}

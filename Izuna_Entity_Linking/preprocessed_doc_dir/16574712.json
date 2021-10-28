@@ -1,0 +1,130 @@
+{
+    "title": "MDMA polydrug users show process-specific central executive impairments coupled with impaired social and emotional judgement processes.",
+    "abst": "In recent years working memory deficits have been reported in users of MDMA (3,4-methylenedioxymethamphetamine, ecstasy). The current study aimed to assess the impact of MDMA use on three separate central executive processes (set shifting, inhibition and memory updating) and also on \"prefrontal\" mediated social and emotional judgement processes. Fifteen polydrug ecstasy users and 15 polydrug non-ecstasy user controls completed a general drug use questionnaire, the Brixton Spatial Anticipation task (set shifting), Backward Digit Span procedure (memory updating), Inhibition of Return (inhibition), an emotional intelligence scale, the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire (DEX). Compared with MDMA-free polydrug controls, MDMA polydrug users showed impairments in set shifting and memory updating, and also in social and emotional judgement processes. The latter two deficits remained significant after controlling for other drug use. These data lend further support to the proposal that cognitive processes mediated by the prefrontal cortex may be impaired by recreational ecstasy use.",
+    "title_plus_abst": "MDMA polydrug users show process-specific central executive impairments coupled with impaired social and emotional judgement processes. In recent years working memory deficits have been reported in users of MDMA (3,4-methylenedioxymethamphetamine, ecstasy). The current study aimed to assess the impact of MDMA use on three separate central executive processes (set shifting, inhibition and memory updating) and also on \"prefrontal\" mediated social and emotional judgement processes. Fifteen polydrug ecstasy users and 15 polydrug non-ecstasy user controls completed a general drug use questionnaire, the Brixton Spatial Anticipation task (set shifting), Backward Digit Span procedure (memory updating), Inhibition of Return (inhibition), an emotional intelligence scale, the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire (DEX). Compared with MDMA-free polydrug controls, MDMA polydrug users showed impairments in set shifting and memory updating, and also in social and emotional judgement processes. The latter two deficits remained significant after controlling for other drug use. These data lend further support to the proposal that cognitive processes mediated by the prefrontal cortex may be impaired by recreational ecstasy use.",
+    "pubmed_id": "16574712",
+    "entities": [
+        [
+            0,
+            4,
+            "MDMA",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            85,
+            134,
+            "impaired social and emotional judgement processes",
+            "Disease",
+            "D003072"
+        ],
+        [
+            160,
+            175,
+            "memory deficits",
+            "Disease",
+            "D008569"
+        ],
+        [
+            207,
+            211,
+            "MDMA",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            213,
+            246,
+            "3,4-methylenedioxymethamphetamine",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            248,
+            255,
+            "ecstasy",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            306,
+            310,
+            "MDMA",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            501,
+            508,
+            "ecstasy",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            535,
+            542,
+            "ecstasy",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            865,
+            869,
+            "MDMA",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            894,
+            898,
+            "MDMA",
+            "Chemical",
+            "D018817"
+        ],
+        [
+            1246,
+            1253,
+            "ecstasy",
+            "Chemical",
+            "D018817"
+        ]
+    ],
+    "split_sentence": [
+        "MDMA polydrug users show process-specific central executive impairments coupled with impaired social and emotional judgement processes.",
+        "In recent years working memory deficits have been reported in users of MDMA (3,4-methylenedioxymethamphetamine, ecstasy).",
+        "The current study aimed to assess the impact of MDMA use on three separate central executive processes (set shifting, inhibition and memory updating) and also on \"prefrontal\" mediated social and emotional judgement processes.",
+        "Fifteen polydrug ecstasy users and 15 polydrug non-ecstasy user controls completed a general drug use questionnaire, the Brixton Spatial Anticipation task (set shifting), Backward Digit Span procedure (memory updating), Inhibition of Return (inhibition), an emotional intelligence scale, the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire (DEX).",
+        "Compared with MDMA-free polydrug controls, MDMA polydrug users showed impairments in set shifting and memory updating, and also in social and emotional judgement processes.",
+        "The latter two deficits remained significant after controlling for other drug use.",
+        "These data lend further support to the proposal that cognitive processes mediated by the prefrontal cortex may be impaired by recreational ecstasy use."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018817\tChemical\tMDMA\t<target> MDMA </target> polydrug users show process-specific central executive impairments coupled with impaired social and emotional judgement processes .",
+        "D003072\tDisease\timpaired social and emotional judgement processes\tMDMA polydrug users show process-specific central executive impairments coupled with <target> impaired social and emotional judgement processes </target> .",
+        "D008569\tDisease\tmemory deficits\tIn recent years working <target> memory deficits </target> have been reported in users of MDMA ( 3,4-methylenedioxymethamphetamine , ecstasy ) .",
+        "D018817\tChemical\tMDMA\tIn recent years working memory deficits have been reported in users of <target> MDMA </target> ( 3,4-methylenedioxymethamphetamine , ecstasy ) .",
+        "D018817\tChemical\t3,4-methylenedioxymethamphetamine\tIn recent years working memory deficits have been reported in users of MDMA ( <target> 3,4-methylenedioxymethamphetamine </target> , ecstasy ) .",
+        "D018817\tChemical\tecstasy\tIn recent years working memory deficits have been reported in users of MDMA ( 3,4-methylenedioxymethamphetamine , <target> ecstasy </target> ) .",
+        "D018817\tChemical\tMDMA\tThe current study aimed to assess the impact of <target> MDMA </target> use on three separate central executive processes ( set shifting , inhibition and memory updating ) and also on \" prefrontal \" mediated social and emotional judgement processes .",
+        "D018817\tChemical\tecstasy\tFifteen polydrug <target> ecstasy </target> users and 15 polydrug non-ecstasy user controls completed a general drug use questionnaire , the Brixton Spatial Anticipation task ( set shifting ) , Backward Digit Span procedure ( memory updating ) , Inhibition of Return ( inhibition ) , an emotional intelligence scale , the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire ( DEX ) .",
+        "D018817\tChemical\tecstasy\tFifteen polydrug ecstasy users and 15 polydrug non- <target> ecstasy </target> user controls completed a general drug use questionnaire , the Brixton Spatial Anticipation task ( set shifting ) , Backward Digit Span procedure ( memory updating ) , Inhibition of Return ( inhibition ) , an emotional intelligence scale , the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire ( DEX ) .",
+        "D018817\tChemical\tMDMA\tCompared with <target> MDMA </target> -free polydrug controls , MDMA polydrug users showed impairments in set shifting and memory updating , and also in social and emotional judgement processes .",
+        "D018817\tChemical\tMDMA\tCompared with MDMA-free polydrug controls , <target> MDMA </target> polydrug users showed impairments in set shifting and memory updating , and also in social and emotional judgement processes .",
+        "D018817\tChemical\tecstasy\tThese data lend further support to the proposal that cognitive processes mediated by the prefrontal cortex may be impaired by recreational <target> ecstasy </target> use ."
+    ],
+    "lines_lemma": [
+        "D018817\tChemical\tMDMA\t<target> MDMA </target> polydrug user show process-specific central executive impairment couple with impaired social and emotional judgement process .",
+        "D003072\tDisease\timpaired social and emotional judgement processes\tMDMA polydrug user show process-specific central executive impairment couple with <target> impaired social and emotional judgement process </target> .",
+        "D008569\tDisease\tmemory deficits\tin recent year work <target> memory deficit </target> have be report in user of mdma ( 3,4-methylenedioxymethamphetamine , ecstasy ) .",
+        "D018817\tChemical\tMDMA\tin recent year work memory deficit have be report in user of <target> MDMA </target> ( 3,4-methylenedioxymethamphetamine , ecstasy ) .",
+        "D018817\tChemical\t3,4-methylenedioxymethamphetamine\tin recent year work memory deficit have be report in user of mdma ( <target> 3,4-methylenedioxymethamphetamine </target> , ecstasy ) .",
+        "D018817\tChemical\tecstasy\tin recent year work memory deficit have be report in user of mdma ( 3,4-methylenedioxymethamphetamine , <target> ecstasy </target> ) .",
+        "D018817\tChemical\tMDMA\tthe current study aim to assess the impact of <target> MDMA </target> use on three separate central executive process ( set shifting , inhibition and memory updating ) and also on \" prefrontal \" mediate social and emotional judgement process .",
+        "D018817\tChemical\tecstasy\tfifteen polydrug <target> ecstasy </target> user and 15 polydrug non-ecstasy user control complete a general drug use questionnaire , the Brixton Spatial Anticipation task ( set shifting ) , Backward Digit Span procedure ( memory updating ) , inhibition of Return ( inhibition ) , an emotional intelligence scale , the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire ( dex ) .",
+        "D018817\tChemical\tecstasy\tfifteen polydrug ecstasy user and 15 polydrug non- <target> ecstasy </target> user control complete a general drug use questionnaire , the Brixton Spatial Anticipation task ( set shifting ) , Backward Digit Span procedure ( memory updating ) , inhibition of Return ( inhibition ) , an emotional intelligence scale , the Tromso Social Intelligence Scale and the Dysexecutive Questionnaire ( dex ) .",
+        "D018817\tChemical\tMDMA\tcompare with <target> mdma </target> -free polydrug control , mdma polydrug user show impairment in set shifting and memory updating , and also in social and emotional judgement process .",
+        "D018817\tChemical\tMDMA\tcompare with mdma-free polydrug control , <target> MDMA </target> polydrug user show impairment in set shifting and memory updating , and also in social and emotional judgement process .",
+        "D018817\tChemical\tecstasy\tthese datum lend further support to the proposal that cognitive process mediate by the prefrontal cortex may be impair by recreational <target> ecstasy </target> use ."
+    ]
+}

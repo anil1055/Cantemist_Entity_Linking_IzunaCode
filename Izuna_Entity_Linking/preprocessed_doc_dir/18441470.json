@@ -1,0 +1,110 @@
+{
+    "title": "Complete atrioventricular block secondary to lithium therapy.",
+    "abst": "Sinus node dysfunction has been reported most frequently among the adverse cardiovascular effects of lithium. In the present case, complete atrioventricular (AV) block with syncopal attacks developed secondary to lithium therapy, necessitating permanent pacemaker implantation. Serum lithium levels remained under or within the therapeutic range during the syncopal attacks. Lithium should be used with extreme caution, especially in patients with mild disturbance of AV conduction.",
+    "title_plus_abst": "Complete atrioventricular block secondary to lithium therapy. Sinus node dysfunction has been reported most frequently among the adverse cardiovascular effects of lithium. In the present case, complete atrioventricular (AV) block with syncopal attacks developed secondary to lithium therapy, necessitating permanent pacemaker implantation. Serum lithium levels remained under or within the therapeutic range during the syncopal attacks. Lithium should be used with extreme caution, especially in patients with mild disturbance of AV conduction.",
+    "pubmed_id": "18441470",
+    "entities": [
+        [
+            9,
+            31,
+            "atrioventricular block",
+            "Disease",
+            "D054537"
+        ],
+        [
+            45,
+            52,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            62,
+            84,
+            "Sinus node dysfunction",
+            "Disease",
+            "D012804"
+        ],
+        [
+            163,
+            170,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            202,
+            229,
+            "atrioventricular (AV) block",
+            "Disease",
+            "D054537"
+        ],
+        [
+            235,
+            251,
+            "syncopal attacks",
+            "Disease",
+            "D013575"
+        ],
+        [
+            275,
+            282,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            346,
+            353,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            419,
+            435,
+            "syncopal attacks",
+            "Disease",
+            "D013575"
+        ],
+        [
+            437,
+            444,
+            "Lithium",
+            "Chemical",
+            "D008094"
+        ]
+    ],
+    "split_sentence": [
+        "Complete atrioventricular block secondary to lithium therapy.",
+        "Sinus node dysfunction has been reported most frequently among the adverse cardiovascular effects of lithium.",
+        "In the present case, complete atrioventricular (AV) block with syncopal attacks developed secondary to lithium therapy, necessitating permanent pacemaker implantation.",
+        "Serum lithium levels remained under or within the therapeutic range during the syncopal attacks.",
+        "Lithium should be used with extreme caution, especially in patients with mild disturbance of AV conduction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D054537\tDisease\tatrioventricular block\tComplete <target> atrioventricular block </target> secondary to lithium therapy .",
+        "D008094\tChemical\tlithium\tComplete atrioventricular block secondary to <target> lithium </target> therapy .",
+        "D012804\tDisease\tSinus node dysfunction\t<target> Sinus node dysfunction </target> has been reported most frequently among the adverse cardiovascular effects of lithium .",
+        "D008094\tChemical\tlithium\tSinus node dysfunction has been reported most frequently among the adverse cardiovascular effects of <target> lithium </target> .",
+        "D054537\tDisease\tatrioventricular (AV) block\tIn the present case , complete <target> atrioventricular ( AV ) block </target> with syncopal attacks developed secondary to lithium therapy , necessitating permanent pacemaker implantation .",
+        "D013575\tDisease\tsyncopal attacks\tIn the present case , complete atrioventricular ( AV ) block with <target> syncopal attacks </target> developed secondary to lithium therapy , necessitating permanent pacemaker implantation .",
+        "D008094\tChemical\tlithium\tIn the present case , complete atrioventricular ( AV ) block with syncopal attacks developed secondary to <target> lithium </target> therapy , necessitating permanent pacemaker implantation .",
+        "D008094\tChemical\tlithium\tSerum <target> lithium </target> levels remained under or within the therapeutic range during the syncopal attacks .",
+        "D013575\tDisease\tsyncopal attacks\tSerum lithium levels remained under or within the therapeutic range during the <target> syncopal attacks </target> .",
+        "D008094\tChemical\tLithium\t<target> Lithium </target> should be used with extreme caution , especially in patients with mild disturbance of AV conduction ."
+    ],
+    "lines_lemma": [
+        "D054537\tDisease\tatrioventricular block\tComplete <target> atrioventricular block </target> secondary to lithium therapy .",
+        "D008094\tChemical\tlithium\tcomplete atrioventricular block secondary to <target> lithium </target> therapy .",
+        "D012804\tDisease\tSinus node dysfunction\t<target> sinus node dysfunction </target> have be report most frequently among the adverse cardiovascular effect of lithium .",
+        "D008094\tChemical\tlithium\tsinus node dysfunction have be report most frequently among the adverse cardiovascular effect of <target> lithium </target> .",
+        "D054537\tDisease\tatrioventricular (AV) block\tin the present case , complete <target> atrioventricular ( av ) block </target> with syncopal attack develop secondary to lithium therapy , necessitate permanent pacemaker implantation .",
+        "D013575\tDisease\tsyncopal attacks\tin the present case , complete atrioventricular ( av ) block with <target> syncopal attack </target> develop secondary to lithium therapy , necessitate permanent pacemaker implantation .",
+        "D008094\tChemical\tlithium\tin the present case , complete atrioventricular ( av ) block with syncopal attack develop secondary to <target> lithium </target> therapy , necessitate permanent pacemaker implantation .",
+        "D008094\tChemical\tlithium\tserum <target> lithium </target> level remain under or within the therapeutic range during the syncopal attack .",
+        "D013575\tDisease\tsyncopal attacks\tserum lithium level remain under or within the therapeutic range during the <target> syncopal attack </target> .",
+        "D008094\tChemical\tLithium\t<target> lithium </target> should be use with extreme caution , especially in patient with mild disturbance of av conduction ."
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Myoclonus associated with lorazepam therapy in very-low-birth-weight infants.",
+    "abst": "Lorazepam is being used with increasing frequency as a sedative in the newborn and the young infant. Concern has been raised with regard to the safety of lorazepam in this age group, especially in very-low-birth-weight (VLBW; < 1,500 g) infants. Three young infants, all of birth weight < 1,500 g, experienced myoclonus following the intravenous administration of lorazepam. The potential neurotoxic effects of the drug (and its vehicle) in this population are discussed. Injectable lorazepam should be used with caution in VLBW infants.",
+    "title_plus_abst": "Myoclonus associated with lorazepam therapy in very-low-birth-weight infants. Lorazepam is being used with increasing frequency as a sedative in the newborn and the young infant. Concern has been raised with regard to the safety of lorazepam in this age group, especially in very-low-birth-weight (VLBW; < 1,500 g) infants. Three young infants, all of birth weight < 1,500 g, experienced myoclonus following the intravenous administration of lorazepam. The potential neurotoxic effects of the drug (and its vehicle) in this population are discussed. Injectable lorazepam should be used with caution in VLBW infants.",
+    "pubmed_id": "7727612",
+    "entities": [
+        [
+            0,
+            9,
+            "Myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            26,
+            35,
+            "lorazepam",
+            "Chemical",
+            "D008140"
+        ],
+        [
+            78,
+            87,
+            "Lorazepam",
+            "Chemical",
+            "D008140"
+        ],
+        [
+            232,
+            241,
+            "lorazepam",
+            "Chemical",
+            "D008140"
+        ],
+        [
+            388,
+            397,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            442,
+            451,
+            "lorazepam",
+            "Chemical",
+            "D008140"
+        ],
+        [
+            467,
+            477,
+            "neurotoxic",
+            "Disease",
+            "D020258"
+        ],
+        [
+            561,
+            570,
+            "lorazepam",
+            "Chemical",
+            "D008140"
+        ]
+    ],
+    "split_sentence": [
+        "Myoclonus associated with lorazepam therapy in very-low-birth-weight infants.",
+        "Lorazepam is being used with increasing frequency as a sedative in the newborn and the young infant.",
+        "Concern has been raised with regard to the safety of lorazepam in this age group, especially in very-low-birth-weight (VLBW; < 1,500 g) infants.",
+        "Three young infants, all of birth weight < 1,500 g, experienced myoclonus following the intravenous administration of lorazepam.",
+        "The potential neurotoxic effects of the drug (and its vehicle) in this population are discussed.",
+        "Injectable lorazepam should be used with caution in VLBW infants."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009207\tDisease\tMyoclonus\t<target> Myoclonus </target> associated with lorazepam therapy in very-low-birth-weight infants .",
+        "D008140\tChemical\tlorazepam\tMyoclonus associated with <target> lorazepam </target> therapy in very-low-birth-weight infants .",
+        "D008140\tChemical\tLorazepam\t<target> Lorazepam </target> is being used with increasing frequency as a sedative in the newborn and the young infant .",
+        "D008140\tChemical\tlorazepam\tConcern has been raised with regard to the safety of <target> lorazepam </target> in this age group , especially in very-low-birth-weight ( VLBW ; < 1,500 g ) infants .",
+        "D009207\tDisease\tmyoclonus\tThree young infants , all of birth weight < 1,500 g , experienced <target> myoclonus </target> following the intravenous administration of lorazepam .",
+        "D008140\tChemical\tlorazepam\tThree young infants , all of birth weight < 1,500 g , experienced myoclonus following the intravenous administration of <target> lorazepam </target> .",
+        "D020258\tDisease\tneurotoxic\tThe potential <target> neurotoxic </target> effects of the drug ( and its vehicle ) in this population are discussed .",
+        "D008140\tChemical\tlorazepam\tInjectable <target> lorazepam </target> should be used with caution in VLBW infants ."
+    ],
+    "lines_lemma": [
+        "D009207\tDisease\tMyoclonus\t<target> Myoclonus </target> associate with lorazepam therapy in very-low-birth-weight infant .",
+        "D008140\tChemical\tlorazepam\tMyoclonus associate with <target> lorazepam </target> therapy in very-low-birth-weight infant .",
+        "D008140\tChemical\tLorazepam\t<target> Lorazepam </target> be be use with increase frequency as a sedative in the newborn and the young infant .",
+        "D008140\tChemical\tlorazepam\tconcern have be raise with regard to the safety of <target> lorazepam </target> in this age group , especially in very-low-birth-weight ( vlbw ; < 1,500 g ) infant .",
+        "D009207\tDisease\tmyoclonus\tthree young infant , all of birth weight < 1,500 g , experience <target> myoclonus </target> follow the intravenous administration of lorazepam .",
+        "D008140\tChemical\tlorazepam\tthree young infant , all of birth weight < 1,500 g , experienced myoclonus follow the intravenous administration of <target> lorazepam </target> .",
+        "D020258\tDisease\tneurotoxic\tthe potential <target> neurotoxic </target> effect of the drug ( and its vehicle ) in this population be discuss .",
+        "D008140\tChemical\tlorazepam\tinjectable <target> lorazepam </target> should be use with caution in vlbw infant ."
+    ]
+}

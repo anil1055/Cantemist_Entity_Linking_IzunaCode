@@ -1,0 +1,221 @@
+{
+    "title": "Lethal anuria complicating high dose ifosfamide chemotherapy in a breast cancer patient with an impaired renal function.",
+    "abst": "A sixty-year-old woman with advanced breast cancer, previously treated with cisplatin, developed an irreversible lethal renal failure with anuria, the day after 5 g/m2 bolus ifosfamide. Postrenal failure was excluded by echography. A prerenal component could have contributed to renal failure because of a transient hypotension, due to an increasing ascitis, occurring just before anuria. However, correction of the hemodynamic parameters did not improve renal function. Ifosfamide is a known nephrotoxic drug with demonstrated tubulopathies. We strongly suspect that this lethal anuria was mainly due to ifosfamide, occurring in a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension. We recommend careful use of ifosfamide in patients pretreated with nephrotoxic chemotherapy and inadequate renal perfusion.",
+    "title_plus_abst": "Lethal anuria complicating high dose ifosfamide chemotherapy in a breast cancer patient with an impaired renal function. A sixty-year-old woman with advanced breast cancer, previously treated with cisplatin, developed an irreversible lethal renal failure with anuria, the day after 5 g/m2 bolus ifosfamide. Postrenal failure was excluded by echography. A prerenal component could have contributed to renal failure because of a transient hypotension, due to an increasing ascitis, occurring just before anuria. However, correction of the hemodynamic parameters did not improve renal function. Ifosfamide is a known nephrotoxic drug with demonstrated tubulopathies. We strongly suspect that this lethal anuria was mainly due to ifosfamide, occurring in a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension. We recommend careful use of ifosfamide in patients pretreated with nephrotoxic chemotherapy and inadequate renal perfusion.",
+    "pubmed_id": "2320800",
+    "entities": [
+        [
+            7,
+            13,
+            "anuria",
+            "Disease",
+            "D001002"
+        ],
+        [
+            37,
+            47,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            66,
+            79,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            96,
+            119,
+            "impaired renal function",
+            "Disease",
+            "D007674"
+        ],
+        [
+            158,
+            171,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            197,
+            206,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            241,
+            254,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            260,
+            266,
+            "anuria",
+            "Disease",
+            "D001002"
+        ],
+        [
+            295,
+            305,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            307,
+            324,
+            "Postrenal failure",
+            "Disease",
+            "D007674"
+        ],
+        [
+            400,
+            413,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            437,
+            448,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            502,
+            508,
+            "anuria",
+            "Disease",
+            "D001002"
+        ],
+        [
+            592,
+            602,
+            "Ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            614,
+            625,
+            "nephrotoxic",
+            "Disease",
+            "D007674"
+        ],
+        [
+            649,
+            662,
+            "tubulopathies",
+            "Disease",
+            "D007674"
+        ],
+        [
+            701,
+            707,
+            "anuria",
+            "Disease",
+            "D001002"
+        ],
+        [
+            726,
+            736,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            786,
+            795,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            857,
+            868,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            898,
+            908,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            937,
+            948,
+            "nephrotoxic",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Lethal anuria complicating high dose ifosfamide chemotherapy in a breast cancer patient with an impaired renal function.",
+        "A sixty-year-old woman with advanced breast cancer, previously treated with cisplatin, developed an irreversible lethal renal failure with anuria, the day after 5 g/m2 bolus ifosfamide.",
+        "Postrenal failure was excluded by echography.",
+        "A prerenal component could have contributed to renal failure because of a transient hypotension, due to an increasing ascitis, occurring just before anuria.",
+        "However, correction of the hemodynamic parameters did not improve renal function.",
+        "Ifosfamide is a known nephrotoxic drug with demonstrated tubulopathies.",
+        "We strongly suspect that this lethal anuria was mainly due to ifosfamide, occurring in a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension.",
+        "We recommend careful use of ifosfamide in patients pretreated with nephrotoxic chemotherapy and inadequate renal perfusion."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001002\tDisease\tanuria\tLethal <target> anuria </target> complicating high dose ifosfamide chemotherapy in a breast cancer patient with an impaired renal function .",
+        "D007069\tChemical\tifosfamide\tLethal anuria complicating high dose <target> ifosfamide </target> chemotherapy in a breast cancer patient with an impaired renal function .",
+        "D001943\tDisease\tbreast cancer\tLethal anuria complicating high dose ifosfamide chemotherapy in a <target> breast cancer </target> patient with an impaired renal function .",
+        "D007674\tDisease\timpaired renal function\tLethal anuria complicating high dose ifosfamide chemotherapy in a breast cancer patient with an <target> impaired renal function </target> .",
+        "D001943\tDisease\tbreast cancer\tA sixty-year-old woman with advanced <target> breast cancer </target> , previously treated with cisplatin , developed an irreversible lethal renal failure with anuria , the day after 5 g/m2 bolus ifosfamide .",
+        "D002945\tChemical\tcisplatin\tA sixty-year-old woman with advanced breast cancer , previously treated with <target> cisplatin </target> , developed an irreversible lethal renal failure with anuria , the day after 5 g/m2 bolus ifosfamide .",
+        "D051437\tDisease\trenal failure\tA sixty-year-old woman with advanced breast cancer , previously treated with cisplatin , developed an irreversible lethal <target> renal failure </target> with anuria , the day after 5 g/m2 bolus ifosfamide .",
+        "D001002\tDisease\tanuria\tA sixty-year-old woman with advanced breast cancer , previously treated with cisplatin , developed an irreversible lethal renal failure with <target> anuria </target> , the day after 5 g/m2 bolus ifosfamide .",
+        "D007069\tChemical\tifosfamide\tA sixty-year-old woman with advanced breast cancer , previously treated with cisplatin , developed an irreversible lethal renal failure with anuria , the day after 5 g/m2 bolus <target> ifosfamide </target> .",
+        "D007674\tDisease\tPostrenal failure\t<target> Postrenal failure </target> was excluded by echography .",
+        "D051437\tDisease\trenal failure\tA prerenal component could have contributed to <target> renal failure </target> because of a transient hypotension , due to an increasing ascitis , occurring just before anuria .",
+        "D007022\tDisease\thypotension\tA prerenal component could have contributed to renal failure because of a transient <target> hypotension </target> , due to an increasing ascitis , occurring just before anuria .",
+        "D001002\tDisease\tanuria\tA prerenal component could have contributed to renal failure because of a transient hypotension , due to an increasing ascitis , occurring just before <target> anuria </target> .",
+        "D007069\tChemical\tIfosfamide\t<target> Ifosfamide </target> is a known nephrotoxic drug with demonstrated tubulopathies .",
+        "D007674\tDisease\tnephrotoxic\tIfosfamide is a known <target> nephrotoxic </target> drug with demonstrated tubulopathies .",
+        "D007674\tDisease\ttubulopathies\tIfosfamide is a known nephrotoxic drug with demonstrated <target> tubulopathies </target> .",
+        "D001002\tDisease\tanuria\tWe strongly suspect that this lethal <target> anuria </target> was mainly due to ifosfamide , occurring in a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension .",
+        "D007069\tChemical\tifosfamide\tWe strongly suspect that this lethal anuria was mainly due to <target> ifosfamide </target> , occurring in a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension .",
+        "D002945\tChemical\tcisplatin\tWe strongly suspect that this lethal anuria was mainly due to ifosfamide , occurring in a patient having received previous <target> cisplatin </target> chemotherapy and with poor kidney perfusion due to transient hypotension .",
+        "D007022\tDisease\thypotension\tWe strongly suspect that this lethal anuria was mainly due to ifosfamide , occurring in a patient having received previous cisplatin chemotherapy and with poor kidney perfusion due to transient <target> hypotension </target> .",
+        "D007069\tChemical\tifosfamide\tWe recommend careful use of <target> ifosfamide </target> in patients pretreated with nephrotoxic chemotherapy and inadequate renal perfusion .",
+        "D007674\tDisease\tnephrotoxic\tWe recommend careful use of ifosfamide in patients pretreated with <target> nephrotoxic </target> chemotherapy and inadequate renal perfusion ."
+    ],
+    "lines_lemma": [
+        "D001002\tDisease\tanuria\tlethal <target> anuria </target> complicate high dose ifosfamide chemotherapy in a breast cancer patient with an impaired renal function .",
+        "D007069\tChemical\tifosfamide\tlethal anuria complicate high dose <target> ifosfamide </target> chemotherapy in a breast cancer patient with an impaired renal function .",
+        "D001943\tDisease\tbreast cancer\tlethal anuria complicate high dose ifosfamide chemotherapy in a <target> breast cancer </target> patient with an impaired renal function .",
+        "D007674\tDisease\timpaired renal function\tlethal anuria complicate high dose ifosfamide chemotherapy in a breast cancer patient with an <target> impaired renal function </target> .",
+        "D001943\tDisease\tbreast cancer\ta sixty-year-old woman with advanced <target> breast cancer </target> , previously treat with cisplatin , develop an irreversible lethal renal failure with anuria , the day after 5 g/m2 bolus ifosfamide .",
+        "D002945\tChemical\tcisplatin\ta sixty-year-old woman with advanced breast cancer , previously treat with <target> cisplatin </target> , develop an irreversible lethal renal failure with anuria , the day after 5 g/m2 bolus ifosfamide .",
+        "D051437\tDisease\trenal failure\ta sixty-year-old woman with advanced breast cancer , previously treat with cisplatin , develop an irreversible lethal <target> renal failure </target> with anuria , the day after 5 g/m2 bolus ifosfamide .",
+        "D001002\tDisease\tanuria\ta sixty-year-old woman with advanced breast cancer , previously treat with cisplatin , develop an irreversible lethal renal failure with <target> anuria </target> , the day after 5 g/m2 bolus ifosfamide .",
+        "D007069\tChemical\tifosfamide\ta sixty-year-old woman with advanced breast cancer , previously treat with cisplatin , develop an irreversible lethal renal failure with anuria , the day after 5 g/m2 bolus <target> ifosfamide </target> .",
+        "D007674\tDisease\tPostrenal failure\t<target> postrenal failure </target> be exclude by echography .",
+        "D051437\tDisease\trenal failure\ta prerenal component could have contribute to <target> renal failure </target> because of a transient hypotension , due to an increase ascitis , occur just before anuria .",
+        "D007022\tDisease\thypotension\ta prerenal component could have contribute to renal failure because of a transient <target> hypotension </target> , due to an increase ascitis , occur just before anuria .",
+        "D001002\tDisease\tanuria\ta prerenal component could have contribute to renal failure because of a transient hypotension , due to an increase ascitis , occur just before <target> anuria </target> .",
+        "D007069\tChemical\tIfosfamide\t<target> Ifosfamide </target> be a known nephrotoxic drug with demonstrate tubulopathie .",
+        "D007674\tDisease\tnephrotoxic\tIfosfamide be a known <target> nephrotoxic </target> drug with demonstrate tubulopathie .",
+        "D007674\tDisease\ttubulopathies\tIfosfamide be a known nephrotoxic drug with demonstrate <target> tubulopathie </target> .",
+        "D001002\tDisease\tanuria\twe strongly suspect that this lethal <target> anuria </target> be mainly due to ifosfamide , occur in a patient have receive previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension .",
+        "D007069\tChemical\tifosfamide\twe strongly suspect that this lethal anuria be mainly due to <target> ifosfamide </target> , occur in a patient have receive previous cisplatin chemotherapy and with poor kidney perfusion due to transient hypotension .",
+        "D002945\tChemical\tcisplatin\twe strongly suspect that this lethal anuria be mainly due to ifosfamide , occur in a patient have receive previous <target> cisplatin </target> chemotherapy and with poor kidney perfusion due to transient hypotension .",
+        "D007022\tDisease\thypotension\twe strongly suspect that this lethal anuria be mainly due to ifosfamide , occur in a patient have receive previous cisplatin chemotherapy and with poor kidney perfusion due to transient <target> hypotension </target> .",
+        "D007069\tChemical\tifosfamide\twe recommend careful use of <target> ifosfamide </target> in patient pretreate with nephrotoxic chemotherapy and inadequate renal perfusion .",
+        "D007674\tDisease\tnephrotoxic\twe recommend careful use of ifosfamide in patient pretreate with <target> nephrotoxic </target> chemotherapy and inadequate renal perfusion ."
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Positive skin tests in late reactions to radiographic contrast media.",
+    "abst": "In the last few years delayed reactions several hours after the injection of radiographic and contrast materials (PRC) have been described with increasing frequency. The authors report two observations on patients with delayed reactions in whom intradermoreactions (IDR) and patch tests to a series of ionic and non ionic PRC were studied. After angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction (dyspnea, loss of consciousness) and delayed macro-papular rash appeared, whilst patient n degree 2 developed a generalised sensation of heat, persistent pain at the site of injection immediately and a generalised macro-papular reaction after 24 hours. The skin tests revealed positive delayed reactions of 24 hours and 48 hours by IDR and patch tests to only some PRC with common chains in their structures. The positive skin tests are in favour of immunological reactions and may help in diagnosis of allergy in the patients.",
+    "title_plus_abst": "Positive skin tests in late reactions to radiographic contrast media. In the last few years delayed reactions several hours after the injection of radiographic and contrast materials (PRC) have been described with increasing frequency. The authors report two observations on patients with delayed reactions in whom intradermoreactions (IDR) and patch tests to a series of ionic and non ionic PRC were studied. After angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction (dyspnea, loss of consciousness) and delayed macro-papular rash appeared, whilst patient n degree 2 developed a generalised sensation of heat, persistent pain at the site of injection immediately and a generalised macro-papular reaction after 24 hours. The skin tests revealed positive delayed reactions of 24 hours and 48 hours by IDR and patch tests to only some PRC with common chains in their structures. The positive skin tests are in favour of immunological reactions and may help in diagnosis of allergy in the patients.",
+    "pubmed_id": "10219427",
+    "entities": [
+        [
+            54,
+            68,
+            "contrast media",
+            "Chemical",
+            "D003287"
+        ],
+        [
+            164,
+            182,
+            "contrast materials",
+            "Chemical",
+            "D003287"
+        ],
+        [
+            184,
+            187,
+            "PRC",
+            "Chemical",
+            "D003287"
+        ],
+        [
+            392,
+            395,
+            "PRC",
+            "Chemical",
+            "D003287"
+        ],
+        [
+            518,
+            525,
+            "dyspnea",
+            "Disease",
+            "D004417"
+        ],
+        [
+            527,
+            548,
+            "loss of consciousness",
+            "Disease",
+            "D014474"
+        ],
+        [
+            562,
+            580,
+            "macro-papular rash",
+            "Disease",
+            "D003875"
+        ],
+        [
+            671,
+            675,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            882,
+            885,
+            "PRC",
+            "Chemical",
+            "D003287"
+        ],
+        [
+            1020,
+            1027,
+            "allergy",
+            "Disease",
+            "D004342"
+        ]
+    ],
+    "split_sentence": [
+        "Positive skin tests in late reactions to radiographic contrast media.",
+        "In the last few years delayed reactions several hours after the injection of radiographic and contrast materials (PRC) have been described with increasing frequency.",
+        "The authors report two observations on patients with delayed reactions in whom intradermoreactions (IDR) and patch tests to a series of ionic and non ionic PRC were studied.",
+        "After angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction (dyspnea, loss of consciousness) and delayed macro-papular rash appeared, whilst patient n degree 2 developed a generalised sensation of heat, persistent pain at the site of injection immediately and a generalised macro-papular reaction after 24 hours.",
+        "The skin tests revealed positive delayed reactions of 24 hours and 48 hours by IDR and patch tests to only some PRC with common chains in their structures.",
+        "The positive skin tests are in favour of immunological reactions and may help in diagnosis of allergy in the patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003287\tChemical\tcontrast media\tPositive skin tests in late reactions to radiographic <target> contrast media </target> .",
+        "D003287\tChemical\tcontrast materials\tIn the last few years delayed reactions several hours after the injection of radiographic and <target> contrast materials </target> ( PRC ) have been described with increasing frequency .",
+        "D003287\tChemical\tPRC\tIn the last few years delayed reactions several hours after the injection of radiographic and contrast materials ( <target> PRC </target> ) have been described with increasing frequency .",
+        "D003287\tChemical\tPRC\tThe authors report two observations on patients with delayed reactions in whom intradermoreactions ( IDR ) and patch tests to a series of ionic and non ionic <target> PRC </target> were studied .",
+        "D004417\tDisease\tdyspnea\tAfter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( <target> dyspnea </target> , loss of consciousness ) and delayed macro-papular rash appeared , whilst patient n degree 2 developed a generalised sensation of heat , persistent pain at the site of injection immediately and a generalised macro-papular reaction after 24 hours .",
+        "D014474\tDisease\tloss of consciousness\tAfter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( dyspnea , <target> loss of consciousness </target> ) and delayed macro-papular rash appeared , whilst patient n degree 2 developed a generalised sensation of heat , persistent pain at the site of injection immediately and a generalised macro-papular reaction after 24 hours .",
+        "D003875\tDisease\tmacro-papular rash\tAfter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( dyspnea , loss of consciousness ) and delayed <target> macro-papular rash </target> appeared , whilst patient n degree 2 developed a generalised sensation of heat , persistent pain at the site of injection immediately and a generalised macro-papular reaction after 24 hours .",
+        "D010146\tDisease\tpain\tAfter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( dyspnea , loss of consciousness ) and delayed macro-papular rash appeared , whilst patient n degree 2 developed a generalised sensation of heat , persistent <target> pain </target> at the site of injection immediately and a generalised macro-papular reaction after 24 hours .",
+        "D003287\tChemical\tPRC\tThe skin tests revealed positive delayed reactions of 24 hours and 48 hours by IDR and patch tests to only some <target> PRC </target> with common chains in their structures .",
+        "D004342\tDisease\tallergy\tThe positive skin tests are in favour of immunological reactions and may help in diagnosis of <target> allergy </target> in the patients ."
+    ],
+    "lines_lemma": [
+        "D003287\tChemical\tcontrast media\tpositive skin test in late reaction to radiographic <target> contrast medium </target> .",
+        "D003287\tChemical\tcontrast materials\tin the last few year delay reaction several hour after the injection of radiographic and <target> contrast material </target> ( prc ) have be describe with increase frequency .",
+        "D003287\tChemical\tPRC\tin the last few year delay reaction several hour after the injection of radiographic and contrast material ( <target> PRC </target> ) have be describe with increase frequency .",
+        "D003287\tChemical\tPRC\tthe author report two observation on patient with delay reaction in whom intradermoreaction ( idr ) and patch test to a series of ionic and non ionic <target> PRC </target> be study .",
+        "D004417\tDisease\tdyspnea\tafter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( <target> dyspnea </target> , loss of consciousness ) and delay macro-papular rash appear , whilst patient n degree 2 develop a generalised sensation of heat , persistent pain at the site of injection immediately and a generalise macro-papular reaction after 24 hour .",
+        "D014474\tDisease\tloss of consciousness\tafter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( dyspnea , <target> loss of consciousness </target> ) and delay macro-papular rash appear , whilst patient n degree 2 develop a generalised sensation of heat , persistent pain at the site of injection immediately and a generalise macro-papular reaction after 24 hour .",
+        "D003875\tDisease\tmacro-papular rash\tafter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( dyspnea , loss of consciousness ) and delay <target> macro-papular rash </target> appear , whilst patient n degree 2 develop a generalised sensation of heat , persistent pain at the site of injection immediately and a generalise macro-papular reaction after 24 hour .",
+        "D010146\tDisease\tpain\tafter angiography by the venous route in patient n degree 1 a biphasic reaction with an immediate reaction ( dyspnea , loss of consciousness ) and delay macro-papular rash appear , whilst patient n degree 2 develop a generalised sensation of heat , persistent <target> pain </target> at the site of injection immediately and a generalise macro-papular reaction after 24 hour .",
+        "D003287\tChemical\tPRC\tthe skin test reveal positive delay reaction of 24 hour and 48 hour by idr and patch test to only some <target> PRC </target> with common chain in their structure .",
+        "D004342\tDisease\tallergy\tthe positive skin test be in favour of immunological reaction and may help in diagnosis of <target> allergy </target> in the patient ."
+    ]
+}

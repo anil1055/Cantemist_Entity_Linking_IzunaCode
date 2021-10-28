@@ -1,0 +1,101 @@
+{
+    "title": "The interpeduncular nucleus regulates nicotine's effects on free-field activity.",
+    "abst": "Partial lesions were made with kainic acid in the interpeduncular nucleus of the ventral midbrain of the rat. Compared with sham-operated controls, lesions significantly (p < 0.25) blunted the early (<60 min) free-field locomotor hypoactivity caused by nicotine (0.5 mg kg(-1), i.m.), enhanced the later (60-120 min) nicotine-induced hyperactivity, and raised spontaneous nocturnal activity. Lesions reduced the extent of immunohistological staining for choline acetyltransferase in the interpeduncular nucleus (p <0.025), but not for tyrosine hydroxylase in the surrounding catecholaminergic A10 region. We conclude that the interpeduncular nucleus mediates nicotinic depression of locomotor activity and dampens nicotinic arousal mechanisms located elsewhere in the brain.",
+    "title_plus_abst": "The interpeduncular nucleus regulates nicotine's effects on free-field activity. Partial lesions were made with kainic acid in the interpeduncular nucleus of the ventral midbrain of the rat. Compared with sham-operated controls, lesions significantly (p < 0.25) blunted the early (<60 min) free-field locomotor hypoactivity caused by nicotine (0.5 mg kg(-1), i.m.), enhanced the later (60-120 min) nicotine-induced hyperactivity, and raised spontaneous nocturnal activity. Lesions reduced the extent of immunohistological staining for choline acetyltransferase in the interpeduncular nucleus (p <0.025), but not for tyrosine hydroxylase in the surrounding catecholaminergic A10 region. We conclude that the interpeduncular nucleus mediates nicotinic depression of locomotor activity and dampens nicotinic arousal mechanisms located elsewhere in the brain.",
+    "pubmed_id": "8741744",
+    "entities": [
+        [
+            38,
+            46,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            112,
+            123,
+            "kainic acid",
+            "Chemical",
+            "D007608"
+        ],
+        [
+            301,
+            323,
+            "locomotor hypoactivity",
+            "Disease",
+            "D009069"
+        ],
+        [
+            334,
+            342,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            398,
+            406,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            415,
+            428,
+            "hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            535,
+            542,
+            "choline",
+            "Chemical",
+            "D002794"
+        ],
+        [
+            616,
+            624,
+            "tyrosine",
+            "Chemical",
+            "D014443"
+        ],
+        [
+            750,
+            760,
+            "depression",
+            "Disease",
+            "D003866"
+        ]
+    ],
+    "split_sentence": [
+        "The interpeduncular nucleus regulates nicotine's effects on free-field activity.",
+        "Partial lesions were made with kainic acid in the interpeduncular nucleus of the ventral midbrain of the rat.",
+        "Compared with sham-operated controls, lesions significantly (p < 0.25) blunted the early (<60 min) free-field locomotor hypoactivity caused by nicotine (0.5 mg kg(-1), i.m.), enhanced the later (60-120 min) nicotine-induced hyperactivity, and raised spontaneous nocturnal activity.",
+        "Lesions reduced the extent of immunohistological staining for choline acetyltransferase in the interpeduncular nucleus (p <0.025), but not for tyrosine hydroxylase in the surrounding catecholaminergic A10 region.",
+        "We conclude that the interpeduncular nucleus mediates nicotinic depression of locomotor activity and dampens nicotinic arousal mechanisms located elsewhere in the brain."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009538\tChemical\tnicotine\tThe interpeduncular nucleus regulates <target> nicotine </target> 's effects on free-field activity .",
+        "D007608\tChemical\tkainic acid\tPartial lesions were made with <target> kainic acid </target> in the interpeduncular nucleus of the ventral midbrain of the rat .",
+        "D009069\tDisease\tlocomotor hypoactivity\tCompared with sham-operated controls , lesions significantly ( p < 0.25 ) blunted the early ( < 60 min ) free-field <target> locomotor hypoactivity </target> caused by nicotine ( 0.5 mg kg(-1 ) , i.m . ) , enhanced the later ( 60 - 120 min ) nicotine-induced hyperactivity , and raised spontaneous nocturnal activity .",
+        "D009538\tChemical\tnicotine\tCompared with sham-operated controls , lesions significantly ( p < 0.25 ) blunted the early ( < 60 min ) free-field locomotor hypoactivity caused by <target> nicotine </target> ( 0.5 mg kg(-1 ) , i.m . ) , enhanced the later ( 60 - 120 min ) nicotine-induced hyperactivity , and raised spontaneous nocturnal activity .",
+        "D009538\tChemical\tnicotine\tCompared with sham-operated controls , lesions significantly ( p < 0.25 ) blunted the early ( < 60 min ) free-field locomotor hypoactivity caused by nicotine ( 0.5 mg kg(-1 ) , i.m . ) , enhanced the later ( 60 - 120 min ) <target> nicotine </target> -induced hyperactivity , and raised spontaneous nocturnal activity .",
+        "D006948\tDisease\thyperactivity\tCompared with sham-operated controls , lesions significantly ( p < 0.25 ) blunted the early ( < 60 min ) free-field locomotor hypoactivity caused by nicotine ( 0.5 mg kg(-1 ) , i.m . ) , enhanced the later ( 60 - 120 min ) nicotine-induced <target> hyperactivity </target> , and raised spontaneous nocturnal activity .",
+        "D002794\tChemical\tcholine\tLesions reduced the extent of immunohistological staining for <target> choline </target> acetyltransferase in the interpeduncular nucleus ( p < 0.025 ) , but not for tyrosine hydroxylase in the surrounding catecholaminergic A10 region .",
+        "D014443\tChemical\ttyrosine\tLesions reduced the extent of immunohistological staining for choline acetyltransferase in the interpeduncular nucleus ( p < 0.025 ) , but not for <target> tyrosine </target> hydroxylase in the surrounding catecholaminergic A10 region .",
+        "D003866\tDisease\tdepression\tWe conclude that the interpeduncular nucleus mediates nicotinic <target> depression </target> of locomotor activity and dampens nicotinic arousal mechanisms located elsewhere in the brain ."
+    ],
+    "lines_lemma": [
+        "D009538\tChemical\tnicotine\tthe interpeduncular nucleus regulate <target> nicotine </target> 's effect on free-field activity .",
+        "D007608\tChemical\tkainic acid\tpartial lesion be make with <target> kainic acid </target> in the interpeduncular nucleus of the ventral midbrain of the rat .",
+        "D009069\tDisease\tlocomotor hypoactivity\tcompare with sham-operated control , lesion significantly ( p < 0.25 ) blunt the early ( < 60 min ) free-field <target> locomotor hypoactivity </target> cause by nicotine ( 0.5 mg kg(-1 ) , i.m . ) , enhance the later ( 60 - 120 min ) nicotine-induced hyperactivity , and raise spontaneous nocturnal activity .",
+        "D009538\tChemical\tnicotine\tcompare with sham-operated control , lesion significantly ( p < 0.25 ) blunt the early ( < 60 min ) free-field locomotor hypoactivity cause by <target> nicotine </target> ( 0.5 mg kg(-1 ) , i.m . ) , enhance the later ( 60 - 120 min ) nicotine-induced hyperactivity , and raise spontaneous nocturnal activity .",
+        "D009538\tChemical\tnicotine\tcompare with sham-operated control , lesion significantly ( p < 0.25 ) blunt the early ( < 60 min ) free-field locomotor hypoactivity cause by nicotine ( 0.5 mg kg(-1 ) , i.m . ) , enhance the later ( 60 - 120 min ) <target> nicotine </target> -induced hyperactivity , and raise spontaneous nocturnal activity .",
+        "D006948\tDisease\thyperactivity\tcompare with sham-operated control , lesion significantly ( p < 0.25 ) blunt the early ( < 60 min ) free-field locomotor hypoactivity cause by nicotine ( 0.5 mg kg(-1 ) , i.m . ) , enhance the later ( 60 - 120 min ) nicotine-induced <target> hyperactivity </target> , and raise spontaneous nocturnal activity .",
+        "D002794\tChemical\tcholine\tlesion reduce the extent of immunohistological staining for <target> choline </target> acetyltransferase in the interpeduncular nucleus ( p < 0.025 ) , but not for tyrosine hydroxylase in the surround catecholaminergic a10 region .",
+        "D014443\tChemical\ttyrosine\tlesion reduce the extent of immunohistological staining for choline acetyltransferase in the interpeduncular nucleus ( p < 0.025 ) , but not for <target> tyrosine </target> hydroxylase in the surround catecholaminergic a10 region .",
+        "D003866\tDisease\tdepression\twe conclude that the interpeduncular nucleus mediate nicotinic <target> depression </target> of locomotor activity and dampen nicotinic arousal mechanism located elsewhere in the brain ."
+    ]
+}

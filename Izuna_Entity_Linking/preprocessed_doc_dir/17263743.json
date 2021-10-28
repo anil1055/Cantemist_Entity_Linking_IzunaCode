@@ -1,0 +1,165 @@
+{
+    "title": "Cardiac arrest in a child with cerebral palsy undergoing sevoflurane induction of anesthesia after preoperative clonidine.",
+    "abst": "Clonidine is a frequently administered alpha2-adrenergic agonist which can decrease heart rate and blood pressure. We present a case of a 5-year-old child with cerebral palsy and seizure disorder, receiving clonidine for restlessness, who presented for placement of a baclofen pump. Without the knowledge of the medical personnel, the patient's mother administered three doses of clonidine during the evening before and morning of surgery to reduce anxiety. During induction of anesthesia, the patient developed bradycardia and hypotension requiring cardiac resuscitation. There are no previous reports of clonidine-associated cardiac arrest in a child undergoing induction of anesthesia.",
+    "title_plus_abst": "Cardiac arrest in a child with cerebral palsy undergoing sevoflurane induction of anesthesia after preoperative clonidine. Clonidine is a frequently administered alpha2-adrenergic agonist which can decrease heart rate and blood pressure. We present a case of a 5-year-old child with cerebral palsy and seizure disorder, receiving clonidine for restlessness, who presented for placement of a baclofen pump. Without the knowledge of the medical personnel, the patient's mother administered three doses of clonidine during the evening before and morning of surgery to reduce anxiety. During induction of anesthesia, the patient developed bradycardia and hypotension requiring cardiac resuscitation. There are no previous reports of clonidine-associated cardiac arrest in a child undergoing induction of anesthesia.",
+    "pubmed_id": "17263743",
+    "entities": [
+        [
+            0,
+            14,
+            "Cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            31,
+            45,
+            "cerebral palsy",
+            "Disease",
+            "D002547"
+        ],
+        [
+            57,
+            68,
+            "sevoflurane",
+            "Chemical",
+            "C009250"
+        ],
+        [
+            112,
+            121,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            123,
+            132,
+            "Clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            283,
+            297,
+            "cerebral palsy",
+            "Disease",
+            "D002547"
+        ],
+        [
+            302,
+            318,
+            "seizure disorder",
+            "Disease",
+            "D004827"
+        ],
+        [
+            330,
+            339,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            344,
+            356,
+            "restlessness",
+            "Disease",
+            "D011595"
+        ],
+        [
+            391,
+            399,
+            "baclofen",
+            "Chemical",
+            "D001418"
+        ],
+        [
+            503,
+            512,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            572,
+            579,
+            "anxiety",
+            "Disease",
+            "D001008"
+        ],
+        [
+            635,
+            646,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            651,
+            662,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            729,
+            738,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            750,
+            764,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiac arrest in a child with cerebral palsy undergoing sevoflurane induction of anesthesia after preoperative clonidine.",
+        "Clonidine is a frequently administered alpha2-adrenergic agonist which can decrease heart rate and blood pressure.",
+        "We present a case of a 5-year-old child with cerebral palsy and seizure disorder, receiving clonidine for restlessness, who presented for placement of a baclofen pump.",
+        "Without the knowledge of the medical personnel, the patient's mother administered three doses of clonidine during the evening before and morning of surgery to reduce anxiety.",
+        "During induction of anesthesia, the patient developed bradycardia and hypotension requiring cardiac resuscitation.",
+        "There are no previous reports of clonidine-associated cardiac arrest in a child undergoing induction of anesthesia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006323\tDisease\tCardiac arrest\t<target> Cardiac arrest </target> in a child with cerebral palsy undergoing sevoflurane induction of anesthesia after preoperative clonidine .",
+        "D002547\tDisease\tcerebral palsy\tCardiac arrest in a child with <target> cerebral palsy </target> undergoing sevoflurane induction of anesthesia after preoperative clonidine .",
+        "C009250\tChemical\tsevoflurane\tCardiac arrest in a child with cerebral palsy undergoing <target> sevoflurane </target> induction of anesthesia after preoperative clonidine .",
+        "D003000\tChemical\tclonidine\tCardiac arrest in a child with cerebral palsy undergoing sevoflurane induction of anesthesia after preoperative <target> clonidine </target> .",
+        "D003000\tChemical\tClonidine\t<target> Clonidine </target> is a frequently administered alpha2-adrenergic agonist which can decrease heart rate and blood pressure .",
+        "D002547\tDisease\tcerebral palsy\tWe present a case of a 5-year-old child with <target> cerebral palsy </target> and seizure disorder , receiving clonidine for restlessness , who presented for placement of a baclofen pump .",
+        "D004827\tDisease\tseizure disorder\tWe present a case of a 5-year-old child with cerebral palsy and <target> seizure disorder </target> , receiving clonidine for restlessness , who presented for placement of a baclofen pump .",
+        "D003000\tChemical\tclonidine\tWe present a case of a 5-year-old child with cerebral palsy and seizure disorder , receiving <target> clonidine </target> for restlessness , who presented for placement of a baclofen pump .",
+        "D011595\tDisease\trestlessness\tWe present a case of a 5-year-old child with cerebral palsy and seizure disorder , receiving clonidine for <target> restlessness </target> , who presented for placement of a baclofen pump .",
+        "D001418\tChemical\tbaclofen\tWe present a case of a 5-year-old child with cerebral palsy and seizure disorder , receiving clonidine for restlessness , who presented for placement of a <target> baclofen </target> pump .",
+        "D003000\tChemical\tclonidine\tWithout the knowledge of the medical personnel , the patient 's mother administered three doses of <target> clonidine </target> during the evening before and morning of surgery to reduce anxiety .",
+        "D001008\tDisease\tanxiety\tWithout the knowledge of the medical personnel , the patient 's mother administered three doses of clonidine during the evening before and morning of surgery to reduce <target> anxiety </target> .",
+        "D001919\tDisease\tbradycardia\tDuring induction of anesthesia , the patient developed <target> bradycardia </target> and hypotension requiring cardiac resuscitation .",
+        "D007022\tDisease\thypotension\tDuring induction of anesthesia , the patient developed bradycardia and <target> hypotension </target> requiring cardiac resuscitation .",
+        "D003000\tChemical\tclonidine\tThere are no previous reports of <target> clonidine </target> -associated cardiac arrest in a child undergoing induction of anesthesia .",
+        "D006323\tDisease\tcardiac arrest\tThere are no previous reports of clonidine-associated <target> cardiac arrest </target> in a child undergoing induction of anesthesia ."
+    ],
+    "lines_lemma": [
+        "D006323\tDisease\tCardiac arrest\t<target> cardiac arrest </target> in a child with cerebral palsy undergo sevoflurane induction of anesthesia after preoperative clonidine .",
+        "D002547\tDisease\tcerebral palsy\tcardiac arrest in a child with <target> cerebral palsy </target> undergo sevoflurane induction of anesthesia after preoperative clonidine .",
+        "C009250\tChemical\tsevoflurane\tcardiac arrest in a child with cerebral palsy undergo <target> sevoflurane </target> induction of anesthesia after preoperative clonidine .",
+        "D003000\tChemical\tclonidine\tcardiac arrest in a child with cerebral palsy undergo sevoflurane induction of anesthesia after preoperative <target> clonidine </target> .",
+        "D003000\tChemical\tClonidine\t<target> Clonidine </target> be a frequently administer alpha2-adrenergic agonist which can decrease heart rate and blood pressure .",
+        "D002547\tDisease\tcerebral palsy\twe present a case of a 5-year-old child with <target> cerebral palsy </target> and seizure disorder , receive clonidine for restlessness , who present for placement of a baclofen pump .",
+        "D004827\tDisease\tseizure disorder\twe present a case of a 5-year-old child with cerebral palsy and <target> seizure disorder </target> , receive clonidine for restlessness , who present for placement of a baclofen pump .",
+        "D003000\tChemical\tclonidine\twe present a case of a 5-year-old child with cerebral palsy and seizure disorder , receive <target> clonidine </target> for restlessness , who present for placement of a baclofen pump .",
+        "D011595\tDisease\trestlessness\twe present a case of a 5-year-old child with cerebral palsy and seizure disorder , receive clonidine for <target> restlessness </target> , who present for placement of a baclofen pump .",
+        "D001418\tChemical\tbaclofen\twe present a case of a 5-year-old child with cerebral palsy and seizure disorder , receive clonidine for restlessness , who present for placement of a <target> baclofen </target> pump .",
+        "D003000\tChemical\tclonidine\twithout the knowledge of the medical personnel , the patient 's mother administer three dose of <target> clonidine </target> during the evening before and morning of surgery to reduce anxiety .",
+        "D001008\tDisease\tanxiety\twithout the knowledge of the medical personnel , the patient 's mother administer three dose of clonidine during the evening before and morning of surgery to reduce <target> anxiety </target> .",
+        "D001919\tDisease\tbradycardia\tduring induction of anesthesia , the patient develop <target> bradycardia </target> and hypotension require cardiac resuscitation .",
+        "D007022\tDisease\thypotension\tduring induction of anesthesia , the patient develop bradycardia and <target> hypotension </target> require cardiac resuscitation .",
+        "D003000\tChemical\tclonidine\tthere be no previous report of <target> clonidine </target> -associated cardiac arrest in a child undergo induction of anesthesia .",
+        "D006323\tDisease\tcardiac arrest\tthere be no previous report of clonidine-associated <target> cardiac arrest </target> in a child undergo induction of anesthesia ."
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "title": "Is phenytoin administration safe in a hypothermic child?",
+    "abst": "A male neonate with a Chiari malformation and a leaking myelomeningocoele underwent ventriculoperitoneal shunt insertion followed by repair of myelomeningocoele. During anaesthesia and surgery, he inadvertently became moderately hypothermic. Intravenous phenytoin was administered during the later part of the surgery for seizure prophylaxis. Following phenytoin administration, the patient developed acute severe bradycardia, refractory to atropine and adrenaline. The cardiac depressant actions of phenytoin and hypothermia can be additive. Administration of phenytoin in the presence of hypothermia may lead to an adverse cardiac event in children. As phenytoin is a commonly used drug, clinicians need to be aware of this interaction.",
+    "title_plus_abst": "Is phenytoin administration safe in a hypothermic child? A male neonate with a Chiari malformation and a leaking myelomeningocoele underwent ventriculoperitoneal shunt insertion followed by repair of myelomeningocoele. During anaesthesia and surgery, he inadvertently became moderately hypothermic. Intravenous phenytoin was administered during the later part of the surgery for seizure prophylaxis. Following phenytoin administration, the patient developed acute severe bradycardia, refractory to atropine and adrenaline. The cardiac depressant actions of phenytoin and hypothermia can be additive. Administration of phenytoin in the presence of hypothermia may lead to an adverse cardiac event in children. As phenytoin is a commonly used drug, clinicians need to be aware of this interaction.",
+    "pubmed_id": "17049862",
+    "entities": [
+        [
+            3,
+            12,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            38,
+            49,
+            "hypothermic",
+            "Disease",
+            "D007035"
+        ],
+        [
+            79,
+            98,
+            "Chiari malformation",
+            "Disease",
+            "D001139"
+        ],
+        [
+            286,
+            297,
+            "hypothermic",
+            "Disease",
+            "D007035"
+        ],
+        [
+            311,
+            320,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            379,
+            386,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            410,
+            419,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            471,
+            482,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            498,
+            506,
+            "atropine",
+            "Chemical",
+            "D001285"
+        ],
+        [
+            511,
+            521,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            557,
+            566,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            571,
+            582,
+            "hypothermia",
+            "Disease",
+            "D007035"
+        ],
+        [
+            618,
+            627,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            647,
+            658,
+            "hypothermia",
+            "Disease",
+            "D007035"
+        ],
+        [
+            712,
+            721,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ]
+    ],
+    "split_sentence": [
+        "Is phenytoin administration safe in a hypothermic child?",
+        "A male neonate with a Chiari malformation and a leaking myelomeningocoele underwent ventriculoperitoneal shunt insertion followed by repair of myelomeningocoele.",
+        "During anaesthesia and surgery, he inadvertently became moderately hypothermic.",
+        "Intravenous phenytoin was administered during the later part of the surgery for seizure prophylaxis.",
+        "Following phenytoin administration, the patient developed acute severe bradycardia, refractory to atropine and adrenaline.",
+        "The cardiac depressant actions of phenytoin and hypothermia can be additive.",
+        "Administration of phenytoin in the presence of hypothermia may lead to an adverse cardiac event in children.",
+        "As phenytoin is a commonly used drug, clinicians need to be aware of this interaction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010672\tChemical\tphenytoin\tIs <target> phenytoin </target> administration safe in a hypothermic child ?",
+        "D007035\tDisease\thypothermic\tIs phenytoin administration safe in a <target> hypothermic </target> child ?",
+        "D001139\tDisease\tChiari malformation\tA male neonate with a <target> Chiari malformation </target> and a leaking myelomeningocoele underwent ventriculoperitoneal shunt insertion followed by repair of myelomeningocoele .",
+        "D007035\tDisease\thypothermic\tDuring anaesthesia and surgery , he inadvertently became moderately <target> hypothermic </target> .",
+        "D010672\tChemical\tphenytoin\tIntravenous <target> phenytoin </target> was administered during the later part of the surgery for seizure prophylaxis .",
+        "D012640\tDisease\tseizure\tIntravenous phenytoin was administered during the later part of the surgery for <target> seizure </target> prophylaxis .",
+        "D010672\tChemical\tphenytoin\tFollowing <target> phenytoin </target> administration , the patient developed acute severe bradycardia , refractory to atropine and adrenaline .",
+        "D001919\tDisease\tbradycardia\tFollowing phenytoin administration , the patient developed acute severe <target> bradycardia </target> , refractory to atropine and adrenaline .",
+        "D001285\tChemical\tatropine\tFollowing phenytoin administration , the patient developed acute severe bradycardia , refractory to <target> atropine </target> and adrenaline .",
+        "D004837\tChemical\tadrenaline\tFollowing phenytoin administration , the patient developed acute severe bradycardia , refractory to atropine and <target> adrenaline </target> .",
+        "D010672\tChemical\tphenytoin\tThe cardiac depressant actions of <target> phenytoin </target> and hypothermia can be additive .",
+        "D007035\tDisease\thypothermia\tThe cardiac depressant actions of phenytoin and <target> hypothermia </target> can be additive .",
+        "D010672\tChemical\tphenytoin\tAdministration of <target> phenytoin </target> in the presence of hypothermia may lead to an adverse cardiac event in children .",
+        "D007035\tDisease\thypothermia\tAdministration of phenytoin in the presence of <target> hypothermia </target> may lead to an adverse cardiac event in children .",
+        "D010672\tChemical\tphenytoin\tAs <target> phenytoin </target> is a commonly used drug , clinicians need to be aware of this interaction ."
+    ],
+    "lines_lemma": [
+        "D010672\tChemical\tphenytoin\tbe <target> phenytoin </target> administration safe in a hypothermic child ?",
+        "D007035\tDisease\thypothermic\tbe phenytoin administration safe in a <target> hypothermic </target> child ?",
+        "D001139\tDisease\tChiari malformation\ta male neonate with a <target> Chiari malformation </target> and a leaking myelomeningocoele undergo ventriculoperitoneal shunt insertion follow by repair of myelomeningocoele .",
+        "D007035\tDisease\thypothermic\tduring anaesthesia and surgery , he inadvertently become moderately <target> hypothermic </target> .",
+        "D010672\tChemical\tphenytoin\tintravenous <target> phenytoin </target> be administer during the late part of the surgery for seizure prophylaxis .",
+        "D012640\tDisease\tseizure\tintravenous phenytoin be administer during the late part of the surgery for <target> seizure </target> prophylaxis .",
+        "D010672\tChemical\tphenytoin\tfollow <target> phenytoin </target> administration , the patient develop acute severe bradycardia , refractory to atropine and adrenaline .",
+        "D001919\tDisease\tbradycardia\tfollow phenytoin administration , the patient develop acute severe <target> bradycardia </target> , refractory to atropine and adrenaline .",
+        "D001285\tChemical\tatropine\tfollow phenytoin administration , the patient develop acute severe bradycardia , refractory to <target> atropine </target> and adrenaline .",
+        "D004837\tChemical\tadrenaline\tfollow phenytoin administration , the patient develop acute severe bradycardia , refractory to atropine and <target> adrenaline </target> .",
+        "D010672\tChemical\tphenytoin\tthe cardiac depressant action of <target> phenytoin </target> and hypothermia can be additive .",
+        "D007035\tDisease\thypothermia\tthe cardiac depressant action of phenytoin and <target> hypothermia </target> can be additive .",
+        "D010672\tChemical\tphenytoin\tadministration of <target> phenytoin </target> in the presence of hypothermia may lead to an adverse cardiac event in child .",
+        "D007035\tDisease\thypothermia\tadministration of phenytoin in the presence of <target> hypothermia </target> may lead to an adverse cardiac event in child .",
+        "D010672\tChemical\tphenytoin\tas <target> phenytoin </target> be a commonly use drug , clinician need to be aware of this interaction ."
+    ]
+}

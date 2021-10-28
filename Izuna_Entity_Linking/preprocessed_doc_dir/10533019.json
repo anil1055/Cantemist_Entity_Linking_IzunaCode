@@ -1,0 +1,118 @@
+{
+    "title": "Rapid reversal of life-threatening diltiazem-induced tetany with calcium chloride.",
+    "abst": "We describe a patient who developed tetany with sudden respiratory arrest after the infusion of intravenous diltiazem. The administration of calcium chloride rapidly resolved the patient's tetany with prompt recovery of respiratory function, averting the need for more aggressive airway management and ventilatory support. The emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous diltiazem and that calcium chloride may be a rapid and effective remedy.",
+    "title_plus_abst": "Rapid reversal of life-threatening diltiazem-induced tetany with calcium chloride. We describe a patient who developed tetany with sudden respiratory arrest after the infusion of intravenous diltiazem. The administration of calcium chloride rapidly resolved the patient's tetany with prompt recovery of respiratory function, averting the need for more aggressive airway management and ventilatory support. The emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous diltiazem and that calcium chloride may be a rapid and effective remedy.",
+    "pubmed_id": "10533019",
+    "entities": [
+        [
+            35,
+            44,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            53,
+            59,
+            "tetany",
+            "Disease",
+            "D013746"
+        ],
+        [
+            65,
+            81,
+            "calcium chloride",
+            "Chemical",
+            "D002122"
+        ],
+        [
+            119,
+            125,
+            "tetany",
+            "Disease",
+            "D013746"
+        ],
+        [
+            138,
+            156,
+            "respiratory arrest",
+            "Disease",
+            "D012131"
+        ],
+        [
+            191,
+            200,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            224,
+            240,
+            "calcium chloride",
+            "Chemical",
+            "D002122"
+        ],
+        [
+            272,
+            278,
+            "tetany",
+            "Disease",
+            "D013746"
+        ],
+        [
+            468,
+            474,
+            "tetany",
+            "Disease",
+            "D013746"
+        ],
+        [
+            523,
+            532,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            542,
+            558,
+            "calcium chloride",
+            "Chemical",
+            "D002122"
+        ]
+    ],
+    "split_sentence": [
+        "Rapid reversal of life-threatening diltiazem-induced tetany with calcium chloride.",
+        "We describe a patient who developed tetany with sudden respiratory arrest after the infusion of intravenous diltiazem.",
+        "The administration of calcium chloride rapidly resolved the patient's tetany with prompt recovery of respiratory function, averting the need for more aggressive airway management and ventilatory support.",
+        "The emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous diltiazem and that calcium chloride may be a rapid and effective remedy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004110\tChemical\tdiltiazem\tRapid reversal of life-threatening <target> diltiazem </target> -induced tetany with calcium chloride .",
+        "D013746\tDisease\ttetany\tRapid reversal of life-threatening diltiazem-induced <target> tetany </target> with calcium chloride .",
+        "D002122\tChemical\tcalcium chloride\tRapid reversal of life-threatening diltiazem-induced tetany with <target> calcium chloride </target> .",
+        "D013746\tDisease\ttetany\tWe describe a patient who developed <target> tetany </target> with sudden respiratory arrest after the infusion of intravenous diltiazem .",
+        "D012131\tDisease\trespiratory arrest\tWe describe a patient who developed tetany with sudden <target> respiratory arrest </target> after the infusion of intravenous diltiazem .",
+        "D004110\tChemical\tdiltiazem\tWe describe a patient who developed tetany with sudden respiratory arrest after the infusion of intravenous <target> diltiazem </target> .",
+        "D002122\tChemical\tcalcium chloride\tThe administration of <target> calcium chloride </target> rapidly resolved the patient 's tetany with prompt recovery of respiratory function , averting the need for more aggressive airway management and ventilatory support .",
+        "D013746\tDisease\ttetany\tThe administration of calcium chloride rapidly resolved the patient 's <target> tetany </target> with prompt recovery of respiratory function , averting the need for more aggressive airway management and ventilatory support .",
+        "D013746\tDisease\ttetany\tThe emergency physician should be aware that life-threatening <target> tetany </target> may accompany the administration of intravenous diltiazem and that calcium chloride may be a rapid and effective remedy .",
+        "D004110\tChemical\tdiltiazem\tThe emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous <target> diltiazem </target> and that calcium chloride may be a rapid and effective remedy .",
+        "D002122\tChemical\tcalcium chloride\tThe emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous diltiazem and that <target> calcium chloride </target> may be a rapid and effective remedy ."
+    ],
+    "lines_lemma": [
+        "D004110\tChemical\tdiltiazem\trapid reversal of life-threatening <target> diltiazem </target> -induced tetany with calcium chloride .",
+        "D013746\tDisease\ttetany\trapid reversal of life-threatening diltiazem-induced <target> tetany </target> with calcium chloride .",
+        "D002122\tChemical\tcalcium chloride\trapid reversal of life-threatening diltiazem-induced tetany with <target> calcium chloride </target> .",
+        "D013746\tDisease\ttetany\twe describe a patient who develop <target> tetany </target> with sudden respiratory arrest after the infusion of intravenous diltiazem .",
+        "D012131\tDisease\trespiratory arrest\twe describe a patient who develop tetany with sudden <target> respiratory arrest </target> after the infusion of intravenous diltiazem .",
+        "D004110\tChemical\tdiltiazem\twe describe a patient who develop tetany with sudden respiratory arrest after the infusion of intravenous <target> diltiazem </target> .",
+        "D002122\tChemical\tcalcium chloride\tthe administration of <target> calcium chloride </target> rapidly resolve the patient 's tetany with prompt recovery of respiratory function , avert the need for more aggressive airway management and ventilatory support .",
+        "D013746\tDisease\ttetany\tthe administration of calcium chloride rapidly resolve the patient 's <target> tetany </target> with prompt recovery of respiratory function , avert the need for more aggressive airway management and ventilatory support .",
+        "D013746\tDisease\ttetany\tthe emergency physician should be aware that life-threatening <target> tetany </target> may accompany the administration of intravenous diltiazem and that calcium chloride may be a rapid and effective remedy .",
+        "D004110\tChemical\tdiltiazem\tthe emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous <target> diltiazem </target> and that calcium chloride may be a rapid and effective remedy .",
+        "D002122\tChemical\tcalcium chloride\tthe emergency physician should be aware that life-threatening tetany may accompany the administration of intravenous diltiazem and that <target> calcium chloride </target> may be a rapid and effective remedy ."
+    ]
+}

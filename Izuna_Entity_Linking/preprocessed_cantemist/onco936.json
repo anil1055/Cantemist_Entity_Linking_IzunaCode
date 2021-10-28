@@ -1,0 +1,130 @@
+{
+    "entities": [
+        [
+            2250,
+            2264,
+            "carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            2226,
+            2236,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            1589,
+            1624,
+            "carcinoma infiltrante NOS, grado II",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/32/H"
+        ],
+        [
+            2088,
+            2107,
+            "implantes meníngeos",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2290,
+            2311,
+            "Carcinoma infiltrante",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/3/H"
+        ],
+        [
+            2375,
+            2390,
+            "afectación ósea",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1861,
+            1882,
+            "diseminación pulmonar",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2472,
+            2487,
+            "afectación ósea",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            725,
+            743,
+            "nódulos pulmonares",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Se realiza punción lumbar con citología negativa para malignidad, descartando  <objetivo> carcinomatosis </objetivo> meníngea.",
+        "Se realiza punción lumbar con citología negativa para  <objetivo> malignidad </objetivo>  descartando carcinomatosis meníngea.",
+        "Dado el hallazgo en la exploración física, se realiza mamografía que muestra una imagen en cuadrante superoexterno izquierdo que se biopsia ( <objetivo> carcinoma infiltrante NOS, grado II </objetivo>  T2.",
+        "Se amplía estudio con resonancia magnética que confirma masa intrarraquídea extramedular sugerente de  <objetivo> implantes meníngeos </objetivo> (D12-L2) que condiciona grave estenosis de canal a nivel de L1.",
+        "»  <objetivo> Carcinoma infiltrante </objetivo> de mama luminal A (RRHH 90 %, HER-2, Ki67 10 %) estadio IV por afectación ósea, pulmonar y ganglionar.",
+        "» Carcinoma infiltrante de mama luminal A (RRHH 90 %, HER-2, Ki67 10 %) estadio IV por  <objetivo> afectación ósea </objetivo>  pulmonar y ganglionar.",
+        "» Dolor nociceptivo visceral y neuropático en relación a  <objetivo> afectación ósea </objetivo> ",
+        "Se completa estudio de extensión con PET-TC que muestra adenopatías locorregionales axilares, mediastínicas,  <objetivo> diseminación pulmonar </objetivo>  ósea y ocupación del conducto raquídeo entre D12 y L3, a expensas de lesión aparentemente extraaxial.",
+        "» Carcinoma infiltrante de mama luminal A (RRHH 90 %, HER-2, Ki67 10 %) estadio IV por  <objetivo> afectación ósea </objetivo>  pulmonar y ganglionar.",
+        "» Dolor nociceptivo visceral y neuropático en relación a  <objetivo> afectación ósea </objetivo> ",
+        "Además, se solicita radiografía de tórax que muestra múltiples  <objetivo> nódulos pulmonares </objetivo> diseminados; motivo por el cual ingresa en Medicina Interna."
+    ],
+    "lines_lemma": [
+        "él realizar punción lumbar con citología negativo para malignidad , descartar   <objetivo> carcinomatosis </objetivo> meníngea .",
+        "él realizar punción lumbar con citología negativo para   <objetivo> malignidad </objetivo>   descartar carcinomatosis meníngea .",
+        "dar el hallazgo en el exploración físico , él realizar mamografía que mostrar uno imagen en cuadrante superoexterno izquierdo que él biopsiar ( <objetivo> carcinomar infiltrante NOS , grado II </objetivo>   T2 .",
+        "él amplíar estudio con resonancia magnético que confirmar masa intrarraquídeo extramedular sugerente de   <objetivo> implant meníngeo </objetivo> ( D12-L2 ) que condicionar grave estenosis de canal a nivel de L1 .",
+        "»   <objetivo> Carcinoma infiltrante </objetivo> de mama luminal A ( RRHH 90 % , HER-2 , ki67 10 % ) estadio IV por afectación óseo , pulmonar y ganglionar .",
+        "» Carcinoma infiltrante de mama luminal A ( RRHH 90 % , HER-2 , ki67 10 % ) estadio IV por   <objetivo> afectación óseo </objetivo>   pulmonar y ganglionar .",
+        "» Dolor nociceptivo visceral y neuropático en relación a   <objetivo> afectación óseo </objetivo>",
+        "él completo estudio de extensión con PET-TC que mostrar adenopatía locorregional axilar , mediastínica ,   <objetivo> diseminación pulmonar </objetivo>   óseo y ocupación del conducto raquídeo entre D12 y L3 , a expensas de lesión aparentemente extraaxial .",
+        "» Carcinoma infiltrante de mama luminal A ( RRHH 90 % , HER-2 , ki67 10 % ) estadio IV por   <objetivo> afectación óseo </objetivo>   pulmonar y ganglionar .",
+        "» Dolor nociceptivo visceral y neuropático en relación a   <objetivo> afectación óseo </objetivo>",
+        "además , él solicitar radiografía de tórax que mostrar múltiple   <objetivo> nódulo pulmonar </objetivo> diseminado ; motivo por el cual ingresar en Medicina Interna ."
+    ],
+    "pubmed_id": "onco936",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 56 años, fumadora durante más de 40 años (índice paquetes-año: 12) y en tratamiento con lisinopril por hipertensión arterial.",
+        "Menarquia a los 16 años y menopausia a los 50 años, dos gestaciones a término sin lactancia natural y sin ningún control ginecológico rutinario.",
+        "En agosto de 2016, consulta a su médico de Atención Primaria por dolor lumbar bilateral etiquetado de lumbociatalgia en tratamiento con paracetamol y metamizol.",
+        "En diciembre de 2016, consulta de nuevo por astenia sin pérdida de peso objetivando anemia ferropénica, por lo que comienza tratamiento con hierro oral y se realiza gastroscopia mostrando leve gastritis antral.",
+        "Además, se solicita radiografía de tórax que muestra múltiples nódulos pulmonares diseminados; motivo por el cual ingresa en Medicina Interna.",
+        "Exploración física",
+        "Destaca una lesión de unos 3 cm no fija a piel ni a planos profundos en el cuadrante superoexterno de la mama izquierda junto con una adenopatía de 1,5 cm en fosa supraclavicular derecha.",
+        "No adenopatías axilares, cervicales ni megalias palpables.",
+        "Auscultación cardiopulmonar normal.",
+        "Durante la exploración neurológica destacaba pares craneales sin alteraciones.",
+        "No pérdida de fuerza ni déficits sensitivos.",
+        "Sin paraparesia, ni hipertonía.",
+        "Sin alteración de esfínteres, ni claudicación.",
+        "Reflejos osteomusculares bicipitales, rotulianos y aquíleos normales, reflejo cutáneo plantar flexor bilateral.",
+        "Pruebas complementarias",
+        "Dado el hallazgo en la exploración física, se realiza mamografía que muestra una imagen en cuadrante superoexterno izquierdo que se biopsia (carcinoma infiltrante NOS, grado II, T2.",
+        "Receptores hormonales (RRHH) 90 %, HER-2, Ki67 10 %).",
+        "Función renal, hepática, bioquímica y recuentos celulares normales.",
+        "Se completa estudio de extensión con PET-TC que muestra adenopatías locorregionales axilares, mediastínicas, diseminación pulmonar, ósea y ocupación del conducto raquídeo entre D12 y L3, a expensas de lesión aparentemente extraaxial.",
+        "Se amplía estudio con resonancia magnética que confirma masa intrarraquídea extramedular sugerente de implantes meníngeos (D12-L2) que condiciona grave estenosis de canal a nivel de L1.",
+        "Se realiza punción lumbar con citología negativa para malignidad, descartando carcinomatosis meníngea.",
+        "Diagnóstico",
+        "» Carcinoma infiltrante de mama luminal A (RRHH 90 %, HER-2, Ki67 10 %) estadio IV por afectación ósea, pulmonar y ganglionar.",
+        "» Dolor nociceptivo visceral y neuropático en relación a afectación ósea.",
+        "Tratamiento",
+        "» Radioterapia antiálgica sobre D12-L3 (30 Gy) para control inicial de la lesión intrarraquídea.",
+        "» Hormonoterapia: entra en ensayo clínico fulvestrant+ palbociclib/placebo (FLIPPER).",
+        "Evolución",
+        "Ha iniciado tratamiento según esquema de ensayo clínico FLIPPER sin ningún efecto adverso.",
+        "ECOG 0 hasta el momento.",
+        "En la PET-TC realizada tras radioterapia (solicitado como parte de evaluación inicial del ensayo clínico), se observa disminución de la lesión intrarraquídea."
+    ],
+    "text": "Anamnesis\nMujer de 56 años, fumadora durante más de 40 años (índice paquetes-año: 12) y en tratamiento con lisinopril por hipertensión arterial. Menarquia a los 16 años y menopausia a los 50 años, dos gestaciones a término sin lactancia natural y sin ningún control ginecológico rutinario.\nEn agosto de 2016, consulta a su médico de Atención Primaria por dolor lumbar bilateral etiquetado de lumbociatalgia en tratamiento con paracetamol y metamizol.\nEn diciembre de 2016, consulta de nuevo por astenia sin pérdida de peso objetivando anemia ferropénica, por lo que comienza tratamiento con hierro oral y se realiza gastroscopia mostrando leve gastritis antral. Además, se solicita radiografía de tórax que muestra múltiples nódulos pulmonares diseminados; motivo por el cual ingresa en Medicina Interna.\n\nExploración física\nDestaca una lesión de unos 3 cm no fija a piel ni a planos profundos en el cuadrante superoexterno de la mama izquierda junto con una adenopatía de 1,5 cm en fosa supraclavicular derecha. No adenopatías axilares, cervicales ni megalias palpables. Auscultación cardiopulmonar normal.\nDurante la exploración neurológica destacaba pares craneales sin alteraciones. No pérdida de fuerza ni déficits sensitivos. Sin paraparesia, ni hipertonía. Sin alteración de esfínteres, ni claudicación. Reflejos osteomusculares bicipitales, rotulianos y aquíleos normales, reflejo cutáneo plantar flexor bilateral.\n\nPruebas complementarias\nDado el hallazgo en la exploración física, se realiza mamografía que muestra una imagen en cuadrante superoexterno izquierdo que se biopsia (carcinoma infiltrante NOS, grado II, T2. Receptores hormonales (RRHH) 90 %, HER-2, Ki67 10 %). Función renal, hepática, bioquímica y recuentos celulares normales.\nSe completa estudio de extensión con PET-TC que muestra adenopatías locorregionales axilares, mediastínicas, diseminación pulmonar, ósea y ocupación del conducto raquídeo entre D12 y L3, a expensas de lesión aparentemente extraaxial.\nSe amplía estudio con resonancia magnética que confirma masa intrarraquídea extramedular sugerente de implantes meníngeos (D12-L2) que condiciona grave estenosis de canal a nivel de L1. Se realiza punción lumbar con citología negativa para malignidad, descartando carcinomatosis meníngea.\n\nDiagnóstico\n» Carcinoma infiltrante de mama luminal A (RRHH 90 %, HER-2, Ki67 10 %) estadio IV por afectación ósea, pulmonar y ganglionar.\n» Dolor nociceptivo visceral y neuropático en relación a afectación ósea.\n\nTratamiento\n» Radioterapia antiálgica sobre D12-L3 (30 Gy) para control inicial de la lesión intrarraquídea.\n» Hormonoterapia: entra en ensayo clínico fulvestrant+ palbociclib/placebo (FLIPPER).\n\nEvolución\nHa iniciado tratamiento según esquema de ensayo clínico FLIPPER sin ningún efecto adverso. ECOG 0 hasta el momento. En la PET-TC realizada tras radioterapia (solicitado como parte de evaluación inicial del ensayo clínico), se observa disminución de la lesión intrarraquídea."
+}

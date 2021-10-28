@@ -1,0 +1,186 @@
+{
+    "title": "A novel, multiple symptom model of obsessive-compulsive-like behaviors in animals.",
+    "abst": "BACKGROUND: Current animal models of obsessive-compulsive disorder (OCD) typically involve acute, drug-induced symptom provocation or a genetic association with stereotypies or anxiety. None of these current models demonstrate multiple OCD-like behaviors. METHODS: Neonatal rats were treated with the tricyclic antidepressant clomipramine or vehicle between days 9 and 16 twice daily and behaviorally tested in adulthood. RESULTS: Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety (elevated plus maze and marble burying), behavioral inflexibility (perseveration in the spontaneous alternation task and impaired reversal learning), working memory impairment (e.g., win-shift paradigm), hoarding, and corticostriatal dysfunction. Dopamine D2 receptors were elevated in the striatum, whereas serotonin 2C, but not serotonin 1A, receptors were elevated in the orbital frontal cortex. CONCLUSIONS: This is the first demonstration of multiple symptoms consistent with an OCD-like profile in animals. Moreover, these behaviors are accompanied by biochemical changes in brain regions previously identified as relevant to OCD. This novel model of OCD demonstrates that drug exposure during a sensitive period can program disease-like systems permanently, which could have implications for current and future therapeutic strategies for this and other psychiatric disorders.",
+    "title_plus_abst": "A novel, multiple symptom model of obsessive-compulsive-like behaviors in animals. BACKGROUND: Current animal models of obsessive-compulsive disorder (OCD) typically involve acute, drug-induced symptom provocation or a genetic association with stereotypies or anxiety. None of these current models demonstrate multiple OCD-like behaviors. METHODS: Neonatal rats were treated with the tricyclic antidepressant clomipramine or vehicle between days 9 and 16 twice daily and behaviorally tested in adulthood. RESULTS: Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety (elevated plus maze and marble burying), behavioral inflexibility (perseveration in the spontaneous alternation task and impaired reversal learning), working memory impairment (e.g., win-shift paradigm), hoarding, and corticostriatal dysfunction. Dopamine D2 receptors were elevated in the striatum, whereas serotonin 2C, but not serotonin 1A, receptors were elevated in the orbital frontal cortex. CONCLUSIONS: This is the first demonstration of multiple symptoms consistent with an OCD-like profile in animals. Moreover, these behaviors are accompanied by biochemical changes in brain regions previously identified as relevant to OCD. This novel model of OCD demonstrates that drug exposure during a sensitive period can program disease-like systems permanently, which could have implications for current and future therapeutic strategies for this and other psychiatric disorders.",
+    "pubmed_id": "20619828",
+    "entities": [
+        [
+            35,
+            70,
+            "obsessive-compulsive-like behaviors",
+            "Disease",
+            "D009771"
+        ],
+        [
+            120,
+            149,
+            "obsessive-compulsive disorder",
+            "Disease",
+            "D009771"
+        ],
+        [
+            151,
+            154,
+            "OCD",
+            "Disease",
+            "D009771"
+        ],
+        [
+            260,
+            267,
+            "anxiety",
+            "Disease",
+            "D001008"
+        ],
+        [
+            319,
+            322,
+            "OCD",
+            "Disease",
+            "D009771"
+        ],
+        [
+            394,
+            408,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            409,
+            421,
+            "clomipramine",
+            "Chemical",
+            "D002997"
+        ],
+        [
+            514,
+            526,
+            "Clomipramine",
+            "Chemical",
+            "D002997"
+        ],
+        [
+            631,
+            638,
+            "anxiety",
+            "Disease",
+            "D001008"
+        ],
+        [
+            797,
+            814,
+            "memory impairment",
+            "Disease",
+            "D008569"
+        ],
+        [
+            843,
+            851,
+            "hoarding",
+            "Disease",
+            "D060845"
+        ],
+        [
+            886,
+            894,
+            "Dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            947,
+            956,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            969,
+            978,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            1123,
+            1126,
+            "OCD",
+            "Disease",
+            "D009771"
+        ],
+        [
+            1271,
+            1274,
+            "OCD",
+            "Disease",
+            "D009771"
+        ],
+        [
+            1296,
+            1299,
+            "OCD",
+            "Disease",
+            "D009771"
+        ],
+        [
+            1499,
+            1520,
+            "psychiatric disorders",
+            "Disease",
+            "D001523"
+        ]
+    ],
+    "split_sentence": [
+        "A novel, multiple symptom model of obsessive-compulsive-like behaviors in animals.",
+        "BACKGROUND: Current animal models of obsessive-compulsive disorder (OCD) typically involve acute, drug-induced symptom provocation or a genetic association with stereotypies or anxiety.",
+        "None of these current models demonstrate multiple OCD-like behaviors.",
+        "METHODS: Neonatal rats were treated with the tricyclic antidepressant clomipramine or vehicle between days 9 and 16 twice daily and behaviorally tested in adulthood.",
+        "RESULTS: Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety (elevated plus maze and marble burying), behavioral inflexibility (perseveration in the spontaneous alternation task and impaired reversal learning), working memory impairment (e.g., win-shift paradigm), hoarding, and corticostriatal dysfunction.",
+        "Dopamine D2 receptors were elevated in the striatum, whereas serotonin 2C, but not serotonin 1A, receptors were elevated in the orbital frontal cortex.",
+        "CONCLUSIONS: This is the first demonstration of multiple symptoms consistent with an OCD-like profile in animals.",
+        "Moreover, these behaviors are accompanied by biochemical changes in brain regions previously identified as relevant to OCD.",
+        "This novel model of OCD demonstrates that drug exposure during a sensitive period can program disease-like systems permanently, which could have implications for current and future therapeutic strategies for this and other psychiatric disorders."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009771\tDisease\tobsessive-compulsive-like behaviors\tA novel , multiple symptom model of <target> obsessive-compulsive-like behaviors </target> in animals .",
+        "D009771\tDisease\tobsessive-compulsive disorder\tBACKGROUND : Current animal models of <target> obsessive-compulsive disorder </target> ( OCD ) typically involve acute , drug-induced symptom provocation or a genetic association with stereotypies or anxiety .",
+        "D009771\tDisease\tOCD\tBACKGROUND : Current animal models of obsessive-compulsive disorder ( <target> OCD </target> ) typically involve acute , drug-induced symptom provocation or a genetic association with stereotypies or anxiety .",
+        "D001008\tDisease\tanxiety\tBACKGROUND : Current animal models of obsessive-compulsive disorder ( OCD ) typically involve acute , drug-induced symptom provocation or a genetic association with stereotypies or <target> anxiety </target> .",
+        "D009771\tDisease\tOCD\tNone of these current models demonstrate multiple <target> OCD </target> -like behaviors .",
+        "D000928\tChemical\tantidepressant\tMETHODS : Neonatal rats were treated with the tricyclic <target> antidepressant </target> clomipramine or vehicle between days 9 and 16 twice daily and behaviorally tested in adulthood .",
+        "D002997\tChemical\tclomipramine\tMETHODS : Neonatal rats were treated with the tricyclic antidepressant <target> clomipramine </target> or vehicle between days 9 and 16 twice daily and behaviorally tested in adulthood .",
+        "D002997\tChemical\tClomipramine\tRESULTS : <target> Clomipramine </target> exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , working memory impairment ( e.g. , win-shift paradigm ) , hoarding , and corticostriatal dysfunction .",
+        "D001008\tDisease\tanxiety\tRESULTS : Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced <target> anxiety </target> ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , working memory impairment ( e.g. , win-shift paradigm ) , hoarding , and corticostriatal dysfunction .",
+        "D008569\tDisease\tmemory impairment\tRESULTS : Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , working <target> memory impairment </target> ( e.g. , win-shift paradigm ) , hoarding , and corticostriatal dysfunction .",
+        "D060845\tDisease\thoarding\tRESULTS : Clomipramine exposure in immature rats produced significant behavioral and biochemical changes that include enhanced anxiety ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , working memory impairment ( e.g. , win-shift paradigm ) , <target> hoarding </target> , and corticostriatal dysfunction .",
+        "D004298\tChemical\tDopamine\t<target> Dopamine </target> D2 receptors were elevated in the striatum , whereas serotonin 2C , but not serotonin 1A , receptors were elevated in the orbital frontal cortex .",
+        "D012701\tChemical\tserotonin\tDopamine D2 receptors were elevated in the striatum , whereas <target> serotonin </target> 2C , but not serotonin 1A , receptors were elevated in the orbital frontal cortex .",
+        "D012701\tChemical\tserotonin\tDopamine D2 receptors were elevated in the striatum , whereas serotonin 2C , but not <target> serotonin </target> 1A , receptors were elevated in the orbital frontal cortex .",
+        "D009771\tDisease\tOCD\tCONCLUSIONS : This is the first demonstration of multiple symptoms consistent with an <target> OCD </target> -like profile in animals .",
+        "D009771\tDisease\tOCD\tMoreover , these behaviors are accompanied by biochemical changes in brain regions previously identified as relevant to <target> OCD </target> .",
+        "D009771\tDisease\tOCD\tThis novel model of <target> OCD </target> demonstrates that drug exposure during a sensitive period can program disease-like systems permanently , which could have implications for current and future therapeutic strategies for this and other psychiatric disorders .",
+        "D001523\tDisease\tpsychiatric disorders\tThis novel model of OCD demonstrates that drug exposure during a sensitive period can program disease-like systems permanently , which could have implications for current and future therapeutic strategies for this and other <target> psychiatric disorders </target> ."
+    ],
+    "lines_lemma": [
+        "D009771\tDisease\tobsessive-compulsive-like behaviors\ta novel , multiple symptom model of <target> obsessive-compulsive-like behavior </target> in animal .",
+        "D009771\tDisease\tobsessive-compulsive disorder\tbackground : current animal model of <target> obsessive-compulsive disorder </target> ( ocd ) typically involve acute , drug-induced symptom provocation or a genetic association with stereotypie or anxiety .",
+        "D009771\tDisease\tOCD\tbackground : current animal model of obsessive-compulsive disorder ( <target> ocd </target> ) typically involve acute , drug-induced symptom provocation or a genetic association with stereotypie or anxiety .",
+        "D001008\tDisease\tanxiety\tbackground : current animal model of obsessive-compulsive disorder ( ocd ) typically involve acute , drug-induced symptom provocation or a genetic association with stereotypie or <target> anxiety </target> .",
+        "D009771\tDisease\tOCD\tnone of these current model demonstrate multiple <target> ocd </target> -like behavior .",
+        "D000928\tChemical\tantidepressant\tmethod : neonatal rat be treat with the tricyclic <target> antidepressant </target> clomipramine or vehicle between day 9 and 16 twice daily and behaviorally test in adulthood .",
+        "D002997\tChemical\tclomipramine\tmethod : neonatal rat be treat with the tricyclic antidepressant <target> clomipramine </target> or vehicle between day 9 and 16 twice daily and behaviorally test in adulthood .",
+        "D002997\tChemical\tClomipramine\tresult : <target> Clomipramine </target> exposure in immature rat produce significant behavioral and biochemical change that include enhance anxiety ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , work memory impairment ( e.g. , win-shift paradigm ) , hoarding , and corticostriatal dysfunction .",
+        "D001008\tDisease\tanxiety\tresult : clomipramine exposure in immature rat produce significant behavioral and biochemical change that include enhance <target> anxiety </target> ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , work memory impairment ( e.g. , win-shift paradigm ) , hoarding , and corticostriatal dysfunction .",
+        "D008569\tDisease\tmemory impairment\tresult : clomipramine exposure in immature rat produce significant behavioral and biochemical change that include enhance anxiety ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , work <target> memory impairment </target> ( e.g. , win-shift paradigm ) , hoarding , and corticostriatal dysfunction .",
+        "D060845\tDisease\thoarding\tresult : clomipramine exposure in immature rat produce significant behavioral and biochemical change that include enhance anxiety ( elevated plus maze and marble burying ) , behavioral inflexibility ( perseveration in the spontaneous alternation task and impaired reversal learning ) , work memory impairment ( e.g. , win-shift paradigm ) , <target> hoarding </target> , and corticostriatal dysfunction .",
+        "D004298\tChemical\tDopamine\t<target> Dopamine </target> d2 receptor be elevated in the striatum , whereas serotonin 2c , but not serotonin 1a , receptor be elevated in the orbital frontal cortex .",
+        "D012701\tChemical\tserotonin\tdopamine d2 receptor be elevated in the striatum , whereas <target> serotonin </target> 2C , but not serotonin 1a , receptor be elevated in the orbital frontal cortex .",
+        "D012701\tChemical\tserotonin\tdopamine d2 receptor be elevated in the striatum , whereas serotonin 2c , but not <target> serotonin </target> 1a , receptor be elevated in the orbital frontal cortex .",
+        "D009771\tDisease\tOCD\tconclusion : this be the first demonstration of multiple symptom consistent with an <target> ocd </target> -like profile in animal .",
+        "D009771\tDisease\tOCD\tmoreover , these behavior be accompany by biochemical change in brain region previously identify as relevant to <target> ocd </target> .",
+        "D009771\tDisease\tOCD\tthis novel model of <target> ocd </target> demonstrate that drug exposure during a sensitive period can program disease-like system permanently , which could have implication for current and future therapeutic strategy for this and other psychiatric disorder .",
+        "D001523\tDisease\tpsychiatric disorders\tthis novel model of ocd demonstrate that drug exposure during a sensitive period can program disease-like system permanently , which could have implication for current and future therapeutic strategy for this and other <target> psychiatric disorder </target> ."
+    ]
+}

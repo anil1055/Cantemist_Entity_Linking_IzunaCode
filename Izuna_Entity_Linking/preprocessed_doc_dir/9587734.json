@@ -1,0 +1,176 @@
+{
+    "title": "Suxamethonium-induced cardiac arrest and death following 5 days of immobilization.",
+    "abst": "The present report describes a case of cardiac arrest and subsequent death as a result of hyperkalaemia following the use of suxamethonium in a 23-year-old Malawian woman. Five days after the onset of the symptoms of meningitis, the patient aspirated stomach contents and needed endotracheal intubation. Forty seconds after injection of suxamethonium, bradycardia and cardiac arrest occurred. Attempts to resuscitate the patient were not successful. The serum level of potassium was observed to be 8.4 mequiv L-1. Apart from the reduction in the patient's level of consciousness, there were no signs of motor neurone damage or of any of the other known predisposing conditions for hyperkalaemia following the administration of suxamethonium. It is postulated that her death was caused by hypersensitivity to suxamethonium, associated with her 5-day immobilization.",
+    "title_plus_abst": "Suxamethonium-induced cardiac arrest and death following 5 days of immobilization. The present report describes a case of cardiac arrest and subsequent death as a result of hyperkalaemia following the use of suxamethonium in a 23-year-old Malawian woman. Five days after the onset of the symptoms of meningitis, the patient aspirated stomach contents and needed endotracheal intubation. Forty seconds after injection of suxamethonium, bradycardia and cardiac arrest occurred. Attempts to resuscitate the patient were not successful. The serum level of potassium was observed to be 8.4 mequiv L-1. Apart from the reduction in the patient's level of consciousness, there were no signs of motor neurone damage or of any of the other known predisposing conditions for hyperkalaemia following the administration of suxamethonium. It is postulated that her death was caused by hypersensitivity to suxamethonium, associated with her 5-day immobilization.",
+    "pubmed_id": "9587734",
+    "entities": [
+        [
+            0,
+            13,
+            "Suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            22,
+            36,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            41,
+            46,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            122,
+            136,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            152,
+            157,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            173,
+            186,
+            "hyperkalaemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            208,
+            221,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            300,
+            310,
+            "meningitis",
+            "Disease",
+            "D008581"
+        ],
+        [
+            420,
+            433,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            435,
+            446,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            451,
+            465,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            552,
+            561,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            764,
+            777,
+            "hyperkalaemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            810,
+            823,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            851,
+            856,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            871,
+            887,
+            "hypersensitivity",
+            "Disease",
+            "D004342"
+        ],
+        [
+            891,
+            904,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ]
+    ],
+    "split_sentence": [
+        "Suxamethonium-induced cardiac arrest and death following 5 days of immobilization.",
+        "The present report describes a case of cardiac arrest and subsequent death as a result of hyperkalaemia following the use of suxamethonium in a 23-year-old Malawian woman.",
+        "Five days after the onset of the symptoms of meningitis, the patient aspirated stomach contents and needed endotracheal intubation.",
+        "Forty seconds after injection of suxamethonium, bradycardia and cardiac arrest occurred.",
+        "Attempts to resuscitate the patient were not successful.",
+        "The serum level of potassium was observed to be 8.4 mequiv L-1.",
+        "Apart from the reduction in the patient's level of consciousness, there were no signs of motor neurone damage or of any of the other known predisposing conditions for hyperkalaemia following the administration of suxamethonium.",
+        "It is postulated that her death was caused by hypersensitivity to suxamethonium, associated with her 5-day immobilization."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> -induced cardiac arrest and death following 5 days of immobilization .",
+        "D006323\tDisease\tcardiac arrest\tSuxamethonium-induced <target> cardiac arrest </target> and death following 5 days of immobilization .",
+        "D003643\tDisease\tdeath\tSuxamethonium-induced cardiac arrest and <target> death </target> following 5 days of immobilization .",
+        "D006323\tDisease\tcardiac arrest\tThe present report describes a case of <target> cardiac arrest </target> and subsequent death as a result of hyperkalaemia following the use of suxamethonium in a 23-year-old Malawian woman .",
+        "D003643\tDisease\tdeath\tThe present report describes a case of cardiac arrest and subsequent <target> death </target> as a result of hyperkalaemia following the use of suxamethonium in a 23-year-old Malawian woman .",
+        "D006947\tDisease\thyperkalaemia\tThe present report describes a case of cardiac arrest and subsequent death as a result of <target> hyperkalaemia </target> following the use of suxamethonium in a 23-year-old Malawian woman .",
+        "D013390\tChemical\tsuxamethonium\tThe present report describes a case of cardiac arrest and subsequent death as a result of hyperkalaemia following the use of <target> suxamethonium </target> in a 23-year-old Malawian woman .",
+        "D008581\tDisease\tmeningitis\tFive days after the onset of the symptoms of <target> meningitis </target> , the patient aspirated stomach contents and needed endotracheal intubation .",
+        "D013390\tChemical\tsuxamethonium\tForty seconds after injection of <target> suxamethonium </target> , bradycardia and cardiac arrest occurred .",
+        "D001919\tDisease\tbradycardia\tForty seconds after injection of suxamethonium , <target> bradycardia </target> and cardiac arrest occurred .",
+        "D006323\tDisease\tcardiac arrest\tForty seconds after injection of suxamethonium , bradycardia and <target> cardiac arrest </target> occurred .",
+        "D011188\tChemical\tpotassium\tThe serum level of <target> potassium </target> was observed to be 8.4 mequiv L-1 .",
+        "D006947\tDisease\thyperkalaemia\tApart from the reduction in the patient 's level of consciousness , there were no signs of motor neurone damage or of any of the other known predisposing conditions for <target> hyperkalaemia </target> following the administration of suxamethonium .",
+        "D013390\tChemical\tsuxamethonium\tApart from the reduction in the patient 's level of consciousness , there were no signs of motor neurone damage or of any of the other known predisposing conditions for hyperkalaemia following the administration of <target> suxamethonium </target> .",
+        "D003643\tDisease\tdeath\tIt is postulated that her <target> death </target> was caused by hypersensitivity to suxamethonium , associated with her 5-day immobilization .",
+        "D004342\tDisease\thypersensitivity\tIt is postulated that her death was caused by <target> hypersensitivity </target> to suxamethonium , associated with her 5-day immobilization .",
+        "D013390\tChemical\tsuxamethonium\tIt is postulated that her death was caused by hypersensitivity to <target> suxamethonium </target> , associated with her 5-day immobilization ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> -induced cardiac arrest and death follow 5 day of immobilization .",
+        "D006323\tDisease\tcardiac arrest\tsuxamethonium-induced <target> cardiac arrest </target> and death follow 5 day of immobilization .",
+        "D003643\tDisease\tdeath\tsuxamethonium-induced cardiac arrest and <target> death </target> follow 5 day of immobilization .",
+        "D006323\tDisease\tcardiac arrest\tthe present report describe a case of <target> cardiac arrest </target> and subsequent death as a result of hyperkalaemia follow the use of suxamethonium in a 23-year-old malawian woman .",
+        "D003643\tDisease\tdeath\tthe present report describe a case of cardiac arrest and subsequent <target> death </target> as a result of hyperkalaemia follow the use of suxamethonium in a 23-year-old malawian woman .",
+        "D006947\tDisease\thyperkalaemia\tthe present report describe a case of cardiac arrest and subsequent death as a result of <target> hyperkalaemia </target> follow the use of suxamethonium in a 23-year-old malawian woman .",
+        "D013390\tChemical\tsuxamethonium\tthe present report describe a case of cardiac arrest and subsequent death as a result of hyperkalaemia follow the use of <target> suxamethonium </target> in a 23-year-old malawian woman .",
+        "D008581\tDisease\tmeningitis\tfive day after the onset of the symptom of <target> meningitis </target> , the patient aspirate stomach content and need endotracheal intubation .",
+        "D013390\tChemical\tsuxamethonium\tforty second after injection of <target> suxamethonium </target> , bradycardia and cardiac arrest occur .",
+        "D001919\tDisease\tbradycardia\tforty second after injection of suxamethonium , <target> bradycardia </target> and cardiac arrest occur .",
+        "D006323\tDisease\tcardiac arrest\tforty second after injection of suxamethonium , bradycardia and <target> cardiac arrest </target> occur .",
+        "D011188\tChemical\tpotassium\tthe serum level of <target> potassium </target> be observe to be 8.4 mequiv l-1 .",
+        "D006947\tDisease\thyperkalaemia\tapart from the reduction in the patient 's level of consciousness , there be no sign of motor neurone damage or of any of the other known predispose condition for <target> hyperkalaemia </target> follow the administration of suxamethonium .",
+        "D013390\tChemical\tsuxamethonium\tapart from the reduction in the patient 's level of consciousness , there be no sign of motor neurone damage or of any of the other known predispose condition for hyperkalaemia follow the administration of <target> suxamethonium </target> .",
+        "D003643\tDisease\tdeath\tit be postulate that her <target> death </target> be cause by hypersensitivity to suxamethonium , associate with her 5-day immobilization .",
+        "D004342\tDisease\thypersensitivity\tit be postulate that her death be cause by <target> hypersensitivity </target> to suxamethonium , associate with her 5-day immobilization .",
+        "D013390\tChemical\tsuxamethonium\tit be postulate that her death be cause by hypersensitivity to <target> suxamethonium </target> , associate with her 5-day immobilization ."
+    ]
+}

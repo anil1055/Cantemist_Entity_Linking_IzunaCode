@@ -1,0 +1,62 @@
+{
+    "title": "Hypomania-like syndrome induced by olanzapine.",
+    "abst": "We report a female patient with a diagnosis of a not otherwise specified psychotic disorder (DSM-IV) who developed hypomania shortly after the introduction of olanzapine treatment.",
+    "title_plus_abst": "Hypomania-like syndrome induced by olanzapine. We report a female patient with a diagnosis of a not otherwise specified psychotic disorder (DSM-IV) who developed hypomania shortly after the introduction of olanzapine treatment.",
+    "pubmed_id": "10565806",
+    "entities": [
+        [
+            0,
+            9,
+            "Hypomania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            35,
+            45,
+            "olanzapine",
+            "Chemical",
+            "C076029"
+        ],
+        [
+            120,
+            138,
+            "psychotic disorder",
+            "Disease",
+            "D011618"
+        ],
+        [
+            162,
+            171,
+            "hypomania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            206,
+            216,
+            "olanzapine",
+            "Chemical",
+            "C076029"
+        ]
+    ],
+    "split_sentence": [
+        "Hypomania-like syndrome induced by olanzapine.",
+        "We report a female patient with a diagnosis of a not otherwise specified psychotic disorder (DSM-IV) who developed hypomania shortly after the introduction of olanzapine treatment."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001714\tDisease\tHypomania\t<target> Hypomania </target> -like syndrome induced by olanzapine .",
+        "C076029\tChemical\tolanzapine\tHypomania-like syndrome induced by <target> olanzapine </target> .",
+        "D011618\tDisease\tpsychotic disorder\tWe report a female patient with a diagnosis of a not otherwise specified <target> psychotic disorder </target> ( DSM-IV ) who developed hypomania shortly after the introduction of olanzapine treatment .",
+        "D001714\tDisease\thypomania\tWe report a female patient with a diagnosis of a not otherwise specified psychotic disorder ( DSM-IV ) who developed <target> hypomania </target> shortly after the introduction of olanzapine treatment .",
+        "C076029\tChemical\tolanzapine\tWe report a female patient with a diagnosis of a not otherwise specified psychotic disorder ( DSM-IV ) who developed hypomania shortly after the introduction of <target> olanzapine </target> treatment ."
+    ],
+    "lines_lemma": [
+        "D001714\tDisease\tHypomania\t<target> Hypomania </target> -like syndrome induce by olanzapine .",
+        "C076029\tChemical\tolanzapine\thypomania-like syndrome induce by <target> olanzapine </target> .",
+        "D011618\tDisease\tpsychotic disorder\twe report a female patient with a diagnosis of a not otherwise specify <target> psychotic disorder </target> ( dsm-iv ) who develop hypomania shortly after the introduction of olanzapine treatment .",
+        "D001714\tDisease\thypomania\twe report a female patient with a diagnosis of a not otherwise specify psychotic disorder ( dsm-iv ) who develop <target> hypomania </target> shortly after the introduction of olanzapine treatment .",
+        "C076029\tChemical\tolanzapine\twe report a female patient with a diagnosis of a not otherwise specify psychotic disorder ( dsm-iv ) who develop hypomania shortly after the introduction of <target> olanzapine </target> treatment ."
+    ]
+}

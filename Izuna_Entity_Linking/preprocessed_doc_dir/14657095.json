@@ -1,0 +1,126 @@
+{
+    "title": "Reversible dilated cardiomyopathy related to amphotericin B therapy.",
+    "abst": "We describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with amphotericin B (AmB) for disseminated coccidioidomycosis. His echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of AmB.",
+    "title_plus_abst": "Reversible dilated cardiomyopathy related to amphotericin B therapy. We describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with amphotericin B (AmB) for disseminated coccidioidomycosis. His echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of AmB.",
+    "pubmed_id": "14657095",
+    "entities": [
+        [
+            11,
+            33,
+            "dilated cardiomyopathy",
+            "Disease",
+            "D002311"
+        ],
+        [
+            45,
+            59,
+            "amphotericin B",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            105,
+            127,
+            "dilated cardiomyopathy",
+            "Disease",
+            "D002311"
+        ],
+        [
+            152,
+            165,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            197,
+            211,
+            "amphotericin B",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            213,
+            216,
+            "AmB",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            235,
+            253,
+            "coccidioidomycosis",
+            "Disease",
+            "D003047"
+        ],
+        [
+            295,
+            308,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            324,
+            336,
+            "posaconazole",
+            "Chemical",
+            "C101425"
+        ],
+        [
+            357,
+            360,
+            "AmB",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            427,
+            435,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            439,
+            442,
+            "AmB",
+            "Chemical",
+            "D000666"
+        ]
+    ],
+    "split_sentence": [
+        "Reversible dilated cardiomyopathy related to amphotericin B therapy.",
+        "We describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with amphotericin B (AmB) for disseminated coccidioidomycosis.",
+        "His echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of AmB."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002311\tDisease\tdilated cardiomyopathy\tReversible <target> dilated cardiomyopathy </target> related to amphotericin B therapy .",
+        "D000666\tChemical\tamphotericin B\tReversible dilated cardiomyopathy related to <target> amphotericin B </target> therapy .",
+        "D002311\tDisease\tdilated cardiomyopathy\tWe describe a patient who developed <target> dilated cardiomyopathy </target> and clinical congestive heart failure after 2 months of therapy with amphotericin B ( AmB ) for disseminated coccidioidomycosis .",
+        "D006333\tDisease\theart failure\tWe describe a patient who developed dilated cardiomyopathy and clinical congestive <target> heart failure </target> after 2 months of therapy with amphotericin B ( AmB ) for disseminated coccidioidomycosis .",
+        "D000666\tChemical\tamphotericin B\tWe describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with <target> amphotericin B </target> ( AmB ) for disseminated coccidioidomycosis .",
+        "D000666\tChemical\tAmB\tWe describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with amphotericin B ( <target> AmB </target> ) for disseminated coccidioidomycosis .",
+        "D003047\tDisease\tcoccidioidomycosis\tWe describe a patient who developed dilated cardiomyopathy and clinical congestive heart failure after 2 months of therapy with amphotericin B ( AmB ) for disseminated <target> coccidioidomycosis </target> .",
+        "D006333\tDisease\theart failure\tHis echocardiographic abnormalities and <target> heart failure </target> resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of AmB.",
+        "C101425\tChemical\tposaconazole\tHis echocardiographic abnormalities and heart failure resolved after <target> posaconazole </target> was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of AmB.",
+        "D000666\tChemical\tAmB\tHis echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for <target> AmB </target> . It is important to recognize the rare and potentially reversible toxicity of AmB.",
+        "D064420\tDisease\ttoxicity\tHis echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible <target> toxicity </target> of AmB.",
+        "D000666\tChemical\tAmB\tHis echocardiographic abnormalities and heart failure resolved after posaconazole was substituted for AmB. It is important to recognize the rare and potentially reversible toxicity of <target> AmB </target> ."
+    ],
+    "lines_lemma": [
+        "D002311\tDisease\tdilated cardiomyopathy\treversible <target> dilated cardiomyopathy </target> related to amphotericin b therapy .",
+        "D000666\tChemical\tamphotericin B\treversible dilated cardiomyopathy related to <target> amphotericin b </target> therapy .",
+        "D002311\tDisease\tdilated cardiomyopathy\twe describe a patient who develop <target> dilated cardiomyopathy </target> and clinical congestive heart failure after 2 month of therapy with amphotericin b ( amb ) for disseminated coccidioidomycosis .",
+        "D006333\tDisease\theart failure\twe describe a patient who develop dilated cardiomyopathy and clinical congestive <target> heart failure </target> after 2 month of therapy with amphotericin b ( amb ) for disseminated coccidioidomycosis .",
+        "D000666\tChemical\tamphotericin B\twe describe a patient who develop dilated cardiomyopathy and clinical congestive heart failure after 2 month of therapy with <target> amphotericin b </target> ( amb ) for disseminated coccidioidomycosis .",
+        "D000666\tChemical\tAmB\twe describe a patient who develop dilated cardiomyopathy and clinical congestive heart failure after 2 month of therapy with amphotericin b ( <target> amb </target> ) for disseminated coccidioidomycosis .",
+        "D003047\tDisease\tcoccidioidomycosis\twe describe a patient who develop dilated cardiomyopathy and clinical congestive heart failure after 2 month of therapy with amphotericin b ( amb ) for disseminate <target> coccidioidomycosis </target> .",
+        "D006333\tDisease\theart failure\this echocardiographic abnormality and <target> heart failure </target> resolve after posaconazole be substitute for amb. it be important to recognize the rare and potentially reversible toxicity of amb.",
+        "C101425\tChemical\tposaconazole\this echocardiographic abnormality and heart failure resolve after <target> posaconazole </target> be substitute for amb. it be important to recognize the rare and potentially reversible toxicity of amb.",
+        "D000666\tChemical\tAmB\this echocardiographic abnormality and heart failure resolve after posaconazole be substitute for <target> amb </target> . it be important to recognize the rare and potentially reversible toxicity of amb.",
+        "D064420\tDisease\ttoxicity\this echocardiographic abnormality and heart failure resolve after posaconazole be substitute for amb. it be important to recognize the rare and potentially reversible <target> toxicity </target> of amb.",
+        "D000666\tChemical\tAmB\this echocardiographic abnormality and heart failure resolve after posaconazole be substitute for amb. it be important to recognize the rare and potentially reversible toxicity of <target> amb </target> ."
+    ]
+}

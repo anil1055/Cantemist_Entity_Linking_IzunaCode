@@ -1,0 +1,138 @@
+{
+    "title": "Seizure associated with sleep deprivation and sustained-release bupropion.",
+    "abst": "This case report describes a generalized seizure associated with sustained-release bupropion use and sleep deprivation. The subject, a 31-year-old female smoker, was participating in a clinical trial evaluating an investigational medication for smoking cessation that used sustained-release bupropion as an active control. After 5 weeks of bupropion use, the subject experienced a generalized tonic clonic seizure after staying up nearly all night packing and moving to a new residence. The patient had no other risk factors for seizures. We suggest that sleep deprivation may add to the risk of bupropion-associated seizures.",
+    "title_plus_abst": "Seizure associated with sleep deprivation and sustained-release bupropion. This case report describes a generalized seizure associated with sustained-release bupropion use and sleep deprivation. The subject, a 31-year-old female smoker, was participating in a clinical trial evaluating an investigational medication for smoking cessation that used sustained-release bupropion as an active control. After 5 weeks of bupropion use, the subject experienced a generalized tonic clonic seizure after staying up nearly all night packing and moving to a new residence. The patient had no other risk factors for seizures. We suggest that sleep deprivation may add to the risk of bupropion-associated seizures.",
+    "pubmed_id": "12745515",
+    "entities": [
+        [
+            0,
+            7,
+            "Seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            24,
+            41,
+            "sleep deprivation",
+            "Disease",
+            "D012892"
+        ],
+        [
+            64,
+            73,
+            "bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            116,
+            123,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            158,
+            167,
+            "bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            176,
+            193,
+            "sleep deprivation",
+            "Disease",
+            "D012892"
+        ],
+        [
+            366,
+            375,
+            "bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            415,
+            424,
+            "bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            481,
+            488,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            604,
+            612,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            630,
+            647,
+            "sleep deprivation",
+            "Disease",
+            "D012892"
+        ],
+        [
+            671,
+            680,
+            "bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            692,
+            700,
+            "seizures",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Seizure associated with sleep deprivation and sustained-release bupropion.",
+        "This case report describes a generalized seizure associated with sustained-release bupropion use and sleep deprivation.",
+        "The subject, a 31-year-old female smoker, was participating in a clinical trial evaluating an investigational medication for smoking cessation that used sustained-release bupropion as an active control.",
+        "After 5 weeks of bupropion use, the subject experienced a generalized tonic clonic seizure after staying up nearly all night packing and moving to a new residence.",
+        "The patient had no other risk factors for seizures.",
+        "We suggest that sleep deprivation may add to the risk of bupropion-associated seizures."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> associated with sleep deprivation and sustained-release bupropion .",
+        "D012892\tDisease\tsleep deprivation\tSeizure associated with <target> sleep deprivation </target> and sustained-release bupropion .",
+        "D016642\tChemical\tbupropion\tSeizure associated with sleep deprivation and sustained-release <target> bupropion </target> .",
+        "D012640\tDisease\tseizure\tThis case report describes a generalized <target> seizure </target> associated with sustained-release bupropion use and sleep deprivation .",
+        "D016642\tChemical\tbupropion\tThis case report describes a generalized seizure associated with sustained-release <target> bupropion </target> use and sleep deprivation .",
+        "D012892\tDisease\tsleep deprivation\tThis case report describes a generalized seizure associated with sustained-release bupropion use and <target> sleep deprivation </target> .",
+        "D016642\tChemical\tbupropion\tThe subject , a 31-year-old female smoker , was participating in a clinical trial evaluating an investigational medication for smoking cessation that used sustained-release <target> bupropion </target> as an active control .",
+        "D016642\tChemical\tbupropion\tAfter 5 weeks of <target> bupropion </target> use , the subject experienced a generalized tonic clonic seizure after staying up nearly all night packing and moving to a new residence .",
+        "D012640\tDisease\tseizure\tAfter 5 weeks of bupropion use , the subject experienced a generalized tonic clonic <target> seizure </target> after staying up nearly all night packing and moving to a new residence .",
+        "D012640\tDisease\tseizures\tThe patient had no other risk factors for <target> seizures </target> .",
+        "D012892\tDisease\tsleep deprivation\tWe suggest that <target> sleep deprivation </target> may add to the risk of bupropion-associated seizures .",
+        "D016642\tChemical\tbupropion\tWe suggest that sleep deprivation may add to the risk of <target> bupropion </target> -associated seizures .",
+        "D012640\tDisease\tseizures\tWe suggest that sleep deprivation may add to the risk of bupropion-associated <target> seizures </target> ."
+    ],
+    "lines_lemma": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> associate with sleep deprivation and sustained-release bupropion .",
+        "D012892\tDisease\tsleep deprivation\tSeizure associate with <target> sleep deprivation </target> and sustained-release bupropion .",
+        "D016642\tChemical\tbupropion\tSeizure associate with sleep deprivation and sustained-release <target> bupropion </target> .",
+        "D012640\tDisease\tseizure\tthis case report describe a generalized <target> seizure </target> associate with sustained-release bupropion use and sleep deprivation .",
+        "D016642\tChemical\tbupropion\tthis case report describe a generalize seizure associate with sustained-release <target> bupropion </target> use and sleep deprivation .",
+        "D012892\tDisease\tsleep deprivation\tthis case report describe a generalize seizure associate with sustained-release bupropion use and <target> sleep deprivation </target> .",
+        "D016642\tChemical\tbupropion\tthe subject , a 31-year-old female smoker , be participate in a clinical trial evaluate an investigational medication for smoking cessation that use sustained-release <target> bupropion </target> as an active control .",
+        "D016642\tChemical\tbupropion\tafter 5 week of <target> bupropion </target> use , the subject experience a generalize tonic clonic seizure after stay up nearly all night pack and move to a new residence .",
+        "D012640\tDisease\tseizure\tafter 5 week of bupropion use , the subject experience a generalize tonic clonic <target> seizure </target> after stay up nearly all night pack and move to a new residence .",
+        "D012640\tDisease\tseizures\tthe patient have no other risk factor for <target> seizure </target> .",
+        "D012892\tDisease\tsleep deprivation\twe suggest that <target> sleep deprivation </target> may add to the risk of bupropion-associated seizure .",
+        "D016642\tChemical\tbupropion\twe suggest that sleep deprivation may add to the risk of <target> bupropion </target> -associated seizure .",
+        "D012640\tDisease\tseizures\twe suggest that sleep deprivation may add to the risk of bupropion-associated <target> seizure </target> ."
+    ]
+}

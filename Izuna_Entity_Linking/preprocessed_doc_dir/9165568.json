@@ -1,0 +1,185 @@
+{
+    "title": "Neuroleptic malignant syndrome with risperidone.",
+    "abst": "Neuroleptic malignant syndrome is thought to be a result of dopamine D2 receptor blockade in the striatum of the basal ganglia. Risperidone, a benzisoxazole derivative antipsychotic, has high serotonin 5-HT2 receptor blockade and dose-related D2 receptor blockade. The high ratio is believed to impart the low frequency of extrapyramidal symptoms with risperidone at low dosages. With this low frequency of extrapyramidal symptoms, it was thought the frequency of neuroleptic malignant syndrome might also be lowered. A 73-year-old woman developed neuroleptic malignant syndrome after monotherapy with risperidone. The syndrome reversed after discontinuing risperidone and starting treatment with dantrolene and bromocriptine. It appears that the protection from extrapyramidal side effects observed with risperidone does not ensure protection from neuroleptic malignant syndrome.",
+    "title_plus_abst": "Neuroleptic malignant syndrome with risperidone. Neuroleptic malignant syndrome is thought to be a result of dopamine D2 receptor blockade in the striatum of the basal ganglia. Risperidone, a benzisoxazole derivative antipsychotic, has high serotonin 5-HT2 receptor blockade and dose-related D2 receptor blockade. The high ratio is believed to impart the low frequency of extrapyramidal symptoms with risperidone at low dosages. With this low frequency of extrapyramidal symptoms, it was thought the frequency of neuroleptic malignant syndrome might also be lowered. A 73-year-old woman developed neuroleptic malignant syndrome after monotherapy with risperidone. The syndrome reversed after discontinuing risperidone and starting treatment with dantrolene and bromocriptine. It appears that the protection from extrapyramidal side effects observed with risperidone does not ensure protection from neuroleptic malignant syndrome.",
+    "pubmed_id": "9165568",
+    "entities": [
+        [
+            0,
+            30,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            36,
+            47,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            49,
+            79,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            109,
+            117,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            177,
+            188,
+            "Risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            192,
+            205,
+            "benzisoxazole",
+            "Chemical",
+            "C441200"
+        ],
+        [
+            241,
+            250,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            372,
+            395,
+            "extrapyramidal symptoms",
+            "Disease",
+            "D001480"
+        ],
+        [
+            401,
+            412,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            456,
+            479,
+            "extrapyramidal symptoms",
+            "Disease",
+            "D001480"
+        ],
+        [
+            513,
+            543,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            597,
+            627,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            651,
+            662,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            706,
+            717,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            746,
+            756,
+            "dantrolene",
+            "Chemical",
+            "D003620"
+        ],
+        [
+            761,
+            774,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            854,
+            865,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            898,
+            928,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ]
+    ],
+    "split_sentence": [
+        "Neuroleptic malignant syndrome with risperidone.",
+        "Neuroleptic malignant syndrome is thought to be a result of dopamine D2 receptor blockade in the striatum of the basal ganglia.",
+        "Risperidone, a benzisoxazole derivative antipsychotic, has high serotonin 5-HT2 receptor blockade and dose-related D2 receptor blockade.",
+        "The high ratio is believed to impart the low frequency of extrapyramidal symptoms with risperidone at low dosages.",
+        "With this low frequency of extrapyramidal symptoms, it was thought the frequency of neuroleptic malignant syndrome might also be lowered.",
+        "A 73-year-old woman developed neuroleptic malignant syndrome after monotherapy with risperidone.",
+        "The syndrome reversed after discontinuing risperidone and starting treatment with dantrolene and bromocriptine.",
+        "It appears that the protection from extrapyramidal side effects observed with risperidone does not ensure protection from neuroleptic malignant syndrome."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> with risperidone .",
+        "D018967\tChemical\trisperidone\tNeuroleptic malignant syndrome with <target> risperidone </target> .",
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> is thought to be a result of dopamine D2 receptor blockade in the striatum of the basal ganglia .",
+        "D004298\tChemical\tdopamine\tNeuroleptic malignant syndrome is thought to be a result of <target> dopamine </target> D2 receptor blockade in the striatum of the basal ganglia .",
+        "D018967\tChemical\tRisperidone\t<target> Risperidone </target> , a benzisoxazole derivative antipsychotic , has high serotonin 5-HT2 receptor blockade and dose-related D2 receptor blockade .",
+        "C441200\tChemical\tbenzisoxazole\tRisperidone , a <target> benzisoxazole </target> derivative antipsychotic , has high serotonin 5-HT2 receptor blockade and dose-related D2 receptor blockade .",
+        "D012701\tChemical\tserotonin\tRisperidone , a benzisoxazole derivative antipsychotic , has high <target> serotonin </target> 5-HT2 receptor blockade and dose-related D2 receptor blockade .",
+        "D001480\tDisease\textrapyramidal symptoms\tThe high ratio is believed to impart the low frequency of <target> extrapyramidal symptoms </target> with risperidone at low dosages .",
+        "D018967\tChemical\trisperidone\tThe high ratio is believed to impart the low frequency of extrapyramidal symptoms with <target> risperidone </target> at low dosages .",
+        "D001480\tDisease\textrapyramidal symptoms\tWith this low frequency of <target> extrapyramidal symptoms </target> , it was thought the frequency of neuroleptic malignant syndrome might also be lowered .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tWith this low frequency of extrapyramidal symptoms , it was thought the frequency of <target> neuroleptic malignant syndrome </target> might also be lowered .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tA 73-year-old woman developed <target> neuroleptic malignant syndrome </target> after monotherapy with risperidone .",
+        "D018967\tChemical\trisperidone\tA 73-year-old woman developed neuroleptic malignant syndrome after monotherapy with <target> risperidone </target> .",
+        "D018967\tChemical\trisperidone\tThe syndrome reversed after discontinuing <target> risperidone </target> and starting treatment with dantrolene and bromocriptine .",
+        "D003620\tChemical\tdantrolene\tThe syndrome reversed after discontinuing risperidone and starting treatment with <target> dantrolene </target> and bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tThe syndrome reversed after discontinuing risperidone and starting treatment with dantrolene and <target> bromocriptine </target> .",
+        "D018967\tChemical\trisperidone\tIt appears that the protection from extrapyramidal side effects observed with <target> risperidone </target> does not ensure protection from neuroleptic malignant syndrome .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tIt appears that the protection from extrapyramidal side effects observed with risperidone does not ensure protection from <target> neuroleptic malignant syndrome </target> ."
+    ],
+    "lines_lemma": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> with risperidone .",
+        "D018967\tChemical\trisperidone\tneuroleptic malignant syndrome with <target> risperidone </target> .",
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> be think to be a result of dopamine d2 receptor blockade in the striatum of the basal ganglia .",
+        "D004298\tChemical\tdopamine\tneuroleptic malignant syndrome be think to be a result of <target> dopamine </target> d2 receptor blockade in the striatum of the basal ganglia .",
+        "D018967\tChemical\tRisperidone\t<target> risperidone </target> , a benzisoxazole derivative antipsychotic , have high serotonin 5-ht2 receptor blockade and dose-related d2 receptor blockade .",
+        "C441200\tChemical\tbenzisoxazole\trisperidone , a <target> benzisoxazole </target> derivative antipsychotic , have high serotonin 5-ht2 receptor blockade and dose-related d2 receptor blockade .",
+        "D012701\tChemical\tserotonin\trisperidone , a benzisoxazole derivative antipsychotic , have high <target> serotonin </target> 5-ht2 receptor blockade and dose-related d2 receptor blockade .",
+        "D001480\tDisease\textrapyramidal symptoms\tthe high ratio be believe to impart the low frequency of <target> extrapyramidal symptom </target> with risperidone at low dosage .",
+        "D018967\tChemical\trisperidone\tthe high ratio be believe to impart the low frequency of extrapyramidal symptom with <target> risperidone </target> at low dosage .",
+        "D001480\tDisease\textrapyramidal symptoms\twith this low frequency of <target> extrapyramidal symptom </target> , it be think the frequency of neuroleptic malignant syndrome might also be lower .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\twith this low frequency of extrapyramidal symptom , it be think the frequency of <target> neuroleptic malignant syndrome </target> might also be lower .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\ta 73-year-old woman develop <target> neuroleptic malignant syndrome </target> after monotherapy with risperidone .",
+        "D018967\tChemical\trisperidone\ta 73-year-old woman develop neuroleptic malignant syndrome after monotherapy with <target> risperidone </target> .",
+        "D018967\tChemical\trisperidone\tthe syndrome reverse after discontinue <target> risperidone </target> and start treatment with dantrolene and bromocriptine .",
+        "D003620\tChemical\tdantrolene\tthe syndrome reverse after discontinue risperidone and start treatment with <target> dantrolene </target> and bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tthe syndrome reverse after discontinue risperidone and start treatment with dantrolene and <target> bromocriptine </target> .",
+        "D018967\tChemical\trisperidone\tit appear that the protection from extrapyramidal side effect observe with <target> risperidone </target> do not ensure protection from neuroleptic malignant syndrome .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tit appear that the protection from extrapyramidal side effect observe with risperidone do not ensure protection from <target> neuroleptic malignant syndrome </target> ."
+    ]
+}

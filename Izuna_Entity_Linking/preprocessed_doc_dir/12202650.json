@@ -1,0 +1,122 @@
+{
+    "title": "Capsaicin-induced muscle pain alters the excitability of the human jaw-stretch reflex.",
+    "abst": "The pathophysiology of painful temporomandibular disorders is not fully understood, but evidence suggests that muscle pain modulates motor function in characteristic ways. This study tested the hypothesis that activation of nociceptive muscle afferent fibers would be linked to an increased excitability of the human jaw-stretch reflex and whether this process would be sensitive to length and velocity of the stretch. Capsaicin (10 micro g) was injected into the masseter muscle to induce pain in 11 healthy volunteers. Short-latency reflex responses were evoked in the masseter and temporalis muscles by a stretch device with different velocities and displacements before, during, and after the pain. The normalized reflex amplitude increased with an increase in velocity at a given displacement, but remained constant with different displacements at a given velocity. The normalized reflex amplitude was significantly higher during pain, but only at faster stretches in the painful muscle. Increased sensitivity of the fusimotor system during acute muscle pain could be one likely mechanism to explain the findings.",
+    "title_plus_abst": "Capsaicin-induced muscle pain alters the excitability of the human jaw-stretch reflex. The pathophysiology of painful temporomandibular disorders is not fully understood, but evidence suggests that muscle pain modulates motor function in characteristic ways. This study tested the hypothesis that activation of nociceptive muscle afferent fibers would be linked to an increased excitability of the human jaw-stretch reflex and whether this process would be sensitive to length and velocity of the stretch. Capsaicin (10 micro g) was injected into the masseter muscle to induce pain in 11 healthy volunteers. Short-latency reflex responses were evoked in the masseter and temporalis muscles by a stretch device with different velocities and displacements before, during, and after the pain. The normalized reflex amplitude increased with an increase in velocity at a given displacement, but remained constant with different displacements at a given velocity. The normalized reflex amplitude was significantly higher during pain, but only at faster stretches in the painful muscle. Increased sensitivity of the fusimotor system during acute muscle pain could be one likely mechanism to explain the findings.",
+    "pubmed_id": "12202650",
+    "entities": [
+        [
+            0,
+            9,
+            "Capsaicin",
+            "Chemical",
+            "D002211"
+        ],
+        [
+            18,
+            29,
+            "muscle pain",
+            "Disease",
+            "D063806"
+        ],
+        [
+            118,
+            145,
+            "temporomandibular disorders",
+            "Disease",
+            "D013705"
+        ],
+        [
+            198,
+            209,
+            "muscle pain",
+            "Disease",
+            "D063806"
+        ],
+        [
+            311,
+            329,
+            "nociceptive muscle",
+            "Disease",
+            "D063806"
+        ],
+        [
+            506,
+            515,
+            "Capsaicin",
+            "Chemical",
+            "D002211"
+        ],
+        [
+            577,
+            581,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            784,
+            788,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            1022,
+            1026,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            1064,
+            1078,
+            "painful muscle",
+            "Disease",
+            "D063806"
+        ],
+        [
+            1139,
+            1150,
+            "muscle pain",
+            "Disease",
+            "D063806"
+        ]
+    ],
+    "split_sentence": [
+        "Capsaicin-induced muscle pain alters the excitability of the human jaw-stretch reflex.",
+        "The pathophysiology of painful temporomandibular disorders is not fully understood, but evidence suggests that muscle pain modulates motor function in characteristic ways.",
+        "This study tested the hypothesis that activation of nociceptive muscle afferent fibers would be linked to an increased excitability of the human jaw-stretch reflex and whether this process would be sensitive to length and velocity of the stretch.",
+        "Capsaicin (10 micro g) was injected into the masseter muscle to induce pain in 11 healthy volunteers.",
+        "Short-latency reflex responses were evoked in the masseter and temporalis muscles by a stretch device with different velocities and displacements before, during, and after the pain.",
+        "The normalized reflex amplitude increased with an increase in velocity at a given displacement, but remained constant with different displacements at a given velocity.",
+        "The normalized reflex amplitude was significantly higher during pain, but only at faster stretches in the painful muscle.",
+        "Increased sensitivity of the fusimotor system during acute muscle pain could be one likely mechanism to explain the findings."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002211\tChemical\tCapsaicin\t<target> Capsaicin </target> -induced muscle pain alters the excitability of the human jaw-stretch reflex .",
+        "D063806\tDisease\tmuscle pain\tCapsaicin-induced <target> muscle pain </target> alters the excitability of the human jaw-stretch reflex .",
+        "D013705\tDisease\ttemporomandibular disorders\tThe pathophysiology of painful <target> temporomandibular disorders </target> is not fully understood , but evidence suggests that muscle pain modulates motor function in characteristic ways .",
+        "D063806\tDisease\tmuscle pain\tThe pathophysiology of painful temporomandibular disorders is not fully understood , but evidence suggests that <target> muscle pain </target> modulates motor function in characteristic ways .",
+        "D063806\tDisease\tnociceptive muscle\tThis study tested the hypothesis that activation of <target> nociceptive muscle </target> afferent fibers would be linked to an increased excitability of the human jaw-stretch reflex and whether this process would be sensitive to length and velocity of the stretch .",
+        "D002211\tChemical\tCapsaicin\t<target> Capsaicin </target> ( 10 micro g ) was injected into the masseter muscle to induce pain in 11 healthy volunteers .",
+        "D010146\tDisease\tpain\tCapsaicin ( 10 micro g ) was injected into the masseter muscle to induce <target> pain </target> in 11 healthy volunteers .",
+        "D010146\tDisease\tpain\tShort-latency reflex responses were evoked in the masseter and temporalis muscles by a stretch device with different velocities and displacements before , during , and after the <target> pain </target> .",
+        "D010146\tDisease\tpain\tThe normalized reflex amplitude was significantly higher during <target> pain </target> , but only at faster stretches in the painful muscle .",
+        "D063806\tDisease\tpainful muscle\tThe normalized reflex amplitude was significantly higher during pain , but only at faster stretches in the <target> painful muscle </target> .",
+        "D063806\tDisease\tmuscle pain\tIncreased sensitivity of the fusimotor system during acute <target> muscle pain </target> could be one likely mechanism to explain the findings ."
+    ],
+    "lines_lemma": [
+        "D002211\tChemical\tCapsaicin\t<target> Capsaicin </target> -induced muscle pain alter the excitability of the human jaw-stretch reflex .",
+        "D063806\tDisease\tmuscle pain\tcapsaicin-induced <target> muscle pain </target> alter the excitability of the human jaw-stretch reflex .",
+        "D013705\tDisease\ttemporomandibular disorders\tthe pathophysiology of painful <target> temporomandibular disorder </target> be not fully understand , but evidence suggest that muscle pain modulate motor function in characteristic way .",
+        "D063806\tDisease\tmuscle pain\tthe pathophysiology of painful temporomandibular disorder be not fully understand , but evidence suggest that <target> muscle pain </target> modulate motor function in characteristic way .",
+        "D063806\tDisease\tnociceptive muscle\tthis study test the hypothesis that activation of <target> nociceptive muscle </target> afferent fiber would be link to an increase excitability of the human jaw-stretch reflex and whether this process would be sensitive to length and velocity of the stretch .",
+        "D002211\tChemical\tCapsaicin\t<target> Capsaicin </target> ( 10 micro g ) be inject into the masseter muscle to induce pain in 11 healthy volunteer .",
+        "D010146\tDisease\tpain\tCapsaicin ( 10 micro g ) be inject into the masseter muscle to induce <target> pain </target> in 11 healthy volunteer .",
+        "D010146\tDisease\tpain\tshort-latency reflex response be evoke in the masseter and temporalis muscle by a stretch device with different velocity and displacement before , during , and after the <target> pain </target> .",
+        "D010146\tDisease\tpain\tthe normalize reflex amplitude be significantly high during <target> pain </target> , but only at fast stretch in the painful muscle .",
+        "D063806\tDisease\tpainful muscle\tthe normalize reflex amplitude be significantly high during pain , but only at fast stretch in the <target> painful muscle </target> .",
+        "D063806\tDisease\tmuscle pain\tincrease sensitivity of the fusimotor system during acute <target> muscle pain </target> could be one likely mechanism to explain the finding ."
+    ]
+}

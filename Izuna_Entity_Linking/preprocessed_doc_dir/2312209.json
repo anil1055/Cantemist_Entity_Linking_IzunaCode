@@ -1,0 +1,108 @@
+{
+    "title": "Myocardial infarction following sublingual administration of isosorbide dinitrate.",
+    "abst": "A 78-year-old with healed septal necrosis suffered a recurrent myocardial infarction of the anterior wall following the administration of isosorbide dinitrate 5 mg sublingually. After detailing the course of events, we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occurring downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency.",
+    "title_plus_abst": "Myocardial infarction following sublingual administration of isosorbide dinitrate. A 78-year-old with healed septal necrosis suffered a recurrent myocardial infarction of the anterior wall following the administration of isosorbide dinitrate 5 mg sublingually. After detailing the course of events, we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occurring downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency.",
+    "pubmed_id": "2312209",
+    "entities": [
+        [
+            0,
+            21,
+            "Myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            61,
+            81,
+            "isosorbide dinitrate",
+            "Chemical",
+            "D007548"
+        ],
+        [
+            116,
+            124,
+            "necrosis",
+            "Disease",
+            "D009336"
+        ],
+        [
+            146,
+            167,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            221,
+            241,
+            "isosorbide dinitrate",
+            "Chemical",
+            "D007548"
+        ],
+        [
+            343,
+            348,
+            "spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            353,
+            364,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            374,
+            393,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            430,
+            456,
+            "coronary arterial stenosis",
+            "Disease",
+            "D023921"
+        ],
+        [
+            483,
+            511,
+            "acute coronary insufficiency",
+            "Disease",
+            "D054058"
+        ]
+    ],
+    "split_sentence": [
+        "Myocardial infarction following sublingual administration of isosorbide dinitrate.",
+        "A 78-year-old with healed septal necrosis suffered a recurrent myocardial infarction of the anterior wall following the administration of isosorbide dinitrate 5 mg sublingually.",
+        "After detailing the course of events, we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occurring downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009203\tDisease\tMyocardial infarction\t<target> Myocardial infarction </target> following sublingual administration of isosorbide dinitrate .",
+        "D007548\tChemical\tisosorbide dinitrate\tMyocardial infarction following sublingual administration of <target> isosorbide dinitrate </target> .",
+        "D009336\tDisease\tnecrosis\tA 78-year-old with healed septal <target> necrosis </target> suffered a recurrent myocardial infarction of the anterior wall following the administration of isosorbide dinitrate 5 mg sublingually .",
+        "D009203\tDisease\tmyocardial infarction\tA 78-year-old with healed septal necrosis suffered a recurrent <target> myocardial infarction </target> of the anterior wall following the administration of isosorbide dinitrate 5 mg sublingually .",
+        "D007548\tChemical\tisosorbide dinitrate\tA 78-year-old with healed septal necrosis suffered a recurrent myocardial infarction of the anterior wall following the administration of <target> isosorbide dinitrate </target> 5 mg sublingually .",
+        "D013035\tDisease\tspasm\tAfter detailing the course of events , we discuss the role of paradoxical coronary <target> spasm </target> and hypotension-mediated myocardial ischemia occurring downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency .",
+        "D007022\tDisease\thypotension\tAfter detailing the course of events , we discuss the role of paradoxical coronary spasm and <target> hypotension </target> -mediated myocardial ischemia occurring downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency .",
+        "D017202\tDisease\tmyocardial ischemia\tAfter detailing the course of events , we discuss the role of paradoxical coronary spasm and hypotension-mediated <target> myocardial ischemia </target> occurring downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency .",
+        "D023921\tDisease\tcoronary arterial stenosis\tAfter detailing the course of events , we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occurring downstream to significant <target> coronary arterial stenosis </target> in the pathophysiology of acute coronary insufficiency .",
+        "D054058\tDisease\tacute coronary insufficiency\tAfter detailing the course of events , we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occurring downstream to significant coronary arterial stenosis in the pathophysiology of <target> acute coronary insufficiency </target> ."
+    ],
+    "lines_lemma": [
+        "D009203\tDisease\tMyocardial infarction\t<target> myocardial infarction </target> follow sublingual administration of isosorbide dinitrate .",
+        "D007548\tChemical\tisosorbide dinitrate\tmyocardial infarction follow sublingual administration of <target> isosorbide dinitrate </target> .",
+        "D009336\tDisease\tnecrosis\ta 78-year-old with heal septal <target> necrosis </target> suffer a recurrent myocardial infarction of the anterior wall follow the administration of isosorbide dinitrate 5 mg sublingually .",
+        "D009203\tDisease\tmyocardial infarction\ta 78-year-old with heal septal necrosis suffer a recurrent <target> myocardial infarction </target> of the anterior wall follow the administration of isosorbide dinitrate 5 mg sublingually .",
+        "D007548\tChemical\tisosorbide dinitrate\ta 78-year-old with heal septal necrosis suffer a recurrent myocardial infarction of the anterior wall follow the administration of <target> isosorbide dinitrate </target> 5 mg sublingually .",
+        "D013035\tDisease\tspasm\tafter detail the course of event , we discuss the role of paradoxical coronary <target> spasm </target> and hypotension-mediated myocardial ischemia occur downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency .",
+        "D007022\tDisease\thypotension\tafter detail the course of event , we discuss the role of paradoxical coronary spasm and <target> hypotension </target> -mediated myocardial ischemia occur downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency .",
+        "D017202\tDisease\tmyocardial ischemia\tafter detail the course of event , we discuss the role of paradoxical coronary spasm and hypotension-mediated <target> myocardial ischemia </target> occur downstream to significant coronary arterial stenosis in the pathophysiology of acute coronary insufficiency .",
+        "D023921\tDisease\tcoronary arterial stenosis\tafter detail the course of event , we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occur downstream to significant <target> coronary arterial stenosis </target> in the pathophysiology of acute coronary insufficiency .",
+        "D054058\tDisease\tacute coronary insufficiency\tafter detail the course of event , we discuss the role of paradoxical coronary spasm and hypotension-mediated myocardial ischemia occur downstream to significant coronary arterial stenosis in the pathophysiology of <target> acute coronary insufficiency </target> ."
+    ]
+}

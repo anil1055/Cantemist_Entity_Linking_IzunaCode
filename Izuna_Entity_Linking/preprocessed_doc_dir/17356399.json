@@ -1,0 +1,173 @@
+{
+    "title": "Acute encephalopathy and cerebral vasospasm after multiagent chemotherapy including PEG-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia.",
+    "abst": "A 7-year-old girl with an unusual reaction to induction chemotherapy for precursor B-cell acute lymphoblastic leukemia (ALL) is described. The patient developed acute encephalopathy evidenced by behavioral changes, aphasia, incontinence, visual hallucinations, and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine. Vincristine, dexamethasone, and polyethylene glycol-asparaginase were also administered before the episode as part of induction therapy. Neurologic status returned to baseline within 10 days of the acute event, and magnetic resonance angiography findings returned to normal 4 months later.",
+    "title_plus_abst": "Acute encephalopathy and cerebral vasospasm after multiagent chemotherapy including PEG-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia. A 7-year-old girl with an unusual reaction to induction chemotherapy for precursor B-cell acute lymphoblastic leukemia (ALL) is described. The patient developed acute encephalopathy evidenced by behavioral changes, aphasia, incontinence, visual hallucinations, and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine. Vincristine, dexamethasone, and polyethylene glycol-asparaginase were also administered before the episode as part of induction therapy. Neurologic status returned to baseline within 10 days of the acute event, and magnetic resonance angiography findings returned to normal 4 months later.",
+    "pubmed_id": "17356399",
+    "entities": [
+        [
+            0,
+            20,
+            "Acute encephalopathy",
+            "Disease",
+            "D020803"
+        ],
+        [
+            25,
+            43,
+            "cerebral vasospasm",
+            "Disease",
+            "D020301"
+        ],
+        [
+            84,
+            100,
+            "PEG-asparaginase",
+            "Chemical",
+            "C042705"
+        ],
+        [
+            117,
+            127,
+            "cytarabine",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            149,
+            177,
+            "acute lymphoblastic leukemia",
+            "Disease",
+            "D054198"
+        ],
+        [
+            269,
+            297,
+            "acute lymphoblastic leukemia",
+            "Disease",
+            "D054198"
+        ],
+        [
+            299,
+            302,
+            "ALL",
+            "Disease",
+            "D054198"
+        ],
+        [
+            340,
+            360,
+            "acute encephalopathy",
+            "Disease",
+            "D020803"
+        ],
+        [
+            394,
+            401,
+            "aphasia",
+            "Disease",
+            "D001037"
+        ],
+        [
+            403,
+            415,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            417,
+            438,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            456,
+            464,
+            "weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            478,
+            496,
+            "cerebral vasospasm",
+            "Disease",
+            "D020301"
+        ],
+        [
+            571,
+            581,
+            "cytarabine",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            583,
+            594,
+            "Vincristine",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            596,
+            609,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ],
+        [
+            615,
+            647,
+            "polyethylene glycol-asparaginase",
+            "Chemical",
+            "C042705"
+        ]
+    ],
+    "split_sentence": [
+        "Acute encephalopathy and cerebral vasospasm after multiagent chemotherapy including PEG-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia.",
+        "A 7-year-old girl with an unusual reaction to induction chemotherapy for precursor B-cell acute lymphoblastic leukemia (ALL) is described.",
+        "The patient developed acute encephalopathy evidenced by behavioral changes, aphasia, incontinence, visual hallucinations, and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine.",
+        "Vincristine, dexamethasone, and polyethylene glycol-asparaginase were also administered before the episode as part of induction therapy.",
+        "Neurologic status returned to baseline within 10 days of the acute event, and magnetic resonance angiography findings returned to normal 4 months later."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020803\tDisease\tAcute encephalopathy\t<target> Acute encephalopathy </target> and cerebral vasospasm after multiagent chemotherapy including PEG-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia .",
+        "D020301\tDisease\tcerebral vasospasm\tAcute encephalopathy and <target> cerebral vasospasm </target> after multiagent chemotherapy including PEG-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia .",
+        "C042705\tChemical\tPEG-asparaginase\tAcute encephalopathy and cerebral vasospasm after multiagent chemotherapy including <target> PEG-asparaginase </target> and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia .",
+        "D003561\tChemical\tcytarabine\tAcute encephalopathy and cerebral vasospasm after multiagent chemotherapy including PEG-asparaginase and intrathecal <target> cytarabine </target> for the treatment of acute lymphoblastic leukemia .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tAcute encephalopathy and cerebral vasospasm after multiagent chemotherapy including PEG-asparaginase and intrathecal cytarabine for the treatment of <target> acute lymphoblastic leukemia </target> .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tA 7-year-old girl with an unusual reaction to induction chemotherapy for precursor B-cell <target> acute lymphoblastic leukemia </target> ( ALL ) is described .",
+        "D054198\tDisease\tALL\tA 7-year-old girl with an unusual reaction to induction chemotherapy for precursor B-cell acute lymphoblastic leukemia ( <target> ALL </target> ) is described .",
+        "D020803\tDisease\tacute encephalopathy\tThe patient developed <target> acute encephalopathy </target> evidenced by behavioral changes , aphasia , incontinence , visual hallucinations , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D001037\tDisease\taphasia\tThe patient developed acute encephalopathy evidenced by behavioral changes , <target> aphasia </target> , incontinence , visual hallucinations , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D014549\tDisease\tincontinence\tThe patient developed acute encephalopathy evidenced by behavioral changes , aphasia , <target> incontinence </target> , visual hallucinations , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D006212\tDisease\tvisual hallucinations\tThe patient developed acute encephalopathy evidenced by behavioral changes , aphasia , incontinence , <target> visual hallucinations </target> , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D018908\tDisease\tweakness\tThe patient developed acute encephalopathy evidenced by behavioral changes , aphasia , incontinence , visual hallucinations , and right-sided <target> weakness </target> with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D020301\tDisease\tcerebral vasospasm\tThe patient developed acute encephalopathy evidenced by behavioral changes , aphasia , incontinence , visual hallucinations , and right-sided weakness with diffuse <target> cerebral vasospasm </target> on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D003561\tChemical\tcytarabine\tThe patient developed acute encephalopathy evidenced by behavioral changes , aphasia , incontinence , visual hallucinations , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal <target> cytarabine </target> .",
+        "D014750\tChemical\tVincristine\t<target> Vincristine </target> , dexamethasone , and polyethylene glycol-asparaginase were also administered before the episode as part of induction therapy .",
+        "D003907\tChemical\tdexamethasone\tVincristine , <target> dexamethasone </target> , and polyethylene glycol-asparaginase were also administered before the episode as part of induction therapy .",
+        "C042705\tChemical\tpolyethylene glycol-asparaginase\tVincristine , dexamethasone , and <target> polyethylene glycol-asparaginase </target> were also administered before the episode as part of induction therapy ."
+    ],
+    "lines_lemma": [
+        "D020803\tDisease\tAcute encephalopathy\t<target> acute encephalopathy </target> and cerebral vasospasm after multiagent chemotherapy include peg-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia .",
+        "D020301\tDisease\tcerebral vasospasm\tacute encephalopathy and <target> cerebral vasospasm </target> after multiagent chemotherapy include peg-asparaginase and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia .",
+        "C042705\tChemical\tPEG-asparaginase\tacute encephalopathy and cerebral vasospasm after multiagent chemotherapy include <target> peg-asparaginase </target> and intrathecal cytarabine for the treatment of acute lymphoblastic leukemia .",
+        "D003561\tChemical\tcytarabine\tacute encephalopathy and cerebral vasospasm after multiagent chemotherapy include peg-asparaginase and intrathecal <target> cytarabine </target> for the treatment of acute lymphoblastic leukemia .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tacute encephalopathy and cerebral vasospasm after multiagent chemotherapy include peg-asparaginase and intrathecal cytarabine for the treatment of <target> acute lymphoblastic leukemia </target> .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\ta 7-year-old girl with an unusual reaction to induction chemotherapy for precursor b-cell <target> acute lymphoblastic leukemia </target> ( all ) be describe .",
+        "D054198\tDisease\tALL\ta 7-year-old girl with an unusual reaction to induction chemotherapy for precursor b-cell acute lymphoblastic leukemia ( <target> all </target> ) be describe .",
+        "D020803\tDisease\tacute encephalopathy\tthe patient develop <target> acute encephalopathy </target> evidence by behavioral change , aphasia , incontinence , visual hallucination , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D001037\tDisease\taphasia\tthe patient develop acute encephalopathy evidence by behavioral change , <target> aphasia </target> , incontinence , visual hallucination , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D014549\tDisease\tincontinence\tthe patient develop acute encephalopathy evidence by behavioral change , aphasia , <target> incontinence </target> , visual hallucination , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D006212\tDisease\tvisual hallucinations\tthe patient develop acute encephalopathy evidence by behavioral change , aphasia , incontinence , <target> visual hallucination </target> , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D018908\tDisease\tweakness\tthe patient develop acute encephalopathy evidence by behavioral change , aphasia , incontinence , visual hallucination , and right-sided <target> weakness </target> with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D020301\tDisease\tcerebral vasospasm\tthe patient develop acute encephalopathy evidence by behavioral change , aphasia , incontinence , visual hallucination , and right-sided weakness with diffuse <target> cerebral vasospasm </target> on magnetic resonance angiography after the administration of intrathecal cytarabine .",
+        "D003561\tChemical\tcytarabine\tthe patient develop acute encephalopathy evidence by behavioral change , aphasia , incontinence , visual hallucination , and right-sided weakness with diffuse cerebral vasospasm on magnetic resonance angiography after the administration of intrathecal <target> cytarabine </target> .",
+        "D014750\tChemical\tVincristine\t<target> Vincristine </target> , dexamethasone , and polyethylene glycol-asparaginase be also administer before the episode as part of induction therapy .",
+        "D003907\tChemical\tdexamethasone\tVincristine , <target> dexamethasone </target> , and polyethylene glycol-asparaginase be also administer before the episode as part of induction therapy .",
+        "C042705\tChemical\tpolyethylene glycol-asparaginase\tvincristine , dexamethasone , and <target> polyethylene glycol-asparaginase </target> be also administer before the episode as part of induction therapy ."
+    ]
+}

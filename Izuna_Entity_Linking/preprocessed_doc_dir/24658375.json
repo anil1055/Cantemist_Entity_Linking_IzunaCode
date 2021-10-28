@@ -1,0 +1,109 @@
+{
+    "title": "All-trans retinoic acid-induced inflammatory myositis in a patient with acute promyelocytic leukemia.",
+    "abst": "All-trans retinoic acid (ATRA), a component of standard therapy for acute promyelocytic leukemia (APL), is associated with potentially serious but treatable adverse effects involving numerous organ systems, including rare skeletal muscle involvement. Only a handful of cases of ATRA-induced myositis in children have been reported, and none in the radiology literature. We present such a case in a 15-year-old boy with APL, where recognition of imaging findings played a crucial role in making the diagnosis and facilitated prompt, effective treatment.",
+    "title_plus_abst": "All-trans retinoic acid-induced inflammatory myositis in a patient with acute promyelocytic leukemia. All-trans retinoic acid (ATRA), a component of standard therapy for acute promyelocytic leukemia (APL), is associated with potentially serious but treatable adverse effects involving numerous organ systems, including rare skeletal muscle involvement. Only a handful of cases of ATRA-induced myositis in children have been reported, and none in the radiology literature. We present such a case in a 15-year-old boy with APL, where recognition of imaging findings played a crucial role in making the diagnosis and facilitated prompt, effective treatment.",
+    "pubmed_id": "24658375",
+    "entities": [
+        [
+            0,
+            23,
+            "All-trans retinoic acid",
+            "Chemical",
+            "D014212"
+        ],
+        [
+            45,
+            53,
+            "myositis",
+            "Disease",
+            "D009220"
+        ],
+        [
+            72,
+            100,
+            "acute promyelocytic leukemia",
+            "Disease",
+            "D015473"
+        ],
+        [
+            102,
+            125,
+            "All-trans retinoic acid",
+            "Chemical",
+            "D014212"
+        ],
+        [
+            127,
+            131,
+            "ATRA",
+            "Chemical",
+            "D014212"
+        ],
+        [
+            170,
+            198,
+            "acute promyelocytic leukemia",
+            "Disease",
+            "D015473"
+        ],
+        [
+            200,
+            203,
+            "APL",
+            "Disease",
+            "D015473"
+        ],
+        [
+            380,
+            384,
+            "ATRA",
+            "Chemical",
+            "D014212"
+        ],
+        [
+            393,
+            401,
+            "myositis",
+            "Disease",
+            "D009220"
+        ],
+        [
+            521,
+            524,
+            "APL",
+            "Disease",
+            "D015473"
+        ]
+    ],
+    "split_sentence": [
+        "All-trans retinoic acid-induced inflammatory myositis in a patient with acute promyelocytic leukemia.",
+        "All-trans retinoic acid (ATRA), a component of standard therapy for acute promyelocytic leukemia (APL), is associated with potentially serious but treatable adverse effects involving numerous organ systems, including rare skeletal muscle involvement.",
+        "Only a handful of cases of ATRA-induced myositis in children have been reported, and none in the radiology literature.",
+        "We present such a case in a 15-year-old boy with APL, where recognition of imaging findings played a crucial role in making the diagnosis and facilitated prompt, effective treatment."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014212\tChemical\tAll-trans retinoic acid\t<target> All-trans retinoic acid </target> -induced inflammatory myositis in a patient with acute promyelocytic leukemia .",
+        "D009220\tDisease\tmyositis\tAll-trans retinoic acid-induced inflammatory <target> myositis </target> in a patient with acute promyelocytic leukemia .",
+        "D015473\tDisease\tacute promyelocytic leukemia\tAll-trans retinoic acid-induced inflammatory myositis in a patient with <target> acute promyelocytic leukemia </target> .",
+        "D014212\tChemical\tAll-trans retinoic acid\t<target> All-trans retinoic acid </target> ( ATRA ) , a component of standard therapy for acute promyelocytic leukemia ( APL ) , is associated with potentially serious but treatable adverse effects involving numerous organ systems , including rare skeletal muscle involvement .",
+        "D014212\tChemical\tATRA\tAll-trans retinoic acid ( <target> ATRA </target> ) , a component of standard therapy for acute promyelocytic leukemia ( APL ) , is associated with potentially serious but treatable adverse effects involving numerous organ systems , including rare skeletal muscle involvement .",
+        "D015473\tDisease\tacute promyelocytic leukemia\tAll-trans retinoic acid ( ATRA ) , a component of standard therapy for <target> acute promyelocytic leukemia </target> ( APL ) , is associated with potentially serious but treatable adverse effects involving numerous organ systems , including rare skeletal muscle involvement .",
+        "D015473\tDisease\tAPL\tAll-trans retinoic acid ( ATRA ) , a component of standard therapy for acute promyelocytic leukemia ( <target> APL </target> ) , is associated with potentially serious but treatable adverse effects involving numerous organ systems , including rare skeletal muscle involvement .",
+        "D014212\tChemical\tATRA\tOnly a handful of cases of <target> ATRA </target> -induced myositis in children have been reported , and none in the radiology literature .",
+        "D009220\tDisease\tmyositis\tOnly a handful of cases of ATRA-induced <target> myositis </target> in children have been reported , and none in the radiology literature .",
+        "D015473\tDisease\tAPL\tWe present such a case in a 15-year-old boy with <target> APL </target> , where recognition of imaging findings played a crucial role in making the diagnosis and facilitated prompt , effective treatment ."
+    ],
+    "lines_lemma": [
+        "D014212\tChemical\tAll-trans retinoic acid\t<target> all-trans retinoic acid </target> -induced inflammatory myositis in a patient with acute promyelocytic leukemia .",
+        "D009220\tDisease\tmyositis\tall-trans retinoic acid-induced inflammatory <target> myositis </target> in a patient with acute promyelocytic leukemia .",
+        "D015473\tDisease\tacute promyelocytic leukemia\tall-trans retinoic acid-induced inflammatory myositis in a patient with <target> acute promyelocytic leukemia </target> .",
+        "D014212\tChemical\tAll-trans retinoic acid\t<target> all-trans retinoic acid </target> ( atra ) , a component of standard therapy for acute promyelocytic leukemia ( apl ) , be associate with potentially serious but treatable adverse effect involve numerous organ system , include rare skeletal muscle involvement .",
+        "D014212\tChemical\tATRA\tall-trans retinoic acid ( <target> atra </target> ) , a component of standard therapy for acute promyelocytic leukemia ( apl ) , be associate with potentially serious but treatable adverse effect involve numerous organ system , include rare skeletal muscle involvement .",
+        "D015473\tDisease\tacute promyelocytic leukemia\tall-trans retinoic acid ( atra ) , a component of standard therapy for <target> acute promyelocytic leukemia </target> ( apl ) , be associate with potentially serious but treatable adverse effect involve numerous organ system , include rare skeletal muscle involvement .",
+        "D015473\tDisease\tAPL\tall-trans retinoic acid ( atra ) , a component of standard therapy for acute promyelocytic leukemia ( <target> apl </target> ) , be associate with potentially serious but treatable adverse effect involve numerous organ system , include rare skeletal muscle involvement .",
+        "D014212\tChemical\tATRA\tonly a handful of case of <target> atra </target> -induced myositis in child have be report , and none in the radiology literature .",
+        "D009220\tDisease\tmyositis\tonly a handful of case of atra-induced <target> myositis </target> in child have be report , and none in the radiology literature .",
+        "D015473\tDisease\tAPL\twe present such a case in a 15-year-old boy with <target> apl </target> , where recognition of imaging finding play a crucial role in make the diagnosis and facilitated prompt , effective treatment ."
+    ]
+}

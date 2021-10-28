@@ -1,0 +1,102 @@
+{
+    "title": "Relationship between nicotine-induced seizures and hippocampal nicotinic receptors.",
+    "abst": "A controversy has existed for several years concerning the physiological relevance of the nicotinic receptor measured by alpha-bungarotoxin binding. Using mice derived from a classical F2 and backcross genetic design, a relationship between nicotine-induced seizures and alpha-bungarotoxin nicotinic receptor concentration was found. Mice sensitive to the convulsant effects of nicotine had greater alpha-bungarotoxin binding in the hippocampus than seizure insensitive mice. The binding sites from seizure sensitive and resistant mice were equally affected by treatment with dithiothreitol, trypsin or heat. Thus it appears that the difference between seizure sensitive and insensitive animals may be due to a difference in hippocampal nicotinic receptor concentration as measured with alpha-bungarotoxin binding.",
+    "title_plus_abst": "Relationship between nicotine-induced seizures and hippocampal nicotinic receptors. A controversy has existed for several years concerning the physiological relevance of the nicotinic receptor measured by alpha-bungarotoxin binding. Using mice derived from a classical F2 and backcross genetic design, a relationship between nicotine-induced seizures and alpha-bungarotoxin nicotinic receptor concentration was found. Mice sensitive to the convulsant effects of nicotine had greater alpha-bungarotoxin binding in the hippocampus than seizure insensitive mice. The binding sites from seizure sensitive and resistant mice were equally affected by treatment with dithiothreitol, trypsin or heat. Thus it appears that the difference between seizure sensitive and insensitive animals may be due to a difference in hippocampal nicotinic receptor concentration as measured with alpha-bungarotoxin binding.",
+    "pubmed_id": "4010471",
+    "entities": [
+        [
+            21,
+            29,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            38,
+            46,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            325,
+            333,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            342,
+            350,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            462,
+            470,
+            "nicotine",
+            "Chemical",
+            "D009538"
+        ],
+        [
+            534,
+            541,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            583,
+            590,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            660,
+            674,
+            "dithiothreitol",
+            "Chemical",
+            "D004229"
+        ],
+        [
+            737,
+            744,
+            "seizure",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Relationship between nicotine-induced seizures and hippocampal nicotinic receptors.",
+        "A controversy has existed for several years concerning the physiological relevance of the nicotinic receptor measured by alpha-bungarotoxin binding.",
+        "Using mice derived from a classical F2 and backcross genetic design, a relationship between nicotine-induced seizures and alpha-bungarotoxin nicotinic receptor concentration was found.",
+        "Mice sensitive to the convulsant effects of nicotine had greater alpha-bungarotoxin binding in the hippocampus than seizure insensitive mice.",
+        "The binding sites from seizure sensitive and resistant mice were equally affected by treatment with dithiothreitol, trypsin or heat.",
+        "Thus it appears that the difference between seizure sensitive and insensitive animals may be due to a difference in hippocampal nicotinic receptor concentration as measured with alpha-bungarotoxin binding."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009538\tChemical\tnicotine\tRelationship between <target> nicotine </target> -induced seizures and hippocampal nicotinic receptors .",
+        "D012640\tDisease\tseizures\tRelationship between nicotine-induced <target> seizures </target> and hippocampal nicotinic receptors .",
+        "D009538\tChemical\tnicotine\tUsing mice derived from a classical F2 and backcross genetic design , a relationship between <target> nicotine </target> -induced seizures and alpha-bungarotoxin nicotinic receptor concentration was found .",
+        "D012640\tDisease\tseizures\tUsing mice derived from a classical F2 and backcross genetic design , a relationship between nicotine-induced <target> seizures </target> and alpha-bungarotoxin nicotinic receptor concentration was found .",
+        "D009538\tChemical\tnicotine\tMice sensitive to the convulsant effects of <target> nicotine </target> had greater alpha-bungarotoxin binding in the hippocampus than seizure insensitive mice .",
+        "D012640\tDisease\tseizure\tMice sensitive to the convulsant effects of nicotine had greater alpha-bungarotoxin binding in the hippocampus than <target> seizure </target> insensitive mice .",
+        "D012640\tDisease\tseizure\tThe binding sites from <target> seizure </target> sensitive and resistant mice were equally affected by treatment with dithiothreitol , trypsin or heat .",
+        "D004229\tChemical\tdithiothreitol\tThe binding sites from seizure sensitive and resistant mice were equally affected by treatment with <target> dithiothreitol </target> , trypsin or heat .",
+        "D012640\tDisease\tseizure\tThus it appears that the difference between <target> seizure </target> sensitive and insensitive animals may be due to a difference in hippocampal nicotinic receptor concentration as measured with alpha-bungarotoxin binding ."
+    ],
+    "lines_lemma": [
+        "D009538\tChemical\tnicotine\trelationship between <target> nicotine </target> -induced seizure and hippocampal nicotinic receptor .",
+        "D012640\tDisease\tseizures\trelationship between nicotine-induced <target> seizure </target> and hippocampal nicotinic receptor .",
+        "D009538\tChemical\tnicotine\tuse mouse derive from a classical f2 and backcross genetic design , a relationship between <target> nicotine </target> -induced seizure and alpha-bungarotoxin nicotinic receptor concentration be find .",
+        "D012640\tDisease\tseizures\tuse mouse derive from a classical f2 and backcross genetic design , a relationship between nicotine-induced <target> seizure </target> and alpha-bungarotoxin nicotinic receptor concentration be find .",
+        "D009538\tChemical\tnicotine\tmouse sensitive to the convulsant effect of <target> nicotine </target> have great alpha-bungarotoxin binding in the hippocampus than seizure insensitive mouse .",
+        "D012640\tDisease\tseizure\tmouse sensitive to the convulsant effect of nicotine have great alpha-bungarotoxin binding in the hippocampus than <target> seizure </target> insensitive mouse .",
+        "D012640\tDisease\tseizure\tthe bind site from <target> seizure </target> sensitive and resistant mouse be equally affect by treatment with dithiothreitol , trypsin or heat .",
+        "D004229\tChemical\tdithiothreitol\tthe bind site from seizure sensitive and resistant mouse be equally affect by treatment with <target> dithiothreitol </target> , trypsin or heat .",
+        "D012640\tDisease\tseizure\tthus it appear that the difference between <target> seizure </target> sensitive and insensitive animal may be due to a difference in hippocampal nicotinic receptor concentration as measure with alpha-bungarotoxin binding ."
+    ]
+}

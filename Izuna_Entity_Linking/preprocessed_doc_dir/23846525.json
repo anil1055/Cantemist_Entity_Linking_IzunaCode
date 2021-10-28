@@ -1,0 +1,111 @@
+{
+    "title": "Acute hepatitis associated with clopidogrel: a case report and review of the literature.",
+    "abst": "Drug-induced hepatotoxicity is a common cause of acute hepatitis, and the recognition of the responsible drug may be difficult. We describe a case of clopidogrel-related acute hepatitis. The diagnosis is strongly suggested by an accurate medical history and liver biopsy. Reports about cases of hepatotoxicity due to clopidogrel are increasing in the last few years, after the increased use of this drug. In conclusion, we believe that physicians should carefully consider the risk of drug-induced hepatic injury when clopidogrel is prescribed.",
+    "title_plus_abst": "Acute hepatitis associated with clopidogrel: a case report and review of the literature. Drug-induced hepatotoxicity is a common cause of acute hepatitis, and the recognition of the responsible drug may be difficult. We describe a case of clopidogrel-related acute hepatitis. The diagnosis is strongly suggested by an accurate medical history and liver biopsy. Reports about cases of hepatotoxicity due to clopidogrel are increasing in the last few years, after the increased use of this drug. In conclusion, we believe that physicians should carefully consider the risk of drug-induced hepatic injury when clopidogrel is prescribed.",
+    "pubmed_id": "23846525",
+    "entities": [
+        [
+            6,
+            15,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            32,
+            43,
+            "clopidogrel",
+            "Chemical",
+            "C055162"
+        ],
+        [
+            102,
+            116,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            144,
+            153,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            239,
+            250,
+            "clopidogrel",
+            "Chemical",
+            "C055162"
+        ],
+        [
+            265,
+            274,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            384,
+            398,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            406,
+            417,
+            "clopidogrel",
+            "Chemical",
+            "C055162"
+        ],
+        [
+            587,
+            601,
+            "hepatic injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            607,
+            618,
+            "clopidogrel",
+            "Chemical",
+            "C055162"
+        ]
+    ],
+    "split_sentence": [
+        "Acute hepatitis associated with clopidogrel: a case report and review of the literature.",
+        "Drug-induced hepatotoxicity is a common cause of acute hepatitis, and the recognition of the responsible drug may be difficult.",
+        "We describe a case of clopidogrel-related acute hepatitis.",
+        "The diagnosis is strongly suggested by an accurate medical history and liver biopsy.",
+        "Reports about cases of hepatotoxicity due to clopidogrel are increasing in the last few years, after the increased use of this drug.",
+        "In conclusion, we believe that physicians should carefully consider the risk of drug-induced hepatic injury when clopidogrel is prescribed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056486\tDisease\thepatitis\tAcute <target> hepatitis </target> associated with clopidogrel : a case report and review of the literature .",
+        "C055162\tChemical\tclopidogrel\tAcute hepatitis associated with <target> clopidogrel </target> : a case report and review of the literature .",
+        "D056486\tDisease\thepatotoxicity\tDrug-induced <target> hepatotoxicity </target> is a common cause of acute hepatitis , and the recognition of the responsible drug may be difficult .",
+        "D056486\tDisease\thepatitis\tDrug-induced hepatotoxicity is a common cause of acute <target> hepatitis </target> , and the recognition of the responsible drug may be difficult .",
+        "C055162\tChemical\tclopidogrel\tWe describe a case of <target> clopidogrel </target> -related acute hepatitis .",
+        "D056486\tDisease\thepatitis\tWe describe a case of clopidogrel-related acute <target> hepatitis </target> .",
+        "D056486\tDisease\thepatotoxicity\tReports about cases of <target> hepatotoxicity </target> due to clopidogrel are increasing in the last few years , after the increased use of this drug .",
+        "C055162\tChemical\tclopidogrel\tReports about cases of hepatotoxicity due to <target> clopidogrel </target> are increasing in the last few years , after the increased use of this drug .",
+        "D056486\tDisease\thepatic injury\tIn conclusion , we believe that physicians should carefully consider the risk of drug-induced <target> hepatic injury </target> when clopidogrel is prescribed .",
+        "C055162\tChemical\tclopidogrel\tIn conclusion , we believe that physicians should carefully consider the risk of drug-induced hepatic injury when <target> clopidogrel </target> is prescribed ."
+    ],
+    "lines_lemma": [
+        "D056486\tDisease\thepatitis\tacute <target> hepatitis </target> associate with clopidogrel : a case report and review of the literature .",
+        "C055162\tChemical\tclopidogrel\tacute hepatitis associate with <target> clopidogrel </target> : a case report and review of the literature .",
+        "D056486\tDisease\thepatotoxicity\tdrug-induced <target> hepatotoxicity </target> be a common cause of acute hepatitis , and the recognition of the responsible drug may be difficult .",
+        "D056486\tDisease\thepatitis\tdrug-induced hepatotoxicity be a common cause of acute <target> hepatitis </target> , and the recognition of the responsible drug may be difficult .",
+        "C055162\tChemical\tclopidogrel\twe describe a case of <target> clopidogrel </target> -related acute hepatitis .",
+        "D056486\tDisease\thepatitis\twe describe a case of clopidogrel-related acute <target> hepatitis </target> .",
+        "D056486\tDisease\thepatotoxicity\treport about case of <target> hepatotoxicity </target> due to clopidogrel be increase in the last few year , after the increase use of this drug .",
+        "C055162\tChemical\tclopidogrel\treport about case of hepatotoxicity due to <target> clopidogrel </target> be increase in the last few year , after the increase use of this drug .",
+        "D056486\tDisease\thepatic injury\tin conclusion , we believe that physician should carefully consider the risk of drug-induced <target> hepatic injury </target> when clopidogrel be prescribe .",
+        "C055162\tChemical\tclopidogrel\tin conclusion , we believe that physician should carefully consider the risk of drug-induced hepatic injury when <target> clopidogrel </target> be prescribe ."
+    ]
+}

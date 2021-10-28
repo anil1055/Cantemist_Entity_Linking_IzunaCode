@@ -1,0 +1,185 @@
+{
+    "title": "Normoammonemic encephalopathy: solely valproate induced or multiple mechanisms?",
+    "abst": "A 77-year-old woman presented with subacute onset progressive confusion, aggression, auditory hallucinations and delusions. In the preceding months, the patient had a number of admissions with transient unilateral hemiparesis with facial droop, and had been started on valproate for presumed hemiplegic migraine. Valproate was withdrawn soon after admission and her cognitive abilities have gradually improved over 3 months of follow-up. Valproate levels taken prior to withdrawal were subtherapeutic and the patient was normoammonaemic. EEG undertaken during inpatient stay showed changes consistent with encephalopathy, and low titre N-methyl-D-aspartate (NMDA) receptor antibodies were present in this patient. The possible aetiologies of valproate-induced encephalopathy and NMDA receptor-associated encephalitis present a diagnostic dilemma. We present a putative combinatorial hypothesis to explain this patient's symptoms.",
+    "title_plus_abst": "Normoammonemic encephalopathy: solely valproate induced or multiple mechanisms? A 77-year-old woman presented with subacute onset progressive confusion, aggression, auditory hallucinations and delusions. In the preceding months, the patient had a number of admissions with transient unilateral hemiparesis with facial droop, and had been started on valproate for presumed hemiplegic migraine. Valproate was withdrawn soon after admission and her cognitive abilities have gradually improved over 3 months of follow-up. Valproate levels taken prior to withdrawal were subtherapeutic and the patient was normoammonaemic. EEG undertaken during inpatient stay showed changes consistent with encephalopathy, and low titre N-methyl-D-aspartate (NMDA) receptor antibodies were present in this patient. The possible aetiologies of valproate-induced encephalopathy and NMDA receptor-associated encephalitis present a diagnostic dilemma. We present a putative combinatorial hypothesis to explain this patient's symptoms.",
+    "pubmed_id": "24614773",
+    "entities": [
+        [
+            15,
+            29,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            38,
+            47,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            142,
+            151,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            153,
+            163,
+            "aggression",
+            "Disease",
+            "D001523"
+        ],
+        [
+            165,
+            188,
+            "auditory hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            193,
+            202,
+            "delusions",
+            "Disease",
+            "D003072"
+        ],
+        [
+            294,
+            305,
+            "hemiparesis",
+            "Disease",
+            "D010291"
+        ],
+        [
+            349,
+            358,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            372,
+            391,
+            "hemiplegic migraine",
+            "Disease",
+            "D020325"
+        ],
+        [
+            393,
+            402,
+            "Valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            518,
+            527,
+            "Valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            686,
+            700,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            716,
+            736,
+            "N-methyl-D-aspartate",
+            "Chemical",
+            "D016202"
+        ],
+        [
+            738,
+            742,
+            "NMDA",
+            "Chemical",
+            "D016202"
+        ],
+        [
+            822,
+            831,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            840,
+            854,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            859,
+            863,
+            "NMDA",
+            "Chemical",
+            "D016202"
+        ],
+        [
+            884,
+            896,
+            "encephalitis",
+            "Disease",
+            "D004660"
+        ]
+    ],
+    "split_sentence": [
+        "Normoammonemic encephalopathy: solely valproate induced or multiple mechanisms?",
+        "A 77-year-old woman presented with subacute onset progressive confusion, aggression, auditory hallucinations and delusions.",
+        "In the preceding months, the patient had a number of admissions with transient unilateral hemiparesis with facial droop, and had been started on valproate for presumed hemiplegic migraine.",
+        "Valproate was withdrawn soon after admission and her cognitive abilities have gradually improved over 3 months of follow-up.",
+        "Valproate levels taken prior to withdrawal were subtherapeutic and the patient was normoammonaemic.",
+        "EEG undertaken during inpatient stay showed changes consistent with encephalopathy, and low titre N-methyl-D-aspartate (NMDA) receptor antibodies were present in this patient.",
+        "The possible aetiologies of valproate-induced encephalopathy and NMDA receptor-associated encephalitis present a diagnostic dilemma.",
+        "We present a putative combinatorial hypothesis to explain this patient's symptoms."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001927\tDisease\tencephalopathy\tNormoammonemic <target> encephalopathy </target> : solely valproate induced or multiple mechanisms ?",
+        "D014635\tChemical\tvalproate\tNormoammonemic encephalopathy : solely <target> valproate </target> induced or multiple mechanisms ?",
+        "D003221\tDisease\tconfusion\tA 77-year-old woman presented with subacute onset progressive <target> confusion </target> , aggression , auditory hallucinations and delusions .",
+        "D001523\tDisease\taggression\tA 77-year-old woman presented with subacute onset progressive confusion , <target> aggression </target> , auditory hallucinations and delusions .",
+        "D006212\tDisease\tauditory hallucinations\tA 77-year-old woman presented with subacute onset progressive confusion , aggression , <target> auditory hallucinations </target> and delusions .",
+        "D003072\tDisease\tdelusions\tA 77-year-old woman presented with subacute onset progressive confusion , aggression , auditory hallucinations and <target> delusions </target> .",
+        "D010291\tDisease\themiparesis\tIn the preceding months , the patient had a number of admissions with transient unilateral <target> hemiparesis </target> with facial droop , and had been started on valproate for presumed hemiplegic migraine .",
+        "D014635\tChemical\tvalproate\tIn the preceding months , the patient had a number of admissions with transient unilateral hemiparesis with facial droop , and had been started on <target> valproate </target> for presumed hemiplegic migraine .",
+        "D020325\tDisease\themiplegic migraine\tIn the preceding months , the patient had a number of admissions with transient unilateral hemiparesis with facial droop , and had been started on valproate for presumed <target> hemiplegic migraine </target> .",
+        "D014635\tChemical\tValproate\t<target> Valproate </target> was withdrawn soon after admission and her cognitive abilities have gradually improved over 3 months of follow-up .",
+        "D014635\tChemical\tValproate\t<target> Valproate </target> levels taken prior to withdrawal were subtherapeutic and the patient was normoammonaemic .",
+        "D001927\tDisease\tencephalopathy\tEEG undertaken during inpatient stay showed changes consistent with <target> encephalopathy </target> , and low titre N-methyl-D-aspartate ( NMDA ) receptor antibodies were present in this patient .",
+        "D016202\tChemical\tN-methyl-D-aspartate\tEEG undertaken during inpatient stay showed changes consistent with encephalopathy , and low titre <target> N-methyl-D-aspartate </target> ( NMDA ) receptor antibodies were present in this patient .",
+        "D016202\tChemical\tNMDA\tEEG undertaken during inpatient stay showed changes consistent with encephalopathy , and low titre N-methyl-D-aspartate ( <target> NMDA </target> ) receptor antibodies were present in this patient .",
+        "D014635\tChemical\tvalproate\tThe possible aetiologies of <target> valproate </target> -induced encephalopathy and NMDA receptor-associated encephalitis present a diagnostic dilemma .",
+        "D001927\tDisease\tencephalopathy\tThe possible aetiologies of valproate-induced <target> encephalopathy </target> and NMDA receptor-associated encephalitis present a diagnostic dilemma .",
+        "D016202\tChemical\tNMDA\tThe possible aetiologies of valproate-induced encephalopathy and <target> NMDA </target> receptor-associated encephalitis present a diagnostic dilemma .",
+        "D004660\tDisease\tencephalitis\tThe possible aetiologies of valproate-induced encephalopathy and NMDA receptor-associated <target> encephalitis </target> present a diagnostic dilemma ."
+    ],
+    "lines_lemma": [
+        "D001927\tDisease\tencephalopathy\tnormoammonemic <target> encephalopathy </target> : solely valproate induce or multiple mechanism ?",
+        "D014635\tChemical\tvalproate\tnormoammonemic encephalopathy : solely <target> valproate </target> induce or multiple mechanism ?",
+        "D003221\tDisease\tconfusion\ta 77-year-old woman present with subacute onset progressive <target> confusion </target> , aggression , auditory hallucination and delusion .",
+        "D001523\tDisease\taggression\ta 77-year-old woman present with subacute onset progressive confusion , <target> aggression </target> , auditory hallucination and delusion .",
+        "D006212\tDisease\tauditory hallucinations\ta 77-year-old woman present with subacute onset progressive confusion , aggression , <target> auditory hallucination </target> and delusion .",
+        "D003072\tDisease\tdelusions\ta 77-year-old woman present with subacute onset progressive confusion , aggression , auditory hallucination and <target> delusion </target> .",
+        "D010291\tDisease\themiparesis\tin the precede month , the patient have a number of admission with transient unilateral <target> hemiparesis </target> with facial droop , and have be start on valproate for presume hemiplegic migraine .",
+        "D014635\tChemical\tvalproate\tin the precede month , the patient have a number of admission with transient unilateral hemiparesis with facial droop , and have be start on <target> valproate </target> for presume hemiplegic migraine .",
+        "D020325\tDisease\themiplegic migraine\tin the precede month , the patient have a number of admission with transient unilateral hemiparesis with facial droop , and have be start on valproate for presume <target> hemiplegic migraine </target> .",
+        "D014635\tChemical\tValproate\t<target> Valproate </target> be withdraw soon after admission and her cognitive ability have gradually improve over 3 month of follow-up .",
+        "D014635\tChemical\tValproate\t<target> Valproate </target> level take prior to withdrawal be subtherapeutic and the patient be normoammonaemic .",
+        "D001927\tDisease\tencephalopathy\teeg undertake during inpatient stay show change consistent with <target> encephalopathy </target> , and low titre n-methyl-d-aspartate ( nmda ) receptor antibody be present in this patient .",
+        "D016202\tChemical\tN-methyl-D-aspartate\teeg undertake during inpatient stay show change consistent with encephalopathy , and low titre <target> n-methyl-d-aspartate </target> ( nmda ) receptor antibody be present in this patient .",
+        "D016202\tChemical\tNMDA\teeg undertake during inpatient stay show change consistent with encephalopathy , and low titre n-methyl-d-aspartate ( <target> nmda </target> ) receptor antibody be present in this patient .",
+        "D014635\tChemical\tvalproate\tthe possible aetiology of <target> valproate </target> -induced encephalopathy and nmda receptor-associated encephalitis present a diagnostic dilemma .",
+        "D001927\tDisease\tencephalopathy\tthe possible aetiology of valproate-induced <target> encephalopathy </target> and nmda receptor-associated encephalitis present a diagnostic dilemma .",
+        "D016202\tChemical\tNMDA\tthe possible aetiology of valproate-induced encephalopathy and <target> nmda </target> receptor-associated encephalitis present a diagnostic dilemma .",
+        "D004660\tDisease\tencephalitis\tthe possible aetiology of valproate-induced encephalopathy and nmda receptor-associated <target> encephalitis </target> present a diagnostic dilemma ."
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Neonatal pyridoxine responsive convulsions due to isoniazid therapy.",
+    "abst": "A 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal tuberculosis was admitted after 4 days of clonic fits. No underlying infective or biochemical cause could be found. The fits ceased within 4 hours of administering intramuscular pyridoxine, suggesting an aetiology of pyridoxine deficiency secondary to isoniazid medication.",
+    "title_plus_abst": "Neonatal pyridoxine responsive convulsions due to isoniazid therapy. A 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal tuberculosis was admitted after 4 days of clonic fits. No underlying infective or biochemical cause could be found. The fits ceased within 4 hours of administering intramuscular pyridoxine, suggesting an aetiology of pyridoxine deficiency secondary to isoniazid medication.",
+    "pubmed_id": "1085609",
+    "entities": [
+        [
+            9,
+            19,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            31,
+            42,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            50,
+            59,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            92,
+            101,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            156,
+            168,
+            "tuberculosis",
+            "Disease",
+            "D014376"
+        ],
+        [
+            198,
+            209,
+            "clonic fits",
+            "Disease",
+            "D012640"
+        ],
+        [
+            276,
+            280,
+            "fits",
+            "Disease",
+            "D012640"
+        ],
+        [
+            334,
+            344,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            373,
+            383,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            408,
+            417,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ]
+    ],
+    "split_sentence": [
+        "Neonatal pyridoxine responsive convulsions due to isoniazid therapy.",
+        "A 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal tuberculosis was admitted after 4 days of clonic fits.",
+        "No underlying infective or biochemical cause could be found.",
+        "The fits ceased within 4 hours of administering intramuscular pyridoxine, suggesting an aetiology of pyridoxine deficiency secondary to isoniazid medication."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011736\tChemical\tpyridoxine\tNeonatal <target> pyridoxine </target> responsive convulsions due to isoniazid therapy .",
+        "D012640\tDisease\tconvulsions\tNeonatal pyridoxine responsive <target> convulsions </target> due to isoniazid therapy .",
+        "D007538\tChemical\tisoniazid\tNeonatal pyridoxine responsive convulsions due to <target> isoniazid </target> therapy .",
+        "D007538\tChemical\tisoniazid\tA 17-day-old infant on <target> isoniazid </target> therapy 13 mg/kg daily from birth because of maternal tuberculosis was admitted after 4 days of clonic fits .",
+        "D014376\tDisease\ttuberculosis\tA 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal <target> tuberculosis </target> was admitted after 4 days of clonic fits .",
+        "D012640\tDisease\tclonic fits\tA 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal tuberculosis was admitted after 4 days of <target> clonic fits </target> .",
+        "D012640\tDisease\tfits\tThe <target> fits </target> ceased within 4 hours of administering intramuscular pyridoxine , suggesting an aetiology of pyridoxine deficiency secondary to isoniazid medication .",
+        "D011736\tChemical\tpyridoxine\tThe fits ceased within 4 hours of administering intramuscular <target> pyridoxine </target> , suggesting an aetiology of pyridoxine deficiency secondary to isoniazid medication .",
+        "D011736\tChemical\tpyridoxine\tThe fits ceased within 4 hours of administering intramuscular pyridoxine , suggesting an aetiology of <target> pyridoxine </target> deficiency secondary to isoniazid medication .",
+        "D007538\tChemical\tisoniazid\tThe fits ceased within 4 hours of administering intramuscular pyridoxine , suggesting an aetiology of pyridoxine deficiency secondary to <target> isoniazid </target> medication ."
+    ],
+    "lines_lemma": [
+        "D011736\tChemical\tpyridoxine\tneonatal <target> pyridoxine </target> responsive convulsion due to isoniazid therapy .",
+        "D012640\tDisease\tconvulsions\tneonatal pyridoxine responsive <target> convulsion </target> due to isoniazid therapy .",
+        "D007538\tChemical\tisoniazid\tneonatal pyridoxine responsive convulsion due to <target> isoniazid </target> therapy .",
+        "D007538\tChemical\tisoniazid\ta 17-day-old infant on <target> isoniazid </target> therapy 13 mg/kg daily from birth because of maternal tuberculosis be admit after 4 day of clonic fit .",
+        "D014376\tDisease\ttuberculosis\ta 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal <target> tuberculosis </target> be admit after 4 day of clonic fit .",
+        "D012640\tDisease\tclonic fits\ta 17-day-old infant on isoniazid therapy 13 mg/kg daily from birth because of maternal tuberculosis be admit after 4 day of <target> clonic fit </target> .",
+        "D012640\tDisease\tfits\tthe <target> fit </target> cease within 4 hour of administer intramuscular pyridoxine , suggest an aetiology of pyridoxine deficiency secondary to isoniazid medication .",
+        "D011736\tChemical\tpyridoxine\tthe fit cease within 4 hour of administer intramuscular <target> pyridoxine </target> , suggest an aetiology of pyridoxine deficiency secondary to isoniazid medication .",
+        "D011736\tChemical\tpyridoxine\tthe fit cease within 4 hour of administer intramuscular pyridoxine , suggest an aetiology of <target> pyridoxine </target> deficiency secondary to isoniazid medication .",
+        "D007538\tChemical\tisoniazid\tthe fit cease within 4 hour of administer intramuscular pyridoxine , suggest an aetiology of pyridoxine deficiency secondary to <target> isoniazid </target> medication ."
+    ]
+}

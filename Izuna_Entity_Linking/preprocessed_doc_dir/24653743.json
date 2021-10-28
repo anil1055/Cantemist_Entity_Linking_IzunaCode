@@ -1,0 +1,138 @@
+{
+    "title": "A Case of Sudden Cardiac Death due to Pilsicainide-Induced Torsades de Pointes.",
+    "abst": "An 84-year-old male received oral pilsicainide, a pure sodium channel blocker with slow recovery kinetics, to convert his paroxysmal atrial fibrillation to a sinus rhythm; the patient developed sudden cardiac death two days later. The Holter electrocardiogram, which was worn by chance, revealed torsade de pointes with gradually prolonged QT intervals. This drug is rapidly absorbed from the gastrointestinal tract, and most of it is excreted from the kidney. Although the patient's renal function was not highly impaired and the dose of pilsicainide was low, the plasma concentration of pilsicainide may have been high, which can produce torsades de pointes in the octogenarian. Although the oral administration of class IC drugs, including pilsicainide, is effective to terminate atrial fibrillation, careful consideration must be taken before giving these drugs to octogenarians.",
+    "title_plus_abst": "A Case of Sudden Cardiac Death due to Pilsicainide-Induced Torsades de Pointes. An 84-year-old male received oral pilsicainide, a pure sodium channel blocker with slow recovery kinetics, to convert his paroxysmal atrial fibrillation to a sinus rhythm; the patient developed sudden cardiac death two days later. The Holter electrocardiogram, which was worn by chance, revealed torsade de pointes with gradually prolonged QT intervals. This drug is rapidly absorbed from the gastrointestinal tract, and most of it is excreted from the kidney. Although the patient's renal function was not highly impaired and the dose of pilsicainide was low, the plasma concentration of pilsicainide may have been high, which can produce torsades de pointes in the octogenarian. Although the oral administration of class IC drugs, including pilsicainide, is effective to terminate atrial fibrillation, careful consideration must be taken before giving these drugs to octogenarians.",
+    "pubmed_id": "24653743",
+    "entities": [
+        [
+            10,
+            30,
+            "Sudden Cardiac Death",
+            "Disease",
+            "D016757"
+        ],
+        [
+            38,
+            50,
+            "Pilsicainide",
+            "Chemical",
+            "C042288"
+        ],
+        [
+            59,
+            78,
+            "Torsades de Pointes",
+            "Disease",
+            "D016171"
+        ],
+        [
+            114,
+            126,
+            "pilsicainide",
+            "Chemical",
+            "C042288"
+        ],
+        [
+            135,
+            141,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            213,
+            232,
+            "atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            274,
+            294,
+            "sudden cardiac death",
+            "Disease",
+            "D016757"
+        ],
+        [
+            376,
+            394,
+            "torsade de pointes",
+            "Disease",
+            "D016171"
+        ],
+        [
+            619,
+            631,
+            "pilsicainide",
+            "Chemical",
+            "C042288"
+        ],
+        [
+            669,
+            681,
+            "pilsicainide",
+            "Chemical",
+            "C042288"
+        ],
+        [
+            720,
+            739,
+            "torsades de pointes",
+            "Disease",
+            "D016171"
+        ],
+        [
+            823,
+            835,
+            "pilsicainide",
+            "Chemical",
+            "C042288"
+        ],
+        [
+            863,
+            882,
+            "atrial fibrillation",
+            "Disease",
+            "D001281"
+        ]
+    ],
+    "split_sentence": [
+        "A Case of Sudden Cardiac Death due to Pilsicainide-Induced Torsades de Pointes.",
+        "An 84-year-old male received oral pilsicainide, a pure sodium channel blocker with slow recovery kinetics, to convert his paroxysmal atrial fibrillation to a sinus rhythm; the patient developed sudden cardiac death two days later.",
+        "The Holter electrocardiogram, which was worn by chance, revealed torsade de pointes with gradually prolonged QT intervals.",
+        "This drug is rapidly absorbed from the gastrointestinal tract, and most of it is excreted from the kidney.",
+        "Although the patient's renal function was not highly impaired and the dose of pilsicainide was low, the plasma concentration of pilsicainide may have been high, which can produce torsades de pointes in the octogenarian.",
+        "Although the oral administration of class IC drugs, including pilsicainide, is effective to terminate atrial fibrillation, careful consideration must be taken before giving these drugs to octogenarians."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016757\tDisease\tSudden Cardiac Death\tA Case of <target> Sudden Cardiac Death </target> due to Pilsicainide-Induced Torsades de Pointes .",
+        "C042288\tChemical\tPilsicainide\tA Case of Sudden Cardiac Death due to <target> Pilsicainide </target> -Induced Torsades de Pointes .",
+        "D016171\tDisease\tTorsades de Pointes\tA Case of Sudden Cardiac Death due to Pilsicainide-Induced <target> Torsades de Pointes </target> .",
+        "C042288\tChemical\tpilsicainide\tAn 84-year-old male received oral <target> pilsicainide </target> , a pure sodium channel blocker with slow recovery kinetics , to convert his paroxysmal atrial fibrillation to a sinus rhythm ; the patient developed sudden cardiac death two days later .",
+        "D012964\tChemical\tsodium\tAn 84-year-old male received oral pilsicainide , a pure <target> sodium </target> channel blocker with slow recovery kinetics , to convert his paroxysmal atrial fibrillation to a sinus rhythm ; the patient developed sudden cardiac death two days later .",
+        "D001281\tDisease\tatrial fibrillation\tAn 84-year-old male received oral pilsicainide , a pure sodium channel blocker with slow recovery kinetics , to convert his paroxysmal <target> atrial fibrillation </target> to a sinus rhythm ; the patient developed sudden cardiac death two days later .",
+        "D016757\tDisease\tsudden cardiac death\tAn 84-year-old male received oral pilsicainide , a pure sodium channel blocker with slow recovery kinetics , to convert his paroxysmal atrial fibrillation to a sinus rhythm ; the patient developed <target> sudden cardiac death </target> two days later .",
+        "D016171\tDisease\ttorsade de pointes\tThe Holter electrocardiogram , which was worn by chance , revealed <target> torsade de pointes </target> with gradually prolonged QT intervals .",
+        "C042288\tChemical\tpilsicainide\tAlthough the patient 's renal function was not highly impaired and the dose of <target> pilsicainide </target> was low , the plasma concentration of pilsicainide may have been high , which can produce torsades de pointes in the octogenarian .",
+        "C042288\tChemical\tpilsicainide\tAlthough the patient 's renal function was not highly impaired and the dose of pilsicainide was low , the plasma concentration of <target> pilsicainide </target> may have been high , which can produce torsades de pointes in the octogenarian .",
+        "D016171\tDisease\ttorsades de pointes\tAlthough the patient 's renal function was not highly impaired and the dose of pilsicainide was low , the plasma concentration of pilsicainide may have been high , which can produce <target> torsades de pointes </target> in the octogenarian .",
+        "C042288\tChemical\tpilsicainide\tAlthough the oral administration of class IC drugs , including <target> pilsicainide </target> , is effective to terminate atrial fibrillation , careful consideration must be taken before giving these drugs to octogenarians .",
+        "D001281\tDisease\tatrial fibrillation\tAlthough the oral administration of class IC drugs , including pilsicainide , is effective to terminate <target> atrial fibrillation </target> , careful consideration must be taken before giving these drugs to octogenarians ."
+    ],
+    "lines_lemma": [
+        "D016757\tDisease\tSudden Cardiac Death\ta case of <target> Sudden Cardiac death </target> due to pilsicainide-induced Torsades de Pointes .",
+        "C042288\tChemical\tPilsicainide\ta case of Sudden Cardiac death due to <target> pilsicainide </target> -induced Torsades de Pointes .",
+        "D016171\tDisease\tTorsades de Pointes\ta case of Sudden Cardiac death due to pilsicainide-induced <target> Torsades de Pointes </target> .",
+        "C042288\tChemical\tpilsicainide\tan 84-year-old male receive oral <target> pilsicainide </target> , a pure sodium channel blocker with slow recovery kinetic , to convert his paroxysmal atrial fibrillation to a sinus rhythm ; the patient develop sudden cardiac death two day later .",
+        "D012964\tChemical\tsodium\tan 84-year-old male receive oral pilsicainide , a pure <target> sodium </target> channel blocker with slow recovery kinetic , to convert his paroxysmal atrial fibrillation to a sinus rhythm ; the patient develop sudden cardiac death two day later .",
+        "D001281\tDisease\tatrial fibrillation\tan 84-year-old male receive oral pilsicainide , a pure sodium channel blocker with slow recovery kinetic , to convert his paroxysmal <target> atrial fibrillation </target> to a sinus rhythm ; the patient develop sudden cardiac death two day later .",
+        "D016757\tDisease\tsudden cardiac death\tan 84-year-old male receive oral pilsicainide , a pure sodium channel blocker with slow recovery kinetic , to convert his paroxysmal atrial fibrillation to a sinus rhythm ; the patient develop <target> sudden cardiac death </target> two day later .",
+        "D016171\tDisease\ttorsade de pointes\tthe Holter electrocardiogram , which be wear by chance , reveal <target> torsade de pointe </target> with gradually prolonged qt interval .",
+        "C042288\tChemical\tpilsicainide\talthough the patient 's renal function be not highly impaired and the dose of <target> pilsicainide </target> be low , the plasma concentration of pilsicainide may have be high , which can produce torsade de pointe in the octogenarian .",
+        "C042288\tChemical\tpilsicainide\talthough the patient 's renal function be not highly impaired and the dose of pilsicainide be low , the plasma concentration of <target> pilsicainide </target> may have be high , which can produce torsade de pointe in the octogenarian .",
+        "D016171\tDisease\ttorsades de pointes\talthough the patient 's renal function be not highly impaired and the dose of pilsicainide be low , the plasma concentration of pilsicainide may have be high , which can produce <target> torsade de pointe </target> in the octogenarian .",
+        "C042288\tChemical\tpilsicainide\talthough the oral administration of class ic drug , include <target> pilsicainide </target> , be effective to terminate atrial fibrillation , careful consideration must be take before give these drug to octogenarian .",
+        "D001281\tDisease\tatrial fibrillation\talthough the oral administration of class ic drug , include pilsicainide , be effective to terminate <target> atrial fibrillation </target> , careful consideration must be take before give these drug to octogenarian ."
+    ]
+}

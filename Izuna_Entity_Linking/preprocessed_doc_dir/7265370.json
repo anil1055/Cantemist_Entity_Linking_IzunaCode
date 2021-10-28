@@ -1,0 +1,109 @@
+{
+    "title": "Triamterene nephrolithiasis complicating dyazide therapy.",
+    "abst": "A case of triamterene nephrolithiasis is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for hypertension. The stone passed spontaneously and was found to contain a triamterene metabolite admixed with uric acid salts. Factors affecting triamterene nephrolithiasis are discussed and 2 previously reported cases are reviewed.",
+    "title_plus_abst": "Triamterene nephrolithiasis complicating dyazide therapy. A case of triamterene nephrolithiasis is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for hypertension. The stone passed spontaneously and was found to contain a triamterene metabolite admixed with uric acid salts. Factors affecting triamterene nephrolithiasis are discussed and 2 previously reported cases are reviewed.",
+    "pubmed_id": "7265370",
+    "entities": [
+        [
+            0,
+            11,
+            "Triamterene",
+            "Chemical",
+            "D014223"
+        ],
+        [
+            12,
+            27,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            41,
+            48,
+            "dyazide",
+            "Chemical",
+            "C020743"
+        ],
+        [
+            68,
+            79,
+            "triamterene",
+            "Chemical",
+            "D014223"
+        ],
+        [
+            80,
+            95,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            134,
+            165,
+            "hydrochlorothiazide-triamterene",
+            "Chemical",
+            "C020743"
+        ],
+        [
+            178,
+            190,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            250,
+            261,
+            "triamterene",
+            "Chemical",
+            "D014223"
+        ],
+        [
+            321,
+            332,
+            "triamterene",
+            "Chemical",
+            "D014223"
+        ],
+        [
+            333,
+            348,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ]
+    ],
+    "split_sentence": [
+        "Triamterene nephrolithiasis complicating dyazide therapy.",
+        "A case of triamterene nephrolithiasis is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for hypertension.",
+        "The stone passed spontaneously and was found to contain a triamterene metabolite admixed with uric acid salts.",
+        "Factors affecting triamterene nephrolithiasis are discussed and 2 previously reported cases are reviewed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014223\tChemical\tTriamterene\t<target> Triamterene </target> nephrolithiasis complicating dyazide therapy .",
+        "D053040\tDisease\tnephrolithiasis\tTriamterene <target> nephrolithiasis </target> complicating dyazide therapy .",
+        "C020743\tChemical\tdyazide\tTriamterene nephrolithiasis complicating <target> dyazide </target> therapy .",
+        "D014223\tChemical\ttriamterene\tA case of <target> triamterene </target> nephrolithiasis is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for hypertension .",
+        "D053040\tDisease\tnephrolithiasis\tA case of triamterene <target> nephrolithiasis </target> is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for hypertension .",
+        "C020743\tChemical\thydrochlorothiazide-triamterene\tA case of triamterene nephrolithiasis is reported in a man after 4 years of <target> hydrochlorothiazide-triamterene </target> therapy for hypertension .",
+        "D006973\tDisease\thypertension\tA case of triamterene nephrolithiasis is reported in a man after 4 years of hydrochlorothiazide-triamterene therapy for <target> hypertension </target> .",
+        "D014223\tChemical\ttriamterene\tThe stone passed spontaneously and was found to contain a <target> triamterene </target> metabolite admixed with uric acid salts .",
+        "D014223\tChemical\ttriamterene\tFactors affecting <target> triamterene </target> nephrolithiasis are discussed and 2 previously reported cases are reviewed .",
+        "D053040\tDisease\tnephrolithiasis\tFactors affecting triamterene <target> nephrolithiasis </target> are discussed and 2 previously reported cases are reviewed ."
+    ],
+    "lines_lemma": [
+        "D014223\tChemical\tTriamterene\t<target> triamterene </target> nephrolithiasis complicate dyazide therapy .",
+        "D053040\tDisease\tnephrolithiasis\ttriamterene <target> nephrolithiasis </target> complicate dyazide therapy .",
+        "C020743\tChemical\tdyazide\ttriamterene nephrolithiasis complicate <target> dyazide </target> therapy .",
+        "D014223\tChemical\ttriamterene\ta case of <target> triamterene </target> nephrolithiasis be report in a man after 4 year of hydrochlorothiazide-triamterene therapy for hypertension .",
+        "D053040\tDisease\tnephrolithiasis\ta case of triamterene <target> nephrolithiasis </target> be report in a man after 4 year of hydrochlorothiazide-triamterene therapy for hypertension .",
+        "C020743\tChemical\thydrochlorothiazide-triamterene\ta case of triamterene nephrolithiasis be report in a man after 4 year of <target> hydrochlorothiazide-triamterene </target> therapy for hypertension .",
+        "D006973\tDisease\thypertension\ta case of triamterene nephrolithiasis be report in a man after 4 year of hydrochlorothiazide-triamterene therapy for <target> hypertension </target> .",
+        "D014223\tChemical\ttriamterene\tthe stone pass spontaneously and be find to contain a <target> triamterene </target> metabolite admix with uric acid salt .",
+        "D014223\tChemical\ttriamterene\tfactor affect <target> triamterene </target> nephrolithiasis be discuss and 2 previously report case be review .",
+        "D053040\tDisease\tnephrolithiasis\tfactor affect triamterene <target> nephrolithiasis </target> be discuss and 2 previously report case be review ."
+    ]
+}

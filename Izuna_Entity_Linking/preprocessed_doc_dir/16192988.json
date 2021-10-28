@@ -1,0 +1,177 @@
+{
+    "title": "Methamphetamine causes alterations in the MAP kinase-related pathways in the brains of mice that display increased aggressiveness.",
+    "abst": "Aggressive behaviors have been reported in patients who suffer from some psychiatric disorders, and are common in methamphetamine (METH) abusers. Herein, we report that multiple (but not single) injections of METH significantly increased aggressiveness in male CD-1 mice. This increase in aggressiveness was not secondary to METH-induced hyperactivity. Analysis of protein expression using antibody microarrays and Western blotting revealed differential changes in MAP kinase-related pathways after multiple and single METH injections. There were statistically significant (p<0.05) decreases in MEK1, Erk2p, GSK3alpha, 14-3-3e, and MEK7 in the striata of mice after multiple injections of METH. MEK1 was significantly decreased also after a single injection of METH, but to a much lesser degree than after multiple injections of METH. In the frontal cortex, there was a statistically significant decrease in GSK3alpha after multiple (but not single) injections of METH. These findings suggest that alterations in MAP kinase-related pathways in the prefronto-striatal circuitries might be involved in the manifestation of aggressive behaviors in mice.",
+    "title_plus_abst": "Methamphetamine causes alterations in the MAP kinase-related pathways in the brains of mice that display increased aggressiveness. Aggressive behaviors have been reported in patients who suffer from some psychiatric disorders, and are common in methamphetamine (METH) abusers. Herein, we report that multiple (but not single) injections of METH significantly increased aggressiveness in male CD-1 mice. This increase in aggressiveness was not secondary to METH-induced hyperactivity. Analysis of protein expression using antibody microarrays and Western blotting revealed differential changes in MAP kinase-related pathways after multiple and single METH injections. There were statistically significant (p<0.05) decreases in MEK1, Erk2p, GSK3alpha, 14-3-3e, and MEK7 in the striata of mice after multiple injections of METH. MEK1 was significantly decreased also after a single injection of METH, but to a much lesser degree than after multiple injections of METH. In the frontal cortex, there was a statistically significant decrease in GSK3alpha after multiple (but not single) injections of METH. These findings suggest that alterations in MAP kinase-related pathways in the prefronto-striatal circuitries might be involved in the manifestation of aggressive behaviors in mice.",
+    "pubmed_id": "16192988",
+    "entities": [
+        [
+            0,
+            15,
+            "Methamphetamine",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            115,
+            129,
+            "aggressiveness",
+            "Disease",
+            "D001523"
+        ],
+        [
+            131,
+            151,
+            "Aggressive behaviors",
+            "Disease",
+            "D001523"
+        ],
+        [
+            204,
+            225,
+            "psychiatric disorders",
+            "Disease",
+            "D001523"
+        ],
+        [
+            245,
+            260,
+            "methamphetamine",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            262,
+            266,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            340,
+            344,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            369,
+            383,
+            "aggressiveness",
+            "Disease",
+            "D001523"
+        ],
+        [
+            420,
+            434,
+            "aggressiveness",
+            "Disease",
+            "D001523"
+        ],
+        [
+            456,
+            460,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            469,
+            482,
+            "hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            650,
+            654,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            820,
+            824,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            892,
+            896,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            960,
+            964,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            1095,
+            1099,
+            "METH",
+            "Chemical",
+            "D008694"
+        ],
+        [
+            1252,
+            1272,
+            "aggressive behaviors",
+            "Disease",
+            "D001523"
+        ]
+    ],
+    "split_sentence": [
+        "Methamphetamine causes alterations in the MAP kinase-related pathways in the brains of mice that display increased aggressiveness.",
+        "Aggressive behaviors have been reported in patients who suffer from some psychiatric disorders, and are common in methamphetamine (METH) abusers.",
+        "Herein, we report that multiple (but not single) injections of METH significantly increased aggressiveness in male CD-1 mice.",
+        "This increase in aggressiveness was not secondary to METH-induced hyperactivity.",
+        "Analysis of protein expression using antibody microarrays and Western blotting revealed differential changes in MAP kinase-related pathways after multiple and single METH injections.",
+        "There were statistically significant (p<0.05) decreases in MEK1, Erk2p, GSK3alpha, 14-3-3e, and MEK7 in the striata of mice after multiple injections of METH.",
+        "MEK1 was significantly decreased also after a single injection of METH, but to a much lesser degree than after multiple injections of METH.",
+        "In the frontal cortex, there was a statistically significant decrease in GSK3alpha after multiple (but not single) injections of METH.",
+        "These findings suggest that alterations in MAP kinase-related pathways in the prefronto-striatal circuitries might be involved in the manifestation of aggressive behaviors in mice."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008694\tChemical\tMethamphetamine\t<target> Methamphetamine </target> causes alterations in the MAP kinase-related pathways in the brains of mice that display increased aggressiveness .",
+        "D001523\tDisease\taggressiveness\tMethamphetamine causes alterations in the MAP kinase-related pathways in the brains of mice that display increased <target> aggressiveness </target> .",
+        "D001523\tDisease\tAggressive behaviors\t<target> Aggressive behaviors </target> have been reported in patients who suffer from some psychiatric disorders , and are common in methamphetamine ( METH ) abusers .",
+        "D001523\tDisease\tpsychiatric disorders\tAggressive behaviors have been reported in patients who suffer from some <target> psychiatric disorders </target> , and are common in methamphetamine ( METH ) abusers .",
+        "D008694\tChemical\tmethamphetamine\tAggressive behaviors have been reported in patients who suffer from some psychiatric disorders , and are common in <target> methamphetamine </target> ( METH ) abusers .",
+        "D008694\tChemical\tMETH\tAggressive behaviors have been reported in patients who suffer from some psychiatric disorders , and are common in methamphetamine ( <target> METH </target> ) abusers .",
+        "D008694\tChemical\tMETH\tHerein , we report that multiple ( but not single ) injections of <target> METH </target> significantly increased aggressiveness in male CD-1 mice .",
+        "D001523\tDisease\taggressiveness\tHerein , we report that multiple ( but not single ) injections of METH significantly increased <target> aggressiveness </target> in male CD-1 mice .",
+        "D001523\tDisease\taggressiveness\tThis increase in <target> aggressiveness </target> was not secondary to METH-induced hyperactivity .",
+        "D008694\tChemical\tMETH\tThis increase in aggressiveness was not secondary to <target> METH </target> -induced hyperactivity .",
+        "D006948\tDisease\thyperactivity\tThis increase in aggressiveness was not secondary to METH-induced <target> hyperactivity </target> .",
+        "D008694\tChemical\tMETH\tAnalysis of protein expression using antibody microarrays and Western blotting revealed differential changes in MAP kinase-related pathways after multiple and single <target> METH </target> injections .",
+        "D008694\tChemical\tMETH\tThere were statistically significant ( p<0.05 ) decreases in MEK1 , Erk2p , GSK3alpha , 14 - 3 - 3e , and MEK7 in the striata of mice after multiple injections of <target> METH </target> .",
+        "D008694\tChemical\tMETH\tMEK1 was significantly decreased also after a single injection of <target> METH </target> , but to a much lesser degree than after multiple injections of METH .",
+        "D008694\tChemical\tMETH\tMEK1 was significantly decreased also after a single injection of METH , but to a much lesser degree than after multiple injections of <target> METH </target> .",
+        "D008694\tChemical\tMETH\tIn the frontal cortex , there was a statistically significant decrease in GSK3alpha after multiple ( but not single ) injections of <target> METH </target> .",
+        "D001523\tDisease\taggressive behaviors\tThese findings suggest that alterations in MAP kinase-related pathways in the prefronto-striatal circuitries might be involved in the manifestation of <target> aggressive behaviors </target> in mice ."
+    ],
+    "lines_lemma": [
+        "D008694\tChemical\tMethamphetamine\t<target> Methamphetamine </target> cause alteration in the map kinase-related pathway in the brain of mouse that display increase aggressiveness .",
+        "D001523\tDisease\taggressiveness\tMethamphetamine cause alteration in the map kinase-related pathway in the brain of mouse that display increase <target> aggressiveness </target> .",
+        "D001523\tDisease\tAggressive behaviors\t<target> aggressive behavior </target> have be report in patient who suffer from some psychiatric disorder , and be common in methamphetamine ( meth ) abuser .",
+        "D001523\tDisease\tpsychiatric disorders\taggressive behavior have be report in patient who suffer from some <target> psychiatric disorder </target> , and be common in methamphetamine ( meth ) abuser .",
+        "D008694\tChemical\tmethamphetamine\taggressive behavior have be report in patient who suffer from some psychiatric disorder , and be common in <target> methamphetamine </target> ( meth ) abuser .",
+        "D008694\tChemical\tMETH\taggressive behavior have be report in patient who suffer from some psychiatric disorder , and be common in methamphetamine ( <target> meth </target> ) abuser .",
+        "D008694\tChemical\tMETH\therein , we report that multiple ( but not single ) injection of <target> meth </target> significantly increase aggressiveness in male cd-1 mouse .",
+        "D001523\tDisease\taggressiveness\therein , we report that multiple ( but not single ) injection of meth significantly increase <target> aggressiveness </target> in male cd-1 mouse .",
+        "D001523\tDisease\taggressiveness\tthis increase in <target> aggressiveness </target> be not secondary to meth-induced hyperactivity .",
+        "D008694\tChemical\tMETH\tthis increase in aggressiveness be not secondary to <target> meth </target> -induced hyperactivity .",
+        "D006948\tDisease\thyperactivity\tthis increase in aggressiveness be not secondary to meth-induced <target> hyperactivity </target> .",
+        "D008694\tChemical\tMETH\tanalysis of protein expression use antibody microarray and western blotting reveal differential change in map kinase-related pathway after multiple and single <target> meth </target> injection .",
+        "D008694\tChemical\tMETH\tthere be statistically significant ( p<0.05 ) decrease in mek1 , erk2p , gsk3alpha , 14 - 3 - 3e , and mek7 in the striata of mouse after multiple injection of <target> meth </target> .",
+        "D008694\tChemical\tMETH\tmek1 be significantly decrease also after a single injection of <target> meth </target> , but to a much less degree than after multiple injection of meth .",
+        "D008694\tChemical\tMETH\tmek1 be significantly decrease also after a single injection of meth , but to a much less degree than after multiple injection of <target> meth </target> .",
+        "D008694\tChemical\tMETH\tin the frontal cortex , there be a statistically significant decrease in gsk3alpha after multiple ( but not single ) injection of <target> meth </target> .",
+        "D001523\tDisease\taggressive behaviors\tthese finding suggest that alteration in map kinase-related pathway in the prefronto-striatal circuitry might be involve in the manifestation of <target> aggressive behavior </target> in mouse ."
+    ]
+}

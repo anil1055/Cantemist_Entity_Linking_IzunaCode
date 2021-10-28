@@ -1,0 +1,148 @@
+{
+    "title": "Clarithromycin-induced ventricular tachycardia.",
+    "abst": "Clarithromycin is a relatively new macrolide antibiotic that offers twice-daily dosing. It differs from erythromycin only in the methylation of the hydroxyl group at position 6. Although the side-effect profile of erythromycin is established, including gastroenteritis and interactions with other drugs subject to hepatic mixed-function oxidase metabolism, experience with the newer macrolides is still being recorded. Cardiotoxicity has been demonstrated after both intravenous and oral administration of erythromycin but has never been reported with the newer macrolides. We report a case of ventricular dysrhythmias that occurred after six therapeutic doses of clarithromycin. The dysrhythmias resolved after discontinuation of the drug.",
+    "title_plus_abst": "Clarithromycin-induced ventricular tachycardia. Clarithromycin is a relatively new macrolide antibiotic that offers twice-daily dosing. It differs from erythromycin only in the methylation of the hydroxyl group at position 6. Although the side-effect profile of erythromycin is established, including gastroenteritis and interactions with other drugs subject to hepatic mixed-function oxidase metabolism, experience with the newer macrolides is still being recorded. Cardiotoxicity has been demonstrated after both intravenous and oral administration of erythromycin but has never been reported with the newer macrolides. We report a case of ventricular dysrhythmias that occurred after six therapeutic doses of clarithromycin. The dysrhythmias resolved after discontinuation of the drug.",
+    "pubmed_id": "9326871",
+    "entities": [
+        [
+            0,
+            14,
+            "Clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            23,
+            46,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ],
+        [
+            48,
+            62,
+            "Clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            83,
+            92,
+            "macrolide",
+            "Chemical",
+            "D018942"
+        ],
+        [
+            152,
+            164,
+            "erythromycin",
+            "Chemical",
+            "D004917"
+        ],
+        [
+            262,
+            274,
+            "erythromycin",
+            "Chemical",
+            "D004917"
+        ],
+        [
+            301,
+            316,
+            "gastroenteritis",
+            "Disease",
+            "D005759"
+        ],
+        [
+            431,
+            441,
+            "macrolides",
+            "Chemical",
+            "D018942"
+        ],
+        [
+            467,
+            481,
+            "Cardiotoxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            554,
+            566,
+            "erythromycin",
+            "Chemical",
+            "D004917"
+        ],
+        [
+            610,
+            620,
+            "macrolides",
+            "Chemical",
+            "D018942"
+        ],
+        [
+            642,
+            666,
+            "ventricular dysrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            712,
+            726,
+            "clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            732,
+            744,
+            "dysrhythmias",
+            "Disease",
+            "D001145"
+        ]
+    ],
+    "split_sentence": [
+        "Clarithromycin-induced ventricular tachycardia.",
+        "Clarithromycin is a relatively new macrolide antibiotic that offers twice-daily dosing.",
+        "It differs from erythromycin only in the methylation of the hydroxyl group at position 6.",
+        "Although the side-effect profile of erythromycin is established, including gastroenteritis and interactions with other drugs subject to hepatic mixed-function oxidase metabolism, experience with the newer macrolides is still being recorded.",
+        "Cardiotoxicity has been demonstrated after both intravenous and oral administration of erythromycin but has never been reported with the newer macrolides.",
+        "We report a case of ventricular dysrhythmias that occurred after six therapeutic doses of clarithromycin.",
+        "The dysrhythmias resolved after discontinuation of the drug."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017291\tChemical\tClarithromycin\t<target> Clarithromycin </target> -induced ventricular tachycardia .",
+        "D017180\tDisease\tventricular tachycardia\tClarithromycin-induced <target> ventricular tachycardia </target> .",
+        "D017291\tChemical\tClarithromycin\t<target> Clarithromycin </target> is a relatively new macrolide antibiotic that offers twice-daily dosing .",
+        "D018942\tChemical\tmacrolide\tClarithromycin is a relatively new <target> macrolide </target> antibiotic that offers twice-daily dosing .",
+        "D004917\tChemical\terythromycin\tIt differs from <target> erythromycin </target> only in the methylation of the hydroxyl group at position 6 .",
+        "D004917\tChemical\terythromycin\tAlthough the side-effect profile of <target> erythromycin </target> is established , including gastroenteritis and interactions with other drugs subject to hepatic mixed-function oxidase metabolism , experience with the newer macrolides is still being recorded .",
+        "D005759\tDisease\tgastroenteritis\tAlthough the side-effect profile of erythromycin is established , including <target> gastroenteritis </target> and interactions with other drugs subject to hepatic mixed-function oxidase metabolism , experience with the newer macrolides is still being recorded .",
+        "D018942\tChemical\tmacrolides\tAlthough the side-effect profile of erythromycin is established , including gastroenteritis and interactions with other drugs subject to hepatic mixed-function oxidase metabolism , experience with the newer <target> macrolides </target> is still being recorded .",
+        "D066126\tDisease\tCardiotoxicity\t<target> Cardiotoxicity </target> has been demonstrated after both intravenous and oral administration of erythromycin but has never been reported with the newer macrolides .",
+        "D004917\tChemical\terythromycin\tCardiotoxicity has been demonstrated after both intravenous and oral administration of <target> erythromycin </target> but has never been reported with the newer macrolides .",
+        "D018942\tChemical\tmacrolides\tCardiotoxicity has been demonstrated after both intravenous and oral administration of erythromycin but has never been reported with the newer <target> macrolides </target> .",
+        "D001145\tDisease\tventricular dysrhythmias\tWe report a case of <target> ventricular dysrhythmias </target> that occurred after six therapeutic doses of clarithromycin .",
+        "D017291\tChemical\tclarithromycin\tWe report a case of ventricular dysrhythmias that occurred after six therapeutic doses of <target> clarithromycin </target> .",
+        "D001145\tDisease\tdysrhythmias\tThe <target> dysrhythmias </target> resolved after discontinuation of the drug ."
+    ],
+    "lines_lemma": [
+        "D017291\tChemical\tClarithromycin\t<target> clarithromycin </target> -induced ventricular tachycardia .",
+        "D017180\tDisease\tventricular tachycardia\tclarithromycin-induced <target> ventricular tachycardia </target> .",
+        "D017291\tChemical\tClarithromycin\t<target> Clarithromycin </target> be a relatively new macrolide antibiotic that offer twice-daily dosing .",
+        "D018942\tChemical\tmacrolide\tClarithromycin be a relatively new <target> macrolide </target> antibiotic that offer twice-daily dosing .",
+        "D004917\tChemical\terythromycin\tit differ from <target> erythromycin </target> only in the methylation of the hydroxyl group at position 6 .",
+        "D004917\tChemical\terythromycin\talthough the side-effect profile of <target> erythromycin </target> be establish , include gastroenteritis and interaction with other drug subject to hepatic mixed-function oxidase metabolism , experience with the new macrolide be still be record .",
+        "D005759\tDisease\tgastroenteritis\talthough the side-effect profile of erythromycin be establish , include <target> gastroenteritis </target> and interaction with other drug subject to hepatic mixed-function oxidase metabolism , experience with the new macrolide be still be record .",
+        "D018942\tChemical\tmacrolides\talthough the side-effect profile of erythromycin be establish , include gastroenteritis and interaction with other drug subject to hepatic mixed-function oxidase metabolism , experience with the newer <target> macrolide </target> be still be record .",
+        "D066126\tDisease\tCardiotoxicity\t<target> Cardiotoxicity </target> have be demonstrate after both intravenous and oral administration of erythromycin but have never be report with the newer macrolide .",
+        "D004917\tChemical\terythromycin\tcardiotoxicity have be demonstrate after both intravenous and oral administration of <target> erythromycin </target> but have never be report with the newer macrolide .",
+        "D018942\tChemical\tmacrolides\tcardiotoxicity have be demonstrate after both intravenous and oral administration of erythromycin but have never be report with the newer <target> macrolide </target> .",
+        "D001145\tDisease\tventricular dysrhythmias\twe report a case of <target> ventricular dysrhythmia </target> that occur after six therapeutic dose of clarithromycin .",
+        "D017291\tChemical\tclarithromycin\twe report a case of ventricular dysrhythmia that occur after six therapeutic dose of <target> clarithromycin </target> .",
+        "D001145\tDisease\tdysrhythmias\tthe <target> dysrhythmia </target> resolve after discontinuation of the drug ."
+    ]
+}

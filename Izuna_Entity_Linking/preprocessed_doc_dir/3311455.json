@@ -1,0 +1,113 @@
+{
+    "title": "Cardiac transplantation: improved quality of survival with a modified immunosuppressive protocol.",
+    "abst": "The effects on renal function on two different immunosuppressive protocols were evaluated retrospectively in two subsequent groups of heart transplant recipients. In group I, cyclosporine was given before the procedure at a loading dose of 17.5 mg/kg and then continued after the procedure to keep a whole blood level about 1000 ng/ml. In group II, cyclosporine was started only after the procedure at a lower dosage and was complemented by azathioprine, which was used for the first postoperative week. Group II showed a better perioperative renal function as determined by serum blood urea nitrogen and serum creatinine levels. Group II also showed a significant decrease of chronic nephrotoxicity secondary to long-term therapy with cyclosporine. Despite this improvement in late renal function, group II still shows a slow rise in serum creatinine. We think that even these lower dosages of cyclosporine can cause chronic nephrotoxicity and that further modification of the immunosuppressive regimen is required to completely abolish this toxic side effect.",
+    "title_plus_abst": "Cardiac transplantation: improved quality of survival with a modified immunosuppressive protocol. The effects on renal function on two different immunosuppressive protocols were evaluated retrospectively in two subsequent groups of heart transplant recipients. In group I, cyclosporine was given before the procedure at a loading dose of 17.5 mg/kg and then continued after the procedure to keep a whole blood level about 1000 ng/ml. In group II, cyclosporine was started only after the procedure at a lower dosage and was complemented by azathioprine, which was used for the first postoperative week. Group II showed a better perioperative renal function as determined by serum blood urea nitrogen and serum creatinine levels. Group II also showed a significant decrease of chronic nephrotoxicity secondary to long-term therapy with cyclosporine. Despite this improvement in late renal function, group II still shows a slow rise in serum creatinine. We think that even these lower dosages of cyclosporine can cause chronic nephrotoxicity and that further modification of the immunosuppressive regimen is required to completely abolish this toxic side effect.",
+    "pubmed_id": "3311455",
+    "entities": [
+        [
+            273,
+            285,
+            "cyclosporine",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            447,
+            459,
+            "cyclosporine",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            539,
+            551,
+            "azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            685,
+            698,
+            "urea nitrogen",
+            "Chemical",
+            "D001806"
+        ],
+        [
+            709,
+            719,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            783,
+            797,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            834,
+            846,
+            "cyclosporine",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            939,
+            949,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            993,
+            1005,
+            "cyclosporine",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            1024,
+            1038,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiac transplantation: improved quality of survival with a modified immunosuppressive protocol.",
+        "The effects on renal function on two different immunosuppressive protocols were evaluated retrospectively in two subsequent groups of heart transplant recipients.",
+        "In group I, cyclosporine was given before the procedure at a loading dose of 17.5 mg/kg and then continued after the procedure to keep a whole blood level about 1000 ng/ml.",
+        "In group II, cyclosporine was started only after the procedure at a lower dosage and was complemented by azathioprine, which was used for the first postoperative week.",
+        "Group II showed a better perioperative renal function as determined by serum blood urea nitrogen and serum creatinine levels.",
+        "Group II also showed a significant decrease of chronic nephrotoxicity secondary to long-term therapy with cyclosporine.",
+        "Despite this improvement in late renal function, group II still shows a slow rise in serum creatinine.",
+        "We think that even these lower dosages of cyclosporine can cause chronic nephrotoxicity and that further modification of the immunosuppressive regimen is required to completely abolish this toxic side effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016572\tChemical\tcyclosporine\tIn group I , <target> cyclosporine </target> was given before the procedure at a loading dose of 17.5 mg/kg and then continued after the procedure to keep a whole blood level about 1000 ng/ml .",
+        "D016572\tChemical\tcyclosporine\tIn group II , <target> cyclosporine </target> was started only after the procedure at a lower dosage and was complemented by azathioprine , which was used for the first postoperative week .",
+        "D001379\tChemical\tazathioprine\tIn group II , cyclosporine was started only after the procedure at a lower dosage and was complemented by <target> azathioprine </target> , which was used for the first postoperative week .",
+        "D001806\tChemical\turea nitrogen\tGroup II showed a better perioperative renal function as determined by serum blood <target> urea nitrogen </target> and serum creatinine levels .",
+        "D003404\tChemical\tcreatinine\tGroup II showed a better perioperative renal function as determined by serum blood urea nitrogen and serum <target> creatinine </target> levels .",
+        "D007674\tDisease\tnephrotoxicity\tGroup II also showed a significant decrease of chronic <target> nephrotoxicity </target> secondary to long-term therapy with cyclosporine .",
+        "D016572\tChemical\tcyclosporine\tGroup II also showed a significant decrease of chronic nephrotoxicity secondary to long-term therapy with <target> cyclosporine </target> .",
+        "D003404\tChemical\tcreatinine\tDespite this improvement in late renal function , group II still shows a slow rise in serum <target> creatinine </target> .",
+        "D016572\tChemical\tcyclosporine\tWe think that even these lower dosages of <target> cyclosporine </target> can cause chronic nephrotoxicity and that further modification of the immunosuppressive regimen is required to completely abolish this toxic side effect .",
+        "D007674\tDisease\tnephrotoxicity\tWe think that even these lower dosages of cyclosporine can cause chronic <target> nephrotoxicity </target> and that further modification of the immunosuppressive regimen is required to completely abolish this toxic side effect ."
+    ],
+    "lines_lemma": [
+        "D016572\tChemical\tcyclosporine\tin group i , <target> cyclosporine </target> be give before the procedure at a loading dose of 17.5 mg/kg and then continue after the procedure to keep a whole blood level about 1000 ng/ml .",
+        "D016572\tChemical\tcyclosporine\tin group ii , <target> cyclosporine </target> be start only after the procedure at a low dosage and be complement by azathioprine , which be use for the first postoperative week .",
+        "D001379\tChemical\tazathioprine\tin group ii , cyclosporine be start only after the procedure at a low dosage and be complement by <target> azathioprine </target> , which be use for the first postoperative week .",
+        "D001806\tChemical\turea nitrogen\tGroup ii show a well perioperative renal function as determine by serum blood <target> urea nitrogen </target> and serum creatinine level .",
+        "D003404\tChemical\tcreatinine\tGroup ii show a well perioperative renal function as determine by serum blood urea nitrogen and serum <target> creatinine </target> level .",
+        "D007674\tDisease\tnephrotoxicity\tGroup ii also show a significant decrease of chronic <target> nephrotoxicity </target> secondary to long-term therapy with cyclosporine .",
+        "D016572\tChemical\tcyclosporine\tGroup ii also show a significant decrease of chronic nephrotoxicity secondary to long-term therapy with <target> cyclosporine </target> .",
+        "D003404\tChemical\tcreatinine\tdespite this improvement in late renal function , group ii still show a slow rise in serum <target> creatinine </target> .",
+        "D016572\tChemical\tcyclosporine\twe think that even these low dosage of <target> cyclosporine </target> can cause chronic nephrotoxicity and that further modification of the immunosuppressive regimen be require to completely abolish this toxic side effect .",
+        "D007674\tDisease\tnephrotoxicity\twe think that even these low dosage of cyclosporine can cause chronic <target> nephrotoxicity </target> and that further modification of the immunosuppressive regimen be require to completely abolish this toxic side effect ."
+    ]
+}

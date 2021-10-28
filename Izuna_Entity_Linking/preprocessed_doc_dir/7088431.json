@@ -1,0 +1,65 @@
+{
+    "title": "Development of clear cell adenocarcinoma in DES-exposed offspring under observation.",
+    "abst": "Two cases of clear cell adenocarcinoma of the vagina detected at follow-up in young women exposed in utero to diethylstilbestrol are reported. One patient, aged 23, had been followed for 2 years before carcinoma was diagnosed; the second patient, aged 22, had been seen on a regular basis for 5 years, 8 months. In both instances, suspicion of the presence of carcinoma was aroused by the palpation of a small nodule in the vaginal fornix. Hysterosalpingography was performed on both patients and, in 1 instance, an abnormal x-ray film was reflected by the gross appearance of the uterine cavity found in the surgical specimen.",
+    "title_plus_abst": "Development of clear cell adenocarcinoma in DES-exposed offspring under observation. Two cases of clear cell adenocarcinoma of the vagina detected at follow-up in young women exposed in utero to diethylstilbestrol are reported. One patient, aged 23, had been followed for 2 years before carcinoma was diagnosed; the second patient, aged 22, had been seen on a regular basis for 5 years, 8 months. In both instances, suspicion of the presence of carcinoma was aroused by the palpation of a small nodule in the vaginal fornix. Hysterosalpingography was performed on both patients and, in 1 instance, an abnormal x-ray film was reflected by the gross appearance of the uterine cavity found in the surgical specimen.",
+    "pubmed_id": "7088431",
+    "entities": [
+        [
+            15,
+            40,
+            "clear cell adenocarcinoma",
+            "Disease",
+            "D018262"
+        ],
+        [
+            44,
+            47,
+            "DES",
+            "Chemical",
+            "D004054"
+        ],
+        [
+            195,
+            213,
+            "diethylstilbestrol",
+            "Chemical",
+            "D004054"
+        ],
+        [
+            287,
+            296,
+            "carcinoma",
+            "Disease",
+            "D002277"
+        ],
+        [
+            445,
+            454,
+            "carcinoma",
+            "Disease",
+            "D002277"
+        ]
+    ],
+    "split_sentence": [
+        "Development of clear cell adenocarcinoma in DES-exposed offspring under observation.",
+        "Two cases of clear cell adenocarcinoma of the vagina detected at follow-up in young women exposed in utero to diethylstilbestrol are reported.",
+        "One patient, aged 23, had been followed for 2 years before carcinoma was diagnosed; the second patient, aged 22, had been seen on a regular basis for 5 years, 8 months.",
+        "In both instances, suspicion of the presence of carcinoma was aroused by the palpation of a small nodule in the vaginal fornix.",
+        "Hysterosalpingography was performed on both patients and, in 1 instance, an abnormal x-ray film was reflected by the gross appearance of the uterine cavity found in the surgical specimen."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018262\tDisease\tclear cell adenocarcinoma\tDevelopment of <target> clear cell adenocarcinoma </target> in DES-exposed offspring under observation .",
+        "D004054\tChemical\tDES\tDevelopment of clear cell adenocarcinoma in <target> DES </target> -exposed offspring under observation .",
+        "D004054\tChemical\tdiethylstilbestrol\tTwo cases of clear cell adenocarcinoma of the vagina detected at follow-up in young women exposed in utero to <target> diethylstilbestrol </target> are reported .",
+        "D002277\tDisease\tcarcinoma\tOne patient , aged 23 , had been followed for 2 years before <target> carcinoma </target> was diagnosed ; the second patient , aged 22 , had been seen on a regular basis for 5 years , 8 months .",
+        "D002277\tDisease\tcarcinoma\tIn both instances , suspicion of the presence of <target> carcinoma </target> was aroused by the palpation of a small nodule in the vaginal fornix ."
+    ],
+    "lines_lemma": [
+        "D018262\tDisease\tclear cell adenocarcinoma\tdevelopment of <target> clear cell adenocarcinoma </target> in des-exposed offspring under observation .",
+        "D004054\tChemical\tDES\tdevelopment of clear cell adenocarcinoma in <target> des </target> -exposed offspring under observation .",
+        "D004054\tChemical\tdiethylstilbestrol\ttwo case of clear cell adenocarcinoma of the vagina detect at follow-up in young woman expose in utero to <target> diethylstilbestrol </target> be report .",
+        "D002277\tDisease\tcarcinoma\tone patient , aged 23 , have be follow for 2 year before <target> carcinoma </target> be diagnose ; the second patient , aged 22 , have be see on a regular basis for 5 year , 8 month .",
+        "D002277\tDisease\tcarcinoma\tin both instance , suspicion of the presence of <target> carcinoma </target> be arouse by the palpation of a small nodule in the vaginal fornix ."
+    ]
+}

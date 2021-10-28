@@ -1,0 +1,173 @@
+{
+    "title": "Tiapride in levodopa-induced involuntary movements.",
+    "abst": "Tiapride, a substituted benzamide derivative closely related to metoclopramide, reduced levodopa-induced peak dose involuntary movements in 16 patients with idiopathic Parkinson's disease. However, an unacceptable increase in disability from Parkinsonism with aggravation of end-of-dose akinesia led to its cessation in 14 patients. Tiapride had no effect on levodopa-induced early morning of \"off-period\" segmental dystonia. These results fail to support the notion that levodopa-induced dyskinesias are caused by overstimulation of a separate group of dopamine receptors.",
+    "title_plus_abst": "Tiapride in levodopa-induced involuntary movements. Tiapride, a substituted benzamide derivative closely related to metoclopramide, reduced levodopa-induced peak dose involuntary movements in 16 patients with idiopathic Parkinson's disease. However, an unacceptable increase in disability from Parkinsonism with aggravation of end-of-dose akinesia led to its cessation in 14 patients. Tiapride had no effect on levodopa-induced early morning of \"off-period\" segmental dystonia. These results fail to support the notion that levodopa-induced dyskinesias are caused by overstimulation of a separate group of dopamine receptors.",
+    "pubmed_id": "458486",
+    "entities": [
+        [
+            0,
+            8,
+            "Tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            12,
+            20,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            29,
+            50,
+            "involuntary movements",
+            "Disease",
+            "D004409"
+        ],
+        [
+            52,
+            60,
+            "Tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            76,
+            85,
+            "benzamide",
+            "Chemical",
+            "C037689"
+        ],
+        [
+            116,
+            130,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            140,
+            148,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            167,
+            188,
+            "involuntary movements",
+            "Disease",
+            "D004409"
+        ],
+        [
+            209,
+            239,
+            "idiopathic Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            294,
+            306,
+            "Parkinsonism",
+            "Disease",
+            "D010300"
+        ],
+        [
+            339,
+            347,
+            "akinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            385,
+            393,
+            "Tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            411,
+            419,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            468,
+            476,
+            "dystonia",
+            "Disease",
+            "D004421"
+        ],
+        [
+            524,
+            532,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            541,
+            552,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            606,
+            614,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ]
+    ],
+    "split_sentence": [
+        "Tiapride in levodopa-induced involuntary movements.",
+        "Tiapride, a substituted benzamide derivative closely related to metoclopramide, reduced levodopa-induced peak dose involuntary movements in 16 patients with idiopathic Parkinson's disease.",
+        "However, an unacceptable increase in disability from Parkinsonism with aggravation of end-of-dose akinesia led to its cessation in 14 patients.",
+        "Tiapride had no effect on levodopa-induced early morning of \"off-period\" segmental dystonia.",
+        "These results fail to support the notion that levodopa-induced dyskinesias are caused by overstimulation of a separate group of dopamine receptors."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D063325\tChemical\tTiapride\t<target> Tiapride </target> in levodopa-induced involuntary movements .",
+        "D007980\tChemical\tlevodopa\tTiapride in <target> levodopa </target> -induced involuntary movements .",
+        "D004409\tDisease\tinvoluntary movements\tTiapride in levodopa-induced <target> involuntary movements </target> .",
+        "D063325\tChemical\tTiapride\t<target> Tiapride </target> , a substituted benzamide derivative closely related to metoclopramide , reduced levodopa-induced peak dose involuntary movements in 16 patients with idiopathic Parkinson 's disease .",
+        "C037689\tChemical\tbenzamide\tTiapride , a substituted <target> benzamide </target> derivative closely related to metoclopramide , reduced levodopa-induced peak dose involuntary movements in 16 patients with idiopathic Parkinson 's disease .",
+        "D008787\tChemical\tmetoclopramide\tTiapride , a substituted benzamide derivative closely related to <target> metoclopramide </target> , reduced levodopa-induced peak dose involuntary movements in 16 patients with idiopathic Parkinson 's disease .",
+        "D007980\tChemical\tlevodopa\tTiapride , a substituted benzamide derivative closely related to metoclopramide , reduced <target> levodopa </target> -induced peak dose involuntary movements in 16 patients with idiopathic Parkinson 's disease .",
+        "D004409\tDisease\tinvoluntary movements\tTiapride , a substituted benzamide derivative closely related to metoclopramide , reduced levodopa-induced peak dose <target> involuntary movements </target> in 16 patients with idiopathic Parkinson 's disease .",
+        "D010300\tDisease\tidiopathic Parkinson's disease\tTiapride , a substituted benzamide derivative closely related to metoclopramide , reduced levodopa-induced peak dose involuntary movements in 16 patients with <target> idiopathic Parkinson 's disease </target> .",
+        "D010300\tDisease\tParkinsonism\tHowever , an unacceptable increase in disability from <target> Parkinsonism </target> with aggravation of end-of-dose akinesia led to its cessation in 14 patients .",
+        "D004409\tDisease\takinesia\tHowever , an unacceptable increase in disability from Parkinsonism with aggravation of end-of-dose <target> akinesia </target> led to its cessation in 14 patients .",
+        "D063325\tChemical\tTiapride\t<target> Tiapride </target> had no effect on levodopa-induced early morning of \" off-period \" segmental dystonia .",
+        "D007980\tChemical\tlevodopa\tTiapride had no effect on <target> levodopa </target> -induced early morning of \" off-period \" segmental dystonia .",
+        "D004421\tDisease\tdystonia\tTiapride had no effect on levodopa-induced early morning of \" off-period \" segmental <target> dystonia </target> .",
+        "D007980\tChemical\tlevodopa\tThese results fail to support the notion that <target> levodopa </target> -induced dyskinesias are caused by overstimulation of a separate group of dopamine receptors .",
+        "D004409\tDisease\tdyskinesias\tThese results fail to support the notion that levodopa-induced <target> dyskinesias </target> are caused by overstimulation of a separate group of dopamine receptors .",
+        "D004298\tChemical\tdopamine\tThese results fail to support the notion that levodopa-induced dyskinesias are caused by overstimulation of a separate group of <target> dopamine </target> receptors ."
+    ],
+    "lines_lemma": [
+        "D063325\tChemical\tTiapride\t<target> tiapride </target> in levodopa-induced involuntary movement .",
+        "D007980\tChemical\tlevodopa\ttiapride in <target> levodopa </target> -induced involuntary movement .",
+        "D004409\tDisease\tinvoluntary movements\ttiapride in levodopa-induced <target> involuntary movement </target> .",
+        "D063325\tChemical\tTiapride\t<target> tiapride </target> , a substitute benzamide derivative closely related to metoclopramide , reduce levodopa-induced peak dose involuntary movement in 16 patient with idiopathic Parkinson 's disease .",
+        "C037689\tChemical\tbenzamide\ttiapride , a substitute <target> benzamide </target> derivative closely related to metoclopramide , reduce levodopa-induced peak dose involuntary movement in 16 patient with idiopathic Parkinson 's disease .",
+        "D008787\tChemical\tmetoclopramide\ttiapride , a substitute benzamide derivative closely related to <target> metoclopramide </target> , reduce levodopa-induced peak dose involuntary movement in 16 patient with idiopathic Parkinson 's disease .",
+        "D007980\tChemical\tlevodopa\ttiapride , a substitute benzamide derivative closely related to metoclopramide , reduce <target> levodopa </target> -induced peak dose involuntary movement in 16 patient with idiopathic Parkinson 's disease .",
+        "D004409\tDisease\tinvoluntary movements\ttiapride , a substitute benzamide derivative closely related to metoclopramide , reduce levodopa-induced peak dose <target> involuntary movement </target> in 16 patient with idiopathic Parkinson 's disease .",
+        "D010300\tDisease\tidiopathic Parkinson's disease\ttiapride , a substitute benzamide derivative closely related to metoclopramide , reduce levodopa-induced peak dose involuntary movement in 16 patient with <target> idiopathic Parkinson 's disease </target> .",
+        "D010300\tDisease\tParkinsonism\thowever , an unacceptable increase in disability from <target> Parkinsonism </target> with aggravation of end-of-dose akinesia lead to its cessation in 14 patient .",
+        "D004409\tDisease\takinesia\thowever , an unacceptable increase in disability from Parkinsonism with aggravation of end-of-dose <target> akinesia </target> lead to its cessation in 14 patient .",
+        "D063325\tChemical\tTiapride\t<target> tiapride </target> have no effect on levodopa-induced early morning of \" off-period \" segmental dystonia .",
+        "D007980\tChemical\tlevodopa\tTiapride have no effect on <target> levodopa </target> -induced early morning of \" off-period \" segmental dystonia .",
+        "D004421\tDisease\tdystonia\tTiapride have no effect on levodopa-induced early morning of \" off-period \" segmental <target> dystonia </target> .",
+        "D007980\tChemical\tlevodopa\tthese result fail to support the notion that <target> levodopa </target> -induced dyskinesia be cause by overstimulation of a separate group of dopamine receptor .",
+        "D004409\tDisease\tdyskinesias\tthese result fail to support the notion that levodopa-induced <target> dyskinesia </target> be cause by overstimulation of a separate group of dopamine receptor .",
+        "D004298\tChemical\tdopamine\tthese result fail to support the notion that levodopa-induced dyskinesia be cause by overstimulation of a separate group of <target> dopamine </target> receptor ."
+    ]
+}

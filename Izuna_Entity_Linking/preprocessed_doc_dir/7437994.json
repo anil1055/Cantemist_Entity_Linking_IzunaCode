@@ -1,0 +1,98 @@
+{
+    "title": "Long-term lithium treatment and the kidney. Interim report on fifty patients.",
+    "abst": "This is a report on the first part of our study of the effects of long-term lithium treatment on the kidney. Creatinine clearance, maximum urinary osmolality and 24 hour urine volume have been tested in 50 affectively ill patients who have been on long-term lithium for more than one year. These findings have been compared with norms and with values of the same tests from screening prior to lithium, available for most of our patients. No evidence was found for any reduction of glomerular filtration during lithium treatment. Low clearance values found in several patients could be accounted for by their age and their pre-lithium values. Urinary concentration defect appeared frequent but the extent of the impairment is difficult to assess because of the uncertainty about the norms applicable to this group of patients. The concentration defect appeared reversible, at least in part. Polyuria above 3 litres/24 hours was found in 10% of patients. An attempt is made to draw practical conclusions from the preliminary findings.",
+    "title_plus_abst": "Long-term lithium treatment and the kidney. Interim report on fifty patients. This is a report on the first part of our study of the effects of long-term lithium treatment on the kidney. Creatinine clearance, maximum urinary osmolality and 24 hour urine volume have been tested in 50 affectively ill patients who have been on long-term lithium for more than one year. These findings have been compared with norms and with values of the same tests from screening prior to lithium, available for most of our patients. No evidence was found for any reduction of glomerular filtration during lithium treatment. Low clearance values found in several patients could be accounted for by their age and their pre-lithium values. Urinary concentration defect appeared frequent but the extent of the impairment is difficult to assess because of the uncertainty about the norms applicable to this group of patients. The concentration defect appeared reversible, at least in part. Polyuria above 3 litres/24 hours was found in 10% of patients. An attempt is made to draw practical conclusions from the preliminary findings.",
+    "pubmed_id": "7437994",
+    "entities": [
+        [
+            10,
+            17,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            154,
+            161,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            187,
+            197,
+            "Creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            336,
+            343,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            471,
+            478,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            588,
+            595,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            704,
+            711,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            968,
+            976,
+            "Polyuria",
+            "Disease",
+            "D011141"
+        ]
+    ],
+    "split_sentence": [
+        "Long-term lithium treatment and the kidney.",
+        "Interim report on fifty patients.",
+        "This is a report on the first part of our study of the effects of long-term lithium treatment on the kidney.",
+        "Creatinine clearance, maximum urinary osmolality and 24 hour urine volume have been tested in 50 affectively ill patients who have been on long-term lithium for more than one year.",
+        "These findings have been compared with norms and with values of the same tests from screening prior to lithium, available for most of our patients.",
+        "No evidence was found for any reduction of glomerular filtration during lithium treatment.",
+        "Low clearance values found in several patients could be accounted for by their age and their pre-lithium values.",
+        "Urinary concentration defect appeared frequent but the extent of the impairment is difficult to assess because of the uncertainty about the norms applicable to this group of patients.",
+        "The concentration defect appeared reversible, at least in part.",
+        "Polyuria above 3 litres/24 hours was found in 10% of patients.",
+        "An attempt is made to draw practical conclusions from the preliminary findings."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008094\tChemical\tlithium\tLong-term <target> lithium </target> treatment and the kidney .",
+        "D008094\tChemical\tlithium\tThis is a report on the first part of our study of the effects of long-term <target> lithium </target> treatment on the kidney .",
+        "D003404\tChemical\tCreatinine\t<target> Creatinine </target> clearance , maximum urinary osmolality and 24 hour urine volume have been tested in 50 affectively ill patients who have been on long-term lithium for more than one year .",
+        "D008094\tChemical\tlithium\tCreatinine clearance , maximum urinary osmolality and 24 hour urine volume have been tested in 50 affectively ill patients who have been on long-term <target> lithium </target> for more than one year .",
+        "D008094\tChemical\tlithium\tThese findings have been compared with norms and with values of the same tests from screening prior to <target> lithium </target> , available for most of our patients .",
+        "D008094\tChemical\tlithium\tNo evidence was found for any reduction of glomerular filtration during <target> lithium </target> treatment .",
+        "D008094\tChemical\tlithium\tLow clearance values found in several patients could be accounted for by their age and their pre- <target> lithium </target> values .",
+        "D011141\tDisease\tPolyuria\t<target> Polyuria </target> above 3 litres/24 hours was found in 10 % of patients ."
+    ],
+    "lines_lemma": [
+        "D008094\tChemical\tlithium\tlong-term <target> lithium </target> treatment and the kidney .",
+        "D008094\tChemical\tlithium\tthis be a report on the first part of our study of the effect of long-term <target> lithium </target> treatment on the kidney .",
+        "D003404\tChemical\tCreatinine\t<target> Creatinine </target> clearance , maximum urinary osmolality and 24 hour urine volume have be test in 50 affectively ill patient who have be on long-term lithium for more than one year .",
+        "D008094\tChemical\tlithium\tcreatinine clearance , maximum urinary osmolality and 24 hour urine volume have be test in 50 affectively ill patient who have be on long-term <target> lithium </target> for more than one year .",
+        "D008094\tChemical\tlithium\tthese finding have be compare with norm and with value of the same test from screening prior to <target> lithium </target> , available for most of our patient .",
+        "D008094\tChemical\tlithium\tno evidence be find for any reduction of glomerular filtration during <target> lithium </target> treatment .",
+        "D008094\tChemical\tlithium\tlow clearance value find in several patient could be account for by their age and their pre- <target> lithium </target> value .",
+        "D011141\tDisease\tPolyuria\t<target> Polyuria </target> above 3 litres/24 hour be find in 10 % of patient ."
+    ]
+}

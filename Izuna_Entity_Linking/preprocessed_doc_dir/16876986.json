@@ -1,0 +1,112 @@
+{
+    "title": "Physical training decreases susceptibility to subsequent pilocarpine-induced seizures in the rat.",
+    "abst": "Regular motor activity has many benefits for mental and physical condition but its implications for epilepsy are still controversial. In order to elucidate this problem, we have studied the effect of long-term physical activity on susceptibility to subsequent seizures. Male Wistar rats were subjected to repeated training sessions in a treadmill and swimming pool. Thereafter, seizures were induced by pilocarpine injections in trained and non-trained control groups. During the acute period of status epilepticus, we measured: (1) the latency of the first motor sign, (2) the intensity of seizures, (3) the time when it occurred within the 6-h observation period, and (4) the time when the acute period ended. All these behavioral parameters showed statistically significant changes suggesting that regular physical exercises decrease susceptibility to subsequently induced seizures and ameliorate the course of experimentally induced status epilepticus.",
+    "title_plus_abst": "Physical training decreases susceptibility to subsequent pilocarpine-induced seizures in the rat. Regular motor activity has many benefits for mental and physical condition but its implications for epilepsy are still controversial. In order to elucidate this problem, we have studied the effect of long-term physical activity on susceptibility to subsequent seizures. Male Wistar rats were subjected to repeated training sessions in a treadmill and swimming pool. Thereafter, seizures were induced by pilocarpine injections in trained and non-trained control groups. During the acute period of status epilepticus, we measured: (1) the latency of the first motor sign, (2) the intensity of seizures, (3) the time when it occurred within the 6-h observation period, and (4) the time when the acute period ended. All these behavioral parameters showed statistically significant changes suggesting that regular physical exercises decrease susceptibility to subsequently induced seizures and ameliorate the course of experimentally induced status epilepticus.",
+    "pubmed_id": "16876986",
+    "entities": [
+        [
+            57,
+            68,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            77,
+            85,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            198,
+            206,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            358,
+            366,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            476,
+            484,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            501,
+            512,
+            "pilocarpine",
+            "Chemical",
+            "D010862"
+        ],
+        [
+            594,
+            612,
+            "status epilepticus",
+            "Disease",
+            "D013226"
+        ],
+        [
+            689,
+            697,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            974,
+            982,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            1035,
+            1053,
+            "status epilepticus",
+            "Disease",
+            "D013226"
+        ]
+    ],
+    "split_sentence": [
+        "Physical training decreases susceptibility to subsequent pilocarpine-induced seizures in the rat.",
+        "Regular motor activity has many benefits for mental and physical condition but its implications for epilepsy are still controversial.",
+        "In order to elucidate this problem, we have studied the effect of long-term physical activity on susceptibility to subsequent seizures.",
+        "Male Wistar rats were subjected to repeated training sessions in a treadmill and swimming pool.",
+        "Thereafter, seizures were induced by pilocarpine injections in trained and non-trained control groups.",
+        "During the acute period of status epilepticus, we measured: (1) the latency of the first motor sign, (2) the intensity of seizures, (3) the time when it occurred within the 6-h observation period, and (4) the time when the acute period ended.",
+        "All these behavioral parameters showed statistically significant changes suggesting that regular physical exercises decrease susceptibility to subsequently induced seizures and ameliorate the course of experimentally induced status epilepticus."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010862\tChemical\tpilocarpine\tPhysical training decreases susceptibility to subsequent <target> pilocarpine </target> -induced seizures in the rat .",
+        "D012640\tDisease\tseizures\tPhysical training decreases susceptibility to subsequent pilocarpine-induced <target> seizures </target> in the rat .",
+        "D004827\tDisease\tepilepsy\tRegular motor activity has many benefits for mental and physical condition but its implications for <target> epilepsy </target> are still controversial .",
+        "D012640\tDisease\tseizures\tIn order to elucidate this problem , we have studied the effect of long-term physical activity on susceptibility to subsequent <target> seizures </target> .",
+        "D012640\tDisease\tseizures\tThereafter , <target> seizures </target> were induced by pilocarpine injections in trained and non-trained control groups .",
+        "D010862\tChemical\tpilocarpine\tThereafter , seizures were induced by <target> pilocarpine </target> injections in trained and non-trained control groups .",
+        "D013226\tDisease\tstatus epilepticus\tDuring the acute period of <target> status epilepticus </target> , we measured : ( 1 ) the latency of the first motor sign , ( 2 ) the intensity of seizures , ( 3 ) the time when it occurred within the 6-h observation period , and ( 4 ) the time when the acute period ended .",
+        "D012640\tDisease\tseizures\tDuring the acute period of status epilepticus , we measured : ( 1 ) the latency of the first motor sign , ( 2 ) the intensity of <target> seizures </target> , ( 3 ) the time when it occurred within the 6-h observation period , and ( 4 ) the time when the acute period ended .",
+        "D012640\tDisease\tseizures\tAll these behavioral parameters showed statistically significant changes suggesting that regular physical exercises decrease susceptibility to subsequently induced <target> seizures </target> and ameliorate the course of experimentally induced status epilepticus .",
+        "D013226\tDisease\tstatus epilepticus\tAll these behavioral parameters showed statistically significant changes suggesting that regular physical exercises decrease susceptibility to subsequently induced seizures and ameliorate the course of experimentally induced <target> status epilepticus </target> ."
+    ],
+    "lines_lemma": [
+        "D010862\tChemical\tpilocarpine\tphysical training decrease susceptibility to subsequent <target> pilocarpine </target> -induced seizure in the rat .",
+        "D012640\tDisease\tseizures\tphysical training decrease susceptibility to subsequent pilocarpine-induced <target> seizure </target> in the rat .",
+        "D004827\tDisease\tepilepsy\tregular motor activity have many benefit for mental and physical condition but its implication for <target> epilepsy </target> be still controversial .",
+        "D012640\tDisease\tseizures\tin order to elucidate this problem , we have study the effect of long-term physical activity on susceptibility to subsequent <target> seizure </target> .",
+        "D012640\tDisease\tseizures\tthereafter , <target> seizure </target> be induce by pilocarpine injection in train and non-trained control group .",
+        "D010862\tChemical\tpilocarpine\tthereafter , seizure be induce by <target> pilocarpine </target> injection in train and non-trained control group .",
+        "D013226\tDisease\tstatus epilepticus\tduring the acute period of <target> status epilepticus </target> , we measure : ( 1 ) the latency of the first motor sign , ( 2 ) the intensity of seizure , ( 3 ) the time when it occur within the 6-h observation period , and ( 4 ) the time when the acute period end .",
+        "D012640\tDisease\tseizures\tduring the acute period of status epilepticus , we measure : ( 1 ) the latency of the first motor sign , ( 2 ) the intensity of <target> seizure </target> , ( 3 ) the time when it occur within the 6-h observation period , and ( 4 ) the time when the acute period end .",
+        "D012640\tDisease\tseizures\tall these behavioral parameter show statistically significant change suggest that regular physical exercise decrease susceptibility to subsequently induce <target> seizure </target> and ameliorate the course of experimentally induce status epilepticus .",
+        "D013226\tDisease\tstatus epilepticus\tall these behavioral parameter show statistically significant change suggest that regular physical exercise decrease susceptibility to subsequently induce seizure and ameliorate the course of experimentally induce <target> status epilepticus </target> ."
+    ]
+}

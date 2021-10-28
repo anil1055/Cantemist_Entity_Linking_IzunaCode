@@ -1,0 +1,164 @@
+{
+    "entities": [
+        [
+            939,
+            966,
+            "carcinoma de célula pequeña",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/3"
+        ],
+        [
+            1242,
+            1252,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            1173,
+            1183,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1348,
+            1358,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            694,
+            703,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1109,
+            1118,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            2194,
+            2201,
+            "sarcoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8800/3"
+        ],
+        [
+            2340,
+            2347,
+            "sarcoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8800/3"
+        ],
+        [
+            2740,
+            2750,
+            "tumoración",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1430,
+            1532,
+            "Carcinoma microcítico pulmonar, en estadio IV, por diseminación pulmonar y en sistema nervioso central",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/6"
+        ],
+        [
+            2769,
+            2807,
+            "metástasis de un carcinoma microcítico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Anatomía patológica:  <objetivo> carcinoma de célula pequeña </objetivo> ",
+        "Adenopatía hiliar izquierda hipermetabólica sugestiva de  <objetivo> malignidad </objetivo> ",
+        "Varios nódulos pulmonares en el LSI, compatibles con  <objetivo> metástasis </objetivo> ",
+        "A valorar  <objetivo> metástasis </objetivo> versus vasculitis en contexto de síndrome paraneoplásico.",
+        "El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha tumoración corresponde a una  <objetivo> metástasis </objetivo> de un carcinoma microcítico de origen pulmonar.",
+        "Varios nódulos pulmonares en el LSI, compatibles con  <objetivo> metástasis </objetivo> ",
+        "A valorar  <objetivo> metástasis </objetivo> versus vasculitis en contexto de síndrome paraneoplásico.",
+        "El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha tumoración corresponde a una  <objetivo> metástasis </objetivo> de un carcinoma microcítico de origen pulmonar.",
+        "TC body: nódulo pulmonar en el lóbulo superior izquierdo (LSI) sugestivo de  <objetivo> neoplasia </objetivo> ",
+        "Tomografía por emisión de positrones (PET): masa en el LSI hipermetabólica en relación con  <objetivo> neoplasia </objetivo> ",
+        "TC body: nódulo pulmonar en el lóbulo superior izquierdo (LSI) sugestivo de  <objetivo> neoplasia </objetivo> ",
+        "Tomografía por emisión de positrones (PET): masa en el LSI hipermetabólica en relación con  <objetivo> neoplasia </objetivo> ",
+        "En diciembre de 2012, en una TC de control, se describe un defecto de repleción en la arteria pulmonar izquierda sospechoso de  <objetivo> sarcoma </objetivo> (descrito como un TEP en TC previas).",
+        "Se completa el estudio con una resonancia angio-pulmonar y una PET, confirmándose el diagnóstico de  <objetivo> sarcoma </objetivo> ",
+        "En diciembre de 2012, en una TC de control, se describe un defecto de repleción en la arteria pulmonar izquierda sospechoso de  <objetivo> sarcoma </objetivo> (descrito como un TEP en TC previas).",
+        "Se completa el estudio con una resonancia angio-pulmonar y una PET, confirmándose el diagnóstico de  <objetivo> sarcoma </objetivo> ",
+        "El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha  <objetivo> tumoración </objetivo> corresponde a una metástasis de un carcinoma microcítico de origen pulmonar.",
+        "<objetivo> Carcinoma microcítico pulmonar, en estadio IV, por diseminación pulmonar y en sistema nervioso central </objetivo> ",
+        "El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha tumoración corresponde a una  <objetivo> metástasis de un carcinoma microcítico </objetivo> de origen pulmonar."
+    ],
+    "lines_lemma": [
+        "Anatomía patológicar :   <objetivo> carcinomar de célula pequeño </objetivo>",
+        "Adenopatía hiliar izquierda hipermetabólico sugestivo de   <objetivo> malignidad </objetivo>",
+        "varios nódulo pulmonar en el LSI , compatible con   <objetivo> metástasi </objetivo>",
+        "a valorar   <objetivo> metástasi </objetivo> versus vasculiti en contexto de síndrome paraneoplásico .",
+        "el estudio histológico e inmunohistoquímico de el pieza quirúrgico revelar que dicho tumoración corresponder a uno   <objetivo> metástasi </objetivo> de uno carcinoma microcítico de origen pulmonar .",
+        "varios nódulo pulmonar en el LSI , compatible con   <objetivo> metástasi </objetivo>",
+        "a valorar   <objetivo> metástasi </objetivo> versus vasculiti en contexto de síndrome paraneoplásico .",
+        "el estudio histológico e inmunohistoquímico de el pieza quirúrgico revelar que dicho tumoración corresponder a uno   <objetivo> metástasi </objetivo> de uno carcinoma microcítico de origen pulmonar .",
+        "TC body : nódulo pulmonar en el lóbulo superior izquierdo ( LSI ) sugestivo de   <objetivo> neoplasio </objetivo>",
+        "Tomografía por emisión de positrón ( PET ): masa en el LSI hipermetabólico en relación con   <objetivo> neoplasio </objetivo>",
+        "TC body : nódulo pulmonar en el lóbulo superior izquierdo ( LSI ) sugestivo de   <objetivo> neoplasio </objetivo>",
+        "Tomografía por emisión de positrón ( PET ): masa en el LSI hipermetabólico en relación con   <objetivo> neoplasio </objetivo>",
+        "en diciembre de 2012 , en uno TC de control , él describir uno defecto de repleción en el arteria pulmonar izquierda sospechoso de   <objetivo> sarcomar </objetivo> ( descrito como uno TEP en TC previo ) .",
+        "él completar el estudio con uno resonancia angio-pulmonar y uno PET , confirmar él el diagnóstico de   <objetivo> sarcomar </objetivo>",
+        "en diciembre de 2012 , en uno TC de control , él describir uno defecto de repleción en el arteria pulmonar izquierda sospechoso de   <objetivo> sarcomar </objetivo> ( descrito como uno TEP en TC previo ) .",
+        "él completar el estudio con uno resonancia angio-pulmonar y uno PET , confirmar él el diagnóstico de   <objetivo> sarcomar </objetivo>",
+        "el estudio histológico e inmunohistoquímico de el pieza quirúrgico revelar que dicho   <objetivo> tumoración </objetivo> corresponder a uno metástasis de uno carcinoma microcítico de origen pulmonar .",
+        "<objetivo> Carcinoma microcítico pulmonar , en estadio IV , por diseminación pulmonar y en sistema nervioso central </objetivo>",
+        "el estudio histológico e inmunohistoquímico de el pieza quirúrgico revelar que dicho tumoración corresponder a uno   <objetivo> metástasis de uno carcinoma microcítico </objetivo> de origen pulmonar ."
+    ],
+    "pubmed_id": "onco1326",
+    "split_sentence": [
+        "Anamnesis",
+        "Se trata de una mujer de 68 años que presenta, desde febrero de 2011, síndrome constitucional.",
+        "En mayo acude a Urgencias por fiebre y dolor torácico, ingresando en Medicina Interna para completar estudio.",
+        "Examen físico",
+        "Buen estado general.",
+        "Se palpa una dudosa adenopatía latero-cervical derecha, no dolorosa.",
+        "Auscultación: correcta ventilación pulmonar bilateral; tonos cardíacos rítmicos, sin soplos.",
+        "Resto de la exploración, anodina.",
+        "Pruebas complementarias",
+        "Pruebas realizadas entre junio y julio de 2011.",
+        "Radiografía de tórax: nódulo pulmonar de 2,2 cm en el LSI.",
+        "Aumento de tamaño del hilio izquierdo.",
+        "TC body: nódulo pulmonar en el lóbulo superior izquierdo (LSI) sugestivo de neoplasia.",
+        "Tromboembolismo pulmonar (TEP) en arteria pulmonar principal izquierda.",
+        "Pequeñas adenopatías mediastínicas e hiliares.",
+        "Broncoscopia: masa blanquecina en el orificio subsegmentario de la división anterior del LSI.",
+        "Anatomía patológica: carcinoma de célula pequeña.",
+        "TTF1+, CK , alto índice de proliferación nuclear.",
+        "Tomografía por emisión de positrones (PET): masa en el LSI hipermetabólica en relación con neoplasia.",
+        "Varios nódulos pulmonares en el LSI, compatibles con metástasis.",
+        "Adenopatía hiliar izquierda hipermetabólica sugestiva de malignidad.",
+        "RM craneal: lesión con componente hemorrágico en el pedúnculo cerebeloso izquierdo.",
+        "A valorar metástasis versus vasculitis en contexto de síndrome paraneoplásico.",
+        "Diagnóstico",
+        "Carcinoma microcítico pulmonar, en estadio IV, por diseminación pulmonar y en sistema nervioso central.",
+        "Tratamiento",
+        "Realiza tratamiento quimioterápico, con cisplatino-etopósido (1), por seis ciclos (julio-noviembre de 2011), con buena tolerancia.",
+        "Posteriormente recibe radioterapia holocraneal paliativa.",
+        "Además, realiza tratamiento anticoagulante con enoxaparina (heparina de bajo peso molecular) (2) por un TEP.",
+        "Evolución",
+        "En controles realizados posteriormente presenta una buena respuesta a nivel pulmonar y de sistema nervioso central (SNC), con respuesta completa a ambos niveles a los 5 meses de haber finalizado el tratamiento.",
+        "En diciembre de 2012, en una TC de control, se describe un defecto de repleción en la arteria pulmonar izquierda sospechoso de sarcoma (descrito como un TEP en TC previas).",
+        "Se completa el estudio con una resonancia angio-pulmonar y una PET, confirmándose el diagnóstico de sarcoma.",
+        "Se presenta en el Comité de Tumores, y se decide realizar seguimiento, pero a los dos meses se evidencia un aumento de tamaño de la lesión, por lo que se decide intervención quirúrgica.",
+        "En mayo de 2013 es intervenida, mediante neumonectomía izquierda con resección intrapericárdica de la arteria pulmonar.",
+        "El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha tumoración corresponde a una metástasis de un carcinoma microcítico de origen pulmonar."
+    ],
+    "text": "Anamnesis\nSe trata de una mujer de 68 años que presenta, desde febrero de 2011, síndrome constitucional. En mayo acude a Urgencias por fiebre y dolor torácico, ingresando en Medicina Interna para completar estudio.\n\nExamen físico\nBuen estado general. Se palpa una dudosa adenopatía latero-cervical derecha, no dolorosa. Auscultación: correcta ventilación pulmonar bilateral; tonos cardíacos rítmicos, sin soplos. Resto de la exploración, anodina.\n\nPruebas complementarias\nPruebas realizadas entre junio y julio de 2011.\nRadiografía de tórax: nódulo pulmonar de 2,2 cm en el LSI. Aumento de tamaño del hilio izquierdo.\nTC body: nódulo pulmonar en el lóbulo superior izquierdo (LSI) sugestivo de neoplasia. Tromboembolismo pulmonar (TEP) en arteria pulmonar principal izquierda. Pequeñas adenopatías mediastínicas e hiliares.\nBroncoscopia: masa blanquecina en el orificio subsegmentario de la división anterior del LSI.\nAnatomía patológica: carcinoma de célula pequeña. TTF1+, CK , alto índice de proliferación nuclear.\nTomografía por emisión de positrones (PET): masa en el LSI hipermetabólica en relación con neoplasia. Varios nódulos pulmonares en el LSI, compatibles con metástasis. Adenopatía hiliar izquierda hipermetabólica sugestiva de malignidad.\nRM craneal: lesión con componente hemorrágico en el pedúnculo cerebeloso izquierdo. A valorar metástasis versus vasculitis en contexto de síndrome paraneoplásico.\n\nDiagnóstico\nCarcinoma microcítico pulmonar, en estadio IV, por diseminación pulmonar y en sistema nervioso central.\n\nTratamiento\nRealiza tratamiento quimioterápico, con cisplatino-etopósido (1), por seis ciclos (julio-noviembre de 2011), con buena tolerancia. Posteriormente recibe radioterapia holocraneal paliativa.\nAdemás, realiza tratamiento anticoagulante con enoxaparina (heparina de bajo peso molecular) (2) por un TEP.\n\nEvolución\nEn controles realizados posteriormente presenta una buena respuesta a nivel pulmonar y de sistema nervioso central (SNC), con respuesta completa a ambos niveles a los 5 meses de haber finalizado el tratamiento.\nEn diciembre de 2012, en una TC de control, se describe un defecto de repleción en la arteria pulmonar izquierda sospechoso de sarcoma (descrito como un TEP en TC previas). Se completa el estudio con una resonancia angio-pulmonar y una PET, confirmándose el diagnóstico de sarcoma. Se presenta en el Comité de Tumores, y se decide realizar seguimiento, pero a los dos meses se evidencia un aumento de tamaño de la lesión, por lo que se decide intervención quirúrgica.\nEn mayo de 2013 es intervenida, mediante neumonectomía izquierda con resección intrapericárdica de la arteria pulmonar. El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha tumoración corresponde a una metástasis de un carcinoma microcítico de origen pulmonar."
+}

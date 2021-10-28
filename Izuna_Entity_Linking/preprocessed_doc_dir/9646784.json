@@ -1,0 +1,163 @@
+{
+    "title": "Heparin-induced thrombocytopenia, paradoxical thromboembolism, and other side effects of heparin therapy.",
+    "abst": "Although several new anticoagulant drugs are in development, heparin remains the drug of choice for most anticoagulation needs. The clinical effects of heparin are meritorious, but side effects do exist. Important untoward effects of heparin therapy including heparin-induced thrombocytopenia, heparin-associated osteoporosis, eosinophilia, skin reactions, allergic reactions other than thrombocytopenia and alopecia will be discussed in this article.",
+    "title_plus_abst": "Heparin-induced thrombocytopenia, paradoxical thromboembolism, and other side effects of heparin therapy. Although several new anticoagulant drugs are in development, heparin remains the drug of choice for most anticoagulation needs. The clinical effects of heparin are meritorious, but side effects do exist. Important untoward effects of heparin therapy including heparin-induced thrombocytopenia, heparin-associated osteoporosis, eosinophilia, skin reactions, allergic reactions other than thrombocytopenia and alopecia will be discussed in this article.",
+    "pubmed_id": "9646784",
+    "entities": [
+        [
+            0,
+            7,
+            "Heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            16,
+            32,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            46,
+            61,
+            "thromboembolism",
+            "Disease",
+            "D013923"
+        ],
+        [
+            89,
+            96,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            167,
+            174,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            258,
+            265,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            340,
+            347,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            366,
+            373,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            382,
+            398,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            400,
+            407,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            419,
+            431,
+            "osteoporosis",
+            "Disease",
+            "D010024"
+        ],
+        [
+            433,
+            445,
+            "eosinophilia",
+            "Disease",
+            "D004802"
+        ],
+        [
+            447,
+            461,
+            "skin reactions",
+            "Disease",
+            "D012871"
+        ],
+        [
+            463,
+            481,
+            "allergic reactions",
+            "Disease",
+            "D004342"
+        ],
+        [
+            493,
+            509,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            514,
+            522,
+            "alopecia",
+            "Disease",
+            "D000505"
+        ]
+    ],
+    "split_sentence": [
+        "Heparin-induced thrombocytopenia, paradoxical thromboembolism, and other side effects of heparin therapy.",
+        "Although several new anticoagulant drugs are in development, heparin remains the drug of choice for most anticoagulation needs.",
+        "The clinical effects of heparin are meritorious, but side effects do exist.",
+        "Important untoward effects of heparin therapy including heparin-induced thrombocytopenia, heparin-associated osteoporosis, eosinophilia, skin reactions, allergic reactions other than thrombocytopenia and alopecia will be discussed in this article."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006493\tChemical\tHeparin\t<target> Heparin </target> -induced thrombocytopenia , paradoxical thromboembolism , and other side effects of heparin therapy .",
+        "D013921\tDisease\tthrombocytopenia\tHeparin-induced <target> thrombocytopenia </target> , paradoxical thromboembolism , and other side effects of heparin therapy .",
+        "D013923\tDisease\tthromboembolism\tHeparin-induced thrombocytopenia , paradoxical <target> thromboembolism </target> , and other side effects of heparin therapy .",
+        "D006493\tChemical\theparin\tHeparin-induced thrombocytopenia , paradoxical thromboembolism , and other side effects of <target> heparin </target> therapy .",
+        "D006493\tChemical\theparin\tAlthough several new anticoagulant drugs are in development , <target> heparin </target> remains the drug of choice for most anticoagulation needs .",
+        "D006493\tChemical\theparin\tThe clinical effects of <target> heparin </target> are meritorious , but side effects do exist .",
+        "D006493\tChemical\theparin\tImportant untoward effects of <target> heparin </target> therapy including heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reactions , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D006493\tChemical\theparin\tImportant untoward effects of heparin therapy including <target> heparin </target> -induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reactions , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D013921\tDisease\tthrombocytopenia\tImportant untoward effects of heparin therapy including heparin-induced <target> thrombocytopenia </target> , heparin-associated osteoporosis , eosinophilia , skin reactions , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D006493\tChemical\theparin\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , <target> heparin </target> -associated osteoporosis , eosinophilia , skin reactions , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D010024\tDisease\tosteoporosis\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , heparin-associated <target> osteoporosis </target> , eosinophilia , skin reactions , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D004802\tDisease\teosinophilia\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , heparin-associated osteoporosis , <target> eosinophilia </target> , skin reactions , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D012871\tDisease\tskin reactions\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , <target> skin reactions </target> , allergic reactions other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D004342\tDisease\tallergic reactions\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reactions , <target> allergic reactions </target> other than thrombocytopenia and alopecia will be discussed in this article .",
+        "D013921\tDisease\tthrombocytopenia\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reactions , allergic reactions other than <target> thrombocytopenia </target> and alopecia will be discussed in this article .",
+        "D000505\tDisease\talopecia\tImportant untoward effects of heparin therapy including heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reactions , allergic reactions other than thrombocytopenia and <target> alopecia </target> will be discussed in this article ."
+    ],
+    "lines_lemma": [
+        "D006493\tChemical\tHeparin\t<target> heparin </target> -induced thrombocytopenia , paradoxical thromboembolism , and other side effect of heparin therapy .",
+        "D013921\tDisease\tthrombocytopenia\theparin-induced <target> thrombocytopenia </target> , paradoxical thromboembolism , and other side effect of heparin therapy .",
+        "D013923\tDisease\tthromboembolism\theparin-induced thrombocytopenia , paradoxical <target> thromboembolism </target> , and other side effect of heparin therapy .",
+        "D006493\tChemical\theparin\theparin-induced thrombocytopenia , paradoxical thromboembolism , and other side effect of <target> heparin </target> therapy .",
+        "D006493\tChemical\theparin\talthough several new anticoagulant drug be in development , <target> heparin </target> remain the drug of choice for most anticoagulation need .",
+        "D006493\tChemical\theparin\tthe clinical effect of <target> heparin </target> be meritorious , but side effect do exist .",
+        "D006493\tChemical\theparin\timportant untoward effect of <target> heparin </target> therapy include heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reaction , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D006493\tChemical\theparin\timportant untoward effect of heparin therapy include <target> heparin </target> -induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reaction , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D013921\tDisease\tthrombocytopenia\timportant untoward effect of heparin therapy include heparin-induced <target> thrombocytopenia </target> , heparin-associated osteoporosis , eosinophilia , skin reaction , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D006493\tChemical\theparin\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , <target> heparin </target> -associated osteoporosis , eosinophilia , skin reaction , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D010024\tDisease\tosteoporosis\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , heparin-associated <target> osteoporosis </target> , eosinophilia , skin reaction , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D004802\tDisease\teosinophilia\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , heparin-associated osteoporosis , <target> eosinophilia </target> , skin reaction , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D012871\tDisease\tskin reactions\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , <target> skin reaction </target> , allergic reaction other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D004342\tDisease\tallergic reactions\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reaction , <target> allergic reaction </target> other than thrombocytopenia and alopecia will be discuss in this article .",
+        "D013921\tDisease\tthrombocytopenia\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reaction , allergic reaction other than <target> thrombocytopenia </target> and alopecia will be discuss in this article .",
+        "D000505\tDisease\talopecia\timportant untoward effect of heparin therapy include heparin-induced thrombocytopenia , heparin-associated osteoporosis , eosinophilia , skin reaction , allergic reaction other than thrombocytopenia and <target> alopecia </target> will be discuss in this article ."
+    ]
+}

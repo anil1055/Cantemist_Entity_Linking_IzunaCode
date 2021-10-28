@@ -1,0 +1,146 @@
+{
+    "title": "Components of lemon essential oil attenuate dementia induced by scopolamine.",
+    "abst": "The anti-dementia effects of s-limonene and s-perillyl alcohol were observed using the passive avoidance test (PA) and the open field habituation test (OFH). These lemon essential oils showed strong ability to improve memory impaired by scopolamine; however, s-perillyl alcohol relieved the deficit of associative memory in PA only, and did not improve non-associative memory significantly in OFH. Analysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group, but this phenomenon was reversed when s-limonene or s-perillyl alcohol were administered before the injection of scopolamine. Simultaneously, we found that these two lemon essential oil components could inhibit acetylcholinesterase activity in vitro using the Ellman method.",
+    "title_plus_abst": "Components of lemon essential oil attenuate dementia induced by scopolamine. The anti-dementia effects of s-limonene and s-perillyl alcohol were observed using the passive avoidance test (PA) and the open field habituation test (OFH). These lemon essential oils showed strong ability to improve memory impaired by scopolamine; however, s-perillyl alcohol relieved the deficit of associative memory in PA only, and did not improve non-associative memory significantly in OFH. Analysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group, but this phenomenon was reversed when s-limonene or s-perillyl alcohol were administered before the injection of scopolamine. Simultaneously, we found that these two lemon essential oil components could inhibit acetylcholinesterase activity in vitro using the Ellman method.",
+    "pubmed_id": "19356307",
+    "entities": [
+        [
+            44,
+            52,
+            "dementia",
+            "Disease",
+            "D003704"
+        ],
+        [
+            64,
+            75,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            86,
+            94,
+            "dementia",
+            "Disease",
+            "D003704"
+        ],
+        [
+            106,
+            116,
+            "s-limonene",
+            "Chemical",
+            "C008281"
+        ],
+        [
+            121,
+            139,
+            "s-perillyl alcohol",
+            "Chemical",
+            "C032208"
+        ],
+        [
+            295,
+            310,
+            "memory impaired",
+            "Disease",
+            "D008569"
+        ],
+        [
+            314,
+            325,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            336,
+            354,
+            "s-perillyl alcohol",
+            "Chemical",
+            "C032208"
+        ],
+        [
+            368,
+            397,
+            "deficit of associative memory",
+            "Disease",
+            "D008569"
+        ],
+        [
+            568,
+            576,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            606,
+            617,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            726,
+            736,
+            "s-limonene",
+            "Chemical",
+            "C008281"
+        ],
+        [
+            740,
+            758,
+            "s-perillyl alcohol",
+            "Chemical",
+            "C032208"
+        ],
+        [
+            801,
+            812,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ]
+    ],
+    "split_sentence": [
+        "Components of lemon essential oil attenuate dementia induced by scopolamine.",
+        "The anti-dementia effects of s-limonene and s-perillyl alcohol were observed using the passive avoidance test (PA) and the open field habituation test (OFH).",
+        "These lemon essential oils showed strong ability to improve memory impaired by scopolamine; however, s-perillyl alcohol relieved the deficit of associative memory in PA only, and did not improve non-associative memory significantly in OFH.",
+        "Analysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group, but this phenomenon was reversed when s-limonene or s-perillyl alcohol were administered before the injection of scopolamine.",
+        "Simultaneously, we found that these two lemon essential oil components could inhibit acetylcholinesterase activity in vitro using the Ellman method."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003704\tDisease\tdementia\tComponents of lemon essential oil attenuate <target> dementia </target> induced by scopolamine .",
+        "D012601\tChemical\tscopolamine\tComponents of lemon essential oil attenuate dementia induced by <target> scopolamine </target> .",
+        "D003704\tDisease\tdementia\tThe anti- <target> dementia </target> effects of s-limonene and s-perillyl alcohol were observed using the passive avoidance test ( PA ) and the open field habituation test ( OFH ) .",
+        "C008281\tChemical\ts-limonene\tThe anti-dementia effects of <target> s-limonene </target> and s-perillyl alcohol were observed using the passive avoidance test ( PA ) and the open field habituation test ( OFH ) .",
+        "C032208\tChemical\ts-perillyl alcohol\tThe anti-dementia effects of s-limonene and <target> s-perillyl alcohol </target> were observed using the passive avoidance test ( PA ) and the open field habituation test ( OFH ) .",
+        "D008569\tDisease\tmemory impaired\tThese lemon essential oils showed strong ability to improve <target> memory impaired </target> by scopolamine ; however , s-perillyl alcohol relieved the deficit of associative memory in PA only , and did not improve non-associative memory significantly in OFH .",
+        "D012601\tChemical\tscopolamine\tThese lemon essential oils showed strong ability to improve memory impaired by <target> scopolamine </target> ; however , s-perillyl alcohol relieved the deficit of associative memory in PA only , and did not improve non-associative memory significantly in OFH .",
+        "C032208\tChemical\ts-perillyl alcohol\tThese lemon essential oils showed strong ability to improve memory impaired by scopolamine ; however , <target> s-perillyl alcohol </target> relieved the deficit of associative memory in PA only , and did not improve non-associative memory significantly in OFH .",
+        "D008569\tDisease\tdeficit of associative memory\tThese lemon essential oils showed strong ability to improve memory impaired by scopolamine ; however , s-perillyl alcohol relieved the <target> deficit of associative memory </target> in PA only , and did not improve non-associative memory significantly in OFH .",
+        "D004298\tChemical\tdopamine\tAnalysis of neurotransmitter concentration in some brain regions on the test day showed that <target> dopamine </target> concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group , but this phenomenon was reversed when s-limonene or s-perillyl alcohol were administered before the injection of scopolamine .",
+        "D012601\tChemical\tscopolamine\tAnalysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/ <target> scopolamine </target> group was significantly lower than that of the vehicle/vehicle group , but this phenomenon was reversed when s-limonene or s-perillyl alcohol were administered before the injection of scopolamine .",
+        "C008281\tChemical\ts-limonene\tAnalysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group , but this phenomenon was reversed when <target> s-limonene </target> or s-perillyl alcohol were administered before the injection of scopolamine .",
+        "C032208\tChemical\ts-perillyl alcohol\tAnalysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group , but this phenomenon was reversed when s-limonene or <target> s-perillyl alcohol </target> were administered before the injection of scopolamine .",
+        "D012601\tChemical\tscopolamine\tAnalysis of neurotransmitter concentration in some brain regions on the test day showed that dopamine concentration of the vehicle/scopolamine group was significantly lower than that of the vehicle/vehicle group , but this phenomenon was reversed when s-limonene or s-perillyl alcohol were administered before the injection of <target> scopolamine </target> ."
+    ],
+    "lines_lemma": [
+        "D003704\tDisease\tdementia\tcomponent of lemon essential oil attenuate <target> dementia </target> induce by scopolamine .",
+        "D012601\tChemical\tscopolamine\tcomponent of lemon essential oil attenuate dementia induce by <target> scopolamine </target> .",
+        "D003704\tDisease\tdementia\tthe anti- <target> dementia </target> effect of s-limonene and s-perillyl alcohol be observe use the passive avoidance test ( pa ) and the open field habituation test ( ofh ) .",
+        "C008281\tChemical\ts-limonene\tthe anti-dementia effect of <target> s-limonene </target> and s-perillyl alcohol be observe use the passive avoidance test ( pa ) and the open field habituation test ( ofh ) .",
+        "C032208\tChemical\ts-perillyl alcohol\tthe anti-dementia effect of s-limonene and <target> s-perillyl alcohol </target> be observe use the passive avoidance test ( pa ) and the open field habituation test ( ofh ) .",
+        "D008569\tDisease\tmemory impaired\tthese lemon essential oil show strong ability to improve <target> memory impair </target> by scopolamine ; however , s-perillyl alcohol relieve the deficit of associative memory in pa only , and do not improve non-associative memory significantly in ofh .",
+        "D012601\tChemical\tscopolamine\tthese lemon essential oil show strong ability to improve memory impair by <target> scopolamine </target> ; however , s-perillyl alcohol relieve the deficit of associative memory in pa only , and do not improve non-associative memory significantly in ofh .",
+        "C032208\tChemical\ts-perillyl alcohol\tthese lemon essential oil show strong ability to improve memory impair by scopolamine ; however , <target> s-perillyl alcohol </target> relieve the deficit of associative memory in pa only , and do not improve non-associative memory significantly in ofh .",
+        "D008569\tDisease\tdeficit of associative memory\tthese lemon essential oil show strong ability to improve memory impair by scopolamine ; however , s-perillyl alcohol relieve the <target> deficit of associative memory </target> in pa only , and do not improve non-associative memory significantly in ofh .",
+        "D004298\tChemical\tdopamine\tanalysis of neurotransmitter concentration in some brain region on the test day show that <target> dopamine </target> concentration of the vehicle/scopolamine group be significantly low than that of the vehicle/vehicle group , but this phenomenon be reverse when s-limonene or s-perillyl alcohol be administer before the injection of scopolamine .",
+        "D012601\tChemical\tscopolamine\tanalysis of neurotransmitter concentration in some brain region on the test day show that dopamine concentration of the vehicle/ <target> scopolamine </target> group be significantly low than that of the vehicle/vehicle group , but this phenomenon be reverse when s-limonene or s-perillyl alcohol be administer before the injection of scopolamine .",
+        "C008281\tChemical\ts-limonene\tanalysis of neurotransmitter concentration in some brain region on the test day show that dopamine concentration of the vehicle/scopolamine group be significantly low than that of the vehicle/vehicle group , but this phenomenon be reverse when <target> s-limonene </target> or s-perillyl alcohol be administer before the injection of scopolamine .",
+        "C032208\tChemical\ts-perillyl alcohol\tanalysis of neurotransmitter concentration in some brain region on the test day show that dopamine concentration of the vehicle/scopolamine group be significantly low than that of the vehicle/vehicle group , but this phenomenon be reverse when s-limonene or <target> s-perillyl alcohol </target> be administer before the injection of scopolamine .",
+        "D012601\tChemical\tscopolamine\tanalysis of neurotransmitter concentration in some brain region on the test day show that dopamine concentration of the vehicle/scopolamine group be significantly low than that of the vehicle/vehicle group , but this phenomenon be reverse when s-limonene or s-perillyl alcohol be administer before the injection of <target> scopolamine </target> ."
+    ]
+}

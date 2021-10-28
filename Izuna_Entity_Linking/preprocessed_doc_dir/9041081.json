@@ -1,0 +1,70 @@
+{
+    "title": "Effect of myopic excimer laser photorefractive keratectomy on the electrophysiologic function of the retina and optic nerve.",
+    "abst": "PURPOSE: To assess by electrophysiologic testing the effect of photorefractive keratectomy (PRK) on the retina and optic nerve. SETTING: Eye Clinic, S. Salvatore Hospital, L'Aquila University, Italy. METHODS: Standard pattern electroretinograms (P-ERGs) and standard pattern visual evoked potentials (P-VEPs) were done in 25 eyes of 25 patients who had myopic PRK for an attempted correction between 5.00 and 15.00 diopters (D) (mean 8.00 D). Testing was done preoperatively and 3, 6, 12, and 18 months postoperatively. The contralateral eyes served as controls. During the follow-up, 3 patients (12%) developed steroid-induced elevated intraocular pressure (IOP) that resolved after corticosteroid therapy was discontinued. RESULTS: No statistically significant differences were seen between treated and control eyes nor between treated eyes preoperatively and postoperatively. CONCLUSION: Myopic excimer laser PRK did not seem to affect the posterior segment. The transient steroid-induced IOP rise did not seem to cause functional impairment.",
+    "title_plus_abst": "Effect of myopic excimer laser photorefractive keratectomy on the electrophysiologic function of the retina and optic nerve. PURPOSE: To assess by electrophysiologic testing the effect of photorefractive keratectomy (PRK) on the retina and optic nerve. SETTING: Eye Clinic, S. Salvatore Hospital, L'Aquila University, Italy. METHODS: Standard pattern electroretinograms (P-ERGs) and standard pattern visual evoked potentials (P-VEPs) were done in 25 eyes of 25 patients who had myopic PRK for an attempted correction between 5.00 and 15.00 diopters (D) (mean 8.00 D). Testing was done preoperatively and 3, 6, 12, and 18 months postoperatively. The contralateral eyes served as controls. During the follow-up, 3 patients (12%) developed steroid-induced elevated intraocular pressure (IOP) that resolved after corticosteroid therapy was discontinued. RESULTS: No statistically significant differences were seen between treated and control eyes nor between treated eyes preoperatively and postoperatively. CONCLUSION: Myopic excimer laser PRK did not seem to affect the posterior segment. The transient steroid-induced IOP rise did not seem to cause functional impairment.",
+    "pubmed_id": "9041081",
+    "entities": [
+        [
+            737,
+            744,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            753,
+            782,
+            "elevated intraocular pressure",
+            "Disease",
+            "D009798"
+        ],
+        [
+            809,
+            823,
+            "corticosteroid",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            1101,
+            1108,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            1117,
+            1125,
+            "IOP rise",
+            "Disease",
+            "D009798"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of myopic excimer laser photorefractive keratectomy on the electrophysiologic function of the retina and optic nerve.",
+        "PURPOSE: To assess by electrophysiologic testing the effect of photorefractive keratectomy (PRK) on the retina and optic nerve.",
+        "SETTING: Eye Clinic, S. Salvatore Hospital, L'Aquila University, Italy.",
+        "METHODS: Standard pattern electroretinograms (P-ERGs) and standard pattern visual evoked potentials (P-VEPs) were done in 25 eyes of 25 patients who had myopic PRK for an attempted correction between 5.00 and 15.00 diopters (D) (mean 8.00 D).",
+        "Testing was done preoperatively and 3, 6, 12, and 18 months postoperatively.",
+        "The contralateral eyes served as controls.",
+        "During the follow-up, 3 patients (12%) developed steroid-induced elevated intraocular pressure (IOP) that resolved after corticosteroid therapy was discontinued.",
+        "RESULTS: No statistically significant differences were seen between treated and control eyes nor between treated eyes preoperatively and postoperatively.",
+        "CONCLUSION: Myopic excimer laser PRK did not seem to affect the posterior segment.",
+        "The transient steroid-induced IOP rise did not seem to cause functional impairment."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013256\tChemical\tsteroid\tDuring the follow-up , 3 patients ( 12 % ) developed <target> steroid </target> -induced elevated intraocular pressure ( IOP ) that resolved after corticosteroid therapy was discontinued .",
+        "D009798\tDisease\televated intraocular pressure\tDuring the follow-up , 3 patients ( 12 % ) developed steroid-induced <target> elevated intraocular pressure </target> ( IOP ) that resolved after corticosteroid therapy was discontinued .",
+        "D000305\tChemical\tcorticosteroid\tDuring the follow-up , 3 patients ( 12 % ) developed steroid-induced elevated intraocular pressure ( IOP ) that resolved after <target> corticosteroid </target> therapy was discontinued .",
+        "D013256\tChemical\tsteroid\tThe transient <target> steroid </target> -induced IOP rise did not seem to cause functional impairment .",
+        "D009798\tDisease\tIOP rise\tThe transient steroid-induced <target> IOP rise </target> did not seem to cause functional impairment ."
+    ],
+    "lines_lemma": [
+        "D013256\tChemical\tsteroid\tduring the follow-up , 3 patient ( 12 % ) develop <target> steroid </target> -induced elevated intraocular pressure ( iop ) that resolve after corticosteroid therapy be discontinue .",
+        "D009798\tDisease\televated intraocular pressure\tduring the follow-up , 3 patient ( 12 % ) develop steroid-induced <target> elevated intraocular pressure </target> ( iop ) that resolve after corticosteroid therapy be discontinue .",
+        "D000305\tChemical\tcorticosteroid\tduring the follow-up , 3 patient ( 12 % ) develop steroid-induced elevated intraocular pressure ( iop ) that resolve after <target> corticosteroid </target> therapy be discontinue .",
+        "D013256\tChemical\tsteroid\tthe transient <target> steroid </target> -induced iop rise do not seem to cause functional impairment .",
+        "D009798\tDisease\tIOP rise\tthe transient steroid-induced <target> iop rise </target> do not seem to cause functional impairment ."
+    ]
+}

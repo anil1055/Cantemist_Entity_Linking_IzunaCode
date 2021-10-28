@@ -1,0 +1,118 @@
+{
+    "title": "Cerebral infarction with a single oral dose of phenylpropanolamine.",
+    "abst": "Phenylpropanolamine (PPA), a synthetic sympathomimetic that is structurally similar to amphetamine, is available over the counter in anorectics, nasal congestants, and cold preparations. Its prolonged use or overuse has been associated with seizures, intracerebral hemorrhage, neuropsychiatric symptoms, and nonhemorrhagic cerebral infarction. We report the case of a young woman who suffered a cerebral infarction after taking a single oral dose of PPA.",
+    "title_plus_abst": "Cerebral infarction with a single oral dose of phenylpropanolamine. Phenylpropanolamine (PPA), a synthetic sympathomimetic that is structurally similar to amphetamine, is available over the counter in anorectics, nasal congestants, and cold preparations. Its prolonged use or overuse has been associated with seizures, intracerebral hemorrhage, neuropsychiatric symptoms, and nonhemorrhagic cerebral infarction. We report the case of a young woman who suffered a cerebral infarction after taking a single oral dose of PPA.",
+    "pubmed_id": "3828020",
+    "entities": [
+        [
+            0,
+            19,
+            "Cerebral infarction",
+            "Disease",
+            "D002544"
+        ],
+        [
+            47,
+            66,
+            "phenylpropanolamine",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            68,
+            87,
+            "Phenylpropanolamine",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            89,
+            92,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ],
+        [
+            155,
+            166,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            309,
+            317,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            319,
+            343,
+            "intracerebral hemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            345,
+            370,
+            "neuropsychiatric symptoms",
+            "Disease",
+            "D001523"
+        ],
+        [
+            391,
+            410,
+            "cerebral infarction",
+            "Disease",
+            "D002544"
+        ],
+        [
+            463,
+            482,
+            "cerebral infarction",
+            "Disease",
+            "D002544"
+        ],
+        [
+            518,
+            521,
+            "PPA",
+            "Chemical",
+            "D010665"
+        ]
+    ],
+    "split_sentence": [
+        "Cerebral infarction with a single oral dose of phenylpropanolamine.",
+        "Phenylpropanolamine (PPA), a synthetic sympathomimetic that is structurally similar to amphetamine, is available over the counter in anorectics, nasal congestants, and cold preparations.",
+        "Its prolonged use or overuse has been associated with seizures, intracerebral hemorrhage, neuropsychiatric symptoms, and nonhemorrhagic cerebral infarction.",
+        "We report the case of a young woman who suffered a cerebral infarction after taking a single oral dose of PPA."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002544\tDisease\tCerebral infarction\t<target> Cerebral infarction </target> with a single oral dose of phenylpropanolamine .",
+        "D010665\tChemical\tphenylpropanolamine\tCerebral infarction with a single oral dose of <target> phenylpropanolamine </target> .",
+        "D010665\tChemical\tPhenylpropanolamine\t<target> Phenylpropanolamine </target> ( PPA ) , a synthetic sympathomimetic that is structurally similar to amphetamine , is available over the counter in anorectics , nasal congestants , and cold preparations .",
+        "D010665\tChemical\tPPA\tPhenylpropanolamine ( <target> PPA </target> ) , a synthetic sympathomimetic that is structurally similar to amphetamine , is available over the counter in anorectics , nasal congestants , and cold preparations .",
+        "D000661\tChemical\tamphetamine\tPhenylpropanolamine ( PPA ) , a synthetic sympathomimetic that is structurally similar to <target> amphetamine </target> , is available over the counter in anorectics , nasal congestants , and cold preparations .",
+        "D012640\tDisease\tseizures\tIts prolonged use or overuse has been associated with <target> seizures </target> , intracerebral hemorrhage , neuropsychiatric symptoms , and nonhemorrhagic cerebral infarction .",
+        "D002543\tDisease\tintracerebral hemorrhage\tIts prolonged use or overuse has been associated with seizures , <target> intracerebral hemorrhage </target> , neuropsychiatric symptoms , and nonhemorrhagic cerebral infarction .",
+        "D001523\tDisease\tneuropsychiatric symptoms\tIts prolonged use or overuse has been associated with seizures , intracerebral hemorrhage , <target> neuropsychiatric symptoms </target> , and nonhemorrhagic cerebral infarction .",
+        "D002544\tDisease\tcerebral infarction\tIts prolonged use or overuse has been associated with seizures , intracerebral hemorrhage , neuropsychiatric symptoms , and nonhemorrhagic <target> cerebral infarction </target> .",
+        "D002544\tDisease\tcerebral infarction\tWe report the case of a young woman who suffered a <target> cerebral infarction </target> after taking a single oral dose of PPA .",
+        "D010665\tChemical\tPPA\tWe report the case of a young woman who suffered a cerebral infarction after taking a single oral dose of <target> PPA </target> ."
+    ],
+    "lines_lemma": [
+        "D002544\tDisease\tCerebral infarction\t<target> Cerebral infarction </target> with a single oral dose of phenylpropanolamine .",
+        "D010665\tChemical\tphenylpropanolamine\tcerebral infarction with a single oral dose of <target> phenylpropanolamine </target> .",
+        "D010665\tChemical\tPhenylpropanolamine\t<target> phenylpropanolamine </target> ( ppa ) , a synthetic sympathomimetic that be structurally similar to amphetamine , be available over the counter in anorectic , nasal congestant , and cold preparation .",
+        "D010665\tChemical\tPPA\tphenylpropanolamine ( <target> ppa </target> ) , a synthetic sympathomimetic that be structurally similar to amphetamine , be available over the counter in anorectic , nasal congestant , and cold preparation .",
+        "D000661\tChemical\tamphetamine\tphenylpropanolamine ( ppa ) , a synthetic sympathomimetic that be structurally similar to <target> amphetamine </target> , be available over the counter in anorectic , nasal congestant , and cold preparation .",
+        "D012640\tDisease\tseizures\tits prolonged use or overuse have be associate with <target> seizure </target> , intracerebral hemorrhage , neuropsychiatric symptom , and nonhemorrhagic cerebral infarction .",
+        "D002543\tDisease\tintracerebral hemorrhage\tits prolonged use or overuse have be associate with seizure , <target> intracerebral hemorrhage </target> , neuropsychiatric symptom , and nonhemorrhagic cerebral infarction .",
+        "D001523\tDisease\tneuropsychiatric symptoms\tits prolonged use or overuse have be associate with seizure , intracerebral hemorrhage , <target> neuropsychiatric symptom </target> , and nonhemorrhagic cerebral infarction .",
+        "D002544\tDisease\tcerebral infarction\tits prolonged use or overuse have be associate with seizure , intracerebral hemorrhage , neuropsychiatric symptom , and nonhemorrhagic <target> cerebral infarction </target> .",
+        "D002544\tDisease\tcerebral infarction\twe report the case of a young woman who suffer a <target> cerebral infarction </target> after take a single oral dose of ppa .",
+        "D010665\tChemical\tPPA\twe report the case of a young woman who suffer a cerebral infarction after take a single oral dose of <target> ppa </target> ."
+    ]
+}

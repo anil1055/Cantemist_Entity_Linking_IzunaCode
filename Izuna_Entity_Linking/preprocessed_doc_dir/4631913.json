@@ -1,0 +1,102 @@
+{
+    "title": "Effect of vincristine sulfate on Pseudomonas infections in monkeys.",
+    "abst": "In rhesus monkeys, intravenous challenge with 0.6 x 10(10) to 2.2 x 10(10)Pseudomonas aeruginosa organisms caused acute illness of 4 to 5 days' duration with spontaneous recovery in 13 of 15 monkeys; blood cultures became negative 3 to 17 days after challenge. Leukocytosis was observed in all monkeys. Intravenous or intratracheal inoculation of 2.0 to 2.5 mg of vincristine sulfate was followed by leukopenia in 4 to 5 days. Intravenous inoculation of 4.2 x 10(10) to 7.8 x 10(10) pyocin type 6 Pseudomonas organisms in monkeys given vincristine sulfate 4 days previously resulted in fatal infection in 11 of 14 monkeys, whereas none of four receiving Pseudomonas alone died. These studies suggest that an antimetabolite-induced leukopenia predisposes to severe Pseudomonas sepsis and that such monkeys may serve as a biological model for study of comparative efficacy of antimicrobial agents.",
+    "title_plus_abst": "Effect of vincristine sulfate on Pseudomonas infections in monkeys. In rhesus monkeys, intravenous challenge with 0.6 x 10(10) to 2.2 x 10(10)Pseudomonas aeruginosa organisms caused acute illness of 4 to 5 days' duration with spontaneous recovery in 13 of 15 monkeys; blood cultures became negative 3 to 17 days after challenge. Leukocytosis was observed in all monkeys. Intravenous or intratracheal inoculation of 2.0 to 2.5 mg of vincristine sulfate was followed by leukopenia in 4 to 5 days. Intravenous inoculation of 4.2 x 10(10) to 7.8 x 10(10) pyocin type 6 Pseudomonas organisms in monkeys given vincristine sulfate 4 days previously resulted in fatal infection in 11 of 14 monkeys, whereas none of four receiving Pseudomonas alone died. These studies suggest that an antimetabolite-induced leukopenia predisposes to severe Pseudomonas sepsis and that such monkeys may serve as a biological model for study of comparative efficacy of antimicrobial agents.",
+    "pubmed_id": "4631913",
+    "entities": [
+        [
+            10,
+            29,
+            "vincristine sulfate",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            33,
+            55,
+            "Pseudomonas infections",
+            "Disease",
+            "D011552"
+        ],
+        [
+            329,
+            341,
+            "Leukocytosis",
+            "Disease",
+            "D007964"
+        ],
+        [
+            432,
+            451,
+            "vincristine sulfate",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            468,
+            478,
+            "leukopenia",
+            "Disease",
+            "D007970"
+        ],
+        [
+            604,
+            623,
+            "vincristine sulfate",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            660,
+            669,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            799,
+            809,
+            "leukopenia",
+            "Disease",
+            "D007970"
+        ],
+        [
+            844,
+            850,
+            "sepsis",
+            "Disease",
+            "D018805"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of vincristine sulfate on Pseudomonas infections in monkeys.",
+        "In rhesus monkeys, intravenous challenge with 0.6 x 10(10) to 2.2 x 10(10)Pseudomonas aeruginosa organisms caused acute illness of 4 to 5 days' duration with spontaneous recovery in 13 of 15 monkeys; blood cultures became negative 3 to 17 days after challenge.",
+        "Leukocytosis was observed in all monkeys.",
+        "Intravenous or intratracheal inoculation of 2.0 to 2.5 mg of vincristine sulfate was followed by leukopenia in 4 to 5 days.",
+        "Intravenous inoculation of 4.2 x 10(10) to 7.8 x 10(10) pyocin type 6 Pseudomonas organisms in monkeys given vincristine sulfate 4 days previously resulted in fatal infection in 11 of 14 monkeys, whereas none of four receiving Pseudomonas alone died.",
+        "These studies suggest that an antimetabolite-induced leukopenia predisposes to severe Pseudomonas sepsis and that such monkeys may serve as a biological model for study of comparative efficacy of antimicrobial agents."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014750\tChemical\tvincristine sulfate\tEffect of <target> vincristine sulfate </target> on Pseudomonas infections in monkeys .",
+        "D011552\tDisease\tPseudomonas infections\tEffect of vincristine sulfate on <target> Pseudomonas infections </target> in monkeys .",
+        "D007964\tDisease\tLeukocytosis\t<target> Leukocytosis </target> was observed in all monkeys .",
+        "D014750\tChemical\tvincristine sulfate\tIntravenous or intratracheal inoculation of 2.0 to 2.5 mg of <target> vincristine sulfate </target> was followed by leukopenia in 4 to 5 days .",
+        "D007970\tDisease\tleukopenia\tIntravenous or intratracheal inoculation of 2.0 to 2.5 mg of vincristine sulfate was followed by <target> leukopenia </target> in 4 to 5 days .",
+        "D014750\tChemical\tvincristine sulfate\tIntravenous inoculation of 4.2 x 10(10 ) to 7.8 x 10(10 ) pyocin type 6 Pseudomonas organisms in monkeys given <target> vincristine sulfate </target> 4 days previously resulted in fatal infection in 11 of 14 monkeys , whereas none of four receiving Pseudomonas alone died .",
+        "D007239\tDisease\tinfection\tIntravenous inoculation of 4.2 x 10(10 ) to 7.8 x 10(10 ) pyocin type 6 Pseudomonas organisms in monkeys given vincristine sulfate 4 days previously resulted in fatal <target> infection </target> in 11 of 14 monkeys , whereas none of four receiving Pseudomonas alone died .",
+        "D007970\tDisease\tleukopenia\tThese studies suggest that an antimetabolite-induced <target> leukopenia </target> predisposes to severe Pseudomonas sepsis and that such monkeys may serve as a biological model for study of comparative efficacy of antimicrobial agents .",
+        "D018805\tDisease\tsepsis\tThese studies suggest that an antimetabolite-induced leukopenia predisposes to severe Pseudomonas <target> sepsis </target> and that such monkeys may serve as a biological model for study of comparative efficacy of antimicrobial agents ."
+    ],
+    "lines_lemma": [
+        "D014750\tChemical\tvincristine sulfate\teffect of <target> vincristine sulfate </target> on Pseudomonas infection in monkey .",
+        "D011552\tDisease\tPseudomonas infections\teffect of vincristine sulfate on <target> Pseudomonas infection </target> in monkey .",
+        "D007964\tDisease\tLeukocytosis\t<target> leukocytosis </target> be observe in all monkey .",
+        "D014750\tChemical\tvincristine sulfate\tintravenous or intratracheal inoculation of 2.0 to 2.5 mg of <target> vincristine sulfate </target> be follow by leukopenia in 4 to 5 day .",
+        "D007970\tDisease\tleukopenia\tintravenous or intratracheal inoculation of 2.0 to 2.5 mg of vincristine sulfate be follow by <target> leukopenia </target> in 4 to 5 day .",
+        "D014750\tChemical\tvincristine sulfate\tintravenous inoculation of 4.2 x 10(10 ) to 7.8 x 10(10 ) pyocin type 6 Pseudomonas organism in monkey give <target> vincristine sulfate </target> 4 day previously result in fatal infection in 11 of 14 monkey , whereas none of four receive Pseudomonas alone die .",
+        "D007239\tDisease\tinfection\tintravenous inoculation of 4.2 x 10(10 ) to 7.8 x 10(10 ) pyocin type 6 Pseudomonas organism in monkey give vincristine sulfate 4 day previously result in fatal <target> infection </target> in 11 of 14 monkey , whereas none of four receive Pseudomonas alone die .",
+        "D007970\tDisease\tleukopenia\tthese study suggest that an antimetabolite-induced <target> leukopenia </target> predispose to severe Pseudomonas sepsis and that such monkey may serve as a biological model for study of comparative efficacy of antimicrobial agent .",
+        "D018805\tDisease\tsepsis\tthese study suggest that an antimetabolite-induced leukopenia predispose to severe Pseudomonas <target> sepsis </target> and that such monkey may serve as a biological model for study of comparative efficacy of antimicrobial agent ."
+    ]
+}

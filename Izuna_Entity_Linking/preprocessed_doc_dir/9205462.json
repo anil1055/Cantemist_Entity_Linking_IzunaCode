@@ -1,0 +1,166 @@
+{
+    "title": "Granulosa cell tumor of the ovary associated with antecedent tamoxifen use.",
+    "abst": "BACKGROUND: Increased attention has been focused recently on the estrogenic effects of tamoxifen. Review of the literature reveals an association between tamoxifen use and gynecologic tumors. CASE: A 52-year-old postmenopausal woman was treated with tamoxifen for stage II estrogen receptor-positive breast carcinoma. Her aspartate transaminase and alanine transaminase levels increase markedly after 6 months of tamoxifen use. After an additional 17 months of elevated serum transaminases, the patient was found to have a stage Ic granulosa cell tumor of the ovary. CONCLUSION: Patients with tamoxifen-induced liver dysfunction may be at increased risk for granulosa cell tumors because of alterations in tamoxifen metabolism.",
+    "title_plus_abst": "Granulosa cell tumor of the ovary associated with antecedent tamoxifen use. BACKGROUND: Increased attention has been focused recently on the estrogenic effects of tamoxifen. Review of the literature reveals an association between tamoxifen use and gynecologic tumors. CASE: A 52-year-old postmenopausal woman was treated with tamoxifen for stage II estrogen receptor-positive breast carcinoma. Her aspartate transaminase and alanine transaminase levels increase markedly after 6 months of tamoxifen use. After an additional 17 months of elevated serum transaminases, the patient was found to have a stage Ic granulosa cell tumor of the ovary. CONCLUSION: Patients with tamoxifen-induced liver dysfunction may be at increased risk for granulosa cell tumors because of alterations in tamoxifen metabolism.",
+    "pubmed_id": "9205462",
+    "entities": [
+        [
+            0,
+            33,
+            "Granulosa cell tumor of the ovary",
+            "Disease",
+            "C537296"
+        ],
+        [
+            61,
+            70,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            163,
+            172,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            230,
+            239,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            260,
+            266,
+            "tumors",
+            "Disease",
+            "D009369"
+        ],
+        [
+            326,
+            335,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            349,
+            357,
+            "estrogen",
+            "Chemical",
+            "D004967"
+        ],
+        [
+            376,
+            392,
+            "breast carcinoma",
+            "Disease",
+            "D001943"
+        ],
+        [
+            398,
+            407,
+            "aspartate",
+            "Chemical",
+            "D001224"
+        ],
+        [
+            425,
+            432,
+            "alanine",
+            "Chemical",
+            "D000409"
+        ],
+        [
+            489,
+            498,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            608,
+            641,
+            "granulosa cell tumor of the ovary",
+            "Disease",
+            "C537296"
+        ],
+        [
+            669,
+            678,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            687,
+            704,
+            "liver dysfunction",
+            "Disease",
+            "D017093"
+        ],
+        [
+            734,
+            755,
+            "granulosa cell tumors",
+            "Disease",
+            "D006106"
+        ],
+        [
+            782,
+            791,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ]
+    ],
+    "split_sentence": [
+        "Granulosa cell tumor of the ovary associated with antecedent tamoxifen use.",
+        "BACKGROUND: Increased attention has been focused recently on the estrogenic effects of tamoxifen.",
+        "Review of the literature reveals an association between tamoxifen use and gynecologic tumors.",
+        "CASE: A 52-year-old postmenopausal woman was treated with tamoxifen for stage II estrogen receptor-positive breast carcinoma.",
+        "Her aspartate transaminase and alanine transaminase levels increase markedly after 6 months of tamoxifen use.",
+        "After an additional 17 months of elevated serum transaminases, the patient was found to have a stage Ic granulosa cell tumor of the ovary.",
+        "CONCLUSION: Patients with tamoxifen-induced liver dysfunction may be at increased risk for granulosa cell tumors because of alterations in tamoxifen metabolism."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C537296\tDisease\tGranulosa cell tumor of the ovary\t<target> Granulosa cell tumor of the ovary </target> associated with antecedent tamoxifen use .",
+        "D013629\tChemical\ttamoxifen\tGranulosa cell tumor of the ovary associated with antecedent <target> tamoxifen </target> use .",
+        "D013629\tChemical\ttamoxifen\tBACKGROUND : Increased attention has been focused recently on the estrogenic effects of <target> tamoxifen </target> .",
+        "D013629\tChemical\ttamoxifen\tReview of the literature reveals an association between <target> tamoxifen </target> use and gynecologic tumors .",
+        "D009369\tDisease\ttumors\tReview of the literature reveals an association between tamoxifen use and gynecologic <target> tumors </target> .",
+        "D013629\tChemical\ttamoxifen\tCASE : A 52-year-old postmenopausal woman was treated with <target> tamoxifen </target> for stage II estrogen receptor-positive breast carcinoma .",
+        "D004967\tChemical\testrogen\tCASE : A 52-year-old postmenopausal woman was treated with tamoxifen for stage II <target> estrogen </target> receptor-positive breast carcinoma .",
+        "D001943\tDisease\tbreast carcinoma\tCASE : A 52-year-old postmenopausal woman was treated with tamoxifen for stage II estrogen receptor-positive <target> breast carcinoma </target> .",
+        "D001224\tChemical\taspartate\tHer <target> aspartate </target> transaminase and alanine transaminase levels increase markedly after 6 months of tamoxifen use .",
+        "D000409\tChemical\talanine\tHer aspartate transaminase and <target> alanine </target> transaminase levels increase markedly after 6 months of tamoxifen use .",
+        "D013629\tChemical\ttamoxifen\tHer aspartate transaminase and alanine transaminase levels increase markedly after 6 months of <target> tamoxifen </target> use .",
+        "C537296\tDisease\tgranulosa cell tumor of the ovary\tAfter an additional 17 months of elevated serum transaminases , the patient was found to have a stage Ic <target> granulosa cell tumor of the ovary </target> .",
+        "D013629\tChemical\ttamoxifen\tCONCLUSION : Patients with <target> tamoxifen </target> -induced liver dysfunction may be at increased risk for granulosa cell tumors because of alterations in tamoxifen metabolism .",
+        "D017093\tDisease\tliver dysfunction\tCONCLUSION : Patients with tamoxifen-induced <target> liver dysfunction </target> may be at increased risk for granulosa cell tumors because of alterations in tamoxifen metabolism .",
+        "D006106\tDisease\tgranulosa cell tumors\tCONCLUSION : Patients with tamoxifen-induced liver dysfunction may be at increased risk for <target> granulosa cell tumors </target> because of alterations in tamoxifen metabolism .",
+        "D013629\tChemical\ttamoxifen\tCONCLUSION : Patients with tamoxifen-induced liver dysfunction may be at increased risk for granulosa cell tumors because of alterations in <target> tamoxifen </target> metabolism ."
+    ],
+    "lines_lemma": [
+        "C537296\tDisease\tGranulosa cell tumor of the ovary\t<target> Granulosa cell tumor of the ovary </target> associate with antecedent tamoxifen use .",
+        "D013629\tChemical\ttamoxifen\tgranulosa cell tumor of the ovary associate with antecedent <target> tamoxifen </target> use .",
+        "D013629\tChemical\ttamoxifen\tbackground : increase attention have be focus recently on the estrogenic effect of <target> tamoxifen </target> .",
+        "D013629\tChemical\ttamoxifen\treview of the literature reveal an association between <target> tamoxifen </target> use and gynecologic tumor .",
+        "D009369\tDisease\ttumors\treview of the literature reveal an association between tamoxifen use and gynecologic <target> tumor </target> .",
+        "D013629\tChemical\ttamoxifen\tcase : a 52-year-old postmenopausal woman be treat with <target> tamoxifen </target> for stage ii estrogen receptor-positive breast carcinoma .",
+        "D004967\tChemical\testrogen\tcase : a 52-year-old postmenopausal woman be treat with tamoxifen for stage ii <target> estrogen </target> receptor-positive breast carcinoma .",
+        "D001943\tDisease\tbreast carcinoma\tcase : a 52-year-old postmenopausal woman be treat with tamoxifen for stage ii estrogen receptor-positive <target> breast carcinoma </target> .",
+        "D001224\tChemical\taspartate\ther <target> aspartate </target> transaminase and alanine transaminase level increase markedly after 6 month of tamoxifen use .",
+        "D000409\tChemical\talanine\ther aspartate transaminase and <target> alanine </target> transaminase level increase markedly after 6 month of tamoxifen use .",
+        "D013629\tChemical\ttamoxifen\ther aspartate transaminase and alanine transaminase level increase markedly after 6 month of <target> tamoxifen </target> use .",
+        "C537296\tDisease\tgranulosa cell tumor of the ovary\tafter an additional 17 month of elevated serum transaminase , the patient be find to have a stage Ic <target> granulosa cell tumor of the ovary </target> .",
+        "D013629\tChemical\ttamoxifen\tconclusion : patient with <target> tamoxifen </target> -induced liver dysfunction may be at increase risk for granulosa cell tumor because of alteration in tamoxifen metabolism .",
+        "D017093\tDisease\tliver dysfunction\tconclusion : patient with tamoxifen-induced <target> liver dysfunction </target> may be at increase risk for granulosa cell tumor because of alteration in tamoxifen metabolism .",
+        "D006106\tDisease\tgranulosa cell tumors\tconclusion : patient with tamoxifen-induced liver dysfunction may be at increase risk for <target> granulosa cell tumor </target> because of alteration in tamoxifen metabolism .",
+        "D013629\tChemical\ttamoxifen\tconclusion : patient with tamoxifen-induced liver dysfunction may be at increase risk for granulosa cell tumor because of alteration in <target> tamoxifen </target> metabolism ."
+    ]
+}

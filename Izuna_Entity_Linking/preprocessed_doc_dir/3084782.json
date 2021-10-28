@@ -1,0 +1,155 @@
+{
+    "title": "Toxicity due to remission inducing drugs in rheumatoid arthritis. Association with HLA-B35 and Cw4 antigens.",
+    "abst": "Twenty-five patients with rheumatoid arthritis (RA) who developed toxicity while taking remission inducing drugs and 30 without toxicity were studied for possible associations with class I and II HLA antigens. A strong association has been found between nephritis and dermatitis due to Tiopronin (a D-Penicillamine like compound) and class I antigens B35-Cw4, and between dermatitis due to gold thiosulphate and B35. Compared to healthy controls a lower DR5 frequency was observed in patients with RA except for the Tiopronin related nephritis group.",
+    "title_plus_abst": "Toxicity due to remission inducing drugs in rheumatoid arthritis. Association with HLA-B35 and Cw4 antigens. Twenty-five patients with rheumatoid arthritis (RA) who developed toxicity while taking remission inducing drugs and 30 without toxicity were studied for possible associations with class I and II HLA antigens. A strong association has been found between nephritis and dermatitis due to Tiopronin (a D-Penicillamine like compound) and class I antigens B35-Cw4, and between dermatitis due to gold thiosulphate and B35. Compared to healthy controls a lower DR5 frequency was observed in patients with RA except for the Tiopronin related nephritis group.",
+    "pubmed_id": "3084782",
+    "entities": [
+        [
+            0,
+            8,
+            "Toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            44,
+            64,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            135,
+            155,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            157,
+            159,
+            "RA",
+            "Disease",
+            "D001172"
+        ],
+        [
+            175,
+            183,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            237,
+            245,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            363,
+            372,
+            "nephritis",
+            "Disease",
+            "D009393"
+        ],
+        [
+            377,
+            387,
+            "dermatitis",
+            "Disease",
+            "D003872"
+        ],
+        [
+            395,
+            404,
+            "Tiopronin",
+            "Chemical",
+            "D008625"
+        ],
+        [
+            408,
+            423,
+            "D-Penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            481,
+            491,
+            "dermatitis",
+            "Disease",
+            "D003872"
+        ],
+        [
+            499,
+            503,
+            "gold",
+            "Chemical",
+            "D006046"
+        ],
+        [
+            607,
+            609,
+            "RA",
+            "Disease",
+            "D001172"
+        ],
+        [
+            625,
+            634,
+            "Tiopronin",
+            "Chemical",
+            "D008625"
+        ],
+        [
+            643,
+            652,
+            "nephritis",
+            "Disease",
+            "D009393"
+        ]
+    ],
+    "split_sentence": [
+        "Toxicity due to remission inducing drugs in rheumatoid arthritis.",
+        "Association with HLA-B35 and Cw4 antigens.",
+        "Twenty-five patients with rheumatoid arthritis (RA) who developed toxicity while taking remission inducing drugs and 30 without toxicity were studied for possible associations with class I and II HLA antigens.",
+        "A strong association has been found between nephritis and dermatitis due to Tiopronin (a D-Penicillamine like compound) and class I antigens B35-Cw4, and between dermatitis due to gold thiosulphate and B35.",
+        "Compared to healthy controls a lower DR5 frequency was observed in patients with RA except for the Tiopronin related nephritis group."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D064420\tDisease\tToxicity\t<target> Toxicity </target> due to remission inducing drugs in rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tToxicity due to remission inducing drugs in <target> rheumatoid arthritis </target> .",
+        "D001172\tDisease\trheumatoid arthritis\tTwenty-five patients with <target> rheumatoid arthritis </target> ( RA ) who developed toxicity while taking remission inducing drugs and 30 without toxicity were studied for possible associations with class I and II HLA antigens .",
+        "D001172\tDisease\tRA\tTwenty-five patients with rheumatoid arthritis ( <target> RA </target> ) who developed toxicity while taking remission inducing drugs and 30 without toxicity were studied for possible associations with class I and II HLA antigens .",
+        "D064420\tDisease\ttoxicity\tTwenty-five patients with rheumatoid arthritis ( RA ) who developed <target> toxicity </target> while taking remission inducing drugs and 30 without toxicity were studied for possible associations with class I and II HLA antigens .",
+        "D064420\tDisease\ttoxicity\tTwenty-five patients with rheumatoid arthritis ( RA ) who developed toxicity while taking remission inducing drugs and 30 without <target> toxicity </target> were studied for possible associations with class I and II HLA antigens .",
+        "D009393\tDisease\tnephritis\tA strong association has been found between <target> nephritis </target> and dermatitis due to Tiopronin ( a D-Penicillamine like compound ) and class I antigens B35-Cw4 , and between dermatitis due to gold thiosulphate and B35 .",
+        "D003872\tDisease\tdermatitis\tA strong association has been found between nephritis and <target> dermatitis </target> due to Tiopronin ( a D-Penicillamine like compound ) and class I antigens B35-Cw4 , and between dermatitis due to gold thiosulphate and B35 .",
+        "D008625\tChemical\tTiopronin\tA strong association has been found between nephritis and dermatitis due to <target> Tiopronin </target> ( a D-Penicillamine like compound ) and class I antigens B35-Cw4 , and between dermatitis due to gold thiosulphate and B35 .",
+        "D010396\tChemical\tD-Penicillamine\tA strong association has been found between nephritis and dermatitis due to Tiopronin ( a <target> D-Penicillamine </target> like compound ) and class I antigens B35-Cw4 , and between dermatitis due to gold thiosulphate and B35 .",
+        "D003872\tDisease\tdermatitis\tA strong association has been found between nephritis and dermatitis due to Tiopronin ( a D-Penicillamine like compound ) and class I antigens B35-Cw4 , and between <target> dermatitis </target> due to gold thiosulphate and B35 .",
+        "D006046\tChemical\tgold\tA strong association has been found between nephritis and dermatitis due to Tiopronin ( a D-Penicillamine like compound ) and class I antigens B35-Cw4 , and between dermatitis due to <target> gold </target> thiosulphate and B35 .",
+        "D001172\tDisease\tRA\tCompared to healthy controls a lower DR5 frequency was observed in patients with <target> RA </target> except for the Tiopronin related nephritis group .",
+        "D008625\tChemical\tTiopronin\tCompared to healthy controls a lower DR5 frequency was observed in patients with RA except for the <target> Tiopronin </target> related nephritis group .",
+        "D009393\tDisease\tnephritis\tCompared to healthy controls a lower DR5 frequency was observed in patients with RA except for the Tiopronin related <target> nephritis </target> group ."
+    ],
+    "lines_lemma": [
+        "D064420\tDisease\tToxicity\t<target> toxicity </target> due to remission induce drug in rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\ttoxicity due to remission induce drug in <target> rheumatoid arthritis </target> .",
+        "D001172\tDisease\trheumatoid arthritis\ttwenty-five patient with <target> rheumatoid arthritis </target> ( ra ) who develop toxicity while take remission induce drug and 30 without toxicity be study for possible association with class i and ii hla antigen .",
+        "D001172\tDisease\tRA\ttwenty-five patient with rheumatoid arthritis ( <target> ra </target> ) who develop toxicity while take remission induce drug and 30 without toxicity be study for possible association with class i and ii hla antigen .",
+        "D064420\tDisease\ttoxicity\ttwenty-five patient with rheumatoid arthritis ( ra ) who develop <target> toxicity </target> while take remission induce drug and 30 without toxicity be study for possible association with class i and ii hla antigen .",
+        "D064420\tDisease\ttoxicity\ttwenty-five patient with rheumatoid arthritis ( ra ) who develop toxicity while take remission induce drug and 30 without <target> toxicity </target> be study for possible association with class i and ii hla antigen .",
+        "D009393\tDisease\tnephritis\ta strong association have be find between <target> nephritis </target> and dermatitis due to Tiopronin ( a d-penicillamine like compound ) and class i antigen b35-cw4 , and between dermatitis due to gold thiosulphate and b35 .",
+        "D003872\tDisease\tdermatitis\ta strong association have be find between nephritis and <target> dermatitis </target> due to Tiopronin ( a d-penicillamine like compound ) and class i antigen b35-cw4 , and between dermatitis due to gold thiosulphate and b35 .",
+        "D008625\tChemical\tTiopronin\ta strong association have be find between nephritis and dermatitis due to <target> Tiopronin </target> ( a d-penicillamine like compound ) and class i antigen b35-cw4 , and between dermatitis due to gold thiosulphate and b35 .",
+        "D010396\tChemical\tD-Penicillamine\ta strong association have be find between nephritis and dermatitis due to Tiopronin ( a <target> d-penicillamine </target> like compound ) and class i antigen b35-cw4 , and between dermatitis due to gold thiosulphate and b35 .",
+        "D003872\tDisease\tdermatitis\ta strong association have be find between nephritis and dermatitis due to Tiopronin ( a d-penicillamine like compound ) and class i antigen b35-cw4 , and between <target> dermatitis </target> due to gold thiosulphate and b35 .",
+        "D006046\tChemical\tgold\ta strong association have be find between nephritis and dermatitis due to Tiopronin ( a d-penicillamine like compound ) and class i antigen b35-cw4 , and between dermatitis due to <target> gold </target> thiosulphate and b35 .",
+        "D001172\tDisease\tRA\tcompare to healthy control a low dr5 frequency be observe in patient with <target> ra </target> except for the Tiopronin related nephritis group .",
+        "D008625\tChemical\tTiopronin\tcompare to healthy control a low dr5 frequency be observe in patient with ra except for the <target> Tiopronin </target> related nephritis group .",
+        "D009393\tDisease\tnephritis\tcompare to healthy control a low dr5 frequency be observe in patient with ra except for the Tiopronin related <target> nephritis </target> group ."
+    ]
+}

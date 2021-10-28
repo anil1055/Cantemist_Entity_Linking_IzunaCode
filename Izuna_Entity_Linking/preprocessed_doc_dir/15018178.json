@@ -1,0 +1,83 @@
+{
+    "title": "MRI findings of hypoxic cortical laminar necrosis in a child with hemolytic anemia crisis.",
+    "abst": "We present magnetic resonance imaging findings of a 5-year-old girl who had a rapidly installing hemolytic anemia crisis induced by trimethoprim-sulfomethoxazole, resulting in cerebral anoxia leading to permanent damage. Magnetic Resonance imaging revealed cortical laminar necrosis in arterial border zones in both cerebral hemispheres, ischemic changes in subcortical white matter of left cerebral hemisphere, and in the left putamen. Although cortical laminar necrosis is a classic entity in adulthood related to conditions of energy depletions, there are few reports available in children. A wide review of the literature is also presented.",
+    "title_plus_abst": "MRI findings of hypoxic cortical laminar necrosis in a child with hemolytic anemia crisis. We present magnetic resonance imaging findings of a 5-year-old girl who had a rapidly installing hemolytic anemia crisis induced by trimethoprim-sulfomethoxazole, resulting in cerebral anoxia leading to permanent damage. Magnetic Resonance imaging revealed cortical laminar necrosis in arterial border zones in both cerebral hemispheres, ischemic changes in subcortical white matter of left cerebral hemisphere, and in the left putamen. Although cortical laminar necrosis is a classic entity in adulthood related to conditions of energy depletions, there are few reports available in children. A wide review of the literature is also presented.",
+    "pubmed_id": "15018178",
+    "entities": [
+        [
+            41,
+            49,
+            "necrosis",
+            "Disease",
+            "D009336"
+        ],
+        [
+            66,
+            82,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            188,
+            204,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            223,
+            252,
+            "trimethoprim-sulfomethoxazole",
+            "Chemical",
+            "D015662"
+        ],
+        [
+            267,
+            282,
+            "cerebral anoxia",
+            "Disease",
+            "D002534"
+        ],
+        [
+            365,
+            373,
+            "necrosis",
+            "Disease",
+            "D009336"
+        ],
+        [
+            554,
+            562,
+            "necrosis",
+            "Disease",
+            "D009336"
+        ]
+    ],
+    "split_sentence": [
+        "MRI findings of hypoxic cortical laminar necrosis in a child with hemolytic anemia crisis.",
+        "We present magnetic resonance imaging findings of a 5-year-old girl who had a rapidly installing hemolytic anemia crisis induced by trimethoprim-sulfomethoxazole, resulting in cerebral anoxia leading to permanent damage.",
+        "Magnetic Resonance imaging revealed cortical laminar necrosis in arterial border zones in both cerebral hemispheres, ischemic changes in subcortical white matter of left cerebral hemisphere, and in the left putamen.",
+        "Although cortical laminar necrosis is a classic entity in adulthood related to conditions of energy depletions, there are few reports available in children.",
+        "A wide review of the literature is also presented."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009336\tDisease\tnecrosis\tMRI findings of hypoxic cortical laminar <target> necrosis </target> in a child with hemolytic anemia crisis .",
+        "D000743\tDisease\themolytic anemia\tMRI findings of hypoxic cortical laminar necrosis in a child with <target> hemolytic anemia </target> crisis .",
+        "D000743\tDisease\themolytic anemia\tWe present magnetic resonance imaging findings of a 5-year-old girl who had a rapidly installing <target> hemolytic anemia </target> crisis induced by trimethoprim-sulfomethoxazole , resulting in cerebral anoxia leading to permanent damage .",
+        "D015662\tChemical\ttrimethoprim-sulfomethoxazole\tWe present magnetic resonance imaging findings of a 5-year-old girl who had a rapidly installing hemolytic anemia crisis induced by <target> trimethoprim-sulfomethoxazole </target> , resulting in cerebral anoxia leading to permanent damage .",
+        "D002534\tDisease\tcerebral anoxia\tWe present magnetic resonance imaging findings of a 5-year-old girl who had a rapidly installing hemolytic anemia crisis induced by trimethoprim-sulfomethoxazole , resulting in <target> cerebral anoxia </target> leading to permanent damage .",
+        "D009336\tDisease\tnecrosis\tMagnetic Resonance imaging revealed cortical laminar <target> necrosis </target> in arterial border zones in both cerebral hemispheres , ischemic changes in subcortical white matter of left cerebral hemisphere , and in the left putamen .",
+        "D009336\tDisease\tnecrosis\tAlthough cortical laminar <target> necrosis </target> is a classic entity in adulthood related to conditions of energy depletions , there are few reports available in children ."
+    ],
+    "lines_lemma": [
+        "D009336\tDisease\tnecrosis\tmri finding of hypoxic cortical laminar <target> necrosis </target> in a child with hemolytic anemia crisis .",
+        "D000743\tDisease\themolytic anemia\tmri finding of hypoxic cortical laminar necrosis in a child with <target> hemolytic anemia </target> crisis .",
+        "D000743\tDisease\themolytic anemia\twe present magnetic resonance imaging finding of a 5-year-old girl who have a rapidly instal <target> hemolytic anemia </target> crisis induce by trimethoprim-sulfomethoxazole , result in cerebral anoxia lead to permanent damage .",
+        "D015662\tChemical\ttrimethoprim-sulfomethoxazole\twe present magnetic resonance imaging finding of a 5-year-old girl who have a rapidly instal hemolytic anemia crisis induce by <target> trimethoprim-sulfomethoxazole </target> , result in cerebral anoxia lead to permanent damage .",
+        "D002534\tDisease\tcerebral anoxia\twe present magnetic resonance imaging finding of a 5-year-old girl who have a rapidly instal hemolytic anemia crisis induce by trimethoprim-sulfomethoxazole , result in <target> cerebral anoxia </target> lead to permanent damage .",
+        "D009336\tDisease\tnecrosis\tMagnetic Resonance imaging reveal cortical laminar <target> necrosis </target> in arterial border zone in both cerebral hemisphere , ischemic change in subcortical white matter of leave cerebral hemisphere , and in the left putaman .",
+        "D009336\tDisease\tnecrosis\talthough cortical laminar <target> necrosis </target> be a classic entity in adulthood related to condition of energy depletion , there be few report available in child ."
+    ]
+}

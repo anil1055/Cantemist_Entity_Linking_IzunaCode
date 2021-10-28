@@ -1,0 +1,85 @@
+{
+    "title": "The use of serum cholinesterase in succinylcholine apnoea.",
+    "abst": "Fifteen patients demonstrating unexpected prolonged apnoea lasting several hours after succinylcholine have been treated by a new preparation of human serum cholinesterase. Adequate spontaneous respiration was re-established in an average period of ten minutes after the injection. In 12 patients biochemical genetic examinations confirmed the presence of an atypical serum cholinesterase. In three patients none of the usual variants were found. It is therefore supposed that other unknown variants of serum cholinesterase exist which cannot hydrolyze succinylcholine. The use of serum cholinesterase in succinylcholine apnoea provided considerable relief to both patient and anaesthetist.",
+    "title_plus_abst": "The use of serum cholinesterase in succinylcholine apnoea. Fifteen patients demonstrating unexpected prolonged apnoea lasting several hours after succinylcholine have been treated by a new preparation of human serum cholinesterase. Adequate spontaneous respiration was re-established in an average period of ten minutes after the injection. In 12 patients biochemical genetic examinations confirmed the presence of an atypical serum cholinesterase. In three patients none of the usual variants were found. It is therefore supposed that other unknown variants of serum cholinesterase exist which cannot hydrolyze succinylcholine. The use of serum cholinesterase in succinylcholine apnoea provided considerable relief to both patient and anaesthetist.",
+    "pubmed_id": "871943",
+    "entities": [
+        [
+            35,
+            50,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            51,
+            57,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            111,
+            117,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            146,
+            161,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            612,
+            627,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            664,
+            679,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            680,
+            686,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ]
+    ],
+    "split_sentence": [
+        "The use of serum cholinesterase in succinylcholine apnoea.",
+        "Fifteen patients demonstrating unexpected prolonged apnoea lasting several hours after succinylcholine have been treated by a new preparation of human serum cholinesterase.",
+        "Adequate spontaneous respiration was re-established in an average period of ten minutes after the injection.",
+        "In 12 patients biochemical genetic examinations confirmed the presence of an atypical serum cholinesterase.",
+        "In three patients none of the usual variants were found.",
+        "It is therefore supposed that other unknown variants of serum cholinesterase exist which cannot hydrolyze succinylcholine.",
+        "The use of serum cholinesterase in succinylcholine apnoea provided considerable relief to both patient and anaesthetist."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tsuccinylcholine\tThe use of serum cholinesterase in <target> succinylcholine </target> apnoea .",
+        "D001049\tDisease\tapnoea\tThe use of serum cholinesterase in succinylcholine <target> apnoea </target> .",
+        "D001049\tDisease\tapnoea\tFifteen patients demonstrating unexpected prolonged <target> apnoea </target> lasting several hours after succinylcholine have been treated by a new preparation of human serum cholinesterase .",
+        "D013390\tChemical\tsuccinylcholine\tFifteen patients demonstrating unexpected prolonged apnoea lasting several hours after <target> succinylcholine </target> have been treated by a new preparation of human serum cholinesterase .",
+        "D013390\tChemical\tsuccinylcholine\tIt is therefore supposed that other unknown variants of serum cholinesterase exist which can not hydrolyze <target> succinylcholine </target> .",
+        "D013390\tChemical\tsuccinylcholine\tThe use of serum cholinesterase in <target> succinylcholine </target> apnoea provided considerable relief to both patient and anaesthetist .",
+        "D001049\tDisease\tapnoea\tThe use of serum cholinesterase in succinylcholine <target> apnoea </target> provided considerable relief to both patient and anaesthetist ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tsuccinylcholine\tthe use of serum cholinesterase in <target> succinylcholine </target> apnoea .",
+        "D001049\tDisease\tapnoea\tthe use of serum cholinesterase in succinylcholine <target> apnoea </target> .",
+        "D001049\tDisease\tapnoea\tfifteen patient demonstrate unexpected prolonged <target> apnoea </target> last several hour after succinylcholine have be treat by a new preparation of human serum cholinesterase .",
+        "D013390\tChemical\tsuccinylcholine\tfifteen patient demonstrate unexpected prolonged apnoea last several hour after <target> succinylcholine </target> have be treat by a new preparation of human serum cholinesterase .",
+        "D013390\tChemical\tsuccinylcholine\tit be therefore suppose that other unknown variant of serum cholinesterase exist which can not hydrolyze <target> succinylcholine </target> .",
+        "D013390\tChemical\tsuccinylcholine\tthe use of serum cholinesterase in <target> succinylcholine </target> apnoea provide considerable relief to both patient and anaesthetist .",
+        "D001049\tDisease\tapnoea\tthe use of serum cholinesterase in succinylcholine <target> apnoea </target> provide considerable relief to both patient and anaesthetist ."
+    ]
+}

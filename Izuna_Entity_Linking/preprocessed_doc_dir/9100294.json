@@ -1,0 +1,193 @@
+{
+    "title": "Cardiovascular alterations in rat fetuses exposed to calcium channel blockers.",
+    "abst": "Preclinical toxicologic investigation suggested that a new calcium channel blocker, Ro 40-5967, induced cardiovascular alterations in rat fetuses exposed to this agent during organogenesis. The present study was designed to investigate the hypothesis that calcium channel blockers in general induce cardiovascular malformations indicating a pharmacologic class effect. We studied three calcium channel blockers of different structure, nifedipine, diltiazem, and verapamil, along with the new agent. Pregnant rats were administered one of these calcium channel blockers during the period of cardiac morphogenesis and the offspring examined on day 20 of gestation for cardiovascular malformations. A low incidence of cardiovascular malformations was observed after exposure to each of the four calcium channel blockers, but this incidence was statistically significant only for verapamil and nifedipine. All four agents were associated with aortic arch branching variants, although significantly increased only for Ro 40-5967 and verapamil.",
+    "title_plus_abst": "Cardiovascular alterations in rat fetuses exposed to calcium channel blockers. Preclinical toxicologic investigation suggested that a new calcium channel blocker, Ro 40-5967, induced cardiovascular alterations in rat fetuses exposed to this agent during organogenesis. The present study was designed to investigate the hypothesis that calcium channel blockers in general induce cardiovascular malformations indicating a pharmacologic class effect. We studied three calcium channel blockers of different structure, nifedipine, diltiazem, and verapamil, along with the new agent. Pregnant rats were administered one of these calcium channel blockers during the period of cardiac morphogenesis and the offspring examined on day 20 of gestation for cardiovascular malformations. A low incidence of cardiovascular malformations was observed after exposure to each of the four calcium channel blockers, but this incidence was statistically significant only for verapamil and nifedipine. All four agents were associated with aortic arch branching variants, although significantly increased only for Ro 40-5967 and verapamil.",
+    "pubmed_id": "9100294",
+    "entities": [
+        [
+            0,
+            26,
+            "Cardiovascular alterations",
+            "Disease",
+            "D018376"
+        ],
+        [
+            53,
+            60,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            138,
+            145,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            163,
+            173,
+            "Ro 40-5967",
+            "Chemical",
+            "D020748"
+        ],
+        [
+            183,
+            209,
+            "cardiovascular alterations",
+            "Disease",
+            "D018376"
+        ],
+        [
+            335,
+            342,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            378,
+            406,
+            "cardiovascular malformations",
+            "Disease",
+            "D018376"
+        ],
+        [
+            465,
+            472,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            514,
+            524,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            526,
+            535,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            541,
+            550,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            623,
+            630,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            745,
+            773,
+            "cardiovascular malformations",
+            "Disease",
+            "D018376"
+        ],
+        [
+            794,
+            822,
+            "cardiovascular malformations",
+            "Disease",
+            "D018376"
+        ],
+        [
+            871,
+            878,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            955,
+            964,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            969,
+            979,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            1092,
+            1102,
+            "Ro 40-5967",
+            "Chemical",
+            "D020748"
+        ],
+        [
+            1107,
+            1116,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiovascular alterations in rat fetuses exposed to calcium channel blockers.",
+        "Preclinical toxicologic investigation suggested that a new calcium channel blocker, Ro 40-5967, induced cardiovascular alterations in rat fetuses exposed to this agent during organogenesis.",
+        "The present study was designed to investigate the hypothesis that calcium channel blockers in general induce cardiovascular malformations indicating a pharmacologic class effect.",
+        "We studied three calcium channel blockers of different structure, nifedipine, diltiazem, and verapamil, along with the new agent.",
+        "Pregnant rats were administered one of these calcium channel blockers during the period of cardiac morphogenesis and the offspring examined on day 20 of gestation for cardiovascular malformations.",
+        "A low incidence of cardiovascular malformations was observed after exposure to each of the four calcium channel blockers, but this incidence was statistically significant only for verapamil and nifedipine.",
+        "All four agents were associated with aortic arch branching variants, although significantly increased only for Ro 40-5967 and verapamil."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018376\tDisease\tCardiovascular alterations\t<target> Cardiovascular alterations </target> in rat fetuses exposed to calcium channel blockers .",
+        "D002118\tChemical\tcalcium\tCardiovascular alterations in rat fetuses exposed to <target> calcium </target> channel blockers .",
+        "D002118\tChemical\tcalcium\tPreclinical toxicologic investigation suggested that a new <target> calcium </target> channel blocker , Ro 40 - 5967 , induced cardiovascular alterations in rat fetuses exposed to this agent during organogenesis .",
+        "D020748\tChemical\tRo 40-5967\tPreclinical toxicologic investigation suggested that a new calcium channel blocker , <target> Ro 40 - 5967 </target> , induced cardiovascular alterations in rat fetuses exposed to this agent during organogenesis .",
+        "D018376\tDisease\tcardiovascular alterations\tPreclinical toxicologic investigation suggested that a new calcium channel blocker , Ro 40 - 5967 , induced <target> cardiovascular alterations </target> in rat fetuses exposed to this agent during organogenesis .",
+        "D002118\tChemical\tcalcium\tThe present study was designed to investigate the hypothesis that <target> calcium </target> channel blockers in general induce cardiovascular malformations indicating a pharmacologic class effect .",
+        "D018376\tDisease\tcardiovascular malformations\tThe present study was designed to investigate the hypothesis that calcium channel blockers in general induce <target> cardiovascular malformations </target> indicating a pharmacologic class effect .",
+        "D002118\tChemical\tcalcium\tWe studied three <target> calcium </target> channel blockers of different structure , nifedipine , diltiazem , and verapamil , along with the new agent .",
+        "D009543\tChemical\tnifedipine\tWe studied three calcium channel blockers of different structure , <target> nifedipine </target> , diltiazem , and verapamil , along with the new agent .",
+        "D004110\tChemical\tdiltiazem\tWe studied three calcium channel blockers of different structure , nifedipine , <target> diltiazem </target> , and verapamil , along with the new agent .",
+        "D014700\tChemical\tverapamil\tWe studied three calcium channel blockers of different structure , nifedipine , diltiazem , and <target> verapamil </target> , along with the new agent .",
+        "D002118\tChemical\tcalcium\tPregnant rats were administered one of these <target> calcium </target> channel blockers during the period of cardiac morphogenesis and the offspring examined on day 20 of gestation for cardiovascular malformations .",
+        "D018376\tDisease\tcardiovascular malformations\tPregnant rats were administered one of these calcium channel blockers during the period of cardiac morphogenesis and the offspring examined on day 20 of gestation for <target> cardiovascular malformations </target> .",
+        "D018376\tDisease\tcardiovascular malformations\tA low incidence of <target> cardiovascular malformations </target> was observed after exposure to each of the four calcium channel blockers , but this incidence was statistically significant only for verapamil and nifedipine .",
+        "D002118\tChemical\tcalcium\tA low incidence of cardiovascular malformations was observed after exposure to each of the four <target> calcium </target> channel blockers , but this incidence was statistically significant only for verapamil and nifedipine .",
+        "D014700\tChemical\tverapamil\tA low incidence of cardiovascular malformations was observed after exposure to each of the four calcium channel blockers , but this incidence was statistically significant only for <target> verapamil </target> and nifedipine .",
+        "D009543\tChemical\tnifedipine\tA low incidence of cardiovascular malformations was observed after exposure to each of the four calcium channel blockers , but this incidence was statistically significant only for verapamil and <target> nifedipine </target> .",
+        "D020748\tChemical\tRo 40-5967\tAll four agents were associated with aortic arch branching variants , although significantly increased only for <target> Ro 40 - 5967 </target> and verapamil .",
+        "D014700\tChemical\tverapamil\tAll four agents were associated with aortic arch branching variants , although significantly increased only for Ro 40 - 5967 and <target> verapamil </target> ."
+    ],
+    "lines_lemma": [
+        "D018376\tDisease\tCardiovascular alterations\t<target> cardiovascular alteration </target> in rat fetus expose to calcium channel blocker .",
+        "D002118\tChemical\tcalcium\tcardiovascular alteration in rat fetus expose to <target> calcium </target> channel blocker .",
+        "D002118\tChemical\tcalcium\tpreclinical toxicologic investigation suggest that a new <target> calcium </target> channel blocker , ro 40 - 5967 , induce cardiovascular alteration in rat fetus expose to this agent during organogenesis .",
+        "D020748\tChemical\tRo 40-5967\tpreclinical toxicologic investigation suggest that a new calcium channel blocker , <target> ro 40 - 5967 </target> , induce cardiovascular alteration in rat fetus expose to this agent during organogenesis .",
+        "D018376\tDisease\tcardiovascular alterations\tpreclinical toxicologic investigation suggest that a new calcium channel blocker , ro 40 - 5967 , induce <target> cardiovascular alteration </target> in rat fetus expose to this agent during organogenesis .",
+        "D002118\tChemical\tcalcium\tthe present study be design to investigate the hypothesis that <target> calcium </target> channel blocker in general induce cardiovascular malformation indicate a pharmacologic class effect .",
+        "D018376\tDisease\tcardiovascular malformations\tthe present study be design to investigate the hypothesis that calcium channel blocker in general induce <target> cardiovascular malformation </target> indicate a pharmacologic class effect .",
+        "D002118\tChemical\tcalcium\twe study three <target> calcium </target> channel blocker of different structure , nifedipine , diltiazem , and verapamil , along with the new agent .",
+        "D009543\tChemical\tnifedipine\twe study three calcium channel blocker of different structure , <target> nifedipine </target> , diltiazem , and verapamil , along with the new agent .",
+        "D004110\tChemical\tdiltiazem\twe study three calcium channel blocker of different structure , nifedipine , <target> diltiazem </target> , and verapamil , along with the new agent .",
+        "D014700\tChemical\tverapamil\twe study three calcium channel blocker of different structure , nifedipine , diltiazem , and <target> verapamil </target> , along with the new agent .",
+        "D002118\tChemical\tcalcium\tpregnant rat be administer one of these <target> calcium </target> channel blocker during the period of cardiac morphogenesis and the offspring examine on day 20 of gestation for cardiovascular malformation .",
+        "D018376\tDisease\tcardiovascular malformations\tpregnant rat be administer one of these calcium channel blocker during the period of cardiac morphogenesis and the offspring examine on day 20 of gestation for <target> cardiovascular malformation </target> .",
+        "D018376\tDisease\tcardiovascular malformations\ta low incidence of <target> cardiovascular malformation </target> be observe after exposure to each of the four calcium channel blocker , but this incidence be statistically significant only for verapamil and nifedipine .",
+        "D002118\tChemical\tcalcium\ta low incidence of cardiovascular malformation be observe after exposure to each of the four <target> calcium </target> channel blocker , but this incidence be statistically significant only for verapamil and nifedipine .",
+        "D014700\tChemical\tverapamil\ta low incidence of cardiovascular malformation be observe after exposure to each of the four calcium channel blocker , but this incidence be statistically significant only for <target> verapamil </target> and nifedipine .",
+        "D009543\tChemical\tnifedipine\ta low incidence of cardiovascular malformation be observe after exposure to each of the four calcium channel blocker , but this incidence be statistically significant only for verapamil and <target> nifedipine </target> .",
+        "D020748\tChemical\tRo 40-5967\tall four agent be associate with aortic arch branching variant , although significantly increase only for <target> ro 40 - 5967 </target> and verapamil .",
+        "D014700\tChemical\tverapamil\tall four agent be associate with aortic arch branching variant , although significantly increase only for ro 40 - 5967 and <target> verapamil </target> ."
+    ]
+}

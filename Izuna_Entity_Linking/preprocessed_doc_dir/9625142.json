@@ -1,0 +1,110 @@
+{
+    "title": "Acute hepatitis, autoimmune hemolytic anemia, and erythroblastocytopenia induced by ceftriaxone.",
+    "abst": "An 80-yr-old man developed acute hepatitis shortly after ingesting oral ceftriaxone. Although the transaminases gradually returned to baseline after withholding the beta lactam antibiotic, there was a gradual increase in serum bilirubin and a decrease in hemoglobin concentration caused by an autoimmune hemolytic anemia and erythroblastocytopenia. These responded to systemic steroids and immunoglobulins. Despite the widespread use of these agents this triad of side effects has not previously been reported in connection with beta lactam antibiotics.",
+    "title_plus_abst": "Acute hepatitis, autoimmune hemolytic anemia, and erythroblastocytopenia induced by ceftriaxone. An 80-yr-old man developed acute hepatitis shortly after ingesting oral ceftriaxone. Although the transaminases gradually returned to baseline after withholding the beta lactam antibiotic, there was a gradual increase in serum bilirubin and a decrease in hemoglobin concentration caused by an autoimmune hemolytic anemia and erythroblastocytopenia. These responded to systemic steroids and immunoglobulins. Despite the widespread use of these agents this triad of side effects has not previously been reported in connection with beta lactam antibiotics.",
+    "pubmed_id": "9625142",
+    "entities": [
+        [
+            6,
+            15,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            17,
+            44,
+            "autoimmune hemolytic anemia",
+            "Disease",
+            "D000744"
+        ],
+        [
+            84,
+            95,
+            "ceftriaxone",
+            "Chemical",
+            "D002443"
+        ],
+        [
+            130,
+            139,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            169,
+            180,
+            "ceftriaxone",
+            "Chemical",
+            "D002443"
+        ],
+        [
+            262,
+            273,
+            "beta lactam",
+            "Chemical",
+            "D047090"
+        ],
+        [
+            324,
+            333,
+            "bilirubin",
+            "Chemical",
+            "D001663"
+        ],
+        [
+            390,
+            417,
+            "autoimmune hemolytic anemia",
+            "Disease",
+            "D000744"
+        ],
+        [
+            474,
+            482,
+            "steroids",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            626,
+            637,
+            "beta lactam",
+            "Chemical",
+            "D047090"
+        ]
+    ],
+    "split_sentence": [
+        "Acute hepatitis, autoimmune hemolytic anemia, and erythroblastocytopenia induced by ceftriaxone.",
+        "An 80-yr-old man developed acute hepatitis shortly after ingesting oral ceftriaxone.",
+        "Although the transaminases gradually returned to baseline after withholding the beta lactam antibiotic, there was a gradual increase in serum bilirubin and a decrease in hemoglobin concentration caused by an autoimmune hemolytic anemia and erythroblastocytopenia.",
+        "These responded to systemic steroids and immunoglobulins.",
+        "Despite the widespread use of these agents this triad of side effects has not previously been reported in connection with beta lactam antibiotics."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056486\tDisease\thepatitis\tAcute <target> hepatitis </target> , autoimmune hemolytic anemia , and erythroblastocytopenia induced by ceftriaxone .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tAcute hepatitis , <target> autoimmune hemolytic anemia </target> , and erythroblastocytopenia induced by ceftriaxone .",
+        "D002443\tChemical\tceftriaxone\tAcute hepatitis , autoimmune hemolytic anemia , and erythroblastocytopenia induced by <target> ceftriaxone </target> .",
+        "D056486\tDisease\thepatitis\tAn 80-yr-old man developed acute <target> hepatitis </target> shortly after ingesting oral ceftriaxone .",
+        "D002443\tChemical\tceftriaxone\tAn 80-yr-old man developed acute hepatitis shortly after ingesting oral <target> ceftriaxone </target> .",
+        "D047090\tChemical\tbeta lactam\tAlthough the transaminases gradually returned to baseline after withholding the <target> beta lactam </target> antibiotic , there was a gradual increase in serum bilirubin and a decrease in hemoglobin concentration caused by an autoimmune hemolytic anemia and erythroblastocytopenia .",
+        "D001663\tChemical\tbilirubin\tAlthough the transaminases gradually returned to baseline after withholding the beta lactam antibiotic , there was a gradual increase in serum <target> bilirubin </target> and a decrease in hemoglobin concentration caused by an autoimmune hemolytic anemia and erythroblastocytopenia .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tAlthough the transaminases gradually returned to baseline after withholding the beta lactam antibiotic , there was a gradual increase in serum bilirubin and a decrease in hemoglobin concentration caused by an <target> autoimmune hemolytic anemia </target> and erythroblastocytopenia .",
+        "D013256\tChemical\tsteroids\tThese responded to systemic <target> steroids </target> and immunoglobulins .",
+        "D047090\tChemical\tbeta lactam\tDespite the widespread use of these agents this triad of side effects has not previously been reported in connection with <target> beta lactam </target> antibiotics ."
+    ],
+    "lines_lemma": [
+        "D056486\tDisease\thepatitis\tacute <target> hepatitis </target> , autoimmune hemolytic anemia , and erythroblastocytopenia induce by ceftriaxone .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tacute hepatitis , <target> autoimmune hemolytic anemia </target> , and erythroblastocytopenia induce by ceftriaxone .",
+        "D002443\tChemical\tceftriaxone\tacute hepatitis , autoimmune hemolytic anemia , and erythroblastocytopenia induce by <target> ceftriaxone </target> .",
+        "D056486\tDisease\thepatitis\tan 80-yr-old man develop acute <target> hepatitis </target> shortly after ingest oral ceftriaxone .",
+        "D002443\tChemical\tceftriaxone\tan 80-yr-old man develop acute hepatitis shortly after ingest oral <target> ceftriaxone </target> .",
+        "D047090\tChemical\tbeta lactam\talthough the transaminase gradually return to baseline after withhold the <target> beta lactam </target> antibiotic , there be a gradual increase in serum bilirubin and a decrease in hemoglobin concentration cause by an autoimmune hemolytic anemia and erythroblastocytopenia .",
+        "D001663\tChemical\tbilirubin\talthough the transaminase gradually return to baseline after withhold the beta lactam antibiotic , there be a gradual increase in serum <target> bilirubin </target> and a decrease in hemoglobin concentration cause by an autoimmune hemolytic anemia and erythroblastocytopenia .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\talthough the transaminase gradually return to baseline after withhold the beta lactam antibiotic , there be a gradual increase in serum bilirubin and a decrease in hemoglobin concentration cause by an <target> autoimmune hemolytic anemia </target> and erythroblastocytopenia .",
+        "D013256\tChemical\tsteroids\tthese respond to systemic <target> steroid </target> and immunoglobulin .",
+        "D047090\tChemical\tbeta lactam\tdespite the widespread use of these agent this triad of side effect have not previously be report in connection with <target> beta lactam </target> antibiotic ."
+    ]
+}

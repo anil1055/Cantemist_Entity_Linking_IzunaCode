@@ -1,0 +1,140 @@
+{
+    "title": "Adverse effects of the atypical antipsychotics. Collaborative Working Group on Clinical Trial Evaluations.",
+    "abst": "Adverse effects of antipsychotics often lead to noncompliance. Thus, clinicians should address patients' concerns about adverse effects and attempt to choose medications that will improve their patients' quality of life as well as overall health. The side effect profiles of the atypical antipsychotics are more advantageous than those of the conventional neuroleptics. Conventional agents are associated with unwanted central nervous system effects, including extrapyramidal symptoms (EPS), tardive dyskinesia, sedation, and possible impairment of some cognitive measures, as well as cardiac effects, orthostatic hypotension, hepatic changes, anticholinergic side effects, sexual dysfunction, and weight gain. The newer atypical agents have a lower risk of EPS, but are associated in varying degrees with sedation, cardiovascular effects, anticholinergic effects, weight gain, sexual dysfunction, hepatic effects, lowered seizure threshold (primarily clozapine), and agranulocytosis (clozapine only). Since the incidence and severity of specific adverse effects differ among the various atypicals, the clinician should carefully consider which side effects are most likely to lead to the individual's dissatisfaction and noncompliance before choosing an antipsychotic for a particular patient.",
+    "title_plus_abst": "Adverse effects of the atypical antipsychotics. Collaborative Working Group on Clinical Trial Evaluations. Adverse effects of antipsychotics often lead to noncompliance. Thus, clinicians should address patients' concerns about adverse effects and attempt to choose medications that will improve their patients' quality of life as well as overall health. The side effect profiles of the atypical antipsychotics are more advantageous than those of the conventional neuroleptics. Conventional agents are associated with unwanted central nervous system effects, including extrapyramidal symptoms (EPS), tardive dyskinesia, sedation, and possible impairment of some cognitive measures, as well as cardiac effects, orthostatic hypotension, hepatic changes, anticholinergic side effects, sexual dysfunction, and weight gain. The newer atypical agents have a lower risk of EPS, but are associated in varying degrees with sedation, cardiovascular effects, anticholinergic effects, weight gain, sexual dysfunction, hepatic effects, lowered seizure threshold (primarily clozapine), and agranulocytosis (clozapine only). Since the incidence and severity of specific adverse effects differ among the various atypicals, the clinician should carefully consider which side effects are most likely to lead to the individual's dissatisfaction and noncompliance before choosing an antipsychotic for a particular patient.",
+    "pubmed_id": "9766615",
+    "entities": [
+        [
+            568,
+            591,
+            "extrapyramidal symptoms",
+            "Disease",
+            "D001480"
+        ],
+        [
+            593,
+            596,
+            "EPS",
+            "Disease",
+            "D001480"
+        ],
+        [
+            599,
+            617,
+            "tardive dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            709,
+            732,
+            "orthostatic hypotension",
+            "Disease",
+            "D007024"
+        ],
+        [
+            781,
+            799,
+            "sexual dysfunction",
+            "Disease",
+            "D012735"
+        ],
+        [
+            805,
+            816,
+            "weight gain",
+            "Disease",
+            "D015430"
+        ],
+        [
+            865,
+            868,
+            "EPS",
+            "Disease",
+            "D001480"
+        ],
+        [
+            972,
+            983,
+            "weight gain",
+            "Disease",
+            "D015430"
+        ],
+        [
+            985,
+            1003,
+            "sexual dysfunction",
+            "Disease",
+            "D012735"
+        ],
+        [
+            1030,
+            1037,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            1059,
+            1068,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            1075,
+            1090,
+            "agranulocytosis",
+            "Disease",
+            "D000380"
+        ],
+        [
+            1092,
+            1101,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ]
+    ],
+    "split_sentence": [
+        "Adverse effects of the atypical antipsychotics.",
+        "Collaborative Working Group on Clinical Trial Evaluations.",
+        "Adverse effects of antipsychotics often lead to noncompliance.",
+        "Thus, clinicians should address patients' concerns about adverse effects and attempt to choose medications that will improve their patients' quality of life as well as overall health.",
+        "The side effect profiles of the atypical antipsychotics are more advantageous than those of the conventional neuroleptics.",
+        "Conventional agents are associated with unwanted central nervous system effects, including extrapyramidal symptoms (EPS), tardive dyskinesia, sedation, and possible impairment of some cognitive measures, as well as cardiac effects, orthostatic hypotension, hepatic changes, anticholinergic side effects, sexual dysfunction, and weight gain.",
+        "The newer atypical agents have a lower risk of EPS, but are associated in varying degrees with sedation, cardiovascular effects, anticholinergic effects, weight gain, sexual dysfunction, hepatic effects, lowered seizure threshold (primarily clozapine), and agranulocytosis (clozapine only).",
+        "Since the incidence and severity of specific adverse effects differ among the various atypicals, the clinician should carefully consider which side effects are most likely to lead to the individual's dissatisfaction and noncompliance before choosing an antipsychotic for a particular patient."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001480\tDisease\textrapyramidal symptoms\tConventional agents are associated with unwanted central nervous system effects , including <target> extrapyramidal symptoms </target> ( EPS ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measures , as well as cardiac effects , orthostatic hypotension , hepatic changes , anticholinergic side effects , sexual dysfunction , and weight gain .",
+        "D001480\tDisease\tEPS\tConventional agents are associated with unwanted central nervous system effects , including extrapyramidal symptoms ( <target> EPS </target> ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measures , as well as cardiac effects , orthostatic hypotension , hepatic changes , anticholinergic side effects , sexual dysfunction , and weight gain .",
+        "D004409\tDisease\ttardive dyskinesia\tConventional agents are associated with unwanted central nervous system effects , including extrapyramidal symptoms ( EPS ) , <target> tardive dyskinesia </target> , sedation , and possible impairment of some cognitive measures , as well as cardiac effects , orthostatic hypotension , hepatic changes , anticholinergic side effects , sexual dysfunction , and weight gain .",
+        "D007024\tDisease\torthostatic hypotension\tConventional agents are associated with unwanted central nervous system effects , including extrapyramidal symptoms ( EPS ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measures , as well as cardiac effects , <target> orthostatic hypotension </target> , hepatic changes , anticholinergic side effects , sexual dysfunction , and weight gain .",
+        "D012735\tDisease\tsexual dysfunction\tConventional agents are associated with unwanted central nervous system effects , including extrapyramidal symptoms ( EPS ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measures , as well as cardiac effects , orthostatic hypotension , hepatic changes , anticholinergic side effects , <target> sexual dysfunction </target> , and weight gain .",
+        "D015430\tDisease\tweight gain\tConventional agents are associated with unwanted central nervous system effects , including extrapyramidal symptoms ( EPS ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measures , as well as cardiac effects , orthostatic hypotension , hepatic changes , anticholinergic side effects , sexual dysfunction , and <target> weight gain </target> .",
+        "D001480\tDisease\tEPS\tThe newer atypical agents have a lower risk of <target> EPS </target> , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , weight gain , sexual dysfunction , hepatic effects , lowered seizure threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D015430\tDisease\tweight gain\tThe newer atypical agents have a lower risk of EPS , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , <target> weight gain </target> , sexual dysfunction , hepatic effects , lowered seizure threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D012735\tDisease\tsexual dysfunction\tThe newer atypical agents have a lower risk of EPS , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , weight gain , <target> sexual dysfunction </target> , hepatic effects , lowered seizure threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D012640\tDisease\tseizure\tThe newer atypical agents have a lower risk of EPS , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , weight gain , sexual dysfunction , hepatic effects , lowered <target> seizure </target> threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D003024\tChemical\tclozapine\tThe newer atypical agents have a lower risk of EPS , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , weight gain , sexual dysfunction , hepatic effects , lowered seizure threshold ( primarily <target> clozapine </target> ) , and agranulocytosis ( clozapine only ) .",
+        "D000380\tDisease\tagranulocytosis\tThe newer atypical agents have a lower risk of EPS , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , weight gain , sexual dysfunction , hepatic effects , lowered seizure threshold ( primarily clozapine ) , and <target> agranulocytosis </target> ( clozapine only ) .",
+        "D003024\tChemical\tclozapine\tThe newer atypical agents have a lower risk of EPS , but are associated in varying degrees with sedation , cardiovascular effects , anticholinergic effects , weight gain , sexual dysfunction , hepatic effects , lowered seizure threshold ( primarily clozapine ) , and agranulocytosis ( <target> clozapine </target> only ) ."
+    ],
+    "lines_lemma": [
+        "D001480\tDisease\textrapyramidal symptoms\tconventional agent be associate with unwanted central nervous system effect , include <target> extrapyramidal symptom </target> ( eps ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measure , as well as cardiac effect , orthostatic hypotension , hepatic change , anticholinergic side effect , sexual dysfunction , and weight gain .",
+        "D001480\tDisease\tEPS\tconventional agent be associate with unwanted central nervous system effect , include extrapyramidal symptom ( <target> eps </target> ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measure , as well as cardiac effect , orthostatic hypotension , hepatic change , anticholinergic side effect , sexual dysfunction , and weight gain .",
+        "D004409\tDisease\ttardive dyskinesia\tconventional agent be associate with unwanted central nervous system effect , include extrapyramidal symptom ( eps ) , <target> tardive dyskinesia </target> , sedation , and possible impairment of some cognitive measure , as well as cardiac effect , orthostatic hypotension , hepatic change , anticholinergic side effect , sexual dysfunction , and weight gain .",
+        "D007024\tDisease\torthostatic hypotension\tconventional agent be associate with unwanted central nervous system effect , include extrapyramidal symptom ( eps ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measure , as well as cardiac effect , <target> orthostatic hypotension </target> , hepatic change , anticholinergic side effect , sexual dysfunction , and weight gain .",
+        "D012735\tDisease\tsexual dysfunction\tconventional agent be associate with unwanted central nervous system effect , include extrapyramidal symptom ( eps ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measure , as well as cardiac effect , orthostatic hypotension , hepatic change , anticholinergic side effect , <target> sexual dysfunction </target> , and weight gain .",
+        "D015430\tDisease\tweight gain\tconventional agent be associate with unwanted central nervous system effect , include extrapyramidal symptom ( eps ) , tardive dyskinesia , sedation , and possible impairment of some cognitive measure , as well as cardiac effect , orthostatic hypotension , hepatic change , anticholinergic side effect , sexual dysfunction , and <target> weight gain </target> .",
+        "D001480\tDisease\tEPS\tthe newer atypical agent have a low risk of <target> eps </target> , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , weight gain , sexual dysfunction , hepatic effect , lower seizure threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D015430\tDisease\tweight gain\tthe newer atypical agent have a low risk of eps , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , <target> weight gain </target> , sexual dysfunction , hepatic effect , lower seizure threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D012735\tDisease\tsexual dysfunction\tthe newer atypical agent have a low risk of eps , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , weight gain , <target> sexual dysfunction </target> , hepatic effect , lower seizure threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D012640\tDisease\tseizure\tthe newer atypical agent have a low risk of eps , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , weight gain , sexual dysfunction , hepatic effect , lower <target> seizure </target> threshold ( primarily clozapine ) , and agranulocytosis ( clozapine only ) .",
+        "D003024\tChemical\tclozapine\tthe newer atypical agent have a low risk of eps , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , weight gain , sexual dysfunction , hepatic effect , lower seizure threshold ( primarily <target> clozapine </target> ) , and agranulocytosis ( clozapine only ) .",
+        "D000380\tDisease\tagranulocytosis\tthe newer atypical agent have a low risk of eps , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , weight gain , sexual dysfunction , hepatic effect , lower seizure threshold ( primarily clozapine ) , and <target> agranulocytosis </target> ( clozapine only ) .",
+        "D003024\tChemical\tclozapine\tthe newer atypical agent have a low risk of eps , but be associate in vary degree with sedation , cardiovascular effect , anticholinergic effect , weight gain , sexual dysfunction , hepatic effect , lower seizure threshold ( primarily clozapine ) , and agranulocytosis ( <target> clozapine </target> only ) ."
+    ]
+}

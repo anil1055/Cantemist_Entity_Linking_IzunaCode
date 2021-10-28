@@ -1,0 +1,96 @@
+{
+    "title": "Expression of p300 protects cardiac myocytes from apoptosis in vivo.",
+    "abst": "Doxorubicin is an anti-tumor agent that represses cardiac-specific gene expression and induces myocardial cell apoptosis. Doxorubicin depletes cardiac p300, a transcriptional coactivator that is required for the maintenance of the differentiated phenotype of cardiac myocytes. However, the role of p300 in protection against doxorubicin-induced apoptosis is unknown. Transgenic mice overexpressing p300 in the heart and wild-type mice were subjected to doxorubicin treatment. Compared with wild-type mice, transgenic mice exhibited higher survival rate as well as more preserved left ventricular function and cardiac expression of alpha-sarcomeric actin. Doxorubicin induced myocardial cell apoptosis in wild-type mice but not in transgenic mice. Expression of p300 increased the cardiac level of bcl-2 and mdm-2, but not that of p53 or other members of the bcl-2 family. These findings demonstrate that overexpression of p300 protects cardiac myocytes from doxorubicin-induced apoptosis and reduces the extent of acute heart failure in adult mice in vivo.",
+    "title_plus_abst": "Expression of p300 protects cardiac myocytes from apoptosis in vivo. Doxorubicin is an anti-tumor agent that represses cardiac-specific gene expression and induces myocardial cell apoptosis. Doxorubicin depletes cardiac p300, a transcriptional coactivator that is required for the maintenance of the differentiated phenotype of cardiac myocytes. However, the role of p300 in protection against doxorubicin-induced apoptosis is unknown. Transgenic mice overexpressing p300 in the heart and wild-type mice were subjected to doxorubicin treatment. Compared with wild-type mice, transgenic mice exhibited higher survival rate as well as more preserved left ventricular function and cardiac expression of alpha-sarcomeric actin. Doxorubicin induced myocardial cell apoptosis in wild-type mice but not in transgenic mice. Expression of p300 increased the cardiac level of bcl-2 and mdm-2, but not that of p53 or other members of the bcl-2 family. These findings demonstrate that overexpression of p300 protects cardiac myocytes from doxorubicin-induced apoptosis and reduces the extent of acute heart failure in adult mice in vivo.",
+    "pubmed_id": "14975762",
+    "entities": [
+        [
+            69,
+            80,
+            "Doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            92,
+            97,
+            "tumor",
+            "Disease",
+            "D009369"
+        ],
+        [
+            191,
+            202,
+            "Doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            394,
+            405,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            522,
+            533,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            724,
+            735,
+            "Doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            1027,
+            1038,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            1089,
+            1102,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ]
+    ],
+    "split_sentence": [
+        "Expression of p300 protects cardiac myocytes from apoptosis in vivo.",
+        "Doxorubicin is an anti-tumor agent that represses cardiac-specific gene expression and induces myocardial cell apoptosis.",
+        "Doxorubicin depletes cardiac p300, a transcriptional coactivator that is required for the maintenance of the differentiated phenotype of cardiac myocytes.",
+        "However, the role of p300 in protection against doxorubicin-induced apoptosis is unknown.",
+        "Transgenic mice overexpressing p300 in the heart and wild-type mice were subjected to doxorubicin treatment.",
+        "Compared with wild-type mice, transgenic mice exhibited higher survival rate as well as more preserved left ventricular function and cardiac expression of alpha-sarcomeric actin.",
+        "Doxorubicin induced myocardial cell apoptosis in wild-type mice but not in transgenic mice.",
+        "Expression of p300 increased the cardiac level of bcl-2 and mdm-2, but not that of p53 or other members of the bcl-2 family.",
+        "These findings demonstrate that overexpression of p300 protects cardiac myocytes from doxorubicin-induced apoptosis and reduces the extent of acute heart failure in adult mice in vivo."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> is an anti-tumor agent that represses cardiac-specific gene expression and induces myocardial cell apoptosis .",
+        "D009369\tDisease\ttumor\tDoxorubicin is an anti- <target> tumor </target> agent that represses cardiac-specific gene expression and induces myocardial cell apoptosis .",
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> depletes cardiac p300 , a transcriptional coactivator that is required for the maintenance of the differentiated phenotype of cardiac myocytes .",
+        "D004317\tChemical\tdoxorubicin\tHowever , the role of p300 in protection against <target> doxorubicin </target> -induced apoptosis is unknown .",
+        "D004317\tChemical\tdoxorubicin\tTransgenic mice overexpressing p300 in the heart and wild-type mice were subjected to <target> doxorubicin </target> treatment .",
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> induced myocardial cell apoptosis in wild-type mice but not in transgenic mice .",
+        "D004317\tChemical\tdoxorubicin\tThese findings demonstrate that overexpression of p300 protects cardiac myocytes from <target> doxorubicin </target> -induced apoptosis and reduces the extent of acute heart failure in adult mice in vivo .",
+        "D006333\tDisease\theart failure\tThese findings demonstrate that overexpression of p300 protects cardiac myocytes from doxorubicin-induced apoptosis and reduces the extent of acute <target> heart failure </target> in adult mice in vivo ."
+    ],
+    "lines_lemma": [
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> be an anti-tumor agent that repress cardiac-specific gene expression and induce myocardial cell apoptosis .",
+        "D009369\tDisease\ttumor\tDoxorubicin be an anti- <target> tumor </target> agent that repress cardiac-specific gene expression and induce myocardial cell apoptosis .",
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> deplete cardiac p300 , a transcriptional coactivator that be require for the maintenance of the differentiate phenotype of cardiac myocyte .",
+        "D004317\tChemical\tdoxorubicin\thowever , the role of p300 in protection against <target> doxorubicin </target> -induced apoptosis be unknown .",
+        "D004317\tChemical\tdoxorubicin\ttransgenic mouse overexpresse p300 in the heart and wild-type mouse be subject to <target> doxorubicin </target> treatment .",
+        "D004317\tChemical\tDoxorubicin\t<target> Doxorubicin </target> induce myocardial cell apoptosis in wild-type mouse but not in transgenic mouse .",
+        "D004317\tChemical\tdoxorubicin\tthese finding demonstrate that overexpression of p300 protect cardiac myocyte from <target> doxorubicin </target> -induced apoptosis and reduce the extent of acute heart failure in adult mouse in vivo .",
+        "D006333\tDisease\theart failure\tthese finding demonstrate that overexpression of p300 protect cardiac myocyte from doxorubicin-induced apoptosis and reduce the extent of acute <target> heart failure </target> in adult mouse in vivo ."
+    ]
+}

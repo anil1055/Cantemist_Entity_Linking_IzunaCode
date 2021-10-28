@@ -1,0 +1,78 @@
+{
+    "entities": [
+        [
+            1344,
+            1358,
+            "carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            1681,
+            1687,
+            "cáncer",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            1505,
+            1521,
+            "células malignas",
+            "MORFOLOGIA_NEOPLASIA",
+            "8001/3"
+        ],
+        [
+            2342,
+            2351,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Ante la sospecha de  <objetivo> carcinomatosis </objetivo> meníngea vs. síndrome paraneoplásico, se solicita colaboración al Servicio de Neurología que realizó una punción lumbar que resultó negativa para células malignas y positiva para anticuerpos onconeuronales tipo anti-Ri.",
+        "Síndrome paraneoplásico tipo encefalitis límbica por anticuerpos anti-Ri en paciente con  <objetivo> cáncer </objetivo> de mama.",
+        "Ante la sospecha de carcinomatosis meníngea vs. síndrome paraneoplásico, se solicita colaboración al Servicio de Neurología que realizó una punción lumbar que resultó negativa para  <objetivo> células malignas </objetivo> y positiva para anticuerpos onconeuronales tipo anti-Ri.",
+        "Ante la sospecha de encefalitis límbica por anticuerpos anti-Ri como síndrome paraneoplásico de su  <objetivo> neoplasia </objetivo> mamaria, se inicia tratamiento inmunomodulador con inmunoglobulina humana, presentando mejoría inicial de la clínica nocturna con rápida reaparición de episodios predominantemente nocturnos de agitación, inquietud y desorientación, asociado a deterioro rápidamente progresivo del cuadro neurológico."
+    ],
+    "lines_lemma": [
+        "ante el sospecha de   <objetivo> carcinomatosis </objetivo> meníngea vs . síndrome paraneoplásico , él solicitar colaboración al Servicio de Neurología que realizar uno punción lumbar que resultar negativo para célula maligno y positivo para anticuerpo onconeuronal tipo anti-ri .",
+        "Síndrome paraneoplásico tipo encefalitis límbicar por anticuerpo anti-ri en paciente con   <objetivo> cáncer </objetivo> de mama .",
+        "ante el sospecha de carcinomatosis meníngea vs . síndrome paraneoplásico , él solicitar colaboración al Servicio de Neurología que realizar uno punción lumbar que resultar negativo para   <objetivo> célula maligno </objetivo> y positivo para anticuerpo onconeuronal tipo anti-ri .",
+        "ante el sospecha de encefalitis límbico por anticuerpo anti-ri como síndrome paraneoplásico de su   <objetivo> neoplasio </objetivo> mamario , él iniciar tratamiento inmunomodulador con inmunoglobulina humano , presentar mejoría inicial de el clínica nocturno con rápido reaparición de episodio predominantemente nocturno de agitación , inquietud y desorientación , asociado a deterioro rápidamente progresivo del cuadro neurológico ."
+    ],
+    "pubmed_id": "onco795",
+    "split_sentence": [
+        "Anamnesis",
+        "A la espera de fecha para intervención quirúrgica, en octubre de 2017 acude a consulta en nuestro centro por cuadro de varias semanas de evolución de mareos, visión borrosa, desorientación, inestabilidad con marcha atáxica taloneante con aumento de la base de sustentación y deterioro cognitivo incipiente con episodios predominantemente nocturnos de agitación.",
+        "Exploración física",
+        "Paciente estable hemodinámicamente, normohidratada y normocoloreada, afebril y eupneica en reposo.",
+        "ECOG 3.",
+        "Auscultación cardiopulmonar sin alteraciones de interés.",
+        "Abdomen anodino.",
+        "No presenta edemas ni signos de trombosis venosa profunda.",
+        "Consciente y orientada en persona y espacio, parcialmente desorientada en tiempo.",
+        "Bradipsiquia y bradilalia sin clara disartria.",
+        "Pupilas mióticas, pero isocóricas y normorreactivas.",
+        "Destaca divergencia ocular con dificultad para la supraversión e infraversión.",
+        "Fuerza y sensibilidad en EESS conservada.",
+        "En EEII, fuerza disminuida 3+/5.",
+        "Marcha atáxica con ampliación de la base de sustentación y bipedestación inestable.",
+        "Pruebas complementarias",
+        "La tomografía computarizada (TC) de cráneo no mostró alteraciones relevantes, realizándose RM cerebral que presenta aisladas lagunas inespecíficas de hiperseñal a nivel de sustancia blanca bilateral de posible origen vascular sin otros hallazgos.",
+        "Ante la sospecha de carcinomatosis meníngea vs. síndrome paraneoplásico, se solicita colaboración al Servicio de Neurología que realizó una punción lumbar que resultó negativa para células malignas y positiva para anticuerpos onconeuronales tipo anti-Ri.",
+        "Diagnóstico",
+        "Síndrome paraneoplásico tipo encefalitis límbica por anticuerpos anti-Ri en paciente con cáncer de mama.",
+        "Tratamiento",
+        "Dada la positividad de receptores hormonales, se inicia letrozol durante el ingreso.",
+        "En un principio se inicia tratamiento con corticoides sin mejoría de la clínica.",
+        "Tras la obtención de resultados de las pruebas complementarias y ante la positividad de anticuerpos onconeuronales anti-Ri y clínica neurológica, cuadro compatible con síndrome paraneoplásico tipo encefalitis límbica paraneoplásica con afectación de fosa posterior y troncoencéfalo, por lo que se inicia tratamiento con inmunoglobulina humana intravenosa.",
+        "Evolución",
+        "Ante la sospecha de encefalitis límbica por anticuerpos anti-Ri como síndrome paraneoplásico de su neoplasia mamaria, se inicia tratamiento inmunomodulador con inmunoglobulina humana, presentando mejoría inicial de la clínica nocturna con rápida reaparición de episodios predominantemente nocturnos de agitación, inquietud y desorientación, asociado a deterioro rápidamente progresivo del cuadro neurológico.",
+        "Se valoró tratamiento quirúrgico como tratamiento específico del cuadro intercurrente actual; sin embargo, en contexto de episodios de desorientación y agitación y ajuste de medicación, la paciente presenta una insuficiencia respiratoria aguda, sin poder descartar broncoaspiración.",
+        "Se inició tratamiento con antibioterapia de amplio espectro y oxigenoterapia a altos flujos, objetivando en radiografía de tórax discreto aumento de densidad paracardiaca basal derecha, sin poder descartar afectación parenquimatosa subyacente.",
+        "A pesar de ajuste de tratamiento, aparece empeoramiento neurológico rápidamente progresivo y clínica respiratoria de tórpida evolución, con exacerbaciones de la misma con la movilización e ingesta, con fallecimiento final de la paciente."
+    ],
+    "text": "Anamnesis\nA la espera de fecha para intervención quirúrgica, en octubre de 2017 acude a consulta en nuestro centro por cuadro de varias semanas de evolución de mareos, visión borrosa, desorientación, inestabilidad con marcha atáxica taloneante con aumento de la base de sustentación y deterioro cognitivo incipiente con episodios predominantemente nocturnos de agitación.\n\nExploración física\nPaciente estable hemodinámicamente, normohidratada y normocoloreada, afebril y eupneica en reposo. ECOG 3. Auscultación cardiopulmonar sin alteraciones de interés. Abdomen anodino. No presenta edemas ni signos de trombosis venosa profunda. Consciente y orientada en persona y espacio, parcialmente desorientada en tiempo. Bradipsiquia y bradilalia sin clara disartria. Pupilas mióticas, pero isocóricas y normorreactivas. Destaca divergencia ocular con dificultad para la supraversión e infraversión. Fuerza y sensibilidad en EESS conservada. En EEII, fuerza disminuida 3+/5. Marcha atáxica con ampliación de la base de sustentación y bipedestación inestable.\n\nPruebas complementarias\nLa tomografía computarizada (TC) de cráneo no mostró alteraciones relevantes, realizándose RM cerebral que presenta aisladas lagunas inespecíficas de hiperseñal a nivel de sustancia blanca bilateral de posible origen vascular sin otros hallazgos. Ante la sospecha de carcinomatosis meníngea vs. síndrome paraneoplásico, se solicita colaboración al Servicio de Neurología que realizó una punción lumbar que resultó negativa para células malignas y positiva para anticuerpos onconeuronales tipo anti-Ri.\n\nDiagnóstico\nSíndrome paraneoplásico tipo encefalitis límbica por anticuerpos anti-Ri en paciente con cáncer de mama.\n\nTratamiento\nDada la positividad de receptores hormonales, se inicia letrozol durante el ingreso. En un principio se inicia tratamiento con corticoides sin mejoría de la clínica. Tras la obtención de resultados de las pruebas complementarias y ante la positividad de anticuerpos onconeuronales anti-Ri y clínica neurológica, cuadro compatible con síndrome paraneoplásico tipo encefalitis límbica paraneoplásica con afectación de fosa posterior y troncoencéfalo, por lo que se inicia tratamiento con inmunoglobulina humana intravenosa.\n\nEvolución\nAnte la sospecha de encefalitis límbica por anticuerpos anti-Ri como síndrome paraneoplásico de su neoplasia mamaria, se inicia tratamiento inmunomodulador con inmunoglobulina humana, presentando mejoría inicial de la clínica nocturna con rápida reaparición de episodios predominantemente nocturnos de agitación, inquietud y desorientación, asociado a deterioro rápidamente progresivo del cuadro neurológico.\nSe valoró tratamiento quirúrgico como tratamiento específico del cuadro intercurrente actual; sin embargo, en contexto de episodios de desorientación y agitación y ajuste de medicación, la paciente presenta una insuficiencia respiratoria aguda, sin poder descartar broncoaspiración. Se inició tratamiento con antibioterapia de amplio espectro y oxigenoterapia a altos flujos, objetivando en radiografía de tórax discreto aumento de densidad paracardiaca basal derecha, sin poder descartar afectación parenquimatosa subyacente.\nA pesar de ajuste de tratamiento, aparece empeoramiento neurológico rápidamente progresivo y clínica respiratoria de tórpida evolución, con exacerbaciones de la misma con la movilización e ingesta, con fallecimiento final de la paciente."
+}

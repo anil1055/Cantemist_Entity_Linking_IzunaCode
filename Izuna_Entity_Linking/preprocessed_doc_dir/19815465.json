@@ -1,0 +1,186 @@
+{
+    "title": "Binasal visual field defects are not specific to vigabatrin.",
+    "abst": "This study investigated the visual defects associated with the antiepileptic drug vigabatrin (VGB). Two hundred four people with epilepsy were grouped on the basis of antiepileptic drug therapy (current, previous, or no exposure to VGB). Groups were matched with respect to age, gender, and seizure frequency. All patients underwent objective assessment of electrophysiological function (wide-field multifocal electroretinography) and conventional visual field testing (static perimetry). Bilateral visual field constriction was observed in 59% of patients currently taking VGB, 43% of patients who previously took VGB, and 24% of patients with no exposure to VGB. Assessment of retinal function revealed abnormal responses in 48% of current VGB users and 22% of prior VGB users, but in none of the patients without previous exposure to VGB. Bilateral visual field abnormalities are common in the treated epilepsy population, irrespective of drug history. Assessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify retinal toxicity associated with VGB.",
+    "title_plus_abst": "Binasal visual field defects are not specific to vigabatrin. This study investigated the visual defects associated with the antiepileptic drug vigabatrin (VGB). Two hundred four people with epilepsy were grouped on the basis of antiepileptic drug therapy (current, previous, or no exposure to VGB). Groups were matched with respect to age, gender, and seizure frequency. All patients underwent objective assessment of electrophysiological function (wide-field multifocal electroretinography) and conventional visual field testing (static perimetry). Bilateral visual field constriction was observed in 59% of patients currently taking VGB, 43% of patients who previously took VGB, and 24% of patients with no exposure to VGB. Assessment of retinal function revealed abnormal responses in 48% of current VGB users and 22% of prior VGB users, but in none of the patients without previous exposure to VGB. Bilateral visual field abnormalities are common in the treated epilepsy population, irrespective of drug history. Assessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify retinal toxicity associated with VGB.",
+    "pubmed_id": "19815465",
+    "entities": [
+        [
+            0,
+            28,
+            "Binasal visual field defects",
+            "Disease",
+            "D014786"
+        ],
+        [
+            49,
+            59,
+            "vigabatrin",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            89,
+            103,
+            "visual defects",
+            "Disease",
+            "D014786"
+        ],
+        [
+            143,
+            153,
+            "vigabatrin",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            155,
+            158,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            190,
+            198,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            293,
+            296,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            352,
+            359,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            635,
+            638,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            676,
+            679,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            721,
+            724,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            803,
+            806,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            830,
+            833,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            898,
+            901,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            903,
+            939,
+            "Bilateral visual field abnormalities",
+            "Disease",
+            "D014786"
+        ],
+        [
+            966,
+            974,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            1133,
+            1149,
+            "retinal toxicity",
+            "Disease",
+            "D012164"
+        ],
+        [
+            1166,
+            1169,
+            "VGB",
+            "Chemical",
+            "D020888"
+        ]
+    ],
+    "split_sentence": [
+        "Binasal visual field defects are not specific to vigabatrin.",
+        "This study investigated the visual defects associated with the antiepileptic drug vigabatrin (VGB).",
+        "Two hundred four people with epilepsy were grouped on the basis of antiepileptic drug therapy (current, previous, or no exposure to VGB).",
+        "Groups were matched with respect to age, gender, and seizure frequency.",
+        "All patients underwent objective assessment of electrophysiological function (wide-field multifocal electroretinography) and conventional visual field testing (static perimetry).",
+        "Bilateral visual field constriction was observed in 59% of patients currently taking VGB, 43% of patients who previously took VGB, and 24% of patients with no exposure to VGB.",
+        "Assessment of retinal function revealed abnormal responses in 48% of current VGB users and 22% of prior VGB users, but in none of the patients without previous exposure to VGB.",
+        "Bilateral visual field abnormalities are common in the treated epilepsy population, irrespective of drug history.",
+        "Assessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify retinal toxicity associated with VGB."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014786\tDisease\tBinasal visual field defects\t<target> Binasal visual field defects </target> are not specific to vigabatrin .",
+        "D020888\tChemical\tvigabatrin\tBinasal visual field defects are not specific to <target> vigabatrin </target> .",
+        "D014786\tDisease\tvisual defects\tThis study investigated the <target> visual defects </target> associated with the antiepileptic drug vigabatrin ( VGB ) .",
+        "D020888\tChemical\tvigabatrin\tThis study investigated the visual defects associated with the antiepileptic drug <target> vigabatrin </target> ( VGB ) .",
+        "D020888\tChemical\tVGB\tThis study investigated the visual defects associated with the antiepileptic drug vigabatrin ( <target> VGB </target> ) .",
+        "D004827\tDisease\tepilepsy\tTwo hundred four people with <target> epilepsy </target> were grouped on the basis of antiepileptic drug therapy ( current , previous , or no exposure to VGB ) .",
+        "D020888\tChemical\tVGB\tTwo hundred four people with epilepsy were grouped on the basis of antiepileptic drug therapy ( current , previous , or no exposure to <target> VGB </target> ) .",
+        "D012640\tDisease\tseizure\tGroups were matched with respect to age , gender , and <target> seizure </target> frequency .",
+        "D020888\tChemical\tVGB\tBilateral visual field constriction was observed in 59 % of patients currently taking <target> VGB </target> , 43 % of patients who previously took VGB , and 24 % of patients with no exposure to VGB .",
+        "D020888\tChemical\tVGB\tBilateral visual field constriction was observed in 59 % of patients currently taking VGB , 43 % of patients who previously took <target> VGB </target> , and 24 % of patients with no exposure to VGB .",
+        "D020888\tChemical\tVGB\tBilateral visual field constriction was observed in 59 % of patients currently taking VGB , 43 % of patients who previously took VGB , and 24 % of patients with no exposure to <target> VGB </target> .",
+        "D020888\tChemical\tVGB\tAssessment of retinal function revealed abnormal responses in 48 % of current <target> VGB </target> users and 22 % of prior VGB users , but in none of the patients without previous exposure to VGB .",
+        "D020888\tChemical\tVGB\tAssessment of retinal function revealed abnormal responses in 48 % of current VGB users and 22 % of prior <target> VGB </target> users , but in none of the patients without previous exposure to VGB .",
+        "D020888\tChemical\tVGB\tAssessment of retinal function revealed abnormal responses in 48 % of current VGB users and 22 % of prior VGB users , but in none of the patients without previous exposure to <target> VGB </target> .",
+        "D014786\tDisease\tBilateral visual field abnormalities\t<target> Bilateral visual field abnormalities </target> are common in the treated epilepsy population , irrespective of drug history .",
+        "D004827\tDisease\tepilepsy\tBilateral visual field abnormalities are common in the treated <target> epilepsy </target> population , irrespective of drug history .",
+        "D012164\tDisease\tretinal toxicity\tAssessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify <target> retinal toxicity </target> associated with VGB .",
+        "D020888\tChemical\tVGB\tAssessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify retinal toxicity associated with <target> VGB </target> ."
+    ],
+    "lines_lemma": [
+        "D014786\tDisease\tBinasal visual field defects\t<target> Binasal visual field defect </target> be not specific to vigabatrin .",
+        "D020888\tChemical\tvigabatrin\tbinasal visual field defect be not specific to <target> vigabatrin </target> .",
+        "D014786\tDisease\tvisual defects\tthis study investigate the <target> visual defect </target> associate with the antiepileptic drug vigabatrin ( vgb ) .",
+        "D020888\tChemical\tvigabatrin\tthis study investigate the visual defect associate with the antiepileptic drug <target> vigabatrin </target> ( vgb ) .",
+        "D020888\tChemical\tVGB\tthis study investigate the visual defect associate with the antiepileptic drug vigabatrin ( <target> vgb </target> ) .",
+        "D004827\tDisease\tepilepsy\ttwo hundred four people with <target> epilepsy </target> be group on the basis of antiepileptic drug therapy ( current , previous , or no exposure to vgb ) .",
+        "D020888\tChemical\tVGB\ttwo hundred four people with epilepsy be group on the basis of antiepileptic drug therapy ( current , previous , or no exposure to <target> vgb </target> ) .",
+        "D012640\tDisease\tseizure\tgroup be match with respect to age , gender , and <target> seizure </target> frequency .",
+        "D020888\tChemical\tVGB\tbilateral visual field constriction be observe in 59 % of patient currently take <target> vgb </target> , 43 % of patient who previously take vgb , and 24 % of patient with no exposure to vgb .",
+        "D020888\tChemical\tVGB\tbilateral visual field constriction be observe in 59 % of patient currently take vgb , 43 % of patient who previously take <target> vgb </target> , and 24 % of patient with no exposure to vgb .",
+        "D020888\tChemical\tVGB\tbilateral visual field constriction be observe in 59 % of patient currently take vgb , 43 % of patient who previously take vgb , and 24 % of patient with no exposure to <target> vgb </target> .",
+        "D020888\tChemical\tVGB\tassessment of retinal function reveal abnormal response in 48 % of current <target> vgb </target> user and 22 % of prior vgb user , but in none of the patient without previous exposure to vgb .",
+        "D020888\tChemical\tVGB\tassessment of retinal function reveal abnormal response in 48 % of current vgb user and 22 % of prior <target> vgb </target> user , but in none of the patient without previous exposure to vgb .",
+        "D020888\tChemical\tVGB\tassessment of retinal function reveal abnormal response in 48 % of current vgb user and 22 % of prior vgb user , but in none of the patient without previous exposure to <target> vgb </target> .",
+        "D014786\tDisease\tBilateral visual field abnormalities\t<target> bilateral visual field abnormality </target> be common in the treat epilepsy population , irrespective of drug history .",
+        "D004827\tDisease\tepilepsy\tbilateral visual field abnormality be common in the treat <target> epilepsy </target> population , irrespective of drug history .",
+        "D012164\tDisease\tretinal toxicity\tassessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify <target> retinal toxicity </target> associate with vgb .",
+        "D020888\tChemical\tVGB\tassessment by conventional static perimetry may neither be sufficiently sensitive nor specific to reliably identify retinal toxicity associate with <target> vgb </target> ."
+    ]
+}

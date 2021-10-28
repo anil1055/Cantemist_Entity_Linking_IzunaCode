@@ -1,0 +1,100 @@
+{
+    "title": "Neuromuscular blockade with magnesium sulfate and nifedipine.",
+    "abst": "A patient who received tocolysis with nifedipine developed neuromuscular blockade after 500 mg of magnesium sulfate was administered. This reaction demonstrates that nifedipine can seriously potentiate the toxicity of magnesium. Caution should be exercised when these two tocolytics are combined.",
+    "title_plus_abst": "Neuromuscular blockade with magnesium sulfate and nifedipine. A patient who received tocolysis with nifedipine developed neuromuscular blockade after 500 mg of magnesium sulfate was administered. This reaction demonstrates that nifedipine can seriously potentiate the toxicity of magnesium. Caution should be exercised when these two tocolytics are combined.",
+    "pubmed_id": "2750819",
+    "entities": [
+        [
+            0,
+            22,
+            "Neuromuscular blockade",
+            "Disease",
+            "D020879"
+        ],
+        [
+            28,
+            45,
+            "magnesium sulfate",
+            "Chemical",
+            "D008278"
+        ],
+        [
+            50,
+            60,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            100,
+            110,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            121,
+            143,
+            "neuromuscular blockade",
+            "Disease",
+            "D020879"
+        ],
+        [
+            160,
+            177,
+            "magnesium sulfate",
+            "Chemical",
+            "D008278"
+        ],
+        [
+            228,
+            238,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            268,
+            276,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            280,
+            289,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ]
+    ],
+    "split_sentence": [
+        "Neuromuscular blockade with magnesium sulfate and nifedipine.",
+        "A patient who received tocolysis with nifedipine developed neuromuscular blockade after 500 mg of magnesium sulfate was administered.",
+        "This reaction demonstrates that nifedipine can seriously potentiate the toxicity of magnesium.",
+        "Caution should be exercised when these two tocolytics are combined."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020879\tDisease\tNeuromuscular blockade\t<target> Neuromuscular blockade </target> with magnesium sulfate and nifedipine .",
+        "D008278\tChemical\tmagnesium sulfate\tNeuromuscular blockade with <target> magnesium sulfate </target> and nifedipine .",
+        "D009543\tChemical\tnifedipine\tNeuromuscular blockade with magnesium sulfate and <target> nifedipine </target> .",
+        "D009543\tChemical\tnifedipine\tA patient who received tocolysis with <target> nifedipine </target> developed neuromuscular blockade after 500 mg of magnesium sulfate was administered .",
+        "D020879\tDisease\tneuromuscular blockade\tA patient who received tocolysis with nifedipine developed <target> neuromuscular blockade </target> after 500 mg of magnesium sulfate was administered .",
+        "D008278\tChemical\tmagnesium sulfate\tA patient who received tocolysis with nifedipine developed neuromuscular blockade after 500 mg of <target> magnesium sulfate </target> was administered .",
+        "D009543\tChemical\tnifedipine\tThis reaction demonstrates that <target> nifedipine </target> can seriously potentiate the toxicity of magnesium .",
+        "D064420\tDisease\ttoxicity\tThis reaction demonstrates that nifedipine can seriously potentiate the <target> toxicity </target> of magnesium .",
+        "D008274\tChemical\tmagnesium\tThis reaction demonstrates that nifedipine can seriously potentiate the toxicity of <target> magnesium </target> ."
+    ],
+    "lines_lemma": [
+        "D020879\tDisease\tNeuromuscular blockade\t<target> neuromuscular blockade </target> with magnesium sulfate and nifedipine .",
+        "D008278\tChemical\tmagnesium sulfate\tneuromuscular blockade with <target> magnesium sulfate </target> and nifedipine .",
+        "D009543\tChemical\tnifedipine\tneuromuscular blockade with magnesium sulfate and <target> nifedipine </target> .",
+        "D009543\tChemical\tnifedipine\ta patient who receive tocolysis with <target> nifedipine </target> develop neuromuscular blockade after 500 mg of magnesium sulfate be administer .",
+        "D020879\tDisease\tneuromuscular blockade\ta patient who receive tocolysis with nifedipine develop <target> neuromuscular blockade </target> after 500 mg of magnesium sulfate be administer .",
+        "D008278\tChemical\tmagnesium sulfate\ta patient who receive tocolysis with nifedipine develop neuromuscular blockade after 500 mg of <target> magnesium sulfate </target> be administer .",
+        "D009543\tChemical\tnifedipine\tthis reaction demonstrate that <target> nifedipine </target> can seriously potentiate the toxicity of magnesium .",
+        "D064420\tDisease\ttoxicity\tthis reaction demonstrate that nifedipine can seriously potentiate the <target> toxicity </target> of magnesium .",
+        "D008274\tChemical\tmagnesium\tthis reaction demonstrate that nifedipine can seriously potentiate the toxicity of <target> magnesium </target> ."
+    ]
+}

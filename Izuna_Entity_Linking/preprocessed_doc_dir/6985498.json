@@ -1,0 +1,92 @@
+{
+    "title": "Hepatitis and renal tubular acidosis after anesthesia with methoxyflurane.",
+    "abst": "A 69-year-old man operated for acute cholecystitis under methoxyflurane anesthesia developed postoperatively a hepatic insufficiency syndrome and renal tubular acidosis. Massive bleeding appeared during surgery which lasted for six hours. Postoperative evolution under supportive therapy was favourable. Complete recovery was confirmed by repeated controls performed over a period of one year after surgery.",
+    "title_plus_abst": "Hepatitis and renal tubular acidosis after anesthesia with methoxyflurane. A 69-year-old man operated for acute cholecystitis under methoxyflurane anesthesia developed postoperatively a hepatic insufficiency syndrome and renal tubular acidosis. Massive bleeding appeared during surgery which lasted for six hours. Postoperative evolution under supportive therapy was favourable. Complete recovery was confirmed by repeated controls performed over a period of one year after surgery.",
+    "pubmed_id": "6985498",
+    "entities": [
+        [
+            0,
+            9,
+            "Hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            14,
+            36,
+            "renal tubular acidosis",
+            "Disease",
+            "D000141"
+        ],
+        [
+            59,
+            73,
+            "methoxyflurane",
+            "Chemical",
+            "D008733"
+        ],
+        [
+            106,
+            125,
+            "acute cholecystitis",
+            "Disease",
+            "D041881"
+        ],
+        [
+            132,
+            146,
+            "methoxyflurane",
+            "Chemical",
+            "D008733"
+        ],
+        [
+            186,
+            216,
+            "hepatic insufficiency syndrome",
+            "Disease",
+            "D048550"
+        ],
+        [
+            221,
+            243,
+            "renal tubular acidosis",
+            "Disease",
+            "D000141"
+        ],
+        [
+            253,
+            261,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ]
+    ],
+    "split_sentence": [
+        "Hepatitis and renal tubular acidosis after anesthesia with methoxyflurane.",
+        "A 69-year-old man operated for acute cholecystitis under methoxyflurane anesthesia developed postoperatively a hepatic insufficiency syndrome and renal tubular acidosis.",
+        "Massive bleeding appeared during surgery which lasted for six hours.",
+        "Postoperative evolution under supportive therapy was favourable.",
+        "Complete recovery was confirmed by repeated controls performed over a period of one year after surgery."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056486\tDisease\tHepatitis\t<target> Hepatitis </target> and renal tubular acidosis after anesthesia with methoxyflurane .",
+        "D000141\tDisease\trenal tubular acidosis\tHepatitis and <target> renal tubular acidosis </target> after anesthesia with methoxyflurane .",
+        "D008733\tChemical\tmethoxyflurane\tHepatitis and renal tubular acidosis after anesthesia with <target> methoxyflurane </target> .",
+        "D041881\tDisease\tacute cholecystitis\tA 69-year-old man operated for <target> acute cholecystitis </target> under methoxyflurane anesthesia developed postoperatively a hepatic insufficiency syndrome and renal tubular acidosis .",
+        "D008733\tChemical\tmethoxyflurane\tA 69-year-old man operated for acute cholecystitis under <target> methoxyflurane </target> anesthesia developed postoperatively a hepatic insufficiency syndrome and renal tubular acidosis .",
+        "D048550\tDisease\thepatic insufficiency syndrome\tA 69-year-old man operated for acute cholecystitis under methoxyflurane anesthesia developed postoperatively a <target> hepatic insufficiency syndrome </target> and renal tubular acidosis .",
+        "D000141\tDisease\trenal tubular acidosis\tA 69-year-old man operated for acute cholecystitis under methoxyflurane anesthesia developed postoperatively a hepatic insufficiency syndrome and <target> renal tubular acidosis </target> .",
+        "D006470\tDisease\tbleeding\tMassive <target> bleeding </target> appeared during surgery which lasted for six hours ."
+    ],
+    "lines_lemma": [
+        "D056486\tDisease\tHepatitis\t<target> hepatitis </target> and renal tubular acidosis after anesthesia with methoxyflurane .",
+        "D000141\tDisease\trenal tubular acidosis\thepatitis and <target> renal tubular acidosis </target> after anesthesia with methoxyflurane .",
+        "D008733\tChemical\tmethoxyflurane\thepatitis and renal tubular acidosis after anesthesia with <target> methoxyflurane </target> .",
+        "D041881\tDisease\tacute cholecystitis\ta 69-year-old man operate for <target> acute cholecystitis </target> under methoxyflurane anesthesia develop postoperatively a hepatic insufficiency syndrome and renal tubular acidosis .",
+        "D008733\tChemical\tmethoxyflurane\ta 69-year-old man operate for acute cholecystitis under <target> methoxyflurane </target> anesthesia develop postoperatively a hepatic insufficiency syndrome and renal tubular acidosis .",
+        "D048550\tDisease\thepatic insufficiency syndrome\ta 69-year-old man operate for acute cholecystitis under methoxyflurane anesthesia develop postoperatively a <target> hepatic insufficiency syndrome </target> and renal tubular acidosis .",
+        "D000141\tDisease\trenal tubular acidosis\ta 69-year-old man operate for acute cholecystitis under methoxyflurane anesthesia develop postoperatively a hepatic insufficiency syndrome and <target> renal tubular acidosis </target> .",
+        "D006470\tDisease\tbleeding\tmassive <target> bleeding </target> appear during surgery which last for six hour ."
+    ]
+}

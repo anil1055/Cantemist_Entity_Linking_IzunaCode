@@ -1,0 +1,176 @@
+{
+    "title": "Peripheral neuropathy caused by high-dose cytosine arabinoside treatment in a patient with acute myeloid leukemia.",
+    "abst": "The central nervous system toxicity of high-dose cytosine arabinoside is well recognized, but the toxicity of cytosine arabinoside in the peripheral nervous system has been infrequently reported. A 49-year-old Japanese man was diagnosed with acute myeloid leukemia. After he achieved complete remission, he received high-dose cytosine arabinoside treatment (2 g/m2 twice a day for 5 days; total, 20 g/m2) as consolidation therapy. The first course of high-dose cytosine arabinoside resulted in no unusual symptoms, but on day 21 of the second course of treatment, the patient complained of numbness in his right foot. Electromyogram and nerve-conduction studies showed peripheral neuropathy in both peroneal nerves. This neuropathy was gradually resolving; however, after the patient received allogeneic bone marrow transplantation, the symptoms worsened, with the development of graft-versus-host disease, and the symptoms subsequently responded to methylprednisolone. Although the mechanisms of peripheral neuropathy are still unclear, high-dose cytosine arabinoside is a therapy that is potentially toxic to the peripheral nervous system, and auto/alloimmunity may play an important role in these mechanisms.",
+    "title_plus_abst": "Peripheral neuropathy caused by high-dose cytosine arabinoside treatment in a patient with acute myeloid leukemia. The central nervous system toxicity of high-dose cytosine arabinoside is well recognized, but the toxicity of cytosine arabinoside in the peripheral nervous system has been infrequently reported. A 49-year-old Japanese man was diagnosed with acute myeloid leukemia. After he achieved complete remission, he received high-dose cytosine arabinoside treatment (2 g/m2 twice a day for 5 days; total, 20 g/m2) as consolidation therapy. The first course of high-dose cytosine arabinoside resulted in no unusual symptoms, but on day 21 of the second course of treatment, the patient complained of numbness in his right foot. Electromyogram and nerve-conduction studies showed peripheral neuropathy in both peroneal nerves. This neuropathy was gradually resolving; however, after the patient received allogeneic bone marrow transplantation, the symptoms worsened, with the development of graft-versus-host disease, and the symptoms subsequently responded to methylprednisolone. Although the mechanisms of peripheral neuropathy are still unclear, high-dose cytosine arabinoside is a therapy that is potentially toxic to the peripheral nervous system, and auto/alloimmunity may play an important role in these mechanisms.",
+    "pubmed_id": "16826348",
+    "entities": [
+        [
+            0,
+            21,
+            "Peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            42,
+            62,
+            "cytosine arabinoside",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            91,
+            113,
+            "acute myeloid leukemia",
+            "Disease",
+            "D015470"
+        ],
+        [
+            142,
+            150,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            164,
+            184,
+            "cytosine arabinoside",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            213,
+            221,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            225,
+            245,
+            "cytosine arabinoside",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            357,
+            379,
+            "acute myeloid leukemia",
+            "Disease",
+            "D015470"
+        ],
+        [
+            441,
+            461,
+            "cytosine arabinoside",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            576,
+            596,
+            "cytosine arabinoside",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            705,
+            713,
+            "numbness",
+            "Disease",
+            "D006987"
+        ],
+        [
+            784,
+            805,
+            "peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            836,
+            846,
+            "neuropathy",
+            "Disease",
+            "D009422"
+        ],
+        [
+            995,
+            1020,
+            "graft-versus-host disease",
+            "Disease",
+            "D006086"
+        ],
+        [
+            1065,
+            1083,
+            "methylprednisolone",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            1112,
+            1133,
+            "peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            1163,
+            1183,
+            "cytosine arabinoside",
+            "Chemical",
+            "D003561"
+        ]
+    ],
+    "split_sentence": [
+        "Peripheral neuropathy caused by high-dose cytosine arabinoside treatment in a patient with acute myeloid leukemia.",
+        "The central nervous system toxicity of high-dose cytosine arabinoside is well recognized, but the toxicity of cytosine arabinoside in the peripheral nervous system has been infrequently reported.",
+        "A 49-year-old Japanese man was diagnosed with acute myeloid leukemia.",
+        "After he achieved complete remission, he received high-dose cytosine arabinoside treatment (2 g/m2 twice a day for 5 days; total, 20 g/m2) as consolidation therapy.",
+        "The first course of high-dose cytosine arabinoside resulted in no unusual symptoms, but on day 21 of the second course of treatment, the patient complained of numbness in his right foot.",
+        "Electromyogram and nerve-conduction studies showed peripheral neuropathy in both peroneal nerves.",
+        "This neuropathy was gradually resolving; however, after the patient received allogeneic bone marrow transplantation, the symptoms worsened, with the development of graft-versus-host disease, and the symptoms subsequently responded to methylprednisolone.",
+        "Although the mechanisms of peripheral neuropathy are still unclear, high-dose cytosine arabinoside is a therapy that is potentially toxic to the peripheral nervous system, and auto/alloimmunity may play an important role in these mechanisms."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010523\tDisease\tPeripheral neuropathy\t<target> Peripheral neuropathy </target> caused by high-dose cytosine arabinoside treatment in a patient with acute myeloid leukemia .",
+        "D003561\tChemical\tcytosine arabinoside\tPeripheral neuropathy caused by high-dose <target> cytosine arabinoside </target> treatment in a patient with acute myeloid leukemia .",
+        "D015470\tDisease\tacute myeloid leukemia\tPeripheral neuropathy caused by high-dose cytosine arabinoside treatment in a patient with <target> acute myeloid leukemia </target> .",
+        "D064420\tDisease\ttoxicity\tThe central nervous system <target> toxicity </target> of high-dose cytosine arabinoside is well recognized , but the toxicity of cytosine arabinoside in the peripheral nervous system has been infrequently reported .",
+        "D003561\tChemical\tcytosine arabinoside\tThe central nervous system toxicity of high-dose <target> cytosine arabinoside </target> is well recognized , but the toxicity of cytosine arabinoside in the peripheral nervous system has been infrequently reported .",
+        "D064420\tDisease\ttoxicity\tThe central nervous system toxicity of high-dose cytosine arabinoside is well recognized , but the <target> toxicity </target> of cytosine arabinoside in the peripheral nervous system has been infrequently reported .",
+        "D003561\tChemical\tcytosine arabinoside\tThe central nervous system toxicity of high-dose cytosine arabinoside is well recognized , but the toxicity of <target> cytosine arabinoside </target> in the peripheral nervous system has been infrequently reported .",
+        "D015470\tDisease\tacute myeloid leukemia\tA 49-year-old Japanese man was diagnosed with <target> acute myeloid leukemia </target> .",
+        "D003561\tChemical\tcytosine arabinoside\tAfter he achieved complete remission , he received high-dose <target> cytosine arabinoside </target> treatment ( 2 g/m2 twice a day for 5 days ; total , 20 g/m2 ) as consolidation therapy .",
+        "D003561\tChemical\tcytosine arabinoside\tThe first course of high-dose <target> cytosine arabinoside </target> resulted in no unusual symptoms , but on day 21 of the second course of treatment , the patient complained of numbness in his right foot .",
+        "D006987\tDisease\tnumbness\tThe first course of high-dose cytosine arabinoside resulted in no unusual symptoms , but on day 21 of the second course of treatment , the patient complained of <target> numbness </target> in his right foot .",
+        "D010523\tDisease\tperipheral neuropathy\tElectromyogram and nerve-conduction studies showed <target> peripheral neuropathy </target> in both peroneal nerves .",
+        "D009422\tDisease\tneuropathy\tThis <target> neuropathy </target> was gradually resolving ; however , after the patient received allogeneic bone marrow transplantation , the symptoms worsened , with the development of graft-versus-host disease , and the symptoms subsequently responded to methylprednisolone .",
+        "D006086\tDisease\tgraft-versus-host disease\tThis neuropathy was gradually resolving ; however , after the patient received allogeneic bone marrow transplantation , the symptoms worsened , with the development of <target> graft-versus-host disease </target> , and the symptoms subsequently responded to methylprednisolone .",
+        "D008775\tChemical\tmethylprednisolone\tThis neuropathy was gradually resolving ; however , after the patient received allogeneic bone marrow transplantation , the symptoms worsened , with the development of graft-versus-host disease , and the symptoms subsequently responded to <target> methylprednisolone </target> .",
+        "D010523\tDisease\tperipheral neuropathy\tAlthough the mechanisms of <target> peripheral neuropathy </target> are still unclear , high-dose cytosine arabinoside is a therapy that is potentially toxic to the peripheral nervous system , and auto/alloimmunity may play an important role in these mechanisms .",
+        "D003561\tChemical\tcytosine arabinoside\tAlthough the mechanisms of peripheral neuropathy are still unclear , high-dose <target> cytosine arabinoside </target> is a therapy that is potentially toxic to the peripheral nervous system , and auto/alloimmunity may play an important role in these mechanisms ."
+    ],
+    "lines_lemma": [
+        "D010523\tDisease\tPeripheral neuropathy\t<target> peripheral neuropathy </target> cause by high-dose cytosine arabinoside treatment in a patient with acute myeloid leukemia .",
+        "D003561\tChemical\tcytosine arabinoside\tperipheral neuropathy cause by high-dose <target> cytosine arabinoside </target> treatment in a patient with acute myeloid leukemia .",
+        "D015470\tDisease\tacute myeloid leukemia\tperipheral neuropathy cause by high-dose cytosine arabinoside treatment in a patient with <target> acute myeloid leukemia </target> .",
+        "D064420\tDisease\ttoxicity\tthe central nervous system <target> toxicity </target> of high-dose cytosine arabinoside be well recognize , but the toxicity of cytosine arabinoside in the peripheral nervous system have be infrequently report .",
+        "D003561\tChemical\tcytosine arabinoside\tthe central nervous system toxicity of high-dose <target> cytosine arabinoside </target> be well recognize , but the toxicity of cytosine arabinoside in the peripheral nervous system have be infrequently report .",
+        "D064420\tDisease\ttoxicity\tthe central nervous system toxicity of high-dose cytosine arabinoside be well recognize , but the <target> toxicity </target> of cytosine arabinoside in the peripheral nervous system have be infrequently report .",
+        "D003561\tChemical\tcytosine arabinoside\tthe central nervous system toxicity of high-dose cytosine arabinoside be well recognize , but the toxicity of <target> cytosine arabinoside </target> in the peripheral nervous system have be infrequently report .",
+        "D015470\tDisease\tacute myeloid leukemia\ta 49-year-old japanese man be diagnose with <target> acute myeloid leukemia </target> .",
+        "D003561\tChemical\tcytosine arabinoside\tafter he achieve complete remission , he receive high-dose <target> cytosine arabinoside </target> treatment ( 2 g/m2 twice a day for 5 day ; total , 20 g/m2 ) as consolidation therapy .",
+        "D003561\tChemical\tcytosine arabinoside\tthe first course of high-dose <target> cytosine arabinoside </target> result in no unusual symptom , but on day 21 of the second course of treatment , the patient complain of numbness in his right foot .",
+        "D006987\tDisease\tnumbness\tthe first course of high-dose cytosine arabinoside result in no unusual symptom , but on day 21 of the second course of treatment , the patient complain of <target> numbness </target> in his right foot .",
+        "D010523\tDisease\tperipheral neuropathy\telectromyogram and nerve-conduction study show <target> peripheral neuropathy </target> in both peroneal nerve .",
+        "D009422\tDisease\tneuropathy\tthis <target> neuropathy </target> be gradually resolving ; however , after the patient receive allogeneic bone marrow transplantation , the symptom worsen , with the development of graft-versus-host disease , and the symptom subsequently respond to methylprednisolone .",
+        "D006086\tDisease\tgraft-versus-host disease\tthis neuropathy be gradually resolving ; however , after the patient receive allogeneic bone marrow transplantation , the symptom worsen , with the development of <target> graft-versus-host disease </target> , and the symptom subsequently respond to methylprednisolone .",
+        "D008775\tChemical\tmethylprednisolone\tthis neuropathy be gradually resolving ; however , after the patient receive allogeneic bone marrow transplantation , the symptom worsen , with the development of graft-versus-host disease , and the symptom subsequently respond to <target> methylprednisolone </target> .",
+        "D010523\tDisease\tperipheral neuropathy\talthough the mechanism of <target> peripheral neuropathy </target> be still unclear , high-dose cytosine arabinoside be a therapy that be potentially toxic to the peripheral nervous system , and auto/alloimmunity may play an important role in these mechanism .",
+        "D003561\tChemical\tcytosine arabinoside\talthough the mechanism of peripheral neuropathy be still unclear , high-dose <target> cytosine arabinoside </target> be a therapy that be potentially toxic to the peripheral nervous system , and auto/alloimmunity may play an important role in these mechanism ."
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "title": "National project on the prevention of mother-to-infant infection by hepatitis B virus in Japan.",
+    "abst": "In Japan, a nationwide prevention program against mother-to-infant infection by hepatitis B virus (HBV) started in 1985. This program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both hepatitis B surface antigen (HBsAg) and hepatitis B e antigen (HBeAg) positive mothers. These infants are treated with two injections of hepatitis B immune globulin (HBIG) and at least three injections of plasma derived hepatitis B vaccine. We sent questionnaires about the numbers of each procedure or examination during nine months of investigation period to each local government in 1986 and 1987. 93.4% pregnant women had the chance to be examined for HBsAg, and the positive rate was 1.4 to 1.5%. The HBeAg positive rate in HBsAg positive was 23 to 26%. The HBsAg positive rate in neonates and in infants before two months were 3% and 2% respectively. Some problems may arise, because 27 to 30% of infants need the fourth vaccination in some restricted areas.",
+    "title_plus_abst": "National project on the prevention of mother-to-infant infection by hepatitis B virus in Japan. In Japan, a nationwide prevention program against mother-to-infant infection by hepatitis B virus (HBV) started in 1985. This program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both hepatitis B surface antigen (HBsAg) and hepatitis B e antigen (HBeAg) positive mothers. These infants are treated with two injections of hepatitis B immune globulin (HBIG) and at least three injections of plasma derived hepatitis B vaccine. We sent questionnaires about the numbers of each procedure or examination during nine months of investigation period to each local government in 1986 and 1987. 93.4% pregnant women had the chance to be examined for HBsAg, and the positive rate was 1.4 to 1.5%. The HBeAg positive rate in HBsAg positive was 23 to 26%. The HBsAg positive rate in neonates and in infants before two months were 3% and 2% respectively. Some problems may arise, because 27 to 30% of infants need the fourth vaccination in some restricted areas.",
+    "pubmed_id": "2533791",
+    "entities": [
+        [
+            55,
+            85,
+            "infection by hepatitis B virus",
+            "Disease",
+            "D006509"
+        ],
+        [
+            163,
+            193,
+            "infection by hepatitis B virus",
+            "Disease",
+            "D006509"
+        ],
+        [
+            333,
+            360,
+            "hepatitis B surface antigen",
+            "Chemical",
+            "D006514"
+        ],
+        [
+            362,
+            367,
+            "HBsAg",
+            "Chemical",
+            "D006514"
+        ],
+        [
+            373,
+            394,
+            "hepatitis B e antigen",
+            "Chemical",
+            "D006513"
+        ],
+        [
+            396,
+            401,
+            "HBeAg",
+            "Chemical",
+            "D006513"
+        ],
+        [
+            470,
+            481,
+            "hepatitis B",
+            "Disease",
+            "D006509"
+        ],
+        [
+            553,
+            572,
+            "hepatitis B vaccine",
+            "Chemical",
+            "D017325"
+        ],
+        [
+            789,
+            794,
+            "HBsAg",
+            "Chemical",
+            "D006514"
+        ],
+        [
+            839,
+            844,
+            "HBeAg",
+            "Chemical",
+            "D006513"
+        ],
+        [
+            862,
+            867,
+            "HBsAg",
+            "Chemical",
+            "D006514"
+        ],
+        [
+            896,
+            901,
+            "HBsAg",
+            "Chemical",
+            "D006514"
+        ]
+    ],
+    "split_sentence": [
+        "National project on the prevention of mother-to-infant infection by hepatitis B virus in Japan.",
+        "In Japan, a nationwide prevention program against mother-to-infant infection by hepatitis B virus (HBV) started in 1985.",
+        "This program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both hepatitis B surface antigen (HBsAg) and hepatitis B e antigen (HBeAg) positive mothers.",
+        "These infants are treated with two injections of hepatitis B immune globulin (HBIG) and at least three injections of plasma derived hepatitis B vaccine.",
+        "We sent questionnaires about the numbers of each procedure or examination during nine months of investigation period to each local government in 1986 and 1987.",
+        "93.4% pregnant women had the chance to be examined for HBsAg, and the positive rate was 1.4 to 1.5%.",
+        "The HBeAg positive rate in HBsAg positive was 23 to 26%.",
+        "The HBsAg positive rate in neonates and in infants before two months were 3% and 2% respectively.",
+        "Some problems may arise, because 27 to 30% of infants need the fourth vaccination in some restricted areas."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006509\tDisease\tinfection by hepatitis B virus\tNational project on the prevention of mother-to-infant <target> infection by hepatitis B virus </target> in Japan .",
+        "D006509\tDisease\tinfection by hepatitis B virus\tIn Japan , a nationwide prevention program against mother-to-infant <target> infection by hepatitis B virus </target> ( HBV ) started in 1985 .",
+        "D006514\tChemical\thepatitis B surface antigen\tThis program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both <target> hepatitis B surface antigen </target> ( HBsAg ) and hepatitis B e antigen ( HBeAg ) positive mothers .",
+        "D006514\tChemical\tHBsAg\tThis program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both hepatitis B surface antigen ( <target> HBsAg </target> ) and hepatitis B e antigen ( HBeAg ) positive mothers .",
+        "D006513\tChemical\thepatitis B e antigen\tThis program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both hepatitis B surface antigen ( HBsAg ) and <target> hepatitis B e antigen </target> ( HBeAg ) positive mothers .",
+        "D006513\tChemical\tHBeAg\tThis program consists of double screenings of pregnant women and prophylactic treatment to the infants born to both hepatitis B surface antigen ( HBsAg ) and hepatitis B e antigen ( <target> HBeAg </target> ) positive mothers .",
+        "D006509\tDisease\thepatitis B\tThese infants are treated with two injections of <target> hepatitis B </target> immune globulin ( HBIG ) and at least three injections of plasma derived hepatitis B vaccine .",
+        "D017325\tChemical\thepatitis B vaccine\tThese infants are treated with two injections of hepatitis B immune globulin ( HBIG ) and at least three injections of plasma derived <target> hepatitis B vaccine </target> .",
+        "D006514\tChemical\tHBsAg\t93.4 % pregnant women had the chance to be examined for <target> HBsAg </target> , and the positive rate was 1.4 to 1.5 % .",
+        "D006513\tChemical\tHBeAg\tThe <target> HBeAg </target> positive rate in HBsAg positive was 23 to 26 % .",
+        "D006514\tChemical\tHBsAg\tThe HBeAg positive rate in <target> HBsAg </target> positive was 23 to 26 % .",
+        "D006514\tChemical\tHBsAg\tThe <target> HBsAg </target> positive rate in neonates and in infants before two months were 3 % and 2 % respectively ."
+    ],
+    "lines_lemma": [
+        "D006509\tDisease\tinfection by hepatitis B virus\tnational project on the prevention of mother-to-infant <target> infection by hepatitis b virus </target> in Japan .",
+        "D006509\tDisease\tinfection by hepatitis B virus\tin Japan , a nationwide prevention program against mother-to-infant <target> infection by hepatitis b virus </target> ( hbv ) start in 1985 .",
+        "D006514\tChemical\thepatitis B surface antigen\tthis program consist of double screening of pregnant woman and prophylactic treatment to the infant bear to both <target> hepatitis b surface antigen </target> ( hbsag ) and hepatitis b e antigen ( hbeag ) positive mother .",
+        "D006514\tChemical\tHBsAg\tthis program consist of double screening of pregnant woman and prophylactic treatment to the infant bear to both hepatitis b surface antigen ( <target> hbsag </target> ) and hepatitis b e antigen ( hbeag ) positive mother .",
+        "D006513\tChemical\thepatitis B e antigen\tthis program consist of double screening of pregnant woman and prophylactic treatment to the infant bear to both hepatitis b surface antigen ( hbsag ) and <target> hepatitis b e antigen </target> ( hbeag ) positive mother .",
+        "D006513\tChemical\tHBeAg\tthis program consist of double screening of pregnant woman and prophylactic treatment to the infant bear to both hepatitis b surface antigen ( hbsag ) and hepatitis b e antigen ( <target> hbeag </target> ) positive mother .",
+        "D006509\tDisease\thepatitis B\tthese infant be treat with two injection of <target> hepatitis b </target> immune globulin ( HBIG ) and at least three injection of plasma derive hepatitis b vaccine .",
+        "D017325\tChemical\thepatitis B vaccine\tthese infant be treat with two injection of hepatitis b immune globulin ( HBIG ) and at least three injection of plasma derive <target> hepatitis b vaccine </target> .",
+        "D006514\tChemical\tHBsAg\t93.4 % pregnant woman have the chance to be examine for <target> hbsag </target> , and the positive rate be 1.4 to 1.5 % .",
+        "D006513\tChemical\tHBeAg\tthe <target> hbeag </target> positive rate in hbsag positive be 23 to 26 % .",
+        "D006514\tChemical\tHBsAg\tthe hbeag positive rate in <target> hbsag </target> positive be 23 to 26 % .",
+        "D006514\tChemical\tHBsAg\tthe <target> hbsag </target> positive rate in neonate and in infant before two month be 3 % and 2 % respectively ."
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "title": "The effect of haloperidol in cocaine and amphetamine intoxication.",
+    "abst": "The effectiveness of haloperidol pretreatment in preventing the toxic effects of high doses of amphetamine and cocaine was studied in rats. In this model, toxic effects were induced by intraperitoneal (i.p.) injection of amphetamine 75 mg/kg (100% death rate) or cocaine 70 mg/kg (82% death rate). Haloperidol failed to prevent amphetamine-induced seizures, but did lower the mortality rate at most doses tested. Haloperidol decreased the incidence of cocaine-induced seizures at the two highest doses, but the lowering of the mortality rate did not reach statistical significance at any dose. These data suggest a protective role for the central dopamine blocker haloperidol against death from high-dose amphetamine exposure without reducing the incidence of seizures. In contrast, haloperidol demonstrated an ability to reduce cocaine-induced seizures without significantly reducing mortality.",
+    "title_plus_abst": "The effect of haloperidol in cocaine and amphetamine intoxication. The effectiveness of haloperidol pretreatment in preventing the toxic effects of high doses of amphetamine and cocaine was studied in rats. In this model, toxic effects were induced by intraperitoneal (i.p.) injection of amphetamine 75 mg/kg (100% death rate) or cocaine 70 mg/kg (82% death rate). Haloperidol failed to prevent amphetamine-induced seizures, but did lower the mortality rate at most doses tested. Haloperidol decreased the incidence of cocaine-induced seizures at the two highest doses, but the lowering of the mortality rate did not reach statistical significance at any dose. These data suggest a protective role for the central dopamine blocker haloperidol against death from high-dose amphetamine exposure without reducing the incidence of seizures. In contrast, haloperidol demonstrated an ability to reduce cocaine-induced seizures without significantly reducing mortality.",
+    "pubmed_id": "2625524",
+    "entities": [
+        [
+            14,
+            25,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            29,
+            36,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            41,
+            52,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            88,
+            99,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            162,
+            173,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            178,
+            185,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            288,
+            299,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            330,
+            337,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            365,
+            376,
+            "Haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            395,
+            406,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            415,
+            423,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            480,
+            491,
+            "Haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            519,
+            526,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            535,
+            543,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            714,
+            722,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            731,
+            742,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            772,
+            783,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            827,
+            835,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            850,
+            861,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            896,
+            903,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            912,
+            920,
+            "seizures",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "The effect of haloperidol in cocaine and amphetamine intoxication.",
+        "The effectiveness of haloperidol pretreatment in preventing the toxic effects of high doses of amphetamine and cocaine was studied in rats.",
+        "In this model, toxic effects were induced by intraperitoneal (i.p.) injection of amphetamine 75 mg/kg (100% death rate) or cocaine 70 mg/kg (82% death rate).",
+        "Haloperidol failed to prevent amphetamine-induced seizures, but did lower the mortality rate at most doses tested.",
+        "Haloperidol decreased the incidence of cocaine-induced seizures at the two highest doses, but the lowering of the mortality rate did not reach statistical significance at any dose.",
+        "These data suggest a protective role for the central dopamine blocker haloperidol against death from high-dose amphetamine exposure without reducing the incidence of seizures.",
+        "In contrast, haloperidol demonstrated an ability to reduce cocaine-induced seizures without significantly reducing mortality."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006220\tChemical\thaloperidol\tThe effect of <target> haloperidol </target> in cocaine and amphetamine intoxication .",
+        "D003042\tChemical\tcocaine\tThe effect of haloperidol in <target> cocaine </target> and amphetamine intoxication .",
+        "D000661\tChemical\tamphetamine\tThe effect of haloperidol in cocaine and <target> amphetamine </target> intoxication .",
+        "D006220\tChemical\thaloperidol\tThe effectiveness of <target> haloperidol </target> pretreatment in preventing the toxic effects of high doses of amphetamine and cocaine was studied in rats .",
+        "D000661\tChemical\tamphetamine\tThe effectiveness of haloperidol pretreatment in preventing the toxic effects of high doses of <target> amphetamine </target> and cocaine was studied in rats .",
+        "D003042\tChemical\tcocaine\tThe effectiveness of haloperidol pretreatment in preventing the toxic effects of high doses of amphetamine and <target> cocaine </target> was studied in rats .",
+        "D000661\tChemical\tamphetamine\tIn this model , toxic effects were induced by intraperitoneal ( i.p . ) injection of <target> amphetamine </target> 75 mg/kg ( 100 % death rate ) or cocaine 70 mg/kg ( 82 % death rate ) .",
+        "D003042\tChemical\tcocaine\tIn this model , toxic effects were induced by intraperitoneal ( i.p . ) injection of amphetamine 75 mg/kg ( 100 % death rate ) or <target> cocaine </target> 70 mg/kg ( 82 % death rate ) .",
+        "D006220\tChemical\tHaloperidol\t<target> Haloperidol </target> failed to prevent amphetamine-induced seizures , but did lower the mortality rate at most doses tested .",
+        "D000661\tChemical\tamphetamine\tHaloperidol failed to prevent <target> amphetamine </target> -induced seizures , but did lower the mortality rate at most doses tested .",
+        "D012640\tDisease\tseizures\tHaloperidol failed to prevent amphetamine-induced <target> seizures </target> , but did lower the mortality rate at most doses tested .",
+        "D006220\tChemical\tHaloperidol\t<target> Haloperidol </target> decreased the incidence of cocaine-induced seizures at the two highest doses , but the lowering of the mortality rate did not reach statistical significance at any dose .",
+        "D003042\tChemical\tcocaine\tHaloperidol decreased the incidence of <target> cocaine </target> -induced seizures at the two highest doses , but the lowering of the mortality rate did not reach statistical significance at any dose .",
+        "D012640\tDisease\tseizures\tHaloperidol decreased the incidence of cocaine-induced <target> seizures </target> at the two highest doses , but the lowering of the mortality rate did not reach statistical significance at any dose .",
+        "D004298\tChemical\tdopamine\tThese data suggest a protective role for the central <target> dopamine </target> blocker haloperidol against death from high-dose amphetamine exposure without reducing the incidence of seizures .",
+        "D006220\tChemical\thaloperidol\tThese data suggest a protective role for the central dopamine blocker <target> haloperidol </target> against death from high-dose amphetamine exposure without reducing the incidence of seizures .",
+        "D000661\tChemical\tamphetamine\tThese data suggest a protective role for the central dopamine blocker haloperidol against death from high-dose <target> amphetamine </target> exposure without reducing the incidence of seizures .",
+        "D012640\tDisease\tseizures\tThese data suggest a protective role for the central dopamine blocker haloperidol against death from high-dose amphetamine exposure without reducing the incidence of <target> seizures </target> .",
+        "D006220\tChemical\thaloperidol\tIn contrast , <target> haloperidol </target> demonstrated an ability to reduce cocaine-induced seizures without significantly reducing mortality .",
+        "D003042\tChemical\tcocaine\tIn contrast , haloperidol demonstrated an ability to reduce <target> cocaine </target> -induced seizures without significantly reducing mortality .",
+        "D012640\tDisease\tseizures\tIn contrast , haloperidol demonstrated an ability to reduce cocaine-induced <target> seizures </target> without significantly reducing mortality ."
+    ],
+    "lines_lemma": [
+        "D006220\tChemical\thaloperidol\tthe effect of <target> haloperidol </target> in cocaine and amphetamine intoxication .",
+        "D003042\tChemical\tcocaine\tthe effect of haloperidol in <target> cocaine </target> and amphetamine intoxication .",
+        "D000661\tChemical\tamphetamine\tthe effect of haloperidol in cocaine and <target> amphetamine </target> intoxication .",
+        "D006220\tChemical\thaloperidol\tthe effectiveness of <target> haloperidol </target> pretreatment in prevent the toxic effect of high dose of amphetamine and cocaine be study in rat .",
+        "D000661\tChemical\tamphetamine\tthe effectiveness of haloperidol pretreatment in prevent the toxic effect of high dose of <target> amphetamine </target> and cocaine be study in rat .",
+        "D003042\tChemical\tcocaine\tthe effectiveness of haloperidol pretreatment in prevent the toxic effect of high dose of amphetamine and <target> cocaine </target> be study in rat .",
+        "D000661\tChemical\tamphetamine\tin this model , toxic effect be induce by intraperitoneal ( i.p . ) injection of <target> amphetamine </target> 75 mg/kg ( 100 % death rate ) or cocaine 70 mg/kg ( 82 % death rate ) .",
+        "D003042\tChemical\tcocaine\tin this model , toxic effect be induce by intraperitoneal ( i.p . ) injection of amphetamine 75 mg/kg ( 100 % death rate ) or <target> cocaine </target> 70 mg/kg ( 82 % death rate ) .",
+        "D006220\tChemical\tHaloperidol\t<target> Haloperidol </target> fail to prevent amphetamine-induced seizure , but do lower the mortality rate at most dose test .",
+        "D000661\tChemical\tamphetamine\tHaloperidol fail to prevent <target> amphetamine </target> -induced seizure , but do lower the mortality rate at most dose test .",
+        "D012640\tDisease\tseizures\tHaloperidol fail to prevent amphetamine-induced <target> seizure </target> , but do lower the mortality rate at most dose test .",
+        "D006220\tChemical\tHaloperidol\t<target> Haloperidol </target> decrease the incidence of cocaine-induced seizure at the two high dose , but the lowering of the mortality rate do not reach statistical significance at any dose .",
+        "D003042\tChemical\tcocaine\tHaloperidol decrease the incidence of <target> cocaine </target> -induced seizure at the two high dose , but the lowering of the mortality rate do not reach statistical significance at any dose .",
+        "D012640\tDisease\tseizures\tHaloperidol decrease the incidence of cocaine-induced <target> seizure </target> at the two high dose , but the lowering of the mortality rate do not reach statistical significance at any dose .",
+        "D004298\tChemical\tdopamine\tthese datum suggest a protective role for the central <target> dopamine </target> blocker haloperidol against death from high-dose amphetamine exposure without reduce the incidence of seizure .",
+        "D006220\tChemical\thaloperidol\tthese datum suggest a protective role for the central dopamine blocker <target> haloperidol </target> against death from high-dose amphetamine exposure without reduce the incidence of seizure .",
+        "D000661\tChemical\tamphetamine\tthese datum suggest a protective role for the central dopamine blocker haloperidol against death from high-dose <target> amphetamine </target> exposure without reduce the incidence of seizure .",
+        "D012640\tDisease\tseizures\tthese datum suggest a protective role for the central dopamine blocker haloperidol against death from high-dose amphetamine exposure without reduce the incidence of <target> seizure </target> .",
+        "D006220\tChemical\thaloperidol\tin contrast , <target> haloperidol </target> demonstrate an ability to reduce cocaine-induced seizure without significantly reduce mortality .",
+        "D003042\tChemical\tcocaine\tin contrast , haloperidol demonstrate an ability to reduce <target> cocaine </target> -induced seizure without significantly reduce mortality .",
+        "D012640\tDisease\tseizures\tin contrast , haloperidol demonstrate an ability to reduce cocaine-induced <target> seizure </target> without significantly reduce mortality ."
+    ]
+}

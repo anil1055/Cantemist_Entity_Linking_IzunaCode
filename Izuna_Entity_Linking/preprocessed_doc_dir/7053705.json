@@ -1,0 +1,92 @@
+{
+    "title": "Hepatic veno-occlusive disease caused by 6-thioguanine.",
+    "abst": "Clinically reversible veno-occlusive disease of the liver developed in a 23-year-old man with acute lymphocytic leukemia after 10 months of maintenance therapy with 6-thioguanine. Serial liver biopsies showed the development and resolution of intense sinusoidal engorgement. Although this disease was clinically reversible, some subintimal fibrosis about the terminal hepatic veins persisted. This case presented a unique opportunity to observe the histologic features of clinically reversible hepatic veno-occlusive disease over time, and may be the first case of veno-occlusive related solely to 6-thioguanine.",
+    "title_plus_abst": "Hepatic veno-occlusive disease caused by 6-thioguanine. Clinically reversible veno-occlusive disease of the liver developed in a 23-year-old man with acute lymphocytic leukemia after 10 months of maintenance therapy with 6-thioguanine. Serial liver biopsies showed the development and resolution of intense sinusoidal engorgement. Although this disease was clinically reversible, some subintimal fibrosis about the terminal hepatic veins persisted. This case presented a unique opportunity to observe the histologic features of clinically reversible hepatic veno-occlusive disease over time, and may be the first case of veno-occlusive related solely to 6-thioguanine.",
+    "pubmed_id": "7053705",
+    "entities": [
+        [
+            0,
+            30,
+            "Hepatic veno-occlusive disease",
+            "Disease",
+            "D006504"
+        ],
+        [
+            41,
+            54,
+            "6-thioguanine",
+            "Chemical",
+            "D013866"
+        ],
+        [
+            78,
+            113,
+            "veno-occlusive disease of the liver",
+            "Disease",
+            "D006504"
+        ],
+        [
+            150,
+            176,
+            "acute lymphocytic leukemia",
+            "Disease",
+            "D054198"
+        ],
+        [
+            221,
+            234,
+            "6-thioguanine",
+            "Chemical",
+            "D013866"
+        ],
+        [
+            396,
+            404,
+            "fibrosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            550,
+            580,
+            "hepatic veno-occlusive disease",
+            "Disease",
+            "D006504"
+        ],
+        [
+            654,
+            667,
+            "6-thioguanine",
+            "Chemical",
+            "D013866"
+        ]
+    ],
+    "split_sentence": [
+        "Hepatic veno-occlusive disease caused by 6-thioguanine.",
+        "Clinically reversible veno-occlusive disease of the liver developed in a 23-year-old man with acute lymphocytic leukemia after 10 months of maintenance therapy with 6-thioguanine.",
+        "Serial liver biopsies showed the development and resolution of intense sinusoidal engorgement.",
+        "Although this disease was clinically reversible, some subintimal fibrosis about the terminal hepatic veins persisted.",
+        "This case presented a unique opportunity to observe the histologic features of clinically reversible hepatic veno-occlusive disease over time, and may be the first case of veno-occlusive related solely to 6-thioguanine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006504\tDisease\tHepatic veno-occlusive disease\t<target> Hepatic veno-occlusive disease </target> caused by 6-thioguanine .",
+        "D013866\tChemical\t6-thioguanine\tHepatic veno-occlusive disease caused by <target> 6-thioguanine </target> .",
+        "D006504\tDisease\tveno-occlusive disease of the liver\tClinically reversible <target> veno-occlusive disease of the liver </target> developed in a 23-year-old man with acute lymphocytic leukemia after 10 months of maintenance therapy with 6-thioguanine .",
+        "D054198\tDisease\tacute lymphocytic leukemia\tClinically reversible veno-occlusive disease of the liver developed in a 23-year-old man with <target> acute lymphocytic leukemia </target> after 10 months of maintenance therapy with 6-thioguanine .",
+        "D013866\tChemical\t6-thioguanine\tClinically reversible veno-occlusive disease of the liver developed in a 23-year-old man with acute lymphocytic leukemia after 10 months of maintenance therapy with <target> 6-thioguanine </target> .",
+        "D005355\tDisease\tfibrosis\tAlthough this disease was clinically reversible , some subintimal <target> fibrosis </target> about the terminal hepatic veins persisted .",
+        "D006504\tDisease\thepatic veno-occlusive disease\tThis case presented a unique opportunity to observe the histologic features of clinically reversible <target> hepatic veno-occlusive disease </target> over time , and may be the first case of veno-occlusive related solely to 6-thioguanine .",
+        "D013866\tChemical\t6-thioguanine\tThis case presented a unique opportunity to observe the histologic features of clinically reversible hepatic veno-occlusive disease over time , and may be the first case of veno-occlusive related solely to <target> 6-thioguanine </target> ."
+    ],
+    "lines_lemma": [
+        "D006504\tDisease\tHepatic veno-occlusive disease\t<target> hepatic veno-occlusive disease </target> cause by 6-thioguanine .",
+        "D013866\tChemical\t6-thioguanine\thepatic veno-occlusive disease cause by <target> 6-thioguanine </target> .",
+        "D006504\tDisease\tveno-occlusive disease of the liver\tclinically reversible <target> veno-occlusive disease of the liver </target> develop in a 23-year-old man with acute lymphocytic leukemia after 10 month of maintenance therapy with 6-thioguanine .",
+        "D054198\tDisease\tacute lymphocytic leukemia\tclinically reversible veno-occlusive disease of the liver develop in a 23-year-old man with <target> acute lymphocytic leukemia </target> after 10 month of maintenance therapy with 6-thioguanine .",
+        "D013866\tChemical\t6-thioguanine\tclinically reversible veno-occlusive disease of the liver develop in a 23-year-old man with acute lymphocytic leukemia after 10 month of maintenance therapy with <target> 6-thioguanine </target> .",
+        "D005355\tDisease\tfibrosis\talthough this disease be clinically reversible , some subintimal <target> fibrosis </target> about the terminal hepatic vein persist .",
+        "D006504\tDisease\thepatic veno-occlusive disease\tthis case present a unique opportunity to observe the histologic feature of clinically reversible <target> hepatic veno-occlusive disease </target> over time , and may be the first case of veno-occlusive relate solely to 6-thioguanine .",
+        "D013866\tChemical\t6-thioguanine\tthis case present a unique opportunity to observe the histologic feature of clinically reversible hepatic veno-occlusive disease over time , and may be the first case of veno-occlusive relate solely to <target> 6-thioguanine </target> ."
+    ]
+}

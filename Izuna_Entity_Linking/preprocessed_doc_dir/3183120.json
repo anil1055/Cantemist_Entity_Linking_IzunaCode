@@ -1,0 +1,56 @@
+{
+    "title": "Reversible cerebral lesions associated with tiazofurin usage: MR demonstration.",
+    "abst": "Tiazofurin is an experimental chemotherapeutic agent currently undergoing clinical evaluation. We report our results with magnetic resonance (MR) in demonstrating reversible cerebral abnormalities concurrent with the use of this drug. The abnormalities on MR were correlated with findings on CT as well as with cerebral angiography. The utility of MR in the evaluation of patients receiving this new agent is illustrated.",
+    "title_plus_abst": "Reversible cerebral lesions associated with tiazofurin usage: MR demonstration. Tiazofurin is an experimental chemotherapeutic agent currently undergoing clinical evaluation. We report our results with magnetic resonance (MR) in demonstrating reversible cerebral abnormalities concurrent with the use of this drug. The abnormalities on MR were correlated with findings on CT as well as with cerebral angiography. The utility of MR in the evaluation of patients receiving this new agent is illustrated.",
+    "pubmed_id": "3183120",
+    "entities": [
+        [
+            11,
+            27,
+            "cerebral lesions",
+            "Disease",
+            "D001927"
+        ],
+        [
+            44,
+            54,
+            "tiazofurin",
+            "Chemical",
+            "C033706"
+        ],
+        [
+            80,
+            90,
+            "Tiazofurin",
+            "Chemical",
+            "C033706"
+        ],
+        [
+            254,
+            276,
+            "cerebral abnormalities",
+            "Disease",
+            "D001927"
+        ]
+    ],
+    "split_sentence": [
+        "Reversible cerebral lesions associated with tiazofurin usage: MR demonstration.",
+        "Tiazofurin is an experimental chemotherapeutic agent currently undergoing clinical evaluation.",
+        "We report our results with magnetic resonance (MR) in demonstrating reversible cerebral abnormalities concurrent with the use of this drug.",
+        "The abnormalities on MR were correlated with findings on CT as well as with cerebral angiography.",
+        "The utility of MR in the evaluation of patients receiving this new agent is illustrated."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001927\tDisease\tcerebral lesions\tReversible <target> cerebral lesions </target> associated with tiazofurin usage : MR demonstration .",
+        "C033706\tChemical\ttiazofurin\tReversible cerebral lesions associated with <target> tiazofurin </target> usage : MR demonstration .",
+        "C033706\tChemical\tTiazofurin\t<target> Tiazofurin </target> is an experimental chemotherapeutic agent currently undergoing clinical evaluation .",
+        "D001927\tDisease\tcerebral abnormalities\tWe report our results with magnetic resonance ( MR ) in demonstrating reversible <target> cerebral abnormalities </target> concurrent with the use of this drug ."
+    ],
+    "lines_lemma": [
+        "D001927\tDisease\tcerebral lesions\treversible <target> cerebral lesion </target> associate with tiazofurin usage : mr demonstration .",
+        "C033706\tChemical\ttiazofurin\treversible cerebral lesion associate with <target> tiazofurin </target> usage : mr demonstration .",
+        "C033706\tChemical\tTiazofurin\t<target> Tiazofurin </target> be an experimental chemotherapeutic agent currently undergo clinical evaluation .",
+        "D001927\tDisease\tcerebral abnormalities\twe report our result with magnetic resonance ( mr ) in demonstrate reversible <target> cerebral abnormality </target> concurrent with the use of this drug ."
+    ]
+}

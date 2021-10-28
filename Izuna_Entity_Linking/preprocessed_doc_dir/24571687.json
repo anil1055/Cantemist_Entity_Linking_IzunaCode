@@ -1,0 +1,95 @@
+{
+    "title": "Vasovagal syncope and severe bradycardia following intranasal dexmedetomidine for pediatric procedural sedation.",
+    "abst": "We report syncope and bradycardia in an 11-year-old girl following administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram. Following successful completion of VCUG and a 60-min recovery period, the patient's level of consciousness and vital signs returned to presedation levels. Upon leaving the sedation area, the patient collapsed, with no apparent inciting event. The patient quickly regained consciousness and no injury occurred. The primary abnormality found was persistent bradycardia, and she was admitted to the hospital for telemetric observation. The bradycardia lasted ~2 h, and further cardiac workup revealed no underlying abnormality. Unanticipated and previously unreported outcomes may be witnessed as we expand the use of certain sedatives to alternative routes of administration.",
+    "title_plus_abst": "Vasovagal syncope and severe bradycardia following intranasal dexmedetomidine for pediatric procedural sedation. We report syncope and bradycardia in an 11-year-old girl following administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram. Following successful completion of VCUG and a 60-min recovery period, the patient's level of consciousness and vital signs returned to presedation levels. Upon leaving the sedation area, the patient collapsed, with no apparent inciting event. The patient quickly regained consciousness and no injury occurred. The primary abnormality found was persistent bradycardia, and she was admitted to the hospital for telemetric observation. The bradycardia lasted ~2 h, and further cardiac workup revealed no underlying abnormality. Unanticipated and previously unreported outcomes may be witnessed as we expand the use of certain sedatives to alternative routes of administration.",
+    "pubmed_id": "24571687",
+    "entities": [
+        [
+            0,
+            17,
+            "Vasovagal syncope",
+            "Disease",
+            "D019462"
+        ],
+        [
+            29,
+            40,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            62,
+            77,
+            "dexmedetomidine",
+            "Chemical",
+            "D020927"
+        ],
+        [
+            123,
+            130,
+            "syncope",
+            "Disease",
+            "D013575"
+        ],
+        [
+            135,
+            146,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            209,
+            224,
+            "dexmedetomidine",
+            "Chemical",
+            "D020927"
+        ],
+        [
+            625,
+            636,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            707,
+            718,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ]
+    ],
+    "split_sentence": [
+        "Vasovagal syncope and severe bradycardia following intranasal dexmedetomidine for pediatric procedural sedation.",
+        "We report syncope and bradycardia in an 11-year-old girl following administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram.",
+        "Following successful completion of VCUG and a 60-min recovery period, the patient's level of consciousness and vital signs returned to presedation levels.",
+        "Upon leaving the sedation area, the patient collapsed, with no apparent inciting event.",
+        "The patient quickly regained consciousness and no injury occurred.",
+        "The primary abnormality found was persistent bradycardia, and she was admitted to the hospital for telemetric observation.",
+        "The bradycardia lasted ~2 h, and further cardiac workup revealed no underlying abnormality.",
+        "Unanticipated and previously unreported outcomes may be witnessed as we expand the use of certain sedatives to alternative routes of administration."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019462\tDisease\tVasovagal syncope\t<target> Vasovagal syncope </target> and severe bradycardia following intranasal dexmedetomidine for pediatric procedural sedation .",
+        "D001919\tDisease\tbradycardia\tVasovagal syncope and severe <target> bradycardia </target> following intranasal dexmedetomidine for pediatric procedural sedation .",
+        "D020927\tChemical\tdexmedetomidine\tVasovagal syncope and severe bradycardia following intranasal <target> dexmedetomidine </target> for pediatric procedural sedation .",
+        "D013575\tDisease\tsyncope\tWe report <target> syncope </target> and bradycardia in an 11-year-old girl following administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram .",
+        "D001919\tDisease\tbradycardia\tWe report syncope and <target> bradycardia </target> in an 11-year-old girl following administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram .",
+        "D020927\tChemical\tdexmedetomidine\tWe report syncope and bradycardia in an 11-year-old girl following administration of intranasal <target> dexmedetomidine </target> for sedation for a voiding cystourethrogram .",
+        "D001919\tDisease\tbradycardia\tThe primary abnormality found was persistent <target> bradycardia </target> , and she was admitted to the hospital for telemetric observation .",
+        "D001919\tDisease\tbradycardia\tThe <target> bradycardia </target> lasted ~2 h , and further cardiac workup revealed no underlying abnormality ."
+    ],
+    "lines_lemma": [
+        "D019462\tDisease\tVasovagal syncope\t<target> vasovagal syncope </target> and severe bradycardia follow intranasal dexmedetomidine for pediatric procedural sedation .",
+        "D001919\tDisease\tbradycardia\tvasovagal syncope and severe <target> bradycardia </target> follow intranasal dexmedetomidine for pediatric procedural sedation .",
+        "D020927\tChemical\tdexmedetomidine\tvasovagal syncope and severe bradycardia follow intranasal <target> dexmedetomidine </target> for pediatric procedural sedation .",
+        "D013575\tDisease\tsyncope\twe report <target> syncope </target> and bradycardia in an 11-year-old girl follow administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram .",
+        "D001919\tDisease\tbradycardia\twe report syncope and <target> bradycardia </target> in an 11-year-old girl follow administration of intranasal dexmedetomidine for sedation for a voiding cystourethrogram .",
+        "D020927\tChemical\tdexmedetomidine\twe report syncope and bradycardia in an 11-year-old girl follow administration of intranasal <target> dexmedetomidine </target> for sedation for a voiding cystourethrogram .",
+        "D001919\tDisease\tbradycardia\tthe primary abnormality find be persistent <target> bradycardia </target> , and she be admit to the hospital for telemetric observation .",
+        "D001919\tDisease\tbradycardia\tthe <target> bradycardia </target> last ~2 h , and far cardiac workup reveal no underlying abnormality ."
+    ]
+}

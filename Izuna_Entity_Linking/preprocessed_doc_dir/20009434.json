@@ -1,0 +1,158 @@
+{
+    "title": "Acute renal failure after high-dose methotrexate therapy in a patient with ileostomy.",
+    "abst": "High-dose methotrexate (HD-MTX) is an important treatment for Burkitt lymphoma, but can cause hepatic and renal toxicity when its clearance is delayed. We report a case of acute renal failure after HD-MTX therapy in a patient with ileostomy, The patient was a 3-year-old boy who had received a living-related liver transplantation for congenital biliary atresia. At day 833 after the transplantation, he was diagnosed with PTLD (post-transplantation lymphoproliferative disorder, Burkitt-type malignant lymphoma). During induction therapy, he suffered ileal perforation and ileostomy was performed. Subsequent HD-MTX therapy caused acute renal failure that required continuous hemodialysis. We supposed that intravascular hypovolemia due to substantial drainage from the ileostoma caused acute prerenal failure. After recovery of his renal function, we could safely treat the patient with HD-MTX therapy by controlling drainage from ileostoma with total parenteral nutrition.",
+    "title_plus_abst": "Acute renal failure after high-dose methotrexate therapy in a patient with ileostomy. High-dose methotrexate (HD-MTX) is an important treatment for Burkitt lymphoma, but can cause hepatic and renal toxicity when its clearance is delayed. We report a case of acute renal failure after HD-MTX therapy in a patient with ileostomy, The patient was a 3-year-old boy who had received a living-related liver transplantation for congenital biliary atresia. At day 833 after the transplantation, he was diagnosed with PTLD (post-transplantation lymphoproliferative disorder, Burkitt-type malignant lymphoma). During induction therapy, he suffered ileal perforation and ileostomy was performed. Subsequent HD-MTX therapy caused acute renal failure that required continuous hemodialysis. We supposed that intravascular hypovolemia due to substantial drainage from the ileostoma caused acute prerenal failure. After recovery of his renal function, we could safely treat the patient with HD-MTX therapy by controlling drainage from ileostoma with total parenteral nutrition.",
+    "pubmed_id": "20009434",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            36,
+            48,
+            "methotrexate",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            96,
+            108,
+            "methotrexate",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            113,
+            116,
+            "MTX",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            148,
+            164,
+            "Burkitt lymphoma",
+            "Disease",
+            "D002051"
+        ],
+        [
+            258,
+            277,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            287,
+            290,
+            "MTX",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            432,
+            447,
+            "biliary atresia",
+            "Disease",
+            "D001656"
+        ],
+        [
+            509,
+            513,
+            "PTLD",
+            "Disease",
+            "D008232"
+        ],
+        [
+            515,
+            564,
+            "post-transplantation lymphoproliferative disorder",
+            "Disease",
+            "D008232"
+        ],
+        [
+            566,
+            597,
+            "Burkitt-type malignant lymphoma",
+            "Disease",
+            "D002051"
+        ],
+        [
+            699,
+            702,
+            "MTX",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            718,
+            737,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            808,
+            819,
+            "hypovolemia",
+            "Disease",
+            "D020896"
+        ],
+        [
+            978,
+            981,
+            "MTX",
+            "Chemical",
+            "D008727"
+        ]
+    ],
+    "split_sentence": [
+        "Acute renal failure after high-dose methotrexate therapy in a patient with ileostomy.",
+        "High-dose methotrexate (HD-MTX) is an important treatment for Burkitt lymphoma, but can cause hepatic and renal toxicity when its clearance is delayed.",
+        "We report a case of acute renal failure after HD-MTX therapy in a patient with ileostomy, The patient was a 3-year-old boy who had received a living-related liver transplantation for congenital biliary atresia.",
+        "At day 833 after the transplantation, he was diagnosed with PTLD (post-transplantation lymphoproliferative disorder, Burkitt-type malignant lymphoma).",
+        "During induction therapy, he suffered ileal perforation and ileostomy was performed.",
+        "Subsequent HD-MTX therapy caused acute renal failure that required continuous hemodialysis.",
+        "We supposed that intravascular hypovolemia due to substantial drainage from the ileostoma caused acute prerenal failure.",
+        "After recovery of his renal function, we could safely treat the patient with HD-MTX therapy by controlling drainage from ileostoma with total parenteral nutrition."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> after high-dose methotrexate therapy in a patient with ileostomy .",
+        "D008727\tChemical\tmethotrexate\tAcute renal failure after high-dose <target> methotrexate </target> therapy in a patient with ileostomy .",
+        "D008727\tChemical\tmethotrexate\tHigh-dose <target> methotrexate </target> ( HD-MTX ) is an important treatment for Burkitt lymphoma , but can cause hepatic and renal toxicity when its clearance is delayed .",
+        "D008727\tChemical\tMTX\tHigh-dose methotrexate ( HD- <target> MTX </target> ) is an important treatment for Burkitt lymphoma , but can cause hepatic and renal toxicity when its clearance is delayed .",
+        "D002051\tDisease\tBurkitt lymphoma\tHigh-dose methotrexate ( HD-MTX ) is an important treatment for <target> Burkitt lymphoma </target> , but can cause hepatic and renal toxicity when its clearance is delayed .",
+        "D058186\tDisease\tacute renal failure\tWe report a case of <target> acute renal failure </target> after HD-MTX therapy in a patient with ileostomy , The patient was a 3-year-old boy who had received a living-related liver transplantation for congenital biliary atresia .",
+        "D008727\tChemical\tMTX\tWe report a case of acute renal failure after HD- <target> MTX </target> therapy in a patient with ileostomy , The patient was a 3-year-old boy who had received a living-related liver transplantation for congenital biliary atresia .",
+        "D001656\tDisease\tbiliary atresia\tWe report a case of acute renal failure after HD-MTX therapy in a patient with ileostomy , The patient was a 3-year-old boy who had received a living-related liver transplantation for congenital <target> biliary atresia </target> .",
+        "D008232\tDisease\tPTLD\tAt day 833 after the transplantation , he was diagnosed with <target> PTLD </target> ( post-transplantation lymphoproliferative disorder , Burkitt-type malignant lymphoma ) .",
+        "D008232\tDisease\tpost-transplantation lymphoproliferative disorder\tAt day 833 after the transplantation , he was diagnosed with PTLD ( <target> post-transplantation lymphoproliferative disorder </target> , Burkitt-type malignant lymphoma ) .",
+        "D002051\tDisease\tBurkitt-type malignant lymphoma\tAt day 833 after the transplantation , he was diagnosed with PTLD ( post-transplantation lymphoproliferative disorder , <target> Burkitt-type malignant lymphoma </target> ) .",
+        "D008727\tChemical\tMTX\tSubsequent HD- <target> MTX </target> therapy caused acute renal failure that required continuous hemodialysis .",
+        "D058186\tDisease\tacute renal failure\tSubsequent HD-MTX therapy caused <target> acute renal failure </target> that required continuous hemodialysis .",
+        "D020896\tDisease\thypovolemia\tWe supposed that intravascular <target> hypovolemia </target> due to substantial drainage from the ileostoma caused acute prerenal failure .",
+        "D008727\tChemical\tMTX\tAfter recovery of his renal function , we could safely treat the patient with HD- <target> MTX </target> therapy by controlling drainage from ileostoma with total parenteral nutrition ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> after high-dose methotrexate therapy in a patient with ileostomy .",
+        "D008727\tChemical\tmethotrexate\tacute renal failure after high-dose <target> methotrexate </target> therapy in a patient with ileostomy .",
+        "D008727\tChemical\tmethotrexate\thigh-dose <target> methotrexate </target> ( hd-mtx ) be an important treatment for burkitt lymphoma , but can cause hepatic and renal toxicity when its clearance be delay .",
+        "D008727\tChemical\tMTX\thigh-dose methotrexate ( hd- <target> mtx </target> ) be an important treatment for burkitt lymphoma , but can cause hepatic and renal toxicity when its clearance be delay .",
+        "D002051\tDisease\tBurkitt lymphoma\thigh-dose methotrexate ( hd-mtx ) be an important treatment for <target> burkitt lymphoma </target> , but can cause hepatic and renal toxicity when its clearance be delay .",
+        "D058186\tDisease\tacute renal failure\twe report a case of <target> acute renal failure </target> after hd-mtx therapy in a patient with ileostomy , the patient be a 3-year-old boy who have receive a living-related liver transplantation for congenital biliary atresia .",
+        "D008727\tChemical\tMTX\twe report a case of acute renal failure after hd- <target> mtx </target> therapy in a patient with ileostomy , the patient be a 3-year-old boy who have receive a living-related liver transplantation for congenital biliary atresia .",
+        "D001656\tDisease\tbiliary atresia\twe report a case of acute renal failure after hd-mtx therapy in a patient with ileostomy , the patient be a 3-year-old boy who have receive a living-related liver transplantation for congenital <target> biliary atresia </target> .",
+        "D008232\tDisease\tPTLD\tat day 833 after the transplantation , he be diagnose with <target> ptld </target> ( post-transplantation lymphoproliferative disorder , burkitt-type malignant lymphoma ) .",
+        "D008232\tDisease\tpost-transplantation lymphoproliferative disorder\tat day 833 after the transplantation , he be diagnose with ptld ( <target> post-transplantation lymphoproliferative disorder </target> , burkitt-type malignant lymphoma ) .",
+        "D002051\tDisease\tBurkitt-type malignant lymphoma\tat day 833 after the transplantation , he be diagnose with ptld ( post-transplantation lymphoproliferative disorder , <target> burkitt-type malignant lymphoma </target> ) .",
+        "D008727\tChemical\tMTX\tsubsequent hd- <target> mtx </target> therapy cause acute renal failure that require continuous hemodialysis .",
+        "D058186\tDisease\tacute renal failure\tsubsequent hd-mtx therapy cause <target> acute renal failure </target> that require continuous hemodialysis .",
+        "D020896\tDisease\thypovolemia\twe suppose that intravascular <target> hypovolemia </target> due to substantial drainage from the ileostoma cause acute prerenal failure .",
+        "D008727\tChemical\tMTX\tafter recovery of his renal function , we could safely treat the patient with hd- <target> mtx </target> therapy by control drainage from ileostoma with total parenteral nutrition ."
+    ]
+}

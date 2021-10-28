@@ -1,0 +1,167 @@
+{
+    "title": "Studies of risk factors for aminoglycoside nephrotoxicity.",
+    "abst": "The epidemiology of aminoglycoside-induced nephrotoxicity is not fully understood. Experimental studies in healthy human volunteers indicate aminoglycosides cause proximal tubular damage in most patients, but rarely, if ever, cause glomerular or tubular dysfunction. Clinical trials of aminoglycosides in seriously ill patients indicate that the relative risk for developing acute renal failure during therapy ranges from 8 to 10 and that the attributable risk is 70% to 80%. Further analysis of these data suggests that the duration of therapy, plasma aminoglycoside levels, liver disease, advanced age, high initial estimated creatinine clearance and, possibly, female gender all increase the risk for nephrotoxicity. Other causes of acute renal failure, such as shock, appear to have an additive effect. Predictive models have been developed from these analyses that should be useful for identifying patients at high risk. These models may also be useful in developing insights into the pathophysiology of aminoglycoside-induced nephrotoxicity.",
+    "title_plus_abst": "Studies of risk factors for aminoglycoside nephrotoxicity. The epidemiology of aminoglycoside-induced nephrotoxicity is not fully understood. Experimental studies in healthy human volunteers indicate aminoglycosides cause proximal tubular damage in most patients, but rarely, if ever, cause glomerular or tubular dysfunction. Clinical trials of aminoglycosides in seriously ill patients indicate that the relative risk for developing acute renal failure during therapy ranges from 8 to 10 and that the attributable risk is 70% to 80%. Further analysis of these data suggests that the duration of therapy, plasma aminoglycoside levels, liver disease, advanced age, high initial estimated creatinine clearance and, possibly, female gender all increase the risk for nephrotoxicity. Other causes of acute renal failure, such as shock, appear to have an additive effect. Predictive models have been developed from these analyses that should be useful for identifying patients at high risk. These models may also be useful in developing insights into the pathophysiology of aminoglycoside-induced nephrotoxicity.",
+    "pubmed_id": "3538855",
+    "entities": [
+        [
+            28,
+            42,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            43,
+            57,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            79,
+            93,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            102,
+            116,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            200,
+            215,
+            "aminoglycosides",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            291,
+            324,
+            "glomerular or tubular dysfunction",
+            "Disease",
+            "D007674"
+        ],
+        [
+            345,
+            360,
+            "aminoglycosides",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            434,
+            453,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            612,
+            626,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            635,
+            648,
+            "liver disease",
+            "Disease",
+            "D008107"
+        ],
+        [
+            687,
+            697,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            763,
+            777,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            795,
+            814,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            824,
+            829,
+            "shock",
+            "Disease",
+            "D012769"
+        ],
+        [
+            1068,
+            1082,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            1091,
+            1105,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Studies of risk factors for aminoglycoside nephrotoxicity.",
+        "The epidemiology of aminoglycoside-induced nephrotoxicity is not fully understood.",
+        "Experimental studies in healthy human volunteers indicate aminoglycosides cause proximal tubular damage in most patients, but rarely, if ever, cause glomerular or tubular dysfunction.",
+        "Clinical trials of aminoglycosides in seriously ill patients indicate that the relative risk for developing acute renal failure during therapy ranges from 8 to 10 and that the attributable risk is 70% to 80%.",
+        "Further analysis of these data suggests that the duration of therapy, plasma aminoglycoside levels, liver disease, advanced age, high initial estimated creatinine clearance and, possibly, female gender all increase the risk for nephrotoxicity.",
+        "Other causes of acute renal failure, such as shock, appear to have an additive effect.",
+        "Predictive models have been developed from these analyses that should be useful for identifying patients at high risk.",
+        "These models may also be useful in developing insights into the pathophysiology of aminoglycoside-induced nephrotoxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000617\tChemical\taminoglycoside\tStudies of risk factors for <target> aminoglycoside </target> nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tStudies of risk factors for aminoglycoside <target> nephrotoxicity </target> .",
+        "D000617\tChemical\taminoglycoside\tThe epidemiology of <target> aminoglycoside </target> -induced nephrotoxicity is not fully understood .",
+        "D007674\tDisease\tnephrotoxicity\tThe epidemiology of aminoglycoside-induced <target> nephrotoxicity </target> is not fully understood .",
+        "D000617\tChemical\taminoglycosides\tExperimental studies in healthy human volunteers indicate <target> aminoglycosides </target> cause proximal tubular damage in most patients , but rarely , if ever , cause glomerular or tubular dysfunction .",
+        "D007674\tDisease\tglomerular or tubular dysfunction\tExperimental studies in healthy human volunteers indicate aminoglycosides cause proximal tubular damage in most patients , but rarely , if ever , cause <target> glomerular or tubular dysfunction </target> .",
+        "D000617\tChemical\taminoglycosides\tClinical trials of <target> aminoglycosides </target> in seriously ill patients indicate that the relative risk for developing acute renal failure during therapy ranges from 8 to 10 and that the attributable risk is 70 % to 80 % .",
+        "D058186\tDisease\tacute renal failure\tClinical trials of aminoglycosides in seriously ill patients indicate that the relative risk for developing <target> acute renal failure </target> during therapy ranges from 8 to 10 and that the attributable risk is 70 % to 80 % .",
+        "D000617\tChemical\taminoglycoside\tFurther analysis of these data suggests that the duration of therapy , plasma <target> aminoglycoside </target> levels , liver disease , advanced age , high initial estimated creatinine clearance and , possibly , female gender all increase the risk for nephrotoxicity .",
+        "D008107\tDisease\tliver disease\tFurther analysis of these data suggests that the duration of therapy , plasma aminoglycoside levels , <target> liver disease </target> , advanced age , high initial estimated creatinine clearance and , possibly , female gender all increase the risk for nephrotoxicity .",
+        "D003404\tChemical\tcreatinine\tFurther analysis of these data suggests that the duration of therapy , plasma aminoglycoside levels , liver disease , advanced age , high initial estimated <target> creatinine </target> clearance and , possibly , female gender all increase the risk for nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tFurther analysis of these data suggests that the duration of therapy , plasma aminoglycoside levels , liver disease , advanced age , high initial estimated creatinine clearance and , possibly , female gender all increase the risk for <target> nephrotoxicity </target> .",
+        "D058186\tDisease\tacute renal failure\tOther causes of <target> acute renal failure </target> , such as shock , appear to have an additive effect .",
+        "D012769\tDisease\tshock\tOther causes of acute renal failure , such as <target> shock </target> , appear to have an additive effect .",
+        "D000617\tChemical\taminoglycoside\tThese models may also be useful in developing insights into the pathophysiology of <target> aminoglycoside </target> -induced nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tThese models may also be useful in developing insights into the pathophysiology of aminoglycoside-induced <target> nephrotoxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D000617\tChemical\taminoglycoside\tstudy of risk factor for <target> aminoglycoside </target> nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tstudy of risk factor for aminoglycoside <target> nephrotoxicity </target> .",
+        "D000617\tChemical\taminoglycoside\tthe epidemiology of <target> aminoglycoside </target> -induced nephrotoxicity be not fully understand .",
+        "D007674\tDisease\tnephrotoxicity\tthe epidemiology of aminoglycoside-induced <target> nephrotoxicity </target> be not fully understand .",
+        "D000617\tChemical\taminoglycosides\texperimental study in healthy human volunteer indicate <target> aminoglycoside </target> cause proximal tubular damage in most patient , but rarely , if ever , cause glomerular or tubular dysfunction .",
+        "D007674\tDisease\tglomerular or tubular dysfunction\texperimental study in healthy human volunteer indicate aminoglycoside cause proximal tubular damage in most patient , but rarely , if ever , cause <target> glomerular or tubular dysfunction </target> .",
+        "D000617\tChemical\taminoglycosides\tclinical trial of <target> aminoglycoside </target> in seriously ill patient indicate that the relative risk for develop acute renal failure during therapy range from 8 to 10 and that the attributable risk be 70 % to 80 % .",
+        "D058186\tDisease\tacute renal failure\tclinical trial of aminoglycoside in seriously ill patient indicate that the relative risk for develop <target> acute renal failure </target> during therapy range from 8 to 10 and that the attributable risk be 70 % to 80 % .",
+        "D000617\tChemical\taminoglycoside\tfurther analysis of these datum suggest that the duration of therapy , plasma <target> aminoglycoside </target> level , liver disease , advanced age , high initial estimate creatinine clearance and , possibly , female gender all increase the risk for nephrotoxicity .",
+        "D008107\tDisease\tliver disease\tfurther analysis of these datum suggest that the duration of therapy , plasma aminoglycoside level , <target> liver disease </target> , advanced age , high initial estimate creatinine clearance and , possibly , female gender all increase the risk for nephrotoxicity .",
+        "D003404\tChemical\tcreatinine\tfurther analysis of these datum suggest that the duration of therapy , plasma aminoglycoside level , liver disease , advanced age , high initial estimate <target> creatinine </target> clearance and , possibly , female gender all increase the risk for nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tfurther analysis of these datum suggest that the duration of therapy , plasma aminoglycoside level , liver disease , advanced age , high initial estimate creatinine clearance and , possibly , female gender all increase the risk for <target> nephrotoxicity </target> .",
+        "D058186\tDisease\tacute renal failure\tother cause of <target> acute renal failure </target> , such as shock , appear to have an additive effect .",
+        "D012769\tDisease\tshock\tother cause of acute renal failure , such as <target> shock </target> , appear to have an additive effect .",
+        "D000617\tChemical\taminoglycoside\tthese model may also be useful in develop insight into the pathophysiology of <target> aminoglycoside </target> -induced nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tthese model may also be useful in develop insight into the pathophysiology of aminoglycoside-induced <target> nephrotoxicity </target> ."
+    ]
+}

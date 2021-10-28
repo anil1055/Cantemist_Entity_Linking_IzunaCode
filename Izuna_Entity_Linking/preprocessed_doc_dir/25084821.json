@@ -1,0 +1,222 @@
+{
+    "title": "Quetiapine-induced neutropenia in a bipolar patient with hepatocellular carcinoma.",
+    "abst": "OBJECTIVE: Quetiapine is a dibenzothiazepine derivative, similar to clozapine, which has the highest risk of causing blood dyscrasias, especially neutropenia. There are some case reports about this side effect of quetiapine, but possible risk factors are seldom discussed and identified. A case of a patient with hepatocellular carcinoma that developed neutropenia after treatment with quetiapine is described here. CASE REPORT: A 62-year-old Taiwanese widow with bipolar disorder was diagnosed with hepatocellular carcinoma at age 60. She developed leucopenia after being treated with quetiapine. After quetiapine was discontinued, her white blood cell count returned to normal. CONCLUSIONS: Although neutropenia is not a common side effect of quetiapine, physicians should be cautious about its presentation and associated risk factors. Hepatic dysfunction may be one of the possible risk factors, and concomitant fever may be a diagnostic marker for adverse reaction to quetiapine.",
+    "title_plus_abst": "Quetiapine-induced neutropenia in a bipolar patient with hepatocellular carcinoma. OBJECTIVE: Quetiapine is a dibenzothiazepine derivative, similar to clozapine, which has the highest risk of causing blood dyscrasias, especially neutropenia. There are some case reports about this side effect of quetiapine, but possible risk factors are seldom discussed and identified. A case of a patient with hepatocellular carcinoma that developed neutropenia after treatment with quetiapine is described here. CASE REPORT: A 62-year-old Taiwanese widow with bipolar disorder was diagnosed with hepatocellular carcinoma at age 60. She developed leucopenia after being treated with quetiapine. After quetiapine was discontinued, her white blood cell count returned to normal. CONCLUSIONS: Although neutropenia is not a common side effect of quetiapine, physicians should be cautious about its presentation and associated risk factors. Hepatic dysfunction may be one of the possible risk factors, and concomitant fever may be a diagnostic marker for adverse reaction to quetiapine.",
+    "pubmed_id": "25084821",
+    "entities": [
+        [
+            0,
+            10,
+            "Quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            19,
+            30,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            36,
+            43,
+            "bipolar",
+            "Disease",
+            "D001714"
+        ],
+        [
+            57,
+            81,
+            "hepatocellular carcinoma",
+            "Disease",
+            "D006528"
+        ],
+        [
+            94,
+            104,
+            "Quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            151,
+            160,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            200,
+            216,
+            "blood dyscrasias",
+            "Disease",
+            "D006402"
+        ],
+        [
+            229,
+            240,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            296,
+            306,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            396,
+            420,
+            "hepatocellular carcinoma",
+            "Disease",
+            "D006528"
+        ],
+        [
+            436,
+            447,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            469,
+            479,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            547,
+            563,
+            "bipolar disorder",
+            "Disease",
+            "D001714"
+        ],
+        [
+            583,
+            607,
+            "hepatocellular carcinoma",
+            "Disease",
+            "D006528"
+        ],
+        [
+            633,
+            643,
+            "leucopenia",
+            "Disease",
+            "D007970"
+        ],
+        [
+            669,
+            679,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            687,
+            697,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            785,
+            796,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            828,
+            838,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ],
+        [
+            922,
+            941,
+            "Hepatic dysfunction",
+            "Disease",
+            "D008107"
+        ],
+        [
+            999,
+            1004,
+            "fever",
+            "Disease",
+            "D005334"
+        ],
+        [
+            1056,
+            1066,
+            "quetiapine",
+            "Chemical",
+            "C069541"
+        ]
+    ],
+    "split_sentence": [
+        "Quetiapine-induced neutropenia in a bipolar patient with hepatocellular carcinoma.",
+        "OBJECTIVE: Quetiapine is a dibenzothiazepine derivative, similar to clozapine, which has the highest risk of causing blood dyscrasias, especially neutropenia.",
+        "There are some case reports about this side effect of quetiapine, but possible risk factors are seldom discussed and identified.",
+        "A case of a patient with hepatocellular carcinoma that developed neutropenia after treatment with quetiapine is described here.",
+        "CASE REPORT: A 62-year-old Taiwanese widow with bipolar disorder was diagnosed with hepatocellular carcinoma at age 60.",
+        "She developed leucopenia after being treated with quetiapine.",
+        "After quetiapine was discontinued, her white blood cell count returned to normal.",
+        "CONCLUSIONS: Although neutropenia is not a common side effect of quetiapine, physicians should be cautious about its presentation and associated risk factors.",
+        "Hepatic dysfunction may be one of the possible risk factors, and concomitant fever may be a diagnostic marker for adverse reaction to quetiapine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C069541\tChemical\tQuetiapine\t<target> Quetiapine </target> -induced neutropenia in a bipolar patient with hepatocellular carcinoma .",
+        "D009503\tDisease\tneutropenia\tQuetiapine-induced <target> neutropenia </target> in a bipolar patient with hepatocellular carcinoma .",
+        "D001714\tDisease\tbipolar\tQuetiapine-induced neutropenia in a <target> bipolar </target> patient with hepatocellular carcinoma .",
+        "D006528\tDisease\thepatocellular carcinoma\tQuetiapine-induced neutropenia in a bipolar patient with <target> hepatocellular carcinoma </target> .",
+        "C069541\tChemical\tQuetiapine\tOBJECTIVE : <target> Quetiapine </target> is a dibenzothiazepine derivative , similar to clozapine , which has the highest risk of causing blood dyscrasias , especially neutropenia .",
+        "D003024\tChemical\tclozapine\tOBJECTIVE : Quetiapine is a dibenzothiazepine derivative , similar to <target> clozapine </target> , which has the highest risk of causing blood dyscrasias , especially neutropenia .",
+        "D006402\tDisease\tblood dyscrasias\tOBJECTIVE : Quetiapine is a dibenzothiazepine derivative , similar to clozapine , which has the highest risk of causing <target> blood dyscrasias </target> , especially neutropenia .",
+        "D009503\tDisease\tneutropenia\tOBJECTIVE : Quetiapine is a dibenzothiazepine derivative , similar to clozapine , which has the highest risk of causing blood dyscrasias , especially <target> neutropenia </target> .",
+        "C069541\tChemical\tquetiapine\tThere are some case reports about this side effect of <target> quetiapine </target> , but possible risk factors are seldom discussed and identified .",
+        "D006528\tDisease\thepatocellular carcinoma\tA case of a patient with <target> hepatocellular carcinoma </target> that developed neutropenia after treatment with quetiapine is described here .",
+        "D009503\tDisease\tneutropenia\tA case of a patient with hepatocellular carcinoma that developed <target> neutropenia </target> after treatment with quetiapine is described here .",
+        "C069541\tChemical\tquetiapine\tA case of a patient with hepatocellular carcinoma that developed neutropenia after treatment with <target> quetiapine </target> is described here .",
+        "D001714\tDisease\tbipolar disorder\tCASE REPORT : A 62-year-old Taiwanese widow with <target> bipolar disorder </target> was diagnosed with hepatocellular carcinoma at age 60 .",
+        "D006528\tDisease\thepatocellular carcinoma\tCASE REPORT : A 62-year-old Taiwanese widow with bipolar disorder was diagnosed with <target> hepatocellular carcinoma </target> at age 60 .",
+        "D007970\tDisease\tleucopenia\tShe developed <target> leucopenia </target> after being treated with quetiapine .",
+        "C069541\tChemical\tquetiapine\tShe developed leucopenia after being treated with <target> quetiapine </target> .",
+        "C069541\tChemical\tquetiapine\tAfter <target> quetiapine </target> was discontinued , her white blood cell count returned to normal .",
+        "D009503\tDisease\tneutropenia\tCONCLUSIONS : Although <target> neutropenia </target> is not a common side effect of quetiapine , physicians should be cautious about its presentation and associated risk factors .",
+        "C069541\tChemical\tquetiapine\tCONCLUSIONS : Although neutropenia is not a common side effect of <target> quetiapine </target> , physicians should be cautious about its presentation and associated risk factors .",
+        "D008107\tDisease\tHepatic dysfunction\t<target> Hepatic dysfunction </target> may be one of the possible risk factors , and concomitant fever may be a diagnostic marker for adverse reaction to quetiapine .",
+        "D005334\tDisease\tfever\tHepatic dysfunction may be one of the possible risk factors , and concomitant <target> fever </target> may be a diagnostic marker for adverse reaction to quetiapine .",
+        "C069541\tChemical\tquetiapine\tHepatic dysfunction may be one of the possible risk factors , and concomitant fever may be a diagnostic marker for adverse reaction to <target> quetiapine </target> ."
+    ],
+    "lines_lemma": [
+        "C069541\tChemical\tQuetiapine\t<target> Quetiapine </target> -induced neutropenia in a bipolar patient with hepatocellular carcinoma .",
+        "D009503\tDisease\tneutropenia\tquetiapine-induced <target> neutropenia </target> in a bipolar patient with hepatocellular carcinoma .",
+        "D001714\tDisease\tbipolar\tquetiapine-induced neutropenia in a <target> bipolar </target> patient with hepatocellular carcinoma .",
+        "D006528\tDisease\thepatocellular carcinoma\tquetiapine-induced neutropenia in a bipolar patient with <target> hepatocellular carcinoma </target> .",
+        "C069541\tChemical\tQuetiapine\tobjective : <target> Quetiapine </target> be a dibenzothiazepine derivative , similar to clozapine , which have the high risk of cause blood dyscrasia , especially neutropenia .",
+        "D003024\tChemical\tclozapine\tobjective : Quetiapine be a dibenzothiazepine derivative , similar to <target> clozapine </target> , which have the high risk of cause blood dyscrasia , especially neutropenia .",
+        "D006402\tDisease\tblood dyscrasias\tobjective : Quetiapine be a dibenzothiazepine derivative , similar to clozapine , which have the high risk of cause <target> blood dyscrasia </target> , especially neutropenia .",
+        "D009503\tDisease\tneutropenia\tobjective : Quetiapine be a dibenzothiazepine derivative , similar to clozapine , which have the high risk of cause blood dyscrasia , especially <target> neutropenia </target> .",
+        "C069541\tChemical\tquetiapine\tthere be some case report about this side effect of <target> quetiapine </target> , but possible risk factor be seldom discuss and identify .",
+        "D006528\tDisease\thepatocellular carcinoma\ta case of a patient with <target> hepatocellular carcinoma </target> that develop neutropenia after treatment with quetiapine be describe here .",
+        "D009503\tDisease\tneutropenia\ta case of a patient with hepatocellular carcinoma that develop <target> neutropenia </target> after treatment with quetiapine be describe here .",
+        "C069541\tChemical\tquetiapine\ta case of a patient with hepatocellular carcinoma that develop neutropenia after treatment with <target> quetiapine </target> be describe here .",
+        "D001714\tDisease\tbipolar disorder\tcase report : a 62-year-old taiwanese widow with <target> bipolar disorder </target> be diagnose with hepatocellular carcinoma at age 60 .",
+        "D006528\tDisease\thepatocellular carcinoma\tcase report : a 62-year-old taiwanese widow with bipolar disorder be diagnose with <target> hepatocellular carcinoma </target> at age 60 .",
+        "D007970\tDisease\tleucopenia\tshe develop <target> leucopenia </target> after be treat with quetiapine .",
+        "C069541\tChemical\tquetiapine\tshe develop leucopenia after be treat with <target> quetiapine </target> .",
+        "C069541\tChemical\tquetiapine\tafter <target> quetiapine </target> be discontinue , her white blood cell count return to normal .",
+        "D009503\tDisease\tneutropenia\tconclusion : although <target> neutropenia </target> be not a common side effect of quetiapine , physician should be cautious about its presentation and associate risk factor .",
+        "C069541\tChemical\tquetiapine\tconclusion : although neutropenia be not a common side effect of <target> quetiapine </target> , physician should be cautious about its presentation and associate risk factor .",
+        "D008107\tDisease\tHepatic dysfunction\t<target> hepatic dysfunction </target> may be one of the possible risk factor , and concomitant fever may be a diagnostic marker for adverse reaction to quetiapine .",
+        "D005334\tDisease\tfever\thepatic dysfunction may be one of the possible risk factor , and concomitant <target> fever </target> may be a diagnostic marker for adverse reaction to quetiapine .",
+        "C069541\tChemical\tquetiapine\thepatic dysfunction may be one of the possible risk factor , and concomitant fever may be a diagnostic marker for adverse reaction to <target> quetiapine </target> ."
+    ]
+}

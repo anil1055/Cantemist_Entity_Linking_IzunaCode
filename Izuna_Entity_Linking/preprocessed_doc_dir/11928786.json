@@ -1,0 +1,225 @@
+{
+    "title": "Bupropion (Zyban) toxicity.",
+    "abst": "Bupropion is a monocyclic antidepressant structurally related to amphetamine. Zyban, a sustained-release formulation of bupropion hydrochloride, was recently released in Ireland, as a smoking cessation aid. In the initial 6 months since it's introduction, 12 overdose cases have been reported to The National Poisons Information Centre. 8 patients developed symptoms of toxicity. Common features included tachycardia, drowsiness, hallucinations and convulsions. Two patients developed severe cardiac arrhythmias, including one patient who was resuscitated following a cardiac arrest. All patients recovered without sequelae. We report a case of a 31 year old female who required admission to the Intensive Care Unit for ventilation and full supportive therapy, following ingestion of 13.5g bupropion. Recurrent seizures were treated with diazepam and broad complex tachycardia was successfully treated with adenosine. Zyban caused significant neurological and cardiovascular toxicity in overdose. The potential toxic effects should be considered when prescribing it as a smoking cessation aid.",
+    "title_plus_abst": "Bupropion (Zyban) toxicity. Bupropion is a monocyclic antidepressant structurally related to amphetamine. Zyban, a sustained-release formulation of bupropion hydrochloride, was recently released in Ireland, as a smoking cessation aid. In the initial 6 months since it's introduction, 12 overdose cases have been reported to The National Poisons Information Centre. 8 patients developed symptoms of toxicity. Common features included tachycardia, drowsiness, hallucinations and convulsions. Two patients developed severe cardiac arrhythmias, including one patient who was resuscitated following a cardiac arrest. All patients recovered without sequelae. We report a case of a 31 year old female who required admission to the Intensive Care Unit for ventilation and full supportive therapy, following ingestion of 13.5g bupropion. Recurrent seizures were treated with diazepam and broad complex tachycardia was successfully treated with adenosine. Zyban caused significant neurological and cardiovascular toxicity in overdose. The potential toxic effects should be considered when prescribing it as a smoking cessation aid.",
+    "pubmed_id": "11928786",
+    "entities": [
+        [
+            0,
+            9,
+            "Bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            11,
+            16,
+            "Zyban",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            18,
+            26,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            28,
+            37,
+            "Bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            54,
+            68,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            93,
+            104,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            106,
+            111,
+            "Zyban",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            148,
+            171,
+            "bupropion hydrochloride",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            287,
+            295,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            398,
+            406,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            433,
+            444,
+            "tachycardia",
+            "Disease",
+            "D013610"
+        ],
+        [
+            458,
+            472,
+            "hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            477,
+            488,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            520,
+            539,
+            "cardiac arrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            596,
+            610,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            818,
+            827,
+            "bupropion",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            839,
+            847,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            866,
+            874,
+            "diazepam",
+            "Chemical",
+            "D003975"
+        ],
+        [
+            893,
+            904,
+            "tachycardia",
+            "Disease",
+            "D013610"
+        ],
+        [
+            935,
+            944,
+            "adenosine",
+            "Chemical",
+            "D000241"
+        ],
+        [
+            946,
+            951,
+            "Zyban",
+            "Chemical",
+            "D016642"
+        ],
+        [
+            1015,
+            1023,
+            "overdose",
+            "Disease",
+            "D062787"
+        ]
+    ],
+    "split_sentence": [
+        "Bupropion (Zyban) toxicity.",
+        "Bupropion is a monocyclic antidepressant structurally related to amphetamine.",
+        "Zyban, a sustained-release formulation of bupropion hydrochloride, was recently released in Ireland, as a smoking cessation aid.",
+        "In the initial 6 months since it's introduction, 12 overdose cases have been reported to The National Poisons Information Centre.",
+        "8 patients developed symptoms of toxicity.",
+        "Common features included tachycardia, drowsiness, hallucinations and convulsions.",
+        "Two patients developed severe cardiac arrhythmias, including one patient who was resuscitated following a cardiac arrest.",
+        "All patients recovered without sequelae.",
+        "We report a case of a 31 year old female who required admission to the Intensive Care Unit for ventilation and full supportive therapy, following ingestion of 13.5g bupropion.",
+        "Recurrent seizures were treated with diazepam and broad complex tachycardia was successfully treated with adenosine.",
+        "Zyban caused significant neurological and cardiovascular toxicity in overdose.",
+        "The potential toxic effects should be considered when prescribing it as a smoking cessation aid."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016642\tChemical\tBupropion\t<target> Bupropion </target> ( Zyban ) toxicity .",
+        "D016642\tChemical\tZyban\tBupropion ( <target> Zyban </target> ) toxicity .",
+        "D064420\tDisease\ttoxicity\tBupropion ( Zyban ) <target> toxicity </target> .",
+        "D016642\tChemical\tBupropion\t<target> Bupropion </target> is a monocyclic antidepressant structurally related to amphetamine .",
+        "D000928\tChemical\tantidepressant\tBupropion is a monocyclic <target> antidepressant </target> structurally related to amphetamine .",
+        "D000661\tChemical\tamphetamine\tBupropion is a monocyclic antidepressant structurally related to <target> amphetamine </target> .",
+        "D016642\tChemical\tZyban\t<target> Zyban </target> , a sustained-release formulation of bupropion hydrochloride , was recently released in Ireland , as a smoking cessation aid .",
+        "D016642\tChemical\tbupropion hydrochloride\tZyban , a sustained-release formulation of <target> bupropion hydrochloride </target> , was recently released in Ireland , as a smoking cessation aid .",
+        "D062787\tDisease\toverdose\tIn the initial 6 months since it 's introduction , 12 <target> overdose </target> cases have been reported to The National Poisons Information Centre .",
+        "D064420\tDisease\ttoxicity\t8 patients developed symptoms of <target> toxicity </target> .",
+        "D013610\tDisease\ttachycardia\tCommon features included <target> tachycardia </target> , drowsiness , hallucinations and convulsions .",
+        "D006212\tDisease\thallucinations\tCommon features included tachycardia , drowsiness , <target> hallucinations </target> and convulsions .",
+        "D012640\tDisease\tconvulsions\tCommon features included tachycardia , drowsiness , hallucinations and <target> convulsions </target> .",
+        "D001145\tDisease\tcardiac arrhythmias\tTwo patients developed severe <target> cardiac arrhythmias </target> , including one patient who was resuscitated following a cardiac arrest .",
+        "D006323\tDisease\tcardiac arrest\tTwo patients developed severe cardiac arrhythmias , including one patient who was resuscitated following a <target> cardiac arrest </target> .",
+        "D016642\tChemical\tbupropion\tWe report a case of a 31 year old female who required admission to the Intensive Care Unit for ventilation and full supportive therapy , following ingestion of 13.5 g <target> bupropion </target> .",
+        "D012640\tDisease\tseizures\tRecurrent <target> seizures </target> were treated with diazepam and broad complex tachycardia was successfully treated with adenosine .",
+        "D003975\tChemical\tdiazepam\tRecurrent seizures were treated with <target> diazepam </target> and broad complex tachycardia was successfully treated with adenosine .",
+        "D013610\tDisease\ttachycardia\tRecurrent seizures were treated with diazepam and broad complex <target> tachycardia </target> was successfully treated with adenosine .",
+        "D000241\tChemical\tadenosine\tRecurrent seizures were treated with diazepam and broad complex tachycardia was successfully treated with <target> adenosine </target> .",
+        "D016642\tChemical\tZyban\t<target> Zyban </target> caused significant neurological and cardiovascular toxicity in overdose .",
+        "D062787\tDisease\toverdose\tZyban caused significant neurological and cardiovascular toxicity in <target> overdose </target> ."
+    ],
+    "lines_lemma": [
+        "D016642\tChemical\tBupropion\t<target> bupropion </target> ( zyban ) toxicity .",
+        "D016642\tChemical\tZyban\tbupropion ( <target> Zyban </target> ) toxicity .",
+        "D064420\tDisease\ttoxicity\tbupropion ( Zyban ) <target> toxicity </target> .",
+        "D016642\tChemical\tBupropion\t<target> bupropion </target> be a monocyclic antidepressant structurally related to amphetamine .",
+        "D000928\tChemical\tantidepressant\tbupropion be a monocyclic <target> antidepressant </target> structurally related to amphetamine .",
+        "D000661\tChemical\tamphetamine\tbupropion be a monocyclic antidepressant structurally related to <target> amphetamine </target> .",
+        "D016642\tChemical\tZyban\t<target> Zyban </target> , a sustained-release formulation of bupropion hydrochloride , be recently release in Ireland , as a smoking cessation aid .",
+        "D016642\tChemical\tbupropion hydrochloride\tZyban , a sustained-release formulation of <target> bupropion hydrochloride </target> , be recently release in Ireland , as a smoking cessation aid .",
+        "D062787\tDisease\toverdose\tin the initial 6 month since it be introduction , 12 <target> overdose </target> case have be report to the National Poisons Information Centre .",
+        "D064420\tDisease\ttoxicity\t8 patient develop symptom of <target> toxicity </target> .",
+        "D013610\tDisease\ttachycardia\tcommon feature include <target> tachycardia </target> , drowsiness , hallucination and convulsion .",
+        "D006212\tDisease\thallucinations\tcommon feature include tachycardia , drowsiness , <target> hallucination </target> and convulsion .",
+        "D012640\tDisease\tconvulsions\tcommon feature include tachycardia , drowsiness , hallucination and <target> convulsion </target> .",
+        "D001145\tDisease\tcardiac arrhythmias\ttwo patient develop severe <target> cardiac arrhythmia </target> , include one patient who be resuscitate follow a cardiac arrest .",
+        "D006323\tDisease\tcardiac arrest\ttwo patient develop severe cardiac arrhythmia , include one patient who be resuscitate follow a <target> cardiac arrest </target> .",
+        "D016642\tChemical\tbupropion\twe report a case of a 31 year old female who require admission to the Intensive Care Unit for ventilation and full supportive therapy , follow ingestion of 13.5 g <target> bupropion </target> .",
+        "D012640\tDisease\tseizures\tRecurrent <target> seizure </target> be treat with diazepam and broad complex tachycardia be successfully treat with adenosine .",
+        "D003975\tChemical\tdiazepam\trecurrent seizure be treat with <target> diazepam </target> and broad complex tachycardia be successfully treat with adenosine .",
+        "D013610\tDisease\ttachycardia\trecurrent seizure be treat with diazepam and broad complex <target> tachycardia </target> be successfully treat with adenosine .",
+        "D000241\tChemical\tadenosine\trecurrent seizure be treat with diazepam and broad complex tachycardia be successfully treat with <target> adenosine </target> .",
+        "D016642\tChemical\tZyban\t<target> Zyban </target> cause significant neurological and cardiovascular toxicity in overdose .",
+        "D062787\tDisease\toverdose\tZyban cause significant neurological and cardiovascular toxicity in <target> overdose </target> ."
+    ]
+}

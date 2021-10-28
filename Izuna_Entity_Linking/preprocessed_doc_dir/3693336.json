@@ -1,0 +1,119 @@
+{
+    "title": "Triazolam-induced brief episodes of secondary mania in a depressed patient.",
+    "abst": "Large doses of triazolam repeatedly induced brief episodes of mania in a depressed elderly woman. Features of organic mental disorder (delirium) were not present. Manic excitement was coincident with the duration of action of triazolam. The possible contribution of the triazolo group to changes in affective status is discussed.",
+    "title_plus_abst": "Triazolam-induced brief episodes of secondary mania in a depressed patient. Large doses of triazolam repeatedly induced brief episodes of mania in a depressed elderly woman. Features of organic mental disorder (delirium) were not present. Manic excitement was coincident with the duration of action of triazolam. The possible contribution of the triazolo group to changes in affective status is discussed.",
+    "pubmed_id": "3693336",
+    "entities": [
+        [
+            0,
+            9,
+            "Triazolam",
+            "Chemical",
+            "D014229"
+        ],
+        [
+            46,
+            51,
+            "mania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            57,
+            66,
+            "depressed",
+            "Disease",
+            "D003866"
+        ],
+        [
+            91,
+            100,
+            "triazolam",
+            "Chemical",
+            "D014229"
+        ],
+        [
+            138,
+            143,
+            "mania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            149,
+            158,
+            "depressed",
+            "Disease",
+            "D003866"
+        ],
+        [
+            186,
+            209,
+            "organic mental disorder",
+            "Disease",
+            "D019965"
+        ],
+        [
+            211,
+            219,
+            "delirium",
+            "Disease",
+            "D003693"
+        ],
+        [
+            239,
+            244,
+            "Manic",
+            "Disease",
+            "D001714"
+        ],
+        [
+            302,
+            311,
+            "triazolam",
+            "Chemical",
+            "D014229"
+        ],
+        [
+            346,
+            354,
+            "triazolo",
+            "Chemical",
+            "D014229"
+        ]
+    ],
+    "split_sentence": [
+        "Triazolam-induced brief episodes of secondary mania in a depressed patient.",
+        "Large doses of triazolam repeatedly induced brief episodes of mania in a depressed elderly woman.",
+        "Features of organic mental disorder (delirium) were not present.",
+        "Manic excitement was coincident with the duration of action of triazolam.",
+        "The possible contribution of the triazolo group to changes in affective status is discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014229\tChemical\tTriazolam\t<target> Triazolam </target> -induced brief episodes of secondary mania in a depressed patient .",
+        "D001714\tDisease\tmania\tTriazolam-induced brief episodes of secondary <target> mania </target> in a depressed patient .",
+        "D003866\tDisease\tdepressed\tTriazolam-induced brief episodes of secondary mania in a <target> depressed </target> patient .",
+        "D014229\tChemical\ttriazolam\tLarge doses of <target> triazolam </target> repeatedly induced brief episodes of mania in a depressed elderly woman .",
+        "D001714\tDisease\tmania\tLarge doses of triazolam repeatedly induced brief episodes of <target> mania </target> in a depressed elderly woman .",
+        "D003866\tDisease\tdepressed\tLarge doses of triazolam repeatedly induced brief episodes of mania in a <target> depressed </target> elderly woman .",
+        "D019965\tDisease\torganic mental disorder\tFeatures of <target> organic mental disorder </target> ( delirium ) were not present .",
+        "D003693\tDisease\tdelirium\tFeatures of organic mental disorder ( <target> delirium </target> ) were not present .",
+        "D001714\tDisease\tManic\t<target> Manic </target> excitement was coincident with the duration of action of triazolam .",
+        "D014229\tChemical\ttriazolam\tManic excitement was coincident with the duration of action of <target> triazolam </target> .",
+        "D014229\tChemical\ttriazolo\tThe possible contribution of the <target> triazolo </target> group to changes in affective status is discussed ."
+    ],
+    "lines_lemma": [
+        "D014229\tChemical\tTriazolam\t<target> Triazolam </target> -induced brief episode of secondary mania in a depressed patient .",
+        "D001714\tDisease\tmania\ttriazolam-induced brief episode of secondary <target> mania </target> in a depressed patient .",
+        "D003866\tDisease\tdepressed\ttriazolam-induced brief episode of secondary mania in a <target> depressed </target> patient .",
+        "D014229\tChemical\ttriazolam\tlarge dose of <target> triazolam </target> repeatedly induce brief episode of mania in a depressed elderly woman .",
+        "D001714\tDisease\tmania\tlarge dose of triazolam repeatedly induce brief episode of <target> mania </target> in a depressed elderly woman .",
+        "D003866\tDisease\tdepressed\tlarge dose of triazolam repeatedly induce brief episode of mania in a <target> depressed </target> elderly woman .",
+        "D019965\tDisease\torganic mental disorder\tfeature of <target> organic mental disorder </target> ( delirium ) be not present .",
+        "D003693\tDisease\tdelirium\tfeature of organic mental disorder ( <target> delirium </target> ) be not present .",
+        "D001714\tDisease\tManic\t<target> manic </target> excitement be coincident with the duration of action of triazolam .",
+        "D014229\tChemical\ttriazolam\tmanic excitement be coincident with the duration of action of <target> triazolam </target> .",
+        "D014229\tChemical\ttriazolo\tthe possible contribution of the <target> triazolo </target> group to change in affective status be discuss ."
+    ]
+}

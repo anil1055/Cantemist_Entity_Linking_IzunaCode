@@ -1,0 +1,113 @@
+{
+    "title": "Rat extraocular muscle regeneration. Repair of local anesthetic-induced damage.",
+    "abst": "Local anesthetics that are commonly used in ophthalmic surgery (0.75% bupivacaine hydrochloride, 2.0% mepivacaine hydrochloride, and 2.0% lidocaine hydrochloride plus 1:100,000 epinephrine) were injected into the retrobulbar area of rat eyes. Controls were injected with physiological saline. All three anesthetics produced massive degeneration of the extraocular muscles. Muscle degeneration is followed by regeneration of the damaged muscle fibers. In addition to muscle damage, severe damage was also seen in harderian glands, especially after exposure to mepivacaine and lidocaine plus epinephrine. With these findings in rats, it is hypothesized that the temporary diplopia sometimes seen in patients after ophthalmic surgery might be due to anesthetic-induced damage to the extraocular muscles.",
+    "title_plus_abst": "Rat extraocular muscle regeneration. Repair of local anesthetic-induced damage. Local anesthetics that are commonly used in ophthalmic surgery (0.75% bupivacaine hydrochloride, 2.0% mepivacaine hydrochloride, and 2.0% lidocaine hydrochloride plus 1:100,000 epinephrine) were injected into the retrobulbar area of rat eyes. Controls were injected with physiological saline. All three anesthetics produced massive degeneration of the extraocular muscles. Muscle degeneration is followed by regeneration of the damaged muscle fibers. In addition to muscle damage, severe damage was also seen in harderian glands, especially after exposure to mepivacaine and lidocaine plus epinephrine. With these findings in rats, it is hypothesized that the temporary diplopia sometimes seen in patients after ophthalmic surgery might be due to anesthetic-induced damage to the extraocular muscles.",
+    "pubmed_id": "4038130",
+    "entities": [
+        [
+            150,
+            175,
+            "bupivacaine hydrochloride",
+            "Chemical",
+            "D002045"
+        ],
+        [
+            182,
+            207,
+            "mepivacaine hydrochloride",
+            "Chemical",
+            "D008619"
+        ],
+        [
+            218,
+            241,
+            "lidocaine hydrochloride",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            257,
+            268,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            453,
+            472,
+            "Muscle degeneration",
+            "Disease",
+            "D009135"
+        ],
+        [
+            546,
+            559,
+            "muscle damage",
+            "Disease",
+            "D009135"
+        ],
+        [
+            639,
+            650,
+            "mepivacaine",
+            "Chemical",
+            "D008619"
+        ],
+        [
+            655,
+            664,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            670,
+            681,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            750,
+            758,
+            "diplopia",
+            "Disease",
+            "D004172"
+        ]
+    ],
+    "split_sentence": [
+        "Rat extraocular muscle regeneration.",
+        "Repair of local anesthetic-induced damage.",
+        "Local anesthetics that are commonly used in ophthalmic surgery (0.75% bupivacaine hydrochloride, 2.0% mepivacaine hydrochloride, and 2.0% lidocaine hydrochloride plus 1:100,000 epinephrine) were injected into the retrobulbar area of rat eyes.",
+        "Controls were injected with physiological saline.",
+        "All three anesthetics produced massive degeneration of the extraocular muscles.",
+        "Muscle degeneration is followed by regeneration of the damaged muscle fibers.",
+        "In addition to muscle damage, severe damage was also seen in harderian glands, especially after exposure to mepivacaine and lidocaine plus epinephrine.",
+        "With these findings in rats, it is hypothesized that the temporary diplopia sometimes seen in patients after ophthalmic surgery might be due to anesthetic-induced damage to the extraocular muscles."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002045\tChemical\tbupivacaine hydrochloride\tLocal anesthetics that are commonly used in ophthalmic surgery ( 0.75 % <target> bupivacaine hydrochloride </target> , 2.0 % mepivacaine hydrochloride , and 2.0 % lidocaine hydrochloride plus 1:100,000 epinephrine ) were injected into the retrobulbar area of rat eyes .",
+        "D008619\tChemical\tmepivacaine hydrochloride\tLocal anesthetics that are commonly used in ophthalmic surgery ( 0.75 % bupivacaine hydrochloride , 2.0 % <target> mepivacaine hydrochloride </target> , and 2.0 % lidocaine hydrochloride plus 1:100,000 epinephrine ) were injected into the retrobulbar area of rat eyes .",
+        "D008012\tChemical\tlidocaine hydrochloride\tLocal anesthetics that are commonly used in ophthalmic surgery ( 0.75 % bupivacaine hydrochloride , 2.0 % mepivacaine hydrochloride , and 2.0 % <target> lidocaine hydrochloride </target> plus 1:100,000 epinephrine ) were injected into the retrobulbar area of rat eyes .",
+        "D004837\tChemical\tepinephrine\tLocal anesthetics that are commonly used in ophthalmic surgery ( 0.75 % bupivacaine hydrochloride , 2.0 % mepivacaine hydrochloride , and 2.0 % lidocaine hydrochloride plus 1:100,000 <target> epinephrine </target> ) were injected into the retrobulbar area of rat eyes .",
+        "D009135\tDisease\tMuscle degeneration\t<target> Muscle degeneration </target> is followed by regeneration of the damaged muscle fibers .",
+        "D009135\tDisease\tmuscle damage\tIn addition to <target> muscle damage </target> , severe damage was also seen in harderian glands , especially after exposure to mepivacaine and lidocaine plus epinephrine .",
+        "D008619\tChemical\tmepivacaine\tIn addition to muscle damage , severe damage was also seen in harderian glands , especially after exposure to <target> mepivacaine </target> and lidocaine plus epinephrine .",
+        "D008012\tChemical\tlidocaine\tIn addition to muscle damage , severe damage was also seen in harderian glands , especially after exposure to mepivacaine and <target> lidocaine </target> plus epinephrine .",
+        "D004837\tChemical\tepinephrine\tIn addition to muscle damage , severe damage was also seen in harderian glands , especially after exposure to mepivacaine and lidocaine plus <target> epinephrine </target> .",
+        "D004172\tDisease\tdiplopia\tWith these findings in rats , it is hypothesized that the temporary <target> diplopia </target> sometimes seen in patients after ophthalmic surgery might be due to anesthetic-induced damage to the extraocular muscles ."
+    ],
+    "lines_lemma": [
+        "D002045\tChemical\tbupivacaine hydrochloride\tlocal anesthetic that be commonly use in ophthalmic surgery ( 0.75 % <target> bupivacaine hydrochloride </target> , 2.0 % mepivacaine hydrochloride , and 2.0 % lidocaine hydrochloride plus 1:100,000 epinephrine ) be inject into the retrobulbar area of rat eye .",
+        "D008619\tChemical\tmepivacaine hydrochloride\tlocal anesthetic that be commonly use in ophthalmic surgery ( 0.75 % bupivacaine hydrochloride , 2.0 % <target> mepivacaine hydrochloride </target> , and 2.0 % lidocaine hydrochloride plus 1:100,000 epinephrine ) be inject into the retrobulbar area of rat eye .",
+        "D008012\tChemical\tlidocaine hydrochloride\tlocal anesthetic that be commonly use in ophthalmic surgery ( 0.75 % bupivacaine hydrochloride , 2.0 % mepivacaine hydrochloride , and 2.0 % <target> lidocaine hydrochloride </target> plus 1:100,000 epinephrine ) be inject into the retrobulbar area of rat eye .",
+        "D004837\tChemical\tepinephrine\tlocal anesthetic that be commonly use in ophthalmic surgery ( 0.75 % bupivacaine hydrochloride , 2.0 % mepivacaine hydrochloride , and 2.0 % lidocaine hydrochloride plus 1:100,000 <target> epinephrine </target> ) be inject into the retrobulbar area of rat eye .",
+        "D009135\tDisease\tMuscle degeneration\t<target> muscle degeneration </target> be follow by regeneration of the damage muscle fiber .",
+        "D009135\tDisease\tmuscle damage\tin addition to <target> muscle damage </target> , severe damage be also see in harderian gland , especially after exposure to mepivacaine and lidocaine plus epinephrine .",
+        "D008619\tChemical\tmepivacaine\tin addition to muscle damage , severe damage be also see in harderian gland , especially after exposure to <target> mepivacaine </target> and lidocaine plus epinephrine .",
+        "D008012\tChemical\tlidocaine\tin addition to muscle damage , severe damage be also see in harderian gland , especially after exposure to mepivacaine and <target> lidocaine </target> plus epinephrine .",
+        "D004837\tChemical\tepinephrine\tin addition to muscle damage , severe damage be also see in harderian gland , especially after exposure to mepivacaine and lidocaine plus <target> epinephrine </target> .",
+        "D004172\tDisease\tdiplopia\twith these finding in rat , it be hypothesize that the temporary <target> diplopia </target> sometimes see in patient after ophthalmic surgery might be due to anesthetic-induced damage to the extraocular muscle ."
+    ]
+}

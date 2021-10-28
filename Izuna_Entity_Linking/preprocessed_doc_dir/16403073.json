@@ -1,0 +1,147 @@
+{
+    "title": "Ketoconazole induced torsades de pointes without concomitant use of QT interval-prolonging drug.",
+    "abst": "Ketoconazole is not known to be proarrhythmic without concomitant use of QT interval-prolonging drugs. We report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes (TdP) after taking ketoconazole for treatment of fungal infection. Her QT interval returned to normal upon withdrawal of ketoconazole. Genetic study did not find any mutation in her genes that encode cardiac IKr channel proteins. We postulate that by virtue of its direct blocking action on IKr, ketoconazole alone may prolong QT interval and induce TdP. This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome.",
+    "title_plus_abst": "Ketoconazole induced torsades de pointes without concomitant use of QT interval-prolonging drug. Ketoconazole is not known to be proarrhythmic without concomitant use of QT interval-prolonging drugs. We report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes (TdP) after taking ketoconazole for treatment of fungal infection. Her QT interval returned to normal upon withdrawal of ketoconazole. Genetic study did not find any mutation in her genes that encode cardiac IKr channel proteins. We postulate that by virtue of its direct blocking action on IKr, ketoconazole alone may prolong QT interval and induce TdP. This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome.",
+    "pubmed_id": "16403073",
+    "entities": [
+        [
+            0,
+            12,
+            "Ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            21,
+            40,
+            "torsades de pointes",
+            "Disease",
+            "D016171"
+        ],
+        [
+            97,
+            109,
+            "Ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            223,
+            246,
+            "coronary artery disease",
+            "Disease",
+            "D003324"
+        ],
+        [
+            272,
+            293,
+            "prolonged QT interval",
+            "Disease",
+            "D008133"
+        ],
+        [
+            298,
+            317,
+            "torsades de pointes",
+            "Disease",
+            "D016171"
+        ],
+        [
+            319,
+            322,
+            "TdP",
+            "Disease",
+            "D016171"
+        ],
+        [
+            337,
+            349,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            367,
+            383,
+            "fungal infection",
+            "Disease",
+            "D009181"
+        ],
+        [
+            439,
+            451,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            614,
+            626,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            668,
+            671,
+            "TdP",
+            "Disease",
+            "D016171"
+        ],
+        [
+            703,
+            715,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            775,
+            791,
+            "long QT syndrome",
+            "Disease",
+            "D008133"
+        ]
+    ],
+    "split_sentence": [
+        "Ketoconazole induced torsades de pointes without concomitant use of QT interval-prolonging drug.",
+        "Ketoconazole is not known to be proarrhythmic without concomitant use of QT interval-prolonging drugs.",
+        "We report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes (TdP) after taking ketoconazole for treatment of fungal infection.",
+        "Her QT interval returned to normal upon withdrawal of ketoconazole.",
+        "Genetic study did not find any mutation in her genes that encode cardiac IKr channel proteins.",
+        "We postulate that by virtue of its direct blocking action on IKr, ketoconazole alone may prolong QT interval and induce TdP. This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007654\tChemical\tKetoconazole\t<target> Ketoconazole </target> induced torsades de pointes without concomitant use of QT interval-prolonging drug .",
+        "D016171\tDisease\ttorsades de pointes\tKetoconazole induced <target> torsades de pointes </target> without concomitant use of QT interval-prolonging drug .",
+        "D007654\tChemical\tKetoconazole\t<target> Ketoconazole </target> is not known to be proarrhythmic without concomitant use of QT interval-prolonging drugs .",
+        "D003324\tDisease\tcoronary artery disease\tWe report a woman with <target> coronary artery disease </target> who developed a markedly prolonged QT interval and torsades de pointes ( TdP ) after taking ketoconazole for treatment of fungal infection .",
+        "D008133\tDisease\tprolonged QT interval\tWe report a woman with coronary artery disease who developed a markedly <target> prolonged QT interval </target> and torsades de pointes ( TdP ) after taking ketoconazole for treatment of fungal infection .",
+        "D016171\tDisease\ttorsades de pointes\tWe report a woman with coronary artery disease who developed a markedly prolonged QT interval and <target> torsades de pointes </target> ( TdP ) after taking ketoconazole for treatment of fungal infection .",
+        "D016171\tDisease\tTdP\tWe report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes ( <target> TdP </target> ) after taking ketoconazole for treatment of fungal infection .",
+        "D007654\tChemical\tketoconazole\tWe report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes ( TdP ) after taking <target> ketoconazole </target> for treatment of fungal infection .",
+        "D009181\tDisease\tfungal infection\tWe report a woman with coronary artery disease who developed a markedly prolonged QT interval and torsades de pointes ( TdP ) after taking ketoconazole for treatment of <target> fungal infection </target> .",
+        "D007654\tChemical\tketoconazole\tHer QT interval returned to normal upon withdrawal of <target> ketoconazole </target> .",
+        "D007654\tChemical\tketoconazole\tWe postulate that by virtue of its direct blocking action on IKr , <target> ketoconazole </target> alone may prolong QT interval and induce TdP. This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome .",
+        "D016171\tDisease\tTdP\tWe postulate that by virtue of its direct blocking action on IKr , ketoconazole alone may prolong QT interval and induce <target> TdP </target> . This calls for attention when ketoconazole is administered to patients with risk factors for acquired long QT syndrome .",
+        "D007654\tChemical\tketoconazole\tWe postulate that by virtue of its direct blocking action on IKr , ketoconazole alone may prolong QT interval and induce TdP. This calls for attention when <target> ketoconazole </target> is administered to patients with risk factors for acquired long QT syndrome .",
+        "D008133\tDisease\tlong QT syndrome\tWe postulate that by virtue of its direct blocking action on IKr , ketoconazole alone may prolong QT interval and induce TdP. This calls for attention when ketoconazole is administered to patients with risk factors for acquired <target> long QT syndrome </target> ."
+    ],
+    "lines_lemma": [
+        "D007654\tChemical\tKetoconazole\t<target> Ketoconazole </target> induce torsade de pointe without concomitant use of qt interval-prolonging drug .",
+        "D016171\tDisease\ttorsades de pointes\tKetoconazole induce <target> torsade de pointe </target> without concomitant use of qt interval-prolonging drug .",
+        "D007654\tChemical\tKetoconazole\t<target> Ketoconazole </target> be not know to be proarrhythmic without concomitant use of qt interval-prolonging drug .",
+        "D003324\tDisease\tcoronary artery disease\twe report a woman with <target> coronary artery disease </target> who develop a markedly prolonged qt interval and torsade de pointe ( tdp ) after take ketoconazole for treatment of fungal infection .",
+        "D008133\tDisease\tprolonged QT interval\twe report a woman with coronary artery disease who develop a markedly <target> prolonged qt interval </target> and torsade de pointe ( tdp ) after take ketoconazole for treatment of fungal infection .",
+        "D016171\tDisease\ttorsades de pointes\twe report a woman with coronary artery disease who develop a markedly prolonged qt interval and <target> torsade de pointe </target> ( tdp ) after take ketoconazole for treatment of fungal infection .",
+        "D016171\tDisease\tTdP\twe report a woman with coronary artery disease who develop a markedly prolonged qt interval and torsade de pointe ( <target> tdp </target> ) after take ketoconazole for treatment of fungal infection .",
+        "D007654\tChemical\tketoconazole\twe report a woman with coronary artery disease who develop a markedly prolonged qt interval and torsade de pointe ( tdp ) after take <target> ketoconazole </target> for treatment of fungal infection .",
+        "D009181\tDisease\tfungal infection\twe report a woman with coronary artery disease who develop a markedly prolonged qt interval and torsade de pointe ( tdp ) after take ketoconazole for treatment of <target> fungal infection </target> .",
+        "D007654\tChemical\tketoconazole\ther QT interval return to normal upon withdrawal of <target> ketoconazole </target> .",
+        "D007654\tChemical\tketoconazole\twe postulate that by virtue of its direct blocking action on ikr , <target> ketoconazole </target> alone may prolong QT interval and induce tdp. this call for attention when ketoconazole be administer to patient with risk factor for acquire long qt syndrome .",
+        "D016171\tDisease\tTdP\twe postulate that by virtue of its direct blocking action on ikr , ketoconazole alone may prolong QT interval and induce <target> tdp </target> . this call for attention when ketoconazole be administer to patient with risk factor for acquire long qt syndrome .",
+        "D007654\tChemical\tketoconazole\twe postulate that by virtue of its direct blocking action on ikr , ketoconazole alone may prolong QT interval and induce tdp. this call for attention when <target> ketoconazole </target> be administer to patient with risk factor for acquire long qt syndrome .",
+        "D008133\tDisease\tlong QT syndrome\twe postulate that by virtue of its direct blocking action on ikr , ketoconazole alone may prolong QT interval and induce tdp. this call for attention when ketoconazole be administer to patient with risk factor for acquire <target> long qt syndrome </target> ."
+    ]
+}

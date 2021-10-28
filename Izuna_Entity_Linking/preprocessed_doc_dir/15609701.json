@@ -1,0 +1,175 @@
+{
+    "title": "Sotalol-induced coronary spasm in a patient with dilated cardiomyopathy associated with sustained ventricular tachycardia.",
+    "abst": "A 54-year-old man with severe left ventricular dysfunction due to dilated cardiomyopathy was referred to our hospital for symptomatic incessant sustained ventricular tachycardia (VT). After the administration of nifekalant hydrochloride, sustained VT was terminated. An alternate class III agent, sotalol, was also effective for the prevention of VT. However, one month after switching over nifekalant to sotalol, a short duration of ST elevation was documented in ECG monitoring at almost the same time for three consecutive days. ST elevation with chest discomfort disappeared since he began taking long-acting diltiazem. Coronary vasospasm may be induced by the non-selective beta-blocking properties of sotalol.",
+    "title_plus_abst": "Sotalol-induced coronary spasm in a patient with dilated cardiomyopathy associated with sustained ventricular tachycardia. A 54-year-old man with severe left ventricular dysfunction due to dilated cardiomyopathy was referred to our hospital for symptomatic incessant sustained ventricular tachycardia (VT). After the administration of nifekalant hydrochloride, sustained VT was terminated. An alternate class III agent, sotalol, was also effective for the prevention of VT. However, one month after switching over nifekalant to sotalol, a short duration of ST elevation was documented in ECG monitoring at almost the same time for three consecutive days. ST elevation with chest discomfort disappeared since he began taking long-acting diltiazem. Coronary vasospasm may be induced by the non-selective beta-blocking properties of sotalol.",
+    "pubmed_id": "15609701",
+    "entities": [
+        [
+            0,
+            7,
+            "Sotalol",
+            "Chemical",
+            "D013015"
+        ],
+        [
+            16,
+            30,
+            "coronary spasm",
+            "Disease",
+            "D003329"
+        ],
+        [
+            49,
+            71,
+            "dilated cardiomyopathy",
+            "Disease",
+            "D002311"
+        ],
+        [
+            98,
+            121,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ],
+        [
+            158,
+            181,
+            "ventricular dysfunction",
+            "Disease",
+            "D018754"
+        ],
+        [
+            189,
+            211,
+            "dilated cardiomyopathy",
+            "Disease",
+            "D002311"
+        ],
+        [
+            277,
+            300,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ],
+        [
+            302,
+            304,
+            "VT",
+            "Disease",
+            "D017180"
+        ],
+        [
+            335,
+            359,
+            "nifekalant hydrochloride",
+            "Chemical",
+            "C076259"
+        ],
+        [
+            371,
+            373,
+            "VT",
+            "Disease",
+            "D017180"
+        ],
+        [
+            420,
+            427,
+            "sotalol",
+            "Chemical",
+            "D013015"
+        ],
+        [
+            470,
+            472,
+            "VT",
+            "Disease",
+            "D017180"
+        ],
+        [
+            514,
+            524,
+            "nifekalant",
+            "Chemical",
+            "C076259"
+        ],
+        [
+            528,
+            535,
+            "sotalol",
+            "Chemical",
+            "D013015"
+        ],
+        [
+            736,
+            745,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            747,
+            765,
+            "Coronary vasospasm",
+            "Disease",
+            "D003329"
+        ],
+        [
+            830,
+            837,
+            "sotalol",
+            "Chemical",
+            "D013015"
+        ]
+    ],
+    "split_sentence": [
+        "Sotalol-induced coronary spasm in a patient with dilated cardiomyopathy associated with sustained ventricular tachycardia.",
+        "A 54-year-old man with severe left ventricular dysfunction due to dilated cardiomyopathy was referred to our hospital for symptomatic incessant sustained ventricular tachycardia (VT).",
+        "After the administration of nifekalant hydrochloride, sustained VT was terminated.",
+        "An alternate class III agent, sotalol, was also effective for the prevention of VT.",
+        "However, one month after switching over nifekalant to sotalol, a short duration of ST elevation was documented in ECG monitoring at almost the same time for three consecutive days.",
+        "ST elevation with chest discomfort disappeared since he began taking long-acting diltiazem.",
+        "Coronary vasospasm may be induced by the non-selective beta-blocking properties of sotalol."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013015\tChemical\tSotalol\t<target> Sotalol </target> -induced coronary spasm in a patient with dilated cardiomyopathy associated with sustained ventricular tachycardia .",
+        "D003329\tDisease\tcoronary spasm\tSotalol-induced <target> coronary spasm </target> in a patient with dilated cardiomyopathy associated with sustained ventricular tachycardia .",
+        "D002311\tDisease\tdilated cardiomyopathy\tSotalol-induced coronary spasm in a patient with <target> dilated cardiomyopathy </target> associated with sustained ventricular tachycardia .",
+        "D017180\tDisease\tventricular tachycardia\tSotalol-induced coronary spasm in a patient with dilated cardiomyopathy associated with sustained <target> ventricular tachycardia </target> .",
+        "D018754\tDisease\tventricular dysfunction\tA 54-year-old man with severe left <target> ventricular dysfunction </target> due to dilated cardiomyopathy was referred to our hospital for symptomatic incessant sustained ventricular tachycardia ( VT ) .",
+        "D002311\tDisease\tdilated cardiomyopathy\tA 54-year-old man with severe left ventricular dysfunction due to <target> dilated cardiomyopathy </target> was referred to our hospital for symptomatic incessant sustained ventricular tachycardia ( VT ) .",
+        "D017180\tDisease\tventricular tachycardia\tA 54-year-old man with severe left ventricular dysfunction due to dilated cardiomyopathy was referred to our hospital for symptomatic incessant sustained <target> ventricular tachycardia </target> ( VT ) .",
+        "D017180\tDisease\tVT\tA 54-year-old man with severe left ventricular dysfunction due to dilated cardiomyopathy was referred to our hospital for symptomatic incessant sustained ventricular tachycardia ( <target> VT </target> ) .",
+        "C076259\tChemical\tnifekalant hydrochloride\tAfter the administration of <target> nifekalant hydrochloride </target> , sustained VT was terminated .",
+        "D017180\tDisease\tVT\tAfter the administration of nifekalant hydrochloride , sustained <target> VT </target> was terminated .",
+        "D013015\tChemical\tsotalol\tAn alternate class III agent , <target> sotalol </target> , was also effective for the prevention of VT .",
+        "D017180\tDisease\tVT\tAn alternate class III agent , sotalol , was also effective for the prevention of <target> VT </target> .",
+        "C076259\tChemical\tnifekalant\tHowever , one month after switching over <target> nifekalant </target> to sotalol , a short duration of ST elevation was documented in ECG monitoring at almost the same time for three consecutive days .",
+        "D013015\tChemical\tsotalol\tHowever , one month after switching over nifekalant to <target> sotalol </target> , a short duration of ST elevation was documented in ECG monitoring at almost the same time for three consecutive days .",
+        "D004110\tChemical\tdiltiazem\tST elevation with chest discomfort disappeared since he began taking long-acting <target> diltiazem </target> .",
+        "D003329\tDisease\tCoronary vasospasm\t<target> Coronary vasospasm </target> may be induced by the non-selective beta-blocking properties of sotalol .",
+        "D013015\tChemical\tsotalol\tCoronary vasospasm may be induced by the non-selective beta-blocking properties of <target> sotalol </target> ."
+    ],
+    "lines_lemma": [
+        "D013015\tChemical\tSotalol\t<target> Sotalol </target> -induced coronary spasm in a patient with dilated cardiomyopathy associate with sustained ventricular tachycardia .",
+        "D003329\tDisease\tcoronary spasm\tsotalol-induced <target> coronary spasm </target> in a patient with dilated cardiomyopathy associate with sustained ventricular tachycardia .",
+        "D002311\tDisease\tdilated cardiomyopathy\tsotalol-induced coronary spasm in a patient with <target> dilated cardiomyopathy </target> associate with sustained ventricular tachycardia .",
+        "D017180\tDisease\tventricular tachycardia\tsotalol-induced coronary spasm in a patient with dilated cardiomyopathy associate with sustained <target> ventricular tachycardia </target> .",
+        "D018754\tDisease\tventricular dysfunction\ta 54-year-old man with severe leave <target> ventricular dysfunction </target> due to dilated cardiomyopathy be refer to our hospital for symptomatic incessant sustained ventricular tachycardia ( vt ) .",
+        "D002311\tDisease\tdilated cardiomyopathy\ta 54-year-old man with severe leave ventricular dysfunction due to <target> dilated cardiomyopathy </target> be refer to our hospital for symptomatic incessant sustained ventricular tachycardia ( vt ) .",
+        "D017180\tDisease\tventricular tachycardia\ta 54-year-old man with severe leave ventricular dysfunction due to dilated cardiomyopathy be refer to our hospital for symptomatic incessant sustained <target> ventricular tachycardia </target> ( vt ) .",
+        "D017180\tDisease\tVT\ta 54-year-old man with severe leave ventricular dysfunction due to dilated cardiomyopathy be refer to our hospital for symptomatic incessant sustained ventricular tachycardia ( <target> vt </target> ) .",
+        "C076259\tChemical\tnifekalant hydrochloride\tafter the administration of <target> nifekalant hydrochloride </target> , sustained vt be terminate .",
+        "D017180\tDisease\tVT\tafter the administration of nifekalant hydrochloride , sustained <target> vt </target> be terminate .",
+        "D013015\tChemical\tsotalol\tan alternate class iii agent , <target> sotalol </target> , be also effective for the prevention of vt .",
+        "D017180\tDisease\tVT\tan alternate class iii agent , sotalol , be also effective for the prevention of <target> vt </target> .",
+        "C076259\tChemical\tnifekalant\thowever , one month after switch over <target> nifekalant </target> to sotalol , a short duration of st elevation be document in ECG monitoring at almost the same time for three consecutive day .",
+        "D013015\tChemical\tsotalol\thowever , one month after switch over nifekalant to <target> sotalol </target> , a short duration of st elevation be document in ECG monitoring at almost the same time for three consecutive day .",
+        "D004110\tChemical\tdiltiazem\tst elevation with chest discomfort disappear since he begin take long-acting <target> diltiazem </target> .",
+        "D003329\tDisease\tCoronary vasospasm\t<target> coronary vasospasm </target> may be induce by the non-selective beta-blocking property of sotalol .",
+        "D013015\tChemical\tsotalol\tcoronary vasospasm may be induce by the non-selective beta-blocking property of <target> sotalol </target> ."
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Clinical experiences in an open and a double-blind trial.",
+    "abst": "A total of sixty patients were trated with bromperidol first in open conditions (20 patients), then on a double blind basis (40 patients) with haloperidol as the reference substance. The open study lasted for four weeks; the drug was administrated in the form of 1 mg tablets. The daily dose (initial dose: 1 mg; mean dose at the end of the trial: 4.47 mg) was always administered in one single dose. Nineteen patients finished the trial, and in 18 cases the therapeutic result was considered very good to good. These results were confirmed by statistical analysis. Nine patients exhibited mild to moderate extrapyramidal concomitant symptoms; no other side effects were observed. The results of detailed laboratory tests and evaluations of various quantitative and qualitative tolerability parameters were not indicative of toxic effects. In the double blind study with haloperidol, both substances were found to be highly effective in the treatment of psychotic syndromes belonging predominantly to the schizophrenia group. Certain clues, including the onset of action, seem to be indicative of the superiority of bromperidol. No differences were observed with respect to side effects and general tolerability.",
+    "title_plus_abst": "Clinical experiences in an open and a double-blind trial. A total of sixty patients were trated with bromperidol first in open conditions (20 patients), then on a double blind basis (40 patients) with haloperidol as the reference substance. The open study lasted for four weeks; the drug was administrated in the form of 1 mg tablets. The daily dose (initial dose: 1 mg; mean dose at the end of the trial: 4.47 mg) was always administered in one single dose. Nineteen patients finished the trial, and in 18 cases the therapeutic result was considered very good to good. These results were confirmed by statistical analysis. Nine patients exhibited mild to moderate extrapyramidal concomitant symptoms; no other side effects were observed. The results of detailed laboratory tests and evaluations of various quantitative and qualitative tolerability parameters were not indicative of toxic effects. In the double blind study with haloperidol, both substances were found to be highly effective in the treatment of psychotic syndromes belonging predominantly to the schizophrenia group. Certain clues, including the onset of action, seem to be indicative of the superiority of bromperidol. No differences were observed with respect to side effects and general tolerability.",
+    "pubmed_id": "347884",
+    "entities": [
+        [
+            101,
+            112,
+            "bromperidol",
+            "Chemical",
+            "C006820"
+        ],
+        [
+            201,
+            212,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            665,
+            700,
+            "extrapyramidal concomitant symptoms",
+            "Disease",
+            "D001480"
+        ],
+        [
+            929,
+            940,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            1012,
+            1082,
+            "psychotic syndromes belonging predominantly to the schizophrenia group",
+            "Disease",
+            "D019967"
+        ],
+        [
+            1174,
+            1185,
+            "bromperidol",
+            "Chemical",
+            "C006820"
+        ]
+    ],
+    "split_sentence": [
+        "Clinical experiences in an open and a double-blind trial.",
+        "A total of sixty patients were trated with bromperidol first in open conditions (20 patients), then on a double blind basis (40 patients) with haloperidol as the reference substance.",
+        "The open study lasted for four weeks; the drug was administrated in the form of 1 mg tablets.",
+        "The daily dose (initial dose: 1 mg; mean dose at the end of the trial: 4.47 mg) was always administered in one single dose.",
+        "Nineteen patients finished the trial, and in 18 cases the therapeutic result was considered very good to good.",
+        "These results were confirmed by statistical analysis.",
+        "Nine patients exhibited mild to moderate extrapyramidal concomitant symptoms; no other side effects were observed.",
+        "The results of detailed laboratory tests and evaluations of various quantitative and qualitative tolerability parameters were not indicative of toxic effects.",
+        "In the double blind study with haloperidol, both substances were found to be highly effective in the treatment of psychotic syndromes belonging predominantly to the schizophrenia group.",
+        "Certain clues, including the onset of action, seem to be indicative of the superiority of bromperidol.",
+        "No differences were observed with respect to side effects and general tolerability."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C006820\tChemical\tbromperidol\tA total of sixty patients were trated with <target> bromperidol </target> first in open conditions ( 20 patients ) , then on a double blind basis ( 40 patients ) with haloperidol as the reference substance .",
+        "D006220\tChemical\thaloperidol\tA total of sixty patients were trated with bromperidol first in open conditions ( 20 patients ) , then on a double blind basis ( 40 patients ) with <target> haloperidol </target> as the reference substance .",
+        "D001480\tDisease\textrapyramidal concomitant symptoms\tNine patients exhibited mild to moderate <target> extrapyramidal concomitant symptoms </target> ; no other side effects were observed .",
+        "D006220\tChemical\thaloperidol\tIn the double blind study with <target> haloperidol </target> , both substances were found to be highly effective in the treatment of psychotic syndromes belonging predominantly to the schizophrenia group .",
+        "D019967\tDisease\tpsychotic syndromes belonging predominantly to the schizophrenia group\tIn the double blind study with haloperidol , both substances were found to be highly effective in the treatment of <target> psychotic syndromes belonging predominantly to the schizophrenia group </target> .",
+        "C006820\tChemical\tbromperidol\tCertain clues , including the onset of action , seem to be indicative of the superiority of <target> bromperidol </target> ."
+    ],
+    "lines_lemma": [
+        "C006820\tChemical\tbromperidol\ta total of sixty patient be trate with <target> bromperidol </target> first in open condition ( 20 patient ) , then on a double blind basis ( 40 patient ) with haloperidol as the reference substance .",
+        "D006220\tChemical\thaloperidol\ta total of sixty patient be trate with bromperidol first in open condition ( 20 patient ) , then on a double blind basis ( 40 patient ) with <target> haloperidol </target> as the reference substance .",
+        "D001480\tDisease\textrapyramidal concomitant symptoms\tnine patient exhibit mild to moderate <target> extrapyramidal concomitant symptom </target> ; no other side effect be observe .",
+        "D006220\tChemical\thaloperidol\tin the double blind study with <target> haloperidol </target> , both substance be find to be highly effective in the treatment of psychotic syndrome belong predominantly to the schizophrenia group .",
+        "D019967\tDisease\tpsychotic syndromes belonging predominantly to the schizophrenia group\tin the double blind study with haloperidol , both substance be find to be highly effective in the treatment of <target> psychotic syndrome belong predominantly to the schizophrenia group </target> .",
+        "C006820\tChemical\tbromperidol\tcertain clue , include the onset of action , seem to be indicative of the superiority of <target> bromperidol </target> ."
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "title": "PTU-associated vasculitis in a girl with Turner Syndrome and Graves' disease.",
+    "abst": "Palpable purpura is a concerning clinical finding in pediatric patients and can have many causes, including infectious and autoimmune processes. A rare cause, drug-induced vasculitis, may result from the production of antineutrophil cytoplasmic antibodies (ANCAs) in response to a medication. We report a girl with Turner syndrome and Graves' disease who presented with palpable purpuric lesions. The diagnosis of propylthiouracil (PTU)-associated vasculitis was made by observation of consistent clinical features, the detection of elevated ANA and ANCA in the blood, and the observed clinical resolution of symptoms following withdrawal of PTU. Subsequent treatment of persistent hyperthyroidism with radioablation did not result in an exacerbation of the vasculitis, a complication described in prior case reports.",
+    "title_plus_abst": "PTU-associated vasculitis in a girl with Turner Syndrome and Graves' disease. Palpable purpura is a concerning clinical finding in pediatric patients and can have many causes, including infectious and autoimmune processes. A rare cause, drug-induced vasculitis, may result from the production of antineutrophil cytoplasmic antibodies (ANCAs) in response to a medication. We report a girl with Turner syndrome and Graves' disease who presented with palpable purpuric lesions. The diagnosis of propylthiouracil (PTU)-associated vasculitis was made by observation of consistent clinical features, the detection of elevated ANA and ANCA in the blood, and the observed clinical resolution of symptoms following withdrawal of PTU. Subsequent treatment of persistent hyperthyroidism with radioablation did not result in an exacerbation of the vasculitis, a complication described in prior case reports.",
+    "pubmed_id": "16418614",
+    "entities": [
+        [
+            0,
+            3,
+            "PTU",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            15,
+            25,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            41,
+            56,
+            "Turner Syndrome",
+            "Disease",
+            "D014424"
+        ],
+        [
+            61,
+            76,
+            "Graves' disease",
+            "Disease",
+            "D006111"
+        ],
+        [
+            87,
+            94,
+            "purpura",
+            "Disease",
+            "D011693"
+        ],
+        [
+            250,
+            260,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            393,
+            408,
+            "Turner syndrome",
+            "Disease",
+            "D014424"
+        ],
+        [
+            413,
+            428,
+            "Graves' disease",
+            "Disease",
+            "D006111"
+        ],
+        [
+            457,
+            473,
+            "purpuric lesions",
+            "Disease",
+            "D011693"
+        ],
+        [
+            492,
+            508,
+            "propylthiouracil",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            510,
+            513,
+            "PTU",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            526,
+            536,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            720,
+            723,
+            "PTU",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            760,
+            775,
+            "hyperthyroidism",
+            "Disease",
+            "D006980"
+        ],
+        [
+            836,
+            846,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ]
+    ],
+    "split_sentence": [
+        "PTU-associated vasculitis in a girl with Turner Syndrome and Graves' disease.",
+        "Palpable purpura is a concerning clinical finding in pediatric patients and can have many causes, including infectious and autoimmune processes.",
+        "A rare cause, drug-induced vasculitis, may result from the production of antineutrophil cytoplasmic antibodies (ANCAs) in response to a medication.",
+        "We report a girl with Turner syndrome and Graves' disease who presented with palpable purpuric lesions.",
+        "The diagnosis of propylthiouracil (PTU)-associated vasculitis was made by observation of consistent clinical features, the detection of elevated ANA and ANCA in the blood, and the observed clinical resolution of symptoms following withdrawal of PTU.",
+        "Subsequent treatment of persistent hyperthyroidism with radioablation did not result in an exacerbation of the vasculitis, a complication described in prior case reports."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011441\tChemical\tPTU\t<target> PTU </target> -associated vasculitis in a girl with Turner Syndrome and Graves ' disease .",
+        "D014657\tDisease\tvasculitis\tPTU-associated <target> vasculitis </target> in a girl with Turner Syndrome and Graves ' disease .",
+        "D014424\tDisease\tTurner Syndrome\tPTU-associated vasculitis in a girl with <target> Turner Syndrome </target> and Graves ' disease .",
+        "D006111\tDisease\tGraves' disease\tPTU-associated vasculitis in a girl with Turner Syndrome and <target> Graves ' disease </target> .",
+        "D011693\tDisease\tpurpura\tPalpable <target> purpura </target> is a concerning clinical finding in pediatric patients and can have many causes , including infectious and autoimmune processes .",
+        "D014657\tDisease\tvasculitis\tA rare cause , drug-induced <target> vasculitis </target> , may result from the production of antineutrophil cytoplasmic antibodies ( ANCAs ) in response to a medication .",
+        "D014424\tDisease\tTurner syndrome\tWe report a girl with <target> Turner syndrome </target> and Graves ' disease who presented with palpable purpuric lesions .",
+        "D006111\tDisease\tGraves' disease\tWe report a girl with Turner syndrome and <target> Graves ' disease </target> who presented with palpable purpuric lesions .",
+        "D011693\tDisease\tpurpuric lesions\tWe report a girl with Turner syndrome and Graves ' disease who presented with palpable <target> purpuric lesions </target> .",
+        "D011441\tChemical\tpropylthiouracil\tThe diagnosis of <target> propylthiouracil </target> (PTU)-associated vasculitis was made by observation of consistent clinical features , the detection of elevated ANA and ANCA in the blood , and the observed clinical resolution of symptoms following withdrawal of PTU .",
+        "D011441\tChemical\tPTU\tThe diagnosis of propylthiouracil ( <target> PTU </target> ) -associated vasculitis was made by observation of consistent clinical features , the detection of elevated ANA and ANCA in the blood , and the observed clinical resolution of symptoms following withdrawal of PTU .",
+        "D014657\tDisease\tvasculitis\tThe diagnosis of propylthiouracil (PTU)-associated <target> vasculitis </target> was made by observation of consistent clinical features , the detection of elevated ANA and ANCA in the blood , and the observed clinical resolution of symptoms following withdrawal of PTU .",
+        "D011441\tChemical\tPTU\tThe diagnosis of propylthiouracil (PTU)-associated vasculitis was made by observation of consistent clinical features , the detection of elevated ANA and ANCA in the blood , and the observed clinical resolution of symptoms following withdrawal of <target> PTU </target> .",
+        "D006980\tDisease\thyperthyroidism\tSubsequent treatment of persistent <target> hyperthyroidism </target> with radioablation did not result in an exacerbation of the vasculitis , a complication described in prior case reports .",
+        "D014657\tDisease\tvasculitis\tSubsequent treatment of persistent hyperthyroidism with radioablation did not result in an exacerbation of the <target> vasculitis </target> , a complication described in prior case reports ."
+    ],
+    "lines_lemma": [
+        "D011441\tChemical\tPTU\t<target> PTU </target> -associated vasculitis in a girl with Turner Syndrome and grave ' disease .",
+        "D014657\tDisease\tvasculitis\tptu-associated <target> vasculitis </target> in a girl with Turner Syndrome and grave ' disease .",
+        "D014424\tDisease\tTurner Syndrome\tptu-associated vasculitis in a girl with <target> Turner Syndrome </target> and Graves ' disease .",
+        "D006111\tDisease\tGraves' disease\tptu-associated vasculitis in a girl with Turner Syndrome and <target> Graves ' disease </target> .",
+        "D011693\tDisease\tpurpura\tpalpable <target> purpura </target> be a concern clinical finding in pediatric patient and can have many cause , include infectious and autoimmune process .",
+        "D014657\tDisease\tvasculitis\ta rare cause , drug-induced <target> vasculitis </target> , may result from the production of antineutrophil cytoplasmic antibody ( anca ) in response to a medication .",
+        "D014424\tDisease\tTurner syndrome\twe report a girl with <target> turner syndrome </target> and Graves ' disease who present with palpable purpuric lesion .",
+        "D006111\tDisease\tGraves' disease\twe report a girl with turner syndrome and <target> Graves ' disease </target> who present with palpable purpuric lesion .",
+        "D011693\tDisease\tpurpuric lesions\twe report a girl with turner syndrome and grave ' disease who present with palpable <target> purpuric lesion </target> .",
+        "D011441\tChemical\tpropylthiouracil\tthe diagnosis of <target> propylthiouracil </target> (ptu)-associated vasculitis be make by observation of consistent clinical feature , the detection of elevated ana and anca in the blood , and the observe clinical resolution of symptom follow withdrawal of PTU .",
+        "D011441\tChemical\tPTU\tthe diagnosis of propylthiouracil ( <target> PTU </target> ) -associated vasculitis be make by observation of consistent clinical feature , the detection of elevated ana and anca in the blood , and the observe clinical resolution of symptom follow withdrawal of PTU .",
+        "D014657\tDisease\tvasculitis\tthe diagnosis of propylthiouracil (ptu)-associated <target> vasculitis </target> be make by observation of consistent clinical feature , the detection of elevated ana and anca in the blood , and the observe clinical resolution of symptom follow withdrawal of PTU .",
+        "D011441\tChemical\tPTU\tthe diagnosis of propylthiouracil (ptu)-associated vasculitis be make by observation of consistent clinical feature , the detection of elevated ana and anca in the blood , and the observe clinical resolution of symptom follow withdrawal of <target> PTU </target> .",
+        "D006980\tDisease\thyperthyroidism\tsubsequent treatment of persistent <target> hyperthyroidism </target> with radioablation do not result in an exacerbation of the vasculitis , a complication describe in prior case report .",
+        "D014657\tDisease\tvasculitis\tsubsequent treatment of persistent hyperthyroidism with radioablation do not result in an exacerbation of the <target> vasculitis </target> , a complication describe in prior case report ."
+    ]
+}

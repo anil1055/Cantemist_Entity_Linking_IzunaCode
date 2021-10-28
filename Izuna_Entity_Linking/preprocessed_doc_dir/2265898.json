@@ -1,0 +1,82 @@
+{
+    "title": "Serial epilepsy caused by levodopa/carbidopa administration in two patients on hemodialysis.",
+    "abst": "Two patients with similar clinical features are presented: both patients had chronic renal failure, on hemodialysis for many years but recently begun on a high-flux dialyzer; both had been receiving a carbidopa/levodopa preparation; and both had the onset of hallucinosis and recurrent seizures, which were refractory to anticonvulsants. The first patient died without a diagnosis; the second patient had a dramatic recovery following the administration of vitamin B6. Neither patient was considered to have a renal state sufficiently severe enough to explain their presentation.",
+    "title_plus_abst": "Serial epilepsy caused by levodopa/carbidopa administration in two patients on hemodialysis. Two patients with similar clinical features are presented: both patients had chronic renal failure, on hemodialysis for many years but recently begun on a high-flux dialyzer; both had been receiving a carbidopa/levodopa preparation; and both had the onset of hallucinosis and recurrent seizures, which were refractory to anticonvulsants. The first patient died without a diagnosis; the second patient had a dramatic recovery following the administration of vitamin B6. Neither patient was considered to have a renal state sufficiently severe enough to explain their presentation.",
+    "pubmed_id": "2265898",
+    "entities": [
+        [
+            7,
+            15,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            26,
+            44,
+            "levodopa/carbidopa",
+            "Chemical",
+            "C009265"
+        ],
+        [
+            170,
+            191,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            294,
+            312,
+            "carbidopa/levodopa",
+            "Chemical",
+            "C009265"
+        ],
+        [
+            352,
+            364,
+            "hallucinosis",
+            "Disease",
+            "D001523"
+        ],
+        [
+            379,
+            387,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            550,
+            560,
+            "vitamin B6",
+            "Chemical",
+            "D025101"
+        ]
+    ],
+    "split_sentence": [
+        "Serial epilepsy caused by levodopa/carbidopa administration in two patients on hemodialysis.",
+        "Two patients with similar clinical features are presented: both patients had chronic renal failure, on hemodialysis for many years but recently begun on a high-flux dialyzer; both had been receiving a carbidopa/levodopa preparation; and both had the onset of hallucinosis and recurrent seizures, which were refractory to anticonvulsants.",
+        "The first patient died without a diagnosis; the second patient had a dramatic recovery following the administration of vitamin B6.",
+        "Neither patient was considered to have a renal state sufficiently severe enough to explain their presentation."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004827\tDisease\tepilepsy\tSerial <target> epilepsy </target> caused by levodopa/carbidopa administration in two patients on hemodialysis .",
+        "C009265\tChemical\tlevodopa/carbidopa\tSerial epilepsy caused by <target> levodopa/carbidopa </target> administration in two patients on hemodialysis .",
+        "D007676\tDisease\tchronic renal failure\tTwo patients with similar clinical features are presented : both patients had <target> chronic renal failure </target> , on hemodialysis for many years but recently begun on a high-flux dialyzer ; both had been receiving a carbidopa/levodopa preparation ; and both had the onset of hallucinosis and recurrent seizures , which were refractory to anticonvulsants .",
+        "C009265\tChemical\tcarbidopa/levodopa\tTwo patients with similar clinical features are presented : both patients had chronic renal failure , on hemodialysis for many years but recently begun on a high-flux dialyzer ; both had been receiving a <target> carbidopa/levodopa </target> preparation ; and both had the onset of hallucinosis and recurrent seizures , which were refractory to anticonvulsants .",
+        "D001523\tDisease\thallucinosis\tTwo patients with similar clinical features are presented : both patients had chronic renal failure , on hemodialysis for many years but recently begun on a high-flux dialyzer ; both had been receiving a carbidopa/levodopa preparation ; and both had the onset of <target> hallucinosis </target> and recurrent seizures , which were refractory to anticonvulsants .",
+        "D012640\tDisease\tseizures\tTwo patients with similar clinical features are presented : both patients had chronic renal failure , on hemodialysis for many years but recently begun on a high-flux dialyzer ; both had been receiving a carbidopa/levodopa preparation ; and both had the onset of hallucinosis and recurrent <target> seizures </target> , which were refractory to anticonvulsants .",
+        "D025101\tChemical\tvitamin B6\tThe first patient died without a diagnosis ; the second patient had a dramatic recovery following the administration of <target> vitamin B6 </target> ."
+    ],
+    "lines_lemma": [
+        "D004827\tDisease\tepilepsy\tserial <target> epilepsy </target> cause by levodopa/carbidopa administration in two patient on hemodialysis .",
+        "C009265\tChemical\tlevodopa/carbidopa\tserial epilepsy cause by <target> levodopa/carbidopa </target> administration in two patient on hemodialysis .",
+        "D007676\tDisease\tchronic renal failure\ttwo patient with similar clinical feature be present : both patient have <target> chronic renal failure </target> , on hemodialysis for many year but recently begin on a high-flux dialyzer ; both have be receive a carbidopa/levodopa preparation ; and both have the onset of hallucinosis and recurrent seizure , which be refractory to anticonvulsant .",
+        "C009265\tChemical\tcarbidopa/levodopa\ttwo patient with similar clinical feature be present : both patient have chronic renal failure , on hemodialysis for many year but recently begin on a high-flux dialyzer ; both have be receive a <target> carbidopa/levodopa </target> preparation ; and both have the onset of hallucinosis and recurrent seizure , which be refractory to anticonvulsant .",
+        "D001523\tDisease\thallucinosis\ttwo patient with similar clinical feature be present : both patient have chronic renal failure , on hemodialysis for many year but recently begin on a high-flux dialyzer ; both have be receive a carbidopa/levodopa preparation ; and both have the onset of <target> hallucinosis </target> and recurrent seizure , which be refractory to anticonvulsant .",
+        "D012640\tDisease\tseizures\ttwo patient with similar clinical feature be present : both patient have chronic renal failure , on hemodialysis for many year but recently begin on a high-flux dialyzer ; both have be receive a carbidopa/levodopa preparation ; and both have the onset of hallucinosis and recurrent <target> seizure </target> , which be refractory to anticonvulsant .",
+        "D025101\tChemical\tvitamin B6\tthe first patient die without a diagnosis ; the second patient have a dramatic recovery follow the administration of <target> vitamin b6 </target> ."
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "entities": [
+        [
+            661,
+            703,
+            "Carcinoma indiferenciado de célula pequeña",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/34"
+        ],
+        [
+            70,
+            84,
+            "adenocarcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/3"
+        ],
+        [
+            94,
+            101,
+            "pT2N0M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1091,
+            1096,
+            "tumor",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "DIAGNÓSTICO:  <objetivo> Carcinoma indiferenciado de célula pequeña </objetivo> ",
+        "Sigmoidectomía por  <objetivo> adenocarcinoma </objetivo> de sigma pT2N0M0 (2015).",
+        "Sigmoidectomía por adenocarcinoma de sigma  <objetivo> pT2N0M0 </objetivo> (2015).",
+        "Estudio de la pieza quirúrgica: respuesta patológica completa sin evidencia de  <objetivo> tumor </objetivo> residual.El paciente se encuentra en seguimiento sin evidencia de enfermedad."
+    ],
+    "lines_lemma": [
+        "diagnóstico :   <objetivo> Carcinoma indiferenciado de célula pequeño </objetivo>",
+        "Sigmoidectomía por   <objetivo> adenocarcinomar </objetivo> de sigma pT2N0M0 ( 2015 ) .",
+        "Sigmoidectomía por adenocarcinoma de sigma   <objetivo> pt2n0m0 </objetivo> ( 2015 ) .",
+        "Estudio de el pieza quirúrgico : respuesta patológicar completo sin evidencia de   <objetivo> tumor </objetivo> residual . el paciente él encontrar en seguimiento sin evidencia de enfermedad ."
+    ],
+    "pubmed_id": "onco1104",
+    "split_sentence": [
+        "Anamnesis",
+        "ANTECEDENTES PERSONALES: Varón.",
+        "77 años.",
+        "Sigmoidectomía por adenocarcinoma de sigma pT2N0M0 (2015).",
+        "HISTORIA ACTUAL: Nódulo pulmonar en lóbulo superior izquierdo y adenopatías mediastínicas ligeramente aumentadas detectado durante el seguimiento, en septiembre de 2017.",
+        "ESTUDIO:→ PET-TC: Nódulo pulmonar y adenopatías con leve captación glicídica.",
+        "Lesión hipercaptante polipoidea en colon (Imagen 1).→ Fibrobroncoscopia y EBUS: datos de infección en el broncoaspirado.→ TC tórax tras realizar ciclo antibiótico: mejoría de la lesión pulmonar y adenopatías.→Colonoscopia: Lesión polipoidea friable, con sangrado al roce que se biopsia.",
+        "DIAGNÓSTICO: Carcinoma indiferenciado de célula pequeña.",
+        "Ki67 80%.",
+        "TRATAMIENTO: Tras discutir el caso en comité multidisciplinar inicia tratamiento neoadyuvante: Carboplatino AUC 5 y Etopósido 100mg/m2.",
+        "Recibe 4 ciclos, con excelente respuesta en la reevaluación a nivel del colon (Imagen 2); engrosamiento bronquial estable.",
+        "Se realiza hemicolectomía izquierda.",
+        "Estudio de la pieza quirúrgica: respuesta patológica completa sin evidencia de tumor residual.El paciente se encuentra en seguimiento sin evidencia de enfermedad."
+    ],
+    "text": "Anamnesis\nANTECEDENTES PERSONALES: Varón. 77 años. Sigmoidectomía por adenocarcinoma de sigma pT2N0M0 (2015).\nHISTORIA ACTUAL: Nódulo pulmonar en lóbulo superior izquierdo y adenopatías mediastínicas ligeramente aumentadas detectado durante el seguimiento, en septiembre de 2017. \n\nESTUDIO:→ PET-TC: Nódulo pulmonar y adenopatías con leve captación glicídica. Lesión hipercaptante polipoidea en colon (Imagen 1).→ Fibrobroncoscopia y EBUS: datos de infección en el broncoaspirado.→ TC tórax tras realizar ciclo antibiótico: mejoría de la lesión pulmonar y adenopatías.→Colonoscopia: Lesión polipoidea friable, con sangrado al roce que se biopsia.\n\nDIAGNÓSTICO: Carcinoma indiferenciado de célula pequeña. Ki67 80%.\n\nTRATAMIENTO: Tras discutir el caso en comité multidisciplinar inicia tratamiento neoadyuvante: Carboplatino AUC 5 y Etopósido 100mg/m2. Recibe 4 ciclos, con excelente respuesta en la reevaluación a nivel del colon (Imagen 2); engrosamiento bronquial estable. Se realiza hemicolectomía izquierda. Estudio de la pieza quirúrgica: respuesta patológica completa sin evidencia de tumor residual.El paciente se encuentra en seguimiento sin evidencia de enfermedad."
+}

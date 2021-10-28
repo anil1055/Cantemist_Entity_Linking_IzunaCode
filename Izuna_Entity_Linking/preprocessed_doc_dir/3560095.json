@@ -1,0 +1,102 @@
+{
+    "title": "Flurbiprofen in the treatment of juvenile rheumatoid arthritis.",
+    "abst": "Thirty-four patients with juvenile rheumatoid arthritis, who were treated with flurbiprofen at a maximum dose of 4 mg/kg/day, had statistically significant decreases from baseline in 6 arthritis indices after 12 weeks of treatment. Improvements were seen in the number of tender joints, the severity of swelling and tenderness, the time of walk 50 feet, the duration of morning stiffness and the circumference of the left knee. The most frequently observed side effect was fecal occult blood (25% of patients); however, there was no other evidence of gastrointestinal (GI) bleeding in these patients. One patient was prematurely discontinued from the study for severe headache and abdominal pain. Most side effects were mild and related to the GI tract.",
+    "title_plus_abst": "Flurbiprofen in the treatment of juvenile rheumatoid arthritis. Thirty-four patients with juvenile rheumatoid arthritis, who were treated with flurbiprofen at a maximum dose of 4 mg/kg/day, had statistically significant decreases from baseline in 6 arthritis indices after 12 weeks of treatment. Improvements were seen in the number of tender joints, the severity of swelling and tenderness, the time of walk 50 feet, the duration of morning stiffness and the circumference of the left knee. The most frequently observed side effect was fecal occult blood (25% of patients); however, there was no other evidence of gastrointestinal (GI) bleeding in these patients. One patient was prematurely discontinued from the study for severe headache and abdominal pain. Most side effects were mild and related to the GI tract.",
+    "pubmed_id": "3560095",
+    "entities": [
+        [
+            0,
+            12,
+            "Flurbiprofen",
+            "Chemical",
+            "D005480"
+        ],
+        [
+            33,
+            62,
+            "juvenile rheumatoid arthritis",
+            "Disease",
+            "D001171"
+        ],
+        [
+            90,
+            119,
+            "juvenile rheumatoid arthritis",
+            "Disease",
+            "D001171"
+        ],
+        [
+            143,
+            155,
+            "flurbiprofen",
+            "Chemical",
+            "D005480"
+        ],
+        [
+            249,
+            258,
+            "arthritis",
+            "Disease",
+            "D001168"
+        ],
+        [
+            367,
+            375,
+            "swelling",
+            "Disease",
+            "D004487"
+        ],
+        [
+            615,
+            645,
+            "gastrointestinal (GI) bleeding",
+            "Disease",
+            "D006471"
+        ],
+        [
+            732,
+            740,
+            "headache",
+            "Disease",
+            "D006261"
+        ],
+        [
+            745,
+            759,
+            "abdominal pain",
+            "Disease",
+            "D015746"
+        ]
+    ],
+    "split_sentence": [
+        "Flurbiprofen in the treatment of juvenile rheumatoid arthritis.",
+        "Thirty-four patients with juvenile rheumatoid arthritis, who were treated with flurbiprofen at a maximum dose of 4 mg/kg/day, had statistically significant decreases from baseline in 6 arthritis indices after 12 weeks of treatment.",
+        "Improvements were seen in the number of tender joints, the severity of swelling and tenderness, the time of walk 50 feet, the duration of morning stiffness and the circumference of the left knee.",
+        "The most frequently observed side effect was fecal occult blood (25% of patients); however, there was no other evidence of gastrointestinal (GI) bleeding in these patients.",
+        "One patient was prematurely discontinued from the study for severe headache and abdominal pain.",
+        "Most side effects were mild and related to the GI tract."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005480\tChemical\tFlurbiprofen\t<target> Flurbiprofen </target> in the treatment of juvenile rheumatoid arthritis .",
+        "D001171\tDisease\tjuvenile rheumatoid arthritis\tFlurbiprofen in the treatment of <target> juvenile rheumatoid arthritis </target> .",
+        "D001171\tDisease\tjuvenile rheumatoid arthritis\tThirty-four patients with <target> juvenile rheumatoid arthritis </target> , who were treated with flurbiprofen at a maximum dose of 4 mg/kg/day , had statistically significant decreases from baseline in 6 arthritis indices after 12 weeks of treatment .",
+        "D005480\tChemical\tflurbiprofen\tThirty-four patients with juvenile rheumatoid arthritis , who were treated with <target> flurbiprofen </target> at a maximum dose of 4 mg/kg/day , had statistically significant decreases from baseline in 6 arthritis indices after 12 weeks of treatment .",
+        "D001168\tDisease\tarthritis\tThirty-four patients with juvenile rheumatoid arthritis , who were treated with flurbiprofen at a maximum dose of 4 mg/kg/day , had statistically significant decreases from baseline in 6 <target> arthritis </target> indices after 12 weeks of treatment .",
+        "D004487\tDisease\tswelling\tImprovements were seen in the number of tender joints , the severity of <target> swelling </target> and tenderness , the time of walk 50 feet , the duration of morning stiffness and the circumference of the left knee .",
+        "D006471\tDisease\tgastrointestinal (GI) bleeding\tThe most frequently observed side effect was fecal occult blood ( 25 % of patients ) ; however , there was no other evidence of <target> gastrointestinal ( GI ) bleeding </target> in these patients .",
+        "D006261\tDisease\theadache\tOne patient was prematurely discontinued from the study for severe <target> headache </target> and abdominal pain .",
+        "D015746\tDisease\tabdominal pain\tOne patient was prematurely discontinued from the study for severe headache and <target> abdominal pain </target> ."
+    ],
+    "lines_lemma": [
+        "D005480\tChemical\tFlurbiprofen\t<target> Flurbiprofen </target> in the treatment of juvenile rheumatoid arthritis .",
+        "D001171\tDisease\tjuvenile rheumatoid arthritis\tflurbiprofen in the treatment of <target> juvenile rheumatoid arthritis </target> .",
+        "D001171\tDisease\tjuvenile rheumatoid arthritis\tthirty-four patient with <target> juvenile rheumatoid arthritis </target> , who be treat with flurbiprofen at a maximum dose of 4 mg/kg/day , have statistically significant decrease from baseline in 6 arthritis index after 12 week of treatment .",
+        "D005480\tChemical\tflurbiprofen\tthirty-four patient with juvenile rheumatoid arthritis , who be treat with <target> flurbiprofen </target> at a maximum dose of 4 mg/kg/day , have statistically significant decrease from baseline in 6 arthritis index after 12 week of treatment .",
+        "D001168\tDisease\tarthritis\tthirty-four patient with juvenile rheumatoid arthritis , who be treat with flurbiprofen at a maximum dose of 4 mg/kg/day , have statistically significant decrease from baseline in 6 <target> arthritis </target> index after 12 week of treatment .",
+        "D004487\tDisease\tswelling\timprovement be see in the number of tender joint , the severity of <target> swelling </target> and tenderness , the time of walk 50 foot , the duration of morning stiffness and the circumference of the left knee .",
+        "D006471\tDisease\tgastrointestinal (GI) bleeding\tthe most frequently observe side effect be fecal occult blood ( 25 % of patient ) ; however , there be no other evidence of <target> gastrointestinal ( gi ) bleed </target> in these patient .",
+        "D006261\tDisease\theadache\tone patient be prematurely discontinue from the study for severe <target> headache </target> and abdominal pain .",
+        "D015746\tDisease\tabdominal pain\tone patient be prematurely discontinue from the study for severe headache and <target> abdominal pain </target> ."
+    ]
+}

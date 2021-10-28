@@ -1,0 +1,231 @@
+{
+    "title": "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+    "abst": "OBJECTIVE: To report a case of erythema multiforme and hypersensitivity myocarditis caused by ampicillin. CASE SUMMARY: A 13-year-old boy was treated with ampicillin and gentamicin because of suspected septicemia. Medications were discontinued when erythema multiforme and congestive heart failure caused by myocarditis occurred. The patient was treated with methylprednisolone and gradually improved. Macrophage-migration inhibition (MIF) test with ampicillin was positive. DISCUSSION: After most infections causing erythema multiforme and myocarditis were ruled out, a drug-induced allergic reaction was suspected. Positive MIF test for ampicillin showed sensitization of the patient's lymphocytes to ampicillin. CONCLUSIONS: Hypersensitivity myocarditis is a rare and dangerous manifestation of allergy to penicillins.",
+    "title_plus_abst": "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin. OBJECTIVE: To report a case of erythema multiforme and hypersensitivity myocarditis caused by ampicillin. CASE SUMMARY: A 13-year-old boy was treated with ampicillin and gentamicin because of suspected septicemia. Medications were discontinued when erythema multiforme and congestive heart failure caused by myocarditis occurred. The patient was treated with methylprednisolone and gradually improved. Macrophage-migration inhibition (MIF) test with ampicillin was positive. DISCUSSION: After most infections causing erythema multiforme and myocarditis were ruled out, a drug-induced allergic reaction was suspected. Positive MIF test for ampicillin showed sensitization of the patient's lymphocytes to ampicillin. CONCLUSIONS: Hypersensitivity myocarditis is a rare and dangerous manifestation of allergy to penicillins.",
+    "pubmed_id": "7919560",
+    "entities": [
+        [
+            0,
+            19,
+            "Erythema multiforme",
+            "Disease",
+            "D004892"
+        ],
+        [
+            24,
+            52,
+            "hypersensitivity myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            63,
+            73,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            106,
+            125,
+            "erythema multiforme",
+            "Disease",
+            "D004892"
+        ],
+        [
+            130,
+            158,
+            "hypersensitivity myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            169,
+            179,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            230,
+            240,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            245,
+            255,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            277,
+            287,
+            "septicemia",
+            "Disease",
+            "D018805"
+        ],
+        [
+            324,
+            343,
+            "erythema multiforme",
+            "Disease",
+            "D004892"
+        ],
+        [
+            348,
+            372,
+            "congestive heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            383,
+            394,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            434,
+            452,
+            "methylprednisolone",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            525,
+            535,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            573,
+            583,
+            "infections",
+            "Disease",
+            "D007239"
+        ],
+        [
+            592,
+            611,
+            "erythema multiforme",
+            "Disease",
+            "D004892"
+        ],
+        [
+            616,
+            627,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            646,
+            676,
+            "drug-induced allergic reaction",
+            "Disease",
+            "D004342"
+        ],
+        [
+            714,
+            724,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            778,
+            788,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            803,
+            831,
+            "Hypersensitivity myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            873,
+            880,
+            "allergy",
+            "Disease",
+            "D004342"
+        ],
+        [
+            884,
+            895,
+            "penicillins",
+            "Chemical",
+            "D010406"
+        ]
+    ],
+    "split_sentence": [
+        "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+        "OBJECTIVE: To report a case of erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+        "CASE SUMMARY: A 13-year-old boy was treated with ampicillin and gentamicin because of suspected septicemia.",
+        "Medications were discontinued when erythema multiforme and congestive heart failure caused by myocarditis occurred.",
+        "The patient was treated with methylprednisolone and gradually improved.",
+        "Macrophage-migration inhibition (MIF) test with ampicillin was positive.",
+        "DISCUSSION: After most infections causing erythema multiforme and myocarditis were ruled out, a drug-induced allergic reaction was suspected.",
+        "Positive MIF test for ampicillin showed sensitization of the patient's lymphocytes to ampicillin.",
+        "CONCLUSIONS: Hypersensitivity myocarditis is a rare and dangerous manifestation of allergy to penicillins."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004892\tDisease\tErythema multiforme\t<target> Erythema multiforme </target> and hypersensitivity myocarditis caused by ampicillin .",
+        "D009205\tDisease\thypersensitivity myocarditis\tErythema multiforme and <target> hypersensitivity myocarditis </target> caused by ampicillin .",
+        "D000667\tChemical\tampicillin\tErythema multiforme and hypersensitivity myocarditis caused by <target> ampicillin </target> .",
+        "D004892\tDisease\terythema multiforme\tOBJECTIVE : To report a case of <target> erythema multiforme </target> and hypersensitivity myocarditis caused by ampicillin .",
+        "D009205\tDisease\thypersensitivity myocarditis\tOBJECTIVE : To report a case of erythema multiforme and <target> hypersensitivity myocarditis </target> caused by ampicillin .",
+        "D000667\tChemical\tampicillin\tOBJECTIVE : To report a case of erythema multiforme and hypersensitivity myocarditis caused by <target> ampicillin </target> .",
+        "D000667\tChemical\tampicillin\tCASE SUMMARY : A 13-year-old boy was treated with <target> ampicillin </target> and gentamicin because of suspected septicemia .",
+        "D005839\tChemical\tgentamicin\tCASE SUMMARY : A 13-year-old boy was treated with ampicillin and <target> gentamicin </target> because of suspected septicemia .",
+        "D018805\tDisease\tsepticemia\tCASE SUMMARY : A 13-year-old boy was treated with ampicillin and gentamicin because of suspected <target> septicemia </target> .",
+        "D004892\tDisease\terythema multiforme\tMedications were discontinued when <target> erythema multiforme </target> and congestive heart failure caused by myocarditis occurred .",
+        "D006333\tDisease\tcongestive heart failure\tMedications were discontinued when erythema multiforme and <target> congestive heart failure </target> caused by myocarditis occurred .",
+        "D009205\tDisease\tmyocarditis\tMedications were discontinued when erythema multiforme and congestive heart failure caused by <target> myocarditis </target> occurred .",
+        "D008775\tChemical\tmethylprednisolone\tThe patient was treated with <target> methylprednisolone </target> and gradually improved .",
+        "D000667\tChemical\tampicillin\tMacrophage-migration inhibition ( MIF ) test with <target> ampicillin </target> was positive .",
+        "D007239\tDisease\tinfections\tDISCUSSION : After most <target> infections </target> causing erythema multiforme and myocarditis were ruled out , a drug-induced allergic reaction was suspected .",
+        "D004892\tDisease\terythema multiforme\tDISCUSSION : After most infections causing <target> erythema multiforme </target> and myocarditis were ruled out , a drug-induced allergic reaction was suspected .",
+        "D009205\tDisease\tmyocarditis\tDISCUSSION : After most infections causing erythema multiforme and <target> myocarditis </target> were ruled out , a drug-induced allergic reaction was suspected .",
+        "D004342\tDisease\tdrug-induced allergic reaction\tDISCUSSION : After most infections causing erythema multiforme and myocarditis were ruled out , a <target> drug-induced allergic reaction </target> was suspected .",
+        "D000667\tChemical\tampicillin\tPositive MIF test for <target> ampicillin </target> showed sensitization of the patient 's lymphocytes to ampicillin .",
+        "D000667\tChemical\tampicillin\tPositive MIF test for ampicillin showed sensitization of the patient 's lymphocytes to <target> ampicillin </target> .",
+        "D009205\tDisease\tHypersensitivity myocarditis\tCONCLUSIONS : <target> Hypersensitivity myocarditis </target> is a rare and dangerous manifestation of allergy to penicillins .",
+        "D004342\tDisease\tallergy\tCONCLUSIONS : Hypersensitivity myocarditis is a rare and dangerous manifestation of <target> allergy </target> to penicillins .",
+        "D010406\tChemical\tpenicillins\tCONCLUSIONS : Hypersensitivity myocarditis is a rare and dangerous manifestation of allergy to <target> penicillins </target> ."
+    ],
+    "lines_lemma": [
+        "D004892\tDisease\tErythema multiforme\t<target> Erythema multiforme </target> and hypersensitivity myocarditis cause by ampicillin .",
+        "D009205\tDisease\thypersensitivity myocarditis\terythema multiforme and <target> hypersensitivity myocarditis </target> cause by ampicillin .",
+        "D000667\tChemical\tampicillin\terythema multiforme and hypersensitivity myocarditis cause by <target> ampicillin </target> .",
+        "D004892\tDisease\terythema multiforme\tobjective : to report a case of <target> erythema multiforme </target> and hypersensitivity myocarditis cause by ampicillin .",
+        "D009205\tDisease\thypersensitivity myocarditis\tobjective : to report a case of erythema multiforme and <target> hypersensitivity myocarditis </target> cause by ampicillin .",
+        "D000667\tChemical\tampicillin\tobjective : to report a case of erythema multiforme and hypersensitivity myocarditis cause by <target> ampicillin </target> .",
+        "D000667\tChemical\tampicillin\tcase SUMMARY : a 13-year-old boy be treat with <target> ampicillin </target> and gentamicin because of suspect septicemia .",
+        "D005839\tChemical\tgentamicin\tcase SUMMARY : a 13-year-old boy be treat with ampicillin and <target> gentamicin </target> because of suspect septicemia .",
+        "D018805\tDisease\tsepticemia\tcase SUMMARY : a 13-year-old boy be treat with ampicillin and gentamicin because of suspect <target> septicemia </target> .",
+        "D004892\tDisease\terythema multiforme\tmedication be discontinue when <target> erythema multiforme </target> and congestive heart failure cause by myocarditis occur .",
+        "D006333\tDisease\tcongestive heart failure\tmedication be discontinue when erythema multiforme and <target> congestive heart failure </target> cause by myocarditis occur .",
+        "D009205\tDisease\tmyocarditis\tmedication be discontinue when erythema multiforme and congestive heart failure cause by <target> myocarditis </target> occur .",
+        "D008775\tChemical\tmethylprednisolone\tthe patient be treat with <target> methylprednisolone </target> and gradually improve .",
+        "D000667\tChemical\tampicillin\tmacrophage-migration inhibition ( mif ) test with <target> ampicillin </target> be positive .",
+        "D007239\tDisease\tinfections\tDISCUSSION : after most <target> infection </target> cause erythema multiforme and myocarditis be rule out , a drug-induced allergic reaction be suspect .",
+        "D004892\tDisease\terythema multiforme\tDISCUSSION : after most infection cause <target> erythema multiforme </target> and myocarditis be rule out , a drug-induced allergic reaction be suspect .",
+        "D009205\tDisease\tmyocarditis\tDISCUSSION : after most infection cause erythema multiforme and <target> myocarditis </target> be rule out , a drug-induced allergic reaction be suspect .",
+        "D004342\tDisease\tdrug-induced allergic reaction\tDISCUSSION : after most infection cause erythema multiforme and myocarditis be rule out , a <target> drug-induced allergic reaction </target> be suspect .",
+        "D000667\tChemical\tampicillin\tpositive MIF test for <target> ampicillin </target> show sensitization of the patient 's lymphocyte to ampicillin .",
+        "D000667\tChemical\tampicillin\tpositive MIF test for ampicillin show sensitization of the patient 's lymphocyte to <target> ampicillin </target> .",
+        "D009205\tDisease\tHypersensitivity myocarditis\tconclusion : <target> hypersensitivity myocarditis </target> be a rare and dangerous manifestation of allergy to penicillin .",
+        "D004342\tDisease\tallergy\tconclusion : hypersensitivity myocarditis be a rare and dangerous manifestation of <target> allergy </target> to penicillin .",
+        "D010406\tChemical\tpenicillins\tconclusion : hypersensitivity myocarditis be a rare and dangerous manifestation of allergy to <target> penicillin </target> ."
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "title": "Amiodarone-induced myxoedema coma.",
+    "abst": "A 62-year-old man was found to have bradycardia, hypothermia and respiratory failure 3 weeks after initiation of amiodarone therapy for atrial fibrillation. Thyroid-stimulating hormone was found to be 168 uIU/mL (nl. 0.3-5 uIU/mL) and free thyroxine (FT4) was <0.2 ng/dL (nl. 0.8-1.8 ng/dL). He received intravenous fluids, vasopressor therapy and stress dose steroids; he was intubated and admitted to the intensive care unit. He received 500 ug of intravenous levothyroxine in the first 18 h of therapy, and 150 ug intravenous daily thereafter. Haemodynamic improvement, along with complete recovery of mental status, occurred after 48 h. Twelve hours after the initiation of therapy, FT4 was 0.96 ng/dL. The patient was maintained on levothyroxine 175 (g POorally daily. A thyroid ultrasound showed diffuse heterogeneity. The 24 hour excretion of iodine was 3657 (mcg (25-756 ( mcg). The only two cases of amiodarone-induced myxoedema coma in the literature report patient death despite supportive therapy and thyroid hormone replacement. This case represents the most thoroughly investigated case of amiodarone-induced myxoedema coma with a history significant for subclinical thyroid disease.",
+    "title_plus_abst": "Amiodarone-induced myxoedema coma. A 62-year-old man was found to have bradycardia, hypothermia and respiratory failure 3 weeks after initiation of amiodarone therapy for atrial fibrillation. Thyroid-stimulating hormone was found to be 168 uIU/mL (nl. 0.3-5 uIU/mL) and free thyroxine (FT4) was <0.2 ng/dL (nl. 0.8-1.8 ng/dL). He received intravenous fluids, vasopressor therapy and stress dose steroids; he was intubated and admitted to the intensive care unit. He received 500 ug of intravenous levothyroxine in the first 18 h of therapy, and 150 ug intravenous daily thereafter. Haemodynamic improvement, along with complete recovery of mental status, occurred after 48 h. Twelve hours after the initiation of therapy, FT4 was 0.96 ng/dL. The patient was maintained on levothyroxine 175 (g POorally daily. A thyroid ultrasound showed diffuse heterogeneity. The 24 hour excretion of iodine was 3657 (mcg (25-756 ( mcg). The only two cases of amiodarone-induced myxoedema coma in the literature report patient death despite supportive therapy and thyroid hormone replacement. This case represents the most thoroughly investigated case of amiodarone-induced myxoedema coma with a history significant for subclinical thyroid disease.",
+    "pubmed_id": "24729111",
+    "entities": [
+        [
+            0,
+            10,
+            "Amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            71,
+            82,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            84,
+            95,
+            "hypothermia",
+            "Disease",
+            "D007035"
+        ],
+        [
+            100,
+            119,
+            "respiratory failure",
+            "Disease",
+            "D012131"
+        ],
+        [
+            148,
+            158,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            171,
+            190,
+            "atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            275,
+            284,
+            "thyroxine",
+            "Chemical",
+            "D013974"
+        ],
+        [
+            395,
+            403,
+            "steroids",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            497,
+            510,
+            "levothyroxine",
+            "Chemical",
+            "D013974"
+        ],
+        [
+            772,
+            785,
+            "levothyroxine",
+            "Chemical",
+            "D013974"
+        ],
+        [
+            885,
+            891,
+            "iodine",
+            "Chemical",
+            "D007455"
+        ],
+        [
+            944,
+            954,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            1139,
+            1149,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            1216,
+            1231,
+            "thyroid disease",
+            "Disease",
+            "D013959"
+        ]
+    ],
+    "split_sentence": [
+        "Amiodarone-induced myxoedema coma.",
+        "A 62-year-old man was found to have bradycardia, hypothermia and respiratory failure 3 weeks after initiation of amiodarone therapy for atrial fibrillation.",
+        "Thyroid-stimulating hormone was found to be 168 uIU/mL (nl. 0.3-5 uIU/mL) and free thyroxine (FT4) was <0.2 ng/dL (nl. 0.8-1.8 ng/dL).",
+        "He received intravenous fluids, vasopressor therapy and stress dose steroids; he was intubated and admitted to the intensive care unit.",
+        "He received 500 ug of intravenous levothyroxine in the first 18 h of therapy, and 150 ug intravenous daily thereafter.",
+        "Haemodynamic improvement, along with complete recovery of mental status, occurred after 48 h. Twelve hours after the initiation of therapy, FT4 was 0.96 ng/dL. The patient was maintained on levothyroxine 175 (g POorally daily.",
+        "A thyroid ultrasound showed diffuse heterogeneity.",
+        "The 24 hour excretion of iodine was 3657 (mcg (25-756 ( mcg).",
+        "The only two cases of amiodarone-induced myxoedema coma in the literature report patient death despite supportive therapy and thyroid hormone replacement.",
+        "This case represents the most thoroughly investigated case of amiodarone-induced myxoedema coma with a history significant for subclinical thyroid disease."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> -induced myxoedema coma .",
+        "D001919\tDisease\tbradycardia\tA 62-year-old man was found to have <target> bradycardia </target> , hypothermia and respiratory failure 3 weeks after initiation of amiodarone therapy for atrial fibrillation .",
+        "D007035\tDisease\thypothermia\tA 62-year-old man was found to have bradycardia , <target> hypothermia </target> and respiratory failure 3 weeks after initiation of amiodarone therapy for atrial fibrillation .",
+        "D012131\tDisease\trespiratory failure\tA 62-year-old man was found to have bradycardia , hypothermia and <target> respiratory failure </target> 3 weeks after initiation of amiodarone therapy for atrial fibrillation .",
+        "D000638\tChemical\tamiodarone\tA 62-year-old man was found to have bradycardia , hypothermia and respiratory failure 3 weeks after initiation of <target> amiodarone </target> therapy for atrial fibrillation .",
+        "D001281\tDisease\tatrial fibrillation\tA 62-year-old man was found to have bradycardia , hypothermia and respiratory failure 3 weeks after initiation of amiodarone therapy for <target> atrial fibrillation </target> .",
+        "D013974\tChemical\tthyroxine\tThyroid-stimulating hormone was found to be 168 uIU/mL ( nl . 0.3 - 5 uIU/mL ) and free <target> thyroxine </target> ( FT4 ) was < 0.2 ng/dL ( nl . 0.8 - 1.8 ng/dL ) .",
+        "D013256\tChemical\tsteroids\tHe received intravenous fluids , vasopressor therapy and stress dose <target> steroids </target> ; he was intubated and admitted to the intensive care unit .",
+        "D013974\tChemical\tlevothyroxine\tHe received 500 ug of intravenous <target> levothyroxine </target> in the first 18 h of therapy , and 150 ug intravenous daily thereafter .",
+        "D013974\tChemical\tlevothyroxine\tHaemodynamic improvement , along with complete recovery of mental status , occurred after 48 h. Twelve hours after the initiation of therapy , FT4 was 0.96 ng/dL. The patient was maintained on <target> levothyroxine </target> 175 ( g POorally daily .",
+        "D007455\tChemical\tiodine\tThe 24 hour excretion of <target> iodine </target> was 3657 ( mcg ( 25 - 756 ( mcg ) .",
+        "D000638\tChemical\tamiodarone\tThe only two cases of <target> amiodarone </target> -induced myxoedema coma in the literature report patient death despite supportive therapy and thyroid hormone replacement .",
+        "D000638\tChemical\tamiodarone\tThis case represents the most thoroughly investigated case of <target> amiodarone </target> -induced myxoedema coma with a history significant for subclinical thyroid disease .",
+        "D013959\tDisease\tthyroid disease\tThis case represents the most thoroughly investigated case of amiodarone-induced myxoedema coma with a history significant for subclinical <target> thyroid disease </target> ."
+    ],
+    "lines_lemma": [
+        "D000638\tChemical\tAmiodarone\t<target> amiodarone </target> -induced myxoedema coma .",
+        "D001919\tDisease\tbradycardia\ta 62-year-old man be find to have <target> bradycardia </target> , hypothermia and respiratory failure 3 week after initiation of amiodarone therapy for atrial fibrillation .",
+        "D007035\tDisease\thypothermia\ta 62-year-old man be find to have bradycardia , <target> hypothermia </target> and respiratory failure 3 week after initiation of amiodarone therapy for atrial fibrillation .",
+        "D012131\tDisease\trespiratory failure\ta 62-year-old man be find to have bradycardia , hypothermia and <target> respiratory failure </target> 3 week after initiation of amiodarone therapy for atrial fibrillation .",
+        "D000638\tChemical\tamiodarone\ta 62-year-old man be find to have bradycardia , hypothermia and respiratory failure 3 week after initiation of <target> amiodarone </target> therapy for atrial fibrillation .",
+        "D001281\tDisease\tatrial fibrillation\ta 62-year-old man be find to have bradycardia , hypothermia and respiratory failure 3 week after initiation of amiodarone therapy for <target> atrial fibrillation </target> .",
+        "D013974\tChemical\tthyroxine\tthyroid-stimulating hormone be find to be 168 uiu/ml ( nl . 0.3 - 5 uiu/ml ) and free <target> thyroxine </target> ( ft4 ) be < 0.2 ng/dl ( nl . 0.8 - 1.8 ng/dl ) .",
+        "D013256\tChemical\tsteroids\the receive intravenous fluid , vasopressor therapy and stress dose <target> steroid </target> ; he be intubate and admit to the intensive care unit .",
+        "D013974\tChemical\tlevothyroxine\the receive 500 ug of intravenous <target> levothyroxine </target> in the first 18 h of therapy , and 150 ug intravenous daily thereafter .",
+        "D013974\tChemical\tlevothyroxine\thaemodynamic improvement , along with complete recovery of mental status , occur after 48 h. twelve hour after the initiation of therapy , ft4 be 0.96 ng/dl. the patient be maintain on <target> levothyroxine </target> 175 ( g poorally daily .",
+        "D007455\tChemical\tiodine\tthe 24 hour excretion of <target> iodine </target> be 3657 ( mcg ( 25 - 756 ( mcg ) .",
+        "D000638\tChemical\tamiodarone\tthe only two case of <target> amiodarone </target> -induced myxoedema coma in the literature report patient death despite supportive therapy and thyroid hormone replacement .",
+        "D000638\tChemical\tamiodarone\tthis case represent the most thoroughly investigate case of <target> amiodarone </target> -induced myxoedema coma with a history significant for subclinical thyroid disease .",
+        "D013959\tDisease\tthyroid disease\tthis case represent the most thoroughly investigate case of amiodarone-induced myxoedema coma with a history significant for subclinical <target> thyroid disease </target> ."
+    ]
+}

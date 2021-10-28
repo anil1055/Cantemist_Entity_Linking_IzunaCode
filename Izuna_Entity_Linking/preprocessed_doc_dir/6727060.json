@@ -1,0 +1,92 @@
+{
+    "title": "A case of tardive dyskinesia caused by metoclopramide.",
+    "abst": "Abnormal involuntary movements appeared in the mouth, tongue, neck and abdomen of a 64-year-old male patient after he took metoclopramide for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 days. The symptoms exacerbated to a maximum in a month. When the metoclopramide administration was discontinued, the abnormal movements gradually improved to a considerable extent. Attention to the possible induction of specific tardive dyskinesia is called for in the use of this drug.",
+    "title_plus_abst": "A case of tardive dyskinesia caused by metoclopramide. Abnormal involuntary movements appeared in the mouth, tongue, neck and abdomen of a 64-year-old male patient after he took metoclopramide for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 days. The symptoms exacerbated to a maximum in a month. When the metoclopramide administration was discontinued, the abnormal movements gradually improved to a considerable extent. Attention to the possible induction of specific tardive dyskinesia is called for in the use of this drug.",
+    "pubmed_id": "6727060",
+    "entities": [
+        [
+            10,
+            28,
+            "tardive dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            39,
+            53,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            55,
+            85,
+            "Abnormal involuntary movements",
+            "Disease",
+            "D004409"
+        ],
+        [
+            178,
+            192,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            197,
+            222,
+            "gastrointestinal disorder",
+            "Disease",
+            "D005767"
+        ],
+        [
+            343,
+            357,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            395,
+            413,
+            "abnormal movements",
+            "Disease",
+            "D004409"
+        ],
+        [
+            507,
+            525,
+            "tardive dyskinesia",
+            "Disease",
+            "D004409"
+        ]
+    ],
+    "split_sentence": [
+        "A case of tardive dyskinesia caused by metoclopramide.",
+        "Abnormal involuntary movements appeared in the mouth, tongue, neck and abdomen of a 64-year-old male patient after he took metoclopramide for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 days.",
+        "The symptoms exacerbated to a maximum in a month.",
+        "When the metoclopramide administration was discontinued, the abnormal movements gradually improved to a considerable extent.",
+        "Attention to the possible induction of specific tardive dyskinesia is called for in the use of this drug."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004409\tDisease\ttardive dyskinesia\tA case of <target> tardive dyskinesia </target> caused by metoclopramide .",
+        "D008787\tChemical\tmetoclopramide\tA case of tardive dyskinesia caused by <target> metoclopramide </target> .",
+        "D004409\tDisease\tAbnormal involuntary movements\t<target> Abnormal involuntary movements </target> appeared in the mouth , tongue , neck and abdomen of a 64-year-old male patient after he took metoclopramide for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 days .",
+        "D008787\tChemical\tmetoclopramide\tAbnormal involuntary movements appeared in the mouth , tongue , neck and abdomen of a 64-year-old male patient after he took <target> metoclopramide </target> for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 days .",
+        "D005767\tDisease\tgastrointestinal disorder\tAbnormal involuntary movements appeared in the mouth , tongue , neck and abdomen of a 64-year-old male patient after he took metoclopramide for <target> gastrointestinal disorder </target> in a regimen of 30 mg per day for a total of about 260 days .",
+        "D008787\tChemical\tmetoclopramide\tWhen the <target> metoclopramide </target> administration was discontinued , the abnormal movements gradually improved to a considerable extent .",
+        "D004409\tDisease\tabnormal movements\tWhen the metoclopramide administration was discontinued , the <target> abnormal movements </target> gradually improved to a considerable extent .",
+        "D004409\tDisease\ttardive dyskinesia\tAttention to the possible induction of specific <target> tardive dyskinesia </target> is called for in the use of this drug ."
+    ],
+    "lines_lemma": [
+        "D004409\tDisease\ttardive dyskinesia\ta case of <target> tardive dyskinesia </target> cause by metoclopramide .",
+        "D008787\tChemical\tmetoclopramide\ta case of tardive dyskinesia cause by <target> metoclopramide </target> .",
+        "D004409\tDisease\tAbnormal involuntary movements\t<target> abnormal involuntary movement </target> appear in the mouth , tongue , neck and abdoman of a 64-year-old male patient after he take metoclopramide for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 day .",
+        "D008787\tChemical\tmetoclopramide\tabnormal involuntary movement appear in the mouth , tongue , neck and abdoman of a 64-year-old male patient after he take <target> metoclopramide </target> for gastrointestinal disorder in a regimen of 30 mg per day for a total of about 260 day .",
+        "D005767\tDisease\tgastrointestinal disorder\tabnormal involuntary movement appear in the mouth , tongue , neck and abdoman of a 64-year-old male patient after he take metoclopramide for <target> gastrointestinal disorder </target> in a regimen of 30 mg per day for a total of about 260 day .",
+        "D008787\tChemical\tmetoclopramide\twhen the <target> metoclopramide </target> administration be discontinue , the abnormal movement gradually improve to a considerable extent .",
+        "D004409\tDisease\tabnormal movements\twhen the metoclopramide administration be discontinue , the <target> abnormal movement </target> gradually improve to a considerable extent .",
+        "D004409\tDisease\ttardive dyskinesia\tattention to the possible induction of specific <target> tardive dyskinesia </target> be call for in the use of this drug ."
+    ]
+}

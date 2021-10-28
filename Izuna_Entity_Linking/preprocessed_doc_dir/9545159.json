@@ -1,0 +1,193 @@
+{
+    "title": "Prolongation of the QT interval related to cisapride-diltiazem interaction.",
+    "abst": "Cisapride, a cytochrome P450 3A4 (CYP3A4) substrate, is widely prescribed for the treatment of gastrointestinal motility disorders. Prolongation of QT interval, torsades de pointes, and sudden cardiac death have been reported after concomitant administration with erythromycin or azole antifungal agents, but not with other CYP3A4 inhibitors. A possible drug interaction occurred in a 45-year-old woman who was taking cisapride for gastroesophageal reflux disorder and diltiazem, an agent that has inhibitory effect on CYP3A4, for hypertension. The patient was in near syncope and had QT-interval prolongation. After discontinuing cisapride, the QT interval returned to normal and symptoms did not recur. We suggest that caution be taken when cisapride is prescribed with any potent inhibitor of CYP3A4, including diltiazem.",
+    "title_plus_abst": "Prolongation of the QT interval related to cisapride-diltiazem interaction. Cisapride, a cytochrome P450 3A4 (CYP3A4) substrate, is widely prescribed for the treatment of gastrointestinal motility disorders. Prolongation of QT interval, torsades de pointes, and sudden cardiac death have been reported after concomitant administration with erythromycin or azole antifungal agents, but not with other CYP3A4 inhibitors. A possible drug interaction occurred in a 45-year-old woman who was taking cisapride for gastroesophageal reflux disorder and diltiazem, an agent that has inhibitory effect on CYP3A4, for hypertension. The patient was in near syncope and had QT-interval prolongation. After discontinuing cisapride, the QT interval returned to normal and symptoms did not recur. We suggest that caution be taken when cisapride is prescribed with any potent inhibitor of CYP3A4, including diltiazem.",
+    "pubmed_id": "9545159",
+    "entities": [
+        [
+            0,
+            31,
+            "Prolongation of the QT interval",
+            "Disease",
+            "D008133"
+        ],
+        [
+            43,
+            52,
+            "cisapride",
+            "Chemical",
+            "D020117"
+        ],
+        [
+            53,
+            62,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            76,
+            85,
+            "Cisapride",
+            "Chemical",
+            "D020117"
+        ],
+        [
+            171,
+            206,
+            "gastrointestinal motility disorders",
+            "Disease",
+            "D015835"
+        ],
+        [
+            208,
+            235,
+            "Prolongation of QT interval",
+            "Disease",
+            "D008133"
+        ],
+        [
+            237,
+            256,
+            "torsades de pointes",
+            "Disease",
+            "D016171"
+        ],
+        [
+            262,
+            282,
+            "sudden cardiac death",
+            "Disease",
+            "D016757"
+        ],
+        [
+            340,
+            352,
+            "erythromycin",
+            "Chemical",
+            "D004917"
+        ],
+        [
+            356,
+            361,
+            "azole",
+            "Chemical",
+            "D001393"
+        ],
+        [
+            494,
+            503,
+            "cisapride",
+            "Chemical",
+            "D020117"
+        ],
+        [
+            508,
+            540,
+            "gastroesophageal reflux disorder",
+            "Disease",
+            "D005764"
+        ],
+        [
+            545,
+            554,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ],
+        [
+            607,
+            619,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            645,
+            652,
+            "syncope",
+            "Disease",
+            "D013575"
+        ],
+        [
+            661,
+            685,
+            "QT-interval prolongation",
+            "Disease",
+            "D008133"
+        ],
+        [
+            707,
+            716,
+            "cisapride",
+            "Chemical",
+            "D020117"
+        ],
+        [
+            819,
+            828,
+            "cisapride",
+            "Chemical",
+            "D020117"
+        ],
+        [
+            890,
+            899,
+            "diltiazem",
+            "Chemical",
+            "D004110"
+        ]
+    ],
+    "split_sentence": [
+        "Prolongation of the QT interval related to cisapride-diltiazem interaction.",
+        "Cisapride, a cytochrome P450 3A4 (CYP3A4) substrate, is widely prescribed for the treatment of gastrointestinal motility disorders.",
+        "Prolongation of QT interval, torsades de pointes, and sudden cardiac death have been reported after concomitant administration with erythromycin or azole antifungal agents, but not with other CYP3A4 inhibitors.",
+        "A possible drug interaction occurred in a 45-year-old woman who was taking cisapride for gastroesophageal reflux disorder and diltiazem, an agent that has inhibitory effect on CYP3A4, for hypertension.",
+        "The patient was in near syncope and had QT-interval prolongation.",
+        "After discontinuing cisapride, the QT interval returned to normal and symptoms did not recur.",
+        "We suggest that caution be taken when cisapride is prescribed with any potent inhibitor of CYP3A4, including diltiazem."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008133\tDisease\tProlongation of the QT interval\t<target> Prolongation of the QT interval </target> related to cisapride-diltiazem interaction .",
+        "D020117\tChemical\tcisapride\tProlongation of the QT interval related to <target> cisapride </target> -diltiazem interaction .",
+        "D004110\tChemical\tdiltiazem\tProlongation of the QT interval related to cisapride- <target> diltiazem </target> interaction .",
+        "D020117\tChemical\tCisapride\t<target> Cisapride </target> , a cytochrome P450 3A4 ( CYP3A4 ) substrate , is widely prescribed for the treatment of gastrointestinal motility disorders .",
+        "D015835\tDisease\tgastrointestinal motility disorders\tCisapride , a cytochrome P450 3A4 ( CYP3A4 ) substrate , is widely prescribed for the treatment of <target> gastrointestinal motility disorders </target> .",
+        "D008133\tDisease\tProlongation of QT interval\t<target> Prolongation of QT interval </target> , torsades de pointes , and sudden cardiac death have been reported after concomitant administration with erythromycin or azole antifungal agents , but not with other CYP3A4 inhibitors .",
+        "D016171\tDisease\ttorsades de pointes\tProlongation of QT interval , <target> torsades de pointes </target> , and sudden cardiac death have been reported after concomitant administration with erythromycin or azole antifungal agents , but not with other CYP3A4 inhibitors .",
+        "D016757\tDisease\tsudden cardiac death\tProlongation of QT interval , torsades de pointes , and <target> sudden cardiac death </target> have been reported after concomitant administration with erythromycin or azole antifungal agents , but not with other CYP3A4 inhibitors .",
+        "D004917\tChemical\terythromycin\tProlongation of QT interval , torsades de pointes , and sudden cardiac death have been reported after concomitant administration with <target> erythromycin </target> or azole antifungal agents , but not with other CYP3A4 inhibitors .",
+        "D001393\tChemical\tazole\tProlongation of QT interval , torsades de pointes , and sudden cardiac death have been reported after concomitant administration with erythromycin or <target> azole </target> antifungal agents , but not with other CYP3A4 inhibitors .",
+        "D020117\tChemical\tcisapride\tA possible drug interaction occurred in a 45-year-old woman who was taking <target> cisapride </target> for gastroesophageal reflux disorder and diltiazem , an agent that has inhibitory effect on CYP3A4 , for hypertension .",
+        "D005764\tDisease\tgastroesophageal reflux disorder\tA possible drug interaction occurred in a 45-year-old woman who was taking cisapride for <target> gastroesophageal reflux disorder </target> and diltiazem , an agent that has inhibitory effect on CYP3A4 , for hypertension .",
+        "D004110\tChemical\tdiltiazem\tA possible drug interaction occurred in a 45-year-old woman who was taking cisapride for gastroesophageal reflux disorder and <target> diltiazem </target> , an agent that has inhibitory effect on CYP3A4 , for hypertension .",
+        "D006973\tDisease\thypertension\tA possible drug interaction occurred in a 45-year-old woman who was taking cisapride for gastroesophageal reflux disorder and diltiazem , an agent that has inhibitory effect on CYP3A4 , for <target> hypertension </target> .",
+        "D013575\tDisease\tsyncope\tThe patient was in near <target> syncope </target> and had QT-interval prolongation .",
+        "D008133\tDisease\tQT-interval prolongation\tThe patient was in near syncope and had <target> QT-interval prolongation </target> .",
+        "D020117\tChemical\tcisapride\tAfter discontinuing <target> cisapride </target> , the QT interval returned to normal and symptoms did not recur .",
+        "D020117\tChemical\tcisapride\tWe suggest that caution be taken when <target> cisapride </target> is prescribed with any potent inhibitor of CYP3A4 , including diltiazem .",
+        "D004110\tChemical\tdiltiazem\tWe suggest that caution be taken when cisapride is prescribed with any potent inhibitor of CYP3A4 , including <target> diltiazem </target> ."
+    ],
+    "lines_lemma": [
+        "D008133\tDisease\tProlongation of the QT interval\t<target> prolongation of the qt interval </target> related to cisapride-diltiazem interaction .",
+        "D020117\tChemical\tcisapride\tprolongation of the qt interval related to <target> cisapride </target> -diltiazem interaction .",
+        "D004110\tChemical\tdiltiazem\tprolongation of the qt interval related to cisapride- <target> diltiazem </target> interaction .",
+        "D020117\tChemical\tCisapride\t<target> Cisapride </target> , a cytochrome p450 3a4 ( cyp3a4 ) substrate , be widely prescribe for the treatment of gastrointestinal motility disorder .",
+        "D015835\tDisease\tgastrointestinal motility disorders\tCisapride , a cytochrome p450 3a4 ( cyp3a4 ) substrate , be widely prescribe for the treatment of <target> gastrointestinal motility disorder </target> .",
+        "D008133\tDisease\tProlongation of QT interval\t<target> prolongation of qt interval </target> , torsade de pointe , and sudden cardiac death have be report after concomitant administration with erythromycin or azole antifungal agent , but not with other cyp3a4 inhibitor .",
+        "D016171\tDisease\ttorsades de pointes\tprolongation of qt interval , <target> torsade de pointe </target> , and sudden cardiac death have be report after concomitant administration with erythromycin or azole antifungal agent , but not with other cyp3a4 inhibitor .",
+        "D016757\tDisease\tsudden cardiac death\tprolongation of qt interval , torsade de pointe , and <target> sudden cardiac death </target> have be report after concomitant administration with erythromycin or azole antifungal agent , but not with other cyp3a4 inhibitor .",
+        "D004917\tChemical\terythromycin\tprolongation of qt interval , torsade de pointe , and sudden cardiac death have be report after concomitant administration with <target> erythromycin </target> or azole antifungal agent , but not with other cyp3a4 inhibitor .",
+        "D001393\tChemical\tazole\tprolongation of qt interval , torsade de pointe , and sudden cardiac death have be report after concomitant administration with erythromycin or <target> azole </target> antifungal agent , but not with other cyp3a4 inhibitor .",
+        "D020117\tChemical\tcisapride\ta possible drug interaction occur in a 45-year-old woman who be take <target> cisapride </target> for gastroesophageal reflux disorder and diltiazem , an agent that have inhibitory effect on cyp3a4 , for hypertension .",
+        "D005764\tDisease\tgastroesophageal reflux disorder\ta possible drug interaction occur in a 45-year-old woman who be take cisapride for <target> gastroesophageal reflux disorder </target> and diltiazem , an agent that have inhibitory effect on cyp3a4 , for hypertension .",
+        "D004110\tChemical\tdiltiazem\ta possible drug interaction occur in a 45-year-old woman who be take cisapride for gastroesophageal reflux disorder and <target> diltiazem </target> , an agent that have inhibitory effect on cyp3a4 , for hypertension .",
+        "D006973\tDisease\thypertension\ta possible drug interaction occur in a 45-year-old woman who be take cisapride for gastroesophageal reflux disorder and diltiazem , an agent that have inhibitory effect on cyp3a4 , for <target> hypertension </target> .",
+        "D013575\tDisease\tsyncope\tthe patient be in near <target> syncope </target> and have qt-interval prolongation .",
+        "D008133\tDisease\tQT-interval prolongation\tthe patient be in near syncope and have <target> qt-interval prolongation </target> .",
+        "D020117\tChemical\tcisapride\tafter discontinue <target> cisapride </target> , the QT interval return to normal and symptom do not recur .",
+        "D020117\tChemical\tcisapride\twe suggest that caution be take when <target> cisapride </target> be prescribe with any potent inhibitor of cyp3a4 , include diltiazem .",
+        "D004110\tChemical\tdiltiazem\twe suggest that caution be take when cisapride be prescribe with any potent inhibitor of cyp3a4 , include <target> diltiazem </target> ."
+    ]
+}

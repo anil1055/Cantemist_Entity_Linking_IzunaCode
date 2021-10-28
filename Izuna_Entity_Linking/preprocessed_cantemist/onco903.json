@@ -1,0 +1,179 @@
+{
+    "entities": [
+        [
+            233,
+            242,
+            "cavernoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "9121/0"
+        ],
+        [
+            1888,
+            1898,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            882,
+            890,
+            "melanoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/3"
+        ],
+        [
+            1449,
+            1457,
+            "melanoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/3"
+        ],
+        [
+            1660,
+            1670,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1128,
+            1137,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            300,
+            305,
+            "nevus",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/0"
+        ],
+        [
+            182,
+            200,
+            "tumoración benigna",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/0"
+        ],
+        [
+            941,
+            995,
+            "Neoplasia de melanocitos epitelioides con pleomorfismo",
+            "MORFOLOGIA_NEOPLASIA",
+            "8771/3/H"
+        ],
+        [
+            1236,
+            1246,
+            "neoplásica",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1398,
+            1406,
+            "Melanoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/3"
+        ],
+        [
+            2219,
+            2239,
+            "melanoma metastásico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/6"
+        ],
+        [
+            1830,
+            1848,
+            "nódulos pulmonares",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2255,
+            2274,
+            "afectación pulmonar",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Varón de 44 años, bebedor de un l de cerveza al día, e hipertenso que, como antecedentes de interés, destaca esteatosis hepática, orquiectomía izquierda en 1997 a causa de tumoración benigna y seguimiento en Neurología por  <objetivo> cavernoma </objetivo> ",
+        "Dermatología completa el estudio de extensión con PET-TC, que objetiva captación patológica mediastínica, subcarinal e hiliar izquierda, junto con nódulos pulmonares de moderada tasa, aunque sugestivos de  <objetivo> malignidad </objetivo> ",
+        "El estudio anatomopatológico concluye con hallazgos morfológicos e inmunohistoquímicos concordantes con  <objetivo> melanoma </objetivo> Clark III.",
+        "Al tratarse de un  <objetivo> melanoma </objetivo> estadio I, se desestima tratamiento oncológico adyuvante y continúa seguimiento por parte de Dermatología.",
+        "Tras dicha prueba, confirmamos que nos encontramos ante un  <objetivo> melanoma </objetivo> metastásico estadio IV por afectación pulmonar y adenopática, BRAF negativo y con performance status de 0.",
+        "El estudio anatomopatológico concluye con hallazgos morfológicos e inmunohistoquímicos concordantes con  <objetivo> melanoma </objetivo> Clark III.",
+        "Al tratarse de un  <objetivo> melanoma </objetivo> estadio I, se desestima tratamiento oncológico adyuvante y continúa seguimiento por parte de Dermatología.",
+        "Tras dicha prueba, confirmamos que nos encontramos ante un  <objetivo> melanoma </objetivo> metastásico estadio IV por afectación pulmonar y adenopática, BRAF negativo y con performance status de 0.",
+        "En abril 2016, estando el paciente asintomático, se realiza TC torácica que sugiere  <objetivo> metástasis </objetivo> pulmonares.",
+        "Amplificación de márgenes con resultado de ausencia de  <objetivo> neoplasia </objetivo> residual.",
+        "En octubre de 2014, es intervenido en centro privado de  <objetivo> nevus </objetivo> en rama ascendente mandibular derecha de meses de evolución, con sangrado al afeitado, que requiere ampliación de márgenes en un segundo tiempo.",
+        "Varón de 44 años, bebedor de un l de cerveza al día, e hipertenso que, como antecedentes de interés, destaca esteatosis hepática, orquiectomía izquierda en 1997 a causa de  <objetivo> tumoración benigna </objetivo> y seguimiento en Neurología por cavernoma.",
+        "<objetivo> Neoplasia de melanocitos epitelioides con pleomorfismo </objetivo> e índice mitótico de 2 mitosis/2 mm2.",
+        "En diciembre de 2014, se realiza TC de tórax y abdomen donde no se evidencia enfermedad  <objetivo> neoplásica </objetivo> ",
+        "<objetivo> Melanoma </objetivo> estadio I.",
+        "Tras dicha prueba, confirmamos que nos encontramos ante un  <objetivo> melanoma metastásico </objetivo> estadio IV por afectación pulmonar y adenopática, BRAF negativo y con performance status de 0.",
+        "Dermatología completa el estudio de extensión con PET-TC, que objetiva captación patológica mediastínica, subcarinal e hiliar izquierda, junto con  <objetivo> nódulos pulmonares </objetivo> de moderada tasa, aunque sugestivos de malignidad.",
+        "Tras dicha prueba, confirmamos que nos encontramos ante un melanoma metastásico estadio IV por  <objetivo> afectación pulmonar </objetivo> y adenopática, BRAF negativo y con performance status de 0."
+    ],
+    "lines_lemma": [
+        "Varón de 44 año , bebedor de uno l de cerveza al día , e hipertenso que , como antecedente de interés , destacar esteatosis hepático , orquiectomía izquierdo en 1997 a causa de tumoración benigno y seguimiento en Neurología por   <objetivo> cavernomar </objetivo>",
+        "dermatología completar el estudio de extensión con PET-TC , que objetivo captación patológico mediastínico , subcarinal e hiliar izquierdo , junto con nódulo pulmonar de moderado tasa , aunque sugestivo de   <objetivo> malignidad </objetivo>",
+        "el estudio anatomopatológico concluir con hallazgo morfológico e inmunohistoquímico concordant con   <objetivo> melanomar </objetivo> Clark III .",
+        "al tratar él de uno   <objetivo> melanomar </objetivo> estadio I , él desestimar tratamiento oncológico adyuvante y continúar seguimiento por parte de Dermatología .",
+        "tras dicho prueba , confirmamos que yo encontrar ante uno   <objetivo> melanomar </objetivo> metastásico estadio IV por afectación pulmonar y adenopático , BRAF negativo y con performance status de 0 .",
+        "el estudio anatomopatológico concluir con hallazgo morfológico e inmunohistoquímico concordant con   <objetivo> melanomar </objetivo> Clark III .",
+        "al tratar él de uno   <objetivo> melanomar </objetivo> estadio I , él desestimar tratamiento oncológico adyuvante y continúar seguimiento por parte de Dermatología .",
+        "tras dicho prueba , confirmamos que yo encontrar ante uno   <objetivo> melanomar </objetivo> metastásico estadio IV por afectación pulmonar y adenopático , BRAF negativo y con performance status de 0 .",
+        "en abril 2016 , estar el paciente asintomático , él realizar TC torácico que sugerir   <objetivo> metástasi </objetivo> pulmonar .",
+        "amplificación de margen con resultado de ausencia de   <objetivo> neoplasio </objetivo> residual .",
+        "en octubre de 2014 , ser intervenir en centro privado de   <objetivo> nevus </objetivo> en rama ascendente mandibular derecha de mes de evolución , con sangrado al afeitado , que requerir ampliación de margen en uno segundo tiempo .",
+        "Varón de 44 año , bebedor de uno l de cerveza al día , e hipertenso que , como antecedente de interés , destacar esteatosis hepático , orquiectomía izquierdo en 1997 a causa de   <objetivo> tumoración benignar </objetivo> y seguimiento en Neurología por cavernoma .",
+        "<objetivo> Neoplasia de melanocito epitelioid con pleomorfismo </objetivo> e índice mitótico de 2 mitosis/2 mm2 .",
+        "en diciembre de 2014 , él realizar TC de tórax y abdomen donde no él evidenciar enfermedad   <objetivo> neoplásicar </objetivo>",
+        "<objetivo> Melanoma </objetivo> estadio I.",
+        "tras dicho prueba , confirmamos que yo encontrar ante uno   <objetivo> melanomar metastásico </objetivo> estadio IV por afectación pulmonar y adenopático , BRAF negativo y con performance status de 0 .",
+        "dermatología completar el estudio de extensión con PET-TC , que objetivo captación patológico mediastínico , subcarinal e hiliar izquierdo , junto con   <objetivo> nódulo pulmonar </objetivo> de moderado tasa , aunque sugestivo de malignidad .",
+        "tras dicho prueba , confirmamos que yo encontrar ante uno melanoma metastásico estadio IV por   <objetivo> afectación pulmonar </objetivo> y adenopática , BRAF negativo y con performance status de 0 ."
+    ],
+    "pubmed_id": "onco903",
+    "split_sentence": [
+        "Anamnesis",
+        "Varón de 44 años, bebedor de un l de cerveza al día, e hipertenso que, como antecedentes de interés, destaca esteatosis hepática, orquiectomía izquierda en 1997 a causa de tumoración benigna y seguimiento en Neurología por cavernoma.",
+        "En octubre de 2014, es intervenido en centro privado de nevus en rama ascendente mandibular derecha de meses de evolución, con sangrado al afeitado, que requiere ampliación de márgenes en un segundo tiempo.",
+        "Exploración física",
+        "Buen estado general.",
+        "ECOG 0.",
+        "Estable hemodinámicamente.",
+        "ACP: ruidos rítmicos sin soplos ni roces.",
+        "Murmullo vesicular conservado en ambos campos pulmonares.",
+        "Cicatriz consolidada no complicada sin signos de recaída local.",
+        "Sin adenopatías retroauriculares ni cervicales ipsilaterales.",
+        "Pruebas complementarias",
+        "El estudio anatomopatológico concluye con hallazgos morfológicos e inmunohistoquímicos concordantes con melanoma Clark III.",
+        "Breslow 1,3mm, contactando con bordes.",
+        "Neoplasia de melanocitos epitelioides con pleomorfismo e índice mitótico de 2 mitosis/2 mm2.",
+        "Marcadores Melan A y HMB 45 positivos.",
+        "Amplificación de márgenes con resultado de ausencia de neoplasia residual.",
+        "En diciembre de 2014, se realiza TC de tórax y abdomen donde no se evidencia enfermedad neoplásica.",
+        "Un mes después, es deriva al servicio de Cirugía Plástica para tratamiento complementario de ganglio centinela sin ser éste concluyente.",
+        "Diagnóstico",
+        "Melanoma estadio I.",
+        "Tratamiento",
+        "Al tratarse de un melanoma estadio I, se desestima tratamiento oncológico adyuvante y continúa seguimiento por parte de Dermatología.",
+        "Evolución",
+        "En abril 2016, estando el paciente asintomático, se realiza TC torácica que sugiere metástasis pulmonares.",
+        "Dermatología completa el estudio de extensión con PET-TC, que objetiva captación patológica mediastínica, subcarinal e hiliar izquierda, junto con nódulos pulmonares de moderada tasa, aunque sugestivos de malignidad.",
+        "Tras consultar con nuestra unidad, se decide realizar una biopsia transbronquial que confirme la sospecha radiológica y permita obtener tejido para poder conocer la mutación del gen BRAF, pudiendo planificarse posteriormente una primera línea individualizada.",
+        "Tras dicha prueba, confirmamos que nos encontramos ante un melanoma metastásico estadio IV por afectación pulmonar y adenopática, BRAF negativo y con performance status de 0.",
+        "Con dichos datos, solicitamos como primera línea pembrolizumab a dosis 2 mg/m2 q 21d e iniciamos el primer ciclo en septiembre de 2016.",
+        "Tras 3 ciclos y 9 semanas de tratamiento, realizamos TC toracoabdominal de reevaluación que objetiva respuesta completa adenopática y parcial pulmonar con reducción superior al 50 % de la enfermedad parenquimatosa inicial.",
+        "Hasta la fecha, ha completado 13 ciclos y mantiene la favorable respuesta objetivada tras el tercero.",
+        "La tolerancia ha sido excelente; como única incidencia, presentó un síndrome catarral afebril con tos seca asociada y ha mantenido un performance status 0 en todo momento."
+    ],
+    "text": "Anamnesis\nVarón de 44 años, bebedor de un l de cerveza al día, e hipertenso que, como antecedentes de interés, destaca esteatosis hepática, orquiectomía izquierda en 1997 a causa de tumoración benigna y seguimiento en Neurología por cavernoma.\nEn octubre de 2014, es intervenido en centro privado de nevus en rama ascendente mandibular derecha de meses de evolución, con sangrado al afeitado, que requiere ampliación de márgenes en un segundo tiempo.\n\nExploración física\nBuen estado general. ECOG 0. Estable hemodinámicamente. ACP: ruidos rítmicos sin soplos ni roces. Murmullo vesicular conservado en ambos campos pulmonares. Cicatriz consolidada no complicada sin signos de recaída local. Sin adenopatías retroauriculares ni cervicales ipsilaterales.\n\nPruebas complementarias\nEl estudio anatomopatológico concluye con hallazgos morfológicos e inmunohistoquímicos concordantes con melanoma Clark III. Breslow 1,3mm, contactando con bordes. Neoplasia de melanocitos epitelioides con pleomorfismo e índice mitótico de 2 mitosis/2 mm2. Marcadores Melan A y HMB 45 positivos. Amplificación de márgenes con resultado de ausencia de neoplasia residual.\nEn diciembre de 2014, se realiza TC de tórax y abdomen donde no se evidencia enfermedad neoplásica. Un mes después, es deriva al servicio de Cirugía Plástica para tratamiento complementario de ganglio centinela sin ser éste concluyente.\n\nDiagnóstico\nMelanoma estadio I.\n\nTratamiento\nAl tratarse de un melanoma estadio I, se desestima tratamiento oncológico adyuvante y continúa seguimiento por parte de Dermatología.\n\nEvolución\nEn abril 2016, estando el paciente asintomático, se realiza TC torácica que sugiere metástasis pulmonares. Dermatología completa el estudio de extensión con PET-TC, que objetiva captación patológica mediastínica, subcarinal e hiliar izquierda, junto con nódulos pulmonares de moderada tasa, aunque sugestivos de malignidad.\nTras consultar con nuestra unidad, se decide realizar una biopsia transbronquial que confirme la sospecha radiológica y permita obtener tejido para poder conocer la mutación del gen BRAF, pudiendo planificarse posteriormente una primera línea individualizada.\nTras dicha prueba, confirmamos que nos encontramos ante un melanoma metastásico estadio IV por afectación pulmonar y adenopática, BRAF negativo y con performance status de 0. Con dichos datos, solicitamos como primera línea pembrolizumab a dosis 2 mg/m2 q 21d e iniciamos el primer ciclo en septiembre de 2016.\nTras 3 ciclos y 9 semanas de tratamiento, realizamos TC toracoabdominal de reevaluación que objetiva respuesta completa adenopática y parcial pulmonar con reducción superior al 50 % de la enfermedad parenquimatosa inicial.\nHasta la fecha, ha completado 13 ciclos y mantiene la favorable respuesta objetivada tras el tercero. La tolerancia ha sido excelente; como única incidencia, presentó un síndrome catarral afebril con tos seca asociada y ha mantenido un performance status 0 en todo momento."
+}

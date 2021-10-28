@@ -1,0 +1,136 @@
+{
+    "title": "Indomethacin-induced hyperkalemia in three patients with gouty arthritis.",
+    "abst": "We describe three patients in whom severe, life-threatening hyperkalemia and renal insufficiency developed after treatment of acute gouty arthritis with indomethacin. This complication may result from an inhibition of prostaglandin synthesis and consequent hyporeninemic hypoaidosteronism. Careful attention to renal function and potassium balance in patients receiving indomethacin or other nonsteroidal anti-inflammatory agents, particularly in those patients with diabetes mellitus or preexisting renal disease, will help prevent this potentially serious complication.",
+    "title_plus_abst": "Indomethacin-induced hyperkalemia in three patients with gouty arthritis. We describe three patients in whom severe, life-threatening hyperkalemia and renal insufficiency developed after treatment of acute gouty arthritis with indomethacin. This complication may result from an inhibition of prostaglandin synthesis and consequent hyporeninemic hypoaidosteronism. Careful attention to renal function and potassium balance in patients receiving indomethacin or other nonsteroidal anti-inflammatory agents, particularly in those patients with diabetes mellitus or preexisting renal disease, will help prevent this potentially serious complication.",
+    "pubmed_id": "7411769",
+    "entities": [
+        [
+            0,
+            12,
+            "Indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            21,
+            33,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            57,
+            72,
+            "gouty arthritis",
+            "Disease",
+            "D015210"
+        ],
+        [
+            134,
+            146,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            151,
+            170,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ],
+        [
+            206,
+            221,
+            "gouty arthritis",
+            "Disease",
+            "D015210"
+        ],
+        [
+            227,
+            239,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            292,
+            305,
+            "prostaglandin",
+            "Chemical",
+            "D011453"
+        ],
+        [
+            331,
+            362,
+            "hyporeninemic hypoaidosteronism",
+            "Disease",
+            "D006994"
+        ],
+        [
+            404,
+            413,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            444,
+            456,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            541,
+            558,
+            "diabetes mellitus",
+            "Disease",
+            "D003920"
+        ],
+        [
+            574,
+            587,
+            "renal disease",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Indomethacin-induced hyperkalemia in three patients with gouty arthritis.",
+        "We describe three patients in whom severe, life-threatening hyperkalemia and renal insufficiency developed after treatment of acute gouty arthritis with indomethacin.",
+        "This complication may result from an inhibition of prostaglandin synthesis and consequent hyporeninemic hypoaidosteronism.",
+        "Careful attention to renal function and potassium balance in patients receiving indomethacin or other nonsteroidal anti-inflammatory agents, particularly in those patients with diabetes mellitus or preexisting renal disease, will help prevent this potentially serious complication."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007213\tChemical\tIndomethacin\t<target> Indomethacin </target> -induced hyperkalemia in three patients with gouty arthritis .",
+        "D006947\tDisease\thyperkalemia\tIndomethacin-induced <target> hyperkalemia </target> in three patients with gouty arthritis .",
+        "D015210\tDisease\tgouty arthritis\tIndomethacin-induced hyperkalemia in three patients with <target> gouty arthritis </target> .",
+        "D006947\tDisease\thyperkalemia\tWe describe three patients in whom severe , life-threatening <target> hyperkalemia </target> and renal insufficiency developed after treatment of acute gouty arthritis with indomethacin .",
+        "D051437\tDisease\trenal insufficiency\tWe describe three patients in whom severe , life-threatening hyperkalemia and <target> renal insufficiency </target> developed after treatment of acute gouty arthritis with indomethacin .",
+        "D015210\tDisease\tgouty arthritis\tWe describe three patients in whom severe , life-threatening hyperkalemia and renal insufficiency developed after treatment of acute <target> gouty arthritis </target> with indomethacin .",
+        "D007213\tChemical\tindomethacin\tWe describe three patients in whom severe , life-threatening hyperkalemia and renal insufficiency developed after treatment of acute gouty arthritis with <target> indomethacin </target> .",
+        "D011453\tChemical\tprostaglandin\tThis complication may result from an inhibition of <target> prostaglandin </target> synthesis and consequent hyporeninemic hypoaidosteronism .",
+        "D006994\tDisease\thyporeninemic hypoaidosteronism\tThis complication may result from an inhibition of prostaglandin synthesis and consequent <target> hyporeninemic hypoaidosteronism </target> .",
+        "D011188\tChemical\tpotassium\tCareful attention to renal function and <target> potassium </target> balance in patients receiving indomethacin or other nonsteroidal anti-inflammatory agents , particularly in those patients with diabetes mellitus or preexisting renal disease , will help prevent this potentially serious complication .",
+        "D007213\tChemical\tindomethacin\tCareful attention to renal function and potassium balance in patients receiving <target> indomethacin </target> or other nonsteroidal anti-inflammatory agents , particularly in those patients with diabetes mellitus or preexisting renal disease , will help prevent this potentially serious complication .",
+        "D003920\tDisease\tdiabetes mellitus\tCareful attention to renal function and potassium balance in patients receiving indomethacin or other nonsteroidal anti-inflammatory agents , particularly in those patients with <target> diabetes mellitus </target> or preexisting renal disease , will help prevent this potentially serious complication .",
+        "D007674\tDisease\trenal disease\tCareful attention to renal function and potassium balance in patients receiving indomethacin or other nonsteroidal anti-inflammatory agents , particularly in those patients with diabetes mellitus or preexisting <target> renal disease </target> , will help prevent this potentially serious complication ."
+    ],
+    "lines_lemma": [
+        "D007213\tChemical\tIndomethacin\t<target> indomethacin </target> -induced hyperkalemia in three patient with gouty arthritis .",
+        "D006947\tDisease\thyperkalemia\tindomethacin-induced <target> hyperkalemia </target> in three patient with gouty arthritis .",
+        "D015210\tDisease\tgouty arthritis\tindomethacin-induced hyperkalemia in three patient with <target> gouty arthritis </target> .",
+        "D006947\tDisease\thyperkalemia\twe describe three patient in whom severe , life-threatening <target> hyperkalemia </target> and renal insufficiency develop after treatment of acute gouty arthritis with indomethacin .",
+        "D051437\tDisease\trenal insufficiency\twe describe three patient in whom severe , life-threatening hyperkalemia and <target> renal insufficiency </target> develop after treatment of acute gouty arthritis with indomethacin .",
+        "D015210\tDisease\tgouty arthritis\twe describe three patient in whom severe , life-threatening hyperkalemia and renal insufficiency develop after treatment of acute <target> gouty arthritis </target> with indomethacin .",
+        "D007213\tChemical\tindomethacin\twe describe three patient in whom severe , life-threatening hyperkalemia and renal insufficiency develop after treatment of acute gouty arthritis with <target> indomethacin </target> .",
+        "D011453\tChemical\tprostaglandin\tthis complication may result from an inhibition of <target> prostaglandin </target> synthesis and consequent hyporeninemic hypoaidosteronism .",
+        "D006994\tDisease\thyporeninemic hypoaidosteronism\tthis complication may result from an inhibition of prostaglandin synthesis and consequent <target> hyporeninemic hypoaidosteronism </target> .",
+        "D011188\tChemical\tpotassium\tcareful attention to renal function and <target> potassium </target> balance in patient receive indomethacin or other nonsteroidal anti-inflammatory agent , particularly in those patient with diabetes mellitus or preexist renal disease , will help prevent this potentially serious complication .",
+        "D007213\tChemical\tindomethacin\tcareful attention to renal function and potassium balance in patient receive <target> indomethacin </target> or other nonsteroidal anti-inflammatory agent , particularly in those patient with diabetes mellitus or preexist renal disease , will help prevent this potentially serious complication .",
+        "D003920\tDisease\tdiabetes mellitus\tcareful attention to renal function and potassium balance in patient receive indomethacin or other nonsteroidal anti-inflammatory agent , particularly in those patient with <target> diabete mellitus </target> or preexist renal disease , will help prevent this potentially serious complication .",
+        "D007674\tDisease\trenal disease\tcareful attention to renal function and potassium balance in patient receive indomethacin or other nonsteroidal anti-inflammatory agent , particularly in those patient with diabetes mellitus or preexist <target> renal disease </target> , will help prevent this potentially serious complication ."
+    ]
+}

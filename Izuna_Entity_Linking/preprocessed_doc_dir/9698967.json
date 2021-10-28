@@ -1,0 +1,165 @@
+{
+    "title": "An unusual toxic reaction to axillary block by mepivacaine with adrenaline.",
+    "abst": "An increase in blood pressure, accompanied by atrial fibrillation, agitation, incomprehensible shouts and loss of consciousness, was observed in an elderly, ASA classification group II, cardiovascularly medicated male, 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg, for correction of Dupuytren's contracture. After intravenous administration of labetalol, metoprolol and midazolam the patient's condition improved, and 15 min later he woke up. The block was successful and surgery was conducted as scheduled despite persisting atrial fibrillation. Postoperatively, the patient refused DC cardioversion and was treated medically. Both the temporal relationship of events and the response to treatment suggest that a rapid systemic absorption of mepivacaine with adrenaline and/or interaction of these drugs with the patient's cardiovascular medications were responsible for the perioperative complications.",
+    "title_plus_abst": "An unusual toxic reaction to axillary block by mepivacaine with adrenaline. An increase in blood pressure, accompanied by atrial fibrillation, agitation, incomprehensible shouts and loss of consciousness, was observed in an elderly, ASA classification group II, cardiovascularly medicated male, 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg, for correction of Dupuytren's contracture. After intravenous administration of labetalol, metoprolol and midazolam the patient's condition improved, and 15 min later he woke up. The block was successful and surgery was conducted as scheduled despite persisting atrial fibrillation. Postoperatively, the patient refused DC cardioversion and was treated medically. Both the temporal relationship of events and the response to treatment suggest that a rapid systemic absorption of mepivacaine with adrenaline and/or interaction of these drugs with the patient's cardiovascular medications were responsible for the perioperative complications.",
+    "pubmed_id": "9698967",
+    "entities": [
+        [
+            47,
+            58,
+            "mepivacaine",
+            "Chemical",
+            "D008619"
+        ],
+        [
+            64,
+            74,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            79,
+            105,
+            "increase in blood pressure",
+            "Disease",
+            "D006973"
+        ],
+        [
+            122,
+            141,
+            "atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            143,
+            152,
+            "agitation",
+            "Disease",
+            "D011595"
+        ],
+        [
+            154,
+            177,
+            "incomprehensible shouts",
+            "Disease",
+            "D019954"
+        ],
+        [
+            182,
+            203,
+            "loss of consciousness",
+            "Disease",
+            "D014474"
+        ],
+        [
+            343,
+            354,
+            "mepivacaine",
+            "Chemical",
+            "D008619"
+        ],
+        [
+            373,
+            383,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            412,
+            435,
+            "Dupuytren's contracture",
+            "Disease",
+            "D004387"
+        ],
+        [
+            473,
+            482,
+            "labetalol",
+            "Chemical",
+            "D007741"
+        ],
+        [
+            484,
+            494,
+            "metoprolol",
+            "Chemical",
+            "D008790"
+        ],
+        [
+            499,
+            508,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            655,
+            674,
+            "atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            872,
+            883,
+            "mepivacaine",
+            "Chemical",
+            "D008619"
+        ],
+        [
+            889,
+            899,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ]
+    ],
+    "split_sentence": [
+        "An unusual toxic reaction to axillary block by mepivacaine with adrenaline.",
+        "An increase in blood pressure, accompanied by atrial fibrillation, agitation, incomprehensible shouts and loss of consciousness, was observed in an elderly, ASA classification group II, cardiovascularly medicated male, 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg, for correction of Dupuytren's contracture.",
+        "After intravenous administration of labetalol, metoprolol and midazolam the patient's condition improved, and 15 min later he woke up.",
+        "The block was successful and surgery was conducted as scheduled despite persisting atrial fibrillation.",
+        "Postoperatively, the patient refused DC cardioversion and was treated medically.",
+        "Both the temporal relationship of events and the response to treatment suggest that a rapid systemic absorption of mepivacaine with adrenaline and/or interaction of these drugs with the patient's cardiovascular medications were responsible for the perioperative complications."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008619\tChemical\tmepivacaine\tAn unusual toxic reaction to axillary block by <target> mepivacaine </target> with adrenaline .",
+        "D004837\tChemical\tadrenaline\tAn unusual toxic reaction to axillary block by mepivacaine with <target> adrenaline </target> .",
+        "D006973\tDisease\tincrease in blood pressure\tAn <target> increase in blood pressure </target> , accompanied by atrial fibrillation , agitation , incomprehensible shouts and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D001281\tDisease\tatrial fibrillation\tAn increase in blood pressure , accompanied by <target> atrial fibrillation </target> , agitation , incomprehensible shouts and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D011595\tDisease\tagitation\tAn increase in blood pressure , accompanied by atrial fibrillation , <target> agitation </target> , incomprehensible shouts and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D019954\tDisease\tincomprehensible shouts\tAn increase in blood pressure , accompanied by atrial fibrillation , agitation , <target> incomprehensible shouts </target> and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D014474\tDisease\tloss of consciousness\tAn increase in blood pressure , accompanied by atrial fibrillation , agitation , incomprehensible shouts and <target> loss of consciousness </target> , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D008619\tChemical\tmepivacaine\tAn increase in blood pressure , accompanied by atrial fibrillation , agitation , incomprehensible shouts and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with <target> mepivacaine </target> 850 mg containing adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D004837\tChemical\tadrenaline\tAn increase in blood pressure , accompanied by atrial fibrillation , agitation , incomprehensible shouts and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing <target> adrenaline </target> 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D004387\tDisease\tDupuytren's contracture\tAn increase in blood pressure , accompanied by atrial fibrillation , agitation , incomprehensible shouts and loss of consciousness , was observed in an elderly , ASA classification group II , cardiovascularly medicated male , 12 min after performance of axillary block with mepivacaine 850 mg containing adrenaline 0.225 mg , for correction of <target> Dupuytren 's contracture </target> .",
+        "D007741\tChemical\tlabetalol\tAfter intravenous administration of <target> labetalol </target> , metoprolol and midazolam the patient 's condition improved , and 15 min later he woke up .",
+        "D008790\tChemical\tmetoprolol\tAfter intravenous administration of labetalol , <target> metoprolol </target> and midazolam the patient 's condition improved , and 15 min later he woke up .",
+        "D008874\tChemical\tmidazolam\tAfter intravenous administration of labetalol , metoprolol and <target> midazolam </target> the patient 's condition improved , and 15 min later he woke up .",
+        "D001281\tDisease\tatrial fibrillation\tThe block was successful and surgery was conducted as scheduled despite persisting <target> atrial fibrillation </target> .",
+        "D008619\tChemical\tmepivacaine\tBoth the temporal relationship of events and the response to treatment suggest that a rapid systemic absorption of <target> mepivacaine </target> with adrenaline and/or interaction of these drugs with the patient 's cardiovascular medications were responsible for the perioperative complications .",
+        "D004837\tChemical\tadrenaline\tBoth the temporal relationship of events and the response to treatment suggest that a rapid systemic absorption of mepivacaine with <target> adrenaline </target> and/or interaction of these drugs with the patient 's cardiovascular medications were responsible for the perioperative complications ."
+    ],
+    "lines_lemma": [
+        "D008619\tChemical\tmepivacaine\tan unusual toxic reaction to axillary block by <target> mepivacaine </target> with adrenaline .",
+        "D004837\tChemical\tadrenaline\tan unusual toxic reaction to axillary block by mepivacaine with <target> adrenaline </target> .",
+        "D006973\tDisease\tincrease in blood pressure\tan <target> increase in blood pressure </target> , accompany by atrial fibrillation , agitation , incomprehensible shout and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D001281\tDisease\tatrial fibrillation\tan increase in blood pressure , accompany by <target> atrial fibrillation </target> , agitation , incomprehensible shout and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D011595\tDisease\tagitation\tan increase in blood pressure , accompany by atrial fibrillation , <target> agitation </target> , incomprehensible shout and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D019954\tDisease\tincomprehensible shouts\tan increase in blood pressure , accompany by atrial fibrillation , agitation , <target> incomprehensible shout </target> and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D014474\tDisease\tloss of consciousness\tan increase in blood pressure , accompany by atrial fibrillation , agitation , incomprehensible shout and <target> loss of consciousness </target> , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D008619\tChemical\tmepivacaine\tan increase in blood pressure , accompany by atrial fibrillation , agitation , incomprehensible shout and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with <target> mepivacaine </target> 850 mg contain adrenaline 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D004837\tChemical\tadrenaline\tan increase in blood pressure , accompany by atrial fibrillation , agitation , incomprehensible shout and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain <target> adrenaline </target> 0.225 mg , for correction of Dupuytren 's contracture .",
+        "D004387\tDisease\tDupuytren's contracture\tan increase in blood pressure , accompany by atrial fibrillation , agitation , incomprehensible shout and loss of consciousness , be observe in an elderly , asa classification group ii , cardiovascularly medicate male , 12 min after performance of axillary block with mepivacaine 850 mg contain adrenaline 0.225 mg , for correction of <target> Dupuytren 's contracture </target> .",
+        "D007741\tChemical\tlabetalol\tafter intravenous administration of <target> labetalol </target> , metoprolol and midazolam the patient 's condition improve , and 15 min later he wake up .",
+        "D008790\tChemical\tmetoprolol\tafter intravenous administration of labetalol , <target> metoprolol </target> and midazolam the patient 's condition improve , and 15 min later he wake up .",
+        "D008874\tChemical\tmidazolam\tafter intravenous administration of labetalol , metoprolol and <target> midazolam </target> the patient 's condition improve , and 15 min later he wake up .",
+        "D001281\tDisease\tatrial fibrillation\tthe block be successful and surgery be conduct as schedule despite persist <target> atrial fibrillation </target> .",
+        "D008619\tChemical\tmepivacaine\tboth the temporal relationship of event and the response to treatment suggest that a rapid systemic absorption of <target> mepivacaine </target> with adrenaline and/or interaction of these drug with the patient 's cardiovascular medication be responsible for the perioperative complication .",
+        "D004837\tChemical\tadrenaline\tboth the temporal relationship of event and the response to treatment suggest that a rapid systemic absorption of mepivacaine with <target> adrenaline </target> and/or interaction of these drug with the patient 's cardiovascular medication be responsible for the perioperative complication ."
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Ranitidine-induced acute interstitial nephritis in a cadaveric renal allograft.",
+    "abst": "Ranitidine frequently is used for preventing peptic ulceration after renal transplantation. This drug occasionally has been associated with acute interstitial nephritis in native kidneys. There are no similar reports with renal transplantation. We report a case of ranitidine-induced acute interstitial nephritis in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug. The biopsy specimen showed pathognomonic features, including eosinophilic infiltration of the interstitial compartment. Allograft function improved rapidly and returned to baseline after stopping the drug.",
+    "title_plus_abst": "Ranitidine-induced acute interstitial nephritis in a cadaveric renal allograft. Ranitidine frequently is used for preventing peptic ulceration after renal transplantation. This drug occasionally has been associated with acute interstitial nephritis in native kidneys. There are no similar reports with renal transplantation. We report a case of ranitidine-induced acute interstitial nephritis in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug. The biopsy specimen showed pathognomonic features, including eosinophilic infiltration of the interstitial compartment. Allograft function improved rapidly and returned to baseline after stopping the drug.",
+    "pubmed_id": "11431197",
+    "entities": [
+        [
+            0,
+            10,
+            "Ranitidine",
+            "Chemical",
+            "D011899"
+        ],
+        [
+            25,
+            47,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            80,
+            90,
+            "Ranitidine",
+            "Chemical",
+            "D011899"
+        ],
+        [
+            226,
+            248,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            345,
+            355,
+            "ranitidine",
+            "Chemical",
+            "D011899"
+        ],
+        [
+            370,
+            392,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ]
+    ],
+    "split_sentence": [
+        "Ranitidine-induced acute interstitial nephritis in a cadaveric renal allograft.",
+        "Ranitidine frequently is used for preventing peptic ulceration after renal transplantation.",
+        "This drug occasionally has been associated with acute interstitial nephritis in native kidneys.",
+        "There are no similar reports with renal transplantation.",
+        "We report a case of ranitidine-induced acute interstitial nephritis in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug.",
+        "The biopsy specimen showed pathognomonic features, including eosinophilic infiltration of the interstitial compartment.",
+        "Allograft function improved rapidly and returned to baseline after stopping the drug."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011899\tChemical\tRanitidine\t<target> Ranitidine </target> -induced acute interstitial nephritis in a cadaveric renal allograft .",
+        "D009395\tDisease\tinterstitial nephritis\tRanitidine-induced acute <target> interstitial nephritis </target> in a cadaveric renal allograft .",
+        "D011899\tChemical\tRanitidine\t<target> Ranitidine </target> frequently is used for preventing peptic ulceration after renal transplantation .",
+        "D009395\tDisease\tinterstitial nephritis\tThis drug occasionally has been associated with acute <target> interstitial nephritis </target> in native kidneys .",
+        "D011899\tChemical\tranitidine\tWe report a case of <target> ranitidine </target> -induced acute interstitial nephritis in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug .",
+        "D009395\tDisease\tinterstitial nephritis\tWe report a case of ranitidine-induced acute <target> interstitial nephritis </target> in a recipient of a cadaveric renal allograft presenting with acute allograft dysfunction within 48 hours of exposure to the drug ."
+    ],
+    "lines_lemma": [
+        "D011899\tChemical\tRanitidine\t<target> Ranitidine </target> -induced acute interstitial nephritis in a cadaveric renal allograft .",
+        "D009395\tDisease\tinterstitial nephritis\tranitidine-induced acute <target> interstitial nephritis </target> in a cadaveric renal allograft .",
+        "D011899\tChemical\tRanitidine\t<target> Ranitidine </target> frequently be use for prevent peptic ulceration after renal transplantation .",
+        "D009395\tDisease\tinterstitial nephritis\tthis drug occasionally have be associate with acute <target> interstitial nephritis </target> in native kidney .",
+        "D011899\tChemical\tranitidine\twe report a case of <target> ranitidine </target> -induced acute interstitial nephritis in a recipient of a cadaveric renal allograft present with acute allograft dysfunction within 48 hour of exposure to the drug .",
+        "D009395\tDisease\tinterstitial nephritis\twe report a case of ranitidine-induced acute <target> interstitial nephritis </target> in a recipient of a cadaveric renal allograft present with acute allograft dysfunction within 48 hour of exposure to the drug ."
+    ]
+}

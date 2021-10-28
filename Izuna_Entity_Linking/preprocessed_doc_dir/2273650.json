@@ -1,0 +1,154 @@
+{
+    "title": "Facilitation of memory retrieval by pre-test morphine and its state dependency in the step-through type passive avoidance learning test in mice.",
+    "abst": "Amnesia produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial (pre-test), and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial. Similarly, pre-test scopolamine partially reversed the scopolamine-induced amnesia, but not significantly; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia. These results suggest that the facilitation of memory retrieval by pre-test morphine might be the direct action of morphine rather than a state dependent effect.",
+    "title_plus_abst": "Facilitation of memory retrieval by pre-test morphine and its state dependency in the step-through type passive avoidance learning test in mice. Amnesia produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial (pre-test), and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial. Similarly, pre-test scopolamine partially reversed the scopolamine-induced amnesia, but not significantly; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia. These results suggest that the facilitation of memory retrieval by pre-test morphine might be the direct action of morphine rather than a state dependent effect.",
+    "pubmed_id": "2273650",
+    "entities": [
+        [
+            45,
+            53,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            145,
+            152,
+            "Amnesia",
+            "Disease",
+            "D000647"
+        ],
+        [
+            165,
+            176,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            181,
+            194,
+            "cycloheximide",
+            "Chemical",
+            "D003513"
+        ],
+        [
+            212,
+            220,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            281,
+            289,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            356,
+            364,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            412,
+            423,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            447,
+            458,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            467,
+            474,
+            "amnesia",
+            "Disease",
+            "D000647"
+        ],
+        [
+            512,
+            525,
+            "cycloheximide",
+            "Chemical",
+            "D003513"
+        ],
+        [
+            548,
+            561,
+            "cycloheximide",
+            "Chemical",
+            "D003513"
+        ],
+        [
+            570,
+            577,
+            "amnesia",
+            "Disease",
+            "D000647"
+        ],
+        [
+            655,
+            663,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            694,
+            702,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ]
+    ],
+    "split_sentence": [
+        "Facilitation of memory retrieval by pre-test morphine and its state dependency in the step-through type passive avoidance learning test in mice.",
+        "Amnesia produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial (pre-test), and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial.",
+        "Similarly, pre-test scopolamine partially reversed the scopolamine-induced amnesia, but not significantly; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia.",
+        "These results suggest that the facilitation of memory retrieval by pre-test morphine might be the direct action of morphine rather than a state dependent effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009020\tChemical\tmorphine\tFacilitation of memory retrieval by pre-test <target> morphine </target> and its state dependency in the step-through type passive avoidance learning test in mice .",
+        "D000647\tDisease\tAmnesia\t<target> Amnesia </target> produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial .",
+        "D012601\tChemical\tscopolamine\tAmnesia produced by <target> scopolamine </target> and cycloheximide were reversed by morphine given 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial .",
+        "D003513\tChemical\tcycloheximide\tAmnesia produced by scopolamine and <target> cycloheximide </target> were reversed by morphine given 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial .",
+        "D009020\tChemical\tmorphine\tAmnesia produced by scopolamine and cycloheximide were reversed by <target> morphine </target> given 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitated the memory retrieval in the animals administered naloxone during the training trial .",
+        "D009020\tChemical\tmorphine\tAmnesia produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial ( pre-test ) , and pre-test <target> morphine </target> also facilitated the memory retrieval in the animals administered naloxone during the training trial .",
+        "D009270\tChemical\tnaloxone\tAmnesia produced by scopolamine and cycloheximide were reversed by morphine given 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitated the memory retrieval in the animals administered <target> naloxone </target> during the training trial .",
+        "D012601\tChemical\tscopolamine\tSimilarly , pre-test <target> scopolamine </target> partially reversed the scopolamine-induced amnesia , but not significantly ; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia .",
+        "D012601\tChemical\tscopolamine\tSimilarly , pre-test scopolamine partially reversed the <target> scopolamine </target> -induced amnesia , but not significantly ; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia .",
+        "D000647\tDisease\tamnesia\tSimilarly , pre-test scopolamine partially reversed the scopolamine-induced <target> amnesia </target> , but not significantly ; and pre-test cycloheximide failed to reverse the cycloheximide-induced amnesia .",
+        "D003513\tChemical\tcycloheximide\tSimilarly , pre-test scopolamine partially reversed the scopolamine-induced amnesia , but not significantly ; and pre-test <target> cycloheximide </target> failed to reverse the cycloheximide-induced amnesia .",
+        "D003513\tChemical\tcycloheximide\tSimilarly , pre-test scopolamine partially reversed the scopolamine-induced amnesia , but not significantly ; and pre-test cycloheximide failed to reverse the <target> cycloheximide </target> -induced amnesia .",
+        "D000647\tDisease\tamnesia\tSimilarly , pre-test scopolamine partially reversed the scopolamine-induced amnesia , but not significantly ; and pre-test cycloheximide failed to reverse the cycloheximide-induced <target> amnesia </target> .",
+        "D009020\tChemical\tmorphine\tThese results suggest that the facilitation of memory retrieval by pre-test <target> morphine </target> might be the direct action of morphine rather than a state dependent effect .",
+        "D009020\tChemical\tmorphine\tThese results suggest that the facilitation of memory retrieval by pre-test morphine might be the direct action of <target> morphine </target> rather than a state dependent effect ."
+    ],
+    "lines_lemma": [
+        "D009020\tChemical\tmorphine\tfacilitation of memory retrieval by pre-test <target> morphine </target> and its state dependency in the step-through type passive avoidance learning test in mouse .",
+        "D000647\tDisease\tAmnesia\t<target> Amnesia </target> produce by scopolamine and cycloheximide be reverse by morphine give 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitate the memory retrieval in the animal administer naloxone during the training trial .",
+        "D012601\tChemical\tscopolamine\tAmnesia produce by <target> scopolamine </target> and cycloheximide be reverse by morphine give 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitate the memory retrieval in the animal administer naloxone during the training trial .",
+        "D003513\tChemical\tcycloheximide\tAmnesia produce by scopolamine and <target> cycloheximide </target> be reverse by morphine give 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitate the memory retrieval in the animal administer naloxone during the training trial .",
+        "D009020\tChemical\tmorphine\tAmnesia produce by scopolamine and cycloheximide be reverse by <target> morphine </target> give 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitate the memory retrieval in the animal administer naloxone during the training trial .",
+        "D009020\tChemical\tmorphine\tAmnesia produce by scopolamine and cycloheximide be reverse by morphine give 30 min before the test trial ( pre-test ) , and pre-test <target> morphine </target> also facilitate the memory retrieval in the animal administer naloxone during the training trial .",
+        "D009270\tChemical\tnaloxone\tAmnesia produce by scopolamine and cycloheximide be reverse by morphine give 30 min before the test trial ( pre-test ) , and pre-test morphine also facilitate the memory retrieval in the animal administer <target> naloxone </target> during the training trial .",
+        "D012601\tChemical\tscopolamine\tsimilarly , pre-test <target> scopolamine </target> partially reverse the scopolamine-induced amnesia , but not significantly ; and pre-test cycloheximide fail to reverse the cycloheximide-induced amnesia .",
+        "D012601\tChemical\tscopolamine\tsimilarly , pre-test scopolamine partially reverse the <target> scopolamine </target> -induced amnesia , but not significantly ; and pre-test cycloheximide fail to reverse the cycloheximide-induced amnesia .",
+        "D000647\tDisease\tamnesia\tsimilarly , pre-test scopolamine partially reverse the scopolamine-induced <target> amnesia </target> , but not significantly ; and pre-test cycloheximide fail to reverse the cycloheximide-induced amnesia .",
+        "D003513\tChemical\tcycloheximide\tsimilarly , pre-test scopolamine partially reverse the scopolamine-induced amnesia , but not significantly ; and pre-test <target> cycloheximide </target> fail to reverse the cycloheximide-induced amnesia .",
+        "D003513\tChemical\tcycloheximide\tsimilarly , pre-test scopolamine partially reverse the scopolamine-induced amnesia , but not significantly ; and pre-test cycloheximide fail to reverse the <target> cycloheximide </target> -induced amnesia .",
+        "D000647\tDisease\tamnesia\tsimilarly , pre-test scopolamine partially reverse the scopolamine-induced amnesia , but not significantly ; and pre-test cycloheximide fail to reverse the cycloheximide-induced <target> amnesia </target> .",
+        "D009020\tChemical\tmorphine\tthese result suggest that the facilitation of memory retrieval by pre-test <target> morphine </target> might be the direct action of morphine rather than a state dependent effect .",
+        "D009020\tChemical\tmorphine\tthese result suggest that the facilitation of memory retrieval by pre-test morphine might be the direct action of <target> morphine </target> rather than a state dependent effect ."
+    ]
+}

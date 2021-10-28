@@ -1,0 +1,146 @@
+{
+    "title": "Contribution of sodium valproate to the syndrome of inappropriate secretion of antidiuretic hormone.",
+    "abst": "We report the case of a 62-year-old man who was administered sodium valproate (VPA) and who subsequently developed the syndrome of inappropriate secretion of antidiuretic hormone (SIADH). He had been taking VPA for treatment of idiopathic generalized tonic-clonic convulsions since he was 56 years old. After substituting VPA with zonisamide, the serum sodium level returned to normal. We consider this episode of SIADH to be the result of a combination of factors including a weakness of the central nervous system and the long-term administration of VPA.",
+    "title_plus_abst": "Contribution of sodium valproate to the syndrome of inappropriate secretion of antidiuretic hormone. We report the case of a 62-year-old man who was administered sodium valproate (VPA) and who subsequently developed the syndrome of inappropriate secretion of antidiuretic hormone (SIADH). He had been taking VPA for treatment of idiopathic generalized tonic-clonic convulsions since he was 56 years old. After substituting VPA with zonisamide, the serum sodium level returned to normal. We consider this episode of SIADH to be the result of a combination of factors including a weakness of the central nervous system and the long-term administration of VPA.",
+    "pubmed_id": "11195262",
+    "entities": [
+        [
+            16,
+            32,
+            "sodium valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            40,
+            99,
+            "syndrome of inappropriate secretion of antidiuretic hormone",
+            "Disease",
+            "D007177"
+        ],
+        [
+            162,
+            178,
+            "sodium valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            180,
+            183,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            220,
+            279,
+            "syndrome of inappropriate secretion of antidiuretic hormone",
+            "Disease",
+            "D007177"
+        ],
+        [
+            281,
+            286,
+            "SIADH",
+            "Disease",
+            "D007177"
+        ],
+        [
+            308,
+            311,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            352,
+            376,
+            "tonic-clonic convulsions",
+            "Disease",
+            "D004830"
+        ],
+        [
+            423,
+            426,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            432,
+            442,
+            "zonisamide",
+            "Chemical",
+            "C022189"
+        ],
+        [
+            454,
+            460,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            515,
+            520,
+            "SIADH",
+            "Disease",
+            "D007177"
+        ],
+        [
+            578,
+            616,
+            "weakness of the central nervous system",
+            "Disease",
+            "D002493"
+        ],
+        [
+            653,
+            656,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ]
+    ],
+    "split_sentence": [
+        "Contribution of sodium valproate to the syndrome of inappropriate secretion of antidiuretic hormone.",
+        "We report the case of a 62-year-old man who was administered sodium valproate (VPA) and who subsequently developed the syndrome of inappropriate secretion of antidiuretic hormone (SIADH).",
+        "He had been taking VPA for treatment of idiopathic generalized tonic-clonic convulsions since he was 56 years old.",
+        "After substituting VPA with zonisamide, the serum sodium level returned to normal.",
+        "We consider this episode of SIADH to be the result of a combination of factors including a weakness of the central nervous system and the long-term administration of VPA."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014635\tChemical\tsodium valproate\tContribution of <target> sodium valproate </target> to the syndrome of inappropriate secretion of antidiuretic hormone .",
+        "D007177\tDisease\tsyndrome of inappropriate secretion of antidiuretic hormone\tContribution of sodium valproate to the <target> syndrome of inappropriate secretion of antidiuretic hormone </target> .",
+        "D014635\tChemical\tsodium valproate\tWe report the case of a 62-year-old man who was administered <target> sodium valproate </target> ( VPA ) and who subsequently developed the syndrome of inappropriate secretion of antidiuretic hormone ( SIADH ) .",
+        "D014635\tChemical\tVPA\tWe report the case of a 62-year-old man who was administered sodium valproate ( <target> VPA </target> ) and who subsequently developed the syndrome of inappropriate secretion of antidiuretic hormone ( SIADH ) .",
+        "D007177\tDisease\tsyndrome of inappropriate secretion of antidiuretic hormone\tWe report the case of a 62-year-old man who was administered sodium valproate ( VPA ) and who subsequently developed the <target> syndrome of inappropriate secretion of antidiuretic hormone </target> ( SIADH ) .",
+        "D007177\tDisease\tSIADH\tWe report the case of a 62-year-old man who was administered sodium valproate ( VPA ) and who subsequently developed the syndrome of inappropriate secretion of antidiuretic hormone ( <target> SIADH </target> ) .",
+        "D014635\tChemical\tVPA\tHe had been taking <target> VPA </target> for treatment of idiopathic generalized tonic-clonic convulsions since he was 56 years old .",
+        "D004830\tDisease\ttonic-clonic convulsions\tHe had been taking VPA for treatment of idiopathic generalized <target> tonic-clonic convulsions </target> since he was 56 years old .",
+        "D014635\tChemical\tVPA\tAfter substituting <target> VPA </target> with zonisamide , the serum sodium level returned to normal .",
+        "C022189\tChemical\tzonisamide\tAfter substituting VPA with <target> zonisamide </target> , the serum sodium level returned to normal .",
+        "D012964\tChemical\tsodium\tAfter substituting VPA with zonisamide , the serum <target> sodium </target> level returned to normal .",
+        "D007177\tDisease\tSIADH\tWe consider this episode of <target> SIADH </target> to be the result of a combination of factors including a weakness of the central nervous system and the long-term administration of VPA .",
+        "D002493\tDisease\tweakness of the central nervous system\tWe consider this episode of SIADH to be the result of a combination of factors including a <target> weakness of the central nervous system </target> and the long-term administration of VPA .",
+        "D014635\tChemical\tVPA\tWe consider this episode of SIADH to be the result of a combination of factors including a weakness of the central nervous system and the long-term administration of <target> VPA </target> ."
+    ],
+    "lines_lemma": [
+        "D014635\tChemical\tsodium valproate\tcontribution of <target> sodium valproate </target> to the syndrome of inappropriate secretion of antidiuretic hormone .",
+        "D007177\tDisease\tsyndrome of inappropriate secretion of antidiuretic hormone\tcontribution of sodium valproate to the <target> syndrome of inappropriate secretion of antidiuretic hormone </target> .",
+        "D014635\tChemical\tsodium valproate\twe report the case of a 62-year-old man who be administer <target> sodium valproate </target> ( vpa ) and who subsequently develop the syndrome of inappropriate secretion of antidiuretic hormone ( siadh ) .",
+        "D014635\tChemical\tVPA\twe report the case of a 62-year-old man who be administer sodium valproate ( <target> vpa </target> ) and who subsequently develop the syndrome of inappropriate secretion of antidiuretic hormone ( siadh ) .",
+        "D007177\tDisease\tsyndrome of inappropriate secretion of antidiuretic hormone\twe report the case of a 62-year-old man who be administer sodium valproate ( vpa ) and who subsequently develop the <target> syndrome of inappropriate secretion of antidiuretic hormone </target> ( siadh ) .",
+        "D007177\tDisease\tSIADH\twe report the case of a 62-year-old man who be administer sodium valproate ( vpa ) and who subsequently develop the syndrome of inappropriate secretion of antidiuretic hormone ( <target> siadh </target> ) .",
+        "D014635\tChemical\tVPA\the have be take <target> vpa </target> for treatment of idiopathic generalized tonic-clonic convulsion since he be 56 year old .",
+        "D004830\tDisease\ttonic-clonic convulsions\the have be take VPA for treatment of idiopathic generalized <target> tonic-clonic convulsion </target> since he be 56 year old .",
+        "D014635\tChemical\tVPA\tafter substituting <target> vpa </target> with zonisamide , the serum sodium level return to normal .",
+        "C022189\tChemical\tzonisamide\tafter substituting vpa with <target> zonisamide </target> , the serum sodium level return to normal .",
+        "D012964\tChemical\tsodium\tafter substituting vpa with zonisamide , the serum <target> sodium </target> level return to normal .",
+        "D007177\tDisease\tSIADH\twe consider this episode of <target> siadh </target> to be the result of a combination of factor include a weakness of the central nervous system and the long-term administration of vpa .",
+        "D002493\tDisease\tweakness of the central nervous system\twe consider this episode of siadh to be the result of a combination of factor include a <target> weakness of the central nervous system </target> and the long-term administration of vpa .",
+        "D014635\tChemical\tVPA\twe consider this episode of siadh to be the result of a combination of factor include a weakness of the central nervous system and the long-term administration of <target> vpa </target> ."
+    ]
+}

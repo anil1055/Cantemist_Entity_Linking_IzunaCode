@@ -1,0 +1,130 @@
+{
+    "title": "A case of bilateral optic neuropathy in a patient on tacrolimus (FK506) therapy after liver transplantation.",
+    "abst": "PURPOSE: To report a case of bilateral optic neuropathy in a patient receiving tacrolimus (FK 506, Prograf; Fujisawa USA, Inc, Deerfield, Illinois) for immunosuppression after orthotropic liver transplantation. METHOD: Case report. In a 58-year-old man receiving tacrolimus after orthotropic liver transplantation, serial neuro-ophthalmologic examinations and laboratory studies were performed. RESULTS: The patient had episodic deterioration of vision in both eyes, with clinical features resembling ischemic optic neuropathies. Deterioration of vision occurred despite discontinuation of the tacrolimus. CONCLUSION: Tacrolimus and other immunosuppressive agents may be associated with optic nerve toxicity.",
+    "title_plus_abst": "A case of bilateral optic neuropathy in a patient on tacrolimus (FK506) therapy after liver transplantation. PURPOSE: To report a case of bilateral optic neuropathy in a patient receiving tacrolimus (FK 506, Prograf; Fujisawa USA, Inc, Deerfield, Illinois) for immunosuppression after orthotropic liver transplantation. METHOD: Case report. In a 58-year-old man receiving tacrolimus after orthotropic liver transplantation, serial neuro-ophthalmologic examinations and laboratory studies were performed. RESULTS: The patient had episodic deterioration of vision in both eyes, with clinical features resembling ischemic optic neuropathies. Deterioration of vision occurred despite discontinuation of the tacrolimus. CONCLUSION: Tacrolimus and other immunosuppressive agents may be associated with optic nerve toxicity.",
+    "pubmed_id": "10764869",
+    "entities": [
+        [
+            20,
+            36,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            53,
+            63,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            65,
+            70,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            148,
+            164,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            188,
+            198,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            200,
+            206,
+            "FK 506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            372,
+            382,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            610,
+            637,
+            "ischemic optic neuropathies",
+            "Disease",
+            "D018917"
+        ],
+        [
+            639,
+            662,
+            "Deterioration of vision",
+            "Disease",
+            "D015354"
+        ],
+        [
+            703,
+            713,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            727,
+            737,
+            "Tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            796,
+            816,
+            "optic nerve toxicity",
+            "Disease",
+            "D009901"
+        ]
+    ],
+    "split_sentence": [
+        "A case of bilateral optic neuropathy in a patient on tacrolimus (FK506) therapy after liver transplantation.",
+        "PURPOSE: To report a case of bilateral optic neuropathy in a patient receiving tacrolimus (FK 506, Prograf; Fujisawa USA, Inc, Deerfield, Illinois) for immunosuppression after orthotropic liver transplantation.",
+        "METHOD: Case report.",
+        "In a 58-year-old man receiving tacrolimus after orthotropic liver transplantation, serial neuro-ophthalmologic examinations and laboratory studies were performed.",
+        "RESULTS: The patient had episodic deterioration of vision in both eyes, with clinical features resembling ischemic optic neuropathies.",
+        "Deterioration of vision occurred despite discontinuation of the tacrolimus.",
+        "CONCLUSION: Tacrolimus and other immunosuppressive agents may be associated with optic nerve toxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009901\tDisease\toptic neuropathy\tA case of bilateral <target> optic neuropathy </target> in a patient on tacrolimus ( FK506 ) therapy after liver transplantation .",
+        "D016559\tChemical\ttacrolimus\tA case of bilateral optic neuropathy in a patient on <target> tacrolimus </target> ( FK506 ) therapy after liver transplantation .",
+        "D016559\tChemical\tFK506\tA case of bilateral optic neuropathy in a patient on tacrolimus ( <target> FK506 </target> ) therapy after liver transplantation .",
+        "D009901\tDisease\toptic neuropathy\tPURPOSE : To report a case of bilateral <target> optic neuropathy </target> in a patient receiving tacrolimus ( FK 506 , Prograf ; Fujisawa USA , Inc , Deerfield , Illinois ) for immunosuppression after orthotropic liver transplantation .",
+        "D016559\tChemical\ttacrolimus\tPURPOSE : To report a case of bilateral optic neuropathy in a patient receiving <target> tacrolimus </target> ( FK 506 , Prograf ; Fujisawa USA , Inc , Deerfield , Illinois ) for immunosuppression after orthotropic liver transplantation .",
+        "D016559\tChemical\tFK 506\tPURPOSE : To report a case of bilateral optic neuropathy in a patient receiving tacrolimus ( <target> FK 506 </target> , Prograf ; Fujisawa USA , Inc , Deerfield , Illinois ) for immunosuppression after orthotropic liver transplantation .",
+        "D016559\tChemical\ttacrolimus\tIn a 58-year-old man receiving <target> tacrolimus </target> after orthotropic liver transplantation , serial neuro-ophthalmologic examinations and laboratory studies were performed .",
+        "D018917\tDisease\tischemic optic neuropathies\tRESULTS : The patient had episodic deterioration of vision in both eyes , with clinical features resembling <target> ischemic optic neuropathies </target> .",
+        "D015354\tDisease\tDeterioration of vision\t<target> Deterioration of vision </target> occurred despite discontinuation of the tacrolimus .",
+        "D016559\tChemical\ttacrolimus\tDeterioration of vision occurred despite discontinuation of the <target> tacrolimus </target> .",
+        "D016559\tChemical\tTacrolimus\tCONCLUSION : <target> Tacrolimus </target> and other immunosuppressive agents may be associated with optic nerve toxicity .",
+        "D009901\tDisease\toptic nerve toxicity\tCONCLUSION : Tacrolimus and other immunosuppressive agents may be associated with <target> optic nerve toxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D009901\tDisease\toptic neuropathy\ta case of bilateral <target> optic neuropathy </target> in a patient on tacrolimus ( fk506 ) therapy after liver transplantation .",
+        "D016559\tChemical\ttacrolimus\ta case of bilateral optic neuropathy in a patient on <target> tacrolimus </target> ( fk506 ) therapy after liver transplantation .",
+        "D016559\tChemical\tFK506\ta case of bilateral optic neuropathy in a patient on tacrolimus ( <target> fk506 </target> ) therapy after liver transplantation .",
+        "D009901\tDisease\toptic neuropathy\tpurpose : to report a case of bilateral <target> optic neuropathy </target> in a patient receive tacrolimus ( fk 506 , Prograf ; Fujisawa USA , Inc , Deerfield , Illinois ) for immunosuppression after orthotropic liver transplantation .",
+        "D016559\tChemical\ttacrolimus\tpurpose : to report a case of bilateral optic neuropathy in a patient receive <target> tacrolimus </target> ( fk 506 , Prograf ; Fujisawa USA , Inc , Deerfield , Illinois ) for immunosuppression after orthotropic liver transplantation .",
+        "D016559\tChemical\tFK 506\tpurpose : to report a case of bilateral optic neuropathy in a patient receive tacrolimus ( <target> fk 506 </target> , Prograf ; Fujisawa USA , Inc , Deerfield , Illinois ) for immunosuppression after orthotropic liver transplantation .",
+        "D016559\tChemical\ttacrolimus\tin a 58-year-old man receive <target> tacrolimus </target> after orthotropic liver transplantation , serial neuro-ophthalmologic examination and laboratory study be perform .",
+        "D018917\tDisease\tischemic optic neuropathies\tresult : the patient have episodic deterioration of vision in both eye , with clinical feature resemble <target> ischemic optic neuropathie </target> .",
+        "D015354\tDisease\tDeterioration of vision\t<target> deterioration of vision </target> occur despite discontinuation of the tacrolimus .",
+        "D016559\tChemical\ttacrolimus\tdeterioration of vision occur despite discontinuation of the <target> tacrolimus </target> .",
+        "D016559\tChemical\tTacrolimus\tconclusion : <target> tacrolimus </target> and other immunosuppressive agent may be associate with optic nerve toxicity .",
+        "D009901\tDisease\toptic nerve toxicity\tconclusion : tacrolimus and other immunosuppressive agent may be associate with <target> optic nerve toxicity </target> ."
+    ]
+}

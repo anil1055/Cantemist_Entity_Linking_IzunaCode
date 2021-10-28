@@ -1,0 +1,117 @@
+{
+    "entities": [
+        [
+            114,
+            123,
+            "carcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/3"
+        ],
+        [
+            508,
+            522,
+            "carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            1208,
+            1228,
+            "lesiones a distancia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2254,
+            2265,
+            "metastásica",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            393,
+            425,
+            "carcinoma papilar seroso grado 3",
+            "MORFOLOGIA_NEOPLASIA",
+            "8460/33"
+        ],
+        [
+            2374,
+            2401,
+            "implantes intraperitoneales",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2416,
+            2489,
+            "Adenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8460/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Mujer de 70 años sin antecedentes familiares de interés, fumadora de 20 paquetes-año, diagnosticada de  <objetivo> carcinoma </objetivo> de mama localizado en 2003 tratado con cirugía conservadora y linfadenectomía axilar seguido de radioterapia y tamoxifeno durante 5 años sin evidencia de recidiva.",
+        "En abril de 2018 presenta metrorragias, por lo que se realiza histeroscopia diagnóstica con resultado de  <objetivo> carcinoma </objetivo> papilar seroso grado 3 de endometrio; en estudios de extensión se observa afectación retroperitoneal con carcinomatosis peritoneal.",
+        "Adeno <objetivo> carcinoma </objetivo> papilar seroso de endometrio estadio IV por carcinomatosis peritoneal con síndrome paraneoplásico tipo degeneración cerebelosa con anticuerpos anti-YO positivos.",
+        "En abril de 2018 presenta metrorragias, por lo que se realiza histeroscopia diagnóstica con resultado de carcinoma papilar seroso grado 3 de endometrio; en estudios de extensión se observa afectación retroperitoneal con  <objetivo> carcinomatosis </objetivo> peritoneal.",
+        "Adenocarcinoma papilar seroso de endometrio estadio IV por  <objetivo> carcinomatosis </objetivo> peritoneal con síndrome paraneoplásico tipo degeneración cerebelosa con anticuerpos anti-YO positivos.",
+        "Durante el ingreso, se realiza analítica y punción lumbar que descartan origen metabólico/hidroelectrolítico e infeccioso, pruebas de imagen sin  <objetivo> lesiones a distancia </objetivo>  incluso una TC que objetivaba respuesta parcial tras un primer ciclo de tratamiento.",
+        "TC y RM de cráneo sin alteraciones ni signos de enfermedad  <objetivo> metastásica </objetivo> encefálica intra ni extraaxial.",
+        "En abril de 2018 presenta metrorragias, por lo que se realiza histeroscopia diagnóstica con resultado de  <objetivo> carcinoma papilar seroso grado 3 </objetivo> de endometrio; en estudios de extensión se observa afectación retroperitoneal con carcinomatosis peritoneal.",
+        "TC toracoabdominal: respuesta parcial con disminución de masa endometrial e  <objetivo> implantes intraperitoneales </objetivo> ",
+        "<objetivo> Adenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosis </objetivo> peritoneal con síndrome paraneoplásico tipo degeneración cerebelosa con anticuerpos anti-YO positivos."
+    ],
+    "lines_lemma": [
+        "mujer de 70 año sin antecedente familiar de interés , fumadora de 20 paquetes-año , diagnosticado de   <objetivo> carcinomar </objetivo> de mama localizado en 2003 tratado con cirugía conservador y linfadenectomíar axilar seguido de radioterapio y tamoxifeno durante 5 año sin evidencia de recidivo .",
+        "en abril de 2018 presentar metrorragia , por él que él realizar histeroscopia diagnóstico con resultado de   <objetivo> carcinomar </objetivo> papilar seroso grado 3 de endometrio ; en estudio de extensión él observar afectación retroperitoneal con carcinomatosis peritoneal .",
+        "Adeno <objetivo> carcinomar </objetivo> papilar seroso de endometrio estadio IV por carcinomatosis peritoneal con síndrome paraneoplásico tipo degeneración cerebelós con anticuerpo anti-yo positivo .",
+        "en abril de 2018 presentar metrorragia , por él que él realizar histeroscopia diagnóstico con resultado de carcinoma papilar seroso grado 3 de endometrio ; en estudio de extensión él observar afectación retroperitoneal con   <objetivo> carcinomatosis </objetivo> peritoneal .",
+        "Adenocarcinoma papilar seroso de endometrio estadio IV por   <objetivo> carcinomatosis </objetivo> peritoneal con síndrome paraneoplásico tipo degeneración cerebelós con anticuerpo anti-yo positivo .",
+        "durante el ingreso , él realizar analítica y punción lumbar que descartar origen metabólico / hidroelectrolítico e infeccioso , prueba de imagen sin   <objetivo> lesión a distancia </objetivo>   incluso uno TC que objetivar respuesta parcial tras uno primero ciclo de tratamiento .",
+        "TC y RM de cráneo sin alteración ni signo de enfermedad   <objetivo> metastásicar </objetivo> encefálico entrar ni extraaxial .",
+        "en abril de 2018 presentar metrorragia , por él que él realizar histeroscopia diagnóstico con resultado de   <objetivo> carcinomar papilar seroso grado 3 </objetivo> de endometrio ; en estudio de extensión él observar afectación retroperitoneal con carcinomatosis peritoneal .",
+        "TC toracoabdominal : respuesta parcial con disminución de masa endometrial e   <objetivo> implant intraperitoneal </objetivo>",
+        "<objetivo> Adenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosi </objetivo> peritoneal con síndrome paraneoplásico tipo degeneración cerebelós con anticuerpo anti-yo positivo ."
+    ],
+    "pubmed_id": "onco524",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 70 años sin antecedentes familiares de interés, fumadora de 20 paquetes-año, diagnosticada de carcinoma de mama localizado en 2003 tratado con cirugía conservadora y linfadenectomía axilar seguido de radioterapia y tamoxifeno durante 5 años sin evidencia de recidiva.",
+        "En abril de 2018 presenta metrorragias, por lo que se realiza histeroscopia diagnóstica con resultado de carcinoma papilar seroso grado 3 de endometrio; en estudios de extensión se observa afectación retroperitoneal con carcinomatosis peritoneal.",
+        "Valorado el caso en sesión multidisciplinar se decide iniciar carboplatino 5-AUC + paclitaxel 175 mg/m2 por tres ciclos y valoración de cirugía de intervalo según respuesta.",
+        "Tras primer ciclo de tratamiento, la paciente acude a Urgencias por clínica de una semana de mareo, inestabilidad para la marcha y vómitos de repetición con intolerancia oral siendo diagnosticada de vértigo periférico.",
+        "Ante la ausencia de mejoría pese a tratamiento con sulpirida, acude nuevamente a Urgencias decidiéndose ingreso para ampliar estudios.",
+        "Durante el ingreso, se realiza analítica y punción lumbar que descartan origen metabólico/hidroelectrolítico e infeccioso, pruebas de imagen sin lesiones a distancia, incluso una TC que objetivaba respuesta parcial tras un primer ciclo de tratamiento.",
+        "Con dichos resultados, se sospechó un síndrome paraneoplásico neurológico, por lo que se envió muestra de plasma al servicio de Inmunología, detectando positividad para anticuerpos anti-Yo mediante blot que se confirmaron por inmunofluorescencia indirecta (tinción con citoplasma de células de Purkinje).",
+        "Ante dichos hallazgos y la clínica, la paciente fue diagnosticada de síndrome paraneoplásico tipo degeneración cerebelosa.",
+        "Exploración física",
+        "ECOG: 2.",
+        "Lenguaje correcto y fluido.",
+        "Sin rigidez cervical.",
+        "Pares craneales normales.",
+        "Motilidad ocular normal con nistagmos vertical bilateral.",
+        "No hay déficit sensitivo en cara.",
+        "Fuerza y sensibilidad conservada en las cuatro extremidades.",
+        "Dismetría izquierda.",
+        "Reflejo cutáneo plantar indiferente.",
+        "Ataxia de tronco.",
+        "Pruebas complementarias",
+        "Analítica sin alteraciones.",
+        "LCR con pleocitosis y elevación de IgG sin bandas oligoclonales.",
+        "TC y RM de cráneo sin alteraciones ni signos de enfermedad metastásica encefálica intra ni extraaxial.",
+        "TC toracoabdominal: respuesta parcial con disminución de masa endometrial e implantes intraperitoneales.",
+        "Diagnóstico",
+        "Adenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosis peritoneal con síndrome paraneoplásico tipo degeneración cerebelosa con anticuerpos anti-YO positivos.",
+        "Tratamiento",
+        "Se inició pauta de tratamiento con corticoides intravenosos e inmunoglobulinas.",
+        "Pese al tratamiento, la paciente presenta escasa mejoría de los síntomas con persistencia de ataxia sin poder permanecer en bipedestación y diplopía a la dextroversión.",
+        "Evolución",
+        "Tras el alta acude a consulta dos semanas después con notable mejoría, recuperación de fuerza en extremidades, caminando con andador y capaz de levantarse sola de la silla.",
+        "Dada la aparición del síndrome paraneoplásico y que ginecología no va a realizar intervención quirúrgica a la espera de ver evolución clínica de la paciente decidimos modificar pauta de tratamiento a carboplatino 4-AUC + doxorrubicina liposomal pegilada 30 mg/m2.",
+        "Tras el segundo ciclo, la paciente sufre nuevo empeoramiento neurológico acudiendo a consulta en silla de ruedas, nulas ingestas, realizando vida cama-sillón, mal estado general y deterioro clínico con episodios nocturnos de agitación.",
+        "Dada la situación de la paciente, posiblemente relacionada con el síndrome paraneoplásico tipo degeneración cerebelosa, y el deterioro clínico no pautamos más tratamiento con quimioterapia, decidimos pasar a seguimiento por Unidad de Cuidados paliativos, falleciendo en octubre de 2018."
+    ],
+    "text": "Anamnesis\n\nMujer de 70 años sin antecedentes familiares de interés, fumadora de 20 paquetes-año, diagnosticada de carcinoma de mama localizado en 2003 tratado con cirugía conservadora y linfadenectomía axilar seguido de radioterapia y tamoxifeno durante 5 años sin evidencia de recidiva.\nEn abril de 2018 presenta metrorragias, por lo que se realiza histeroscopia diagnóstica con resultado de carcinoma papilar seroso grado 3 de endometrio; en estudios de extensión se observa afectación retroperitoneal con carcinomatosis peritoneal. Valorado el caso en sesión multidisciplinar se decide iniciar carboplatino 5-AUC + paclitaxel 175 mg/m2 por tres ciclos y valoración de cirugía de intervalo según respuesta.\nTras primer ciclo de tratamiento, la paciente acude a Urgencias por clínica de una semana de mareo, inestabilidad para la marcha y vómitos de repetición con intolerancia oral siendo diagnosticada de vértigo periférico. Ante la ausencia de mejoría pese a tratamiento con sulpirida, acude nuevamente a Urgencias decidiéndose ingreso para ampliar estudios.\nDurante el ingreso, se realiza analítica y punción lumbar que descartan origen metabólico/hidroelectrolítico e infeccioso, pruebas de imagen sin lesiones a distancia, incluso una TC que objetivaba respuesta parcial tras un primer ciclo de tratamiento. Con dichos resultados, se sospechó un síndrome paraneoplásico neurológico, por lo que se envió muestra de plasma al servicio de Inmunología, detectando positividad para anticuerpos anti-Yo mediante blot que se confirmaron por inmunofluorescencia indirecta (tinción con citoplasma de células de Purkinje). Ante dichos hallazgos y la clínica, la paciente fue diagnosticada de síndrome paraneoplásico tipo degeneración cerebelosa.\n\nExploración física\nECOG: 2. Lenguaje correcto y fluido. Sin rigidez cervical. Pares craneales normales. Motilidad ocular normal con nistagmos vertical bilateral. No hay déficit sensitivo en cara. Fuerza y sensibilidad conservada en las cuatro extremidades. Dismetría izquierda. Reflejo cutáneo plantar indiferente. Ataxia de tronco.\n\nPruebas complementarias\nAnalítica sin alteraciones. LCR con pleocitosis y elevación de IgG sin bandas oligoclonales. TC y RM de cráneo sin alteraciones ni signos de enfermedad metastásica encefálica intra ni extraaxial. TC toracoabdominal: respuesta parcial con disminución de masa endometrial e implantes intraperitoneales.\n\nDiagnóstico\nAdenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosis peritoneal con síndrome paraneoplásico tipo degeneración cerebelosa con anticuerpos anti-YO positivos.\n\nTratamiento\nSe inició pauta de tratamiento con corticoides intravenosos e inmunoglobulinas. Pese al tratamiento, la paciente presenta escasa mejoría de los síntomas con persistencia de ataxia sin poder permanecer en bipedestación y diplopía a la dextroversión.\n\nEvolución\nTras el alta acude a consulta dos semanas después con notable mejoría, recuperación de fuerza en extremidades, caminando con andador y capaz de levantarse sola de la silla. Dada la aparición del síndrome paraneoplásico y que ginecología no va a realizar intervención quirúrgica a la espera de ver evolución clínica de la paciente decidimos modificar pauta de tratamiento a carboplatino 4-AUC + doxorrubicina liposomal pegilada 30 mg/m2.\nTras el segundo ciclo, la paciente sufre nuevo empeoramiento neurológico acudiendo a consulta en silla de ruedas, nulas ingestas, realizando vida cama-sillón, mal estado general y deterioro clínico con episodios nocturnos de agitación.\nDada la situación de la paciente, posiblemente relacionada con el síndrome paraneoplásico tipo degeneración cerebelosa, y el deterioro clínico no pautamos más tratamiento con quimioterapia, decidimos pasar a seguimiento por Unidad de Cuidados paliativos, falleciendo en octubre de 2018."
+}

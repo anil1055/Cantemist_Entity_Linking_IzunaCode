@@ -1,0 +1,156 @@
+{
+    "title": "Levodopa-induced dyskinesias in patients with Parkinson's disease: filling the bench-to-bedside gap.",
+    "abst": "Levodopa is the most effective drug for the treatment of Parkinson's disease. However, the long-term use of this dopamine precursor is complicated by highly disabling fluctuations and dyskinesias. Although preclinical and clinical findings suggest pulsatile stimulation of striatal postsynaptic receptors as a key mechanism underlying levodopa-induced dyskinesias, their pathogenesis is still unclear. In recent years, evidence from animal models of Parkinson's disease has provided important information to understand the effect of specific receptor and post-receptor molecular mechanisms underlying the development of dyskinetic movements. Recent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms, dopamine receptor subtypes, ionotropic and metabotropic glutamate receptors, and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced dyskinesias.",
+    "title_plus_abst": "Levodopa-induced dyskinesias in patients with Parkinson's disease: filling the bench-to-bedside gap. Levodopa is the most effective drug for the treatment of Parkinson's disease. However, the long-term use of this dopamine precursor is complicated by highly disabling fluctuations and dyskinesias. Although preclinical and clinical findings suggest pulsatile stimulation of striatal postsynaptic receptors as a key mechanism underlying levodopa-induced dyskinesias, their pathogenesis is still unclear. In recent years, evidence from animal models of Parkinson's disease has provided important information to understand the effect of specific receptor and post-receptor molecular mechanisms underlying the development of dyskinetic movements. Recent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms, dopamine receptor subtypes, ionotropic and metabotropic glutamate receptors, and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced dyskinesias.",
+    "pubmed_id": "20880751",
+    "entities": [
+        [
+            0,
+            8,
+            "Levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            17,
+            28,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            46,
+            65,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            101,
+            109,
+            "Levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            158,
+            177,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            214,
+            222,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            285,
+            296,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            436,
+            444,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            453,
+            464,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            551,
+            570,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            721,
+            741,
+            "dyskinetic movements",
+            "Disease",
+            "D004409"
+        ],
+        [
+            891,
+            899,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            947,
+            956,
+            "glutamate",
+            "Chemical",
+            "D018698"
+        ],
+        [
+            1040,
+            1048,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            1057,
+            1068,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ]
+    ],
+    "split_sentence": [
+        "Levodopa-induced dyskinesias in patients with Parkinson's disease: filling the bench-to-bedside gap.",
+        "Levodopa is the most effective drug for the treatment of Parkinson's disease.",
+        "However, the long-term use of this dopamine precursor is complicated by highly disabling fluctuations and dyskinesias.",
+        "Although preclinical and clinical findings suggest pulsatile stimulation of striatal postsynaptic receptors as a key mechanism underlying levodopa-induced dyskinesias, their pathogenesis is still unclear.",
+        "In recent years, evidence from animal models of Parkinson's disease has provided important information to understand the effect of specific receptor and post-receptor molecular mechanisms underlying the development of dyskinetic movements.",
+        "Recent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms, dopamine receptor subtypes, ionotropic and metabotropic glutamate receptors, and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced dyskinesias."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007980\tChemical\tLevodopa\t<target> Levodopa </target> -induced dyskinesias in patients with Parkinson 's disease : filling the bench-to-bedside gap .",
+        "D004409\tDisease\tdyskinesias\tLevodopa-induced <target> dyskinesias </target> in patients with Parkinson 's disease : filling the bench-to-bedside gap .",
+        "D010300\tDisease\tParkinson's disease\tLevodopa-induced dyskinesias in patients with <target> Parkinson 's disease </target> : filling the bench-to-bedside gap .",
+        "D007980\tChemical\tLevodopa\t<target> Levodopa </target> is the most effective drug for the treatment of Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tLevodopa is the most effective drug for the treatment of <target> Parkinson 's disease </target> .",
+        "D004298\tChemical\tdopamine\tHowever , the long-term use of this <target> dopamine </target> precursor is complicated by highly disabling fluctuations and dyskinesias .",
+        "D004409\tDisease\tdyskinesias\tHowever , the long-term use of this dopamine precursor is complicated by highly disabling fluctuations and <target> dyskinesias </target> .",
+        "D007980\tChemical\tlevodopa\tAlthough preclinical and clinical findings suggest pulsatile stimulation of striatal postsynaptic receptors as a key mechanism underlying <target> levodopa </target> -induced dyskinesias , their pathogenesis is still unclear .",
+        "D004409\tDisease\tdyskinesias\tAlthough preclinical and clinical findings suggest pulsatile stimulation of striatal postsynaptic receptors as a key mechanism underlying levodopa-induced <target> dyskinesias </target> , their pathogenesis is still unclear .",
+        "D010300\tDisease\tParkinson's disease\tIn recent years , evidence from animal models of <target> Parkinson 's disease </target> has provided important information to understand the effect of specific receptor and post-receptor molecular mechanisms underlying the development of dyskinetic movements .",
+        "D004409\tDisease\tdyskinetic movements\tIn recent years , evidence from animal models of Parkinson 's disease has provided important information to understand the effect of specific receptor and post-receptor molecular mechanisms underlying the development of <target> dyskinetic movements </target> .",
+        "D004298\tChemical\tdopamine\tRecent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms , <target> dopamine </target> receptor subtypes , ionotropic and metabotropic glutamate receptors , and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced dyskinesias .",
+        "D018698\tChemical\tglutamate\tRecent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms , dopamine receptor subtypes , ionotropic and metabotropic <target> glutamate </target> receptors , and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced dyskinesias .",
+        "D007980\tChemical\tlevodopa\tRecent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms , dopamine receptor subtypes , ionotropic and metabotropic glutamate receptors , and non-dopaminergic neurotransmitter systems in the pathophysiology of <target> levodopa </target> -induced dyskinesias .",
+        "D004409\tDisease\tdyskinesias\tRecent preclinical and clinical data from promising lines of research focus on the differential role of presynaptic versus postsynaptic mechanisms , dopamine receptor subtypes , ionotropic and metabotropic glutamate receptors , and non-dopaminergic neurotransmitter systems in the pathophysiology of levodopa-induced <target> dyskinesias </target> ."
+    ],
+    "lines_lemma": [
+        "D007980\tChemical\tLevodopa\t<target> levodopa </target> -induced dyskinesia in patient with Parkinson 's disease : fill the bench-to-bedside gap .",
+        "D004409\tDisease\tdyskinesias\tlevodopa-induced <target> dyskinesia </target> in patient with Parkinson 's disease : fill the bench-to-bedside gap .",
+        "D010300\tDisease\tParkinson's disease\tlevodopa-induced dyskinesia in patient with <target> Parkinson 's disease </target> : fill the bench-to-bedside gap .",
+        "D007980\tChemical\tLevodopa\t<target> Levodopa </target> be the most effective drug for the treatment of Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tlevodopa be the most effective drug for the treatment of <target> Parkinson 's disease </target> .",
+        "D004298\tChemical\tdopamine\thowever , the long-term use of this <target> dopamine </target> precursor be complicate by highly disabling fluctuation and dyskinesia .",
+        "D004409\tDisease\tdyskinesias\thowever , the long-term use of this dopamine precursor be complicate by highly disabling fluctuation and <target> dyskinesia </target> .",
+        "D007980\tChemical\tlevodopa\talthough preclinical and clinical finding suggest pulsatile stimulation of striatal postsynaptic receptor as a key mechanism underlie <target> levodopa </target> -induced dyskinesia , their pathogenesis be still unclear .",
+        "D004409\tDisease\tdyskinesias\talthough preclinical and clinical finding suggest pulsatile stimulation of striatal postsynaptic receptor as a key mechanism underlie levodopa-induced <target> dyskinesia </target> , their pathogenesis be still unclear .",
+        "D010300\tDisease\tParkinson's disease\tin recent year , evidence from animal model of <target> Parkinson 's disease </target> have provide important information to understand the effect of specific receptor and post-receptor molecular mechanism underlie the development of dyskinetic movement .",
+        "D004409\tDisease\tdyskinetic movements\tin recent year , evidence from animal model of Parkinson 's disease have provide important information to understand the effect of specific receptor and post-receptor molecular mechanism underlie the development of <target> dyskinetic movement </target> .",
+        "D004298\tChemical\tdopamine\trecent preclinical and clinical datum from promising line of research focus on the differential role of presynaptic versus postsynaptic mechanism , <target> dopamine </target> receptor subtype , ionotropic and metabotropic glutamate receptor , and non-dopaminergic neurotransmitter system in the pathophysiology of levodopa-induced dyskinesia .",
+        "D018698\tChemical\tglutamate\trecent preclinical and clinical datum from promising line of research focus on the differential role of presynaptic versus postsynaptic mechanism , dopamine receptor subtype , ionotropic and metabotropic <target> glutamate </target> receptor , and non-dopaminergic neurotransmitter system in the pathophysiology of levodopa-induced dyskinesia .",
+        "D007980\tChemical\tlevodopa\trecent preclinical and clinical datum from promising line of research focus on the differential role of presynaptic versus postsynaptic mechanism , dopamine receptor subtype , ionotropic and metabotropic glutamate receptor , and non-dopaminergic neurotransmitter system in the pathophysiology of <target> levodopa </target> -induced dyskinesia .",
+        "D004409\tDisease\tdyskinesias\trecent preclinical and clinical datum from promising line of research focus on the differential role of presynaptic versus postsynaptic mechanism , dopamine receptor subtype , ionotropic and metabotropic glutamate receptor , and non-dopaminergic neurotransmitter system in the pathophysiology of levodopa-induced <target> dyskinesia </target> ."
+    ]
+}

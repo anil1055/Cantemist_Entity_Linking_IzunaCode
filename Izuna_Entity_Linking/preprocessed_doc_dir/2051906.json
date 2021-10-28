@@ -1,0 +1,129 @@
+{
+    "title": "Reversible cholestasis with bile duct injury following azathioprine therapy. A case report.",
+    "abst": "A 67-year-old patient, with primary polymyositis and without previous evidence of liver disease, developed clinical and biochemical features of severe cholestasis 3 months after initiation of azathioprine therapy. Liver biopsy showed cholestasis with both cytological and architectural alterations of interlobular bile ducts. Azathioprine withdrawal resulted after 7 weeks in the resolution of clinical and biochemical abnormalities. It is believed that this is the first reported case of reversible azathioprine-induced cholestasis associated with histological evidence of bile duct injury.",
+    "title_plus_abst": "Reversible cholestasis with bile duct injury following azathioprine therapy. A case report. A 67-year-old patient, with primary polymyositis and without previous evidence of liver disease, developed clinical and biochemical features of severe cholestasis 3 months after initiation of azathioprine therapy. Liver biopsy showed cholestasis with both cytological and architectural alterations of interlobular bile ducts. Azathioprine withdrawal resulted after 7 weeks in the resolution of clinical and biochemical abnormalities. It is believed that this is the first reported case of reversible azathioprine-induced cholestasis associated with histological evidence of bile duct injury.",
+    "pubmed_id": "2051906",
+    "entities": [
+        [
+            11,
+            22,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            28,
+            44,
+            "bile duct injury",
+            "Disease",
+            "D002779"
+        ],
+        [
+            55,
+            67,
+            "azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            128,
+            140,
+            "polymyositis",
+            "Disease",
+            "D017285"
+        ],
+        [
+            174,
+            187,
+            "liver disease",
+            "Disease",
+            "D008107"
+        ],
+        [
+            243,
+            254,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            284,
+            296,
+            "azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            326,
+            337,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            418,
+            430,
+            "Azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            592,
+            604,
+            "azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            613,
+            624,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            666,
+            682,
+            "bile duct injury",
+            "Disease",
+            "D002779"
+        ]
+    ],
+    "split_sentence": [
+        "Reversible cholestasis with bile duct injury following azathioprine therapy.",
+        "A case report.",
+        "A 67-year-old patient, with primary polymyositis and without previous evidence of liver disease, developed clinical and biochemical features of severe cholestasis 3 months after initiation of azathioprine therapy.",
+        "Liver biopsy showed cholestasis with both cytological and architectural alterations of interlobular bile ducts.",
+        "Azathioprine withdrawal resulted after 7 weeks in the resolution of clinical and biochemical abnormalities.",
+        "It is believed that this is the first reported case of reversible azathioprine-induced cholestasis associated with histological evidence of bile duct injury."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002779\tDisease\tcholestasis\tReversible <target> cholestasis </target> with bile duct injury following azathioprine therapy .",
+        "D002779\tDisease\tbile duct injury\tReversible cholestasis with <target> bile duct injury </target> following azathioprine therapy .",
+        "D001379\tChemical\tazathioprine\tReversible cholestasis with bile duct injury following <target> azathioprine </target> therapy .",
+        "D017285\tDisease\tpolymyositis\tA 67-year-old patient , with primary <target> polymyositis </target> and without previous evidence of liver disease , developed clinical and biochemical features of severe cholestasis 3 months after initiation of azathioprine therapy .",
+        "D008107\tDisease\tliver disease\tA 67-year-old patient , with primary polymyositis and without previous evidence of <target> liver disease </target> , developed clinical and biochemical features of severe cholestasis 3 months after initiation of azathioprine therapy .",
+        "D002779\tDisease\tcholestasis\tA 67-year-old patient , with primary polymyositis and without previous evidence of liver disease , developed clinical and biochemical features of severe <target> cholestasis </target> 3 months after initiation of azathioprine therapy .",
+        "D001379\tChemical\tazathioprine\tA 67-year-old patient , with primary polymyositis and without previous evidence of liver disease , developed clinical and biochemical features of severe cholestasis 3 months after initiation of <target> azathioprine </target> therapy .",
+        "D002779\tDisease\tcholestasis\tLiver biopsy showed <target> cholestasis </target> with both cytological and architectural alterations of interlobular bile ducts .",
+        "D001379\tChemical\tAzathioprine\t<target> Azathioprine </target> withdrawal resulted after 7 weeks in the resolution of clinical and biochemical abnormalities .",
+        "D001379\tChemical\tazathioprine\tIt is believed that this is the first reported case of reversible <target> azathioprine </target> -induced cholestasis associated with histological evidence of bile duct injury .",
+        "D002779\tDisease\tcholestasis\tIt is believed that this is the first reported case of reversible azathioprine-induced <target> cholestasis </target> associated with histological evidence of bile duct injury .",
+        "D002779\tDisease\tbile duct injury\tIt is believed that this is the first reported case of reversible azathioprine-induced cholestasis associated with histological evidence of <target> bile duct injury </target> ."
+    ],
+    "lines_lemma": [
+        "D002779\tDisease\tcholestasis\treversible <target> cholestasis </target> with bile duct injury follow azathioprine therapy .",
+        "D002779\tDisease\tbile duct injury\treversible cholestasis with <target> bile duct injury </target> follow azathioprine therapy .",
+        "D001379\tChemical\tazathioprine\treversible cholestasis with bile duct injury follow <target> azathioprine </target> therapy .",
+        "D017285\tDisease\tpolymyositis\ta 67-year-old patient , with primary <target> polymyositis </target> and without previous evidence of liver disease , develop clinical and biochemical feature of severe cholestasis 3 month after initiation of azathioprine therapy .",
+        "D008107\tDisease\tliver disease\ta 67-year-old patient , with primary polymyositis and without previous evidence of <target> liver disease </target> , develop clinical and biochemical feature of severe cholestasis 3 month after initiation of azathioprine therapy .",
+        "D002779\tDisease\tcholestasis\ta 67-year-old patient , with primary polymyositis and without previous evidence of liver disease , develop clinical and biochemical feature of severe <target> cholestasis </target> 3 month after initiation of azathioprine therapy .",
+        "D001379\tChemical\tazathioprine\ta 67-year-old patient , with primary polymyositis and without previous evidence of liver disease , develop clinical and biochemical feature of severe cholestasis 3 month after initiation of <target> azathioprine </target> therapy .",
+        "D002779\tDisease\tcholestasis\tliver biopsy show <target> cholestasis </target> with both cytological and architectural alteration of interlobular bile duct .",
+        "D001379\tChemical\tAzathioprine\t<target> azathioprine </target> withdrawal result after 7 week in the resolution of clinical and biochemical abnormality .",
+        "D001379\tChemical\tazathioprine\tit be believe that this be the first report case of reversible <target> azathioprine </target> -induced cholestasis associate with histological evidence of bile duct injury .",
+        "D002779\tDisease\tcholestasis\tit be believe that this be the first report case of reversible azathioprine-induced <target> cholestasis </target> associate with histological evidence of bile duct injury .",
+        "D002779\tDisease\tbile duct injury\tit be believe that this be the first report case of reversible azathioprine-induced cholestasis associate with histological evidence of <target> bile duct injury </target> ."
+    ]
+}

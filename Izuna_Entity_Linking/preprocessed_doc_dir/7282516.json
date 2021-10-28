@@ -1,0 +1,148 @@
+{
+    "title": "Dose-effect and structure-function relationships in doxorubicin cardiomyopathy.",
+    "abst": "The cardiomyopathy (CM) produced by the anticancer drug doxorubicin (DXR) (Adriamycin) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease. We measured the degree of morphologic damage by ultrastructural examination of endomyocardial biopsy and the degree of performance abnormally by right heart catheterization in patients receiving DXR. Morphologic damage was variable but was proportional to the total cumulative DXR dose between 100 and 600 mg/m2. Performance abnormalities correlated weakly with dose, exhibited a curvilinear relationship, and had a \"threshold\" for expression. Catheterization abnormalities correlated well with morphologic damage (r = 0.57 to 0.78) in a subgroup of patients in whom exercise hemodynamics were measured, and this relationship also exhibited a curvilinear, threshold configuration. In DXR-CM myocardial damage is proportional to the degree of cytotoxic insult (DXR dose) while myocardial function is preserved until a critical dose or degree of damage is reached, after which myocardial performance deteriorates rapidly.",
+    "title_plus_abst": "Dose-effect and structure-function relationships in doxorubicin cardiomyopathy. The cardiomyopathy (CM) produced by the anticancer drug doxorubicin (DXR) (Adriamycin) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease. We measured the degree of morphologic damage by ultrastructural examination of endomyocardial biopsy and the degree of performance abnormally by right heart catheterization in patients receiving DXR. Morphologic damage was variable but was proportional to the total cumulative DXR dose between 100 and 600 mg/m2. Performance abnormalities correlated weakly with dose, exhibited a curvilinear relationship, and had a \"threshold\" for expression. Catheterization abnormalities correlated well with morphologic damage (r = 0.57 to 0.78) in a subgroup of patients in whom exercise hemodynamics were measured, and this relationship also exhibited a curvilinear, threshold configuration. In DXR-CM myocardial damage is proportional to the degree of cytotoxic insult (DXR dose) while myocardial function is preserved until a critical dose or degree of damage is reached, after which myocardial performance deteriorates rapidly.",
+    "pubmed_id": "7282516",
+    "entities": [
+        [
+            52,
+            63,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            64,
+            78,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            84,
+            98,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            100,
+            102,
+            "CM",
+            "Disease",
+            "D009202"
+        ],
+        [
+            136,
+            147,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            149,
+            152,
+            "DXR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            155,
+            165,
+            "Adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            279,
+            297,
+            "myocardial disease",
+            "Disease",
+            "D009202"
+        ],
+        [
+            494,
+            497,
+            "DXR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            576,
+            579,
+            "DXR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            983,
+            986,
+            "DXR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            987,
+            989,
+            "CM",
+            "Disease",
+            "D009202"
+        ],
+        [
+            990,
+            1007,
+            "myocardial damage",
+            "Disease",
+            "D009202"
+        ],
+        [
+            1059,
+            1062,
+            "DXR",
+            "Chemical",
+            "D004317"
+        ]
+    ],
+    "split_sentence": [
+        "Dose-effect and structure-function relationships in doxorubicin cardiomyopathy.",
+        "The cardiomyopathy (CM) produced by the anticancer drug doxorubicin (DXR) (Adriamycin) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease.",
+        "We measured the degree of morphologic damage by ultrastructural examination of endomyocardial biopsy and the degree of performance abnormally by right heart catheterization in patients receiving DXR.",
+        "Morphologic damage was variable but was proportional to the total cumulative DXR dose between 100 and 600 mg/m2.",
+        "Performance abnormalities correlated weakly with dose, exhibited a curvilinear relationship, and had a \"threshold\" for expression.",
+        "Catheterization abnormalities correlated well with morphologic damage (r = 0.57 to 0.78) in a subgroup of patients in whom exercise hemodynamics were measured, and this relationship also exhibited a curvilinear, threshold configuration.",
+        "In DXR-CM myocardial damage is proportional to the degree of cytotoxic insult (DXR dose) while myocardial function is preserved until a critical dose or degree of damage is reached, after which myocardial performance deteriorates rapidly."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004317\tChemical\tdoxorubicin\tDose-effect and structure-function relationships in <target> doxorubicin </target> cardiomyopathy .",
+        "D009202\tDisease\tcardiomyopathy\tDose-effect and structure-function relationships in doxorubicin <target> cardiomyopathy </target> .",
+        "D009202\tDisease\tcardiomyopathy\tThe <target> cardiomyopathy </target> ( CM ) produced by the anticancer drug doxorubicin ( DXR ) ( Adriamycin ) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease .",
+        "D009202\tDisease\tCM\tThe cardiomyopathy ( <target> CM </target> ) produced by the anticancer drug doxorubicin ( DXR ) ( Adriamycin ) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease .",
+        "D004317\tChemical\tdoxorubicin\tThe cardiomyopathy ( CM ) produced by the anticancer drug <target> doxorubicin </target> ( DXR ) ( Adriamycin ) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease .",
+        "D004317\tChemical\tDXR\tThe cardiomyopathy ( CM ) produced by the anticancer drug doxorubicin ( <target> DXR </target> ) ( Adriamycin ) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease .",
+        "D004317\tChemical\tAdriamycin\tThe cardiomyopathy ( CM ) produced by the anticancer drug doxorubicin ( DXR ) ( <target> Adriamycin </target> ) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of myocardial disease .",
+        "D009202\tDisease\tmyocardial disease\tThe cardiomyopathy ( CM ) produced by the anticancer drug doxorubicin ( DXR ) ( Adriamycin ) provides a unique opportunity to analyze dose-effect and structure-function relationships during development of <target> myocardial disease </target> .",
+        "D004317\tChemical\tDXR\tWe measured the degree of morphologic damage by ultrastructural examination of endomyocardial biopsy and the degree of performance abnormally by right heart catheterization in patients receiving <target> DXR </target> .",
+        "D004317\tChemical\tDXR\tMorphologic damage was variable but was proportional to the total cumulative <target> DXR </target> dose between 100 and 600 mg/m2 .",
+        "D004317\tChemical\tDXR\tIn <target> DXR </target> -CM myocardial damage is proportional to the degree of cytotoxic insult ( DXR dose ) while myocardial function is preserved until a critical dose or degree of damage is reached , after which myocardial performance deteriorates rapidly .",
+        "D009202\tDisease\tCM\tIn DXR- <target> CM </target> myocardial damage is proportional to the degree of cytotoxic insult ( DXR dose ) while myocardial function is preserved until a critical dose or degree of damage is reached , after which myocardial performance deteriorates rapidly .",
+        "D009202\tDisease\tmyocardial damage\tIn DXR-CM <target> myocardial damage </target> is proportional to the degree of cytotoxic insult ( DXR dose ) while myocardial function is preserved until a critical dose or degree of damage is reached , after which myocardial performance deteriorates rapidly .",
+        "D004317\tChemical\tDXR\tIn DXR-CM myocardial damage is proportional to the degree of cytotoxic insult ( <target> DXR </target> dose ) while myocardial function is preserved until a critical dose or degree of damage is reached , after which myocardial performance deteriorates rapidly ."
+    ],
+    "lines_lemma": [
+        "D004317\tChemical\tdoxorubicin\tdose-effect and structure-function relationship in <target> doxorubicin </target> cardiomyopathy .",
+        "D009202\tDisease\tcardiomyopathy\tdose-effect and structure-function relationship in doxorubicin <target> cardiomyopathy </target> .",
+        "D009202\tDisease\tcardiomyopathy\tthe <target> cardiomyopathy </target> ( cm ) produce by the anticancer drug doxorubicin ( dxr ) ( adriamycin ) provide a unique opportunity to analyze dose-effect and structure-function relationship during development of myocardial disease .",
+        "D009202\tDisease\tCM\tthe cardiomyopathy ( <target> cm </target> ) produce by the anticancer drug doxorubicin ( dxr ) ( adriamycin ) provide a unique opportunity to analyze dose-effect and structure-function relationship during development of myocardial disease .",
+        "D004317\tChemical\tdoxorubicin\tthe cardiomyopathy ( cm ) produce by the anticancer drug <target> doxorubicin </target> ( dxr ) ( adriamycin ) provide a unique opportunity to analyze dose-effect and structure-function relationship during development of myocardial disease .",
+        "D004317\tChemical\tDXR\tthe cardiomyopathy ( cm ) produce by the anticancer drug doxorubicin ( <target> dxr </target> ) ( adriamycin ) provide a unique opportunity to analyze dose-effect and structure-function relationship during development of myocardial disease .",
+        "D004317\tChemical\tAdriamycin\tthe cardiomyopathy ( cm ) produce by the anticancer drug doxorubicin ( dxr ) ( <target> adriamycin </target> ) provide a unique opportunity to analyze dose-effect and structure-function relationship during development of myocardial disease .",
+        "D009202\tDisease\tmyocardial disease\tthe cardiomyopathy ( cm ) produce by the anticancer drug doxorubicin ( dxr ) ( adriamycin ) provide a unique opportunity to analyze dose-effect and structure-function relationship during development of <target> myocardial disease </target> .",
+        "D004317\tChemical\tDXR\twe measure the degree of morphologic damage by ultrastructural examination of endomyocardial biopsy and the degree of performance abnormally by right heart catheterization in patient receive <target> dxr </target> .",
+        "D004317\tChemical\tDXR\tmorphologic damage be variable but be proportional to the total cumulative <target> dxr </target> dose between 100 and 600 mg/m2 .",
+        "D004317\tChemical\tDXR\tin <target> dxr </target> -cm myocardial damage be proportional to the degree of cytotoxic insult ( dxr dose ) while myocardial function be preserve until a critical dose or degree of damage be reach , after which myocardial performance deteriorate rapidly .",
+        "D009202\tDisease\tCM\tin dxr- <target> cm </target> myocardial damage be proportional to the degree of cytotoxic insult ( dxr dose ) while myocardial function be preserve until a critical dose or degree of damage be reach , after which myocardial performance deteriorate rapidly .",
+        "D009202\tDisease\tmyocardial damage\tin dxr-cm <target> myocardial damage </target> be proportional to the degree of cytotoxic insult ( dxr dose ) while myocardial function be preserve until a critical dose or degree of damage be reach , after which myocardial performance deteriorate rapidly .",
+        "D004317\tChemical\tDXR\tin dxr-cm myocardial damage be proportional to the degree of cytotoxic insult ( <target> dxr </target> dose ) while myocardial function be preserve until a critical dose or degree of damage be reach , after which myocardial performance deteriorate rapidly ."
+    ]
+}

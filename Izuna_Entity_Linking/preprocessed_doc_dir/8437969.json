@@ -1,0 +1,137 @@
+{
+    "title": "Sinus arrest associated with continuous-infusion cimetidine.",
+    "abst": "The administration of intermittent intravenous infusions of cimetidine is infrequently associated with the development of bradyarrhythmias. A 40-year-old man with leukemia and no history of cardiac disease developed recurrent, brief episodes of apparent sinus arrest while receiving continuous-infusion cimetidine 50 mg/hour. The arrhythmias were temporally related to cimetidine administration, disappeared after dechallenge, and did not recur during ranitidine treatment. This is the first reported case of sinus arrest associated with continuous-infusion cimetidine.",
+    "title_plus_abst": "Sinus arrest associated with continuous-infusion cimetidine. The administration of intermittent intravenous infusions of cimetidine is infrequently associated with the development of bradyarrhythmias. A 40-year-old man with leukemia and no history of cardiac disease developed recurrent, brief episodes of apparent sinus arrest while receiving continuous-infusion cimetidine 50 mg/hour. The arrhythmias were temporally related to cimetidine administration, disappeared after dechallenge, and did not recur during ranitidine treatment. This is the first reported case of sinus arrest associated with continuous-infusion cimetidine.",
+    "pubmed_id": "8437969",
+    "entities": [
+        [
+            0,
+            12,
+            "Sinus arrest",
+            "Disease",
+            "D054138"
+        ],
+        [
+            49,
+            59,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            121,
+            131,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            183,
+            199,
+            "bradyarrhythmias",
+            "Disease",
+            "D001919"
+        ],
+        [
+            224,
+            232,
+            "leukemia",
+            "Disease",
+            "D007938"
+        ],
+        [
+            251,
+            266,
+            "cardiac disease",
+            "Disease",
+            "D006331"
+        ],
+        [
+            315,
+            327,
+            "sinus arrest",
+            "Disease",
+            "D054138"
+        ],
+        [
+            364,
+            374,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            391,
+            402,
+            "arrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            430,
+            440,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            513,
+            523,
+            "ranitidine",
+            "Chemical",
+            "D011899"
+        ],
+        [
+            570,
+            582,
+            "sinus arrest",
+            "Disease",
+            "D054138"
+        ],
+        [
+            619,
+            629,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ]
+    ],
+    "split_sentence": [
+        "Sinus arrest associated with continuous-infusion cimetidine.",
+        "The administration of intermittent intravenous infusions of cimetidine is infrequently associated with the development of bradyarrhythmias.",
+        "A 40-year-old man with leukemia and no history of cardiac disease developed recurrent, brief episodes of apparent sinus arrest while receiving continuous-infusion cimetidine 50 mg/hour.",
+        "The arrhythmias were temporally related to cimetidine administration, disappeared after dechallenge, and did not recur during ranitidine treatment.",
+        "This is the first reported case of sinus arrest associated with continuous-infusion cimetidine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D054138\tDisease\tSinus arrest\t<target> Sinus arrest </target> associated with continuous-infusion cimetidine .",
+        "D002927\tChemical\tcimetidine\tSinus arrest associated with continuous-infusion <target> cimetidine </target> .",
+        "D002927\tChemical\tcimetidine\tThe administration of intermittent intravenous infusions of <target> cimetidine </target> is infrequently associated with the development of bradyarrhythmias .",
+        "D001919\tDisease\tbradyarrhythmias\tThe administration of intermittent intravenous infusions of cimetidine is infrequently associated with the development of <target> bradyarrhythmias </target> .",
+        "D007938\tDisease\tleukemia\tA 40-year-old man with <target> leukemia </target> and no history of cardiac disease developed recurrent , brief episodes of apparent sinus arrest while receiving continuous-infusion cimetidine 50 mg/hour .",
+        "D006331\tDisease\tcardiac disease\tA 40-year-old man with leukemia and no history of <target> cardiac disease </target> developed recurrent , brief episodes of apparent sinus arrest while receiving continuous-infusion cimetidine 50 mg/hour .",
+        "D054138\tDisease\tsinus arrest\tA 40-year-old man with leukemia and no history of cardiac disease developed recurrent , brief episodes of apparent <target> sinus arrest </target> while receiving continuous-infusion cimetidine 50 mg/hour .",
+        "D002927\tChemical\tcimetidine\tA 40-year-old man with leukemia and no history of cardiac disease developed recurrent , brief episodes of apparent sinus arrest while receiving continuous-infusion <target> cimetidine </target> 50 mg/hour .",
+        "D001145\tDisease\tarrhythmias\tThe <target> arrhythmias </target> were temporally related to cimetidine administration , disappeared after dechallenge , and did not recur during ranitidine treatment .",
+        "D002927\tChemical\tcimetidine\tThe arrhythmias were temporally related to <target> cimetidine </target> administration , disappeared after dechallenge , and did not recur during ranitidine treatment .",
+        "D011899\tChemical\tranitidine\tThe arrhythmias were temporally related to cimetidine administration , disappeared after dechallenge , and did not recur during <target> ranitidine </target> treatment .",
+        "D054138\tDisease\tsinus arrest\tThis is the first reported case of <target> sinus arrest </target> associated with continuous-infusion cimetidine .",
+        "D002927\tChemical\tcimetidine\tThis is the first reported case of sinus arrest associated with continuous-infusion <target> cimetidine </target> ."
+    ],
+    "lines_lemma": [
+        "D054138\tDisease\tSinus arrest\t<target> sinus arrest </target> associate with continuous-infusion cimetidine .",
+        "D002927\tChemical\tcimetidine\tsinus arrest associate with continuous-infusion <target> cimetidine </target> .",
+        "D002927\tChemical\tcimetidine\tthe administration of intermittent intravenous infusion of <target> cimetidine </target> be infrequently associate with the development of bradyarrhythmia .",
+        "D001919\tDisease\tbradyarrhythmias\tthe administration of intermittent intravenous infusion of cimetidine be infrequently associate with the development of <target> bradyarrhythmia </target> .",
+        "D007938\tDisease\tleukemia\ta 40-year-old man with <target> leukemia </target> and no history of cardiac disease develop recurrent , brief episode of apparent sinus arrest while receive continuous-infusion cimetidine 50 mg/hour .",
+        "D006331\tDisease\tcardiac disease\ta 40-year-old man with leukemia and no history of <target> cardiac disease </target> develop recurrent , brief episode of apparent sinus arrest while receive continuous-infusion cimetidine 50 mg/hour .",
+        "D054138\tDisease\tsinus arrest\ta 40-year-old man with leukemia and no history of cardiac disease develop recurrent , brief episode of apparent <target> sinus arrest </target> while receive continuous-infusion cimetidine 50 mg/hour .",
+        "D002927\tChemical\tcimetidine\ta 40-year-old man with leukemia and no history of cardiac disease develop recurrent , brief episode of apparent sinus arrest while receive continuous-infusion <target> cimetidine </target> 50 mg/hour .",
+        "D001145\tDisease\tarrhythmias\tthe <target> arrhythmia </target> be temporally related to cimetidine administration , disappear after dechallenge , and do not recur during ranitidine treatment .",
+        "D002927\tChemical\tcimetidine\tthe arrhythmia be temporally related to <target> cimetidine </target> administration , disappear after dechallenge , and do not recur during ranitidine treatment .",
+        "D011899\tChemical\tranitidine\tthe arrhythmia be temporally related to cimetidine administration , disappear after dechallenge , and do not recur during <target> ranitidine </target> treatment .",
+        "D054138\tDisease\tsinus arrest\tthis be the first report case of <target> sinus arrest </target> associate with continuous-infusion cimetidine .",
+        "D002927\tChemical\tcimetidine\tthis be the first report case of sinus arrest associate with continuous-infusion <target> cimetidine </target> ."
+    ]
+}

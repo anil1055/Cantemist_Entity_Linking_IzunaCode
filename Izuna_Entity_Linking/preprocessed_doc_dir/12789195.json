@@ -1,0 +1,120 @@
+{
+    "title": "Pseudoacromegaly induced by the long-term use of minoxidil.",
+    "abst": "Acromegaly is an endocrine disorder caused by chronic excessive growth hormone secretion from the anterior pituitary gland. Significant disfiguring changes occur as a result of bone, cartilage, and soft tissue hypertrophy, including the thickening of the skin, coarsening of facial features, and cutis verticis gyrata. Pseudoacromegaly, on the other hand, is the presence of similar acromegaloid features in the absence of elevated growth hormone or insulin-like growth factor levels. We present a patient with pseudoacromegaly that resulted from the long-term use of minoxidil at an unusually high dose. This is the first case report of pseudoacromegaly as a side effect of minoxidil use.",
+    "title_plus_abst": "Pseudoacromegaly induced by the long-term use of minoxidil. Acromegaly is an endocrine disorder caused by chronic excessive growth hormone secretion from the anterior pituitary gland. Significant disfiguring changes occur as a result of bone, cartilage, and soft tissue hypertrophy, including the thickening of the skin, coarsening of facial features, and cutis verticis gyrata. Pseudoacromegaly, on the other hand, is the presence of similar acromegaloid features in the absence of elevated growth hormone or insulin-like growth factor levels. We present a patient with pseudoacromegaly that resulted from the long-term use of minoxidil at an unusually high dose. This is the first case report of pseudoacromegaly as a side effect of minoxidil use.",
+    "pubmed_id": "12789195",
+    "entities": [
+        [
+            0,
+            16,
+            "Pseudoacromegaly",
+            "Disease",
+            "D004194"
+        ],
+        [
+            49,
+            58,
+            "minoxidil",
+            "Chemical",
+            "D008914"
+        ],
+        [
+            60,
+            70,
+            "Acromegaly",
+            "Disease",
+            "D000172"
+        ],
+        [
+            77,
+            95,
+            "endocrine disorder",
+            "Disease",
+            "D004700"
+        ],
+        [
+            270,
+            281,
+            "hypertrophy",
+            "Disease",
+            "D006984"
+        ],
+        [
+            356,
+            377,
+            "cutis verticis gyrata",
+            "Disease",
+            "C535610"
+        ],
+        [
+            379,
+            395,
+            "Pseudoacromegaly",
+            "Disease",
+            "D004194"
+        ],
+        [
+            571,
+            587,
+            "pseudoacromegaly",
+            "Disease",
+            "D004194"
+        ],
+        [
+            628,
+            637,
+            "minoxidil",
+            "Chemical",
+            "D008914"
+        ],
+        [
+            698,
+            714,
+            "pseudoacromegaly",
+            "Disease",
+            "D004194"
+        ],
+        [
+            735,
+            744,
+            "minoxidil",
+            "Chemical",
+            "D008914"
+        ]
+    ],
+    "split_sentence": [
+        "Pseudoacromegaly induced by the long-term use of minoxidil.",
+        "Acromegaly is an endocrine disorder caused by chronic excessive growth hormone secretion from the anterior pituitary gland.",
+        "Significant disfiguring changes occur as a result of bone, cartilage, and soft tissue hypertrophy, including the thickening of the skin, coarsening of facial features, and cutis verticis gyrata.",
+        "Pseudoacromegaly, on the other hand, is the presence of similar acromegaloid features in the absence of elevated growth hormone or insulin-like growth factor levels.",
+        "We present a patient with pseudoacromegaly that resulted from the long-term use of minoxidil at an unusually high dose.",
+        "This is the first case report of pseudoacromegaly as a side effect of minoxidil use."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004194\tDisease\tPseudoacromegaly\t<target> Pseudoacromegaly </target> induced by the long-term use of minoxidil .",
+        "D008914\tChemical\tminoxidil\tPseudoacromegaly induced by the long-term use of <target> minoxidil </target> .",
+        "D000172\tDisease\tAcromegaly\t<target> Acromegaly </target> is an endocrine disorder caused by chronic excessive growth hormone secretion from the anterior pituitary gland .",
+        "D004700\tDisease\tendocrine disorder\tAcromegaly is an <target> endocrine disorder </target> caused by chronic excessive growth hormone secretion from the anterior pituitary gland .",
+        "D006984\tDisease\thypertrophy\tSignificant disfiguring changes occur as a result of bone , cartilage , and soft tissue <target> hypertrophy </target> , including the thickening of the skin , coarsening of facial features , and cutis verticis gyrata .",
+        "C535610\tDisease\tcutis verticis gyrata\tSignificant disfiguring changes occur as a result of bone , cartilage , and soft tissue hypertrophy , including the thickening of the skin , coarsening of facial features , and <target> cutis verticis gyrata </target> .",
+        "D004194\tDisease\tPseudoacromegaly\t<target> Pseudoacromegaly </target> , on the other hand , is the presence of similar acromegaloid features in the absence of elevated growth hormone or insulin-like growth factor levels .",
+        "D004194\tDisease\tpseudoacromegaly\tWe present a patient with <target> pseudoacromegaly </target> that resulted from the long-term use of minoxidil at an unusually high dose .",
+        "D008914\tChemical\tminoxidil\tWe present a patient with pseudoacromegaly that resulted from the long-term use of <target> minoxidil </target> at an unusually high dose .",
+        "D004194\tDisease\tpseudoacromegaly\tThis is the first case report of <target> pseudoacromegaly </target> as a side effect of minoxidil use .",
+        "D008914\tChemical\tminoxidil\tThis is the first case report of pseudoacromegaly as a side effect of <target> minoxidil </target> use ."
+    ],
+    "lines_lemma": [
+        "D004194\tDisease\tPseudoacromegaly\t<target> Pseudoacromegaly </target> induce by the long-term use of minoxidil .",
+        "D008914\tChemical\tminoxidil\tpseudoacromegaly induce by the long-term use of <target> minoxidil </target> .",
+        "D000172\tDisease\tAcromegaly\t<target> Acromegaly </target> be an endocrine disorder cause by chronic excessive growth hormone secretion from the anterior pituitary gland .",
+        "D004700\tDisease\tendocrine disorder\tAcromegaly be an <target> endocrine disorder </target> cause by chronic excessive growth hormone secretion from the anterior pituitary gland .",
+        "D006984\tDisease\thypertrophy\tsignificant disfiguring change occur as a result of bone , cartilage , and soft tissue <target> hypertrophy </target> , include the thickening of the skin , coarsening of facial feature , and cutis verticis gyrata .",
+        "C535610\tDisease\tcutis verticis gyrata\tsignificant disfiguring change occur as a result of bone , cartilage , and soft tissue hypertrophy , include the thickening of the skin , coarsening of facial feature , and <target> cutis verticis gyrata </target> .",
+        "D004194\tDisease\tPseudoacromegaly\t<target> Pseudoacromegaly </target> , on the other hand , be the presence of similar acromegaloid feature in the absence of elevated growth hormone or insulin-like growth factor level .",
+        "D004194\tDisease\tpseudoacromegaly\twe present a patient with <target> pseudoacromegaly </target> that result from the long-term use of minoxidil at an unusually high dose .",
+        "D008914\tChemical\tminoxidil\twe present a patient with pseudoacromegaly that result from the long-term use of <target> minoxidil </target> at an unusually high dose .",
+        "D004194\tDisease\tpseudoacromegaly\tthis be the first case report of <target> pseudoacromegaly </target> as a side effect of minoxidil use .",
+        "D008914\tChemical\tminoxidil\tthis be the first case report of pseudoacromegaly as a side effect of <target> minoxidil </target> use ."
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "title": "Recurrent dysosmia induced by pyrazinamide.",
+    "abst": "Pyrazinamide can have adverse effects such as hepatic toxicity, hyperuricemia or digestive disorders. In rare cases, alterations in taste and smell function have been reported for pyrazinamide when combined with other drugs. We report a case of reversible olfactory disorder related to pyrazinamide in a woman, with a positive rechallenge. The patient presented every day a sensation of smelling something burning 15 min after drug intake. Dysosmia disappeared completely after pyrazinamide withdrawal and recurred after its rechallenge. The case was reported to the Tunisian Centre of Pharmacovigilance.",
+    "title_plus_abst": "Recurrent dysosmia induced by pyrazinamide. Pyrazinamide can have adverse effects such as hepatic toxicity, hyperuricemia or digestive disorders. In rare cases, alterations in taste and smell function have been reported for pyrazinamide when combined with other drugs. We report a case of reversible olfactory disorder related to pyrazinamide in a woman, with a positive rechallenge. The patient presented every day a sensation of smelling something burning 15 min after drug intake. Dysosmia disappeared completely after pyrazinamide withdrawal and recurred after its rechallenge. The case was reported to the Tunisian Centre of Pharmacovigilance.",
+    "pubmed_id": "19674115",
+    "entities": [
+        [
+            10,
+            18,
+            "dysosmia",
+            "Disease",
+            "D000857"
+        ],
+        [
+            30,
+            42,
+            "pyrazinamide",
+            "Chemical",
+            "D011718"
+        ],
+        [
+            44,
+            56,
+            "Pyrazinamide",
+            "Chemical",
+            "D011718"
+        ],
+        [
+            90,
+            106,
+            "hepatic toxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            108,
+            121,
+            "hyperuricemia",
+            "Disease",
+            "D033461"
+        ],
+        [
+            224,
+            236,
+            "pyrazinamide",
+            "Chemical",
+            "D011718"
+        ],
+        [
+            300,
+            318,
+            "olfactory disorder",
+            "Disease",
+            "D000857"
+        ],
+        [
+            330,
+            342,
+            "pyrazinamide",
+            "Chemical",
+            "D011718"
+        ],
+        [
+            484,
+            492,
+            "Dysosmia",
+            "Disease",
+            "D000857"
+        ],
+        [
+            522,
+            534,
+            "pyrazinamide",
+            "Chemical",
+            "D011718"
+        ]
+    ],
+    "split_sentence": [
+        "Recurrent dysosmia induced by pyrazinamide.",
+        "Pyrazinamide can have adverse effects such as hepatic toxicity, hyperuricemia or digestive disorders.",
+        "In rare cases, alterations in taste and smell function have been reported for pyrazinamide when combined with other drugs.",
+        "We report a case of reversible olfactory disorder related to pyrazinamide in a woman, with a positive rechallenge.",
+        "The patient presented every day a sensation of smelling something burning 15 min after drug intake.",
+        "Dysosmia disappeared completely after pyrazinamide withdrawal and recurred after its rechallenge.",
+        "The case was reported to the Tunisian Centre of Pharmacovigilance."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000857\tDisease\tdysosmia\tRecurrent <target> dysosmia </target> induced by pyrazinamide .",
+        "D011718\tChemical\tpyrazinamide\tRecurrent dysosmia induced by <target> pyrazinamide </target> .",
+        "D011718\tChemical\tPyrazinamide\t<target> Pyrazinamide </target> can have adverse effects such as hepatic toxicity , hyperuricemia or digestive disorders .",
+        "D056486\tDisease\thepatic toxicity\tPyrazinamide can have adverse effects such as <target> hepatic toxicity </target> , hyperuricemia or digestive disorders .",
+        "D033461\tDisease\thyperuricemia\tPyrazinamide can have adverse effects such as hepatic toxicity , <target> hyperuricemia </target> or digestive disorders .",
+        "D011718\tChemical\tpyrazinamide\tIn rare cases , alterations in taste and smell function have been reported for <target> pyrazinamide </target> when combined with other drugs .",
+        "D000857\tDisease\tolfactory disorder\tWe report a case of reversible <target> olfactory disorder </target> related to pyrazinamide in a woman , with a positive rechallenge .",
+        "D011718\tChemical\tpyrazinamide\tWe report a case of reversible olfactory disorder related to <target> pyrazinamide </target> in a woman , with a positive rechallenge .",
+        "D000857\tDisease\tDysosmia\t<target> Dysosmia </target> disappeared completely after pyrazinamide withdrawal and recurred after its rechallenge .",
+        "D011718\tChemical\tpyrazinamide\tDysosmia disappeared completely after <target> pyrazinamide </target> withdrawal and recurred after its rechallenge ."
+    ],
+    "lines_lemma": [
+        "D000857\tDisease\tdysosmia\tRecurrent <target> dysosmia </target> induce by pyrazinamide .",
+        "D011718\tChemical\tpyrazinamide\trecurrent dysosmia induce by <target> pyrazinamide </target> .",
+        "D011718\tChemical\tPyrazinamide\t<target> pyrazinamide </target> can have adverse effect such as hepatic toxicity , hyperuricemia or digestive disorder .",
+        "D056486\tDisease\thepatic toxicity\tpyrazinamide can have adverse effect such as <target> hepatic toxicity </target> , hyperuricemia or digestive disorder .",
+        "D033461\tDisease\thyperuricemia\tpyrazinamide can have adverse effect such as hepatic toxicity , <target> hyperuricemia </target> or digestive disorder .",
+        "D011718\tChemical\tpyrazinamide\tin rare case , alteration in taste and smell function have be report for <target> pyrazinamide </target> when combine with other drug .",
+        "D000857\tDisease\tolfactory disorder\twe report a case of reversible <target> olfactory disorder </target> related to pyrazinamide in a woman , with a positive rechallenge .",
+        "D011718\tChemical\tpyrazinamide\twe report a case of reversible olfactory disorder relate to <target> pyrazinamide </target> in a woman , with a positive rechallenge .",
+        "D000857\tDisease\tDysosmia\t<target> Dysosmia </target> disappear completely after pyrazinamide withdrawal and recur after its rechallenge .",
+        "D011718\tChemical\tpyrazinamide\tDysosmia disappear completely after <target> pyrazinamide </target> withdrawal and recur after its rechallenge ."
+    ]
+}

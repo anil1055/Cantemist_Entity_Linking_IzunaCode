@@ -1,0 +1,92 @@
+{
+    "title": "Persistent paralysis after prolonged use of atracurium in the absence of corticosteroids.",
+    "abst": "Neuromuscular blocking agents (NMBAs) are often used for patients requiring prolonged mechanical ventilation. Reports of persistent paralysis after the discontinuance of these drugs have most often involved aminosteroid-based NMBAs such as vecuronium bromide, especially when used in conjunction with corticosteroids. Atracurium besylate, a short-acting benzylisoquinolinium NMBA that is eliminated independently of renal or hepatic function, has also been associated with persistent paralysis, but only when used with corticosteroids. We report a case of atracurium-related paralysis persisting for approximately 50 hours in a patient who was not treated with corticosteroids.",
+    "title_plus_abst": "Persistent paralysis after prolonged use of atracurium in the absence of corticosteroids. Neuromuscular blocking agents (NMBAs) are often used for patients requiring prolonged mechanical ventilation. Reports of persistent paralysis after the discontinuance of these drugs have most often involved aminosteroid-based NMBAs such as vecuronium bromide, especially when used in conjunction with corticosteroids. Atracurium besylate, a short-acting benzylisoquinolinium NMBA that is eliminated independently of renal or hepatic function, has also been associated with persistent paralysis, but only when used with corticosteroids. We report a case of atracurium-related paralysis persisting for approximately 50 hours in a patient who was not treated with corticosteroids.",
+    "pubmed_id": "8638206",
+    "entities": [
+        [
+            11,
+            20,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            44,
+            54,
+            "atracurium",
+            "Chemical",
+            "D001279"
+        ],
+        [
+            222,
+            231,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            330,
+            348,
+            "vecuronium bromide",
+            "Chemical",
+            "D014673"
+        ],
+        [
+            408,
+            427,
+            "Atracurium besylate",
+            "Chemical",
+            "D001279"
+        ],
+        [
+            574,
+            583,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            646,
+            656,
+            "atracurium",
+            "Chemical",
+            "D001279"
+        ],
+        [
+            665,
+            674,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ]
+    ],
+    "split_sentence": [
+        "Persistent paralysis after prolonged use of atracurium in the absence of corticosteroids.",
+        "Neuromuscular blocking agents (NMBAs) are often used for patients requiring prolonged mechanical ventilation.",
+        "Reports of persistent paralysis after the discontinuance of these drugs have most often involved aminosteroid-based NMBAs such as vecuronium bromide, especially when used in conjunction with corticosteroids.",
+        "Atracurium besylate, a short-acting benzylisoquinolinium NMBA that is eliminated independently of renal or hepatic function, has also been associated with persistent paralysis, but only when used with corticosteroids.",
+        "We report a case of atracurium-related paralysis persisting for approximately 50 hours in a patient who was not treated with corticosteroids."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010243\tDisease\tparalysis\tPersistent <target> paralysis </target> after prolonged use of atracurium in the absence of corticosteroids .",
+        "D001279\tChemical\tatracurium\tPersistent paralysis after prolonged use of <target> atracurium </target> in the absence of corticosteroids .",
+        "D010243\tDisease\tparalysis\tReports of persistent <target> paralysis </target> after the discontinuance of these drugs have most often involved aminosteroid-based NMBAs such as vecuronium bromide , especially when used in conjunction with corticosteroids .",
+        "D014673\tChemical\tvecuronium bromide\tReports of persistent paralysis after the discontinuance of these drugs have most often involved aminosteroid-based NMBAs such as <target> vecuronium bromide </target> , especially when used in conjunction with corticosteroids .",
+        "D001279\tChemical\tAtracurium besylate\t<target> Atracurium besylate </target> , a short-acting benzylisoquinolinium NMBA that is eliminated independently of renal or hepatic function , has also been associated with persistent paralysis , but only when used with corticosteroids .",
+        "D010243\tDisease\tparalysis\tAtracurium besylate , a short-acting benzylisoquinolinium NMBA that is eliminated independently of renal or hepatic function , has also been associated with persistent <target> paralysis </target> , but only when used with corticosteroids .",
+        "D001279\tChemical\tatracurium\tWe report a case of <target> atracurium </target> -related paralysis persisting for approximately 50 hours in a patient who was not treated with corticosteroids .",
+        "D010243\tDisease\tparalysis\tWe report a case of atracurium-related <target> paralysis </target> persisting for approximately 50 hours in a patient who was not treated with corticosteroids ."
+    ],
+    "lines_lemma": [
+        "D010243\tDisease\tparalysis\tpersistent <target> paralysis </target> after prolonged use of atracurium in the absence of corticosteroid .",
+        "D001279\tChemical\tatracurium\tpersistent paralysis after prolonged use of <target> atracurium </target> in the absence of corticosteroid .",
+        "D010243\tDisease\tparalysis\treport of persistent <target> paralysis </target> after the discontinuance of these drug have most often involve aminosteroid-based nmbas such as vecuronium bromide , especially when use in conjunction with corticosteroid .",
+        "D014673\tChemical\tvecuronium bromide\treport of persistent paralysis after the discontinuance of these drug have most often involve aminosteroid-based nmbas such as <target> vecuronium bromide </target> , especially when use in conjunction with corticosteroid .",
+        "D001279\tChemical\tAtracurium besylate\t<target> atracurium besylate </target> , a short-acting benzylisoquinolinium nmba that be eliminate independently of renal or hepatic function , have also be associate with persistent paralysis , but only when use with corticosteroid .",
+        "D010243\tDisease\tparalysis\tatracurium besylate , a short-acting benzylisoquinolinium nmba that be eliminate independently of renal or hepatic function , have also be associate with persistent <target> paralysis </target> , but only when use with corticosteroid .",
+        "D001279\tChemical\tatracurium\twe report a case of <target> atracurium </target> -related paralysis persist for approximately 50 hour in a patient who be not treat with corticosteroid .",
+        "D010243\tDisease\tparalysis\twe report a case of atracurium-related <target> paralysis </target> persist for approximately 50 hour in a patient who be not treat with corticosteroid ."
+    ]
+}

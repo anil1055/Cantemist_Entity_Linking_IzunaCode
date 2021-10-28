@@ -1,0 +1,92 @@
+{
+    "title": "Thyroxine abuse: an unusual case of thyrotoxicosis in pregnancy.",
+    "abst": "Eating disorders and the associated behavioural problems and drug abuse are uncommon in pregnancy. When they do occur they are often unrecognized because of denial but when significant may pose a risk to both the mother and her fetus. This case illustrates a number of problems that may be encountered in women with eating disorders in pregnancy, including prolonged and recurrent metabolic disturbances and diuretic abuse. In particular it illustrates the derangements of thyroid function seen in pregnant women with eating disorders and reminds us that when a cause for thyrotoxicosis remains obscure, thyroxine abuse should be considered and explored.",
+    "title_plus_abst": "Thyroxine abuse: an unusual case of thyrotoxicosis in pregnancy. Eating disorders and the associated behavioural problems and drug abuse are uncommon in pregnancy. When they do occur they are often unrecognized because of denial but when significant may pose a risk to both the mother and her fetus. This case illustrates a number of problems that may be encountered in women with eating disorders in pregnancy, including prolonged and recurrent metabolic disturbances and diuretic abuse. In particular it illustrates the derangements of thyroid function seen in pregnant women with eating disorders and reminds us that when a cause for thyrotoxicosis remains obscure, thyroxine abuse should be considered and explored.",
+    "pubmed_id": "9653867",
+    "entities": [
+        [
+            0,
+            9,
+            "Thyroxine",
+            "Chemical",
+            "D013974"
+        ],
+        [
+            36,
+            50,
+            "thyrotoxicosis",
+            "Disease",
+            "D013971"
+        ],
+        [
+            65,
+            81,
+            "Eating disorders",
+            "Disease",
+            "D001068"
+        ],
+        [
+            126,
+            136,
+            "drug abuse",
+            "Disease",
+            "D019966"
+        ],
+        [
+            381,
+            397,
+            "eating disorders",
+            "Disease",
+            "D001068"
+        ],
+        [
+            583,
+            599,
+            "eating disorders",
+            "Disease",
+            "D001068"
+        ],
+        [
+            637,
+            651,
+            "thyrotoxicosis",
+            "Disease",
+            "D013971"
+        ],
+        [
+            669,
+            678,
+            "thyroxine",
+            "Chemical",
+            "D013974"
+        ]
+    ],
+    "split_sentence": [
+        "Thyroxine abuse: an unusual case of thyrotoxicosis in pregnancy.",
+        "Eating disorders and the associated behavioural problems and drug abuse are uncommon in pregnancy.",
+        "When they do occur they are often unrecognized because of denial but when significant may pose a risk to both the mother and her fetus.",
+        "This case illustrates a number of problems that may be encountered in women with eating disorders in pregnancy, including prolonged and recurrent metabolic disturbances and diuretic abuse.",
+        "In particular it illustrates the derangements of thyroid function seen in pregnant women with eating disorders and reminds us that when a cause for thyrotoxicosis remains obscure, thyroxine abuse should be considered and explored."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013974\tChemical\tThyroxine\t<target> Thyroxine </target> abuse : an unusual case of thyrotoxicosis in pregnancy .",
+        "D013971\tDisease\tthyrotoxicosis\tThyroxine abuse : an unusual case of <target> thyrotoxicosis </target> in pregnancy .",
+        "D001068\tDisease\tEating disorders\t<target> Eating disorders </target> and the associated behavioural problems and drug abuse are uncommon in pregnancy .",
+        "D019966\tDisease\tdrug abuse\tEating disorders and the associated behavioural problems and <target> drug abuse </target> are uncommon in pregnancy .",
+        "D001068\tDisease\teating disorders\tThis case illustrates a number of problems that may be encountered in women with <target> eating disorders </target> in pregnancy , including prolonged and recurrent metabolic disturbances and diuretic abuse .",
+        "D001068\tDisease\teating disorders\tIn particular it illustrates the derangements of thyroid function seen in pregnant women with <target> eating disorders </target> and reminds us that when a cause for thyrotoxicosis remains obscure , thyroxine abuse should be considered and explored .",
+        "D013971\tDisease\tthyrotoxicosis\tIn particular it illustrates the derangements of thyroid function seen in pregnant women with eating disorders and reminds us that when a cause for <target> thyrotoxicosis </target> remains obscure , thyroxine abuse should be considered and explored .",
+        "D013974\tChemical\tthyroxine\tIn particular it illustrates the derangements of thyroid function seen in pregnant women with eating disorders and reminds us that when a cause for thyrotoxicosis remains obscure , <target> thyroxine </target> abuse should be considered and explored ."
+    ],
+    "lines_lemma": [
+        "D013974\tChemical\tThyroxine\t<target> thyroxine </target> abuse : an unusual case of thyrotoxicosis in pregnancy .",
+        "D013971\tDisease\tthyrotoxicosis\tthyroxine abuse : an unusual case of <target> thyrotoxicosis </target> in pregnancy .",
+        "D001068\tDisease\tEating disorders\t<target> eating disorder </target> and the associate behavioural problem and drug abuse be uncommon in pregnancy .",
+        "D019966\tDisease\tdrug abuse\teat disorder and the associate behavioural problem and <target> drug abuse </target> be uncommon in pregnancy .",
+        "D001068\tDisease\teating disorders\tthis case illustrate a number of problem that may be encounter in woman with <target> eating disorder </target> in pregnancy , include prolonged and recurrent metabolic disturbance and diuretic abuse .",
+        "D001068\tDisease\teating disorders\tin particular it illustrate the derangement of thyroid function see in pregnant woman with <target> eating disorder </target> and remind we that when a cause for thyrotoxicosis remain obscure , thyroxine abuse should be consider and explore .",
+        "D013971\tDisease\tthyrotoxicosis\tin particular it illustrate the derangement of thyroid function see in pregnant woman with eat disorder and remind we that when a cause for <target> thyrotoxicosis </target> remain obscure , thyroxine abuse should be consider and explore .",
+        "D013974\tChemical\tthyroxine\tin particular it illustrate the derangement of thyroid function see in pregnant woman with eat disorder and remind we that when a cause for thyrotoxicosis remain obscure , <target> thyroxine </target> abuse should be consider and explore ."
+    ]
+}

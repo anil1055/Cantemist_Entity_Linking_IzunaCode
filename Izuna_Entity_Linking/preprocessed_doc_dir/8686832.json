@@ -1,0 +1,120 @@
+{
+    "title": "Leg and back pain after spinal anaesthesia involving hyperbaric 5% lignocaine.",
+    "abst": "Fifty-four patients, aged 27-90 years, who were given lignocaine 5% in 6.8% glucose solution for spinal anaesthesia were studied. Thirteen of these patients experienced pain in the legs and/or back after recovery from anaesthesia. The patients affected were younger (p < 0.05) and the site of the dural puncture was higher (p < 0.01) than those individuals without pain. Five of the 13 patients (38%) with pain and seven of the 41 patients (17%) without pain admitted to a high alcohol intake, which might be a contributing factor. Leg and/or back pain is associated with the intrathecal use of hyperbaric 5% lignocaine.",
+    "title_plus_abst": "Leg and back pain after spinal anaesthesia involving hyperbaric 5% lignocaine. Fifty-four patients, aged 27-90 years, who were given lignocaine 5% in 6.8% glucose solution for spinal anaesthesia were studied. Thirteen of these patients experienced pain in the legs and/or back after recovery from anaesthesia. The patients affected were younger (p < 0.05) and the site of the dural puncture was higher (p < 0.01) than those individuals without pain. Five of the 13 patients (38%) with pain and seven of the 41 patients (17%) without pain admitted to a high alcohol intake, which might be a contributing factor. Leg and/or back pain is associated with the intrathecal use of hyperbaric 5% lignocaine.",
+    "pubmed_id": "8686832",
+    "entities": [
+        [
+            0,
+            17,
+            "Leg and back pain",
+            "Disease",
+            "D001416"
+        ],
+        [
+            67,
+            77,
+            "lignocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            133,
+            143,
+            "lignocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            155,
+            162,
+            "glucose",
+            "Chemical",
+            "D005947"
+        ],
+        [
+            248,
+            276,
+            "pain in the legs and/or back",
+            "Disease",
+            "D001416"
+        ],
+        [
+            444,
+            448,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            485,
+            489,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            533,
+            537,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            557,
+            564,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            611,
+            631,
+            "Leg and/or back pain",
+            "Disease",
+            "D001416"
+        ],
+        [
+            688,
+            698,
+            "lignocaine",
+            "Chemical",
+            "D008012"
+        ]
+    ],
+    "split_sentence": [
+        "Leg and back pain after spinal anaesthesia involving hyperbaric 5% lignocaine.",
+        "Fifty-four patients, aged 27-90 years, who were given lignocaine 5% in 6.8% glucose solution for spinal anaesthesia were studied.",
+        "Thirteen of these patients experienced pain in the legs and/or back after recovery from anaesthesia.",
+        "The patients affected were younger (p < 0.05) and the site of the dural puncture was higher (p < 0.01) than those individuals without pain.",
+        "Five of the 13 patients (38%) with pain and seven of the 41 patients (17%) without pain admitted to a high alcohol intake, which might be a contributing factor.",
+        "Leg and/or back pain is associated with the intrathecal use of hyperbaric 5% lignocaine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001416\tDisease\tLeg and back pain\t<target> Leg and back pain </target> after spinal anaesthesia involving hyperbaric 5 % lignocaine .",
+        "D008012\tChemical\tlignocaine\tLeg and back pain after spinal anaesthesia involving hyperbaric 5 % <target> lignocaine </target> .",
+        "D008012\tChemical\tlignocaine\tFifty-four patients , aged 27 - 90 years , who were given <target> lignocaine </target> 5 % in 6.8 % glucose solution for spinal anaesthesia were studied .",
+        "D005947\tChemical\tglucose\tFifty-four patients , aged 27 - 90 years , who were given lignocaine 5 % in 6.8 % <target> glucose </target> solution for spinal anaesthesia were studied .",
+        "D001416\tDisease\tpain in the legs and/or back\tThirteen of these patients experienced <target> pain in the legs and/or back </target> after recovery from anaesthesia .",
+        "D010146\tDisease\tpain\tThe patients affected were younger ( p < 0.05 ) and the site of the dural puncture was higher ( p < 0.01 ) than those individuals without <target> pain </target> .",
+        "D010146\tDisease\tpain\tFive of the 13 patients ( 38 % ) with <target> pain </target> and seven of the 41 patients ( 17 % ) without pain admitted to a high alcohol intake , which might be a contributing factor .",
+        "D010146\tDisease\tpain\tFive of the 13 patients ( 38 % ) with pain and seven of the 41 patients ( 17 % ) without <target> pain </target> admitted to a high alcohol intake , which might be a contributing factor .",
+        "D000431\tChemical\talcohol\tFive of the 13 patients ( 38 % ) with pain and seven of the 41 patients ( 17 % ) without pain admitted to a high <target> alcohol </target> intake , which might be a contributing factor .",
+        "D001416\tDisease\tLeg and/or back pain\t<target> Leg and/or back pain </target> is associated with the intrathecal use of hyperbaric 5 % lignocaine .",
+        "D008012\tChemical\tlignocaine\tLeg and/or back pain is associated with the intrathecal use of hyperbaric 5 % <target> lignocaine </target> ."
+    ],
+    "lines_lemma": [
+        "D001416\tDisease\tLeg and back pain\t<target> Leg and back pain </target> after spinal anaesthesia involve hyperbaric 5 % lignocaine .",
+        "D008012\tChemical\tlignocaine\tleg and back pain after spinal anaesthesia involve hyperbaric 5 % <target> lignocaine </target> .",
+        "D008012\tChemical\tlignocaine\tfifty-four patient , aged 27 - 90 year , who be give <target> lignocaine </target> 5 % in 6.8 % glucose solution for spinal anaesthesia be study .",
+        "D005947\tChemical\tglucose\tfifty-four patient , aged 27 - 90 year , who be give lignocaine 5 % in 6.8 % <target> glucose </target> solution for spinal anaesthesia be study .",
+        "D001416\tDisease\tpain in the legs and/or back\tthirteen of these patient experience <target> pain in the leg and/or back </target> after recovery from anaesthesia .",
+        "D010146\tDisease\tpain\tthe patient affect be young ( p < 0.05 ) and the site of the dural puncture be high ( p < 0.01 ) than those individual without <target> pain </target> .",
+        "D010146\tDisease\tpain\tfive of the 13 patient ( 38 % ) with <target> pain </target> and seven of the 41 patient ( 17 % ) without pain admit to a high alcohol intake , which might be a contribute factor .",
+        "D010146\tDisease\tpain\tfive of the 13 patient ( 38 % ) with pain and seven of the 41 patient ( 17 % ) without <target> pain </target> admit to a high alcohol intake , which might be a contribute factor .",
+        "D000431\tChemical\talcohol\tfive of the 13 patient ( 38 % ) with pain and seven of the 41 patient ( 17 % ) without pain admit to a high <target> alcohol </target> intake , which might be a contribute factor .",
+        "D001416\tDisease\tLeg and/or back pain\t<target> Leg and/or back pain </target> be associate with the intrathecal use of hyperbaric 5 % lignocaine .",
+        "D008012\tChemical\tlignocaine\tleg and/or back pain be associate with the intrathecal use of hyperbaric 5 % <target> lignocaine </target> ."
+    ]
+}

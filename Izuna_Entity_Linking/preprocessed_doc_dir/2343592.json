@@ -1,0 +1,146 @@
+{
+    "title": "Seizure activity with imipenem therapy: incidence and risk factors.",
+    "abst": "Two elderly patients with a history of either cerebral vascular accident (CVA) or head trauma and no evidence of renal disease developed seizures while receiving maximum doses of imipenem/cilastatin. Neither patient had reported previous seizures or seizure-like activity nor was receiving anticonvulsant agents. All seizures were controlled with therapeutic doses of phenytoin. Both patients had received maximum doses of other beta-lactam antibiotics without evidence of seizure activity.",
+    "title_plus_abst": "Seizure activity with imipenem therapy: incidence and risk factors. Two elderly patients with a history of either cerebral vascular accident (CVA) or head trauma and no evidence of renal disease developed seizures while receiving maximum doses of imipenem/cilastatin. Neither patient had reported previous seizures or seizure-like activity nor was receiving anticonvulsant agents. All seizures were controlled with therapeutic doses of phenytoin. Both patients had received maximum doses of other beta-lactam antibiotics without evidence of seizure activity.",
+    "pubmed_id": "2343592",
+    "entities": [
+        [
+            0,
+            7,
+            "Seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            22,
+            30,
+            "imipenem",
+            "Chemical",
+            "D015378"
+        ],
+        [
+            114,
+            140,
+            "cerebral vascular accident",
+            "Disease",
+            "D020521"
+        ],
+        [
+            142,
+            145,
+            "CVA",
+            "Disease",
+            "D020521"
+        ],
+        [
+            150,
+            161,
+            "head trauma",
+            "Disease",
+            "D006259"
+        ],
+        [
+            181,
+            194,
+            "renal disease",
+            "Disease",
+            "D007674"
+        ],
+        [
+            205,
+            213,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            247,
+            266,
+            "imipenem/cilastatin",
+            "Chemical",
+            "C044650"
+        ],
+        [
+            306,
+            314,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            318,
+            325,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            385,
+            393,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            436,
+            445,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            497,
+            508,
+            "beta-lactam",
+            "Chemical",
+            "D047090"
+        ],
+        [
+            541,
+            548,
+            "seizure",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Seizure activity with imipenem therapy: incidence and risk factors.",
+        "Two elderly patients with a history of either cerebral vascular accident (CVA) or head trauma and no evidence of renal disease developed seizures while receiving maximum doses of imipenem/cilastatin.",
+        "Neither patient had reported previous seizures or seizure-like activity nor was receiving anticonvulsant agents.",
+        "All seizures were controlled with therapeutic doses of phenytoin.",
+        "Both patients had received maximum doses of other beta-lactam antibiotics without evidence of seizure activity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> activity with imipenem therapy : incidence and risk factors .",
+        "D015378\tChemical\timipenem\tSeizure activity with <target> imipenem </target> therapy : incidence and risk factors .",
+        "D020521\tDisease\tcerebral vascular accident\tTwo elderly patients with a history of either <target> cerebral vascular accident </target> ( CVA ) or head trauma and no evidence of renal disease developed seizures while receiving maximum doses of imipenem/cilastatin .",
+        "D020521\tDisease\tCVA\tTwo elderly patients with a history of either cerebral vascular accident ( <target> CVA </target> ) or head trauma and no evidence of renal disease developed seizures while receiving maximum doses of imipenem/cilastatin .",
+        "D006259\tDisease\thead trauma\tTwo elderly patients with a history of either cerebral vascular accident ( CVA ) or <target> head trauma </target> and no evidence of renal disease developed seizures while receiving maximum doses of imipenem/cilastatin .",
+        "D007674\tDisease\trenal disease\tTwo elderly patients with a history of either cerebral vascular accident ( CVA ) or head trauma and no evidence of <target> renal disease </target> developed seizures while receiving maximum doses of imipenem/cilastatin .",
+        "D012640\tDisease\tseizures\tTwo elderly patients with a history of either cerebral vascular accident ( CVA ) or head trauma and no evidence of renal disease developed <target> seizures </target> while receiving maximum doses of imipenem/cilastatin .",
+        "C044650\tChemical\timipenem/cilastatin\tTwo elderly patients with a history of either cerebral vascular accident ( CVA ) or head trauma and no evidence of renal disease developed seizures while receiving maximum doses of <target> imipenem/cilastatin </target> .",
+        "D012640\tDisease\tseizures\tNeither patient had reported previous <target> seizures </target> or seizure-like activity nor was receiving anticonvulsant agents .",
+        "D012640\tDisease\tseizure\tNeither patient had reported previous seizures or <target> seizure </target> -like activity nor was receiving anticonvulsant agents .",
+        "D012640\tDisease\tseizures\tAll <target> seizures </target> were controlled with therapeutic doses of phenytoin .",
+        "D010672\tChemical\tphenytoin\tAll seizures were controlled with therapeutic doses of <target> phenytoin </target> .",
+        "D047090\tChemical\tbeta-lactam\tBoth patients had received maximum doses of other <target> beta-lactam </target> antibiotics without evidence of seizure activity .",
+        "D012640\tDisease\tseizure\tBoth patients had received maximum doses of other beta-lactam antibiotics without evidence of <target> seizure </target> activity ."
+    ],
+    "lines_lemma": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> activity with imipenem therapy : incidence and risk factor .",
+        "D015378\tChemical\timipenem\tseizure activity with <target> imipenem </target> therapy : incidence and risk factor .",
+        "D020521\tDisease\tcerebral vascular accident\ttwo elderly patient with a history of either <target> cerebral vascular accident </target> ( cva ) or head trauma and no evidence of renal disease develop seizure while receive maximum dose of imipenem/cilastatin .",
+        "D020521\tDisease\tCVA\ttwo elderly patient with a history of either cerebral vascular accident ( <target> cva </target> ) or head trauma and no evidence of renal disease develop seizure while receive maximum dose of imipenem/cilastatin .",
+        "D006259\tDisease\thead trauma\ttwo elderly patient with a history of either cerebral vascular accident ( cva ) or <target> head trauma </target> and no evidence of renal disease develop seizure while receive maximum dose of imipenem/cilastatin .",
+        "D007674\tDisease\trenal disease\ttwo elderly patient with a history of either cerebral vascular accident ( cva ) or head trauma and no evidence of <target> renal disease </target> develop seizure while receive maximum dose of imipenem/cilastatin .",
+        "D012640\tDisease\tseizures\ttwo elderly patient with a history of either cerebral vascular accident ( cva ) or head trauma and no evidence of renal disease develop <target> seizure </target> while receive maximum dose of imipenem/cilastatin .",
+        "C044650\tChemical\timipenem/cilastatin\ttwo elderly patient with a history of either cerebral vascular accident ( cva ) or head trauma and no evidence of renal disease develop seizure while receive maximum dose of <target> imipenem/cilastatin </target> .",
+        "D012640\tDisease\tseizures\tneither patient have report previous <target> seizure </target> or seizure-like activity nor be receive anticonvulsant agent .",
+        "D012640\tDisease\tseizure\tneither patient have report previous seizure or <target> seizure </target> -like activity nor be receive anticonvulsant agent .",
+        "D012640\tDisease\tseizures\tall <target> seizure </target> be control with therapeutic dose of phenytoin .",
+        "D010672\tChemical\tphenytoin\tall seizure be control with therapeutic dose of <target> phenytoin </target> .",
+        "D047090\tChemical\tbeta-lactam\tboth patient have receive maximum dose of other <target> beta-lactam </target> antibiotic without evidence of seizure activity .",
+        "D012640\tDisease\tseizure\tboth patient have receive maximum dose of other beta-lactam antibiotic without evidence of <target> seizure </target> activity ."
+    ]
+}

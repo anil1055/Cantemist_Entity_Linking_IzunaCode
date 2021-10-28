@@ -1,0 +1,139 @@
+{
+    "title": "Cholestatic jaundice associated with the use of metformin.",
+    "abst": "We report a patient who developed cholestatic jaundice shortly after initiation of treatment with metformin hydrochloride. Ultrasound of the liver and abdominal CT were normal. An ERCP showed normal biliary anatomy. A percutaneous liver biopsy was obtained showing marked cholestasis, with portal edema, ductular proliferation, and acute inflammation. Metformin hydrochloride was discontinued, and the patient's jaundice resolved slowly over a period of several months. Given the onset of his jaundice 2 wk after the initiation of metformin, we believe that this case represents an example of metformin-associated hepatotoxicity, the first such case reported.",
+    "title_plus_abst": "Cholestatic jaundice associated with the use of metformin. We report a patient who developed cholestatic jaundice shortly after initiation of treatment with metformin hydrochloride. Ultrasound of the liver and abdominal CT were normal. An ERCP showed normal biliary anatomy. A percutaneous liver biopsy was obtained showing marked cholestasis, with portal edema, ductular proliferation, and acute inflammation. Metformin hydrochloride was discontinued, and the patient's jaundice resolved slowly over a period of several months. Given the onset of his jaundice 2 wk after the initiation of metformin, we believe that this case represents an example of metformin-associated hepatotoxicity, the first such case reported.",
+    "pubmed_id": "11467664",
+    "entities": [
+        [
+            0,
+            20,
+            "Cholestatic jaundice",
+            "Disease",
+            "D041781"
+        ],
+        [
+            48,
+            57,
+            "metformin",
+            "Chemical",
+            "D008687"
+        ],
+        [
+            93,
+            113,
+            "cholestatic jaundice",
+            "Disease",
+            "D041781"
+        ],
+        [
+            157,
+            180,
+            "metformin hydrochloride",
+            "Chemical",
+            "D008687"
+        ],
+        [
+            331,
+            342,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            356,
+            361,
+            "edema",
+            "Disease",
+            "D004487"
+        ],
+        [
+            397,
+            409,
+            "inflammation",
+            "Disease",
+            "D007249"
+        ],
+        [
+            411,
+            434,
+            "Metformin hydrochloride",
+            "Chemical",
+            "D008687"
+        ],
+        [
+            471,
+            479,
+            "jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            552,
+            560,
+            "jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            590,
+            599,
+            "metformin",
+            "Chemical",
+            "D008687"
+        ],
+        [
+            652,
+            661,
+            "metformin",
+            "Chemical",
+            "D008687"
+        ],
+        [
+            673,
+            687,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Cholestatic jaundice associated with the use of metformin.",
+        "We report a patient who developed cholestatic jaundice shortly after initiation of treatment with metformin hydrochloride.",
+        "Ultrasound of the liver and abdominal CT were normal.",
+        "An ERCP showed normal biliary anatomy.",
+        "A percutaneous liver biopsy was obtained showing marked cholestasis, with portal edema, ductular proliferation, and acute inflammation.",
+        "Metformin hydrochloride was discontinued, and the patient's jaundice resolved slowly over a period of several months.",
+        "Given the onset of his jaundice 2 wk after the initiation of metformin, we believe that this case represents an example of metformin-associated hepatotoxicity, the first such case reported."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D041781\tDisease\tCholestatic jaundice\t<target> Cholestatic jaundice </target> associated with the use of metformin .",
+        "D008687\tChemical\tmetformin\tCholestatic jaundice associated with the use of <target> metformin </target> .",
+        "D041781\tDisease\tcholestatic jaundice\tWe report a patient who developed <target> cholestatic jaundice </target> shortly after initiation of treatment with metformin hydrochloride .",
+        "D008687\tChemical\tmetformin hydrochloride\tWe report a patient who developed cholestatic jaundice shortly after initiation of treatment with <target> metformin hydrochloride </target> .",
+        "D002779\tDisease\tcholestasis\tA percutaneous liver biopsy was obtained showing marked <target> cholestasis </target> , with portal edema , ductular proliferation , and acute inflammation .",
+        "D004487\tDisease\tedema\tA percutaneous liver biopsy was obtained showing marked cholestasis , with portal <target> edema </target> , ductular proliferation , and acute inflammation .",
+        "D007249\tDisease\tinflammation\tA percutaneous liver biopsy was obtained showing marked cholestasis , with portal edema , ductular proliferation , and acute <target> inflammation </target> .",
+        "D008687\tChemical\tMetformin hydrochloride\t<target> Metformin hydrochloride </target> was discontinued , and the patient 's jaundice resolved slowly over a period of several months .",
+        "D007565\tDisease\tjaundice\tMetformin hydrochloride was discontinued , and the patient 's <target> jaundice </target> resolved slowly over a period of several months .",
+        "D007565\tDisease\tjaundice\tGiven the onset of his <target> jaundice </target> 2 wk after the initiation of metformin , we believe that this case represents an example of metformin-associated hepatotoxicity , the first such case reported .",
+        "D008687\tChemical\tmetformin\tGiven the onset of his jaundice 2 wk after the initiation of <target> metformin </target> , we believe that this case represents an example of metformin-associated hepatotoxicity , the first such case reported .",
+        "D008687\tChemical\tmetformin\tGiven the onset of his jaundice 2 wk after the initiation of metformin , we believe that this case represents an example of <target> metformin </target> -associated hepatotoxicity , the first such case reported .",
+        "D056486\tDisease\thepatotoxicity\tGiven the onset of his jaundice 2 wk after the initiation of metformin , we believe that this case represents an example of metformin-associated <target> hepatotoxicity </target> , the first such case reported ."
+    ],
+    "lines_lemma": [
+        "D041781\tDisease\tCholestatic jaundice\t<target> cholestatic jaundice </target> associate with the use of metformin .",
+        "D008687\tChemical\tmetformin\tcholestatic jaundice associate with the use of <target> metformin </target> .",
+        "D041781\tDisease\tcholestatic jaundice\twe report a patient who develop <target> cholestatic jaundice </target> shortly after initiation of treatment with metformin hydrochloride .",
+        "D008687\tChemical\tmetformin hydrochloride\twe report a patient who develop cholestatic jaundice shortly after initiation of treatment with <target> metformin hydrochloride </target> .",
+        "D002779\tDisease\tcholestasis\ta percutaneous liver biopsy be obtain show marked <target> cholestasis </target> , with portal edema , ductular proliferation , and acute inflammation .",
+        "D004487\tDisease\tedema\ta percutaneous liver biopsy be obtain show marked cholestasis , with portal <target> edema </target> , ductular proliferation , and acute inflammation .",
+        "D007249\tDisease\tinflammation\ta percutaneous liver biopsy be obtain show marked cholestasis , with portal edema , ductular proliferation , and acute <target> inflammation </target> .",
+        "D008687\tChemical\tMetformin hydrochloride\t<target> Metformin hydrochloride </target> be discontinue , and the patient 's jaundice resolve slowly over a period of several month .",
+        "D007565\tDisease\tjaundice\tmetformin hydrochloride be discontinue , and the patient 's <target> jaundice </target> resolve slowly over a period of several month .",
+        "D007565\tDisease\tjaundice\tgive the onset of his <target> jaundice </target> 2 wk after the initiation of metformin , we believe that this case represent an example of metformin-associated hepatotoxicity , the first such case report .",
+        "D008687\tChemical\tmetformin\tgive the onset of his jaundice 2 wk after the initiation of <target> metformin </target> , we believe that this case represent an example of metformin-associated hepatotoxicity , the first such case report .",
+        "D008687\tChemical\tmetformin\tgive the onset of his jaundice 2 wk after the initiation of metformin , we believe that this case represent an example of <target> metformin </target> -associated hepatotoxicity , the first such case report .",
+        "D056486\tDisease\thepatotoxicity\tgive the onset of his jaundice 2 wk after the initiation of metformin , we believe that this case represent an example of metformin-associated <target> hepatotoxicity </target> , the first such case report ."
+    ]
+}

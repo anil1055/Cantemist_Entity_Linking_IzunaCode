@@ -1,0 +1,143 @@
+{
+    "entities": [
+        [
+            266,
+            280,
+            "adenocarcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/3"
+        ],
+        [
+            2296,
+            2332,
+            "adenocarcinoma de pulmón metastásico",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ],
+        [
+            1980,
+            2021,
+            "adenocarcinoma moderadamente diferenciado",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/32"
+        ],
+        [
+            2212,
+            2226,
+            "carcinomatosis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/9"
+        ],
+        [
+            1810,
+            1829,
+            "implantes omentales",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1830,
+            1842,
+            "metastásicos",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1479,
+            1488,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            565,
+            572,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            430,
+            481,
+            "adenocarcinoma infiltrante predominantemente acinar",
+            "MORFOLOGIA_NEOPLASIA",
+            "8550/3/H"
+        ],
+        [
+            2037,
+            2074,
+            "metástasis gástrica de adenocarcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ],
+        [
+            2139,
+            2190,
+            "Adenocarcinoma de pulmón estadio IV, con metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "El paciente es diagnosticado en el año 2011 de un  <objetivo> adenocarcinoma </objetivo> de pulmón resecable localizado en el LSD.",
+        "Fue intervenido quirúrgicamente, realizándose una lobectomía superior derecha con resultado histológico de  <objetivo> adenocarcinoma </objetivo> infiltrante predominantemente acinar de 2,5 cm de diámetro máximo (pT1b) con bordes de resección libres de infiltración tumoral, sin afectación ganglionar ni a distancia, estadio IA.",
+        "En los resultados de anatomía patológica de la biopsia gástrica presenta  <objetivo> adenocarcinoma </objetivo> moderadamente diferenciado compatible con metástasis gástrica de adenocarcinoma de origen primario pulmonar.",
+        "Se inicia tratamiento de primera línea para  <objetivo> adenocarcinoma </objetivo> de pulmón metastásico con aarboplatino AUC5 y pemetrexed a dosis de 500 mg/m2, recibiendo tres ciclos.",
+        "Se inicia tratamiento de primera línea para  <objetivo> adenocarcinoma de pulmón metastásico </objetivo> con aarboplatino AUC5 y pemetrexed a dosis de 500 mg/m2, recibiendo tres ciclos.",
+        "En los resultados de anatomía patológica de la biopsia gástrica presenta  <objetivo> adenocarcinoma moderadamente diferenciado </objetivo> compatible con metástasis gástrica de adenocarcinoma de origen primario pulmonar.",
+        "Adenocarcinoma de pulmón estadio IV, con metástasis gástricas y probable  <objetivo> carcinomatosis </objetivo> peritoneal.",
+        "Posibles  <objetivo> implantes omentales </objetivo> metastásicos.",
+        "Posibles implantes omentales  <objetivo> metastásicos </objetivo> ",
+        "TC de abdomen:  <objetivo> neoplasia </objetivo> gástrica no obstructiva con posible infiltración del ligamento gastrohepático.",
+        "Fue intervenido quirúrgicamente, realizándose una lobectomía superior derecha con resultado histológico de adenocarcinoma infiltrante predominantemente acinar de 2,5 cm de diámetro máximo (pT1b) con bordes de resección libres de infiltración  <objetivo> tumoral </objetivo>  sin afectación ganglionar ni a distancia, estadio IA.",
+        "Fue intervenido quirúrgicamente, realizándose una lobectomía superior derecha con resultado histológico de  <objetivo> adenocarcinoma infiltrante predominantemente acinar </objetivo> de 2,5 cm de diámetro máximo (pT1b) con bordes de resección libres de infiltración tumoral, sin afectación ganglionar ni a distancia, estadio IA.",
+        "En los resultados de anatomía patológica de la biopsia gástrica presenta adenocarcinoma moderadamente diferenciado compatible con  <objetivo> metástasis gástrica de adenocarcinoma </objetivo> de origen primario pulmonar.",
+        "<objetivo> Adenocarcinoma de pulmón estadio IV, con metástasis </objetivo> gástricas y probable carcinomatosis peritoneal."
+    ],
+    "lines_lemma": [
+        "el paciente ser diagnosticar en el año 2011 de uno   <objetivo> adenocarcinomar </objetivo> de pulmón resecable localizado en el LSD .",
+        "ser intervenir quirúrgicamente , realizar él uno lobectomía superior derecho con resultado histológico de   <objetivo> adenocarcinomar </objetivo> infiltrante predominantemente acinar de 2.5 cm de diámetro máximo ( pt1b ) con borde de resección libre de infiltración tumoral , sin afectación ganglionar ni a distancia , estadio IA .",
+        "en el resultado de anatomía patológico de el biopsia gástrico presentar   <objetivo> adenocarcinomar </objetivo> moderadamente diferenciado compatible con metástasis gástrico de adenocarcinoma de origen primario pulmonar .",
+        "él iniciar tratamiento de primero línea para   <objetivo> adenocarcinomar </objetivo> de pulmón metastásico con aarboplatino AUC5 y pemetrexed a dosis de 500 mg / m2 , recibir tres ciclo .",
+        "él iniciar tratamiento de primero línea para   <objetivo> adenocarcinomar de pulmón metastásico </objetivo> con aarboplatino AUC5 y pemetrexed a dosis de 500 mg / m2 , recibir tres ciclo .",
+        "en el resultado de anatomía patológico de el biopsia gástrico presentar   <objetivo> adenocarcinomar moderadamente diferenciado </objetivo> compatible con metástasis gástrico de adenocarcinoma de origen primario pulmonar .",
+        "Adenocarcinoma de pulmón estadio IV , con metástasis gástrica y probable   <objetivo> carcinomatosis </objetivo> peritoneal .",
+        "posible   <objetivo> implant omental </objetivo> metastásico .",
+        "posible implant omental   <objetivo> metastásico </objetivo>",
+        "TC de abdomen :   <objetivo> neoplasio </objetivo> gástrico no obstructiir con posible infiltración del ligamento gastrohepático .",
+        "ser intervenir quirúrgicamente , realizar él uno lobectomía superior derecho con resultado histológico de adenocarcinoma infiltrante predominantemente acinar de 2.5 cm de diámetro máximo ( pt1b ) con borde de resección libre de infiltración   <objetivo> tumoral </objetivo>   sin afectación ganglionar ni a distancia , estadio IA .",
+        "ser intervenir quirúrgicamente , realizar él uno lobectomía superior derecho con resultado histológico de   <objetivo> adenocarcinomar infiltrante predominantemente acinar </objetivo> de 2.5 cm de diámetro máximo ( pt1b ) con borde de resección libre de infiltración tumoral , sin afectación ganglionar ni a distancia , estadio IA .",
+        "en el resultado de anatomía patológico de el biopsia gástrico presentar adenocarcinomar moderadamente diferenciado compatible con   <objetivo> metástasis gástrico de adenocarcinoma </objetivo> de origen primario pulmonar .",
+        "<objetivo> Adenocarcinoma de pulmón estadio IV , con metástasis </objetivo> gástrica y probable carcinomatosis peritoneal ."
+    ],
+    "pubmed_id": "onco1313",
+    "split_sentence": [
+        "Anamnesis",
+        "Paciente de 57 años, exfumador con un IPA de 120, exbebedor y exconsumidor de cocaína, con hepatopatía crónica por VHC no tratada con signos de hipertensión portal y enfermedad por reflujo gastroesofágico.",
+        "El paciente es diagnosticado en el año 2011 de un adenocarcinoma de pulmón resecable localizado en el LSD.",
+        "Fue intervenido quirúrgicamente, realizándose una lobectomía superior derecha con resultado histológico de adenocarcinoma infiltrante predominantemente acinar de 2,5 cm de diámetro máximo (pT1b) con bordes de resección libres de infiltración tumoral, sin afectación ganglionar ni a distancia, estadio IA.",
+        "No se indica tratamiento adyuvante.",
+        "En septiembre de 2012, tras un intervalo libre de enfermedad de un año, el paciente comienza con molestias epigástricas que se exacerban con la ingesta, sin mejoría con analgésicos menores, con pérdida ponderal y sensación de distensión abdominal.",
+        "Examen físico",
+        "Abdomen blando y depresible, doloroso a la palpación abdominal superficial y profunda localizado a nivel epigástrico, sin signos de irritación peritoneal y con hepatomegalia palpable a unos tres traveses de dedo, sin otros hallazgos significativos.",
+        "Pruebas complementarias",
+        "Se inicia estudio con los siguientes resultados:",
+        "Endoscopia digestiva alta: en el cuerpo medio gástrico, por encima de la incisura, se observa una masa mamelonada, con una gran ulceración y friable, de unos 6-7 cm de diámetro máximo, de la que se toman biopsias.",
+        "TC de abdomen: neoplasia gástrica no obstructiva con posible infiltración del ligamento gastrohepático.",
+        "Se identifican múltiples adenopatías en ligamento gastrohepático y tronco celíaco, que se acompañan de adenopatías también en el espacio portocava, raíz de mesenterio del intestino delgado y retroperitoneales altas hasta los hilios.",
+        "Posibles implantes omentales metastásicos.",
+        "TC de tórax donde únicamente destacan cambios postquirúrgicos.",
+        "En los resultados de anatomía patológica de la biopsia gástrica presenta adenocarcinoma moderadamente diferenciado compatible con metástasis gástrica de adenocarcinoma de origen primario pulmonar.",
+        "ALK y EGFR negativos.",
+        "Diagnóstico",
+        "Adenocarcinoma de pulmón estadio IV, con metástasis gástricas y probable carcinomatosis peritoneal.",
+        "Tratamiento",
+        "Se inicia tratamiento de primera línea para adenocarcinoma de pulmón metastásico con aarboplatino AUC5 y pemetrexed a dosis de 500 mg/m2, recibiendo tres ciclos.",
+        "Evolución",
+        "Progresa tras el tercer ciclo de tratamiento.",
+        "Ingresa por deterioro del estado general, disfagia y clínica de descompensación hidrópica.",
+        "Ante el deterioro severo sintomático, se deriva a Cuidados Paliativos."
+    ],
+    "text": "Anamnesis\nPaciente de 57 años, exfumador con un IPA de 120, exbebedor y exconsumidor de cocaína, con hepatopatía crónica por VHC no tratada con signos de hipertensión portal y enfermedad por reflujo gastroesofágico.\nEl paciente es diagnosticado en el año 2011 de un adenocarcinoma de pulmón resecable localizado en el LSD.\nFue intervenido quirúrgicamente, realizándose una lobectomía superior derecha con resultado histológico de adenocarcinoma infiltrante predominantemente acinar de 2,5 cm de diámetro máximo (pT1b) con bordes de resección libres de infiltración tumoral, sin afectación ganglionar ni a distancia, estadio IA. No se indica tratamiento adyuvante.\nEn septiembre de 2012, tras un intervalo libre de enfermedad de un año, el paciente comienza con molestias epigástricas que se exacerban con la ingesta, sin mejoría con analgésicos menores, con pérdida ponderal y sensación de distensión abdominal.\n\nExamen físico\nAbdomen blando y depresible, doloroso a la palpación abdominal superficial y profunda localizado a nivel epigástrico, sin signos de irritación peritoneal y con hepatomegalia palpable a unos tres traveses de dedo, sin otros hallazgos significativos.\n\nPruebas complementarias\nSe inicia estudio con los siguientes resultados:\nEndoscopia digestiva alta: en el cuerpo medio gástrico, por encima de la incisura, se observa una masa mamelonada, con una gran ulceración y friable, de unos 6-7 cm de diámetro máximo, de la que se toman biopsias.\nTC de abdomen: neoplasia gástrica no obstructiva con posible infiltración del ligamento gastrohepático. Se identifican múltiples adenopatías en ligamento gastrohepático y tronco celíaco, que se acompañan de adenopatías también en el espacio portocava, raíz de mesenterio del intestino delgado y retroperitoneales altas hasta los hilios.\nPosibles implantes omentales metastásicos.\nTC de tórax donde únicamente destacan cambios postquirúrgicos.\nEn los resultados de anatomía patológica de la biopsia gástrica presenta adenocarcinoma moderadamente diferenciado compatible con metástasis gástrica de adenocarcinoma de origen primario pulmonar. ALK y EGFR negativos.\n\nDiagnóstico\nAdenocarcinoma de pulmón estadio IV, con metástasis gástricas y probable carcinomatosis peritoneal.\n\nTratamiento\nSe inicia tratamiento de primera línea para adenocarcinoma de pulmón metastásico con aarboplatino AUC5 y pemetrexed a dosis de 500 mg/m2, recibiendo tres ciclos.\n\nEvolución\nProgresa tras el tercer ciclo de tratamiento. Ingresa por deterioro del estado general, disfagia y clínica de descompensación hidrópica. Ante el deterioro severo sintomático, se deriva a Cuidados Paliativos."
+}

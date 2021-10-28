@@ -1,0 +1,92 @@
+{
+    "title": "Phenytoin induced fatal hepatic injury.",
+    "abst": "A 61 year old female developed fatal hepatic failure after phenytoin administration. A typical multisystem clinical pattern precedes the manifestations of hepatic injury. The hematologic, biochemical and pathologic features indicate a mixed hepatocellular damage due to drug hypersensitivity. In a patient receiving phenytoin who presents a viral-like illness, early recognition and discontinuation of the drug are mandatory.",
+    "title_plus_abst": "Phenytoin induced fatal hepatic injury. A 61 year old female developed fatal hepatic failure after phenytoin administration. A typical multisystem clinical pattern precedes the manifestations of hepatic injury. The hematologic, biochemical and pathologic features indicate a mixed hepatocellular damage due to drug hypersensitivity. In a patient receiving phenytoin who presents a viral-like illness, early recognition and discontinuation of the drug are mandatory.",
+    "pubmed_id": "2818777",
+    "entities": [
+        [
+            0,
+            9,
+            "Phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            24,
+            38,
+            "hepatic injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            77,
+            92,
+            "hepatic failure",
+            "Disease",
+            "D017093"
+        ],
+        [
+            99,
+            108,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            195,
+            209,
+            "hepatic injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            281,
+            302,
+            "hepatocellular damage",
+            "Disease",
+            "D056486"
+        ],
+        [
+            310,
+            331,
+            "drug hypersensitivity",
+            "Disease",
+            "D004342"
+        ],
+        [
+            356,
+            365,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ]
+    ],
+    "split_sentence": [
+        "Phenytoin induced fatal hepatic injury.",
+        "A 61 year old female developed fatal hepatic failure after phenytoin administration.",
+        "A typical multisystem clinical pattern precedes the manifestations of hepatic injury.",
+        "The hematologic, biochemical and pathologic features indicate a mixed hepatocellular damage due to drug hypersensitivity.",
+        "In a patient receiving phenytoin who presents a viral-like illness, early recognition and discontinuation of the drug are mandatory."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010672\tChemical\tPhenytoin\t<target> Phenytoin </target> induced fatal hepatic injury .",
+        "D056486\tDisease\thepatic injury\tPhenytoin induced fatal <target> hepatic injury </target> .",
+        "D017093\tDisease\thepatic failure\tA 61 year old female developed fatal <target> hepatic failure </target> after phenytoin administration .",
+        "D010672\tChemical\tphenytoin\tA 61 year old female developed fatal hepatic failure after <target> phenytoin </target> administration .",
+        "D056486\tDisease\thepatic injury\tA typical multisystem clinical pattern precedes the manifestations of <target> hepatic injury </target> .",
+        "D056486\tDisease\thepatocellular damage\tThe hematologic , biochemical and pathologic features indicate a mixed <target> hepatocellular damage </target> due to drug hypersensitivity .",
+        "D004342\tDisease\tdrug hypersensitivity\tThe hematologic , biochemical and pathologic features indicate a mixed hepatocellular damage due to <target> drug hypersensitivity </target> .",
+        "D010672\tChemical\tphenytoin\tIn a patient receiving <target> phenytoin </target> who presents a viral-like illness , early recognition and discontinuation of the drug are mandatory ."
+    ],
+    "lines_lemma": [
+        "D010672\tChemical\tPhenytoin\t<target> phenytoin </target> induce fatal hepatic injury .",
+        "D056486\tDisease\thepatic injury\tphenytoin induce fatal <target> hepatic injury </target> .",
+        "D017093\tDisease\thepatic failure\ta 61 year old female develop fatal <target> hepatic failure </target> after phenytoin administration .",
+        "D010672\tChemical\tphenytoin\ta 61 year old female develop fatal hepatic failure after <target> phenytoin </target> administration .",
+        "D056486\tDisease\thepatic injury\ta typical multisystem clinical pattern precede the manifestation of <target> hepatic injury </target> .",
+        "D056486\tDisease\thepatocellular damage\tthe hematologic , biochemical and pathologic feature indicate a mixed <target> hepatocellular damage </target> due to drug hypersensitivity .",
+        "D004342\tDisease\tdrug hypersensitivity\tthe hematologic , biochemical and pathologic feature indicate a mixed hepatocellular damage due to <target> drug hypersensitivity </target> .",
+        "D010672\tChemical\tphenytoin\tin a patient receive <target> phenytoin </target> who present a viral-like illness , early recognition and discontinuation of the drug be mandatory ."
+    ]
+}

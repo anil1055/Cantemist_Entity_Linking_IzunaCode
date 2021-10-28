@@ -1,0 +1,110 @@
+{
+    "title": "Nifedipine induced bradycardia in a patient with autonomic neuropathy.",
+    "abst": "An 80 year old diabetic male with evidence of peripheral and autonomic neuropathy was admitted with chest pain. He was found to have atrial flutter at a ventricular rate of 70/min which slowed down to 30-40/min when nifedipine (60 mg) in 3 divided doses, during which he was paced at a rate of 70/min. This is inconsistent with the well-established finding that nifedipine induces tachycardia in normally innervated hearts. However, in hearts deprived of compensatory sympathetic drive, it may lead to bradycardia.",
+    "title_plus_abst": "Nifedipine induced bradycardia in a patient with autonomic neuropathy. An 80 year old diabetic male with evidence of peripheral and autonomic neuropathy was admitted with chest pain. He was found to have atrial flutter at a ventricular rate of 70/min which slowed down to 30-40/min when nifedipine (60 mg) in 3 divided doses, during which he was paced at a rate of 70/min. This is inconsistent with the well-established finding that nifedipine induces tachycardia in normally innervated hearts. However, in hearts deprived of compensatory sympathetic drive, it may lead to bradycardia.",
+    "pubmed_id": "2614930",
+    "entities": [
+        [
+            0,
+            10,
+            "Nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            19,
+            30,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            49,
+            69,
+            "autonomic neuropathy",
+            "Disease",
+            "D009422"
+        ],
+        [
+            86,
+            94,
+            "diabetic",
+            "Disease",
+            "D003920"
+        ],
+        [
+            171,
+            181,
+            "chest pain",
+            "Disease",
+            "D002637"
+        ],
+        [
+            204,
+            218,
+            "atrial flutter",
+            "Disease",
+            "D001282"
+        ],
+        [
+            287,
+            297,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            433,
+            443,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            452,
+            463,
+            "tachycardia",
+            "Disease",
+            "D013610"
+        ],
+        [
+            573,
+            584,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ]
+    ],
+    "split_sentence": [
+        "Nifedipine induced bradycardia in a patient with autonomic neuropathy.",
+        "An 80 year old diabetic male with evidence of peripheral and autonomic neuropathy was admitted with chest pain.",
+        "He was found to have atrial flutter at a ventricular rate of 70/min which slowed down to 30-40/min when nifedipine (60 mg) in 3 divided doses, during which he was paced at a rate of 70/min.",
+        "This is inconsistent with the well-established finding that nifedipine induces tachycardia in normally innervated hearts.",
+        "However, in hearts deprived of compensatory sympathetic drive, it may lead to bradycardia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009543\tChemical\tNifedipine\t<target> Nifedipine </target> induced bradycardia in a patient with autonomic neuropathy .",
+        "D001919\tDisease\tbradycardia\tNifedipine induced <target> bradycardia </target> in a patient with autonomic neuropathy .",
+        "D009422\tDisease\tautonomic neuropathy\tNifedipine induced bradycardia in a patient with <target> autonomic neuropathy </target> .",
+        "D003920\tDisease\tdiabetic\tAn 80 year old <target> diabetic </target> male with evidence of peripheral and autonomic neuropathy was admitted with chest pain .",
+        "D002637\tDisease\tchest pain\tAn 80 year old diabetic male with evidence of peripheral and autonomic neuropathy was admitted with <target> chest pain </target> .",
+        "D001282\tDisease\tatrial flutter\tHe was found to have <target> atrial flutter </target> at a ventricular rate of 70/min which slowed down to 30 - 40/min when nifedipine ( 60 mg ) in 3 divided doses , during which he was paced at a rate of 70/min .",
+        "D009543\tChemical\tnifedipine\tHe was found to have atrial flutter at a ventricular rate of 70/min which slowed down to 30 - 40/min when <target> nifedipine </target> ( 60 mg ) in 3 divided doses , during which he was paced at a rate of 70/min .",
+        "D009543\tChemical\tnifedipine\tThis is inconsistent with the well-established finding that <target> nifedipine </target> induces tachycardia in normally innervated hearts .",
+        "D013610\tDisease\ttachycardia\tThis is inconsistent with the well-established finding that nifedipine induces <target> tachycardia </target> in normally innervated hearts .",
+        "D001919\tDisease\tbradycardia\tHowever , in hearts deprived of compensatory sympathetic drive , it may lead to <target> bradycardia </target> ."
+    ],
+    "lines_lemma": [
+        "D009543\tChemical\tNifedipine\t<target> Nifedipine </target> induce bradycardia in a patient with autonomic neuropathy .",
+        "D001919\tDisease\tbradycardia\tnifedipine induce <target> bradycardia </target> in a patient with autonomic neuropathy .",
+        "D009422\tDisease\tautonomic neuropathy\tnifedipine induce bradycardia in a patient with <target> autonomic neuropathy </target> .",
+        "D003920\tDisease\tdiabetic\tan 80 year old <target> diabetic </target> male with evidence of peripheral and autonomic neuropathy be admit with chest pain .",
+        "D002637\tDisease\tchest pain\tan 80 year old diabetic male with evidence of peripheral and autonomic neuropathy be admit with <target> chest pain </target> .",
+        "D001282\tDisease\tatrial flutter\the be find to have <target> atrial flutter </target> at a ventricular rate of 70/min which slow down to 30 - 40/min when nifedipine ( 60 mg ) in 3 divided dose , during which he be pace at a rate of 70/min .",
+        "D009543\tChemical\tnifedipine\the be find to have atrial flutter at a ventricular rate of 70/min which slow down to 30 - 40/min when <target> nifedipine </target> ( 60 mg ) in 3 divided dose , during which he be pace at a rate of 70/min .",
+        "D009543\tChemical\tnifedipine\tthis be inconsistent with the well-established finding that <target> nifedipine </target> induce tachycardia in normally innervate heart .",
+        "D013610\tDisease\ttachycardia\tthis be inconsistent with the well-established finding that nifedipine induce <target> tachycardia </target> in normally innervate heart .",
+        "D001919\tDisease\tbradycardia\thowever , in heart deprive of compensatory sympathetic drive , it may lead to <target> bradycardia </target> ."
+    ]
+}

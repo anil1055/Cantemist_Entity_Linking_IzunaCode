@@ -1,0 +1,184 @@
+{
+    "title": "Convulsant effect of lindane and regional brain concentration of GABA and dopamine.",
+    "abst": "Lindane (gamma-hexachlorocyclohexane) is an organochlorine insecticide with known neurotoxic effects. Its mechanism of action is not well understood although it has been proposed that lindane acts as a non-competitive antagonist at the gamma-aminobutyric acid (GABA)-A receptor. We studied the effect of lindane (150 mg/kg) on the GABAergic and dopaminergic systems by measuring the concentration of GABA, dopamine and its metabolites in 7 brain areas at the onset of seizures. All animals suffered tonic convulsions at 18.3 +/- 1.4 min after lindane administration. The concentration of GABA was only slightly but significantly decreased in the colliculi without modifications in the other areas. The concentration of dopamine was increased in the mesencephalon and that of its metabolite DOPAC was also increased in the mesencephalon and the striatum.",
+    "title_plus_abst": "Convulsant effect of lindane and regional brain concentration of GABA and dopamine. Lindane (gamma-hexachlorocyclohexane) is an organochlorine insecticide with known neurotoxic effects. Its mechanism of action is not well understood although it has been proposed that lindane acts as a non-competitive antagonist at the gamma-aminobutyric acid (GABA)-A receptor. We studied the effect of lindane (150 mg/kg) on the GABAergic and dopaminergic systems by measuring the concentration of GABA, dopamine and its metabolites in 7 brain areas at the onset of seizures. All animals suffered tonic convulsions at 18.3 +/- 1.4 min after lindane administration. The concentration of GABA was only slightly but significantly decreased in the colliculi without modifications in the other areas. The concentration of dopamine was increased in the mesencephalon and that of its metabolite DOPAC was also increased in the mesencephalon and the striatum.",
+    "pubmed_id": "2453942",
+    "entities": [
+        [
+            21,
+            28,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            65,
+            69,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            74,
+            82,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            84,
+            91,
+            "Lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            93,
+            120,
+            "gamma-hexachlorocyclohexane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            166,
+            176,
+            "neurotoxic",
+            "Disease",
+            "D020258"
+        ],
+        [
+            268,
+            275,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            320,
+            343,
+            "gamma-aminobutyric acid",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            345,
+            349,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            388,
+            395,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            484,
+            488,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            490,
+            498,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            552,
+            560,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            589,
+            600,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            627,
+            634,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            672,
+            676,
+            "GABA",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            803,
+            811,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            874,
+            879,
+            "DOPAC",
+            "Chemical",
+            "D015102"
+        ]
+    ],
+    "split_sentence": [
+        "Convulsant effect of lindane and regional brain concentration of GABA and dopamine.",
+        "Lindane (gamma-hexachlorocyclohexane) is an organochlorine insecticide with known neurotoxic effects.",
+        "Its mechanism of action is not well understood although it has been proposed that lindane acts as a non-competitive antagonist at the gamma-aminobutyric acid (GABA)-A receptor.",
+        "We studied the effect of lindane (150 mg/kg) on the GABAergic and dopaminergic systems by measuring the concentration of GABA, dopamine and its metabolites in 7 brain areas at the onset of seizures.",
+        "All animals suffered tonic convulsions at 18.3 +/- 1.4 min after lindane administration.",
+        "The concentration of GABA was only slightly but significantly decreased in the colliculi without modifications in the other areas.",
+        "The concentration of dopamine was increased in the mesencephalon and that of its metabolite DOPAC was also increased in the mesencephalon and the striatum."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001556\tChemical\tlindane\tConvulsant effect of <target> lindane </target> and regional brain concentration of GABA and dopamine .",
+        "D005680\tChemical\tGABA\tConvulsant effect of lindane and regional brain concentration of <target> GABA </target> and dopamine .",
+        "D004298\tChemical\tdopamine\tConvulsant effect of lindane and regional brain concentration of GABA and <target> dopamine </target> .",
+        "D001556\tChemical\tLindane\t<target> Lindane </target> ( gamma-hexachlorocyclohexane ) is an organochlorine insecticide with known neurotoxic effects .",
+        "D001556\tChemical\tgamma-hexachlorocyclohexane\tLindane ( <target> gamma-hexachlorocyclohexane </target> ) is an organochlorine insecticide with known neurotoxic effects .",
+        "D020258\tDisease\tneurotoxic\tLindane ( gamma-hexachlorocyclohexane ) is an organochlorine insecticide with known <target> neurotoxic </target> effects .",
+        "D001556\tChemical\tlindane\tIts mechanism of action is not well understood although it has been proposed that <target> lindane </target> acts as a non-competitive antagonist at the gamma-aminobutyric acid (GABA)-A receptor .",
+        "D005680\tChemical\tgamma-aminobutyric acid\tIts mechanism of action is not well understood although it has been proposed that lindane acts as a non-competitive antagonist at the <target> gamma-aminobutyric acid </target> (GABA)-A receptor .",
+        "D005680\tChemical\tGABA\tIts mechanism of action is not well understood although it has been proposed that lindane acts as a non-competitive antagonist at the gamma-aminobutyric acid ( <target> GABA </target> ) -A receptor .",
+        "D001556\tChemical\tlindane\tWe studied the effect of <target> lindane </target> ( 150 mg/kg ) on the GABAergic and dopaminergic systems by measuring the concentration of GABA , dopamine and its metabolites in 7 brain areas at the onset of seizures .",
+        "D005680\tChemical\tGABA\tWe studied the effect of lindane ( 150 mg/kg ) on the GABAergic and dopaminergic systems by measuring the concentration of <target> GABA </target> , dopamine and its metabolites in 7 brain areas at the onset of seizures .",
+        "D004298\tChemical\tdopamine\tWe studied the effect of lindane ( 150 mg/kg ) on the GABAergic and dopaminergic systems by measuring the concentration of GABA , <target> dopamine </target> and its metabolites in 7 brain areas at the onset of seizures .",
+        "D012640\tDisease\tseizures\tWe studied the effect of lindane ( 150 mg/kg ) on the GABAergic and dopaminergic systems by measuring the concentration of GABA , dopamine and its metabolites in 7 brain areas at the onset of <target> seizures </target> .",
+        "D012640\tDisease\tconvulsions\tAll animals suffered tonic <target> convulsions </target> at 18.3 + /- 1.4 min after lindane administration .",
+        "D001556\tChemical\tlindane\tAll animals suffered tonic convulsions at 18.3 + /- 1.4 min after <target> lindane </target> administration .",
+        "D005680\tChemical\tGABA\tThe concentration of <target> GABA </target> was only slightly but significantly decreased in the colliculi without modifications in the other areas .",
+        "D004298\tChemical\tdopamine\tThe concentration of <target> dopamine </target> was increased in the mesencephalon and that of its metabolite DOPAC was also increased in the mesencephalon and the striatum .",
+        "D015102\tChemical\tDOPAC\tThe concentration of dopamine was increased in the mesencephalon and that of its metabolite <target> DOPAC </target> was also increased in the mesencephalon and the striatum ."
+    ],
+    "lines_lemma": [
+        "D001556\tChemical\tlindane\tconvulsant effect of <target> lindane </target> and regional brain concentration of gaba and dopamine .",
+        "D005680\tChemical\tGABA\tconvulsant effect of lindane and regional brain concentration of <target> gaba </target> and dopamine .",
+        "D004298\tChemical\tdopamine\tconvulsant effect of lindane and regional brain concentration of gaba and <target> dopamine </target> .",
+        "D001556\tChemical\tLindane\t<target> Lindane </target> ( gamma-hexachlorocyclohexane ) be an organochlorine insecticide with known neurotoxic effect .",
+        "D001556\tChemical\tgamma-hexachlorocyclohexane\tlindane ( <target> gamma-hexachlorocyclohexane </target> ) be an organochlorine insecticide with known neurotoxic effect .",
+        "D020258\tDisease\tneurotoxic\tlindane ( gamma-hexachlorocyclohexane ) be an organochlorine insecticide with known <target> neurotoxic </target> effect .",
+        "D001556\tChemical\tlindane\tits mechanism of action be not well understand although it have be propose that <target> lindane </target> act as a non-competitive antagonist at the gamma-aminobutyric acid (gaba)-a receptor .",
+        "D005680\tChemical\tgamma-aminobutyric acid\tits mechanism of action be not well understand although it have be propose that lindane act as a non-competitive antagonist at the <target> gamma-aminobutyric acid </target> (gaba)-a receptor .",
+        "D005680\tChemical\tGABA\tits mechanism of action be not well understand although it have be propose that lindane act as a non-competitive antagonist at the gamma-aminobutyric acid ( <target> gaba </target> ) -a receptor .",
+        "D001556\tChemical\tlindane\twe study the effect of <target> lindane </target> ( 150 mg/kg ) on the gabaergic and dopaminergic system by measure the concentration of gaba , dopamine and its metabolite in 7 brain area at the onset of seizure .",
+        "D005680\tChemical\tGABA\twe study the effect of lindane ( 150 mg/kg ) on the gabaergic and dopaminergic system by measure the concentration of <target> gaba </target> , dopamine and its metabolite in 7 brain area at the onset of seizure .",
+        "D004298\tChemical\tdopamine\twe study the effect of lindane ( 150 mg/kg ) on the gabaergic and dopaminergic system by measure the concentration of gaba , <target> dopamine </target> and its metabolite in 7 brain area at the onset of seizure .",
+        "D012640\tDisease\tseizures\twe study the effect of lindane ( 150 mg/kg ) on the gabaergic and dopaminergic system by measure the concentration of gaba , dopamine and its metabolite in 7 brain area at the onset of <target> seizure </target> .",
+        "D012640\tDisease\tconvulsions\tall animal suffer tonic <target> convulsion </target> at 18.3 + /- 1.4 min after lindane administration .",
+        "D001556\tChemical\tlindane\tall animal suffer tonic convulsion at 18.3 + /- 1.4 min after <target> lindane </target> administration .",
+        "D005680\tChemical\tGABA\tthe concentration of <target> gaba </target> be only slightly but significantly decrease in the colliculi without modification in the other area .",
+        "D004298\tChemical\tdopamine\tthe concentration of <target> dopamine </target> be increase in the mesencephalon and that of its metabolite dopac be also increase in the mesencephalon and the striatum .",
+        "D015102\tChemical\tDOPAC\tthe concentration of dopamine be increase in the mesencephalon and that of its metabolite <target> dopac </target> be also increase in the mesencephalon and the striatum ."
+    ]
+}

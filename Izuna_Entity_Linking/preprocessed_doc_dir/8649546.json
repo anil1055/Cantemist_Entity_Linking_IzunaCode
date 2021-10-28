@@ -1,0 +1,164 @@
+{
+    "title": "Improvement of levodopa-induced dyskinesia by propranolol in Parkinson's disease.",
+    "abst": "Seven patients suffering from Parkinson's disease (PD) with severely disabling dyskinesia received low-dose propranolol as an adjunct to the currently used medical treatment. There was a significant 40% improvement in the dyskinesia score without increase of parkinsonian motor disability. Ballistic and choreic dyskinesia were markedly ameliorated, whereas dystonia was not. This study suggests that administration of low doses of beta-blockers may improve levodopa-induced ballistic and choreic dyskinesia in PD.",
+    "title_plus_abst": "Improvement of levodopa-induced dyskinesia by propranolol in Parkinson's disease. Seven patients suffering from Parkinson's disease (PD) with severely disabling dyskinesia received low-dose propranolol as an adjunct to the currently used medical treatment. There was a significant 40% improvement in the dyskinesia score without increase of parkinsonian motor disability. Ballistic and choreic dyskinesia were markedly ameliorated, whereas dystonia was not. This study suggests that administration of low doses of beta-blockers may improve levodopa-induced ballistic and choreic dyskinesia in PD.",
+    "pubmed_id": "8649546",
+    "entities": [
+        [
+            15,
+            23,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            32,
+            42,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            46,
+            57,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            61,
+            80,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            112,
+            131,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            133,
+            135,
+            "PD",
+            "Disease",
+            "D010300"
+        ],
+        [
+            161,
+            171,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            190,
+            201,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            304,
+            314,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            341,
+            353,
+            "parkinsonian",
+            "Disease",
+            "D010300"
+        ],
+        [
+            354,
+            370,
+            "motor disability",
+            "Disease",
+            "D009069"
+        ],
+        [
+            394,
+            404,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            440,
+            448,
+            "dystonia",
+            "Disease",
+            "D004421"
+        ],
+        [
+            540,
+            548,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            579,
+            589,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            593,
+            595,
+            "PD",
+            "Disease",
+            "D010300"
+        ]
+    ],
+    "split_sentence": [
+        "Improvement of levodopa-induced dyskinesia by propranolol in Parkinson's disease.",
+        "Seven patients suffering from Parkinson's disease (PD) with severely disabling dyskinesia received low-dose propranolol as an adjunct to the currently used medical treatment.",
+        "There was a significant 40% improvement in the dyskinesia score without increase of parkinsonian motor disability.",
+        "Ballistic and choreic dyskinesia were markedly ameliorated, whereas dystonia was not.",
+        "This study suggests that administration of low doses of beta-blockers may improve levodopa-induced ballistic and choreic dyskinesia in PD."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007980\tChemical\tlevodopa\tImprovement of <target> levodopa </target> -induced dyskinesia by propranolol in Parkinson 's disease .",
+        "D004409\tDisease\tdyskinesia\tImprovement of levodopa-induced <target> dyskinesia </target> by propranolol in Parkinson 's disease .",
+        "D011433\tChemical\tpropranolol\tImprovement of levodopa-induced dyskinesia by <target> propranolol </target> in Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tImprovement of levodopa-induced dyskinesia by propranolol in <target> Parkinson 's disease </target> .",
+        "D010300\tDisease\tParkinson's disease\tSeven patients suffering from <target> Parkinson 's disease </target> ( PD ) with severely disabling dyskinesia received low-dose propranolol as an adjunct to the currently used medical treatment .",
+        "D010300\tDisease\tPD\tSeven patients suffering from Parkinson 's disease ( <target> PD </target> ) with severely disabling dyskinesia received low-dose propranolol as an adjunct to the currently used medical treatment .",
+        "D004409\tDisease\tdyskinesia\tSeven patients suffering from Parkinson 's disease ( PD ) with severely disabling <target> dyskinesia </target> received low-dose propranolol as an adjunct to the currently used medical treatment .",
+        "D011433\tChemical\tpropranolol\tSeven patients suffering from Parkinson 's disease ( PD ) with severely disabling dyskinesia received low-dose <target> propranolol </target> as an adjunct to the currently used medical treatment .",
+        "D004409\tDisease\tdyskinesia\tThere was a significant 40 % improvement in the <target> dyskinesia </target> score without increase of parkinsonian motor disability .",
+        "D010300\tDisease\tparkinsonian\tThere was a significant 40 % improvement in the dyskinesia score without increase of <target> parkinsonian </target> motor disability .",
+        "D009069\tDisease\tmotor disability\tThere was a significant 40 % improvement in the dyskinesia score without increase of parkinsonian <target> motor disability </target> .",
+        "D004409\tDisease\tdyskinesia\tBallistic and choreic <target> dyskinesia </target> were markedly ameliorated , whereas dystonia was not .",
+        "D004421\tDisease\tdystonia\tBallistic and choreic dyskinesia were markedly ameliorated , whereas <target> dystonia </target> was not .",
+        "D007980\tChemical\tlevodopa\tThis study suggests that administration of low doses of beta-blockers may improve <target> levodopa </target> -induced ballistic and choreic dyskinesia in PD .",
+        "D004409\tDisease\tdyskinesia\tThis study suggests that administration of low doses of beta-blockers may improve levodopa-induced ballistic and choreic <target> dyskinesia </target> in PD .",
+        "D010300\tDisease\tPD\tThis study suggests that administration of low doses of beta-blockers may improve levodopa-induced ballistic and choreic dyskinesia in <target> PD </target> ."
+    ],
+    "lines_lemma": [
+        "D007980\tChemical\tlevodopa\timprovement of <target> levodopa </target> -induced dyskinesia by propranolol in Parkinson 's disease .",
+        "D004409\tDisease\tdyskinesia\timprovement of levodopa-induced <target> dyskinesia </target> by propranolol in Parkinson 's disease .",
+        "D011433\tChemical\tpropranolol\timprovement of levodopa-induced dyskinesia by <target> propranolol </target> in Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\timprovement of levodopa-induced dyskinesia by propranolol in <target> Parkinson 's disease </target> .",
+        "D010300\tDisease\tParkinson's disease\tseven patient suffer from <target> Parkinson 's disease </target> ( pd ) with severely disabling dyskinesia receive low-dose propranolol as an adjunct to the currently use medical treatment .",
+        "D010300\tDisease\tPD\tseven patient suffer from Parkinson 's disease ( <target> pd </target> ) with severely disabling dyskinesia receive low-dose propranolol as an adjunct to the currently use medical treatment .",
+        "D004409\tDisease\tdyskinesia\tseven patient suffer from Parkinson 's disease ( pd ) with severely disable <target> dyskinesia </target> receive low-dose propranolol as an adjunct to the currently use medical treatment .",
+        "D011433\tChemical\tpropranolol\tseven patient suffer from Parkinson 's disease ( pd ) with severely disabling dyskinesia receive low-dose <target> propranolol </target> as an adjunct to the currently use medical treatment .",
+        "D004409\tDisease\tdyskinesia\tthere be a significant 40 % improvement in the <target> dyskinesia </target> score without increase of parkinsonian motor disability .",
+        "D010300\tDisease\tparkinsonian\tthere be a significant 40 % improvement in the dyskinesia score without increase of <target> parkinsonian </target> motor disability .",
+        "D009069\tDisease\tmotor disability\tthere be a significant 40 % improvement in the dyskinesia score without increase of parkinsonian <target> motor disability </target> .",
+        "D004409\tDisease\tdyskinesia\tballistic and choreic <target> dyskinesia </target> be markedly ameliorate , whereas dystonia be not .",
+        "D004421\tDisease\tdystonia\tballistic and choreic dyskinesia be markedly ameliorate , whereas <target> dystonia </target> be not .",
+        "D007980\tChemical\tlevodopa\tthis study suggest that administration of low dose of beta-blocker may improve <target> levodopa </target> -induced ballistic and choreic dyskinesia in pd .",
+        "D004409\tDisease\tdyskinesia\tthis study suggest that administration of low dose of beta-blocker may improve levodopa-induced ballistic and choreic <target> dyskinesia </target> in pd .",
+        "D010300\tDisease\tPD\tthis study suggest that administration of low dose of beta-blocker may improve levodopa-induced ballistic and choreic dyskinesia in <target> pd </target> ."
+    ]
+}

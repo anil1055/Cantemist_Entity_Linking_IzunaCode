@@ -1,0 +1,81 @@
+{
+    "title": "Branch retinal vein occlusion and fluoxetine.",
+    "abst": "A case of branch retinal vein occlusion associated with fluoxetine-induced secondary hypertension is described. Although an infrequent complication of selective serotonin reuptake inhibitor therapy, it is important that ophthalmologists are aware that these agents can cause hypertension because this class of drugs is widely prescribed.",
+    "title_plus_abst": "Branch retinal vein occlusion and fluoxetine. A case of branch retinal vein occlusion associated with fluoxetine-induced secondary hypertension is described. Although an infrequent complication of selective serotonin reuptake inhibitor therapy, it is important that ophthalmologists are aware that these agents can cause hypertension because this class of drugs is widely prescribed.",
+    "pubmed_id": "18025637",
+    "entities": [
+        [
+            7,
+            29,
+            "retinal vein occlusion",
+            "Disease",
+            "D012170"
+        ],
+        [
+            34,
+            44,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            63,
+            85,
+            "retinal vein occlusion",
+            "Disease",
+            "D012170"
+        ],
+        [
+            102,
+            112,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            131,
+            143,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            207,
+            216,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            321,
+            333,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ]
+    ],
+    "split_sentence": [
+        "Branch retinal vein occlusion and fluoxetine.",
+        "A case of branch retinal vein occlusion associated with fluoxetine-induced secondary hypertension is described.",
+        "Although an infrequent complication of selective serotonin reuptake inhibitor therapy, it is important that ophthalmologists are aware that these agents can cause hypertension because this class of drugs is widely prescribed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012170\tDisease\tretinal vein occlusion\tBranch <target> retinal vein occlusion </target> and fluoxetine .",
+        "D005473\tChemical\tfluoxetine\tBranch retinal vein occlusion and <target> fluoxetine </target> .",
+        "D012170\tDisease\tretinal vein occlusion\tA case of branch <target> retinal vein occlusion </target> associated with fluoxetine-induced secondary hypertension is described .",
+        "D005473\tChemical\tfluoxetine\tA case of branch retinal vein occlusion associated with <target> fluoxetine </target> -induced secondary hypertension is described .",
+        "D006973\tDisease\thypertension\tA case of branch retinal vein occlusion associated with fluoxetine-induced secondary <target> hypertension </target> is described .",
+        "D012701\tChemical\tserotonin\tAlthough an infrequent complication of selective <target> serotonin </target> reuptake inhibitor therapy , it is important that ophthalmologists are aware that these agents can cause hypertension because this class of drugs is widely prescribed .",
+        "D006973\tDisease\thypertension\tAlthough an infrequent complication of selective serotonin reuptake inhibitor therapy , it is important that ophthalmologists are aware that these agents can cause <target> hypertension </target> because this class of drugs is widely prescribed ."
+    ],
+    "lines_lemma": [
+        "D012170\tDisease\tretinal vein occlusion\tbranch <target> retinal vein occlusion </target> and fluoxetine .",
+        "D005473\tChemical\tfluoxetine\tbranch retinal vein occlusion and <target> fluoxetine </target> .",
+        "D012170\tDisease\tretinal vein occlusion\ta case of branch <target> retinal vein occlusion </target> associate with fluoxetine-induced secondary hypertension be describe .",
+        "D005473\tChemical\tfluoxetine\ta case of branch retinal vein occlusion associate with <target> fluoxetine </target> -induced secondary hypertension be describe .",
+        "D006973\tDisease\thypertension\ta case of branch retinal vein occlusion associate with fluoxetine-induced secondary <target> hypertension </target> be describe .",
+        "D012701\tChemical\tserotonin\talthough an infrequent complication of selective <target> serotonin </target> reuptake inhibitor therapy , it be important that ophthalmologist be aware that these agent can cause hypertension because this class of drug be widely prescribe .",
+        "D006973\tDisease\thypertension\talthough an infrequent complication of selective serotonin reuptake inhibitor therapy , it be important that ophthalmologist be aware that these agent can cause <target> hypertension </target> because this class of drug be widely prescribe ."
+    ]
+}

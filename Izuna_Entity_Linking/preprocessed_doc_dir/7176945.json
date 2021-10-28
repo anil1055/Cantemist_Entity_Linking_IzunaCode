@@ -1,0 +1,174 @@
+{
+    "title": "Post-suxamethonium pains in Nigerian surgical patients.",
+    "abst": "Contrary to an earlier report by Coxon, scoline pain occurs in African negroes. Its incidence was determined in a prospective study involving a total of 100 Nigerian patients (50 out-patients and 50 in-patients). About 62% of the out-patients developed scoline pain as compared with about 26% among the in-patients. The abolition of muscle fasciculations (by 0.075mg/kg dose of Fazadinium) did not influence the occurrence of scoline pain. Neither the type of induction agent (Althesin or Thiopentone) nor the salt preparation of suxamethonium used (chloride or bromide), affected the incidence of scoline pain.",
+    "title_plus_abst": "Post-suxamethonium pains in Nigerian surgical patients. Contrary to an earlier report by Coxon, scoline pain occurs in African negroes. Its incidence was determined in a prospective study involving a total of 100 Nigerian patients (50 out-patients and 50 in-patients). About 62% of the out-patients developed scoline pain as compared with about 26% among the in-patients. The abolition of muscle fasciculations (by 0.075mg/kg dose of Fazadinium) did not influence the occurrence of scoline pain. Neither the type of induction agent (Althesin or Thiopentone) nor the salt preparation of suxamethonium used (chloride or bromide), affected the incidence of scoline pain.",
+    "pubmed_id": "7176945",
+    "entities": [
+        [
+            5,
+            18,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            19,
+            24,
+            "pains",
+            "Disease",
+            "D010146"
+        ],
+        [
+            96,
+            103,
+            "scoline",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            104,
+            108,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            309,
+            316,
+            "scoline",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            317,
+            321,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            396,
+            410,
+            "fasciculations",
+            "Disease",
+            "D005207"
+        ],
+        [
+            434,
+            444,
+            "Fazadinium",
+            "Chemical",
+            "C084773"
+        ],
+        [
+            482,
+            489,
+            "scoline",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            490,
+            494,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            533,
+            541,
+            "Althesin",
+            "Chemical",
+            "D000530"
+        ],
+        [
+            545,
+            556,
+            "Thiopentone",
+            "Chemical",
+            "D013874"
+        ],
+        [
+            586,
+            599,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            606,
+            614,
+            "chloride",
+            "Chemical",
+            "D002712"
+        ],
+        [
+            618,
+            625,
+            "bromide",
+            "Chemical",
+            "D001965"
+        ],
+        [
+            654,
+            661,
+            "scoline",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            662,
+            666,
+            "pain",
+            "Disease",
+            "D010146"
+        ]
+    ],
+    "split_sentence": [
+        "Post-suxamethonium pains in Nigerian surgical patients.",
+        "Contrary to an earlier report by Coxon, scoline pain occurs in African negroes.",
+        "Its incidence was determined in a prospective study involving a total of 100 Nigerian patients (50 out-patients and 50 in-patients).",
+        "About 62% of the out-patients developed scoline pain as compared with about 26% among the in-patients.",
+        "The abolition of muscle fasciculations (by 0.075mg/kg dose of Fazadinium) did not influence the occurrence of scoline pain.",
+        "Neither the type of induction agent (Althesin or Thiopentone) nor the salt preparation of suxamethonium used (chloride or bromide), affected the incidence of scoline pain."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tsuxamethonium\tPost- <target> suxamethonium </target> pains in Nigerian surgical patients .",
+        "D010146\tDisease\tpains\tPost-suxamethonium <target> pains </target> in Nigerian surgical patients .",
+        "D013390\tChemical\tscoline\tContrary to an earlier report by Coxon , <target> scoline </target> pain occurs in African negroes .",
+        "D010146\tDisease\tpain\tContrary to an earlier report by Coxon , scoline <target> pain </target> occurs in African negroes .",
+        "D013390\tChemical\tscoline\tAbout 62 % of the out-patients developed <target> scoline </target> pain as compared with about 26 % among the in-patients .",
+        "D010146\tDisease\tpain\tAbout 62 % of the out-patients developed scoline <target> pain </target> as compared with about 26 % among the in-patients .",
+        "D005207\tDisease\tfasciculations\tThe abolition of muscle <target> fasciculations </target> ( by 0.075mg/kg dose of Fazadinium ) did not influence the occurrence of scoline pain .",
+        "C084773\tChemical\tFazadinium\tThe abolition of muscle fasciculations ( by 0.075mg/kg dose of <target> Fazadinium </target> ) did not influence the occurrence of scoline pain .",
+        "D013390\tChemical\tscoline\tThe abolition of muscle fasciculations ( by 0.075mg/kg dose of Fazadinium ) did not influence the occurrence of <target> scoline </target> pain .",
+        "D010146\tDisease\tpain\tThe abolition of muscle fasciculations ( by 0.075mg/kg dose of Fazadinium ) did not influence the occurrence of scoline <target> pain </target> .",
+        "D000530\tChemical\tAlthesin\tNeither the type of induction agent ( <target> Althesin </target> or Thiopentone ) nor the salt preparation of suxamethonium used ( chloride or bromide ) , affected the incidence of scoline pain .",
+        "D013874\tChemical\tThiopentone\tNeither the type of induction agent ( Althesin or <target> Thiopentone </target> ) nor the salt preparation of suxamethonium used ( chloride or bromide ) , affected the incidence of scoline pain .",
+        "D013390\tChemical\tsuxamethonium\tNeither the type of induction agent ( Althesin or Thiopentone ) nor the salt preparation of <target> suxamethonium </target> used ( chloride or bromide ) , affected the incidence of scoline pain .",
+        "D002712\tChemical\tchloride\tNeither the type of induction agent ( Althesin or Thiopentone ) nor the salt preparation of suxamethonium used ( <target> chloride </target> or bromide ) , affected the incidence of scoline pain .",
+        "D001965\tChemical\tbromide\tNeither the type of induction agent ( Althesin or Thiopentone ) nor the salt preparation of suxamethonium used ( chloride or <target> bromide </target> ) , affected the incidence of scoline pain .",
+        "D013390\tChemical\tscoline\tNeither the type of induction agent ( Althesin or Thiopentone ) nor the salt preparation of suxamethonium used ( chloride or bromide ) , affected the incidence of <target> scoline </target> pain .",
+        "D010146\tDisease\tpain\tNeither the type of induction agent ( Althesin or Thiopentone ) nor the salt preparation of suxamethonium used ( chloride or bromide ) , affected the incidence of scoline <target> pain </target> ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tsuxamethonium\tpost- <target> suxamethonium </target> pain in nigerian surgical patient .",
+        "D010146\tDisease\tpains\tpost-suxamethonium <target> pain </target> in nigerian surgical patient .",
+        "D013390\tChemical\tscoline\tcontrary to an early report by Coxon , <target> scoline </target> pain occur in african negro .",
+        "D010146\tDisease\tpain\tcontrary to an early report by Coxon , scoline <target> pain </target> occur in african negro .",
+        "D013390\tChemical\tscoline\tabout 62 % of the out-patient develop <target> scoline </target> pain as compare with about 26 % among the in-patient .",
+        "D010146\tDisease\tpain\tabout 62 % of the out-patient develop scoline <target> pain </target> as compare with about 26 % among the in-patient .",
+        "D005207\tDisease\tfasciculations\tthe abolition of muscle <target> fasciculation </target> ( by 0.075mg/kg dose of Fazadinium ) do not influence the occurrence of scoline pain .",
+        "C084773\tChemical\tFazadinium\tthe abolition of muscle fasciculation ( by 0.075mg/kg dose of <target> Fazadinium </target> ) do not influence the occurrence of scoline pain .",
+        "D013390\tChemical\tscoline\tthe abolition of muscle fasciculation ( by 0.075mg/kg dose of Fazadinium ) do not influence the occurrence of <target> scoline </target> pain .",
+        "D010146\tDisease\tpain\tthe abolition of muscle fasciculation ( by 0.075mg/kg dose of Fazadinium ) do not influence the occurrence of scoline <target> pain </target> .",
+        "D000530\tChemical\tAlthesin\tneither the type of induction agent ( <target> Althesin </target> or thiopentone ) nor the salt preparation of suxamethonium use ( chloride or bromide ) , affect the incidence of scoline pain .",
+        "D013874\tChemical\tThiopentone\tneither the type of induction agent ( Althesin or <target> thiopentone </target> ) nor the salt preparation of suxamethonium use ( chloride or bromide ) , affect the incidence of scoline pain .",
+        "D013390\tChemical\tsuxamethonium\tneither the type of induction agent ( Althesin or thiopentone ) nor the salt preparation of <target> suxamethonium </target> use ( chloride or bromide ) , affect the incidence of scoline pain .",
+        "D002712\tChemical\tchloride\tneither the type of induction agent ( Althesin or thiopentone ) nor the salt preparation of suxamethonium use ( <target> chloride </target> or bromide ) , affect the incidence of scoline pain .",
+        "D001965\tChemical\tbromide\tneither the type of induction agent ( Althesin or thiopentone ) nor the salt preparation of suxamethonium use ( chloride or <target> bromide </target> ) , affect the incidence of scoline pain .",
+        "D013390\tChemical\tscoline\tneither the type of induction agent ( Althesin or thiopentone ) nor the salt preparation of suxamethonium use ( chloride or bromide ) , affect the incidence of <target> scoline </target> pain .",
+        "D010146\tDisease\tpain\tneither the type of induction agent ( Althesin or thiopentone ) nor the salt preparation of suxamethonium use ( chloride or bromide ) , affect the incidence of scoline <target> pain </target> ."
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "title": "Nitro-L-arginine methyl ester: a potential protector against gentamicin ototoxicity.",
+    "abst": "The nitric oxide (NO) inhibitor nitro-L-arginine methyl ester (L-NAME) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin, but further studies are needed to confirm this.Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost. Their ototoxicity is a serious health problem and, as their ototoxic mechanism involves the production of NO, we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss. In this experimental study we used 30 Sprague-Dawley rats, 27 of which had gentamicin instilled into the middle ear. The otoprotectant L-NAME was administered topically to 12/27 animals. Its effect was determined in terms of attenuation of hearing loss, measured by shifts in the auditory brainstem response threshold. L-NAME reduced gentamicin-induced hearing loss in the high-frequency range, but gave no protection in the middle or low frequencies.",
+    "title_plus_abst": "Nitro-L-arginine methyl ester: a potential protector against gentamicin ototoxicity. The nitric oxide (NO) inhibitor nitro-L-arginine methyl ester (L-NAME) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin, but further studies are needed to confirm this.Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost. Their ototoxicity is a serious health problem and, as their ototoxic mechanism involves the production of NO, we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss. In this experimental study we used 30 Sprague-Dawley rats, 27 of which had gentamicin instilled into the middle ear. The otoprotectant L-NAME was administered topically to 12/27 animals. Its effect was determined in terms of attenuation of hearing loss, measured by shifts in the auditory brainstem response threshold. L-NAME reduced gentamicin-induced hearing loss in the high-frequency range, but gave no protection in the middle or low frequencies.",
+    "pubmed_id": "16298782",
+    "entities": [
+        [
+            0,
+            29,
+            "Nitro-L-arginine methyl ester",
+            "Chemical",
+            "D019331"
+        ],
+        [
+            61,
+            71,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            72,
+            83,
+            "ototoxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            89,
+            101,
+            "nitric oxide",
+            "Chemical",
+            "D009569"
+        ],
+        [
+            103,
+            105,
+            "NO",
+            "Chemical",
+            "D009569"
+        ],
+        [
+            117,
+            146,
+            "nitro-L-arginine methyl ester",
+            "Chemical",
+            "D019331"
+        ],
+        [
+            148,
+            154,
+            "L-NAME",
+            "Chemical",
+            "D019331"
+        ],
+        [
+            192,
+            219,
+            "high-frequency hearing loss",
+            "Disease",
+            "D006316"
+        ],
+        [
+            230,
+            240,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            289,
+            303,
+            "Aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            386,
+            397,
+            "ototoxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            440,
+            448,
+            "ototoxic",
+            "Disease",
+            "D006311"
+        ],
+        [
+            486,
+            488,
+            "NO",
+            "Chemical",
+            "D009569"
+        ],
+        [
+            519,
+            521,
+            "NO",
+            "Chemical",
+            "D009569"
+        ],
+        [
+            555,
+            569,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            578,
+            604,
+            "sensorineural hearing loss",
+            "Disease",
+            "D006319"
+        ],
+        [
+            681,
+            691,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            741,
+            747,
+            "L-NAME",
+            "Chemical",
+            "D019331"
+        ],
+        [
+            846,
+            858,
+            "hearing loss",
+            "Disease",
+            "D034381"
+        ],
+        [
+            925,
+            931,
+            "L-NAME",
+            "Chemical",
+            "D019331"
+        ],
+        [
+            940,
+            950,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            959,
+            971,
+            "hearing loss",
+            "Disease",
+            "D034381"
+        ]
+    ],
+    "split_sentence": [
+        "Nitro-L-arginine methyl ester: a potential protector against gentamicin ototoxicity.",
+        "The nitric oxide (NO) inhibitor nitro-L-arginine methyl ester (L-NAME) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin, but further studies are needed to confirm this.Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost.",
+        "Their ototoxicity is a serious health problem and, as their ototoxic mechanism involves the production of NO, we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss.",
+        "In this experimental study we used 30 Sprague-Dawley rats, 27 of which had gentamicin instilled into the middle ear.",
+        "The otoprotectant L-NAME was administered topically to 12/27 animals.",
+        "Its effect was determined in terms of attenuation of hearing loss, measured by shifts in the auditory brainstem response threshold.",
+        "L-NAME reduced gentamicin-induced hearing loss in the high-frequency range, but gave no protection in the middle or low frequencies."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019331\tChemical\tNitro-L-arginine methyl ester\t<target> Nitro-L-arginine methyl ester </target> : a potential protector against gentamicin ototoxicity .",
+        "D005839\tChemical\tgentamicin\tNitro-L-arginine methyl ester : a potential protector against <target> gentamicin </target> ototoxicity .",
+        "D006311\tDisease\tototoxicity\tNitro-L-arginine methyl ester : a potential protector against gentamicin <target> ototoxicity </target> .",
+        "D009569\tChemical\tnitric oxide\tThe <target> nitric oxide </target> ( NO ) inhibitor nitro-L-arginine methyl ester ( L-NAME ) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin , but further studies are needed to confirm this . Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D009569\tChemical\tNO\tThe nitric oxide ( <target> NO </target> ) inhibitor nitro-L-arginine methyl ester ( L-NAME ) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin , but further studies are needed to confirm this . Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D019331\tChemical\tnitro-L-arginine methyl ester\tThe nitric oxide ( NO ) inhibitor <target> nitro-L-arginine methyl ester </target> ( L-NAME ) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin , but further studies are needed to confirm this . Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D019331\tChemical\tL-NAME\tThe nitric oxide ( NO ) inhibitor nitro-L-arginine methyl ester ( <target> L-NAME </target> ) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin , but further studies are needed to confirm this . Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D006316\tDisease\thigh-frequency hearing loss\tThe nitric oxide ( NO ) inhibitor nitro-L-arginine methyl ester ( L-NAME ) may act as an otoprotectant against <target> high-frequency hearing loss </target> caused by gentamicin , but further studies are needed to confirm this . Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D005839\tChemical\tgentamicin\tThe nitric oxide ( NO ) inhibitor nitro-L-arginine methyl ester ( L-NAME ) may act as an otoprotectant against high-frequency hearing loss caused by <target> gentamicin </target> , but further studies are needed to confirm this . Aminoglycoside antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D000617\tChemical\tAminoglycoside\tThe nitric oxide ( NO ) inhibitor nitro-L-arginine methyl ester ( L-NAME ) may act as an otoprotectant against high-frequency hearing loss caused by gentamicin , but further studies are needed to confirm this . <target> Aminoglycoside </target> antibiotics are still widely used by virtue of their efficacy and low cost .",
+        "D006311\tDisease\tototoxicity\tTheir <target> ototoxicity </target> is a serious health problem and , as their ototoxic mechanism involves the production of NO , we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D006311\tDisease\tototoxic\tTheir ototoxicity is a serious health problem and , as their <target> ototoxic </target> mechanism involves the production of NO , we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D009569\tChemical\tNO\tTheir ototoxicity is a serious health problem and , as their ototoxic mechanism involves the production of <target> NO </target> , we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D009569\tChemical\tNO\tTheir ototoxicity is a serious health problem and , as their ototoxic mechanism involves the production of NO , we need to assess the use of <target> NO </target> inhibitors for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D000617\tChemical\taminoglycoside\tTheir ototoxicity is a serious health problem and , as their ototoxic mechanism involves the production of NO , we need to assess the use of NO inhibitors for the prevention of <target> aminoglycoside </target> -induced sensorineural hearing loss .",
+        "D006319\tDisease\tsensorineural hearing loss\tTheir ototoxicity is a serious health problem and , as their ototoxic mechanism involves the production of NO , we need to assess the use of NO inhibitors for the prevention of aminoglycoside-induced <target> sensorineural hearing loss </target> .",
+        "D005839\tChemical\tgentamicin\tIn this experimental study we used 30 Sprague-Dawley rats , 27 of which had <target> gentamicin </target> instilled into the middle ear .",
+        "D019331\tChemical\tL-NAME\tThe otoprotectant <target> L-NAME </target> was administered topically to 12/27 animals .",
+        "D034381\tDisease\thearing loss\tIts effect was determined in terms of attenuation of <target> hearing loss </target> , measured by shifts in the auditory brainstem response threshold .",
+        "D019331\tChemical\tL-NAME\t<target> L-NAME </target> reduced gentamicin-induced hearing loss in the high-frequency range , but gave no protection in the middle or low frequencies .",
+        "D005839\tChemical\tgentamicin\tL-NAME reduced <target> gentamicin </target> -induced hearing loss in the high-frequency range , but gave no protection in the middle or low frequencies .",
+        "D034381\tDisease\thearing loss\tL-NAME reduced gentamicin-induced <target> hearing loss </target> in the high-frequency range , but gave no protection in the middle or low frequencies ."
+    ],
+    "lines_lemma": [
+        "D019331\tChemical\tNitro-L-arginine methyl ester\t<target> nitro-l-arginine methyl ester </target> : a potential protector against gentamicin ototoxicity .",
+        "D005839\tChemical\tgentamicin\tnitro-l-arginine methyl ester : a potential protector against <target> gentamicin </target> ototoxicity .",
+        "D006311\tDisease\tototoxicity\tnitro-l-arginine methyl ester : a potential protector against gentamicin <target> ototoxicity </target> .",
+        "D009569\tChemical\tnitric oxide\tthe <target> nitric oxide </target> ( no ) inhibitor nitro-l-arginine methyl ester ( l-name ) may act as an otoprotectant against high-frequency hearing loss cause by gentamicin , but further study be need to confirm this . aminoglycoside antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D009569\tChemical\tNO\tthe nitric oxide ( <target> no </target> ) inhibitor nitro-l-arginine methyl ester ( l-name ) may act as an otoprotectant against high-frequency hearing loss cause by gentamicin , but further study be need to confirm this . aminoglycoside antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D019331\tChemical\tnitro-L-arginine methyl ester\tthe nitric oxide ( no ) inhibitor <target> nitro-l-arginine methyl ester </target> ( l-name ) may act as an otoprotectant against high-frequency hearing loss cause by gentamicin , but further study be need to confirm this . aminoglycoside antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D019331\tChemical\tL-NAME\tthe nitric oxide ( no ) inhibitor nitro-l-arginine methyl ester ( <target> l-name </target> ) may act as an otoprotectant against high-frequency hearing loss cause by gentamicin , but further study be need to confirm this . aminoglycoside antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D006316\tDisease\thigh-frequency hearing loss\tthe nitric oxide ( no ) inhibitor nitro-l-arginine methyl ester ( l-name ) may act as an otoprotectant against <target> high-frequency hear loss </target> cause by gentamicin , but further study be need to confirm this . aminoglycoside antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D005839\tChemical\tgentamicin\tthe nitric oxide ( no ) inhibitor nitro-l-arginine methyl ester ( l-name ) may act as an otoprotectant against high-frequency hearing loss cause by <target> gentamicin </target> , but further study be need to confirm this . aminoglycoside antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D000617\tChemical\tAminoglycoside\tthe nitric oxide ( no ) inhibitor nitro-l-arginine methyl ester ( l-name ) may act as an otoprotectant against high-frequency hearing loss cause by gentamicin , but further study be need to confirm this . <target> aminoglycoside </target> antibiotic be still widely use by virtue of their efficacy and low cost .",
+        "D006311\tDisease\tototoxicity\ttheir <target> ototoxicity </target> be a serious health problem and , as their ototoxic mechanism involve the production of no , we need to assess the use of no inhibitor for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D006311\tDisease\tototoxic\ttheir ototoxicity be a serious health problem and , as their <target> ototoxic </target> mechanism involve the production of no , we need to assess the use of no inhibitor for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D009569\tChemical\tNO\ttheir ototoxicity be a serious health problem and , as their ototoxic mechanism involve the production of <target> no </target> , we need to assess the use of no inhibitor for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D009569\tChemical\tNO\ttheir ototoxicity be a serious health problem and , as their ototoxic mechanism involve the production of no , we need to assess the use of <target> no </target> inhibitor for the prevention of aminoglycoside-induced sensorineural hearing loss .",
+        "D000617\tChemical\taminoglycoside\ttheir ototoxicity be a serious health problem and , as their ototoxic mechanism involve the production of no , we need to assess the use of no inhibitor for the prevention of <target> aminoglycoside </target> -induced sensorineural hearing loss .",
+        "D006319\tDisease\tsensorineural hearing loss\ttheir ototoxicity be a serious health problem and , as their ototoxic mechanism involve the production of no , we need to assess the use of no inhibitor for the prevention of aminoglycoside-induced <target> sensorineural hear loss </target> .",
+        "D005839\tChemical\tgentamicin\tin this experimental study we use 30 sprague-dawley rat , 27 of which have <target> gentamicin </target> instill into the middle ear .",
+        "D019331\tChemical\tL-NAME\tthe otoprotectant <target> l-name </target> be administer topically to 12/27 animal .",
+        "D034381\tDisease\thearing loss\tits effect be determine in term of attenuation of <target> hearing loss </target> , measure by shift in the auditory brainstem response threshold .",
+        "D019331\tChemical\tL-NAME\t<target> l-name </target> reduce gentamicin-induced hear loss in the high-frequency range , but give no protection in the middle or low frequency .",
+        "D005839\tChemical\tgentamicin\tl-name reduce <target> gentamicin </target> -induced hear loss in the high-frequency range , but give no protection in the middle or low frequency .",
+        "D034381\tDisease\thearing loss\tl-name reduce gentamicin-induced <target> hearing loss </target> in the high-frequency range , but give no protection in the middle or low frequency ."
+    ]
+}

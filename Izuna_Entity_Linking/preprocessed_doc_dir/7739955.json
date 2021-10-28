@@ -1,0 +1,125 @@
+{
+    "title": "Transvenous right ventricular pacing during cardiopulmonary resuscitation of pediatric patients with acute cardiomyopathy.",
+    "abst": "We describe the cardiopulmonary resuscitation efforts on five patients who presented in acute circulatory failure from myocardial dysfunction. Three patients had acute viral myocarditis, one had a carbamazepine-induced acute eosinophilic myocarditis, and one had cardiac hemosiderosis resulting in acute cardiogenic shock. All patients were continuously monitored with central venous and arterial catheters in addition to routine noninvasive monitoring. An introducer sheath, a pacemaker, and sterile pacing wires were made readily available for the patients, should the need arise to terminate resistant cardiac dysrhythmias. All patients developed cardiocirculatory arrest associated with extreme hypotension and dysrhythmias within the first 48 hours of their admission to the pediatric intensive care unit (PICU). Right ventricular pacemaker wires were inserted in all of them during cardiopulmonary resuscitation (CPR). In four patients, cardiac pacing was used, resulting in a temporary captured rhythm and restoration of their cardiac output. These patients had a second event of cardiac arrest, resulting in death, within 10 to 60 minutes. In one patient, cardiac pacing was not used, because he converted to normal sinus rhythm by electrical defibrillation within three minutes of initiating CPR. We conclude that cardiac pacing during resuscitative efforts in pediatric patients suffering from acute myocardial dysfunction may not have long-term value in and of itself; however, if temporary hemodynamic stability is achieved by this procedure, it may provide additional time needed to institute other therapeutic modalities.",
+    "title_plus_abst": "Transvenous right ventricular pacing during cardiopulmonary resuscitation of pediatric patients with acute cardiomyopathy. We describe the cardiopulmonary resuscitation efforts on five patients who presented in acute circulatory failure from myocardial dysfunction. Three patients had acute viral myocarditis, one had a carbamazepine-induced acute eosinophilic myocarditis, and one had cardiac hemosiderosis resulting in acute cardiogenic shock. All patients were continuously monitored with central venous and arterial catheters in addition to routine noninvasive monitoring. An introducer sheath, a pacemaker, and sterile pacing wires were made readily available for the patients, should the need arise to terminate resistant cardiac dysrhythmias. All patients developed cardiocirculatory arrest associated with extreme hypotension and dysrhythmias within the first 48 hours of their admission to the pediatric intensive care unit (PICU). Right ventricular pacemaker wires were inserted in all of them during cardiopulmonary resuscitation (CPR). In four patients, cardiac pacing was used, resulting in a temporary captured rhythm and restoration of their cardiac output. These patients had a second event of cardiac arrest, resulting in death, within 10 to 60 minutes. In one patient, cardiac pacing was not used, because he converted to normal sinus rhythm by electrical defibrillation within three minutes of initiating CPR. We conclude that cardiac pacing during resuscitative efforts in pediatric patients suffering from acute myocardial dysfunction may not have long-term value in and of itself; however, if temporary hemodynamic stability is achieved by this procedure, it may provide additional time needed to institute other therapeutic modalities.",
+    "pubmed_id": "7739955",
+    "entities": [
+        [
+            107,
+            121,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            217,
+            236,
+            "circulatory failure",
+            "Disease",
+            "D012769"
+        ],
+        [
+            242,
+            264,
+            "myocardial dysfunction",
+            "Disease",
+            "D009202"
+        ],
+        [
+            297,
+            308,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            320,
+            333,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            427,
+            444,
+            "cardiogenic shock",
+            "Disease",
+            "D012770"
+        ],
+        [
+            736,
+            748,
+            "dysrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            822,
+            833,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            838,
+            850,
+            "dysrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            1210,
+            1224,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            1533,
+            1555,
+            "myocardial dysfunction",
+            "Disease",
+            "D009202"
+        ]
+    ],
+    "split_sentence": [
+        "Transvenous right ventricular pacing during cardiopulmonary resuscitation of pediatric patients with acute cardiomyopathy.",
+        "We describe the cardiopulmonary resuscitation efforts on five patients who presented in acute circulatory failure from myocardial dysfunction.",
+        "Three patients had acute viral myocarditis, one had a carbamazepine-induced acute eosinophilic myocarditis, and one had cardiac hemosiderosis resulting in acute cardiogenic shock.",
+        "All patients were continuously monitored with central venous and arterial catheters in addition to routine noninvasive monitoring.",
+        "An introducer sheath, a pacemaker, and sterile pacing wires were made readily available for the patients, should the need arise to terminate resistant cardiac dysrhythmias.",
+        "All patients developed cardiocirculatory arrest associated with extreme hypotension and dysrhythmias within the first 48 hours of their admission to the pediatric intensive care unit (PICU).",
+        "Right ventricular pacemaker wires were inserted in all of them during cardiopulmonary resuscitation (CPR).",
+        "In four patients, cardiac pacing was used, resulting in a temporary captured rhythm and restoration of their cardiac output.",
+        "These patients had a second event of cardiac arrest, resulting in death, within 10 to 60 minutes.",
+        "In one patient, cardiac pacing was not used, because he converted to normal sinus rhythm by electrical defibrillation within three minutes of initiating CPR.",
+        "We conclude that cardiac pacing during resuscitative efforts in pediatric patients suffering from acute myocardial dysfunction may not have long-term value in and of itself; however, if temporary hemodynamic stability is achieved by this procedure, it may provide additional time needed to institute other therapeutic modalities."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009202\tDisease\tcardiomyopathy\tTransvenous right ventricular pacing during cardiopulmonary resuscitation of pediatric patients with acute <target> cardiomyopathy </target> .",
+        "D012769\tDisease\tcirculatory failure\tWe describe the cardiopulmonary resuscitation efforts on five patients who presented in acute <target> circulatory failure </target> from myocardial dysfunction .",
+        "D009202\tDisease\tmyocardial dysfunction\tWe describe the cardiopulmonary resuscitation efforts on five patients who presented in acute circulatory failure from <target> myocardial dysfunction </target> .",
+        "D009205\tDisease\tmyocarditis\tThree patients had acute viral <target> myocarditis </target> , one had a carbamazepine-induced acute eosinophilic myocarditis , and one had cardiac hemosiderosis resulting in acute cardiogenic shock .",
+        "D002220\tChemical\tcarbamazepine\tThree patients had acute viral myocarditis , one had a <target> carbamazepine </target> -induced acute eosinophilic myocarditis , and one had cardiac hemosiderosis resulting in acute cardiogenic shock .",
+        "D012770\tDisease\tcardiogenic shock\tThree patients had acute viral myocarditis , one had a carbamazepine-induced acute eosinophilic myocarditis , and one had cardiac hemosiderosis resulting in acute <target> cardiogenic shock </target> .",
+        "D001145\tDisease\tdysrhythmias\tAn introducer sheath , a pacemaker , and sterile pacing wires were made readily available for the patients , should the need arise to terminate resistant cardiac <target> dysrhythmias </target> .",
+        "D007022\tDisease\thypotension\tAll patients developed cardiocirculatory arrest associated with extreme <target> hypotension </target> and dysrhythmias within the first 48 hours of their admission to the pediatric intensive care unit ( PICU ) .",
+        "D001145\tDisease\tdysrhythmias\tAll patients developed cardiocirculatory arrest associated with extreme hypotension and <target> dysrhythmias </target> within the first 48 hours of their admission to the pediatric intensive care unit ( PICU ) .",
+        "D006323\tDisease\tcardiac arrest\tThese patients had a second event of <target> cardiac arrest </target> , resulting in death , within 10 to 60 minutes .",
+        "D009202\tDisease\tmyocardial dysfunction\tWe conclude that cardiac pacing during resuscitative efforts in pediatric patients suffering from acute <target> myocardial dysfunction </target> may not have long-term value in and of itself ; however , if temporary hemodynamic stability is achieved by this procedure , it may provide additional time needed to institute other therapeutic modalities ."
+    ],
+    "lines_lemma": [
+        "D009202\tDisease\tcardiomyopathy\ttransvenous right ventricular pacing during cardiopulmonary resuscitation of pediatric patient with acute <target> cardiomyopathy </target> .",
+        "D012769\tDisease\tcirculatory failure\twe describe the cardiopulmonary resuscitation effort on five patient who present in acute <target> circulatory failure </target> from myocardial dysfunction .",
+        "D009202\tDisease\tmyocardial dysfunction\twe describe the cardiopulmonary resuscitation effort on five patient who present in acute circulatory failure from <target> myocardial dysfunction </target> .",
+        "D009205\tDisease\tmyocarditis\tthree patient have acute viral <target> myocarditis </target> , one have a carbamazepine-induced acute eosinophilic myocarditis , and one have cardiac hemosiderosis result in acute cardiogenic shock .",
+        "D002220\tChemical\tcarbamazepine\tthree patient have acute viral myocarditis , one have a <target> carbamazepine </target> -induced acute eosinophilic myocarditis , and one have cardiac hemosiderosis result in acute cardiogenic shock .",
+        "D012770\tDisease\tcardiogenic shock\tthree patient have acute viral myocarditis , one have a carbamazepine-induced acute eosinophilic myocarditis , and one have cardiac hemosiderosis result in acute <target> cardiogenic shock </target> .",
+        "D001145\tDisease\tdysrhythmias\tan introducer sheath , a pacemaker , and sterile pacing wire be make readily available for the patient , should the need arise to terminate resistant cardiac <target> dysrhythmia </target> .",
+        "D007022\tDisease\thypotension\tall patient develop cardiocirculatory arrest associate with extreme <target> hypotension </target> and dysrhythmia within the first 48 hour of their admission to the pediatric intensive care unit ( picu ) .",
+        "D001145\tDisease\tdysrhythmias\tall patient develop cardiocirculatory arrest associate with extreme hypotension and <target> dysrhythmia </target> within the first 48 hour of their admission to the pediatric intensive care unit ( picu ) .",
+        "D006323\tDisease\tcardiac arrest\tthese patient have a second event of <target> cardiac arrest </target> , result in death , within 10 to 60 minute .",
+        "D009202\tDisease\tmyocardial dysfunction\twe conclude that cardiac pacing during resuscitative effort in pediatric patient suffer from acute <target> myocardial dysfunction </target> may not have long-term value in and of itself ; however , if temporary hemodynamic stability be achieve by this procedure , it may provide additional time need to institute other therapeutic modality ."
+    ]
+}

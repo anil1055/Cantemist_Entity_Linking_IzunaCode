@@ -1,0 +1,121 @@
+{
+    "title": "Is Dysguesia Going to be a Rare or a Common Side-effect of Amlodipine?",
+    "abst": "A very rare side-effect of amlodipine is dysguesia. A review of the literature produced only one case. We report a case about a female with essential hypertension on drug treatment with amlodipine developed loss of taste sensation. Condition moderately improved on stoppage of the drug for 25 days. We conclude that amlodipine can cause dysguesia. Here, we describe the clinical presentation and review the relevant literature on amlodipine and dysguesia.",
+    "title_plus_abst": "Is Dysguesia Going to be a Rare or a Common Side-effect of Amlodipine? A very rare side-effect of amlodipine is dysguesia. A review of the literature produced only one case. We report a case about a female with essential hypertension on drug treatment with amlodipine developed loss of taste sensation. Condition moderately improved on stoppage of the drug for 25 days. We conclude that amlodipine can cause dysguesia. Here, we describe the clinical presentation and review the relevant literature on amlodipine and dysguesia.",
+    "pubmed_id": "25031906",
+    "entities": [
+        [
+            3,
+            12,
+            "Dysguesia",
+            "Disease",
+            "D004408"
+        ],
+        [
+            59,
+            69,
+            "Amlodipine",
+            "Chemical",
+            "D017311"
+        ],
+        [
+            98,
+            108,
+            "amlodipine",
+            "Chemical",
+            "D017311"
+        ],
+        [
+            112,
+            121,
+            "dysguesia",
+            "Disease",
+            "D004408"
+        ],
+        [
+            221,
+            233,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            257,
+            267,
+            "amlodipine",
+            "Chemical",
+            "D017311"
+        ],
+        [
+            278,
+            301,
+            "loss of taste sensation",
+            "Disease",
+            "D012678"
+        ],
+        [
+            387,
+            397,
+            "amlodipine",
+            "Chemical",
+            "D017311"
+        ],
+        [
+            408,
+            417,
+            "dysguesia",
+            "Disease",
+            "D004408"
+        ],
+        [
+            501,
+            511,
+            "amlodipine",
+            "Chemical",
+            "D017311"
+        ],
+        [
+            516,
+            525,
+            "dysguesia",
+            "Disease",
+            "D004408"
+        ]
+    ],
+    "split_sentence": [
+        "Is Dysguesia Going to be a Rare or a Common Side-effect of Amlodipine?",
+        "A very rare side-effect of amlodipine is dysguesia.",
+        "A review of the literature produced only one case.",
+        "We report a case about a female with essential hypertension on drug treatment with amlodipine developed loss of taste sensation.",
+        "Condition moderately improved on stoppage of the drug for 25 days.",
+        "We conclude that amlodipine can cause dysguesia.",
+        "Here, we describe the clinical presentation and review the relevant literature on amlodipine and dysguesia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004408\tDisease\tDysguesia\tIs <target> Dysguesia </target> Going to be a Rare or a Common Side-effect of Amlodipine ?",
+        "D017311\tChemical\tAmlodipine\tIs Dysguesia Going to be a Rare or a Common Side-effect of <target> Amlodipine </target> ?",
+        "D017311\tChemical\tamlodipine\tA very rare side-effect of <target> amlodipine </target> is dysguesia .",
+        "D004408\tDisease\tdysguesia\tA very rare side-effect of amlodipine is <target> dysguesia </target> .",
+        "D006973\tDisease\thypertension\tWe report a case about a female with essential <target> hypertension </target> on drug treatment with amlodipine developed loss of taste sensation .",
+        "D017311\tChemical\tamlodipine\tWe report a case about a female with essential hypertension on drug treatment with <target> amlodipine </target> developed loss of taste sensation .",
+        "D012678\tDisease\tloss of taste sensation\tWe report a case about a female with essential hypertension on drug treatment with amlodipine developed <target> loss of taste sensation </target> .",
+        "D017311\tChemical\tamlodipine\tWe conclude that <target> amlodipine </target> can cause dysguesia .",
+        "D004408\tDisease\tdysguesia\tWe conclude that amlodipine can cause <target> dysguesia </target> .",
+        "D017311\tChemical\tamlodipine\tHere , we describe the clinical presentation and review the relevant literature on <target> amlodipine </target> and dysguesia .",
+        "D004408\tDisease\tdysguesia\tHere , we describe the clinical presentation and review the relevant literature on amlodipine and <target> dysguesia </target> ."
+    ],
+    "lines_lemma": [
+        "D004408\tDisease\tDysguesia\tbe <target> Dysguesia </target> go to be a rare or a Common side-effect of Amlodipine ?",
+        "D017311\tChemical\tAmlodipine\tbe Dysguesia go to be a rare or a Common side-effect of <target> amlodipine </target> ?",
+        "D017311\tChemical\tamlodipine\ta very rare side-effect of <target> amlodipine </target> be dysguesia .",
+        "D004408\tDisease\tdysguesia\ta very rare side-effect of amlodipine be <target> dysguesia </target> .",
+        "D006973\tDisease\thypertension\twe report a case about a female with essential <target> hypertension </target> on drug treatment with amlodipine develop loss of taste sensation .",
+        "D017311\tChemical\tamlodipine\twe report a case about a female with essential hypertension on drug treatment with <target> amlodipine </target> develop loss of taste sensation .",
+        "D012678\tDisease\tloss of taste sensation\twe report a case about a female with essential hypertension on drug treatment with amlodipine develop <target> loss of taste sensation </target> .",
+        "D017311\tChemical\tamlodipine\twe conclude that <target> amlodipine </target> can cause dysguesia .",
+        "D004408\tDisease\tdysguesia\twe conclude that amlodipine can cause <target> dysguesia </target> .",
+        "D017311\tChemical\tamlodipine\there , we describe the clinical presentation and review the relevant literature on <target> amlodipine </target> and dysguesia .",
+        "D004408\tDisease\tdysguesia\there , we describe the clinical presentation and review the relevant literature on amlodipine and <target> dysguesia </target> ."
+    ]
+}

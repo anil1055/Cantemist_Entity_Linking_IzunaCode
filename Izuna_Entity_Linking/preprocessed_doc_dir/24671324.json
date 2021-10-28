@@ -1,0 +1,165 @@
+{
+    "title": "Necrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia.",
+    "abst": "Bortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies. However, information is limited concerning the safety of the regimen in elderly patients. We report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib, high-dose dexamethasone and rituximab. Despite immediate intravenous antimicrobial therapy, he succumbed 23 h after the onset. Physicians should recognise the possibility of fatal bacterial infections related to bortezomib plus high-dose dexamethasone in elderly patients, and we believe this case warrants further investigation.",
+    "title_plus_abst": "Necrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia. Bortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies. However, information is limited concerning the safety of the regimen in elderly patients. We report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib, high-dose dexamethasone and rituximab. Despite immediate intravenous antimicrobial therapy, he succumbed 23 h after the onset. Physicians should recognise the possibility of fatal bacterial infections related to bortezomib plus high-dose dexamethasone in elderly patients, and we believe this case warrants further investigation.",
+    "pubmed_id": "24671324",
+    "entities": [
+        [
+            0,
+            21,
+            "Necrotising fasciitis",
+            "Disease",
+            "D019115"
+        ],
+        [
+            28,
+            38,
+            "bortezomib",
+            "Chemical",
+            "C400082"
+        ],
+        [
+            43,
+            56,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ],
+        [
+            101,
+            131,
+            "Waldenstrom macroglobulinaemia",
+            "Disease",
+            "D008258"
+        ],
+        [
+            133,
+            143,
+            "Bortezomib",
+            "Chemical",
+            "C400082"
+        ],
+        [
+            158,
+            171,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ],
+        [
+            249,
+            269,
+            "bacterial infections",
+            "Disease",
+            "D001424"
+        ],
+        [
+            294,
+            306,
+            "malignancies",
+            "Disease",
+            "D009369"
+        ],
+        [
+            441,
+            471,
+            "Waldenstrom macroglobulinaemia",
+            "Disease",
+            "D008258"
+        ],
+        [
+            485,
+            506,
+            "necrotising fasciitis",
+            "Disease",
+            "D019115"
+        ],
+        [
+            515,
+            526,
+            "neutropenia",
+            "Disease",
+            "D009503"
+        ],
+        [
+            564,
+            574,
+            "bortezomib",
+            "Chemical",
+            "C400082"
+        ],
+        [
+            586,
+            599,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ],
+        [
+            756,
+            776,
+            "bacterial infections",
+            "Disease",
+            "D001424"
+        ],
+        [
+            788,
+            798,
+            "bortezomib",
+            "Chemical",
+            "C400082"
+        ],
+        [
+            814,
+            827,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ]
+    ],
+    "split_sentence": [
+        "Necrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia.",
+        "Bortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies.",
+        "However, information is limited concerning the safety of the regimen in elderly patients.",
+        "We report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib, high-dose dexamethasone and rituximab.",
+        "Despite immediate intravenous antimicrobial therapy, he succumbed 23 h after the onset.",
+        "Physicians should recognise the possibility of fatal bacterial infections related to bortezomib plus high-dose dexamethasone in elderly patients, and we believe this case warrants further investigation."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019115\tDisease\tNecrotising fasciitis\t<target> Necrotising fasciitis </target> after bortezomib and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia .",
+        "C400082\tChemical\tbortezomib\tNecrotising fasciitis after <target> bortezomib </target> and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia .",
+        "D003907\tChemical\tdexamethasone\tNecrotising fasciitis after bortezomib and <target> dexamethasone </target> -containing regimen in an elderly patient of Waldenstrom macroglobulinaemia .",
+        "D008258\tDisease\tWaldenstrom macroglobulinaemia\tNecrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of <target> Waldenstrom macroglobulinaemia </target> .",
+        "C400082\tChemical\tBortezomib\t<target> Bortezomib </target> and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies .",
+        "D003907\tChemical\tdexamethasone\tBortezomib and high-dose <target> dexamethasone </target> -containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies .",
+        "D001424\tDisease\tbacterial infections\tBortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe <target> bacterial infections </target> in patients with B-cell malignancies .",
+        "D009369\tDisease\tmalignancies\tBortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell <target> malignancies </target> .",
+        "D008258\tDisease\tWaldenstrom macroglobulinaemia\tWe report a case of a 76-year-old man with <target> Waldenstrom macroglobulinaemia </target> who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib , high-dose dexamethasone and rituximab .",
+        "D019115\tDisease\tnecrotising fasciitis\tWe report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered <target> necrotising fasciitis </target> without neutropenia after the combination treatment with bortezomib , high-dose dexamethasone and rituximab .",
+        "D009503\tDisease\tneutropenia\tWe report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without <target> neutropenia </target> after the combination treatment with bortezomib , high-dose dexamethasone and rituximab .",
+        "C400082\tChemical\tbortezomib\tWe report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with <target> bortezomib </target> , high-dose dexamethasone and rituximab .",
+        "D003907\tChemical\tdexamethasone\tWe report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib , high-dose <target> dexamethasone </target> and rituximab .",
+        "D001424\tDisease\tbacterial infections\tPhysicians should recognise the possibility of fatal <target> bacterial infections </target> related to bortezomib plus high-dose dexamethasone in elderly patients , and we believe this case warrants further investigation .",
+        "C400082\tChemical\tbortezomib\tPhysicians should recognise the possibility of fatal bacterial infections related to <target> bortezomib </target> plus high-dose dexamethasone in elderly patients , and we believe this case warrants further investigation .",
+        "D003907\tChemical\tdexamethasone\tPhysicians should recognise the possibility of fatal bacterial infections related to bortezomib plus high-dose <target> dexamethasone </target> in elderly patients , and we believe this case warrants further investigation ."
+    ],
+    "lines_lemma": [
+        "D019115\tDisease\tNecrotising fasciitis\t<target> necrotising fasciitis </target> after bortezomib and dexamethasone-containing regimen in an elderly patient of waldenstrom macroglobulinaemia .",
+        "C400082\tChemical\tbortezomib\tnecrotising fasciitis after <target> bortezomib </target> and dexamethasone-containing regimen in an elderly patient of waldenstrom macroglobulinaemia .",
+        "D003907\tChemical\tdexamethasone\tnecrotising fasciitis after bortezomib and <target> dexamethasone </target> -containing regimen in an elderly patient of waldenstrom macroglobulinaemia .",
+        "D008258\tDisease\tWaldenstrom macroglobulinaemia\tnecrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of <target> waldenstrom macroglobulinaemia </target> .",
+        "C400082\tChemical\tBortezomib\t<target> Bortezomib </target> and high-dose dexamethasone-containing regimen be consider to be generally tolerable with few severe bacterial infection in patient with b-cell malignancy .",
+        "D003907\tChemical\tdexamethasone\tBortezomib and high-dose <target> dexamethasone </target> -containing regimen be consider to be generally tolerable with few severe bacterial infection in patient with b-cell malignancy .",
+        "D001424\tDisease\tbacterial infections\tBortezomib and high-dose dexamethasone-containing regimen be consider to be generally tolerable with few severe <target> bacterial infection </target> in patient with b-cell malignancy .",
+        "D009369\tDisease\tmalignancies\tBortezomib and high-dose dexamethasone-containing regimen be consider to be generally tolerable with few severe bacterial infection in patient with b-cell <target> malignancy </target> .",
+        "D008258\tDisease\tWaldenstrom macroglobulinaemia\twe report a case of a 76-year-old man with <target> waldenstrom macroglobulinaemia </target> who suffer necrotising fasciitis without neutropenia after the combination treatment with bortezomib , high-dose dexamethasone and rituximab .",
+        "D019115\tDisease\tnecrotising fasciitis\twe report a case of a 76-year-old man with waldenstrom macroglobulinaemia who suffer <target> necrotising fasciitis </target> without neutropenia after the combination treatment with bortezomib , high-dose dexamethasone and rituximab .",
+        "D009503\tDisease\tneutropenia\twe report a case of a 76-year-old man with waldenstrom macroglobulinaemia who suffer necrotising fasciitis without <target> neutropenia </target> after the combination treatment with bortezomib , high-dose dexamethasone and rituximab .",
+        "C400082\tChemical\tbortezomib\twe report a case of a 76-year-old man with waldenstrom macroglobulinaemia who suffer necrotising fasciitis without neutropenia after the combination treatment with <target> bortezomib </target> , high-dose dexamethasone and rituximab .",
+        "D003907\tChemical\tdexamethasone\twe report a case of a 76-year-old man with waldenstrom macroglobulinaemia who suffer necrotising fasciitis without neutropenia after the combination treatment with bortezomib , high-dose <target> dexamethasone </target> and rituximab .",
+        "D001424\tDisease\tbacterial infections\tPhysicians should recognise the possibility of fatal <target> bacterial infection </target> related to bortezomib plus high-dose dexamethasone in elderly patient , and we believe this case warrant further investigation .",
+        "C400082\tChemical\tbortezomib\tPhysicians should recognise the possibility of fatal bacterial infection related to <target> bortezomib </target> plus high-dose dexamethasone in elderly patient , and we believe this case warrant further investigation .",
+        "D003907\tChemical\tdexamethasone\tPhysicians should recognise the possibility of fatal bacterial infection related to bortezomib plus high-dose <target> dexamethasone </target> in elderly patient , and we believe this case warrant further investigation ."
+    ]
+}

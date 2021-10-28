@@ -1,0 +1,127 @@
+{
+    "title": "Intravascular hemolysis and acute renal failure following intermittent rifampin therapy.",
+    "abst": "Renal failure is a rare complication associated with the use of rifampin. Intravascular hemolysis leading to acute renal failure following rifampin therapy is extremely rare. Two patients with leprosy who developed hemolysis and acute renal failure following rifampin are reported.",
+    "title_plus_abst": "Intravascular hemolysis and acute renal failure following intermittent rifampin therapy. Renal failure is a rare complication associated with the use of rifampin. Intravascular hemolysis leading to acute renal failure following rifampin therapy is extremely rare. Two patients with leprosy who developed hemolysis and acute renal failure following rifampin are reported.",
+    "pubmed_id": "1522360",
+    "entities": [
+        [
+            14,
+            23,
+            "hemolysis",
+            "Disease",
+            "D006461"
+        ],
+        [
+            28,
+            47,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            71,
+            79,
+            "rifampin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            89,
+            102,
+            "Renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            153,
+            161,
+            "rifampin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            177,
+            186,
+            "hemolysis",
+            "Disease",
+            "D006461"
+        ],
+        [
+            198,
+            217,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            228,
+            236,
+            "rifampin",
+            "Chemical",
+            "D012293"
+        ],
+        [
+            282,
+            289,
+            "leprosy",
+            "Disease",
+            "D007918"
+        ],
+        [
+            304,
+            313,
+            "hemolysis",
+            "Disease",
+            "D006461"
+        ],
+        [
+            318,
+            337,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            348,
+            356,
+            "rifampin",
+            "Chemical",
+            "D012293"
+        ]
+    ],
+    "split_sentence": [
+        "Intravascular hemolysis and acute renal failure following intermittent rifampin therapy.",
+        "Renal failure is a rare complication associated with the use of rifampin.",
+        "Intravascular hemolysis leading to acute renal failure following rifampin therapy is extremely rare.",
+        "Two patients with leprosy who developed hemolysis and acute renal failure following rifampin are reported."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006461\tDisease\themolysis\tIntravascular <target> hemolysis </target> and acute renal failure following intermittent rifampin therapy .",
+        "D058186\tDisease\tacute renal failure\tIntravascular hemolysis and <target> acute renal failure </target> following intermittent rifampin therapy .",
+        "D012293\tChemical\trifampin\tIntravascular hemolysis and acute renal failure following intermittent <target> rifampin </target> therapy .",
+        "D051437\tDisease\tRenal failure\t<target> Renal failure </target> is a rare complication associated with the use of rifampin .",
+        "D012293\tChemical\trifampin\tRenal failure is a rare complication associated with the use of <target> rifampin </target> .",
+        "D006461\tDisease\themolysis\tIntravascular <target> hemolysis </target> leading to acute renal failure following rifampin therapy is extremely rare .",
+        "D058186\tDisease\tacute renal failure\tIntravascular hemolysis leading to <target> acute renal failure </target> following rifampin therapy is extremely rare .",
+        "D012293\tChemical\trifampin\tIntravascular hemolysis leading to acute renal failure following <target> rifampin </target> therapy is extremely rare .",
+        "D007918\tDisease\tleprosy\tTwo patients with <target> leprosy </target> who developed hemolysis and acute renal failure following rifampin are reported .",
+        "D006461\tDisease\themolysis\tTwo patients with leprosy who developed <target> hemolysis </target> and acute renal failure following rifampin are reported .",
+        "D058186\tDisease\tacute renal failure\tTwo patients with leprosy who developed hemolysis and <target> acute renal failure </target> following rifampin are reported .",
+        "D012293\tChemical\trifampin\tTwo patients with leprosy who developed hemolysis and acute renal failure following <target> rifampin </target> are reported ."
+    ],
+    "lines_lemma": [
+        "D006461\tDisease\themolysis\tintravascular <target> hemolysis </target> and acute renal failure follow intermittent rifampin therapy .",
+        "D058186\tDisease\tacute renal failure\tintravascular hemolysis and <target> acute renal failure </target> follow intermittent rifampin therapy .",
+        "D012293\tChemical\trifampin\tintravascular hemolysis and acute renal failure follow intermittent <target> rifampin </target> therapy .",
+        "D051437\tDisease\tRenal failure\t<target> renal failure </target> be a rare complication associate with the use of rifampin .",
+        "D012293\tChemical\trifampin\trenal failure be a rare complication associate with the use of <target> rifampin </target> .",
+        "D006461\tDisease\themolysis\tintravascular <target> hemolysis </target> lead to acute renal failure follow rifampin therapy be extremely rare .",
+        "D058186\tDisease\tacute renal failure\tintravascular hemolysis lead to <target> acute renal failure </target> follow rifampin therapy be extremely rare .",
+        "D012293\tChemical\trifampin\tintravascular hemolysis lead to acute renal failure follow <target> rifampin </target> therapy be extremely rare .",
+        "D007918\tDisease\tleprosy\ttwo patient with <target> leprosy </target> who develop hemolysis and acute renal failure follow rifampin be report .",
+        "D006461\tDisease\themolysis\ttwo patient with leprosy who develop <target> hemolysis </target> and acute renal failure follow rifampin be report .",
+        "D058186\tDisease\tacute renal failure\ttwo patient with leprosy who develop hemolysis and <target> acute renal failure </target> follow rifampin be report .",
+        "D012293\tChemical\trifampin\ttwo patient with leprosy who develop hemolysis and acute renal failure follow <target> rifampin </target> be report ."
+    ]
+}

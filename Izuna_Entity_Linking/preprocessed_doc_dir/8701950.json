@@ -1,0 +1,201 @@
+{
+    "title": "Microangiopathic hemolytic anemia complicating FK506 (tacrolimus) therapy.",
+    "abst": "We describe 3 episodes of microangiopathic hemolytic anemia (MAHA) in 2 solid organ recipients under FK506 (tacrolimus) therapy. In both cases, discontinuation of FK506 and treatment with plasma exchange, fresh frozen plasma replacement, corticosteroids, aspirin, and dipyridamole led to resolution of MAHA. In one patient, reintroduction of FK506 led to rapid recurrence of MAHA. FK506-associated MAHA is probably rare but physicians must be aware of this severe complication. In our experience and according to the literature, FK506 does not seem to cross-react with cyclosporin A (CyA), an immuno-suppressive drug already known to induce MAHA.",
+    "title_plus_abst": "Microangiopathic hemolytic anemia complicating FK506 (tacrolimus) therapy. We describe 3 episodes of microangiopathic hemolytic anemia (MAHA) in 2 solid organ recipients under FK506 (tacrolimus) therapy. In both cases, discontinuation of FK506 and treatment with plasma exchange, fresh frozen plasma replacement, corticosteroids, aspirin, and dipyridamole led to resolution of MAHA. In one patient, reintroduction of FK506 led to rapid recurrence of MAHA. FK506-associated MAHA is probably rare but physicians must be aware of this severe complication. In our experience and according to the literature, FK506 does not seem to cross-react with cyclosporin A (CyA), an immuno-suppressive drug already known to induce MAHA.",
+    "pubmed_id": "8701950",
+    "entities": [
+        [
+            0,
+            33,
+            "Microangiopathic hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            47,
+            52,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            54,
+            64,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            101,
+            134,
+            "microangiopathic hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            136,
+            140,
+            "MAHA",
+            "Disease",
+            "D000743"
+        ],
+        [
+            176,
+            181,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            183,
+            193,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            238,
+            243,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            313,
+            328,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            330,
+            337,
+            "aspirin",
+            "Chemical",
+            "D001241"
+        ],
+        [
+            343,
+            355,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            377,
+            381,
+            "MAHA",
+            "Disease",
+            "D000743"
+        ],
+        [
+            417,
+            422,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            450,
+            454,
+            "MAHA",
+            "Disease",
+            "D000743"
+        ],
+        [
+            456,
+            461,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            473,
+            477,
+            "MAHA",
+            "Disease",
+            "D000743"
+        ],
+        [
+            604,
+            609,
+            "FK506",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            644,
+            657,
+            "cyclosporin A",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            659,
+            662,
+            "CyA",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            716,
+            720,
+            "MAHA",
+            "Disease",
+            "D000743"
+        ]
+    ],
+    "split_sentence": [
+        "Microangiopathic hemolytic anemia complicating FK506 (tacrolimus) therapy.",
+        "We describe 3 episodes of microangiopathic hemolytic anemia (MAHA) in 2 solid organ recipients under FK506 (tacrolimus) therapy.",
+        "In both cases, discontinuation of FK506 and treatment with plasma exchange, fresh frozen plasma replacement, corticosteroids, aspirin, and dipyridamole led to resolution of MAHA.",
+        "In one patient, reintroduction of FK506 led to rapid recurrence of MAHA.",
+        "FK506-associated MAHA is probably rare but physicians must be aware of this severe complication.",
+        "In our experience and according to the literature, FK506 does not seem to cross-react with cyclosporin A (CyA), an immuno-suppressive drug already known to induce MAHA."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000743\tDisease\tMicroangiopathic hemolytic anemia\t<target> Microangiopathic hemolytic anemia </target> complicating FK506 ( tacrolimus ) therapy .",
+        "D016559\tChemical\tFK506\tMicroangiopathic hemolytic anemia complicating <target> FK506 </target> ( tacrolimus ) therapy .",
+        "D016559\tChemical\ttacrolimus\tMicroangiopathic hemolytic anemia complicating FK506 ( <target> tacrolimus </target> ) therapy .",
+        "D000743\tDisease\tmicroangiopathic hemolytic anemia\tWe describe 3 episodes of <target> microangiopathic hemolytic anemia </target> ( MAHA ) in 2 solid organ recipients under FK506 ( tacrolimus ) therapy .",
+        "D000743\tDisease\tMAHA\tWe describe 3 episodes of microangiopathic hemolytic anemia ( <target> MAHA </target> ) in 2 solid organ recipients under FK506 ( tacrolimus ) therapy .",
+        "D016559\tChemical\tFK506\tWe describe 3 episodes of microangiopathic hemolytic anemia ( MAHA ) in 2 solid organ recipients under <target> FK506 </target> ( tacrolimus ) therapy .",
+        "D016559\tChemical\ttacrolimus\tWe describe 3 episodes of microangiopathic hemolytic anemia ( MAHA ) in 2 solid organ recipients under FK506 ( <target> tacrolimus </target> ) therapy .",
+        "D016559\tChemical\tFK506\tIn both cases , discontinuation of <target> FK506 </target> and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroids , aspirin , and dipyridamole led to resolution of MAHA .",
+        "D000305\tChemical\tcorticosteroids\tIn both cases , discontinuation of FK506 and treatment with plasma exchange , fresh frozen plasma replacement , <target> corticosteroids </target> , aspirin , and dipyridamole led to resolution of MAHA .",
+        "D001241\tChemical\taspirin\tIn both cases , discontinuation of FK506 and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroids , <target> aspirin </target> , and dipyridamole led to resolution of MAHA .",
+        "D004176\tChemical\tdipyridamole\tIn both cases , discontinuation of FK506 and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroids , aspirin , and <target> dipyridamole </target> led to resolution of MAHA .",
+        "D000743\tDisease\tMAHA\tIn both cases , discontinuation of FK506 and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroids , aspirin , and dipyridamole led to resolution of <target> MAHA </target> .",
+        "D016559\tChemical\tFK506\tIn one patient , reintroduction of <target> FK506 </target> led to rapid recurrence of MAHA .",
+        "D000743\tDisease\tMAHA\tIn one patient , reintroduction of FK506 led to rapid recurrence of <target> MAHA </target> .",
+        "D016559\tChemical\tFK506\t<target> FK506 </target> -associated MAHA is probably rare but physicians must be aware of this severe complication .",
+        "D000743\tDisease\tMAHA\tFK506-associated <target> MAHA </target> is probably rare but physicians must be aware of this severe complication .",
+        "D016559\tChemical\tFK506\tIn our experience and according to the literature , <target> FK506 </target> does not seem to cross-react with cyclosporin A ( CyA ) , an immuno-suppressive drug already known to induce MAHA .",
+        "D016572\tChemical\tcyclosporin A\tIn our experience and according to the literature , FK506 does not seem to cross-react with <target> cyclosporin A </target> ( CyA ) , an immuno-suppressive drug already known to induce MAHA .",
+        "D016572\tChemical\tCyA\tIn our experience and according to the literature , FK506 does not seem to cross-react with cyclosporin A ( <target> CyA </target> ) , an immuno-suppressive drug already known to induce MAHA .",
+        "D000743\tDisease\tMAHA\tIn our experience and according to the literature , FK506 does not seem to cross-react with cyclosporin A ( CyA ) , an immuno-suppressive drug already known to induce <target> MAHA </target> ."
+    ],
+    "lines_lemma": [
+        "D000743\tDisease\tMicroangiopathic hemolytic anemia\t<target> microangiopathic hemolytic anemia </target> complicate fk506 ( tacrolimus ) therapy .",
+        "D016559\tChemical\tFK506\tmicroangiopathic hemolytic anemia complicate <target> fk506 </target> ( tacrolimus ) therapy .",
+        "D016559\tChemical\ttacrolimus\tmicroangiopathic hemolytic anemia complicate fk506 ( <target> tacrolimus </target> ) therapy .",
+        "D000743\tDisease\tmicroangiopathic hemolytic anemia\twe describe 3 episode of <target> microangiopathic hemolytic anemia </target> ( maha ) in 2 solid organ recipient under fk506 ( tacrolimus ) therapy .",
+        "D000743\tDisease\tMAHA\twe describe 3 episode of microangiopathic hemolytic anemia ( <target> maha </target> ) in 2 solid organ recipient under fk506 ( tacrolimus ) therapy .",
+        "D016559\tChemical\tFK506\twe describe 3 episode of microangiopathic hemolytic anemia ( maha ) in 2 solid organ recipient under <target> fk506 </target> ( tacrolimus ) therapy .",
+        "D016559\tChemical\ttacrolimus\twe describe 3 episode of microangiopathic hemolytic anemia ( maha ) in 2 solid organ recipient under fk506 ( <target> tacrolimus </target> ) therapy .",
+        "D016559\tChemical\tFK506\tin both case , discontinuation of <target> fk506 </target> and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroid , aspirin , and dipyridamole lead to resolution of maha .",
+        "D000305\tChemical\tcorticosteroids\tin both case , discontinuation of fk506 and treatment with plasma exchange , fresh frozen plasma replacement , <target> corticosteroid </target> , aspirin , and dipyridamole lead to resolution of maha .",
+        "D001241\tChemical\taspirin\tin both case , discontinuation of fk506 and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroid , <target> aspirin </target> , and dipyridamole lead to resolution of maha .",
+        "D004176\tChemical\tdipyridamole\tin both case , discontinuation of fk506 and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroid , aspirin , and <target> dipyridamole </target> lead to resolution of maha .",
+        "D000743\tDisease\tMAHA\tin both case , discontinuation of fk506 and treatment with plasma exchange , fresh frozen plasma replacement , corticosteroid , aspirin , and dipyridamole lead to resolution of <target> maha </target> .",
+        "D016559\tChemical\tFK506\tin one patient , reintroduction of <target> fk506 </target> lead to rapid recurrence of maha .",
+        "D000743\tDisease\tMAHA\tin one patient , reintroduction of fk506 lead to rapid recurrence of <target> maha </target> .",
+        "D016559\tChemical\tFK506\t<target> fk506 </target> -associated maha be probably rare but physician must be aware of this severe complication .",
+        "D000743\tDisease\tMAHA\tfk506-associated <target> maha </target> be probably rare but physician must be aware of this severe complication .",
+        "D016559\tChemical\tFK506\tin our experience and accord to the literature , <target> fk506 </target> do not seem to cross-react with cyclosporin a ( cya ) , an immuno-suppressive drug already know to induce maha .",
+        "D016572\tChemical\tcyclosporin A\tin our experience and accord to the literature , fk506 do not seem to cross-react with <target> cyclosporin a </target> ( cya ) , an immuno-suppressive drug already know to induce maha .",
+        "D016572\tChemical\tCyA\tin our experience and accord to the literature , fk506 do not seem to cross-react with cyclosporin a ( <target> cya </target> ) , an immuno-suppressive drug already know to induce maha .",
+        "D000743\tDisease\tMAHA\tin our experience and accord to the literature , fk506 do not seem to cross-react with cyclosporin a ( cya ) , an immuno-suppressive drug already know to induce <target> maha </target> ."
+    ]
+}

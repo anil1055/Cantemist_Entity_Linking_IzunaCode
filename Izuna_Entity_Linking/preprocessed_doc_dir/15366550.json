@@ -1,0 +1,157 @@
+{
+    "title": "Accurate patient history contributes to differentiating diabetes insipidus: a case study.",
+    "abst": "This case study highlights the important contribution of nursing in obtaining an accurate health history. The case discussed herein initially appeared to be neurogenic diabetes insipidus (DI) secondary to a traumatic brain injury. The nursing staff, by reviewing the patient's health history with his family, discovered a history of polydipsia and long-standing lithium use. Lithium is implicated in drug-induced nephrogenic DI, and because the patient had not received lithium since being admitted to the hospital, his treatment changed to focus on nephrogenic DI. By combining information from the patient history, the physical examination, and radiologic and laboratory studies, the critical care team demonstrated that the patient had been self-treating his lithium-induced nephrogenic DI and developed neurogenic DI secondary to brain trauma. Thus successful treatment required that nephrogenic and neurogenic DI be treated concomitantly.",
+    "title_plus_abst": "Accurate patient history contributes to differentiating diabetes insipidus: a case study. This case study highlights the important contribution of nursing in obtaining an accurate health history. The case discussed herein initially appeared to be neurogenic diabetes insipidus (DI) secondary to a traumatic brain injury. The nursing staff, by reviewing the patient's health history with his family, discovered a history of polydipsia and long-standing lithium use. Lithium is implicated in drug-induced nephrogenic DI, and because the patient had not received lithium since being admitted to the hospital, his treatment changed to focus on nephrogenic DI. By combining information from the patient history, the physical examination, and radiologic and laboratory studies, the critical care team demonstrated that the patient had been self-treating his lithium-induced nephrogenic DI and developed neurogenic DI secondary to brain trauma. Thus successful treatment required that nephrogenic and neurogenic DI be treated concomitantly.",
+    "pubmed_id": "15366550",
+    "entities": [
+        [
+            56,
+            74,
+            "diabetes insipidus",
+            "Disease",
+            "D003919"
+        ],
+        [
+            247,
+            276,
+            "neurogenic diabetes insipidus",
+            "Disease",
+            "D018500"
+        ],
+        [
+            278,
+            280,
+            "DI",
+            "Disease",
+            "D003919"
+        ],
+        [
+            297,
+            319,
+            "traumatic brain injury",
+            "Disease",
+            "D001930"
+        ],
+        [
+            423,
+            433,
+            "polydipsia",
+            "Disease",
+            "D059606"
+        ],
+        [
+            452,
+            459,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            465,
+            472,
+            "Lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            503,
+            517,
+            "nephrogenic DI",
+            "Disease",
+            "D018500"
+        ],
+        [
+            560,
+            567,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            640,
+            654,
+            "nephrogenic DI",
+            "Disease",
+            "D018500"
+        ],
+        [
+            852,
+            859,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            868,
+            882,
+            "nephrogenic DI",
+            "Disease",
+            "D018500"
+        ],
+        [
+            897,
+            910,
+            "neurogenic DI",
+            "Disease",
+            "D018500"
+        ],
+        [
+            924,
+            936,
+            "brain trauma",
+            "Disease",
+            "D001930"
+        ],
+        [
+            994,
+            1007,
+            "neurogenic DI",
+            "Disease",
+            "D018500"
+        ]
+    ],
+    "split_sentence": [
+        "Accurate patient history contributes to differentiating diabetes insipidus: a case study.",
+        "This case study highlights the important contribution of nursing in obtaining an accurate health history.",
+        "The case discussed herein initially appeared to be neurogenic diabetes insipidus (DI) secondary to a traumatic brain injury.",
+        "The nursing staff, by reviewing the patient's health history with his family, discovered a history of polydipsia and long-standing lithium use.",
+        "Lithium is implicated in drug-induced nephrogenic DI, and because the patient had not received lithium since being admitted to the hospital, his treatment changed to focus on nephrogenic DI.",
+        "By combining information from the patient history, the physical examination, and radiologic and laboratory studies, the critical care team demonstrated that the patient had been self-treating his lithium-induced nephrogenic DI and developed neurogenic DI secondary to brain trauma.",
+        "Thus successful treatment required that nephrogenic and neurogenic DI be treated concomitantly."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003919\tDisease\tdiabetes insipidus\tAccurate patient history contributes to differentiating <target> diabetes insipidus </target> : a case study .",
+        "D018500\tDisease\tneurogenic diabetes insipidus\tThe case discussed herein initially appeared to be <target> neurogenic diabetes insipidus </target> ( DI ) secondary to a traumatic brain injury .",
+        "D003919\tDisease\tDI\tThe case discussed herein initially appeared to be neurogenic diabetes insipidus ( <target> DI </target> ) secondary to a traumatic brain injury .",
+        "D001930\tDisease\ttraumatic brain injury\tThe case discussed herein initially appeared to be neurogenic diabetes insipidus ( DI ) secondary to a <target> traumatic brain injury </target> .",
+        "D059606\tDisease\tpolydipsia\tThe nursing staff , by reviewing the patient 's health history with his family , discovered a history of <target> polydipsia </target> and long-standing lithium use .",
+        "D008094\tChemical\tlithium\tThe nursing staff , by reviewing the patient 's health history with his family , discovered a history of polydipsia and long-standing <target> lithium </target> use .",
+        "D008094\tChemical\tLithium\t<target> Lithium </target> is implicated in drug-induced nephrogenic DI , and because the patient had not received lithium since being admitted to the hospital , his treatment changed to focus on nephrogenic DI .",
+        "D018500\tDisease\tnephrogenic DI\tLithium is implicated in drug-induced <target> nephrogenic DI </target> , and because the patient had not received lithium since being admitted to the hospital , his treatment changed to focus on nephrogenic DI .",
+        "D008094\tChemical\tlithium\tLithium is implicated in drug-induced nephrogenic DI , and because the patient had not received <target> lithium </target> since being admitted to the hospital , his treatment changed to focus on nephrogenic DI .",
+        "D018500\tDisease\tnephrogenic DI\tLithium is implicated in drug-induced nephrogenic DI , and because the patient had not received lithium since being admitted to the hospital , his treatment changed to focus on <target> nephrogenic DI </target> .",
+        "D008094\tChemical\tlithium\tBy combining information from the patient history , the physical examination , and radiologic and laboratory studies , the critical care team demonstrated that the patient had been self-treating his <target> lithium </target> -induced nephrogenic DI and developed neurogenic DI secondary to brain trauma .",
+        "D018500\tDisease\tnephrogenic DI\tBy combining information from the patient history , the physical examination , and radiologic and laboratory studies , the critical care team demonstrated that the patient had been self-treating his lithium-induced <target> nephrogenic DI </target> and developed neurogenic DI secondary to brain trauma .",
+        "D018500\tDisease\tneurogenic DI\tBy combining information from the patient history , the physical examination , and radiologic and laboratory studies , the critical care team demonstrated that the patient had been self-treating his lithium-induced nephrogenic DI and developed <target> neurogenic DI </target> secondary to brain trauma .",
+        "D001930\tDisease\tbrain trauma\tBy combining information from the patient history , the physical examination , and radiologic and laboratory studies , the critical care team demonstrated that the patient had been self-treating his lithium-induced nephrogenic DI and developed neurogenic DI secondary to <target> brain trauma </target> .",
+        "D018500\tDisease\tneurogenic DI\tThus successful treatment required that nephrogenic and <target> neurogenic DI </target> be treated concomitantly ."
+    ],
+    "lines_lemma": [
+        "D003919\tDisease\tdiabetes insipidus\taccurate patient history contribute to differentiate <target> diabete insipidu </target> : a case study .",
+        "D018500\tDisease\tneurogenic diabetes insipidus\tthe case discuss herein initially appear to be <target> neurogenic diabete insipidu </target> ( di ) secondary to a traumatic brain injury .",
+        "D003919\tDisease\tDI\tthe case discuss herein initially appear to be neurogenic diabete insipidu ( <target> di </target> ) secondary to a traumatic brain injury .",
+        "D001930\tDisease\ttraumatic brain injury\tthe case discuss herein initially appear to be neurogenic diabete insipidu ( di ) secondary to a <target> traumatic brain injury </target> .",
+        "D059606\tDisease\tpolydipsia\tthe nursing staff , by review the patient 's health history with his family , discover a history of <target> polydipsia </target> and long-standing lithium use .",
+        "D008094\tChemical\tlithium\tthe nursing staff , by review the patient 's health history with his family , discover a history of polydipsia and long-standing <target> lithium </target> use .",
+        "D008094\tChemical\tLithium\t<target> lithium </target> be implicate in drug-induced nephrogenic di , and because the patient have not receive lithium since be admit to the hospital , his treatment change to focus on nephrogenic di .",
+        "D018500\tDisease\tnephrogenic DI\tlithium be implicate in drug-induced <target> nephrogenic di </target> , and because the patient have not receive lithium since be admit to the hospital , his treatment change to focus on nephrogenic di .",
+        "D008094\tChemical\tlithium\tlithium be implicate in drug-induced nephrogenic di , and because the patient have not receive <target> lithium </target> since be admit to the hospital , his treatment change to focus on nephrogenic di .",
+        "D018500\tDisease\tnephrogenic DI\tlithium be implicate in drug-induced nephrogenic di , and because the patient have not receive lithium since be admit to the hospital , his treatment change to focus on <target> nephrogenic di </target> .",
+        "D008094\tChemical\tlithium\tby combine information from the patient history , the physical examination , and radiologic and laboratory study , the critical care team demonstrate that the patient have be self-treating his <target> lithium </target> -induced nephrogenic di and develop neurogenic di secondary to brain trauma .",
+        "D018500\tDisease\tnephrogenic DI\tby combine information from the patient history , the physical examination , and radiologic and laboratory study , the critical care team demonstrate that the patient have be self-treating his lithium-induced <target> nephrogenic di </target> and develop neurogenic di secondary to brain trauma .",
+        "D018500\tDisease\tneurogenic DI\tby combine information from the patient history , the physical examination , and radiologic and laboratory study , the critical care team demonstrate that the patient have be self-treating his lithium-induced nephrogenic di and develop <target> neurogenic di </target> secondary to brain trauma .",
+        "D001930\tDisease\tbrain trauma\tby combine information from the patient history , the physical examination , and radiologic and laboratory study , the critical care team demonstrate that the patient have be self-treating his lithium-induced nephrogenic di and develop neurogenic di secondary to <target> brain trauma </target> .",
+        "D018500\tDisease\tneurogenic DI\tthus successful treatment require that nephrogenic and <target> neurogenic di </target> be treat concomitantly ."
+    ]
+}

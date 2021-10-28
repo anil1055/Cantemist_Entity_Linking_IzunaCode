@@ -1,0 +1,138 @@
+{
+    "title": "Optimization of levodopa therapy.",
+    "abst": "While there is no single correct starting dose for levodopa therapy, many individuals can be started on either the 25/100 or controlled-release formula, following the general rule not to attempt to titrate carbidopa-levodopa to the point of \"normality,\" which can lead to toxicity. The physician should also determine the proper use of any adjunctive medications; such combined therapy has become the standard approach to treatment. Following the initial period of therapy, emerging difficulties require a reassessment of therapeutic approaches, such as dosage adjustment or introduction of a dopamine agonist. Other possible adverse effects--such as gastrointestinal disorders, orthostatic hypotension, levodopa-induced psychosis, sleep disturbances or parasomnias, or drug interactions--also require carefully monitored individual treatment. Nonpharmacologic concerns can help the Parkinson's disease patient achieve and maintain optimal functioning, including daily exercise, physical therapy, and involvement with support groups.",
+    "title_plus_abst": "Optimization of levodopa therapy. While there is no single correct starting dose for levodopa therapy, many individuals can be started on either the 25/100 or controlled-release formula, following the general rule not to attempt to titrate carbidopa-levodopa to the point of \"normality,\" which can lead to toxicity. The physician should also determine the proper use of any adjunctive medications; such combined therapy has become the standard approach to treatment. Following the initial period of therapy, emerging difficulties require a reassessment of therapeutic approaches, such as dosage adjustment or introduction of a dopamine agonist. Other possible adverse effects--such as gastrointestinal disorders, orthostatic hypotension, levodopa-induced psychosis, sleep disturbances or parasomnias, or drug interactions--also require carefully monitored individual treatment. Nonpharmacologic concerns can help the Parkinson's disease patient achieve and maintain optimal functioning, including daily exercise, physical therapy, and involvement with support groups.",
+    "pubmed_id": "1549199",
+    "entities": [
+        [
+            16,
+            24,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            85,
+            93,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            240,
+            249,
+            "carbidopa",
+            "Chemical",
+            "D002230"
+        ],
+        [
+            250,
+            258,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            306,
+            314,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            627,
+            635,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            685,
+            711,
+            "gastrointestinal disorders",
+            "Disease",
+            "D005767"
+        ],
+        [
+            713,
+            736,
+            "orthostatic hypotension",
+            "Disease",
+            "D007024"
+        ],
+        [
+            738,
+            746,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            755,
+            764,
+            "psychosis",
+            "Disease",
+            "D011618"
+        ],
+        [
+            766,
+            784,
+            "sleep disturbances",
+            "Disease",
+            "D012893"
+        ],
+        [
+            788,
+            799,
+            "parasomnias",
+            "Disease",
+            "D020447"
+        ],
+        [
+            917,
+            936,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ]
+    ],
+    "split_sentence": [
+        "Optimization of levodopa therapy.",
+        "While there is no single correct starting dose for levodopa therapy, many individuals can be started on either the 25/100 or controlled-release formula, following the general rule not to attempt to titrate carbidopa-levodopa to the point of \"normality,\" which can lead to toxicity.",
+        "The physician should also determine the proper use of any adjunctive medications; such combined therapy has become the standard approach to treatment.",
+        "Following the initial period of therapy, emerging difficulties require a reassessment of therapeutic approaches, such as dosage adjustment or introduction of a dopamine agonist.",
+        "Other possible adverse effects--such as gastrointestinal disorders, orthostatic hypotension, levodopa-induced psychosis, sleep disturbances or parasomnias, or drug interactions--also require carefully monitored individual treatment.",
+        "Nonpharmacologic concerns can help the Parkinson's disease patient achieve and maintain optimal functioning, including daily exercise, physical therapy, and involvement with support groups."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007980\tChemical\tlevodopa\tOptimization of <target> levodopa </target> therapy .",
+        "D007980\tChemical\tlevodopa\tWhile there is no single correct starting dose for <target> levodopa </target> therapy , many individuals can be started on either the 25/100 or controlled-release formula , following the general rule not to attempt to titrate carbidopa-levodopa to the point of \" normality , \" which can lead to toxicity .",
+        "D002230\tChemical\tcarbidopa\tWhile there is no single correct starting dose for levodopa therapy , many individuals can be started on either the 25/100 or controlled-release formula , following the general rule not to attempt to titrate <target> carbidopa </target> -levodopa to the point of \" normality , \" which can lead to toxicity .",
+        "D007980\tChemical\tlevodopa\tWhile there is no single correct starting dose for levodopa therapy , many individuals can be started on either the 25/100 or controlled-release formula , following the general rule not to attempt to titrate carbidopa- <target> levodopa </target> to the point of \" normality , \" which can lead to toxicity .",
+        "D064420\tDisease\ttoxicity\tWhile there is no single correct starting dose for levodopa therapy , many individuals can be started on either the 25/100 or controlled-release formula , following the general rule not to attempt to titrate carbidopa-levodopa to the point of \" normality , \" which can lead to <target> toxicity </target> .",
+        "D004298\tChemical\tdopamine\tFollowing the initial period of therapy , emerging difficulties require a reassessment of therapeutic approaches , such as dosage adjustment or introduction of a <target> dopamine </target> agonist .",
+        "D005767\tDisease\tgastrointestinal disorders\tOther possible adverse effects -- such as <target> gastrointestinal disorders </target> , orthostatic hypotension , levodopa-induced psychosis , sleep disturbances or parasomnias , or drug interactions -- also require carefully monitored individual treatment .",
+        "D007024\tDisease\torthostatic hypotension\tOther possible adverse effects -- such as gastrointestinal disorders , <target> orthostatic hypotension </target> , levodopa-induced psychosis , sleep disturbances or parasomnias , or drug interactions -- also require carefully monitored individual treatment .",
+        "D007980\tChemical\tlevodopa\tOther possible adverse effects -- such as gastrointestinal disorders , orthostatic hypotension , <target> levodopa </target> -induced psychosis , sleep disturbances or parasomnias , or drug interactions -- also require carefully monitored individual treatment .",
+        "D011618\tDisease\tpsychosis\tOther possible adverse effects -- such as gastrointestinal disorders , orthostatic hypotension , levodopa-induced <target> psychosis </target> , sleep disturbances or parasomnias , or drug interactions -- also require carefully monitored individual treatment .",
+        "D012893\tDisease\tsleep disturbances\tOther possible adverse effects -- such as gastrointestinal disorders , orthostatic hypotension , levodopa-induced psychosis , <target> sleep disturbances </target> or parasomnias , or drug interactions -- also require carefully monitored individual treatment .",
+        "D020447\tDisease\tparasomnias\tOther possible adverse effects -- such as gastrointestinal disorders , orthostatic hypotension , levodopa-induced psychosis , sleep disturbances or <target> parasomnias </target> , or drug interactions -- also require carefully monitored individual treatment .",
+        "D010300\tDisease\tParkinson's disease\tNonpharmacologic concerns can help the <target> Parkinson 's disease </target> patient achieve and maintain optimal functioning , including daily exercise , physical therapy , and involvement with support groups ."
+    ],
+    "lines_lemma": [
+        "D007980\tChemical\tlevodopa\toptimization of <target> levodopa </target> therapy .",
+        "D007980\tChemical\tlevodopa\twhile there be no single correct start dose for <target> levodopa </target> therapy , many individual can be start on either the 25/100 or controlled-release formula , follow the general rule not to attempt to titrate carbidopa-levodopa to the point of \" normality , \" which can lead to toxicity .",
+        "D002230\tChemical\tcarbidopa\twhile there be no single correct start dose for levodopa therapy , many individual can be start on either the 25/100 or controlled-release formula , follow the general rule not to attempt to titrate <target> carbidopa </target> -levodopa to the point of \" normality , \" which can lead to toxicity .",
+        "D007980\tChemical\tlevodopa\twhile there be no single correct start dose for levodopa therapy , many individual can be start on either the 25/100 or controlled-release formula , follow the general rule not to attempt to titrate carbidopa- <target> levodopa </target> to the point of \" normality , \" which can lead to toxicity .",
+        "D064420\tDisease\ttoxicity\twhile there be no single correct start dose for levodopa therapy , many individual can be start on either the 25/100 or controlled-release formula , follow the general rule not to attempt to titrate carbidopa-levodopa to the point of \" normality , \" which can lead to <target> toxicity </target> .",
+        "D004298\tChemical\tdopamine\tfollow the initial period of therapy , emerge difficulty require a reassessment of therapeutic approach , such as dosage adjustment or introduction of a <target> dopamine </target> agonist .",
+        "D005767\tDisease\tgastrointestinal disorders\tother possible adverse effect -- such as <target> gastrointestinal disorder </target> , orthostatic hypotension , levodopa-induced psychosis , sleep disturbance or parasomnia , or drug interaction -- also require carefully monitor individual treatment .",
+        "D007024\tDisease\torthostatic hypotension\tother possible adverse effect -- such as gastrointestinal disorder , <target> orthostatic hypotension </target> , levodopa-induced psychosis , sleep disturbance or parasomnia , or drug interaction -- also require carefully monitor individual treatment .",
+        "D007980\tChemical\tlevodopa\tother possible adverse effect -- such as gastrointestinal disorder , orthostatic hypotension , <target> levodopa </target> -induced psychosis , sleep disturbance or parasomnia , or drug interaction -- also require carefully monitor individual treatment .",
+        "D011618\tDisease\tpsychosis\tother possible adverse effect -- such as gastrointestinal disorder , orthostatic hypotension , levodopa-induced <target> psychosis </target> , sleep disturbance or parasomnia , or drug interaction -- also require carefully monitor individual treatment .",
+        "D012893\tDisease\tsleep disturbances\tother possible adverse effect -- such as gastrointestinal disorder , orthostatic hypotension , levodopa-induced psychosis , <target> sleep disturbance </target> or parasomnia , or drug interaction -- also require carefully monitor individual treatment .",
+        "D020447\tDisease\tparasomnias\tother possible adverse effect -- such as gastrointestinal disorder , orthostatic hypotension , levodopa-induced psychosis , sleep disturbance or <target> parasomnia </target> , or drug interaction -- also require carefully monitor individual treatment .",
+        "D010300\tDisease\tParkinson's disease\tnonpharmacologic concern can help the <target> Parkinson 's disease </target> patient achieve and maintain optimal functioning , include daily exercise , physical therapy , and involvement with support group ."
+    ]
+}

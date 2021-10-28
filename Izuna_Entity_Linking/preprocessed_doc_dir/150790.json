@@ -1,0 +1,195 @@
+{
+    "title": "A pyridoxine-dependent behavioral disorder unmasked by isoniazid.",
+    "abst": "A 3-year-old girl had behavioral deterioration, with hyperkinesis, irritability, and sleeping difficulties after the therapeutic administration of isoniazid. The administration of pharmacologic doses of pyridoxine hydrochloride led to a disappearance of symptoms. After discontinuing isoniazid therapy a similar pattern of behavior was noted that was controlled by pyridoxine. A placebo had no effect, but niacinamide was as effective as pyridoxine. Periodic withdrawal of pyridoxine was associated with return of the hyperkinesis. The level of pyridoxal in the blood was normal during the periods of relapse. Metabolic studies suggested a block in the kynurenine pathway of tryptophan metabolism. The patient has been followed for six years and has required pharmacologic doses of pyridoxine to control her behavior.",
+    "title_plus_abst": "A pyridoxine-dependent behavioral disorder unmasked by isoniazid. A 3-year-old girl had behavioral deterioration, with hyperkinesis, irritability, and sleeping difficulties after the therapeutic administration of isoniazid. The administration of pharmacologic doses of pyridoxine hydrochloride led to a disappearance of symptoms. After discontinuing isoniazid therapy a similar pattern of behavior was noted that was controlled by pyridoxine. A placebo had no effect, but niacinamide was as effective as pyridoxine. Periodic withdrawal of pyridoxine was associated with return of the hyperkinesis. The level of pyridoxal in the blood was normal during the periods of relapse. Metabolic studies suggested a block in the kynurenine pathway of tryptophan metabolism. The patient has been followed for six years and has required pharmacologic doses of pyridoxine to control her behavior.",
+    "pubmed_id": "150790",
+    "entities": [
+        [
+            2,
+            12,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            23,
+            42,
+            "behavioral disorder",
+            "Disease",
+            "D002653"
+        ],
+        [
+            55,
+            64,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            88,
+            112,
+            "behavioral deterioration",
+            "Disease",
+            "D002653"
+        ],
+        [
+            119,
+            131,
+            "hyperkinesis",
+            "Disease",
+            "D006948"
+        ],
+        [
+            133,
+            145,
+            "irritability",
+            "Disease",
+            "D001523"
+        ],
+        [
+            151,
+            172,
+            "sleeping difficulties",
+            "Disease",
+            "D012893"
+        ],
+        [
+            213,
+            222,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            269,
+            293,
+            "pyridoxine hydrochloride",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            350,
+            359,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            431,
+            441,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            472,
+            483,
+            "niacinamide",
+            "Chemical",
+            "D009536"
+        ],
+        [
+            504,
+            514,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            539,
+            549,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ],
+        [
+            584,
+            596,
+            "hyperkinesis",
+            "Disease",
+            "D006948"
+        ],
+        [
+            611,
+            620,
+            "pyridoxal",
+            "Chemical",
+            "D011730"
+        ],
+        [
+            719,
+            729,
+            "kynurenine",
+            "Chemical",
+            "D007737"
+        ],
+        [
+            741,
+            751,
+            "tryptophan",
+            "Chemical",
+            "D014364"
+        ],
+        [
+            848,
+            858,
+            "pyridoxine",
+            "Chemical",
+            "D011736"
+        ]
+    ],
+    "split_sentence": [
+        "A pyridoxine-dependent behavioral disorder unmasked by isoniazid.",
+        "A 3-year-old girl had behavioral deterioration, with hyperkinesis, irritability, and sleeping difficulties after the therapeutic administration of isoniazid.",
+        "The administration of pharmacologic doses of pyridoxine hydrochloride led to a disappearance of symptoms.",
+        "After discontinuing isoniazid therapy a similar pattern of behavior was noted that was controlled by pyridoxine.",
+        "A placebo had no effect, but niacinamide was as effective as pyridoxine.",
+        "Periodic withdrawal of pyridoxine was associated with return of the hyperkinesis.",
+        "The level of pyridoxal in the blood was normal during the periods of relapse.",
+        "Metabolic studies suggested a block in the kynurenine pathway of tryptophan metabolism.",
+        "The patient has been followed for six years and has required pharmacologic doses of pyridoxine to control her behavior."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011736\tChemical\tpyridoxine\tA <target> pyridoxine </target> -dependent behavioral disorder unmasked by isoniazid .",
+        "D002653\tDisease\tbehavioral disorder\tA pyridoxine-dependent <target> behavioral disorder </target> unmasked by isoniazid .",
+        "D007538\tChemical\tisoniazid\tA pyridoxine-dependent behavioral disorder unmasked by <target> isoniazid </target> .",
+        "D002653\tDisease\tbehavioral deterioration\tA 3-year-old girl had <target> behavioral deterioration </target> , with hyperkinesis , irritability , and sleeping difficulties after the therapeutic administration of isoniazid .",
+        "D006948\tDisease\thyperkinesis\tA 3-year-old girl had behavioral deterioration , with <target> hyperkinesis </target> , irritability , and sleeping difficulties after the therapeutic administration of isoniazid .",
+        "D001523\tDisease\tirritability\tA 3-year-old girl had behavioral deterioration , with hyperkinesis , <target> irritability </target> , and sleeping difficulties after the therapeutic administration of isoniazid .",
+        "D012893\tDisease\tsleeping difficulties\tA 3-year-old girl had behavioral deterioration , with hyperkinesis , irritability , and <target> sleeping difficulties </target> after the therapeutic administration of isoniazid .",
+        "D007538\tChemical\tisoniazid\tA 3-year-old girl had behavioral deterioration , with hyperkinesis , irritability , and sleeping difficulties after the therapeutic administration of <target> isoniazid </target> .",
+        "D011736\tChemical\tpyridoxine hydrochloride\tThe administration of pharmacologic doses of <target> pyridoxine hydrochloride </target> led to a disappearance of symptoms .",
+        "D007538\tChemical\tisoniazid\tAfter discontinuing <target> isoniazid </target> therapy a similar pattern of behavior was noted that was controlled by pyridoxine .",
+        "D011736\tChemical\tpyridoxine\tAfter discontinuing isoniazid therapy a similar pattern of behavior was noted that was controlled by <target> pyridoxine </target> .",
+        "D009536\tChemical\tniacinamide\tA placebo had no effect , but <target> niacinamide </target> was as effective as pyridoxine .",
+        "D011736\tChemical\tpyridoxine\tA placebo had no effect , but niacinamide was as effective as <target> pyridoxine </target> .",
+        "D011736\tChemical\tpyridoxine\tPeriodic withdrawal of <target> pyridoxine </target> was associated with return of the hyperkinesis .",
+        "D006948\tDisease\thyperkinesis\tPeriodic withdrawal of pyridoxine was associated with return of the <target> hyperkinesis </target> .",
+        "D011730\tChemical\tpyridoxal\tThe level of <target> pyridoxal </target> in the blood was normal during the periods of relapse .",
+        "D007737\tChemical\tkynurenine\tMetabolic studies suggested a block in the <target> kynurenine </target> pathway of tryptophan metabolism .",
+        "D014364\tChemical\ttryptophan\tMetabolic studies suggested a block in the kynurenine pathway of <target> tryptophan </target> metabolism .",
+        "D011736\tChemical\tpyridoxine\tThe patient has been followed for six years and has required pharmacologic doses of <target> pyridoxine </target> to control her behavior ."
+    ],
+    "lines_lemma": [
+        "D011736\tChemical\tpyridoxine\ta <target> pyridoxine </target> -dependent behavioral disorder unmask by isoniazid .",
+        "D002653\tDisease\tbehavioral disorder\ta pyridoxine-dependent <target> behavioral disorder </target> unmask by isoniazid .",
+        "D007538\tChemical\tisoniazid\ta pyridoxine-dependent behavioral disorder unmask by <target> isoniazid </target> .",
+        "D002653\tDisease\tbehavioral deterioration\ta 3-year-old girl have <target> behavioral deterioration </target> , with hyperkinesis , irritability , and sleep difficulty after the therapeutic administration of isoniazid .",
+        "D006948\tDisease\thyperkinesis\ta 3-year-old girl have behavioral deterioration , with <target> hyperkinesis </target> , irritability , and sleep difficulty after the therapeutic administration of isoniazid .",
+        "D001523\tDisease\tirritability\ta 3-year-old girl have behavioral deterioration , with hyperkinesis , <target> irritability </target> , and sleep difficulty after the therapeutic administration of isoniazid .",
+        "D012893\tDisease\tsleeping difficulties\ta 3-year-old girl have behavioral deterioration , with hyperkinesis , irritability , and <target> sleep difficulty </target> after the therapeutic administration of isoniazid .",
+        "D007538\tChemical\tisoniazid\ta 3-year-old girl have behavioral deterioration , with hyperkinesis , irritability , and sleep difficulty after the therapeutic administration of <target> isoniazid </target> .",
+        "D011736\tChemical\tpyridoxine hydrochloride\tthe administration of pharmacologic dose of <target> pyridoxine hydrochloride </target> lead to a disappearance of symptom .",
+        "D007538\tChemical\tisoniazid\tafter discontinue <target> isoniazid </target> therapy a similar pattern of behavior be note that be control by pyridoxine .",
+        "D011736\tChemical\tpyridoxine\tafter discontinue isoniazid therapy a similar pattern of behavior be note that be control by <target> pyridoxine </target> .",
+        "D009536\tChemical\tniacinamide\ta placebo have no effect , but <target> niacinamide </target> be as effective as pyridoxine .",
+        "D011736\tChemical\tpyridoxine\ta placebo have no effect , but niacinamide be as effective as <target> pyridoxine </target> .",
+        "D011736\tChemical\tpyridoxine\tperiodic withdrawal of <target> pyridoxine </target> be associate with return of the hyperkinesis .",
+        "D006948\tDisease\thyperkinesis\tperiodic withdrawal of pyridoxine be associate with return of the <target> hyperkinesis </target> .",
+        "D011730\tChemical\tpyridoxal\tthe level of <target> pyridoxal </target> in the blood be normal during the period of relapse .",
+        "D007737\tChemical\tkynurenine\tmetabolic study suggest a block in the <target> kynurenine </target> pathway of tryptophan metabolism .",
+        "D014364\tChemical\ttryptophan\tmetabolic study suggest a block in the kynurenine pathway of <target> tryptophan </target> metabolism .",
+        "D011736\tChemical\tpyridoxine\tthe patient have be follow for six year and have require pharmacologic dose of <target> pyridoxine </target> to control her behavior ."
+    ]
+}

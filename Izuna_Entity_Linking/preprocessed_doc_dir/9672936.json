@@ -1,0 +1,148 @@
+{
+    "title": "Pethidine-associated seizure in a healthy adolescent receiving pethidine for postoperative pain control.",
+    "abst": "A healthy 17-year-old male received standard intermittent doses of pethidine via a patient-controlled analgesia (PCA) pump for management of postoperative pain control. Twenty-three h postoperatively he developed a brief self-limited seizure. Both plasma pethidine and norpethidine were elevated in the range associated with clinical manifestations of central nervous system excitation. No other risk factors for CNS toxicity were identified. This method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of pethidine and norpethidine. The routine use of pethidine via PCA even for a brief postoperative analgesia should be reconsidered.",
+    "title_plus_abst": "Pethidine-associated seizure in a healthy adolescent receiving pethidine for postoperative pain control. A healthy 17-year-old male received standard intermittent doses of pethidine via a patient-controlled analgesia (PCA) pump for management of postoperative pain control. Twenty-three h postoperatively he developed a brief self-limited seizure. Both plasma pethidine and norpethidine were elevated in the range associated with clinical manifestations of central nervous system excitation. No other risk factors for CNS toxicity were identified. This method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of pethidine and norpethidine. The routine use of pethidine via PCA even for a brief postoperative analgesia should be reconsidered.",
+    "pubmed_id": "9672936",
+    "entities": [
+        [
+            0,
+            9,
+            "Pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            21,
+            28,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            63,
+            72,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            77,
+            95,
+            "postoperative pain",
+            "Disease",
+            "D010149"
+        ],
+        [
+            172,
+            181,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            246,
+            264,
+            "postoperative pain",
+            "Disease",
+            "D010149"
+        ],
+        [
+            339,
+            346,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            360,
+            369,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            374,
+            386,
+            "norpethidine",
+            "Chemical",
+            "C002752"
+        ],
+        [
+            522,
+            530,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            592,
+            601,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            652,
+            661,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ],
+        [
+            666,
+            678,
+            "norpethidine",
+            "Chemical",
+            "C002752"
+        ],
+        [
+            699,
+            708,
+            "pethidine",
+            "Chemical",
+            "D008614"
+        ]
+    ],
+    "split_sentence": [
+        "Pethidine-associated seizure in a healthy adolescent receiving pethidine for postoperative pain control.",
+        "A healthy 17-year-old male received standard intermittent doses of pethidine via a patient-controlled analgesia (PCA) pump for management of postoperative pain control.",
+        "Twenty-three h postoperatively he developed a brief self-limited seizure.",
+        "Both plasma pethidine and norpethidine were elevated in the range associated with clinical manifestations of central nervous system excitation.",
+        "No other risk factors for CNS toxicity were identified.",
+        "This method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of pethidine and norpethidine.",
+        "The routine use of pethidine via PCA even for a brief postoperative analgesia should be reconsidered."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008614\tChemical\tPethidine\t<target> Pethidine </target> -associated seizure in a healthy adolescent receiving pethidine for postoperative pain control .",
+        "D012640\tDisease\tseizure\tPethidine-associated <target> seizure </target> in a healthy adolescent receiving pethidine for postoperative pain control .",
+        "D008614\tChemical\tpethidine\tPethidine-associated seizure in a healthy adolescent receiving <target> pethidine </target> for postoperative pain control .",
+        "D010149\tDisease\tpostoperative pain\tPethidine-associated seizure in a healthy adolescent receiving pethidine for <target> postoperative pain </target> control .",
+        "D008614\tChemical\tpethidine\tA healthy 17-year-old male received standard intermittent doses of <target> pethidine </target> via a patient-controlled analgesia ( PCA ) pump for management of postoperative pain control .",
+        "D010149\tDisease\tpostoperative pain\tA healthy 17-year-old male received standard intermittent doses of pethidine via a patient-controlled analgesia ( PCA ) pump for management of <target> postoperative pain </target> control .",
+        "D012640\tDisease\tseizure\tTwenty-three h postoperatively he developed a brief self-limited <target> seizure </target> .",
+        "D008614\tChemical\tpethidine\tBoth plasma <target> pethidine </target> and norpethidine were elevated in the range associated with clinical manifestations of central nervous system excitation .",
+        "C002752\tChemical\tnorpethidine\tBoth plasma pethidine and <target> norpethidine </target> were elevated in the range associated with clinical manifestations of central nervous system excitation .",
+        "D064420\tDisease\ttoxicity\tNo other risk factors for CNS <target> toxicity </target> were identified .",
+        "D008614\tChemical\tpethidine\tThis method allowed frequent self-dosing of <target> pethidine </target> at short time intervals and rapid accumulation of pethidine and norpethidine .",
+        "D008614\tChemical\tpethidine\tThis method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of <target> pethidine </target> and norpethidine .",
+        "C002752\tChemical\tnorpethidine\tThis method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of pethidine and <target> norpethidine </target> .",
+        "D008614\tChemical\tpethidine\tThe routine use of <target> pethidine </target> via PCA even for a brief postoperative analgesia should be reconsidered ."
+    ],
+    "lines_lemma": [
+        "D008614\tChemical\tPethidine\t<target> pethidine </target> -associated seizure in a healthy adolescent receive pethidine for postoperative pain control .",
+        "D012640\tDisease\tseizure\tpethidine-associated <target> seizure </target> in a healthy adolescent receive pethidine for postoperative pain control .",
+        "D008614\tChemical\tpethidine\tpethidine-associated seizure in a healthy adolescent receive <target> pethidine </target> for postoperative pain control .",
+        "D010149\tDisease\tpostoperative pain\tpethidine-associated seizure in a healthy adolescent receive pethidine for <target> postoperative pain </target> control .",
+        "D008614\tChemical\tpethidine\ta healthy 17-year-old male receive standard intermittent dose of <target> pethidine </target> via a patient-controlled analgesia ( pca ) pump for management of postoperative pain control .",
+        "D010149\tDisease\tpostoperative pain\ta healthy 17-year-old male receive standard intermittent dose of pethidine via a patient-controlled analgesia ( pca ) pump for management of <target> postoperative pain </target> control .",
+        "D012640\tDisease\tseizure\ttwenty-three h postoperatively he develop a brief self-limited <target> seizure </target> .",
+        "D008614\tChemical\tpethidine\tboth plasma <target> pethidine </target> and norpethidine be elevated in the range associate with clinical manifestation of central nervous system excitation .",
+        "C002752\tChemical\tnorpethidine\tboth plasma pethidine and <target> norpethidine </target> be elevated in the range associate with clinical manifestation of central nervous system excitation .",
+        "D064420\tDisease\ttoxicity\tno other risk factor for cns <target> toxicity </target> be identify .",
+        "D008614\tChemical\tpethidine\tthis method allow frequent self-dosing of <target> pethidine </target> at short time interval and rapid accumulation of pethidine and norpethidine .",
+        "D008614\tChemical\tpethidine\tthis method allow frequent self-dosing of pethidine at short time interval and rapid accumulation of <target> pethidine </target> and norpethidine .",
+        "C002752\tChemical\tnorpethidine\tthis method allow frequent self-dosing of pethidine at short time interval and rapid accumulation of pethidine and <target> norpethidine </target> .",
+        "D008614\tChemical\tpethidine\tthe routine use of <target> pethidine </target> via pca even for a brief postoperative analgesia should be reconsider ."
+    ]
+}

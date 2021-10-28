@@ -1,0 +1,74 @@
+{
+    "title": "Baboon syndrome induced by ketoconazole.",
+    "abst": "A 27-year-old male patient presented with a maculopapular eruption on the flexural areas and buttocks after using oral ketoconazole. The patient was diagnosed with drug-induced baboon syndrome based on his history, which included prior sensitivity to topical ketoconazole, a physical examination, and histopathological findings. Baboon syndrome is a drug- or contact allergen-related maculopapular eruption that typically involves the flexural and gluteal areas. To the best of our knowledge, this is the first reported case of ketoconazole-induced baboon syndrome in the English literature.",
+    "title_plus_abst": "Baboon syndrome induced by ketoconazole. A 27-year-old male patient presented with a maculopapular eruption on the flexural areas and buttocks after using oral ketoconazole. The patient was diagnosed with drug-induced baboon syndrome based on his history, which included prior sensitivity to topical ketoconazole, a physical examination, and histopathological findings. Baboon syndrome is a drug- or contact allergen-related maculopapular eruption that typically involves the flexural and gluteal areas. To the best of our knowledge, this is the first reported case of ketoconazole-induced baboon syndrome in the English literature.",
+    "pubmed_id": "24641119",
+    "entities": [
+        [
+            27,
+            39,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            85,
+            107,
+            "maculopapular eruption",
+            "Disease",
+            "D003875"
+        ],
+        [
+            160,
+            172,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            300,
+            312,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            425,
+            447,
+            "maculopapular eruption",
+            "Disease",
+            "D003875"
+        ],
+        [
+            569,
+            581,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ]
+    ],
+    "split_sentence": [
+        "Baboon syndrome induced by ketoconazole.",
+        "A 27-year-old male patient presented with a maculopapular eruption on the flexural areas and buttocks after using oral ketoconazole.",
+        "The patient was diagnosed with drug-induced baboon syndrome based on his history, which included prior sensitivity to topical ketoconazole, a physical examination, and histopathological findings.",
+        "Baboon syndrome is a drug- or contact allergen-related maculopapular eruption that typically involves the flexural and gluteal areas.",
+        "To the best of our knowledge, this is the first reported case of ketoconazole-induced baboon syndrome in the English literature."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007654\tChemical\tketoconazole\tBaboon syndrome induced by <target> ketoconazole </target> .",
+        "D003875\tDisease\tmaculopapular eruption\tA 27-year-old male patient presented with a <target> maculopapular eruption </target> on the flexural areas and buttocks after using oral ketoconazole .",
+        "D007654\tChemical\tketoconazole\tA 27-year-old male patient presented with a maculopapular eruption on the flexural areas and buttocks after using oral <target> ketoconazole </target> .",
+        "D007654\tChemical\tketoconazole\tThe patient was diagnosed with drug-induced baboon syndrome based on his history , which included prior sensitivity to topical <target> ketoconazole </target> , a physical examination , and histopathological findings .",
+        "D003875\tDisease\tmaculopapular eruption\tBaboon syndrome is a drug- or contact allergen-related <target> maculopapular eruption </target> that typically involves the flexural and gluteal areas .",
+        "D007654\tChemical\tketoconazole\tTo the best of our knowledge , this is the first reported case of <target> ketoconazole </target> -induced baboon syndrome in the English literature ."
+    ],
+    "lines_lemma": [
+        "D007654\tChemical\tketoconazole\tbaboon syndrome induce by <target> ketoconazole </target> .",
+        "D003875\tDisease\tmaculopapular eruption\ta 27-year-old male patient present with a <target> maculopapular eruption </target> on the flexural area and buttock after use oral ketoconazole .",
+        "D007654\tChemical\tketoconazole\ta 27-year-old male patient present with a maculopapular eruption on the flexural area and buttock after use oral <target> ketoconazole </target> .",
+        "D007654\tChemical\tketoconazole\tthe patient be diagnose with drug-induced baboon syndrome base on his history , which include prior sensitivity to topical <target> ketoconazole </target> , a physical examination , and histopathological finding .",
+        "D003875\tDisease\tmaculopapular eruption\tbaboon syndrome be a drug- or contact allergen-related <target> maculopapular eruption </target> that typically involve the flexural and gluteal area .",
+        "D007654\tChemical\tketoconazole\tto the good of our knowledge , this be the first report case of <target> ketoconazole </target> -induced baboon syndrome in the English literature ."
+    ]
+}

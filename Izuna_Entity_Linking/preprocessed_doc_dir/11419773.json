@@ -1,0 +1,63 @@
+{
+    "title": "Caffeine-induced cardiac arrhythmia: an unrecognised danger of healthfood products.",
+    "abst": "We describe a 25-year-old woman with pre-existing mitral valve prolapse who developed intractable ventricular fibrillation after consuming a \"natural energy\" guarana health drink containing a high concentration of caffeine. This case highlights the need for adequate labelling and regulation of such products.",
+    "title_plus_abst": "Caffeine-induced cardiac arrhythmia: an unrecognised danger of healthfood products. We describe a 25-year-old woman with pre-existing mitral valve prolapse who developed intractable ventricular fibrillation after consuming a \"natural energy\" guarana health drink containing a high concentration of caffeine. This case highlights the need for adequate labelling and regulation of such products.",
+    "pubmed_id": "11419773",
+    "entities": [
+        [
+            0,
+            8,
+            "Caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            17,
+            35,
+            "cardiac arrhythmia",
+            "Disease",
+            "D001145"
+        ],
+        [
+            134,
+            155,
+            "mitral valve prolapse",
+            "Disease",
+            "D008945"
+        ],
+        [
+            182,
+            206,
+            "ventricular fibrillation",
+            "Disease",
+            "D014693"
+        ],
+        [
+            298,
+            306,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ]
+    ],
+    "split_sentence": [
+        "Caffeine-induced cardiac arrhythmia: an unrecognised danger of healthfood products.",
+        "We describe a 25-year-old woman with pre-existing mitral valve prolapse who developed intractable ventricular fibrillation after consuming a \"natural energy\" guarana health drink containing a high concentration of caffeine.",
+        "This case highlights the need for adequate labelling and regulation of such products."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002110\tChemical\tCaffeine\t<target> Caffeine </target> -induced cardiac arrhythmia : an unrecognised danger of healthfood products .",
+        "D001145\tDisease\tcardiac arrhythmia\tCaffeine-induced <target> cardiac arrhythmia </target> : an unrecognised danger of healthfood products .",
+        "D008945\tDisease\tmitral valve prolapse\tWe describe a 25-year-old woman with pre-existing <target> mitral valve prolapse </target> who developed intractable ventricular fibrillation after consuming a \" natural energy \" guarana health drink containing a high concentration of caffeine .",
+        "D014693\tDisease\tventricular fibrillation\tWe describe a 25-year-old woman with pre-existing mitral valve prolapse who developed intractable <target> ventricular fibrillation </target> after consuming a \" natural energy \" guarana health drink containing a high concentration of caffeine .",
+        "D002110\tChemical\tcaffeine\tWe describe a 25-year-old woman with pre-existing mitral valve prolapse who developed intractable ventricular fibrillation after consuming a \" natural energy \" guarana health drink containing a high concentration of <target> caffeine </target> ."
+    ],
+    "lines_lemma": [
+        "D002110\tChemical\tCaffeine\t<target> caffeine </target> -induced cardiac arrhythmia : an unrecognised danger of healthfood product .",
+        "D001145\tDisease\tcardiac arrhythmia\tcaffeine-induced <target> cardiac arrhythmia </target> : an unrecognised danger of healthfood product .",
+        "D008945\tDisease\tmitral valve prolapse\twe describe a 25-year-old woman with pre-existing <target> mitral valve prolapse </target> who develop intractable ventricular fibrillation after consume a \" natural energy \" guarana health drink contain a high concentration of caffeine .",
+        "D014693\tDisease\tventricular fibrillation\twe describe a 25-year-old woman with pre-existing mitral valve prolapse who develop intractable <target> ventricular fibrillation </target> after consume a \" natural energy \" guarana health drink contain a high concentration of caffeine .",
+        "D002110\tChemical\tcaffeine\twe describe a 25-year-old woman with pre-existing mitral valve prolapse who develop intractable ventricular fibrillation after consume a \" natural energy \" guarana health drink contain a high concentration of <target> caffeine </target> ."
+    ]
+}

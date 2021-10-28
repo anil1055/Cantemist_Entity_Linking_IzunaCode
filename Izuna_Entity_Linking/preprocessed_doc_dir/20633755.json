@@ -1,0 +1,91 @@
+{
+    "title": "Suxamethonium induced prolonged apnea in a patient receiving electroconvulsive therapy.",
+    "abst": "Suxamethonium causes prolonged apnea in patients in whom pseudocholinesterase enzyme gets deactivated by organophosphorus (OP) poisons. Here, we present a similar incident in a severely depressed patient who received electroconvulsive therapy (ECT). Prolonged apnea in our case ensued because the information about suicidal attempt by OP compound was concealed from the treating team.",
+    "title_plus_abst": "Suxamethonium induced prolonged apnea in a patient receiving electroconvulsive therapy. Suxamethonium causes prolonged apnea in patients in whom pseudocholinesterase enzyme gets deactivated by organophosphorus (OP) poisons. Here, we present a similar incident in a severely depressed patient who received electroconvulsive therapy (ECT). Prolonged apnea in our case ensued because the information about suicidal attempt by OP compound was concealed from the treating team.",
+    "pubmed_id": "20633755",
+    "entities": [
+        [
+            0,
+            13,
+            "Suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            32,
+            37,
+            "apnea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            88,
+            101,
+            "Suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            119,
+            124,
+            "apnea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            193,
+            222,
+            "organophosphorus (OP) poisons",
+            "Chemical",
+            "D009943"
+        ],
+        [
+            274,
+            283,
+            "depressed",
+            "Disease",
+            "D003866"
+        ],
+        [
+            348,
+            353,
+            "apnea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            423,
+            434,
+            "OP compound",
+            "Chemical",
+            "D009943"
+        ]
+    ],
+    "split_sentence": [
+        "Suxamethonium induced prolonged apnea in a patient receiving electroconvulsive therapy.",
+        "Suxamethonium causes prolonged apnea in patients in whom pseudocholinesterase enzyme gets deactivated by organophosphorus (OP) poisons.",
+        "Here, we present a similar incident in a severely depressed patient who received electroconvulsive therapy (ECT).",
+        "Prolonged apnea in our case ensued because the information about suicidal attempt by OP compound was concealed from the treating team."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> induced prolonged apnea in a patient receiving electroconvulsive therapy .",
+        "D001049\tDisease\tapnea\tSuxamethonium induced prolonged <target> apnea </target> in a patient receiving electroconvulsive therapy .",
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> causes prolonged apnea in patients in whom pseudocholinesterase enzyme gets deactivated by organophosphorus ( OP ) poisons .",
+        "D001049\tDisease\tapnea\tSuxamethonium causes prolonged <target> apnea </target> in patients in whom pseudocholinesterase enzyme gets deactivated by organophosphorus ( OP ) poisons .",
+        "D009943\tChemical\torganophosphorus (OP) poisons\tSuxamethonium causes prolonged apnea in patients in whom pseudocholinesterase enzyme gets deactivated by <target> organophosphorus ( OP ) poisons </target> .",
+        "D003866\tDisease\tdepressed\tHere , we present a similar incident in a severely <target> depressed </target> patient who received electroconvulsive therapy ( ECT ) .",
+        "D001049\tDisease\tapnea\tProlonged <target> apnea </target> in our case ensued because the information about suicidal attempt by OP compound was concealed from the treating team .",
+        "D009943\tChemical\tOP compound\tProlonged apnea in our case ensued because the information about suicidal attempt by <target> OP compound </target> was concealed from the treating team ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> induce prolonged apnea in a patient receive electroconvulsive therapy .",
+        "D001049\tDisease\tapnea\tSuxamethonium induce prolonged <target> apnea </target> in a patient receive electroconvulsive therapy .",
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> cause prolonged apnea in patient in whom pseudocholinesterase enzyme get deactivate by organophosphorus ( op ) poison .",
+        "D001049\tDisease\tapnea\tSuxamethonium cause prolonged <target> apnea </target> in patient in whom pseudocholinesterase enzyme get deactivate by organophosphorus ( op ) poison .",
+        "D009943\tChemical\torganophosphorus (OP) poisons\tSuxamethonium cause prolonged apnea in patient in whom pseudocholinesterase enzyme get deactivate by <target> organophosphorus ( op ) poison </target> .",
+        "D003866\tDisease\tdepressed\there , we present a similar incident in a severely <target> depressed </target> patient who receive electroconvulsive therapy ( ect ) .",
+        "D001049\tDisease\tapnea\tProlonged <target> apnea </target> in our case ensue because the information about suicidal attempt by op compound be conceal from the treating team .",
+        "D009943\tChemical\tOP compound\tprolonged apnea in our case ensue because the information about suicidal attempt by <target> op compound </target> be conceal from the treating team ."
+    ]
+}

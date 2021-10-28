@@ -1,0 +1,157 @@
+{
+    "title": "Neuroleptic malignant syndrome and methylphenidate.",
+    "abst": "A 1-year-old female presented with neuroleptic malignant syndrome probably caused by methylphenidate. She had defects in the supratentorial brain including the basal ganglia and the striatum (multicystic encephalomalacia) due to severe perinatal hypoxic-ischemic encephalopathy, which was considered to be a possible predisposing factor causing neuroleptic malignant syndrome. A dopaminergic blockade mechanism generally is accepted as the pathogenesis of this syndrome. However, methylphenidate is a dopamine agonist via the inhibition of uptake of dopamine, and therefore dopaminergic systems in the brainstem (mainly the midbrain) and the spinal cord were unlikely to participate in the onset of this syndrome. A relative gamma-aminobutyric acid-ergic deficiency might occur because diazepam, a gamma-aminobutyric acid-mimetic agent, was strikingly effective. This is the first reported patient with neuroleptic malignant syndrome probably caused by methylphenidate.",
+    "title_plus_abst": "Neuroleptic malignant syndrome and methylphenidate. A 1-year-old female presented with neuroleptic malignant syndrome probably caused by methylphenidate. She had defects in the supratentorial brain including the basal ganglia and the striatum (multicystic encephalomalacia) due to severe perinatal hypoxic-ischemic encephalopathy, which was considered to be a possible predisposing factor causing neuroleptic malignant syndrome. A dopaminergic blockade mechanism generally is accepted as the pathogenesis of this syndrome. However, methylphenidate is a dopamine agonist via the inhibition of uptake of dopamine, and therefore dopaminergic systems in the brainstem (mainly the midbrain) and the spinal cord were unlikely to participate in the onset of this syndrome. A relative gamma-aminobutyric acid-ergic deficiency might occur because diazepam, a gamma-aminobutyric acid-mimetic agent, was strikingly effective. This is the first reported patient with neuroleptic malignant syndrome probably caused by methylphenidate.",
+    "pubmed_id": "9831002",
+    "entities": [
+        [
+            0,
+            30,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            35,
+            50,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            87,
+            117,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            137,
+            152,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            244,
+            272,
+            "multicystic encephalomalacia",
+            "Disease",
+            "D004678"
+        ],
+        [
+            298,
+            329,
+            "hypoxic-ischemic encephalopathy",
+            "Disease",
+            "D020925"
+        ],
+        [
+            397,
+            427,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            532,
+            547,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            553,
+            561,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            602,
+            610,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            777,
+            800,
+            "gamma-aminobutyric acid",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            838,
+            846,
+            "diazepam",
+            "Chemical",
+            "D003975"
+        ],
+        [
+            850,
+            873,
+            "gamma-aminobutyric acid",
+            "Chemical",
+            "D005680"
+        ],
+        [
+            955,
+            985,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            1005,
+            1020,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ]
+    ],
+    "split_sentence": [
+        "Neuroleptic malignant syndrome and methylphenidate.",
+        "A 1-year-old female presented with neuroleptic malignant syndrome probably caused by methylphenidate.",
+        "She had defects in the supratentorial brain including the basal ganglia and the striatum (multicystic encephalomalacia) due to severe perinatal hypoxic-ischemic encephalopathy, which was considered to be a possible predisposing factor causing neuroleptic malignant syndrome.",
+        "A dopaminergic blockade mechanism generally is accepted as the pathogenesis of this syndrome.",
+        "However, methylphenidate is a dopamine agonist via the inhibition of uptake of dopamine, and therefore dopaminergic systems in the brainstem (mainly the midbrain) and the spinal cord were unlikely to participate in the onset of this syndrome.",
+        "A relative gamma-aminobutyric acid-ergic deficiency might occur because diazepam, a gamma-aminobutyric acid-mimetic agent, was strikingly effective.",
+        "This is the first reported patient with neuroleptic malignant syndrome probably caused by methylphenidate."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> and methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tNeuroleptic malignant syndrome and <target> methylphenidate </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tA 1-year-old female presented with <target> neuroleptic malignant syndrome </target> probably caused by methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tA 1-year-old female presented with neuroleptic malignant syndrome probably caused by <target> methylphenidate </target> .",
+        "D004678\tDisease\tmulticystic encephalomalacia\tShe had defects in the supratentorial brain including the basal ganglia and the striatum ( <target> multicystic encephalomalacia </target> ) due to severe perinatal hypoxic-ischemic encephalopathy , which was considered to be a possible predisposing factor causing neuroleptic malignant syndrome .",
+        "D020925\tDisease\thypoxic-ischemic encephalopathy\tShe had defects in the supratentorial brain including the basal ganglia and the striatum ( multicystic encephalomalacia ) due to severe perinatal <target> hypoxic-ischemic encephalopathy </target> , which was considered to be a possible predisposing factor causing neuroleptic malignant syndrome .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tShe had defects in the supratentorial brain including the basal ganglia and the striatum ( multicystic encephalomalacia ) due to severe perinatal hypoxic-ischemic encephalopathy , which was considered to be a possible predisposing factor causing <target> neuroleptic malignant syndrome </target> .",
+        "D008774\tChemical\tmethylphenidate\tHowever , <target> methylphenidate </target> is a dopamine agonist via the inhibition of uptake of dopamine , and therefore dopaminergic systems in the brainstem ( mainly the midbrain ) and the spinal cord were unlikely to participate in the onset of this syndrome .",
+        "D004298\tChemical\tdopamine\tHowever , methylphenidate is a <target> dopamine </target> agonist via the inhibition of uptake of dopamine , and therefore dopaminergic systems in the brainstem ( mainly the midbrain ) and the spinal cord were unlikely to participate in the onset of this syndrome .",
+        "D004298\tChemical\tdopamine\tHowever , methylphenidate is a dopamine agonist via the inhibition of uptake of <target> dopamine </target> , and therefore dopaminergic systems in the brainstem ( mainly the midbrain ) and the spinal cord were unlikely to participate in the onset of this syndrome .",
+        "D005680\tChemical\tgamma-aminobutyric acid\tA relative <target> gamma-aminobutyric acid </target> -ergic deficiency might occur because diazepam , a gamma-aminobutyric acid-mimetic agent , was strikingly effective .",
+        "D003975\tChemical\tdiazepam\tA relative gamma-aminobutyric acid-ergic deficiency might occur because <target> diazepam </target> , a gamma-aminobutyric acid-mimetic agent , was strikingly effective .",
+        "D005680\tChemical\tgamma-aminobutyric acid\tA relative gamma-aminobutyric acid-ergic deficiency might occur because diazepam , a <target> gamma-aminobutyric acid </target> -mimetic agent , was strikingly effective .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tThis is the first reported patient with <target> neuroleptic malignant syndrome </target> probably caused by methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tThis is the first reported patient with neuroleptic malignant syndrome probably caused by <target> methylphenidate </target> ."
+    ],
+    "lines_lemma": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> and methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tneuroleptic malignant syndrome and <target> methylphenidate </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\ta 1-year-old female present with <target> neuroleptic malignant syndrome </target> probably cause by methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\ta 1-year-old female present with neuroleptic malignant syndrome probably cause by <target> methylphenidate </target> .",
+        "D004678\tDisease\tmulticystic encephalomalacia\tshe have defect in the supratentorial brain include the basal ganglia and the striatum ( <target> multicystic encephalomalacia </target> ) due to severe perinatal hypoxic-ischemic encephalopathy , which be consider to be a possible predisposing factor cause neuroleptic malignant syndrome .",
+        "D020925\tDisease\thypoxic-ischemic encephalopathy\tshe have defect in the supratentorial brain include the basal ganglia and the striatum ( multicystic encephalomalacia ) due to severe perinatal <target> hypoxic-ischemic encephalopathy </target> , which be consider to be a possible predisposing factor cause neuroleptic malignant syndrome .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tshe have defect in the supratentorial brain include the basal ganglia and the striatum ( multicystic encephalomalacia ) due to severe perinatal hypoxic-ischemic encephalopathy , which be consider to be a possible predisposing factor cause <target> neuroleptic malignant syndrome </target> .",
+        "D008774\tChemical\tmethylphenidate\thowever , <target> methylphenidate </target> be a dopamine agonist via the inhibition of uptake of dopamine , and therefore dopaminergic system in the brainstem ( mainly the midbrain ) and the spinal cord be unlikely to participate in the onset of this syndrome .",
+        "D004298\tChemical\tdopamine\thowever , methylphenidate be a <target> dopamine </target> agonist via the inhibition of uptake of dopamine , and therefore dopaminergic system in the brainstem ( mainly the midbrain ) and the spinal cord be unlikely to participate in the onset of this syndrome .",
+        "D004298\tChemical\tdopamine\thowever , methylphenidate be a dopamine agonist via the inhibition of uptake of <target> dopamine </target> , and therefore dopaminergic system in the brainstem ( mainly the midbrain ) and the spinal cord be unlikely to participate in the onset of this syndrome .",
+        "D005680\tChemical\tgamma-aminobutyric acid\ta relative <target> gamma-aminobutyric acid </target> -ergic deficiency might occur because diazepam , a gamma-aminobutyric acid-mimetic agent , be strikingly effective .",
+        "D003975\tChemical\tdiazepam\ta relative gamma-aminobutyric acid-ergic deficiency might occur because <target> diazepam </target> , a gamma-aminobutyric acid-mimetic agent , be strikingly effective .",
+        "D005680\tChemical\tgamma-aminobutyric acid\ta relative gamma-aminobutyric acid-ergic deficiency might occur because diazepam , a <target> gamma-aminobutyric acid </target> -mimetic agent , be strikingly effective .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tthis be the first report patient with <target> neuroleptic malignant syndrome </target> probably cause by methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tthis be the first report patient with neuroleptic malignant syndrome probably cause by <target> methylphenidate </target> ."
+    ]
+}

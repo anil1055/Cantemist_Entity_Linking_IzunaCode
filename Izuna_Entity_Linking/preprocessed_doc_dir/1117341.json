@@ -1,0 +1,108 @@
+{
+    "title": "Hyperglycemic effect of amino compounds structurally related to caproate in rats.",
+    "abst": "The chronic feeding of small amounts (0.3-3% of diet weight) of certain amino derivatives of caproate resulted in hyperglycemia, an elevated glucose tolerance curve and, occasionally, glucosuria. Effective compounds included norleucine, norvaline, glutamate, epsilon-aminocaproate, methionine, and leucine.",
+    "title_plus_abst": "Hyperglycemic effect of amino compounds structurally related to caproate in rats. The chronic feeding of small amounts (0.3-3% of diet weight) of certain amino derivatives of caproate resulted in hyperglycemia, an elevated glucose tolerance curve and, occasionally, glucosuria. Effective compounds included norleucine, norvaline, glutamate, epsilon-aminocaproate, methionine, and leucine.",
+    "pubmed_id": "1117341",
+    "entities": [
+        [
+            0,
+            13,
+            "Hyperglycemic",
+            "Disease",
+            "D006943"
+        ],
+        [
+            24,
+            29,
+            "amino",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            64,
+            72,
+            "caproate",
+            "Chemical",
+            "C037652"
+        ],
+        [
+            154,
+            159,
+            "amino",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            175,
+            183,
+            "caproate",
+            "Chemical",
+            "C037652"
+        ],
+        [
+            196,
+            209,
+            "hyperglycemia",
+            "Disease",
+            "D006943"
+        ],
+        [
+            223,
+            230,
+            "glucose",
+            "Chemical",
+            "D005947"
+        ],
+        [
+            266,
+            276,
+            "glucosuria",
+            "Disease",
+            "D006030"
+        ],
+        [
+            330,
+            339,
+            "glutamate",
+            "Chemical",
+            "D018698"
+        ],
+        [
+            364,
+            374,
+            "methionine",
+            "Chemical",
+            "D008715"
+        ]
+    ],
+    "split_sentence": [
+        "Hyperglycemic effect of amino compounds structurally related to caproate in rats.",
+        "The chronic feeding of small amounts (0.3-3% of diet weight) of certain amino derivatives of caproate resulted in hyperglycemia, an elevated glucose tolerance curve and, occasionally, glucosuria.",
+        "Effective compounds included norleucine, norvaline, glutamate, epsilon-aminocaproate, methionine, and leucine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006943\tDisease\tHyperglycemic\t<target> Hyperglycemic </target> effect of amino compounds structurally related to caproate in rats .",
+        "D015119\tChemical\tamino\tHyperglycemic effect of <target> amino </target> compounds structurally related to caproate in rats .",
+        "C037652\tChemical\tcaproate\tHyperglycemic effect of amino compounds structurally related to <target> caproate </target> in rats .",
+        "D015119\tChemical\tamino\tThe chronic feeding of small amounts ( 0.3 - 3 % of diet weight ) of certain <target> amino </target> derivatives of caproate resulted in hyperglycemia , an elevated glucose tolerance curve and , occasionally , glucosuria .",
+        "C037652\tChemical\tcaproate\tThe chronic feeding of small amounts ( 0.3 - 3 % of diet weight ) of certain amino derivatives of <target> caproate </target> resulted in hyperglycemia , an elevated glucose tolerance curve and , occasionally , glucosuria .",
+        "D006943\tDisease\thyperglycemia\tThe chronic feeding of small amounts ( 0.3 - 3 % of diet weight ) of certain amino derivatives of caproate resulted in <target> hyperglycemia </target> , an elevated glucose tolerance curve and , occasionally , glucosuria .",
+        "D005947\tChemical\tglucose\tThe chronic feeding of small amounts ( 0.3 - 3 % of diet weight ) of certain amino derivatives of caproate resulted in hyperglycemia , an elevated <target> glucose </target> tolerance curve and , occasionally , glucosuria .",
+        "D006030\tDisease\tglucosuria\tThe chronic feeding of small amounts ( 0.3 - 3 % of diet weight ) of certain amino derivatives of caproate resulted in hyperglycemia , an elevated glucose tolerance curve and , occasionally , <target> glucosuria </target> .",
+        "D018698\tChemical\tglutamate\tEffective compounds included norleucine , norvaline , <target> glutamate </target> , epsilon-aminocaproate , methionine , and leucine .",
+        "D008715\tChemical\tmethionine\tEffective compounds included norleucine , norvaline , glutamate , epsilon-aminocaproate , <target> methionine </target> , and leucine ."
+    ],
+    "lines_lemma": [
+        "D006943\tDisease\tHyperglycemic\t<target> Hyperglycemic </target> effect of amino compound structurally related to caproate in rat .",
+        "D015119\tChemical\tamino\thyperglycemic effect of <target> amino </target> compound structurally related to caproate in rat .",
+        "C037652\tChemical\tcaproate\thyperglycemic effect of amino compound structurally related to <target> caproate </target> in rat .",
+        "D015119\tChemical\tamino\tthe chronic feeding of small amount ( 0.3 - 3 % of diet weight ) of certain <target> amino </target> derivative of caproate result in hyperglycemia , an elevated glucose tolerance curve and , occasionally , glucosuria .",
+        "C037652\tChemical\tcaproate\tthe chronic feeding of small amount ( 0.3 - 3 % of diet weight ) of certain amino derivative of <target> caproate </target> result in hyperglycemia , an elevated glucose tolerance curve and , occasionally , glucosuria .",
+        "D006943\tDisease\thyperglycemia\tthe chronic feeding of small amount ( 0.3 - 3 % of diet weight ) of certain amino derivative of caproate result in <target> hyperglycemia </target> , an elevated glucose tolerance curve and , occasionally , glucosuria .",
+        "D005947\tChemical\tglucose\tthe chronic feeding of small amount ( 0.3 - 3 % of diet weight ) of certain amino derivative of caproate result in hyperglycemia , an elevated <target> glucose </target> tolerance curve and , occasionally , glucosuria .",
+        "D006030\tDisease\tglucosuria\tthe chronic feeding of small amount ( 0.3 - 3 % of diet weight ) of certain amino derivative of caproate result in hyperglycemia , an elevated glucose tolerance curve and , occasionally , <target> glucosuria </target> .",
+        "D018698\tChemical\tglutamate\teffective compound include norleucine , norvaline , <target> glutamate </target> , epsilon-aminocaproate , methionine , and leucine .",
+        "D008715\tChemical\tmethionine\teffective compound include norleucine , norvaline , glutamate , epsilon-aminocaproate , <target> methionine </target> , and leucine ."
+    ]
+}

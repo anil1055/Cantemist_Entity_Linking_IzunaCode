@@ -1,0 +1,111 @@
+{
+    "title": "Fatal aplastic anemia due to indomethacin--lymphocyte transformation tests in vitro.",
+    "abst": "Although indomethacin has been implicated as a possible cause of aplastic anemia on the basis of a few clinical observations, its role has not been definitely established. A case of fatal aplastic anemia is described in which no drugs other than allopurinol and indomethacin were given. Indomethacin was first given four weeks prior to the onset of symptoms. A positive lymphocyte transformation test with indomethacin in vitro further substantiates the potential role of this drug in causing aplastic anemia in a susceptible patient. Fortunately, this seems to be a very rare complication.",
+    "title_plus_abst": "Fatal aplastic anemia due to indomethacin--lymphocyte transformation tests in vitro. Although indomethacin has been implicated as a possible cause of aplastic anemia on the basis of a few clinical observations, its role has not been definitely established. A case of fatal aplastic anemia is described in which no drugs other than allopurinol and indomethacin were given. Indomethacin was first given four weeks prior to the onset of symptoms. A positive lymphocyte transformation test with indomethacin in vitro further substantiates the potential role of this drug in causing aplastic anemia in a susceptible patient. Fortunately, this seems to be a very rare complication.",
+    "pubmed_id": "7263204",
+    "entities": [
+        [
+            6,
+            21,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            29,
+            41,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            94,
+            106,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            150,
+            165,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            273,
+            288,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            331,
+            342,
+            "allopurinol",
+            "Chemical",
+            "D000493"
+        ],
+        [
+            347,
+            359,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            372,
+            384,
+            "Indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            491,
+            503,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            578,
+            593,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ]
+    ],
+    "split_sentence": [
+        "Fatal aplastic anemia due to indomethacin--lymphocyte transformation tests in vitro.",
+        "Although indomethacin has been implicated as a possible cause of aplastic anemia on the basis of a few clinical observations, its role has not been definitely established.",
+        "A case of fatal aplastic anemia is described in which no drugs other than allopurinol and indomethacin were given.",
+        "Indomethacin was first given four weeks prior to the onset of symptoms.",
+        "A positive lymphocyte transformation test with indomethacin in vitro further substantiates the potential role of this drug in causing aplastic anemia in a susceptible patient.",
+        "Fortunately, this seems to be a very rare complication."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000741\tDisease\taplastic anemia\tFatal <target> aplastic anemia </target> due to indomethacin -- lymphocyte transformation tests in vitro .",
+        "D007213\tChemical\tindomethacin\tFatal aplastic anemia due to <target> indomethacin </target> --lymphocyte transformation tests in vitro .",
+        "D007213\tChemical\tindomethacin\tAlthough <target> indomethacin </target> has been implicated as a possible cause of aplastic anemia on the basis of a few clinical observations , its role has not been definitely established .",
+        "D000741\tDisease\taplastic anemia\tAlthough indomethacin has been implicated as a possible cause of <target> aplastic anemia </target> on the basis of a few clinical observations , its role has not been definitely established .",
+        "D000741\tDisease\taplastic anemia\tA case of fatal <target> aplastic anemia </target> is described in which no drugs other than allopurinol and indomethacin were given .",
+        "D000493\tChemical\tallopurinol\tA case of fatal aplastic anemia is described in which no drugs other than <target> allopurinol </target> and indomethacin were given .",
+        "D007213\tChemical\tindomethacin\tA case of fatal aplastic anemia is described in which no drugs other than allopurinol and <target> indomethacin </target> were given .",
+        "D007213\tChemical\tIndomethacin\t<target> Indomethacin </target> was first given four weeks prior to the onset of symptoms .",
+        "D007213\tChemical\tindomethacin\tA positive lymphocyte transformation test with <target> indomethacin </target> in vitro further substantiates the potential role of this drug in causing aplastic anemia in a susceptible patient .",
+        "D000741\tDisease\taplastic anemia\tA positive lymphocyte transformation test with indomethacin in vitro further substantiates the potential role of this drug in causing <target> aplastic anemia </target> in a susceptible patient ."
+    ],
+    "lines_lemma": [
+        "D000741\tDisease\taplastic anemia\tfatal <target> aplastic anemia </target> due to indomethacin -- lymphocyte transformation test in vitro .",
+        "D007213\tChemical\tindomethacin\tfatal aplastic anemia due to <target> indomethacin </target> --lymphocyte transformation test in vitro .",
+        "D007213\tChemical\tindomethacin\talthough <target> indomethacin </target> have be implicate as a possible cause of aplastic anemia on the basis of a few clinical observation , its role have not be definitely establish .",
+        "D000741\tDisease\taplastic anemia\talthough indomethacin have be implicate as a possible cause of <target> aplastic anemia </target> on the basis of a few clinical observation , its role have not be definitely establish .",
+        "D000741\tDisease\taplastic anemia\ta case of fatal <target> aplastic anemia </target> be describe in which no drug other than allopurinol and indomethacin be give .",
+        "D000493\tChemical\tallopurinol\ta case of fatal aplastic anemia be describe in which no drug other than <target> allopurinol </target> and indomethacin be give .",
+        "D007213\tChemical\tindomethacin\ta case of fatal aplastic anemia be describe in which no drug other than allopurinol and <target> indomethacin </target> be give .",
+        "D007213\tChemical\tIndomethacin\t<target> indomethacin </target> be first give four week prior to the onset of symptom .",
+        "D007213\tChemical\tindomethacin\ta positive lymphocyte transformation test with <target> indomethacin </target> in vitro far substantiate the potential role of this drug in cause aplastic anemia in a susceptible patient .",
+        "D000741\tDisease\taplastic anemia\ta positive lymphocyte transformation test with indomethacin in vitro far substantiate the potential role of this drug in cause <target> aplastic anemia </target> in a susceptible patient ."
+    ]
+}

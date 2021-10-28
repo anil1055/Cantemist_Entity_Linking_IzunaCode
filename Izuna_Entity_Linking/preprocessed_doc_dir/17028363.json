@@ -1,0 +1,185 @@
+{
+    "title": "Acute renal failure associated with prolonged intake of slimming pills containing anthraquinones.",
+    "abst": "Chinese herbal medicine preparations are widely available and often regarded by the public as natural and safe remedies for a variety of medical conditions. Nephropathy caused by Chinese herbs has previously been reported, usually involving the use of aristolochic acids. We report a 23-year-old woman who developed acute renal failure following prolonged use of a proprietary Chinese herbal slimming pill that contained anthraquinone derivatives, extracted from Rhizoma Rhei (rhubarb). The renal injury was probably aggravated by the concomitant intake of a non-steroidal anti-inflammatory drug, diclofenac. Renal pathology was that of hypocellular interstitial fibrosis. Spontaneous renal recovery occurred upon cessation of the slimming pills, but mild interstitial fibrosis and tubular atrophy was still evident histologically 4 months later. Although a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remains to be proven, phytotherapy-associated interstitial nephropathy should be considered in patients who present with unexplained renal failure.",
+    "title_plus_abst": "Acute renal failure associated with prolonged intake of slimming pills containing anthraquinones. Chinese herbal medicine preparations are widely available and often regarded by the public as natural and safe remedies for a variety of medical conditions. Nephropathy caused by Chinese herbs has previously been reported, usually involving the use of aristolochic acids. We report a 23-year-old woman who developed acute renal failure following prolonged use of a proprietary Chinese herbal slimming pill that contained anthraquinone derivatives, extracted from Rhizoma Rhei (rhubarb). The renal injury was probably aggravated by the concomitant intake of a non-steroidal anti-inflammatory drug, diclofenac. Renal pathology was that of hypocellular interstitial fibrosis. Spontaneous renal recovery occurred upon cessation of the slimming pills, but mild interstitial fibrosis and tubular atrophy was still evident histologically 4 months later. Although a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remains to be proven, phytotherapy-associated interstitial nephropathy should be considered in patients who present with unexplained renal failure.",
+    "pubmed_id": "17028363",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            82,
+            96,
+            "anthraquinones",
+            "Chemical",
+            "D000880"
+        ],
+        [
+            98,
+            112,
+            "Chinese herbal",
+            "Chemical",
+            "D004365"
+        ],
+        [
+            255,
+            266,
+            "Nephropathy",
+            "Disease",
+            "D007674"
+        ],
+        [
+            277,
+            290,
+            "Chinese herbs",
+            "Chemical",
+            "D004365"
+        ],
+        [
+            350,
+            368,
+            "aristolochic acids",
+            "Chemical",
+            "D034341"
+        ],
+        [
+            414,
+            433,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            475,
+            489,
+            "Chinese herbal",
+            "Chemical",
+            "D004365"
+        ],
+        [
+            519,
+            532,
+            "anthraquinone",
+            "Chemical",
+            "D000880"
+        ],
+        [
+            589,
+            601,
+            "renal injury",
+            "Disease",
+            "D058186"
+        ],
+        [
+            695,
+            705,
+            "diclofenac",
+            "Chemical",
+            "D004008"
+        ],
+        [
+            761,
+            769,
+            "fibrosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            867,
+            875,
+            "fibrosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            888,
+            895,
+            "atrophy",
+            "Disease",
+            "D001284"
+        ],
+        [
+            998,
+            1011,
+            "anthraquinone",
+            "Chemical",
+            "D000880"
+        ],
+        [
+            1040,
+            1052,
+            "renal injury",
+            "Disease",
+            "D058186"
+        ],
+        [
+            1112,
+            1123,
+            "nephropathy",
+            "Disease",
+            "D007674"
+        ],
+        [
+            1186,
+            1199,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ]
+    ],
+    "split_sentence": [
+        "Acute renal failure associated with prolonged intake of slimming pills containing anthraquinones.",
+        "Chinese herbal medicine preparations are widely available and often regarded by the public as natural and safe remedies for a variety of medical conditions.",
+        "Nephropathy caused by Chinese herbs has previously been reported, usually involving the use of aristolochic acids.",
+        "We report a 23-year-old woman who developed acute renal failure following prolonged use of a proprietary Chinese herbal slimming pill that contained anthraquinone derivatives, extracted from Rhizoma Rhei (rhubarb).",
+        "The renal injury was probably aggravated by the concomitant intake of a non-steroidal anti-inflammatory drug, diclofenac.",
+        "Renal pathology was that of hypocellular interstitial fibrosis.",
+        "Spontaneous renal recovery occurred upon cessation of the slimming pills, but mild interstitial fibrosis and tubular atrophy was still evident histologically 4 months later.",
+        "Although a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remains to be proven, phytotherapy-associated interstitial nephropathy should be considered in patients who present with unexplained renal failure."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tAcute renal failure\t<target> Acute renal failure </target> associated with prolonged intake of slimming pills containing anthraquinones .",
+        "D000880\tChemical\tanthraquinones\tAcute renal failure associated with prolonged intake of slimming pills containing <target> anthraquinones </target> .",
+        "D004365\tChemical\tChinese herbal\t<target> Chinese herbal </target> medicine preparations are widely available and often regarded by the public as natural and safe remedies for a variety of medical conditions .",
+        "D007674\tDisease\tNephropathy\t<target> Nephropathy </target> caused by Chinese herbs has previously been reported , usually involving the use of aristolochic acids .",
+        "D004365\tChemical\tChinese herbs\tNephropathy caused by <target> Chinese herbs </target> has previously been reported , usually involving the use of aristolochic acids .",
+        "D034341\tChemical\taristolochic acids\tNephropathy caused by Chinese herbs has previously been reported , usually involving the use of <target> aristolochic acids </target> .",
+        "D058186\tDisease\tacute renal failure\tWe report a 23-year-old woman who developed <target> acute renal failure </target> following prolonged use of a proprietary Chinese herbal slimming pill that contained anthraquinone derivatives , extracted from Rhizoma Rhei ( rhubarb ) .",
+        "D004365\tChemical\tChinese herbal\tWe report a 23-year-old woman who developed acute renal failure following prolonged use of a proprietary <target> Chinese herbal </target> slimming pill that contained anthraquinone derivatives , extracted from Rhizoma Rhei ( rhubarb ) .",
+        "D000880\tChemical\tanthraquinone\tWe report a 23-year-old woman who developed acute renal failure following prolonged use of a proprietary Chinese herbal slimming pill that contained <target> anthraquinone </target> derivatives , extracted from Rhizoma Rhei ( rhubarb ) .",
+        "D058186\tDisease\trenal injury\tThe <target> renal injury </target> was probably aggravated by the concomitant intake of a non-steroidal anti-inflammatory drug , diclofenac .",
+        "D004008\tChemical\tdiclofenac\tThe renal injury was probably aggravated by the concomitant intake of a non-steroidal anti-inflammatory drug , <target> diclofenac </target> .",
+        "D005355\tDisease\tfibrosis\tRenal pathology was that of hypocellular interstitial <target> fibrosis </target> .",
+        "D005355\tDisease\tfibrosis\tSpontaneous renal recovery occurred upon cessation of the slimming pills , but mild interstitial <target> fibrosis </target> and tubular atrophy was still evident histologically 4 months later .",
+        "D001284\tDisease\tatrophy\tSpontaneous renal recovery occurred upon cessation of the slimming pills , but mild interstitial fibrosis and tubular <target> atrophy </target> was still evident histologically 4 months later .",
+        "D000880\tChemical\tanthraquinone\tAlthough a causal relationship between the use of an <target> anthraquinone </target> -containing herbal agent and renal injury remains to be proven , phytotherapy-associated interstitial nephropathy should be considered in patients who present with unexplained renal failure .",
+        "D058186\tDisease\trenal injury\tAlthough a causal relationship between the use of an anthraquinone-containing herbal agent and <target> renal injury </target> remains to be proven , phytotherapy-associated interstitial nephropathy should be considered in patients who present with unexplained renal failure .",
+        "D007674\tDisease\tnephropathy\tAlthough a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remains to be proven , phytotherapy-associated interstitial <target> nephropathy </target> should be considered in patients who present with unexplained renal failure .",
+        "D051437\tDisease\trenal failure\tAlthough a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remains to be proven , phytotherapy-associated interstitial nephropathy should be considered in patients who present with unexplained <target> renal failure </target> ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tAcute renal failure\t<target> acute renal failure </target> associate with prolonged intake of slimming pill contain anthraquinone .",
+        "D000880\tChemical\tanthraquinones\tacute renal failure associate with prolonged intake of slimming pill contain <target> anthraquinone </target> .",
+        "D004365\tChemical\tChinese herbal\t<target> chinese herbal </target> medicine preparation be widely available and often regard by the public as natural and safe remedy for a variety of medical condition .",
+        "D007674\tDisease\tNephropathy\t<target> Nephropathy </target> cause by chinese herb have previously be report , usually involve the use of aristolochic acid .",
+        "D004365\tChemical\tChinese herbs\tNephropathy cause by <target> chinese herb </target> have previously be report , usually involve the use of aristolochic acid .",
+        "D034341\tChemical\taristolochic acids\tNephropathy cause by chinese herb have previously be report , usually involve the use of <target> aristolochic acid </target> .",
+        "D058186\tDisease\tacute renal failure\twe report a 23-year-old woman who develop <target> acute renal failure </target> follow prolonged use of a proprietary chinese herbal slimming pill that contain anthraquinone derivative , extract from Rhizoma Rhei ( rhubarb ) .",
+        "D004365\tChemical\tChinese herbal\twe report a 23-year-old woman who develop acute renal failure follow prolonged use of a proprietary <target> chinese herbal </target> slimming pill that contain anthraquinone derivative , extract from Rhizoma Rhei ( rhubarb ) .",
+        "D000880\tChemical\tanthraquinone\twe report a 23-year-old woman who develop acute renal failure follow prolonged use of a proprietary chinese herbal slimming pill that contain <target> anthraquinone </target> derivative , extract from Rhizoma Rhei ( rhubarb ) .",
+        "D058186\tDisease\trenal injury\tthe <target> renal injury </target> be probably aggravate by the concomitant intake of a non-steroidal anti-inflammatory drug , diclofenac .",
+        "D004008\tChemical\tdiclofenac\tthe renal injury be probably aggravate by the concomitant intake of a non-steroidal anti-inflammatory drug , <target> diclofenac </target> .",
+        "D005355\tDisease\tfibrosis\trenal pathology be that of hypocellular interstitial <target> fibrosis </target> .",
+        "D005355\tDisease\tfibrosis\tspontaneous renal recovery occur upon cessation of the slimming pill , but mild interstitial <target> fibrosis </target> and tubular atrophy be still evident histologically 4 month later .",
+        "D001284\tDisease\tatrophy\tspontaneous renal recovery occur upon cessation of the slimming pill , but mild interstitial fibrosis and tubular <target> atrophy </target> be still evident histologically 4 month later .",
+        "D000880\tChemical\tanthraquinone\talthough a causal relationship between the use of an <target> anthraquinone </target> -containing herbal agent and renal injury remain to be prove , phytotherapy-associated interstitial nephropathy should be consider in patient who present with unexplained renal failure .",
+        "D058186\tDisease\trenal injury\talthough a causal relationship between the use of an anthraquinone-containing herbal agent and <target> renal injury </target> remain to be prove , phytotherapy-associated interstitial nephropathy should be consider in patient who present with unexplained renal failure .",
+        "D007674\tDisease\tnephropathy\talthough a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remain to be prove , phytotherapy-associated interstitial <target> nephropathy </target> should be consider in patient who present with unexplained renal failure .",
+        "D051437\tDisease\trenal failure\talthough a causal relationship between the use of an anthraquinone-containing herbal agent and renal injury remain to be prove , phytotherapy-associated interstitial nephropathy should be consider in patient who present with unexplained <target> renal failure </target> ."
+    ]
+}

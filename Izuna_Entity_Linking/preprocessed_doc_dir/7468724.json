@@ -1,0 +1,73 @@
+{
+    "title": "Cardiovascular complications associated with terbutaline treatment for preterm labor.",
+    "abst": "Severe cardiovascular complications occurred in eight of 160 patients treated with terbutaline for preterm labor. Associated corticosteroid therapy and twin gestations appear to be predisposing factors. Potential mechanisms of the pathophysiology are briefly discussed.",
+    "title_plus_abst": "Cardiovascular complications associated with terbutaline treatment for preterm labor. Severe cardiovascular complications occurred in eight of 160 patients treated with terbutaline for preterm labor. Associated corticosteroid therapy and twin gestations appear to be predisposing factors. Potential mechanisms of the pathophysiology are briefly discussed.",
+    "pubmed_id": "7468724",
+    "entities": [
+        [
+            0,
+            28,
+            "Cardiovascular complications",
+            "Disease",
+            "D002318"
+        ],
+        [
+            45,
+            56,
+            "terbutaline",
+            "Chemical",
+            "D013726"
+        ],
+        [
+            71,
+            84,
+            "preterm labor",
+            "Disease",
+            "D007752"
+        ],
+        [
+            93,
+            121,
+            "cardiovascular complications",
+            "Disease",
+            "D002318"
+        ],
+        [
+            169,
+            180,
+            "terbutaline",
+            "Chemical",
+            "D013726"
+        ],
+        [
+            185,
+            198,
+            "preterm labor",
+            "Disease",
+            "D007752"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiovascular complications associated with terbutaline treatment for preterm labor.",
+        "Severe cardiovascular complications occurred in eight of 160 patients treated with terbutaline for preterm labor.",
+        "Associated corticosteroid therapy and twin gestations appear to be predisposing factors.",
+        "Potential mechanisms of the pathophysiology are briefly discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002318\tDisease\tCardiovascular complications\t<target> Cardiovascular complications </target> associated with terbutaline treatment for preterm labor .",
+        "D013726\tChemical\tterbutaline\tCardiovascular complications associated with <target> terbutaline </target> treatment for preterm labor .",
+        "D007752\tDisease\tpreterm labor\tCardiovascular complications associated with terbutaline treatment for <target> preterm labor </target> .",
+        "D002318\tDisease\tcardiovascular complications\tSevere <target> cardiovascular complications </target> occurred in eight of 160 patients treated with terbutaline for preterm labor .",
+        "D013726\tChemical\tterbutaline\tSevere cardiovascular complications occurred in eight of 160 patients treated with <target> terbutaline </target> for preterm labor .",
+        "D007752\tDisease\tpreterm labor\tSevere cardiovascular complications occurred in eight of 160 patients treated with terbutaline for <target> preterm labor </target> ."
+    ],
+    "lines_lemma": [
+        "D002318\tDisease\tCardiovascular complications\t<target> cardiovascular complication </target> associate with terbutaline treatment for preterm labor .",
+        "D013726\tChemical\tterbutaline\tcardiovascular complication associate with <target> terbutaline </target> treatment for preterm labor .",
+        "D007752\tDisease\tpreterm labor\tcardiovascular complication associate with terbutaline treatment for <target> preterm labor </target> .",
+        "D002318\tDisease\tcardiovascular complications\tsevere <target> cardiovascular complication </target> occur in eight of 160 patient treat with terbutaline for preterm labor .",
+        "D013726\tChemical\tterbutaline\tsevere cardiovascular complication occur in eight of 160 patient treat with <target> terbutaline </target> for preterm labor .",
+        "D007752\tDisease\tpreterm labor\tsevere cardiovascular complication occur in eight of 160 patient treat with terbutaline for <target> preterm labor </target> ."
+    ]
+}

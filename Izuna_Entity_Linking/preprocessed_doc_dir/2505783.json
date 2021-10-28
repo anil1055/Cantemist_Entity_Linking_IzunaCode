@@ -1,0 +1,110 @@
+{
+    "title": "Chloroacetaldehyde and its contribution to urotoxicity during treatment with cyclophosphamide or ifosfamide. An experimental study/short communication.",
+    "abst": "Based on clinical data, indicating that chloroacetaldehyde (CAA) is an important metabolite of oxazaphosphorine cytostatics, an experimental study was carried out in order to elucidate the role of CAA in the development of hemorrhagic cystitis. The data demonstrate that CAA after i.v. administration does not contribute to bladder damage. When instilled directly into the bladder, CAA exerts urotoxic effects, it is, however, susceptible to detoxification with mesna.",
+    "title_plus_abst": "Chloroacetaldehyde and its contribution to urotoxicity during treatment with cyclophosphamide or ifosfamide. An experimental study/short communication. Based on clinical data, indicating that chloroacetaldehyde (CAA) is an important metabolite of oxazaphosphorine cytostatics, an experimental study was carried out in order to elucidate the role of CAA in the development of hemorrhagic cystitis. The data demonstrate that CAA after i.v. administration does not contribute to bladder damage. When instilled directly into the bladder, CAA exerts urotoxic effects, it is, however, susceptible to detoxification with mesna.",
+    "pubmed_id": "2505783",
+    "entities": [
+        [
+            0,
+            18,
+            "Chloroacetaldehyde",
+            "Chemical",
+            "C004656"
+        ],
+        [
+            77,
+            93,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            97,
+            107,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            192,
+            210,
+            "chloroacetaldehyde",
+            "Chemical",
+            "C004656"
+        ],
+        [
+            212,
+            215,
+            "CAA",
+            "Chemical",
+            "C004656"
+        ],
+        [
+            349,
+            352,
+            "CAA",
+            "Chemical",
+            "C004656"
+        ],
+        [
+            423,
+            426,
+            "CAA",
+            "Chemical",
+            "C004656"
+        ],
+        [
+            476,
+            490,
+            "bladder damage",
+            "Disease",
+            "D001745"
+        ],
+        [
+            534,
+            537,
+            "CAA",
+            "Chemical",
+            "C004656"
+        ],
+        [
+            614,
+            619,
+            "mesna",
+            "Chemical",
+            "D015080"
+        ]
+    ],
+    "split_sentence": [
+        "Chloroacetaldehyde and its contribution to urotoxicity during treatment with cyclophosphamide or ifosfamide.",
+        "An experimental study/short communication.",
+        "Based on clinical data, indicating that chloroacetaldehyde (CAA) is an important metabolite of oxazaphosphorine cytostatics, an experimental study was carried out in order to elucidate the role of CAA in the development of hemorrhagic cystitis.",
+        "The data demonstrate that CAA after i.v. administration does not contribute to bladder damage.",
+        "When instilled directly into the bladder, CAA exerts urotoxic effects, it is, however, susceptible to detoxification with mesna."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C004656\tChemical\tChloroacetaldehyde\t<target> Chloroacetaldehyde </target> and its contribution to urotoxicity during treatment with cyclophosphamide or ifosfamide .",
+        "D003520\tChemical\tcyclophosphamide\tChloroacetaldehyde and its contribution to urotoxicity during treatment with <target> cyclophosphamide </target> or ifosfamide .",
+        "D007069\tChemical\tifosfamide\tChloroacetaldehyde and its contribution to urotoxicity during treatment with cyclophosphamide or <target> ifosfamide </target> .",
+        "C004656\tChemical\tchloroacetaldehyde\tBased on clinical data , indicating that <target> chloroacetaldehyde </target> ( CAA ) is an important metabolite of oxazaphosphorine cytostatics , an experimental study was carried out in order to elucidate the role of CAA in the development of hemorrhagic cystitis .",
+        "C004656\tChemical\tCAA\tBased on clinical data , indicating that chloroacetaldehyde ( <target> CAA </target> ) is an important metabolite of oxazaphosphorine cytostatics , an experimental study was carried out in order to elucidate the role of CAA in the development of hemorrhagic cystitis .",
+        "C004656\tChemical\tCAA\tBased on clinical data , indicating that chloroacetaldehyde ( CAA ) is an important metabolite of oxazaphosphorine cytostatics , an experimental study was carried out in order to elucidate the role of <target> CAA </target> in the development of hemorrhagic cystitis .",
+        "C004656\tChemical\tCAA\tThe data demonstrate that <target> CAA </target> after i.v . administration does not contribute to bladder damage .",
+        "D001745\tDisease\tbladder damage\tThe data demonstrate that CAA after i.v . administration does not contribute to <target> bladder damage </target> .",
+        "C004656\tChemical\tCAA\tWhen instilled directly into the bladder , <target> CAA </target> exerts urotoxic effects , it is , however , susceptible to detoxification with mesna .",
+        "D015080\tChemical\tmesna\tWhen instilled directly into the bladder , CAA exerts urotoxic effects , it is , however , susceptible to detoxification with <target> mesna </target> ."
+    ],
+    "lines_lemma": [
+        "C004656\tChemical\tChloroacetaldehyde\t<target> Chloroacetaldehyde </target> and its contribution to urotoxicity during treatment with cyclophosphamide or ifosfamide .",
+        "D003520\tChemical\tcyclophosphamide\tChloroacetaldehyde and its contribution to urotoxicity during treatment with <target> cyclophosphamide </target> or ifosfamide .",
+        "D007069\tChemical\tifosfamide\tChloroacetaldehyde and its contribution to urotoxicity during treatment with cyclophosphamide or <target> ifosfamide </target> .",
+        "C004656\tChemical\tchloroacetaldehyde\tbase on clinical datum , indicate that <target> chloroacetaldehyde </target> ( caa ) be an important metabolite of oxazaphosphorine cytostatic , an experimental study be carry out in order to elucidate the role of caa in the development of hemorrhagic cystitis .",
+        "C004656\tChemical\tCAA\tbase on clinical datum , indicate that chloroacetaldehyde ( <target> caa </target> ) be an important metabolite of oxazaphosphorine cytostatic , an experimental study be carry out in order to elucidate the role of caa in the development of hemorrhagic cystitis .",
+        "C004656\tChemical\tCAA\tbase on clinical datum , indicate that chloroacetaldehyde ( caa ) be an important metabolite of oxazaphosphorine cytostatic , an experimental study be carry out in order to elucidate the role of <target> CAA </target> in the development of hemorrhagic cystitis .",
+        "C004656\tChemical\tCAA\tthe datum demonstrate that <target> CAA </target> after i.v . administration do not contribute to bladder damage .",
+        "D001745\tDisease\tbladder damage\tthe datum demonstrate that CAA after i.v . administration do not contribute to <target> bladder damage </target> .",
+        "C004656\tChemical\tCAA\twhen instill directly into the bladder , <target> CAA </target> exert urotoxic effect , it be , however , susceptible to detoxification with mesna .",
+        "D015080\tChemical\tmesna\twhen instill directly into the bladder , CAA exert urotoxic effect , it be , however , susceptible to detoxification with <target> mesna </target> ."
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "title": "Chorea associated with oral contraception.",
+    "abst": "Three patients developed chorea while receiving oral contraceptives. Two were young patients whose chorea developed long after treatment had been started and disappeared soon after it had been discontinued. The third patient had acute amphetamine-induced chorea after prolonged oral contraception. Prolonged administration of female sex hormones is a possible cause of chorea in women who have not previously had chorea or rheumatic fever.",
+    "title_plus_abst": "Chorea associated with oral contraception. Three patients developed chorea while receiving oral contraceptives. Two were young patients whose chorea developed long after treatment had been started and disappeared soon after it had been discontinued. The third patient had acute amphetamine-induced chorea after prolonged oral contraception. Prolonged administration of female sex hormones is a possible cause of chorea in women who have not previously had chorea or rheumatic fever.",
+    "pubmed_id": "3123611",
+    "entities": [
+        [
+            0,
+            6,
+            "Chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            23,
+            41,
+            "oral contraception",
+            "Chemical",
+            "D003276"
+        ],
+        [
+            68,
+            74,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            91,
+            110,
+            "oral contraceptives",
+            "Chemical",
+            "D003276"
+        ],
+        [
+            142,
+            148,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            278,
+            289,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            298,
+            304,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            321,
+            339,
+            "oral contraception",
+            "Chemical",
+            "D003276"
+        ],
+        [
+            412,
+            418,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            456,
+            462,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            466,
+            481,
+            "rheumatic fever",
+            "Disease",
+            "D012213"
+        ]
+    ],
+    "split_sentence": [
+        "Chorea associated with oral contraception.",
+        "Three patients developed chorea while receiving oral contraceptives.",
+        "Two were young patients whose chorea developed long after treatment had been started and disappeared soon after it had been discontinued.",
+        "The third patient had acute amphetamine-induced chorea after prolonged oral contraception.",
+        "Prolonged administration of female sex hormones is a possible cause of chorea in women who have not previously had chorea or rheumatic fever."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002819\tDisease\tChorea\t<target> Chorea </target> associated with oral contraception .",
+        "D003276\tChemical\toral contraception\tChorea associated with <target> oral contraception </target> .",
+        "D002819\tDisease\tchorea\tThree patients developed <target> chorea </target> while receiving oral contraceptives .",
+        "D003276\tChemical\toral contraceptives\tThree patients developed chorea while receiving <target> oral contraceptives </target> .",
+        "D002819\tDisease\tchorea\tTwo were young patients whose <target> chorea </target> developed long after treatment had been started and disappeared soon after it had been discontinued .",
+        "D000661\tChemical\tamphetamine\tThe third patient had acute <target> amphetamine </target> -induced chorea after prolonged oral contraception .",
+        "D002819\tDisease\tchorea\tThe third patient had acute amphetamine-induced <target> chorea </target> after prolonged oral contraception .",
+        "D003276\tChemical\toral contraception\tThe third patient had acute amphetamine-induced chorea after prolonged <target> oral contraception </target> .",
+        "D002819\tDisease\tchorea\tProlonged administration of female sex hormones is a possible cause of <target> chorea </target> in women who have not previously had chorea or rheumatic fever .",
+        "D002819\tDisease\tchorea\tProlonged administration of female sex hormones is a possible cause of chorea in women who have not previously had <target> chorea </target> or rheumatic fever .",
+        "D012213\tDisease\trheumatic fever\tProlonged administration of female sex hormones is a possible cause of chorea in women who have not previously had chorea or <target> rheumatic fever </target> ."
+    ],
+    "lines_lemma": [
+        "D002819\tDisease\tChorea\t<target> Chorea </target> associate with oral contraception .",
+        "D003276\tChemical\toral contraception\tChorea associate with <target> oral contraception </target> .",
+        "D002819\tDisease\tchorea\tthree patient develop <target> chorea </target> while receive oral contraceptive .",
+        "D003276\tChemical\toral contraceptives\tthree patient develop chorea while receive <target> oral contraceptive </target> .",
+        "D002819\tDisease\tchorea\ttwo be young patient whose <target> chorea </target> develop long after treatment have be start and disappear soon after it have be discontinue .",
+        "D000661\tChemical\tamphetamine\tthe third patient have acute <target> amphetamine </target> -induced chorea after prolonged oral contraception .",
+        "D002819\tDisease\tchorea\tthe third patient have acute amphetamine-induced <target> chorea </target> after prolonged oral contraception .",
+        "D003276\tChemical\toral contraception\tthe third patient have acute amphetamine-induced chorea after prolonged <target> oral contraception </target> .",
+        "D002819\tDisease\tchorea\tprolonged administration of female sex hormone be a possible cause of <target> chorea </target> in woman who have not previously have chorea or rheumatic fever .",
+        "D002819\tDisease\tchorea\tprolonged administration of female sex hormone be a possible cause of chorea in woman who have not previously have <target> chorea </target> or rheumatic fever .",
+        "D012213\tDisease\trheumatic fever\tprolonged administration of female sex hormone be a possible cause of chorea in woman who have not previously have chorea or <target> rheumatic fever </target> ."
+    ]
+}

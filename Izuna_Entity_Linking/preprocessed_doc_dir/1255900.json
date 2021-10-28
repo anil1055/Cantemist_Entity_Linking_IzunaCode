@@ -1,0 +1,93 @@
+{
+    "title": "Pyeloureteral filling defects associated with systemic anticoagulation: a case report.",
+    "abst": "The etiology of pyeloureteritis cystica has long been attributed to chronic infection and inflammation. A case is presented that is unique in that the acute onset and the rapid resolution of pyeloureteral filling defects in this patient were documented by radiography. There is no evidence of antecedent or concurrent infection in this patient. The disease occurred subsequent to the initiation of heparin therapy for suspected pelvic thrombophlebitis and cleared rapidly subsequent to its discontinuation. The rate of resolution of the radiographic findings may be helpful in distinguishing between true pyeloureteritis cystica and submucosal hemorrhage.",
+    "title_plus_abst": "Pyeloureteral filling defects associated with systemic anticoagulation: a case report. The etiology of pyeloureteritis cystica has long been attributed to chronic infection and inflammation. A case is presented that is unique in that the acute onset and the rapid resolution of pyeloureteral filling defects in this patient were documented by radiography. There is no evidence of antecedent or concurrent infection in this patient. The disease occurred subsequent to the initiation of heparin therapy for suspected pelvic thrombophlebitis and cleared rapidly subsequent to its discontinuation. The rate of resolution of the radiographic findings may be helpful in distinguishing between true pyeloureteritis cystica and submucosal hemorrhage.",
+    "pubmed_id": "1255900",
+    "entities": [
+        [
+            103,
+            126,
+            "pyeloureteritis cystica",
+            "Disease",
+            "D011702"
+        ],
+        [
+            163,
+            172,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            177,
+            189,
+            "inflammation",
+            "Disease",
+            "D007249"
+        ],
+        [
+            405,
+            414,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            485,
+            492,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            522,
+            538,
+            "thrombophlebitis",
+            "Disease",
+            "D013924"
+        ],
+        [
+            692,
+            715,
+            "pyeloureteritis cystica",
+            "Disease",
+            "D011702"
+        ],
+        [
+            720,
+            741,
+            "submucosal hemorrhage",
+            "Disease",
+            "D006470"
+        ]
+    ],
+    "split_sentence": [
+        "Pyeloureteral filling defects associated with systemic anticoagulation: a case report.",
+        "The etiology of pyeloureteritis cystica has long been attributed to chronic infection and inflammation.",
+        "A case is presented that is unique in that the acute onset and the rapid resolution of pyeloureteral filling defects in this patient were documented by radiography.",
+        "There is no evidence of antecedent or concurrent infection in this patient.",
+        "The disease occurred subsequent to the initiation of heparin therapy for suspected pelvic thrombophlebitis and cleared rapidly subsequent to its discontinuation.",
+        "The rate of resolution of the radiographic findings may be helpful in distinguishing between true pyeloureteritis cystica and submucosal hemorrhage."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011702\tDisease\tpyeloureteritis cystica\tThe etiology of <target> pyeloureteritis cystica </target> has long been attributed to chronic infection and inflammation .",
+        "D007239\tDisease\tinfection\tThe etiology of pyeloureteritis cystica has long been attributed to chronic <target> infection </target> and inflammation .",
+        "D007249\tDisease\tinflammation\tThe etiology of pyeloureteritis cystica has long been attributed to chronic infection and <target> inflammation </target> .",
+        "D007239\tDisease\tinfection\tThere is no evidence of antecedent or concurrent <target> infection </target> in this patient .",
+        "D006493\tChemical\theparin\tThe disease occurred subsequent to the initiation of <target> heparin </target> therapy for suspected pelvic thrombophlebitis and cleared rapidly subsequent to its discontinuation .",
+        "D013924\tDisease\tthrombophlebitis\tThe disease occurred subsequent to the initiation of heparin therapy for suspected pelvic <target> thrombophlebitis </target> and cleared rapidly subsequent to its discontinuation .",
+        "D011702\tDisease\tpyeloureteritis cystica\tThe rate of resolution of the radiographic findings may be helpful in distinguishing between true <target> pyeloureteritis cystica </target> and submucosal hemorrhage .",
+        "D006470\tDisease\tsubmucosal hemorrhage\tThe rate of resolution of the radiographic findings may be helpful in distinguishing between true pyeloureteritis cystica and <target> submucosal hemorrhage </target> ."
+    ],
+    "lines_lemma": [
+        "D011702\tDisease\tpyeloureteritis cystica\tthe etiology of <target> pyeloureteritis cystica </target> have long be attribute to chronic infection and inflammation .",
+        "D007239\tDisease\tinfection\tthe etiology of pyeloureteritis cystica have long be attribute to chronic <target> infection </target> and inflammation .",
+        "D007249\tDisease\tinflammation\tthe etiology of pyeloureteritis cystica have long be attribute to chronic infection and <target> inflammation </target> .",
+        "D007239\tDisease\tinfection\tthere be no evidence of antecedent or concurrent <target> infection </target> in this patient .",
+        "D006493\tChemical\theparin\tthe disease occur subsequent to the initiation of <target> heparin </target> therapy for suspect pelvic thrombophlebitis and clear rapidly subsequent to its discontinuation .",
+        "D013924\tDisease\tthrombophlebitis\tthe disease occur subsequent to the initiation of heparin therapy for suspect pelvic <target> thrombophlebitis </target> and clear rapidly subsequent to its discontinuation .",
+        "D011702\tDisease\tpyeloureteritis cystica\tthe rate of resolution of the radiographic finding may be helpful in distinguish between true <target> pyeloureteritis cystica </target> and submucosal hemorrhage .",
+        "D006470\tDisease\tsubmucosal hemorrhage\tthe rate of resolution of the radiographic finding may be helpful in distinguish between true pyeloureteritis cystica and <target> submucosal hemorrhage </target> ."
+    ]
+}

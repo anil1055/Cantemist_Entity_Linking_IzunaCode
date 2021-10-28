@@ -1,0 +1,192 @@
+{
+    "title": "Nonalcoholic fatty liver disease during valproate therapy.",
+    "abst": "Valproic acid (VPA) is effective for the treatment of many types of epilepsy, but its use can be associated with an increase in body weight. We report a case of nonalcoholic fatty liver disease (NAFLD) arising in a child who developed obesity during VPA treatment. Laboratory data revealed hyperinsulinemia with insulin resistance. After the withdrawal of VPA therapy, our patient showed a significant weight loss, a decrease of body mass index, and normalization of metabolic and endocrine parameters; moreover, ultrasound measurements showed a complete normalization. The present case suggests that obesity, hyperinsulinemia, insulin resistance, and long-term treatment with VPA may be all associated with the development of NAFLD; this side effect is reversible after VPA withdrawal.",
+    "title_plus_abst": "Nonalcoholic fatty liver disease during valproate therapy. Valproic acid (VPA) is effective for the treatment of many types of epilepsy, but its use can be associated with an increase in body weight. We report a case of nonalcoholic fatty liver disease (NAFLD) arising in a child who developed obesity during VPA treatment. Laboratory data revealed hyperinsulinemia with insulin resistance. After the withdrawal of VPA therapy, our patient showed a significant weight loss, a decrease of body mass index, and normalization of metabolic and endocrine parameters; moreover, ultrasound measurements showed a complete normalization. The present case suggests that obesity, hyperinsulinemia, insulin resistance, and long-term treatment with VPA may be all associated with the development of NAFLD; this side effect is reversible after VPA withdrawal.",
+    "pubmed_id": "19184102",
+    "entities": [
+        [
+            0,
+            32,
+            "Nonalcoholic fatty liver disease",
+            "Disease",
+            "D065626"
+        ],
+        [
+            40,
+            49,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            59,
+            72,
+            "Valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            74,
+            77,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            127,
+            135,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            220,
+            252,
+            "nonalcoholic fatty liver disease",
+            "Disease",
+            "D065626"
+        ],
+        [
+            254,
+            259,
+            "NAFLD",
+            "Disease",
+            "D065626"
+        ],
+        [
+            294,
+            301,
+            "obesity",
+            "Disease",
+            "D009765"
+        ],
+        [
+            309,
+            312,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            349,
+            365,
+            "hyperinsulinemia",
+            "Disease",
+            "D006946"
+        ],
+        [
+            371,
+            389,
+            "insulin resistance",
+            "Disease",
+            "D007333"
+        ],
+        [
+            415,
+            418,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            461,
+            472,
+            "weight loss",
+            "Disease",
+            "D015431"
+        ],
+        [
+            660,
+            667,
+            "obesity",
+            "Disease",
+            "D009765"
+        ],
+        [
+            669,
+            685,
+            "hyperinsulinemia",
+            "Disease",
+            "D006946"
+        ],
+        [
+            687,
+            705,
+            "insulin resistance",
+            "Disease",
+            "D007333"
+        ],
+        [
+            736,
+            739,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            786,
+            791,
+            "NAFLD",
+            "Disease",
+            "D065626"
+        ],
+        [
+            830,
+            833,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ]
+    ],
+    "split_sentence": [
+        "Nonalcoholic fatty liver disease during valproate therapy.",
+        "Valproic acid (VPA) is effective for the treatment of many types of epilepsy, but its use can be associated with an increase in body weight.",
+        "We report a case of nonalcoholic fatty liver disease (NAFLD) arising in a child who developed obesity during VPA treatment.",
+        "Laboratory data revealed hyperinsulinemia with insulin resistance.",
+        "After the withdrawal of VPA therapy, our patient showed a significant weight loss, a decrease of body mass index, and normalization of metabolic and endocrine parameters; moreover, ultrasound measurements showed a complete normalization.",
+        "The present case suggests that obesity, hyperinsulinemia, insulin resistance, and long-term treatment with VPA may be all associated with the development of NAFLD; this side effect is reversible after VPA withdrawal."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D065626\tDisease\tNonalcoholic fatty liver disease\t<target> Nonalcoholic fatty liver disease </target> during valproate therapy .",
+        "D014635\tChemical\tvalproate\tNonalcoholic fatty liver disease during <target> valproate </target> therapy .",
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> ( VPA ) is effective for the treatment of many types of epilepsy , but its use can be associated with an increase in body weight .",
+        "D014635\tChemical\tVPA\tValproic acid ( <target> VPA </target> ) is effective for the treatment of many types of epilepsy , but its use can be associated with an increase in body weight .",
+        "D004827\tDisease\tepilepsy\tValproic acid ( VPA ) is effective for the treatment of many types of <target> epilepsy </target> , but its use can be associated with an increase in body weight .",
+        "D065626\tDisease\tnonalcoholic fatty liver disease\tWe report a case of <target> nonalcoholic fatty liver disease </target> ( NAFLD ) arising in a child who developed obesity during VPA treatment .",
+        "D065626\tDisease\tNAFLD\tWe report a case of nonalcoholic fatty liver disease ( <target> NAFLD </target> ) arising in a child who developed obesity during VPA treatment .",
+        "D009765\tDisease\tobesity\tWe report a case of nonalcoholic fatty liver disease ( NAFLD ) arising in a child who developed <target> obesity </target> during VPA treatment .",
+        "D014635\tChemical\tVPA\tWe report a case of nonalcoholic fatty liver disease ( NAFLD ) arising in a child who developed obesity during <target> VPA </target> treatment .",
+        "D006946\tDisease\thyperinsulinemia\tLaboratory data revealed <target> hyperinsulinemia </target> with insulin resistance .",
+        "D007333\tDisease\tinsulin resistance\tLaboratory data revealed hyperinsulinemia with <target> insulin resistance </target> .",
+        "D014635\tChemical\tVPA\tAfter the withdrawal of <target> VPA </target> therapy , our patient showed a significant weight loss , a decrease of body mass index , and normalization of metabolic and endocrine parameters ; moreover , ultrasound measurements showed a complete normalization .",
+        "D015431\tDisease\tweight loss\tAfter the withdrawal of VPA therapy , our patient showed a significant <target> weight loss </target> , a decrease of body mass index , and normalization of metabolic and endocrine parameters ; moreover , ultrasound measurements showed a complete normalization .",
+        "D009765\tDisease\tobesity\tThe present case suggests that <target> obesity </target> , hyperinsulinemia , insulin resistance , and long-term treatment with VPA may be all associated with the development of NAFLD ; this side effect is reversible after VPA withdrawal .",
+        "D006946\tDisease\thyperinsulinemia\tThe present case suggests that obesity , <target> hyperinsulinemia </target> , insulin resistance , and long-term treatment with VPA may be all associated with the development of NAFLD ; this side effect is reversible after VPA withdrawal .",
+        "D007333\tDisease\tinsulin resistance\tThe present case suggests that obesity , hyperinsulinemia , <target> insulin resistance </target> , and long-term treatment with VPA may be all associated with the development of NAFLD ; this side effect is reversible after VPA withdrawal .",
+        "D014635\tChemical\tVPA\tThe present case suggests that obesity , hyperinsulinemia , insulin resistance , and long-term treatment with <target> VPA </target> may be all associated with the development of NAFLD ; this side effect is reversible after VPA withdrawal .",
+        "D065626\tDisease\tNAFLD\tThe present case suggests that obesity , hyperinsulinemia , insulin resistance , and long-term treatment with VPA may be all associated with the development of <target> NAFLD </target> ; this side effect is reversible after VPA withdrawal .",
+        "D014635\tChemical\tVPA\tThe present case suggests that obesity , hyperinsulinemia , insulin resistance , and long-term treatment with VPA may be all associated with the development of NAFLD ; this side effect is reversible after <target> VPA </target> withdrawal ."
+    ],
+    "lines_lemma": [
+        "D065626\tDisease\tNonalcoholic fatty liver disease\t<target> Nonalcoholic fatty liver disease </target> during valproate therapy .",
+        "D014635\tChemical\tvalproate\tnonalcoholic fatty liver disease during <target> valproate </target> therapy .",
+        "D014635\tChemical\tValproic acid\t<target> Valproic acid </target> ( vpa ) be effective for the treatment of many type of epilepsy , but its use can be associate with an increase in body weight .",
+        "D014635\tChemical\tVPA\tvalproic acid ( <target> vpa </target> ) be effective for the treatment of many type of epilepsy , but its use can be associate with an increase in body weight .",
+        "D004827\tDisease\tepilepsy\tvalproic acid ( vpa ) be effective for the treatment of many type of <target> epilepsy </target> , but its use can be associate with an increase in body weight .",
+        "D065626\tDisease\tnonalcoholic fatty liver disease\twe report a case of <target> nonalcoholic fatty liver disease </target> ( nafld ) arise in a child who develop obesity during vpa treatment .",
+        "D065626\tDisease\tNAFLD\twe report a case of nonalcoholic fatty liver disease ( <target> nafld </target> ) arise in a child who develop obesity during vpa treatment .",
+        "D009765\tDisease\tobesity\twe report a case of nonalcoholic fatty liver disease ( nafld ) arise in a child who develop <target> obesity </target> during vpa treatment .",
+        "D014635\tChemical\tVPA\twe report a case of nonalcoholic fatty liver disease ( nafld ) arise in a child who develop obesity during <target> vpa </target> treatment .",
+        "D006946\tDisease\thyperinsulinemia\tlaboratory datum reveal <target> hyperinsulinemia </target> with insulin resistance .",
+        "D007333\tDisease\tinsulin resistance\tlaboratory datum reveal hyperinsulinemia with <target> insulin resistance </target> .",
+        "D014635\tChemical\tVPA\tafter the withdrawal of <target> vpa </target> therapy , our patient show a significant weight loss , a decrease of body mass index , and normalization of metabolic and endocrine parameter ; moreover , ultrasound measurement show a complete normalization .",
+        "D015431\tDisease\tweight loss\tafter the withdrawal of vpa therapy , our patient show a significant <target> weight loss </target> , a decrease of body mass index , and normalization of metabolic and endocrine parameter ; moreover , ultrasound measurement show a complete normalization .",
+        "D009765\tDisease\tobesity\tthe present case suggest that <target> obesity </target> , hyperinsulinemia , insulin resistance , and long-term treatment with vpa may be all associate with the development of nafld ; this side effect be reversible after vpa withdrawal .",
+        "D006946\tDisease\thyperinsulinemia\tthe present case suggest that obesity , <target> hyperinsulinemia </target> , insulin resistance , and long-term treatment with vpa may be all associate with the development of nafld ; this side effect be reversible after vpa withdrawal .",
+        "D007333\tDisease\tinsulin resistance\tthe present case suggest that obesity , hyperinsulinemia , <target> insulin resistance </target> , and long-term treatment with vpa may be all associate with the development of nafld ; this side effect be reversible after vpa withdrawal .",
+        "D014635\tChemical\tVPA\tthe present case suggest that obesity , hyperinsulinemia , insulin resistance , and long-term treatment with <target> vpa </target> may be all associate with the development of nafld ; this side effect be reversible after vpa withdrawal .",
+        "D065626\tDisease\tNAFLD\tthe present case suggest that obesity , hyperinsulinemia , insulin resistance , and long-term treatment with vpa may be all associate with the development of <target> NAFLD </target> ; this side effect be reversible after vpa withdrawal .",
+        "D014635\tChemical\tVPA\tthe present case suggest that obesity , hyperinsulinemia , insulin resistance , and long-term treatment with vpa may be all associate with the development of nafld ; this side effect be reversible after <target> vpa </target> withdrawal ."
+    ]
+}

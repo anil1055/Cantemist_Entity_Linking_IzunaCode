@@ -1,0 +1,128 @@
+{
+    "title": "Late recovery of renal function in a woman with the hemolytic uremic syndrome.",
+    "abst": "A case is reported of the hemolytic uremic syndrome (HUS) in a woman taking oral contraceptives. She was treated with heparin, dipyridamole and hemodialysis; and after more than three months, her urinary output rose above 500 ml; and six months after the onset of anuria, dialysis treatment was stopped. This case emphasizes the possibility that HUS in adults is not invariably irreversible and that, despite prolonged oliguria, recovery of renal function can be obtained. Therefore, in adult patients affected by HUS, dialysis should not be discontinued prematurely; moreover, bilateral nephrectomy, for treatment of severe hypertension and microangiopathic hemolytic anemia, should be performed with caution.",
+    "title_plus_abst": "Late recovery of renal function in a woman with the hemolytic uremic syndrome. A case is reported of the hemolytic uremic syndrome (HUS) in a woman taking oral contraceptives. She was treated with heparin, dipyridamole and hemodialysis; and after more than three months, her urinary output rose above 500 ml; and six months after the onset of anuria, dialysis treatment was stopped. This case emphasizes the possibility that HUS in adults is not invariably irreversible and that, despite prolonged oliguria, recovery of renal function can be obtained. Therefore, in adult patients affected by HUS, dialysis should not be discontinued prematurely; moreover, bilateral nephrectomy, for treatment of severe hypertension and microangiopathic hemolytic anemia, should be performed with caution.",
+    "pubmed_id": "891050",
+    "entities": [
+        [
+            52,
+            77,
+            "hemolytic uremic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            105,
+            130,
+            "hemolytic uremic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            132,
+            135,
+            "HUS",
+            "Disease",
+            "D006463"
+        ],
+        [
+            155,
+            174,
+            "oral contraceptives",
+            "Chemical",
+            "D003276"
+        ],
+        [
+            197,
+            204,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            206,
+            218,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            343,
+            349,
+            "anuria",
+            "Disease",
+            "D001002"
+        ],
+        [
+            425,
+            428,
+            "HUS",
+            "Disease",
+            "D006463"
+        ],
+        [
+            498,
+            506,
+            "oliguria",
+            "Disease",
+            "D009846"
+        ],
+        [
+            593,
+            596,
+            "HUS",
+            "Disease",
+            "D006463"
+        ],
+        [
+            704,
+            716,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            721,
+            754,
+            "microangiopathic hemolytic anemia",
+            "Disease",
+            "D000743"
+        ]
+    ],
+    "split_sentence": [
+        "Late recovery of renal function in a woman with the hemolytic uremic syndrome.",
+        "A case is reported of the hemolytic uremic syndrome (HUS) in a woman taking oral contraceptives.",
+        "She was treated with heparin, dipyridamole and hemodialysis; and after more than three months, her urinary output rose above 500 ml; and six months after the onset of anuria, dialysis treatment was stopped.",
+        "This case emphasizes the possibility that HUS in adults is not invariably irreversible and that, despite prolonged oliguria, recovery of renal function can be obtained.",
+        "Therefore, in adult patients affected by HUS, dialysis should not be discontinued prematurely; moreover, bilateral nephrectomy, for treatment of severe hypertension and microangiopathic hemolytic anemia, should be performed with caution."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006463\tDisease\themolytic uremic syndrome\tLate recovery of renal function in a woman with the <target> hemolytic uremic syndrome </target> .",
+        "D006463\tDisease\themolytic uremic syndrome\tA case is reported of the <target> hemolytic uremic syndrome </target> ( HUS ) in a woman taking oral contraceptives .",
+        "D006463\tDisease\tHUS\tA case is reported of the hemolytic uremic syndrome ( <target> HUS </target> ) in a woman taking oral contraceptives .",
+        "D003276\tChemical\toral contraceptives\tA case is reported of the hemolytic uremic syndrome ( HUS ) in a woman taking <target> oral contraceptives </target> .",
+        "D006493\tChemical\theparin\tShe was treated with <target> heparin </target> , dipyridamole and hemodialysis ; and after more than three months , her urinary output rose above 500 ml ; and six months after the onset of anuria , dialysis treatment was stopped .",
+        "D004176\tChemical\tdipyridamole\tShe was treated with heparin , <target> dipyridamole </target> and hemodialysis ; and after more than three months , her urinary output rose above 500 ml ; and six months after the onset of anuria , dialysis treatment was stopped .",
+        "D001002\tDisease\tanuria\tShe was treated with heparin , dipyridamole and hemodialysis ; and after more than three months , her urinary output rose above 500 ml ; and six months after the onset of <target> anuria </target> , dialysis treatment was stopped .",
+        "D006463\tDisease\tHUS\tThis case emphasizes the possibility that <target> HUS </target> in adults is not invariably irreversible and that , despite prolonged oliguria , recovery of renal function can be obtained .",
+        "D009846\tDisease\toliguria\tThis case emphasizes the possibility that HUS in adults is not invariably irreversible and that , despite prolonged <target> oliguria </target> , recovery of renal function can be obtained .",
+        "D006463\tDisease\tHUS\tTherefore , in adult patients affected by <target> HUS </target> , dialysis should not be discontinued prematurely ; moreover , bilateral nephrectomy , for treatment of severe hypertension and microangiopathic hemolytic anemia , should be performed with caution .",
+        "D006973\tDisease\thypertension\tTherefore , in adult patients affected by HUS , dialysis should not be discontinued prematurely ; moreover , bilateral nephrectomy , for treatment of severe <target> hypertension </target> and microangiopathic hemolytic anemia , should be performed with caution .",
+        "D000743\tDisease\tmicroangiopathic hemolytic anemia\tTherefore , in adult patients affected by HUS , dialysis should not be discontinued prematurely ; moreover , bilateral nephrectomy , for treatment of severe hypertension and <target> microangiopathic hemolytic anemia </target> , should be performed with caution ."
+    ],
+    "lines_lemma": [
+        "D006463\tDisease\themolytic uremic syndrome\tlate recovery of renal function in a woman with the <target> hemolytic uremic syndrome </target> .",
+        "D006463\tDisease\themolytic uremic syndrome\ta case be report of the <target> hemolytic uremic syndrome </target> ( hus ) in a woman take oral contraceptive .",
+        "D006463\tDisease\tHUS\ta case be report of the hemolytic uremic syndrome ( <target> hus </target> ) in a woman take oral contraceptive .",
+        "D003276\tChemical\toral contraceptives\ta case be report of the hemolytic uremic syndrome ( hus ) in a woman take <target> oral contraceptive </target> .",
+        "D006493\tChemical\theparin\tshe be treat with <target> heparin </target> , dipyridamole and hemodialysis ; and after more than three month , her urinary output rise above 500 ml ; and six month after the onset of anuria , dialysis treatment be stop .",
+        "D004176\tChemical\tdipyridamole\tshe be treat with heparin , <target> dipyridamole </target> and hemodialysis ; and after more than three month , her urinary output rise above 500 ml ; and six month after the onset of anuria , dialysis treatment be stop .",
+        "D001002\tDisease\tanuria\tshe be treat with heparin , dipyridamole and hemodialysis ; and after more than three month , her urinary output rise above 500 ml ; and six month after the onset of <target> anuria </target> , dialysis treatment be stop .",
+        "D006463\tDisease\tHUS\tthis case emphasize the possibility that <target> HUS </target> in adult be not invariably irreversible and that , despite prolonged oliguria , recovery of renal function can be obtain .",
+        "D009846\tDisease\toliguria\tthis case emphasize the possibility that hus in adult be not invariably irreversible and that , despite prolonged <target> oliguria </target> , recovery of renal function can be obtain .",
+        "D006463\tDisease\tHUS\ttherefore , in adult patient affect by <target> hus </target> , dialysis should not be discontinue prematurely ; moreover , bilateral nephrectomy , for treatment of severe hypertension and microangiopathic hemolytic anemia , should be perform with caution .",
+        "D006973\tDisease\thypertension\ttherefore , in adult patient affect by hus , dialysis should not be discontinue prematurely ; moreover , bilateral nephrectomy , for treatment of severe <target> hypertension </target> and microangiopathic hemolytic anemia , should be perform with caution .",
+        "D000743\tDisease\tmicroangiopathic hemolytic anemia\ttherefore , in adult patient affect by hus , dialysis should not be discontinue prematurely ; moreover , bilateral nephrectomy , for treatment of severe hypertension and <target> microangiopathic hemolytic anemia </target> , should be perform with caution ."
+    ]
+}

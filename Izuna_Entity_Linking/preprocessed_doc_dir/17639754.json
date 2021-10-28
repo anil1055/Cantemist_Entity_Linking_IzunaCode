@@ -1,0 +1,147 @@
+{
+    "title": "Interaction between warfarin and levofloxacin: case series.",
+    "abst": "Warfarin is the most widely used oral anticoagulant and is indicated for many clinical conditions. Levofloxacin, a fluoroquinolone, is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive, Gram-negative, and atypical bacteria. While small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin, several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin. We report 3 cases of serious bleeding complications that appear to be the result of the interaction between warfarin and levofloxacin. Physicians should be aware of this potential interaction and use caution when prescribing levofloxacin to patients taking warfarin.",
+    "title_plus_abst": "Interaction between warfarin and levofloxacin: case series. Warfarin is the most widely used oral anticoagulant and is indicated for many clinical conditions. Levofloxacin, a fluoroquinolone, is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive, Gram-negative, and atypical bacteria. While small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin, several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin. We report 3 cases of serious bleeding complications that appear to be the result of the interaction between warfarin and levofloxacin. Physicians should be aware of this potential interaction and use caution when prescribing levofloxacin to patients taking warfarin.",
+    "pubmed_id": "17639754",
+    "entities": [
+        [
+            20,
+            28,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            33,
+            45,
+            "levofloxacin",
+            "Chemical",
+            "D064704"
+        ],
+        [
+            60,
+            68,
+            "Warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            159,
+            171,
+            "Levofloxacin",
+            "Chemical",
+            "D064704"
+        ],
+        [
+            175,
+            190,
+            "fluoroquinolone",
+            "Chemical",
+            "D024841"
+        ],
+        [
+            438,
+            446,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            451,
+            463,
+            "levofloxacin",
+            "Chemical",
+            "D064704"
+        ],
+        [
+            506,
+            518,
+            "levofloxacin",
+            "Chemical",
+            "D064704"
+        ],
+        [
+            578,
+            586,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            617,
+            625,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ],
+        [
+            696,
+            704,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            709,
+            721,
+            "levofloxacin",
+            "Chemical",
+            "D064704"
+        ],
+        [
+            813,
+            825,
+            "levofloxacin",
+            "Chemical",
+            "D064704"
+        ],
+        [
+            845,
+            853,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ]
+    ],
+    "split_sentence": [
+        "Interaction between warfarin and levofloxacin: case series.",
+        "Warfarin is the most widely used oral anticoagulant and is indicated for many clinical conditions.",
+        "Levofloxacin, a fluoroquinolone, is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive, Gram-negative, and atypical bacteria.",
+        "While small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin, several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin.",
+        "We report 3 cases of serious bleeding complications that appear to be the result of the interaction between warfarin and levofloxacin.",
+        "Physicians should be aware of this potential interaction and use caution when prescribing levofloxacin to patients taking warfarin."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014859\tChemical\twarfarin\tInteraction between <target> warfarin </target> and levofloxacin : case series .",
+        "D064704\tChemical\tlevofloxacin\tInteraction between warfarin and <target> levofloxacin </target> : case series .",
+        "D014859\tChemical\tWarfarin\t<target> Warfarin </target> is the most widely used oral anticoagulant and is indicated for many clinical conditions .",
+        "D064704\tChemical\tLevofloxacin\t<target> Levofloxacin </target> , a fluoroquinolone , is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive , Gram-negative , and atypical bacteria .",
+        "D024841\tChemical\tfluoroquinolone\tLevofloxacin , a <target> fluoroquinolone </target> , is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive , Gram-negative , and atypical bacteria .",
+        "D014859\tChemical\twarfarin\tWhile small prospective studies have not revealed any significant drug-drug interaction between <target> warfarin </target> and levofloxacin , several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin .",
+        "D064704\tChemical\tlevofloxacin\tWhile small prospective studies have not revealed any significant drug-drug interaction between warfarin and <target> levofloxacin </target> , several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin .",
+        "D064704\tChemical\tlevofloxacin\tWhile small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin , several case reports have indicated that <target> levofloxacin </target> may significantly potentiate the anticoagulation effect of warfarin .",
+        "D014859\tChemical\twarfarin\tWhile small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin , several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of <target> warfarin </target> .",
+        "D006470\tDisease\tbleeding\tWe report 3 cases of serious <target> bleeding </target> complications that appear to be the result of the interaction between warfarin and levofloxacin .",
+        "D014859\tChemical\twarfarin\tWe report 3 cases of serious bleeding complications that appear to be the result of the interaction between <target> warfarin </target> and levofloxacin .",
+        "D064704\tChemical\tlevofloxacin\tWe report 3 cases of serious bleeding complications that appear to be the result of the interaction between warfarin and <target> levofloxacin </target> .",
+        "D064704\tChemical\tlevofloxacin\tPhysicians should be aware of this potential interaction and use caution when prescribing <target> levofloxacin </target> to patients taking warfarin .",
+        "D014859\tChemical\twarfarin\tPhysicians should be aware of this potential interaction and use caution when prescribing levofloxacin to patients taking <target> warfarin </target> ."
+    ],
+    "lines_lemma": [
+        "D014859\tChemical\twarfarin\tinteraction between <target> warfarin </target> and levofloxacin : case series .",
+        "D064704\tChemical\tlevofloxacin\tinteraction between warfarin and <target> levofloxacin </target> : case series .",
+        "D014859\tChemical\tWarfarin\t<target> Warfarin </target> be the most widely use oral anticoagulant and be indicate for many clinical condition .",
+        "D064704\tChemical\tLevofloxacin\t<target> Levofloxacin </target> , a fluoroquinolone , be one of the most commonly prescribe antibiotic in clinical practice and be effective against gram-positive , gram-negative , and atypical bacteria .",
+        "D024841\tChemical\tfluoroquinolone\tLevofloxacin , a <target> fluoroquinolone </target> , be one of the most commonly prescribe antibiotic in clinical practice and be effective against gram-positive , gram-negative , and atypical bacteria .",
+        "D014859\tChemical\twarfarin\twhile small prospective study have not reveal any significant drug-drug interaction between <target> warfarin </target> and levofloxacin , several case report have indicate that levofloxacin may significantly potentiate the anticoagulation effect of warfarin .",
+        "D064704\tChemical\tlevofloxacin\twhile small prospective study have not reveal any significant drug-drug interaction between warfarin and <target> levofloxacin </target> , several case report have indicate that levofloxacin may significantly potentiate the anticoagulation effect of warfarin .",
+        "D064704\tChemical\tlevofloxacin\twhile small prospective study have not reveal any significant drug-drug interaction between warfarin and levofloxacin , several case report have indicate that <target> levofloxacin </target> may significantly potentiate the anticoagulation effect of warfarin .",
+        "D014859\tChemical\twarfarin\twhile small prospective study have not reveal any significant drug-drug interaction between warfarin and levofloxacin , several case report have indicate that levofloxacin may significantly potentiate the anticoagulation effect of <target> warfarin </target> .",
+        "D006470\tDisease\tbleeding\twe report 3 case of serious <target> bleeding </target> complication that appear to be the result of the interaction between warfarin and levofloxacin .",
+        "D014859\tChemical\twarfarin\twe report 3 case of serious bleeding complication that appear to be the result of the interaction between <target> warfarin </target> and levofloxacin .",
+        "D064704\tChemical\tlevofloxacin\twe report 3 case of serious bleeding complication that appear to be the result of the interaction between warfarin and <target> levofloxacin </target> .",
+        "D064704\tChemical\tlevofloxacin\tPhysicians should be aware of this potential interaction and use caution when prescribe <target> levofloxacin </target> to patient take warfarin .",
+        "D014859\tChemical\twarfarin\tPhysicians should be aware of this potential interaction and use caution when prescribe levofloxacin to patient take <target> warfarin </target> ."
+    ]
+}

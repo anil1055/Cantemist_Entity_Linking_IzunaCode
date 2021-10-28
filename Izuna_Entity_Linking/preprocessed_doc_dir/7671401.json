@@ -1,0 +1,119 @@
+{
+    "title": "Increased frequency and severity of angio-oedema related to long-term therapy with angiotensin-converting enzyme inhibitor in two patients.",
+    "abst": "Adverse reactions to drugs are well recognized as a cause of acute or chronic urticaria, and angio-oedema. Angiotensin-converting enzyme (ACE) inhibitors, used to treat hypertension and congestive heart failure, were introduced in Europe in the middle of the eighties, and the use of these drugs has increased progressively. Soon after the introduction of ACE inhibitors, acute bouts of angio-oedema were reported in association with the use of these drugs. We wish to draw attention to the possibility of adverse reactions to ACE inhibitors after long-term use and in patients with pre-existing angio-oedema.",
+    "title_plus_abst": "Increased frequency and severity of angio-oedema related to long-term therapy with angiotensin-converting enzyme inhibitor in two patients. Adverse reactions to drugs are well recognized as a cause of acute or chronic urticaria, and angio-oedema. Angiotensin-converting enzyme (ACE) inhibitors, used to treat hypertension and congestive heart failure, were introduced in Europe in the middle of the eighties, and the use of these drugs has increased progressively. Soon after the introduction of ACE inhibitors, acute bouts of angio-oedema were reported in association with the use of these drugs. We wish to draw attention to the possibility of adverse reactions to ACE inhibitors after long-term use and in patients with pre-existing angio-oedema.",
+    "pubmed_id": "7671401",
+    "entities": [
+        [
+            36,
+            48,
+            "angio-oedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            83,
+            122,
+            "angiotensin-converting enzyme inhibitor",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            218,
+            227,
+            "urticaria",
+            "Disease",
+            "D014581"
+        ],
+        [
+            233,
+            245,
+            "angio-oedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            247,
+            293,
+            "Angiotensin-converting enzyme (ACE) inhibitors",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            309,
+            321,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            326,
+            350,
+            "congestive heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            496,
+            510,
+            "ACE inhibitors",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            527,
+            539,
+            "angio-oedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            667,
+            681,
+            "ACE inhibitors",
+            "Chemical",
+            "D000806"
+        ],
+        [
+            736,
+            748,
+            "angio-oedema",
+            "Disease",
+            "D000799"
+        ]
+    ],
+    "split_sentence": [
+        "Increased frequency and severity of angio-oedema related to long-term therapy with angiotensin-converting enzyme inhibitor in two patients.",
+        "Adverse reactions to drugs are well recognized as a cause of acute or chronic urticaria, and angio-oedema.",
+        "Angiotensin-converting enzyme (ACE) inhibitors, used to treat hypertension and congestive heart failure, were introduced in Europe in the middle of the eighties, and the use of these drugs has increased progressively.",
+        "Soon after the introduction of ACE inhibitors, acute bouts of angio-oedema were reported in association with the use of these drugs.",
+        "We wish to draw attention to the possibility of adverse reactions to ACE inhibitors after long-term use and in patients with pre-existing angio-oedema."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000799\tDisease\tangio-oedema\tIncreased frequency and severity of <target> angio-oedema </target> related to long-term therapy with angiotensin-converting enzyme inhibitor in two patients .",
+        "D000806\tChemical\tangiotensin-converting enzyme inhibitor\tIncreased frequency and severity of angio-oedema related to long-term therapy with <target> angiotensin-converting enzyme inhibitor </target> in two patients .",
+        "D014581\tDisease\turticaria\tAdverse reactions to drugs are well recognized as a cause of acute or chronic <target> urticaria </target> , and angio-oedema .",
+        "D000799\tDisease\tangio-oedema\tAdverse reactions to drugs are well recognized as a cause of acute or chronic urticaria , and <target> angio-oedema </target> .",
+        "D000806\tChemical\tAngiotensin-converting enzyme (ACE) inhibitors\t<target> Angiotensin-converting enzyme ( ACE ) inhibitors </target> , used to treat hypertension and congestive heart failure , were introduced in Europe in the middle of the eighties , and the use of these drugs has increased progressively .",
+        "D006973\tDisease\thypertension\tAngiotensin-converting enzyme ( ACE ) inhibitors , used to treat <target> hypertension </target> and congestive heart failure , were introduced in Europe in the middle of the eighties , and the use of these drugs has increased progressively .",
+        "D006333\tDisease\tcongestive heart failure\tAngiotensin-converting enzyme ( ACE ) inhibitors , used to treat hypertension and <target> congestive heart failure </target> , were introduced in Europe in the middle of the eighties , and the use of these drugs has increased progressively .",
+        "D000806\tChemical\tACE inhibitors\tSoon after the introduction of <target> ACE inhibitors </target> , acute bouts of angio-oedema were reported in association with the use of these drugs .",
+        "D000799\tDisease\tangio-oedema\tSoon after the introduction of ACE inhibitors , acute bouts of <target> angio-oedema </target> were reported in association with the use of these drugs .",
+        "D000806\tChemical\tACE inhibitors\tWe wish to draw attention to the possibility of adverse reactions to <target> ACE inhibitors </target> after long-term use and in patients with pre-existing angio-oedema .",
+        "D000799\tDisease\tangio-oedema\tWe wish to draw attention to the possibility of adverse reactions to ACE inhibitors after long-term use and in patients with pre-existing <target> angio-oedema </target> ."
+    ],
+    "lines_lemma": [
+        "D000799\tDisease\tangio-oedema\tincrease frequency and severity of <target> angio-oedema </target> related to long-term therapy with angiotensin-converting enzyme inhibitor in two patient .",
+        "D000806\tChemical\tangiotensin-converting enzyme inhibitor\tincrease frequency and severity of angio-oedema related to long-term therapy with <target> angiotensin-converting enzyme inhibitor </target> in two patient .",
+        "D014581\tDisease\turticaria\tadverse reaction to drug be well recognize as a cause of acute or chronic <target> urticaria </target> , and angio-oedema .",
+        "D000799\tDisease\tangio-oedema\tadverse reaction to drug be well recognize as a cause of acute or chronic urticaria , and <target> angio-oedema </target> .",
+        "D000806\tChemical\tAngiotensin-converting enzyme (ACE) inhibitors\t<target> angiotensin-converting enzyme ( ace ) inhibitor </target> , use to treat hypertension and congestive heart failure , be introduce in Europe in the middle of the eighty , and the use of these drug have increase progressively .",
+        "D006973\tDisease\thypertension\tangiotensin-converting enzyme ( ace ) inhibitor , use to treat <target> hypertension </target> and congestive heart failure , be introduce in Europe in the middle of the eighty , and the use of these drug have increase progressively .",
+        "D006333\tDisease\tcongestive heart failure\tangiotensin-converting enzyme ( ace ) inhibitor , use to treat hypertension and <target> congestive heart failure </target> , be introduce in Europe in the middle of the eighty , and the use of these drug have increase progressively .",
+        "D000806\tChemical\tACE inhibitors\tsoon after the introduction of <target> ace inhibitor </target> , acute bout of angio-oedema be report in association with the use of these drug .",
+        "D000799\tDisease\tangio-oedema\tsoon after the introduction of ace inhibitor , acute bout of <target> angio-oedema </target> be report in association with the use of these drug .",
+        "D000806\tChemical\tACE inhibitors\twe wish to draw attention to the possibility of adverse reaction to <target> ace inhibitor </target> after long-term use and in patient with pre-existing angio-oedema .",
+        "D000799\tDisease\tangio-oedema\twe wish to draw attention to the possibility of adverse reaction to ace inhibitor after long-term use and in patient with pre-existing <target> angio-oedema </target> ."
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "title": "Syncope caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone.",
+    "abst": "A 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by hyperkalemia. The concentration of serum potassium was high, and normal sinus rhythm was restored after correction of the serum potassium level. The cause of hyperkalemia was considered to be several doses of spiranolactone, an aldosterone antagonist, in addition to the long-term intake of ramipril, an ACE inhibitor. This case is a good example of electrolyte imbalance causing acute life-threatening cardiac events. Clinicians should be alert to the possibility of hyperkalemia, especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild renal disturbance.",
+    "title_plus_abst": "Syncope caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone. A 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by hyperkalemia. The concentration of serum potassium was high, and normal sinus rhythm was restored after correction of the serum potassium level. The cause of hyperkalemia was considered to be several doses of spiranolactone, an aldosterone antagonist, in addition to the long-term intake of ramipril, an ACE inhibitor. This case is a good example of electrolyte imbalance causing acute life-threatening cardiac events. Clinicians should be alert to the possibility of hyperkalemia, especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild renal disturbance.",
+    "pubmed_id": "20859899",
+    "entities": [
+        [
+            0,
+            7,
+            "Syncope",
+            "Disease",
+            "D013575"
+        ],
+        [
+            18,
+            30,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            73,
+            84,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            117,
+            131,
+            "spironolactone",
+            "Chemical",
+            "D013148"
+        ],
+        [
+            213,
+            234,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            278,
+            299,
+            "loss of consciousness",
+            "Disease",
+            "D014474"
+        ],
+        [
+            314,
+            325,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            336,
+            348,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            377,
+            386,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            464,
+            473,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            494,
+            506,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            545,
+            559,
+            "spiranolactone",
+            "Chemical",
+            "D013148"
+        ],
+        [
+            564,
+            575,
+            "aldosterone",
+            "Chemical",
+            "D000450"
+        ],
+        [
+            627,
+            635,
+            "ramipril",
+            "Chemical",
+            "D017257"
+        ],
+        [
+            804,
+            816,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            883,
+            892,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            926,
+            943,
+            "renal disturbance",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Syncope caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone.",
+        "A 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by hyperkalemia.",
+        "The concentration of serum potassium was high, and normal sinus rhythm was restored after correction of the serum potassium level.",
+        "The cause of hyperkalemia was considered to be several doses of spiranolactone, an aldosterone antagonist, in addition to the long-term intake of ramipril, an ACE inhibitor.",
+        "This case is a good example of electrolyte imbalance causing acute life-threatening cardiac events.",
+        "Clinicians should be alert to the possibility of hyperkalemia, especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild renal disturbance."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013575\tDisease\tSyncope\t<target> Syncope </target> caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone .",
+        "D006947\tDisease\thyperkalemia\tSyncope caused by <target> hyperkalemia </target> during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone .",
+        "D000809\tChemical\tangiotensin\tSyncope caused by hyperkalemia during use of a combined therapy with the <target> angiotensin </target> -converting enzyme inhibitor and spironolactone .",
+        "D013148\tChemical\tspironolactone\tSyncope caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and <target> spironolactone </target> .",
+        "D009203\tDisease\tmyocardial infarction\tA 76 year-old woman with a history of coronary artery bypass grafting and prior <target> myocardial infarction </target> was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by hyperkalemia .",
+        "D014474\tDisease\tloss of consciousness\tA 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with <target> loss of consciousness </target> due to marked bradycardia caused by hyperkalemia .",
+        "D001919\tDisease\tbradycardia\tA 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked <target> bradycardia </target> caused by hyperkalemia .",
+        "D006947\tDisease\thyperkalemia\tA 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by <target> hyperkalemia </target> .",
+        "D011188\tChemical\tpotassium\tThe concentration of serum <target> potassium </target> was high , and normal sinus rhythm was restored after correction of the serum potassium level .",
+        "D011188\tChemical\tpotassium\tThe concentration of serum potassium was high , and normal sinus rhythm was restored after correction of the serum <target> potassium </target> level .",
+        "D006947\tDisease\thyperkalemia\tThe cause of <target> hyperkalemia </target> was considered to be several doses of spiranolactone , an aldosterone antagonist , in addition to the long-term intake of ramipril , an ACE inhibitor .",
+        "D013148\tChemical\tspiranolactone\tThe cause of hyperkalemia was considered to be several doses of <target> spiranolactone </target> , an aldosterone antagonist , in addition to the long-term intake of ramipril , an ACE inhibitor .",
+        "D000450\tChemical\taldosterone\tThe cause of hyperkalemia was considered to be several doses of spiranolactone , an <target> aldosterone </target> antagonist , in addition to the long-term intake of ramipril , an ACE inhibitor .",
+        "D017257\tChemical\tramipril\tThe cause of hyperkalemia was considered to be several doses of spiranolactone , an aldosterone antagonist , in addition to the long-term intake of <target> ramipril </target> , an ACE inhibitor .",
+        "D006947\tDisease\thyperkalemia\tClinicians should be alert to the possibility of <target> hyperkalemia </target> , especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild renal disturbance .",
+        "D011188\tChemical\tpotassium\tClinicians should be alert to the possibility of hyperkalemia , especially in elderly patients using ACE/ARB in combination with <target> potassium </target> sparing agents and who have mild renal disturbance .",
+        "D007674\tDisease\trenal disturbance\tClinicians should be alert to the possibility of hyperkalemia , especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild <target> renal disturbance </target> ."
+    ],
+    "lines_lemma": [
+        "D013575\tDisease\tSyncope\t<target> syncope </target> cause by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone .",
+        "D006947\tDisease\thyperkalemia\tSyncope cause by <target> hyperkalemia </target> during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone .",
+        "D000809\tChemical\tangiotensin\tSyncope cause by hyperkalemia during use of a combined therapy with the <target> angiotensin </target> -converting enzyme inhibitor and spironolactone .",
+        "D013148\tChemical\tspironolactone\tSyncope cause by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and <target> spironolactone </target> .",
+        "D009203\tDisease\tmyocardial infarction\ta 76 year-old woman with a history of coronary artery bypass graft and prior <target> myocardial infarction </target> be transfer to the emergency room with loss of consciousness due to marked bradycardia cause by hyperkalemia .",
+        "D014474\tDisease\tloss of consciousness\ta 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction be transfer to the emergency room with <target> loss of consciousness </target> due to marked bradycardia cause by hyperkalemia .",
+        "D001919\tDisease\tbradycardia\ta 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction be transfer to the emergency room with loss of consciousness due to marked <target> bradycardia </target> cause by hyperkalemia .",
+        "D006947\tDisease\thyperkalemia\ta 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction be transfer to the emergency room with loss of consciousness due to marked bradycardia cause by <target> hyperkalemia </target> .",
+        "D011188\tChemical\tpotassium\tthe concentration of serum <target> potassium </target> be high , and normal sinus rhythm be restore after correction of the serum potassium level .",
+        "D011188\tChemical\tpotassium\tthe concentration of serum potassium be high , and normal sinus rhythm be restore after correction of the serum <target> potassium </target> level .",
+        "D006947\tDisease\thyperkalemia\tthe cause of <target> hyperkalemia </target> be consider to be several dose of spiranolactone , an aldosterone antagonist , in addition to the long-term intake of ramipril , an ace inhibitor .",
+        "D013148\tChemical\tspiranolactone\tthe cause of hyperkalemia be consider to be several dose of <target> spiranolactone </target> , an aldosterone antagonist , in addition to the long-term intake of ramipril , an ace inhibitor .",
+        "D000450\tChemical\taldosterone\tthe cause of hyperkalemia be consider to be several dose of spiranolactone , an <target> aldosterone </target> antagonist , in addition to the long-term intake of ramipril , an ace inhibitor .",
+        "D017257\tChemical\tramipril\tthe cause of hyperkalemia be consider to be several dose of spiranolactone , an aldosterone antagonist , in addition to the long-term intake of <target> ramipril </target> , an ace inhibitor .",
+        "D006947\tDisease\thyperkalemia\tclinician should be alert to the possibility of <target> hyperkalemia </target> , especially in elderly patient use ace/arb in combination with potassium sparing agent and who have mild renal disturbance .",
+        "D011188\tChemical\tpotassium\tclinician should be alert to the possibility of hyperkalemia , especially in elderly patient use ace/arb in combination with <target> potassium </target> sparing agent and who have mild renal disturbance .",
+        "D007674\tDisease\trenal disturbance\tclinician should be alert to the possibility of hyperkalemia , especially in elderly patient use ace/arb in combination with potassium sparing agent and who have mild <target> renal disturbance </target> ."
+    ]
+}

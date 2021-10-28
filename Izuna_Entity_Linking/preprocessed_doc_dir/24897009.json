@@ -1,0 +1,109 @@
+{
+    "title": "Optochiasmatic and peripheral neuropathy due to ethambutol overtreatment.",
+    "abst": "Ethambutol is known to cause optic neuropathy and, more rarely, axonal polyneuropathy. We characterize the clinical, neurophysiological, and neuroimaging findings in a 72-year-old man who developed visual loss and paresthesias after 11 weeks of exposure to a supratherapeutic dose of ethambutol. This case demonstrates the selective vulnerability of the anterior visual pathways and peripheral nerves to ethambutol toxicity.",
+    "title_plus_abst": "Optochiasmatic and peripheral neuropathy due to ethambutol overtreatment. Ethambutol is known to cause optic neuropathy and, more rarely, axonal polyneuropathy. We characterize the clinical, neurophysiological, and neuroimaging findings in a 72-year-old man who developed visual loss and paresthesias after 11 weeks of exposure to a supratherapeutic dose of ethambutol. This case demonstrates the selective vulnerability of the anterior visual pathways and peripheral nerves to ethambutol toxicity.",
+    "pubmed_id": "24897009",
+    "entities": [
+        [
+            19,
+            40,
+            "peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            48,
+            58,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            74,
+            84,
+            "Ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            103,
+            119,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            145,
+            159,
+            "polyneuropathy",
+            "Disease",
+            "D011115"
+        ],
+        [
+            272,
+            283,
+            "visual loss",
+            "Disease",
+            "D014786"
+        ],
+        [
+            288,
+            300,
+            "paresthesias",
+            "Disease",
+            "D010292"
+        ],
+        [
+            358,
+            368,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            478,
+            488,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            489,
+            497,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Optochiasmatic and peripheral neuropathy due to ethambutol overtreatment.",
+        "Ethambutol is known to cause optic neuropathy and, more rarely, axonal polyneuropathy.",
+        "We characterize the clinical, neurophysiological, and neuroimaging findings in a 72-year-old man who developed visual loss and paresthesias after 11 weeks of exposure to a supratherapeutic dose of ethambutol.",
+        "This case demonstrates the selective vulnerability of the anterior visual pathways and peripheral nerves to ethambutol toxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010523\tDisease\tperipheral neuropathy\tOptochiasmatic and <target> peripheral neuropathy </target> due to ethambutol overtreatment .",
+        "D004977\tChemical\tethambutol\tOptochiasmatic and peripheral neuropathy due to <target> ethambutol </target> overtreatment .",
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> is known to cause optic neuropathy and , more rarely , axonal polyneuropathy .",
+        "D009901\tDisease\toptic neuropathy\tEthambutol is known to cause <target> optic neuropathy </target> and , more rarely , axonal polyneuropathy .",
+        "D011115\tDisease\tpolyneuropathy\tEthambutol is known to cause optic neuropathy and , more rarely , axonal <target> polyneuropathy </target> .",
+        "D014786\tDisease\tvisual loss\tWe characterize the clinical , neurophysiological , and neuroimaging findings in a 72-year-old man who developed <target> visual loss </target> and paresthesias after 11 weeks of exposure to a supratherapeutic dose of ethambutol .",
+        "D010292\tDisease\tparesthesias\tWe characterize the clinical , neurophysiological , and neuroimaging findings in a 72-year-old man who developed visual loss and <target> paresthesias </target> after 11 weeks of exposure to a supratherapeutic dose of ethambutol .",
+        "D004977\tChemical\tethambutol\tWe characterize the clinical , neurophysiological , and neuroimaging findings in a 72-year-old man who developed visual loss and paresthesias after 11 weeks of exposure to a supratherapeutic dose of <target> ethambutol </target> .",
+        "D004977\tChemical\tethambutol\tThis case demonstrates the selective vulnerability of the anterior visual pathways and peripheral nerves to <target> ethambutol </target> toxicity .",
+        "D064420\tDisease\ttoxicity\tThis case demonstrates the selective vulnerability of the anterior visual pathways and peripheral nerves to ethambutol <target> toxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D010523\tDisease\tperipheral neuropathy\toptochiasmatic and <target> peripheral neuropathy </target> due to ethambutol overtreatment .",
+        "D004977\tChemical\tethambutol\toptochiasmatic and peripheral neuropathy due to <target> ethambutol </target> overtreatment .",
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> be know to cause optic neuropathy and , more rarely , axonal polyneuropathy .",
+        "D009901\tDisease\toptic neuropathy\tEthambutol be know to cause <target> optic neuropathy </target> and , more rarely , axonal polyneuropathy .",
+        "D011115\tDisease\tpolyneuropathy\tEthambutol be know to cause optic neuropathy and , more rarely , axonal <target> polyneuropathy </target> .",
+        "D014786\tDisease\tvisual loss\twe characterize the clinical , neurophysiological , and neuroimaging finding in a 72-year-old man who develop <target> visual loss </target> and paresthesia after 11 week of exposure to a supratherapeutic dose of ethambutol .",
+        "D010292\tDisease\tparesthesias\twe characterize the clinical , neurophysiological , and neuroimaging finding in a 72-year-old man who develop visual loss and <target> paresthesia </target> after 11 week of exposure to a supratherapeutic dose of ethambutol .",
+        "D004977\tChemical\tethambutol\twe characterize the clinical , neurophysiological , and neuroimaging finding in a 72-year-old man who develop visual loss and paresthesia after 11 week of exposure to a supratherapeutic dose of <target> ethambutol </target> .",
+        "D004977\tChemical\tethambutol\tthis case demonstrate the selective vulnerability of the anterior visual pathway and peripheral nerve to <target> ethambutol </target> toxicity .",
+        "D064420\tDisease\ttoxicity\tthis case demonstrate the selective vulnerability of the anterior visual pathway and peripheral nerve to ethambutol <target> toxicity </target> ."
+    ]
+}

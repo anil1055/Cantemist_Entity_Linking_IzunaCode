@@ -1,0 +1,155 @@
+{
+    "title": "Sulfasalazine-induced lupus erythematosus.",
+    "abst": "Pneumonitis, bilateral pleural effusions, echocardiographic evidence of cardiac tamponade, and positive autoantibodies developed in a 43-year-old man, who was receiving long-term sulfasalazine therapy for chronic ulcerative colitis. After cessation of the sulfasalazine and completion of a six-week course of corticosteroids, these problems resolved over a period of four to six months. It is suggested that the patient had sulfasalazine-induced lupus, which manifested with serositis and pulmonary parenchymal involvement in the absence of joint symptoms. Physicians who use sulfasalazine to treat patients with inflammatory bowel disease should be aware of the signs of sulfasalazine-induced lupus syndrome.",
+    "title_plus_abst": "Sulfasalazine-induced lupus erythematosus. Pneumonitis, bilateral pleural effusions, echocardiographic evidence of cardiac tamponade, and positive autoantibodies developed in a 43-year-old man, who was receiving long-term sulfasalazine therapy for chronic ulcerative colitis. After cessation of the sulfasalazine and completion of a six-week course of corticosteroids, these problems resolved over a period of four to six months. It is suggested that the patient had sulfasalazine-induced lupus, which manifested with serositis and pulmonary parenchymal involvement in the absence of joint symptoms. Physicians who use sulfasalazine to treat patients with inflammatory bowel disease should be aware of the signs of sulfasalazine-induced lupus syndrome.",
+    "pubmed_id": "2894766",
+    "entities": [
+        [
+            0,
+            13,
+            "Sulfasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            22,
+            41,
+            "lupus erythematosus",
+            "Disease",
+            "D008180"
+        ],
+        [
+            43,
+            54,
+            "Pneumonitis",
+            "Disease",
+            "D011014"
+        ],
+        [
+            66,
+            83,
+            "pleural effusions",
+            "Disease",
+            "D010996"
+        ],
+        [
+            115,
+            132,
+            "cardiac tamponade",
+            "Disease",
+            "D002305"
+        ],
+        [
+            222,
+            235,
+            "sulfasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            256,
+            274,
+            "ulcerative colitis",
+            "Disease",
+            "D003093"
+        ],
+        [
+            299,
+            312,
+            "sulfasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            467,
+            480,
+            "sulfasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            489,
+            494,
+            "lupus",
+            "Disease",
+            "D008180"
+        ],
+        [
+            518,
+            527,
+            "serositis",
+            "Disease",
+            "D012700"
+        ],
+        [
+            619,
+            632,
+            "sulfasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            656,
+            682,
+            "inflammatory bowel disease",
+            "Disease",
+            "D015212"
+        ],
+        [
+            715,
+            728,
+            "sulfasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            737,
+            751,
+            "lupus syndrome",
+            "Disease",
+            "D008180"
+        ]
+    ],
+    "split_sentence": [
+        "Sulfasalazine-induced lupus erythematosus.",
+        "Pneumonitis, bilateral pleural effusions, echocardiographic evidence of cardiac tamponade, and positive autoantibodies developed in a 43-year-old man, who was receiving long-term sulfasalazine therapy for chronic ulcerative colitis.",
+        "After cessation of the sulfasalazine and completion of a six-week course of corticosteroids, these problems resolved over a period of four to six months.",
+        "It is suggested that the patient had sulfasalazine-induced lupus, which manifested with serositis and pulmonary parenchymal involvement in the absence of joint symptoms.",
+        "Physicians who use sulfasalazine to treat patients with inflammatory bowel disease should be aware of the signs of sulfasalazine-induced lupus syndrome."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012460\tChemical\tSulfasalazine\t<target> Sulfasalazine </target> -induced lupus erythematosus .",
+        "D008180\tDisease\tlupus erythematosus\tSulfasalazine-induced <target> lupus erythematosus </target> .",
+        "D011014\tDisease\tPneumonitis\t<target> Pneumonitis </target> , bilateral pleural effusions , echocardiographic evidence of cardiac tamponade , and positive autoantibodies developed in a 43-year-old man , who was receiving long-term sulfasalazine therapy for chronic ulcerative colitis .",
+        "D010996\tDisease\tpleural effusions\tPneumonitis , bilateral <target> pleural effusions </target> , echocardiographic evidence of cardiac tamponade , and positive autoantibodies developed in a 43-year-old man , who was receiving long-term sulfasalazine therapy for chronic ulcerative colitis .",
+        "D002305\tDisease\tcardiac tamponade\tPneumonitis , bilateral pleural effusions , echocardiographic evidence of <target> cardiac tamponade </target> , and positive autoantibodies developed in a 43-year-old man , who was receiving long-term sulfasalazine therapy for chronic ulcerative colitis .",
+        "D012460\tChemical\tsulfasalazine\tPneumonitis , bilateral pleural effusions , echocardiographic evidence of cardiac tamponade , and positive autoantibodies developed in a 43-year-old man , who was receiving long-term <target> sulfasalazine </target> therapy for chronic ulcerative colitis .",
+        "D003093\tDisease\tulcerative colitis\tPneumonitis , bilateral pleural effusions , echocardiographic evidence of cardiac tamponade , and positive autoantibodies developed in a 43-year-old man , who was receiving long-term sulfasalazine therapy for chronic <target> ulcerative colitis </target> .",
+        "D012460\tChemical\tsulfasalazine\tAfter cessation of the <target> sulfasalazine </target> and completion of a six-week course of corticosteroids , these problems resolved over a period of four to six months .",
+        "D012460\tChemical\tsulfasalazine\tIt is suggested that the patient had <target> sulfasalazine </target> -induced lupus , which manifested with serositis and pulmonary parenchymal involvement in the absence of joint symptoms .",
+        "D008180\tDisease\tlupus\tIt is suggested that the patient had sulfasalazine-induced <target> lupus </target> , which manifested with serositis and pulmonary parenchymal involvement in the absence of joint symptoms .",
+        "D012700\tDisease\tserositis\tIt is suggested that the patient had sulfasalazine-induced lupus , which manifested with <target> serositis </target> and pulmonary parenchymal involvement in the absence of joint symptoms .",
+        "D012460\tChemical\tsulfasalazine\tPhysicians who use <target> sulfasalazine </target> to treat patients with inflammatory bowel disease should be aware of the signs of sulfasalazine-induced lupus syndrome .",
+        "D015212\tDisease\tinflammatory bowel disease\tPhysicians who use sulfasalazine to treat patients with <target> inflammatory bowel disease </target> should be aware of the signs of sulfasalazine-induced lupus syndrome .",
+        "D012460\tChemical\tsulfasalazine\tPhysicians who use sulfasalazine to treat patients with inflammatory bowel disease should be aware of the signs of <target> sulfasalazine </target> -induced lupus syndrome .",
+        "D008180\tDisease\tlupus syndrome\tPhysicians who use sulfasalazine to treat patients with inflammatory bowel disease should be aware of the signs of sulfasalazine-induced <target> lupus syndrome </target> ."
+    ],
+    "lines_lemma": [
+        "D012460\tChemical\tSulfasalazine\t<target> sulfasalazine </target> -induced lupus erythematosus .",
+        "D008180\tDisease\tlupus erythematosus\tsulfasalazine-induced <target> lupus erythematosus </target> .",
+        "D011014\tDisease\tPneumonitis\t<target> pneumonitis </target> , bilateral pleural effusion , echocardiographic evidence of cardiac tamponade , and positive autoantibody develop in a 43-year-old man , who be receive long-term sulfasalazine therapy for chronic ulcerative colitis .",
+        "D010996\tDisease\tpleural effusions\tpneumonitis , bilateral <target> pleural effusion </target> , echocardiographic evidence of cardiac tamponade , and positive autoantibody develop in a 43-year-old man , who be receive long-term sulfasalazine therapy for chronic ulcerative colitis .",
+        "D002305\tDisease\tcardiac tamponade\tpneumonitis , bilateral pleural effusion , echocardiographic evidence of <target> cardiac tamponade </target> , and positive autoantibody develop in a 43-year-old man , who be receive long-term sulfasalazine therapy for chronic ulcerative colitis .",
+        "D012460\tChemical\tsulfasalazine\tpneumonitis , bilateral pleural effusion , echocardiographic evidence of cardiac tamponade , and positive autoantibody develop in a 43-year-old man , who be receive long-term <target> sulfasalazine </target> therapy for chronic ulcerative colitis .",
+        "D003093\tDisease\tulcerative colitis\tpneumonitis , bilateral pleural effusion , echocardiographic evidence of cardiac tamponade , and positive autoantibody develop in a 43-year-old man , who be receive long-term sulfasalazine therapy for chronic <target> ulcerative colitis </target> .",
+        "D012460\tChemical\tsulfasalazine\tafter cessation of the <target> sulfasalazine </target> and completion of a six-week course of corticosteroid , these problem resolve over a period of four to six month .",
+        "D012460\tChemical\tsulfasalazine\tit be suggest that the patient have <target> sulfasalazine </target> -induced lupus , which manifest with serositis and pulmonary parenchymal involvement in the absence of joint symptom .",
+        "D008180\tDisease\tlupus\tit be suggest that the patient have sulfasalazine-induced <target> lupus </target> , which manifest with serositis and pulmonary parenchymal involvement in the absence of joint symptom .",
+        "D012700\tDisease\tserositis\tit be suggest that the patient have sulfasalazine-induced lupus , which manifest with <target> serositis </target> and pulmonary parenchymal involvement in the absence of joint symptom .",
+        "D012460\tChemical\tsulfasalazine\tPhysicians who use <target> sulfasalazine </target> to treat patient with inflammatory bowel disease should be aware of the sign of sulfasalazine-induced lupus syndrome .",
+        "D015212\tDisease\tinflammatory bowel disease\tPhysicians who use sulfasalazine to treat patient with <target> inflammatory bowel disease </target> should be aware of the sign of sulfasalazine-induced lupus syndrome .",
+        "D012460\tChemical\tsulfasalazine\tPhysicians who use sulfasalazine to treat patient with inflammatory bowel disease should be aware of the sign of <target> sulfasalazine </target> -induced lupus syndrome .",
+        "D008180\tDisease\tlupus syndrome\tPhysicians who use sulfasalazine to treat patient with inflammatory bowel disease should be aware of the sign of sulfasalazine-induced <target> lupus syndrome </target> ."
+    ]
+}

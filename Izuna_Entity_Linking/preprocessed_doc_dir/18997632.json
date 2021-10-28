@@ -1,0 +1,137 @@
+{
+    "title": "A case of ventricular tachycardia related to caffeine pretreatment.",
+    "abst": "Suboptimal seizure duration is commonly encountered in electroconvulsive therapy practice, especially in older patients with higher seizure thresholds. Intravenous caffeine is commonly used to improve seizure duration and quality in such patients and is generally well tolerated aside from occasional reports of relatively benign ventricular ectopy. We describe a patient with no previous history of cardiac disease or arrhythmia who developed sustained bigeminy and 2 brief runs of ventricular tachycardia after caffeine administration. Although intravenous caffeine is generally well tolerated, the clinician should be aware of the potential for unpredictable and serious ventricular arrhythmias.",
+    "title_plus_abst": "A case of ventricular tachycardia related to caffeine pretreatment. Suboptimal seizure duration is commonly encountered in electroconvulsive therapy practice, especially in older patients with higher seizure thresholds. Intravenous caffeine is commonly used to improve seizure duration and quality in such patients and is generally well tolerated aside from occasional reports of relatively benign ventricular ectopy. We describe a patient with no previous history of cardiac disease or arrhythmia who developed sustained bigeminy and 2 brief runs of ventricular tachycardia after caffeine administration. Although intravenous caffeine is generally well tolerated, the clinician should be aware of the potential for unpredictable and serious ventricular arrhythmias.",
+    "pubmed_id": "18997632",
+    "entities": [
+        [
+            10,
+            33,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ],
+        [
+            45,
+            53,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            79,
+            86,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            200,
+            207,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            232,
+            240,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            269,
+            276,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            398,
+            416,
+            "ventricular ectopy",
+            "Disease",
+            "D018879"
+        ],
+        [
+            468,
+            483,
+            "cardiac disease",
+            "Disease",
+            "D006331"
+        ],
+        [
+            487,
+            497,
+            "arrhythmia",
+            "Disease",
+            "D001145"
+        ],
+        [
+            551,
+            574,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ],
+        [
+            581,
+            589,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            627,
+            635,
+            "caffeine",
+            "Chemical",
+            "D002110"
+        ],
+        [
+            742,
+            765,
+            "ventricular arrhythmias",
+            "Disease",
+            "D001145"
+        ]
+    ],
+    "split_sentence": [
+        "A case of ventricular tachycardia related to caffeine pretreatment.",
+        "Suboptimal seizure duration is commonly encountered in electroconvulsive therapy practice, especially in older patients with higher seizure thresholds.",
+        "Intravenous caffeine is commonly used to improve seizure duration and quality in such patients and is generally well tolerated aside from occasional reports of relatively benign ventricular ectopy.",
+        "We describe a patient with no previous history of cardiac disease or arrhythmia who developed sustained bigeminy and 2 brief runs of ventricular tachycardia after caffeine administration.",
+        "Although intravenous caffeine is generally well tolerated, the clinician should be aware of the potential for unpredictable and serious ventricular arrhythmias."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017180\tDisease\tventricular tachycardia\tA case of <target> ventricular tachycardia </target> related to caffeine pretreatment .",
+        "D002110\tChemical\tcaffeine\tA case of ventricular tachycardia related to <target> caffeine </target> pretreatment .",
+        "D012640\tDisease\tseizure\tSuboptimal <target> seizure </target> duration is commonly encountered in electroconvulsive therapy practice , especially in older patients with higher seizure thresholds .",
+        "D012640\tDisease\tseizure\tSuboptimal seizure duration is commonly encountered in electroconvulsive therapy practice , especially in older patients with higher <target> seizure </target> thresholds .",
+        "D002110\tChemical\tcaffeine\tIntravenous <target> caffeine </target> is commonly used to improve seizure duration and quality in such patients and is generally well tolerated aside from occasional reports of relatively benign ventricular ectopy .",
+        "D012640\tDisease\tseizure\tIntravenous caffeine is commonly used to improve <target> seizure </target> duration and quality in such patients and is generally well tolerated aside from occasional reports of relatively benign ventricular ectopy .",
+        "D018879\tDisease\tventricular ectopy\tIntravenous caffeine is commonly used to improve seizure duration and quality in such patients and is generally well tolerated aside from occasional reports of relatively benign <target> ventricular ectopy </target> .",
+        "D006331\tDisease\tcardiac disease\tWe describe a patient with no previous history of <target> cardiac disease </target> or arrhythmia who developed sustained bigeminy and 2 brief runs of ventricular tachycardia after caffeine administration .",
+        "D001145\tDisease\tarrhythmia\tWe describe a patient with no previous history of cardiac disease or <target> arrhythmia </target> who developed sustained bigeminy and 2 brief runs of ventricular tachycardia after caffeine administration .",
+        "D017180\tDisease\tventricular tachycardia\tWe describe a patient with no previous history of cardiac disease or arrhythmia who developed sustained bigeminy and 2 brief runs of <target> ventricular tachycardia </target> after caffeine administration .",
+        "D002110\tChemical\tcaffeine\tWe describe a patient with no previous history of cardiac disease or arrhythmia who developed sustained bigeminy and 2 brief runs of ventricular tachycardia after <target> caffeine </target> administration .",
+        "D002110\tChemical\tcaffeine\tAlthough intravenous <target> caffeine </target> is generally well tolerated , the clinician should be aware of the potential for unpredictable and serious ventricular arrhythmias .",
+        "D001145\tDisease\tventricular arrhythmias\tAlthough intravenous caffeine is generally well tolerated , the clinician should be aware of the potential for unpredictable and serious <target> ventricular arrhythmias </target> ."
+    ],
+    "lines_lemma": [
+        "D017180\tDisease\tventricular tachycardia\ta case of <target> ventricular tachycardia </target> related to caffeine pretreatment .",
+        "D002110\tChemical\tcaffeine\ta case of ventricular tachycardia related to <target> caffeine </target> pretreatment .",
+        "D012640\tDisease\tseizure\tsuboptimal <target> seizure </target> duration be commonly encounter in electroconvulsive therapy practice , especially in old patient with high seizure threshold .",
+        "D012640\tDisease\tseizure\tsuboptimal seizure duration be commonly encounter in electroconvulsive therapy practice , especially in old patient with high <target> seizure </target> threshold .",
+        "D002110\tChemical\tcaffeine\tintravenous <target> caffeine </target> be commonly use to improve seizure duration and quality in such patient and be generally well tolerate aside from occasional report of relatively benign ventricular ectopy .",
+        "D012640\tDisease\tseizure\tintravenous caffeine be commonly use to improve <target> seizure </target> duration and quality in such patient and be generally well tolerate aside from occasional report of relatively benign ventricular ectopy .",
+        "D018879\tDisease\tventricular ectopy\tintravenous caffeine be commonly use to improve seizure duration and quality in such patient and be generally well tolerate aside from occasional report of relatively benign <target> ventricular ectopy </target> .",
+        "D006331\tDisease\tcardiac disease\twe describe a patient with no previous history of <target> cardiac disease </target> or arrhythmia who develop sustained bigeminy and 2 brief run of ventricular tachycardia after caffeine administration .",
+        "D001145\tDisease\tarrhythmia\twe describe a patient with no previous history of cardiac disease or <target> arrhythmia </target> who develop sustained bigeminy and 2 brief run of ventricular tachycardia after caffeine administration .",
+        "D017180\tDisease\tventricular tachycardia\twe describe a patient with no previous history of cardiac disease or arrhythmia who develop sustained bigeminy and 2 brief run of <target> ventricular tachycardia </target> after caffeine administration .",
+        "D002110\tChemical\tcaffeine\twe describe a patient with no previous history of cardiac disease or arrhythmia who develop sustained bigeminy and 2 brief run of ventricular tachycardia after <target> caffeine </target> administration .",
+        "D002110\tChemical\tcaffeine\talthough intravenous <target> caffeine </target> be generally well tolerate , the clinician should be aware of the potential for unpredictable and serious ventricular arrhythmia .",
+        "D001145\tDisease\tventricular arrhythmias\talthough intravenous caffeine be generally well tolerate , the clinician should be aware of the potential for unpredictable and serious <target> ventricular arrhythmia </target> ."
+    ]
+}

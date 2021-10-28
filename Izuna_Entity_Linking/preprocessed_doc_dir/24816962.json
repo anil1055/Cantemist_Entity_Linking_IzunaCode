@@ -1,0 +1,83 @@
+{
+    "title": "Metronidazole-induced encephalopathy: an uncommon scenario.",
+    "abst": "Metronidazole can produce neurological complications although it is not a common scenario. We present a case where a patient developed features of encephalopathy following prolonged metronidazole intake. Magnetic resonance imaging (MRI) brain showed abnormal signal intensity involving both dentate nuclei of cerebellum and splenium of corpus callosum. The diagnosis of metronidazole toxicity was made by the MRI findings and supported clinically.",
+    "title_plus_abst": "Metronidazole-induced encephalopathy: an uncommon scenario. Metronidazole can produce neurological complications although it is not a common scenario. We present a case where a patient developed features of encephalopathy following prolonged metronidazole intake. Magnetic resonance imaging (MRI) brain showed abnormal signal intensity involving both dentate nuclei of cerebellum and splenium of corpus callosum. The diagnosis of metronidazole toxicity was made by the MRI findings and supported clinically.",
+    "pubmed_id": "24816962",
+    "entities": [
+        [
+            0,
+            13,
+            "Metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            22,
+            36,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            60,
+            73,
+            "Metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            207,
+            221,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            242,
+            255,
+            "metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            430,
+            443,
+            "metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            444,
+            452,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Metronidazole-induced encephalopathy: an uncommon scenario.",
+        "Metronidazole can produce neurological complications although it is not a common scenario.",
+        "We present a case where a patient developed features of encephalopathy following prolonged metronidazole intake.",
+        "Magnetic resonance imaging (MRI) brain showed abnormal signal intensity involving both dentate nuclei of cerebellum and splenium of corpus callosum.",
+        "The diagnosis of metronidazole toxicity was made by the MRI findings and supported clinically."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008795\tChemical\tMetronidazole\t<target> Metronidazole </target> -induced encephalopathy : an uncommon scenario .",
+        "D001927\tDisease\tencephalopathy\tMetronidazole-induced <target> encephalopathy </target> : an uncommon scenario .",
+        "D008795\tChemical\tMetronidazole\t<target> Metronidazole </target> can produce neurological complications although it is not a common scenario .",
+        "D001927\tDisease\tencephalopathy\tWe present a case where a patient developed features of <target> encephalopathy </target> following prolonged metronidazole intake .",
+        "D008795\tChemical\tmetronidazole\tWe present a case where a patient developed features of encephalopathy following prolonged <target> metronidazole </target> intake .",
+        "D008795\tChemical\tmetronidazole\tThe diagnosis of <target> metronidazole </target> toxicity was made by the MRI findings and supported clinically .",
+        "D064420\tDisease\ttoxicity\tThe diagnosis of metronidazole <target> toxicity </target> was made by the MRI findings and supported clinically ."
+    ],
+    "lines_lemma": [
+        "D008795\tChemical\tMetronidazole\t<target> Metronidazole </target> -induced encephalopathy : an uncommon scenario .",
+        "D001927\tDisease\tencephalopathy\tmetronidazole-induced <target> encephalopathy </target> : an uncommon scenario .",
+        "D008795\tChemical\tMetronidazole\t<target> Metronidazole </target> can produce neurological complication although it be not a common scenario .",
+        "D001927\tDisease\tencephalopathy\twe present a case where a patient develop feature of <target> encephalopathy </target> follow prolonged metronidazole intake .",
+        "D008795\tChemical\tmetronidazole\twe present a case where a patient develop feature of encephalopathy follow prolonged <target> metronidazole </target> intake .",
+        "D008795\tChemical\tmetronidazole\tthe diagnosis of <target> metronidazole </target> toxicity be make by the mri finding and support clinically .",
+        "D064420\tDisease\ttoxicity\tthe diagnosis of metronidazole <target> toxicity </target> be make by the mri finding and support clinically ."
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Obsolete but dangerous antacid preparations.",
+    "abst": "One case of acute hypercalcaemia and two of recurrent nephrolithiasis are reported in patients who had regularly consumed large amounts of calcium carbon-ate-sodium bicarbonate powders for more than 20 years. The powders had been obtained from pharmacists unknown to the patients' medical practitioners. It is suggested that these preparations were responsible for the patient's problems, and that such powders should no longer be freely obtainable.",
+    "title_plus_abst": "Obsolete but dangerous antacid preparations. One case of acute hypercalcaemia and two of recurrent nephrolithiasis are reported in patients who had regularly consumed large amounts of calcium carbon-ate-sodium bicarbonate powders for more than 20 years. The powders had been obtained from pharmacists unknown to the patients' medical practitioners. It is suggested that these preparations were responsible for the patient's problems, and that such powders should no longer be freely obtainable.",
+    "pubmed_id": "625456",
+    "entities": [
+        [
+            63,
+            77,
+            "hypercalcaemia",
+            "Disease",
+            "D006934"
+        ],
+        [
+            99,
+            114,
+            "nephrolithiasis",
+            "Disease",
+            "D053040"
+        ],
+        [
+            184,
+            202,
+            "calcium carbon-ate",
+            "Chemical",
+            "D002119"
+        ],
+        [
+            203,
+            221,
+            "sodium bicarbonate",
+            "Chemical",
+            "D017693"
+        ]
+    ],
+    "split_sentence": [
+        "Obsolete but dangerous antacid preparations.",
+        "One case of acute hypercalcaemia and two of recurrent nephrolithiasis are reported in patients who had regularly consumed large amounts of calcium carbon-ate-sodium bicarbonate powders for more than 20 years.",
+        "The powders had been obtained from pharmacists unknown to the patients' medical practitioners.",
+        "It is suggested that these preparations were responsible for the patient's problems, and that such powders should no longer be freely obtainable."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006934\tDisease\thypercalcaemia\tOne case of acute <target> hypercalcaemia </target> and two of recurrent nephrolithiasis are reported in patients who had regularly consumed large amounts of calcium carbon-ate-sodium bicarbonate powders for more than 20 years .",
+        "D053040\tDisease\tnephrolithiasis\tOne case of acute hypercalcaemia and two of recurrent <target> nephrolithiasis </target> are reported in patients who had regularly consumed large amounts of calcium carbon-ate-sodium bicarbonate powders for more than 20 years .",
+        "D002119\tChemical\tcalcium carbon-ate\tOne case of acute hypercalcaemia and two of recurrent nephrolithiasis are reported in patients who had regularly consumed large amounts of <target> calcium carbon-ate </target> -sodium bicarbonate powders for more than 20 years .",
+        "D017693\tChemical\tsodium bicarbonate\tOne case of acute hypercalcaemia and two of recurrent nephrolithiasis are reported in patients who had regularly consumed large amounts of calcium carbon-ate- <target> sodium bicarbonate </target> powders for more than 20 years ."
+    ],
+    "lines_lemma": [
+        "D006934\tDisease\thypercalcaemia\tone case of acute <target> hypercalcaemia </target> and two of recurrent nephrolithiasis be report in patient who have regularly consume large amount of calcium carbon-ate-sodium bicarbonate powder for more than 20 year .",
+        "D053040\tDisease\tnephrolithiasis\tone case of acute hypercalcaemia and two of recurrent <target> nephrolithiasis </target> be report in patient who have regularly consume large amount of calcium carbon-ate-sodium bicarbonate powder for more than 20 year .",
+        "D002119\tChemical\tcalcium carbon-ate\tone case of acute hypercalcaemia and two of recurrent nephrolithiasis be report in patient who have regularly consume large amount of <target> calcium carbon-ate </target> -sodium bicarbonate powder for more than 20 year .",
+        "D017693\tChemical\tsodium bicarbonate\tone case of acute hypercalcaemia and two of recurrent nephrolithiasis be report in patient who have regularly consume large amount of calcium carbon-ate- <target> sodium bicarbonate </target> powder for more than 20 year ."
+    ]
+}

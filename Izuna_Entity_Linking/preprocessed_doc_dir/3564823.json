@@ -1,0 +1,93 @@
+{
+    "title": "Drug-induced arterial spasm relieved by lidocaine. Case report.",
+    "abst": "Following major intracranial surgery in a 35-year-old man, sodium pentothal was intravenously infused to minimize cerebral ischaemia. Intense vasospasm with threatened gangrene arose in the arm used for the infusion. Since the cranial condition precluded use of more usual methods, lidocaine was given intra-arterially, with careful cardiovascular monitoring, to counteract the vasospasm. The treatment was rapidly successful.",
+    "title_plus_abst": "Drug-induced arterial spasm relieved by lidocaine. Case report. Following major intracranial surgery in a 35-year-old man, sodium pentothal was intravenously infused to minimize cerebral ischaemia. Intense vasospasm with threatened gangrene arose in the arm used for the infusion. Since the cranial condition precluded use of more usual methods, lidocaine was given intra-arterially, with careful cardiovascular monitoring, to counteract the vasospasm. The treatment was rapidly successful.",
+    "pubmed_id": "3564823",
+    "entities": [
+        [
+            22,
+            27,
+            "spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            40,
+            49,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            123,
+            139,
+            "sodium pentothal",
+            "Chemical",
+            "D013874"
+        ],
+        [
+            178,
+            196,
+            "cerebral ischaemia",
+            "Disease",
+            "D002545"
+        ],
+        [
+            206,
+            215,
+            "vasospasm",
+            "Disease",
+            "D020301"
+        ],
+        [
+            232,
+            240,
+            "gangrene",
+            "Disease",
+            "D005734"
+        ],
+        [
+            346,
+            355,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            442,
+            451,
+            "vasospasm",
+            "Disease",
+            "D020301"
+        ]
+    ],
+    "split_sentence": [
+        "Drug-induced arterial spasm relieved by lidocaine.",
+        "Case report.",
+        "Following major intracranial surgery in a 35-year-old man, sodium pentothal was intravenously infused to minimize cerebral ischaemia.",
+        "Intense vasospasm with threatened gangrene arose in the arm used for the infusion.",
+        "Since the cranial condition precluded use of more usual methods, lidocaine was given intra-arterially, with careful cardiovascular monitoring, to counteract the vasospasm.",
+        "The treatment was rapidly successful."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013035\tDisease\tspasm\tDrug-induced arterial <target> spasm </target> relieved by lidocaine .",
+        "D008012\tChemical\tlidocaine\tDrug-induced arterial spasm relieved by <target> lidocaine </target> .",
+        "D013874\tChemical\tsodium pentothal\tFollowing major intracranial surgery in a 35-year-old man , <target> sodium pentothal </target> was intravenously infused to minimize cerebral ischaemia .",
+        "D002545\tDisease\tcerebral ischaemia\tFollowing major intracranial surgery in a 35-year-old man , sodium pentothal was intravenously infused to minimize <target> cerebral ischaemia </target> .",
+        "D020301\tDisease\tvasospasm\tIntense <target> vasospasm </target> with threatened gangrene arose in the arm used for the infusion .",
+        "D005734\tDisease\tgangrene\tIntense vasospasm with threatened <target> gangrene </target> arose in the arm used for the infusion .",
+        "D008012\tChemical\tlidocaine\tSince the cranial condition precluded use of more usual methods , <target> lidocaine </target> was given intra-arterially , with careful cardiovascular monitoring , to counteract the vasospasm .",
+        "D020301\tDisease\tvasospasm\tSince the cranial condition precluded use of more usual methods , lidocaine was given intra-arterially , with careful cardiovascular monitoring , to counteract the <target> vasospasm </target> ."
+    ],
+    "lines_lemma": [
+        "D013035\tDisease\tspasm\tdrug-induced arterial <target> spasm </target> relieve by lidocaine .",
+        "D008012\tChemical\tlidocaine\tdrug-induced arterial spasm relieve by <target> lidocaine </target> .",
+        "D013874\tChemical\tsodium pentothal\tfollow major intracranial surgery in a 35-year-old man , <target> sodium pentothal </target> be intravenously infuse to minimize cerebral ischaemia .",
+        "D002545\tDisease\tcerebral ischaemia\tfollow major intracranial surgery in a 35-year-old man , sodium pentothal be intravenously infuse to minimize <target> cerebral ischaemia </target> .",
+        "D020301\tDisease\tvasospasm\tintense <target> vasospasm </target> with threaten gangrene arise in the arm use for the infusion .",
+        "D005734\tDisease\tgangrene\tintense vasospasm with threaten <target> gangrene </target> arise in the arm use for the infusion .",
+        "D008012\tChemical\tlidocaine\tsince the cranial condition preclude use of more usual method , <target> lidocaine </target> be give intra-arterially , with careful cardiovascular monitoring , to counteract the vasospasm .",
+        "D020301\tDisease\tvasospasm\tsince the cranial condition preclude use of more usual method , lidocaine be give intra-arterially , with careful cardiovascular monitoring , to counteract the <target> vasospasm </target> ."
+    ]
+}

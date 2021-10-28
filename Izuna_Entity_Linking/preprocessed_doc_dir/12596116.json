@@ -1,0 +1,91 @@
+{
+    "title": "Octreotide-induced hypoxemia and pulmonary hypertension in premature neonates.",
+    "abst": "The authors report 2 cases of premature neonates who had enterocutaneous fistula complicating necrotizing enterocolitis. Pulmonary hypertension developed after administration of a somatostatin analogue, octreotide, to enhance resolution of the fistula. The authors discuss the mechanism of the occurrence of this complication and recommend caution of its use in high-risk premature neonates.",
+    "title_plus_abst": "Octreotide-induced hypoxemia and pulmonary hypertension in premature neonates. The authors report 2 cases of premature neonates who had enterocutaneous fistula complicating necrotizing enterocolitis. Pulmonary hypertension developed after administration of a somatostatin analogue, octreotide, to enhance resolution of the fistula. The authors discuss the mechanism of the occurrence of this complication and recommend caution of its use in high-risk premature neonates.",
+    "pubmed_id": "12596116",
+    "entities": [
+        [
+            0,
+            10,
+            "Octreotide",
+            "Chemical",
+            "D015282"
+        ],
+        [
+            19,
+            28,
+            "hypoxemia",
+            "Disease",
+            "D000860"
+        ],
+        [
+            33,
+            55,
+            "pulmonary hypertension",
+            "Disease",
+            "D006976"
+        ],
+        [
+            152,
+            159,
+            "fistula",
+            "Disease",
+            "D005402"
+        ],
+        [
+            173,
+            198,
+            "necrotizing enterocolitis",
+            "Disease",
+            "D020345"
+        ],
+        [
+            200,
+            222,
+            "Pulmonary hypertension",
+            "Disease",
+            "D006976"
+        ],
+        [
+            282,
+            292,
+            "octreotide",
+            "Chemical",
+            "D015282"
+        ],
+        [
+            323,
+            330,
+            "fistula",
+            "Disease",
+            "D005402"
+        ]
+    ],
+    "split_sentence": [
+        "Octreotide-induced hypoxemia and pulmonary hypertension in premature neonates.",
+        "The authors report 2 cases of premature neonates who had enterocutaneous fistula complicating necrotizing enterocolitis.",
+        "Pulmonary hypertension developed after administration of a somatostatin analogue, octreotide, to enhance resolution of the fistula.",
+        "The authors discuss the mechanism of the occurrence of this complication and recommend caution of its use in high-risk premature neonates."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015282\tChemical\tOctreotide\t<target> Octreotide </target> -induced hypoxemia and pulmonary hypertension in premature neonates .",
+        "D000860\tDisease\thypoxemia\tOctreotide-induced <target> hypoxemia </target> and pulmonary hypertension in premature neonates .",
+        "D006976\tDisease\tpulmonary hypertension\tOctreotide-induced hypoxemia and <target> pulmonary hypertension </target> in premature neonates .",
+        "D005402\tDisease\tfistula\tThe authors report 2 cases of premature neonates who had enterocutaneous <target> fistula </target> complicating necrotizing enterocolitis .",
+        "D020345\tDisease\tnecrotizing enterocolitis\tThe authors report 2 cases of premature neonates who had enterocutaneous fistula complicating <target> necrotizing enterocolitis </target> .",
+        "D006976\tDisease\tPulmonary hypertension\t<target> Pulmonary hypertension </target> developed after administration of a somatostatin analogue , octreotide , to enhance resolution of the fistula .",
+        "D015282\tChemical\toctreotide\tPulmonary hypertension developed after administration of a somatostatin analogue , <target> octreotide </target> , to enhance resolution of the fistula .",
+        "D005402\tDisease\tfistula\tPulmonary hypertension developed after administration of a somatostatin analogue , octreotide , to enhance resolution of the <target> fistula </target> ."
+    ],
+    "lines_lemma": [
+        "D015282\tChemical\tOctreotide\t<target> Octreotide </target> -induced hypoxemia and pulmonary hypertension in premature neonate .",
+        "D000860\tDisease\thypoxemia\toctreotide-induced <target> hypoxemia </target> and pulmonary hypertension in premature neonate .",
+        "D006976\tDisease\tpulmonary hypertension\toctreotide-induced hypoxemia and <target> pulmonary hypertension </target> in premature neonate .",
+        "D005402\tDisease\tfistula\tthe author report 2 case of premature neonate who have enterocutaneous <target> fistula </target> complicate necrotizing enterocolitis .",
+        "D020345\tDisease\tnecrotizing enterocolitis\tthe author report 2 case of premature neonate who have enterocutaneous fistula complicate <target> necrotizing enterocolitis </target> .",
+        "D006976\tDisease\tPulmonary hypertension\t<target> pulmonary hypertension </target> develop after administration of a somatostatin analogue , octreotide , to enhance resolution of the fistula .",
+        "D015282\tChemical\toctreotide\tpulmonary hypertension develop after administration of a somatostatin analogue , <target> octreotide </target> , to enhance resolution of the fistula .",
+        "D005402\tDisease\tfistula\tpulmonary hypertension develop after administration of a somatostatin analogue , octreotide , to enhance resolution of the <target> fistula </target> ."
+    ]
+}

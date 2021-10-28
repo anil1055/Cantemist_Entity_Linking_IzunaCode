@@ -1,0 +1,164 @@
+{
+    "title": "Refractory cardiogenic shock and complete heart block after verapamil SR and metoprolol treatment. A case report.",
+    "abst": "A seventy-eight-year-old woman presented with complete heart block and refractory hypotension two days after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol. The patient continued to remain hypotensive with complete heart block, even with multiple uses of intravenous atropine as well as high doses of pressor agents such as dopamine and dobutamine. However, shortly after the use of intravenous calcium chloride, the refractory hypotension and complete heart block resolved.",
+    "title_plus_abst": "Refractory cardiogenic shock and complete heart block after verapamil SR and metoprolol treatment. A case report. A seventy-eight-year-old woman presented with complete heart block and refractory hypotension two days after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol. The patient continued to remain hypotensive with complete heart block, even with multiple uses of intravenous atropine as well as high doses of pressor agents such as dopamine and dobutamine. However, shortly after the use of intravenous calcium chloride, the refractory hypotension and complete heart block resolved.",
+    "pubmed_id": "7785794",
+    "entities": [
+        [
+            11,
+            28,
+            "cardiogenic shock",
+            "Disease",
+            "D012770"
+        ],
+        [
+            42,
+            53,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            60,
+            69,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            77,
+            87,
+            "metoprolol",
+            "Chemical",
+            "D008790"
+        ],
+        [
+            169,
+            180,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            196,
+            207,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            263,
+            272,
+            "verapamil",
+            "Chemical",
+            "D014700"
+        ],
+        [
+            297,
+            307,
+            "metoprolol",
+            "Chemical",
+            "D008790"
+        ],
+        [
+            341,
+            352,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            367,
+            378,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            419,
+            427,
+            "atropine",
+            "Chemical",
+            "D001285"
+        ],
+        [
+            476,
+            484,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            489,
+            499,
+            "dobutamine",
+            "Chemical",
+            "D004280"
+        ],
+        [
+            547,
+            563,
+            "calcium chloride",
+            "Chemical",
+            "D002122"
+        ],
+        [
+            580,
+            591,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            605,
+            616,
+            "heart block",
+            "Disease",
+            "D006327"
+        ]
+    ],
+    "split_sentence": [
+        "Refractory cardiogenic shock and complete heart block after verapamil SR and metoprolol treatment.",
+        "A case report.",
+        "A seventy-eight-year-old woman presented with complete heart block and refractory hypotension two days after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol.",
+        "The patient continued to remain hypotensive with complete heart block, even with multiple uses of intravenous atropine as well as high doses of pressor agents such as dopamine and dobutamine.",
+        "However, shortly after the use of intravenous calcium chloride, the refractory hypotension and complete heart block resolved."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012770\tDisease\tcardiogenic shock\tRefractory <target> cardiogenic shock </target> and complete heart block after verapamil SR and metoprolol treatment .",
+        "D006327\tDisease\theart block\tRefractory cardiogenic shock and complete <target> heart block </target> after verapamil SR and metoprolol treatment .",
+        "D014700\tChemical\tverapamil\tRefractory cardiogenic shock and complete heart block after <target> verapamil </target> SR and metoprolol treatment .",
+        "D008790\tChemical\tmetoprolol\tRefractory cardiogenic shock and complete heart block after verapamil SR and <target> metoprolol </target> treatment .",
+        "D006327\tDisease\theart block\tA seventy-eight-year-old woman presented with complete <target> heart block </target> and refractory hypotension two days after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol .",
+        "D007022\tDisease\thypotension\tA seventy-eight-year-old woman presented with complete heart block and refractory <target> hypotension </target> two days after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol .",
+        "D014700\tChemical\tverapamil\tA seventy-eight-year-old woman presented with complete heart block and refractory hypotension two days after a therapeutic dose of sustained-release <target> verapamil </target> with concomitant use of metoprolol .",
+        "D008790\tChemical\tmetoprolol\tA seventy-eight-year-old woman presented with complete heart block and refractory hypotension two days after a therapeutic dose of sustained-release verapamil with concomitant use of <target> metoprolol </target> .",
+        "D007022\tDisease\thypotensive\tThe patient continued to remain <target> hypotensive </target> with complete heart block , even with multiple uses of intravenous atropine as well as high doses of pressor agents such as dopamine and dobutamine .",
+        "D006327\tDisease\theart block\tThe patient continued to remain hypotensive with complete <target> heart block </target> , even with multiple uses of intravenous atropine as well as high doses of pressor agents such as dopamine and dobutamine .",
+        "D001285\tChemical\tatropine\tThe patient continued to remain hypotensive with complete heart block , even with multiple uses of intravenous <target> atropine </target> as well as high doses of pressor agents such as dopamine and dobutamine .",
+        "D004298\tChemical\tdopamine\tThe patient continued to remain hypotensive with complete heart block , even with multiple uses of intravenous atropine as well as high doses of pressor agents such as <target> dopamine </target> and dobutamine .",
+        "D004280\tChemical\tdobutamine\tThe patient continued to remain hypotensive with complete heart block , even with multiple uses of intravenous atropine as well as high doses of pressor agents such as dopamine and <target> dobutamine </target> .",
+        "D002122\tChemical\tcalcium chloride\tHowever , shortly after the use of intravenous <target> calcium chloride </target> , the refractory hypotension and complete heart block resolved .",
+        "D007022\tDisease\thypotension\tHowever , shortly after the use of intravenous calcium chloride , the refractory <target> hypotension </target> and complete heart block resolved .",
+        "D006327\tDisease\theart block\tHowever , shortly after the use of intravenous calcium chloride , the refractory hypotension and complete <target> heart block </target> resolved ."
+    ],
+    "lines_lemma": [
+        "D012770\tDisease\tcardiogenic shock\trefractory <target> cardiogenic shock </target> and complete heart block after verapamil sr and metoprolol treatment .",
+        "D006327\tDisease\theart block\trefractory cardiogenic shock and complete <target> heart block </target> after verapamil sr and metoprolol treatment .",
+        "D014700\tChemical\tverapamil\trefractory cardiogenic shock and complete heart block after <target> verapamil </target> sr and metoprolol treatment .",
+        "D008790\tChemical\tmetoprolol\trefractory cardiogenic shock and complete heart block after verapamil sr and <target> metoprolol </target> treatment .",
+        "D006327\tDisease\theart block\ta seventy-eight-year-old woman present with complete <target> heart block </target> and refractory hypotension two day after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol .",
+        "D007022\tDisease\thypotension\ta seventy-eight-year-old woman present with complete heart block and refractory <target> hypotension </target> two day after a therapeutic dose of sustained-release verapamil with concomitant use of metoprolol .",
+        "D014700\tChemical\tverapamil\ta seventy-eight-year-old woman present with complete heart block and refractory hypotension two day after a therapeutic dose of sustained-release <target> verapamil </target> with concomitant use of metoprolol .",
+        "D008790\tChemical\tmetoprolol\ta seventy-eight-year-old woman present with complete heart block and refractory hypotension two day after a therapeutic dose of sustained-release verapamil with concomitant use of <target> metoprolol </target> .",
+        "D007022\tDisease\thypotensive\tthe patient continue to remain <target> hypotensive </target> with complete heart block , even with multiple use of intravenous atropine as well as high dose of pressor agent such as dopamine and dobutamine .",
+        "D006327\tDisease\theart block\tthe patient continue to remain hypotensive with complete <target> heart block </target> , even with multiple use of intravenous atropine as well as high dose of pressor agent such as dopamine and dobutamine .",
+        "D001285\tChemical\tatropine\tthe patient continue to remain hypotensive with complete heart block , even with multiple use of intravenous <target> atropine </target> as well as high dose of pressor agent such as dopamine and dobutamine .",
+        "D004298\tChemical\tdopamine\tthe patient continue to remain hypotensive with complete heart block , even with multiple use of intravenous atropine as well as high dose of pressor agent such as <target> dopamine </target> and dobutamine .",
+        "D004280\tChemical\tdobutamine\tthe patient continue to remain hypotensive with complete heart block , even with multiple use of intravenous atropine as well as high dose of pressor agent such as dopamine and <target> dobutamine </target> .",
+        "D002122\tChemical\tcalcium chloride\thowever , shortly after the use of intravenous <target> calcium chloride </target> , the refractory hypotension and complete heart block resolve .",
+        "D007022\tDisease\thypotension\thowever , shortly after the use of intravenous calcium chloride , the refractory <target> hypotension </target> and complete heart block resolve .",
+        "D006327\tDisease\theart block\thowever , shortly after the use of intravenous calcium chloride , the refractory hypotension and complete <target> heart block </target> resolve ."
+    ]
+}

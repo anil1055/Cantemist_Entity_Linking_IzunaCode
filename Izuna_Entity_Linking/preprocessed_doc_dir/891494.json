@@ -1,0 +1,156 @@
+{
+    "title": "Phenytoin encephalopathy as probable idiosyncratic reaction: case report.",
+    "abst": "A case of phenytoin (DPH) encephalopathy with increasing seizures and EEG and mental changes is described. Despite adequate oral dosage of DPH (5 mg/kg/daily) the plasma level was very low (2.8 microgramg/ml). The encephalopathy was probably an idiosyncratic and not toxic or allergic reaction. In fact the concentration of free DPH was normal, the patient presented a retarded morbilliform rash during DPH treatment, the protidogram was normal, and an intradermic DPH injection had no local effect. The authors conclude that in a patient starting DPH treatment an unexpected increase in seizures, with EEG and mental changes occurring simultaneously, should alert the physician to the possible need for eliminating DPH from the therapeutic regimen, even if plasma concentrations are low.",
+    "title_plus_abst": "Phenytoin encephalopathy as probable idiosyncratic reaction: case report. A case of phenytoin (DPH) encephalopathy with increasing seizures and EEG and mental changes is described. Despite adequate oral dosage of DPH (5 mg/kg/daily) the plasma level was very low (2.8 microgramg/ml). The encephalopathy was probably an idiosyncratic and not toxic or allergic reaction. In fact the concentration of free DPH was normal, the patient presented a retarded morbilliform rash during DPH treatment, the protidogram was normal, and an intradermic DPH injection had no local effect. The authors conclude that in a patient starting DPH treatment an unexpected increase in seizures, with EEG and mental changes occurring simultaneously, should alert the physician to the possible need for eliminating DPH from the therapeutic regimen, even if plasma concentrations are low.",
+    "pubmed_id": "891494",
+    "entities": [
+        [
+            0,
+            9,
+            "Phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            10,
+            24,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            84,
+            93,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            95,
+            98,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            100,
+            114,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            131,
+            139,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            213,
+            216,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            288,
+            302,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            403,
+            406,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            465,
+            469,
+            "rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            477,
+            480,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            539,
+            542,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            622,
+            625,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            662,
+            670,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            790,
+            793,
+            "DPH",
+            "Chemical",
+            "D010672"
+        ]
+    ],
+    "split_sentence": [
+        "Phenytoin encephalopathy as probable idiosyncratic reaction: case report.",
+        "A case of phenytoin (DPH) encephalopathy with increasing seizures and EEG and mental changes is described.",
+        "Despite adequate oral dosage of DPH (5 mg/kg/daily) the plasma level was very low (2.8 microgramg/ml).",
+        "The encephalopathy was probably an idiosyncratic and not toxic or allergic reaction.",
+        "In fact the concentration of free DPH was normal, the patient presented a retarded morbilliform rash during DPH treatment, the protidogram was normal, and an intradermic DPH injection had no local effect.",
+        "The authors conclude that in a patient starting DPH treatment an unexpected increase in seizures, with EEG and mental changes occurring simultaneously, should alert the physician to the possible need for eliminating DPH from the therapeutic regimen, even if plasma concentrations are low."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010672\tChemical\tPhenytoin\t<target> Phenytoin </target> encephalopathy as probable idiosyncratic reaction : case report .",
+        "D001927\tDisease\tencephalopathy\tPhenytoin <target> encephalopathy </target> as probable idiosyncratic reaction : case report .",
+        "D010672\tChemical\tphenytoin\tA case of <target> phenytoin </target> ( DPH ) encephalopathy with increasing seizures and EEG and mental changes is described .",
+        "D010672\tChemical\tDPH\tA case of phenytoin ( <target> DPH </target> ) encephalopathy with increasing seizures and EEG and mental changes is described .",
+        "D001927\tDisease\tencephalopathy\tA case of phenytoin ( DPH ) <target> encephalopathy </target> with increasing seizures and EEG and mental changes is described .",
+        "D012640\tDisease\tseizures\tA case of phenytoin ( DPH ) encephalopathy with increasing <target> seizures </target> and EEG and mental changes is described .",
+        "D010672\tChemical\tDPH\tDespite adequate oral dosage of <target> DPH </target> ( 5 mg/kg/daily ) the plasma level was very low ( 2.8 microgramg/ml ) .",
+        "D001927\tDisease\tencephalopathy\tThe <target> encephalopathy </target> was probably an idiosyncratic and not toxic or allergic reaction .",
+        "D010672\tChemical\tDPH\tIn fact the concentration of free <target> DPH </target> was normal , the patient presented a retarded morbilliform rash during DPH treatment , the protidogram was normal , and an intradermic DPH injection had no local effect .",
+        "D005076\tDisease\trash\tIn fact the concentration of free DPH was normal , the patient presented a retarded morbilliform <target> rash </target> during DPH treatment , the protidogram was normal , and an intradermic DPH injection had no local effect .",
+        "D010672\tChemical\tDPH\tIn fact the concentration of free DPH was normal , the patient presented a retarded morbilliform rash during <target> DPH </target> treatment , the protidogram was normal , and an intradermic DPH injection had no local effect .",
+        "D010672\tChemical\tDPH\tIn fact the concentration of free DPH was normal , the patient presented a retarded morbilliform rash during DPH treatment , the protidogram was normal , and an intradermic <target> DPH </target> injection had no local effect .",
+        "D010672\tChemical\tDPH\tThe authors conclude that in a patient starting <target> DPH </target> treatment an unexpected increase in seizures , with EEG and mental changes occurring simultaneously , should alert the physician to the possible need for eliminating DPH from the therapeutic regimen , even if plasma concentrations are low .",
+        "D012640\tDisease\tseizures\tThe authors conclude that in a patient starting DPH treatment an unexpected increase in <target> seizures </target> , with EEG and mental changes occurring simultaneously , should alert the physician to the possible need for eliminating DPH from the therapeutic regimen , even if plasma concentrations are low .",
+        "D010672\tChemical\tDPH\tThe authors conclude that in a patient starting DPH treatment an unexpected increase in seizures , with EEG and mental changes occurring simultaneously , should alert the physician to the possible need for eliminating <target> DPH </target> from the therapeutic regimen , even if plasma concentrations are low ."
+    ],
+    "lines_lemma": [
+        "D010672\tChemical\tPhenytoin\t<target> phenytoin </target> encephalopathy as probable idiosyncratic reaction : case report .",
+        "D001927\tDisease\tencephalopathy\tphenytoin <target> encephalopathy </target> as probable idiosyncratic reaction : case report .",
+        "D010672\tChemical\tphenytoin\ta case of <target> phenytoin </target> ( dph ) encephalopathy with increase seizure and eeg and mental change be describe .",
+        "D010672\tChemical\tDPH\ta case of phenytoin ( <target> dph </target> ) encephalopathy with increase seizure and eeg and mental change be describe .",
+        "D001927\tDisease\tencephalopathy\ta case of phenytoin ( dph ) <target> encephalopathy </target> with increase seizure and eeg and mental change be describe .",
+        "D012640\tDisease\tseizures\ta case of phenytoin ( dph ) encephalopathy with increase <target> seizure </target> and eeg and mental change be describe .",
+        "D010672\tChemical\tDPH\tdespite adequate oral dosage of <target> dph </target> ( 5 mg/kg/daily ) the plasma level be very low ( 2.8 microgramg/ml ) .",
+        "D001927\tDisease\tencephalopathy\tthe <target> encephalopathy </target> be probably an idiosyncratic and not toxic or allergic reaction .",
+        "D010672\tChemical\tDPH\tin fact the concentration of free <target> dph </target> be normal , the patient present a retarded morbilliform rash during dph treatment , the protidogram be normal , and an intradermic dph injection have no local effect .",
+        "D005076\tDisease\trash\tin fact the concentration of free dph be normal , the patient present a retarded morbilliform <target> rash </target> during dph treatment , the protidogram be normal , and an intradermic dph injection have no local effect .",
+        "D010672\tChemical\tDPH\tin fact the concentration of free dph be normal , the patient present a retarded morbilliform rash during <target> dph </target> treatment , the protidogram be normal , and an intradermic dph injection have no local effect .",
+        "D010672\tChemical\tDPH\tin fact the concentration of free dph be normal , the patient present a retarded morbilliform rash during dph treatment , the protidogram be normal , and an intradermic <target> dph </target> injection have no local effect .",
+        "D010672\tChemical\tDPH\tthe author conclude that in a patient start <target> dph </target> treatment an unexpected increase in seizure , with eeg and mental change occur simultaneously , should alert the physician to the possible need for eliminate dph from the therapeutic regimen , even if plasma concentration be low .",
+        "D012640\tDisease\tseizures\tthe author conclude that in a patient start dph treatment an unexpected increase in <target> seizure </target> , with eeg and mental change occur simultaneously , should alert the physician to the possible need for eliminate dph from the therapeutic regimen , even if plasma concentration be low .",
+        "D010672\tChemical\tDPH\tthe author conclude that in a patient start dph treatment an unexpected increase in seizure , with eeg and mental change occur simultaneously , should alert the physician to the possible need for eliminate <target> dph </target> from the therapeutic regimen , even if plasma concentration be low ."
+    ]
+}

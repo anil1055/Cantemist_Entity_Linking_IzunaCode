@@ -1,0 +1,152 @@
+{
+    "title": "Suxamethonium infusion rate and observed fasciculations. A dose-response study.",
+    "abst": "Suxamethonium chloride (Sch) was administered i.v. to 36 adult males at six rates: 0.25 mg s-1 to 20 mg s-1. The infusion was discontinued either when there was no muscular response to tetanic stimulation of the ulnar nerve or when Sch 120 mg was exceeded. Six additional patients received a 30-mg i.v. bolus dose. Fasciculations in six areas of the body were scored from 0 to 3 and summated as a total fasciculation score. The times to first fasciculation, twitch suppression and tetanus suppression were inversely related to the infusion rates. Fasciculations in the six areas and the total fasciculation score were related directly to the rate of infusion. Total fasciculation scores in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion groups were not significantly different.",
+    "title_plus_abst": "Suxamethonium infusion rate and observed fasciculations. A dose-response study. Suxamethonium chloride (Sch) was administered i.v. to 36 adult males at six rates: 0.25 mg s-1 to 20 mg s-1. The infusion was discontinued either when there was no muscular response to tetanic stimulation of the ulnar nerve or when Sch 120 mg was exceeded. Six additional patients received a 30-mg i.v. bolus dose. Fasciculations in six areas of the body were scored from 0 to 3 and summated as a total fasciculation score. The times to first fasciculation, twitch suppression and tetanus suppression were inversely related to the infusion rates. Fasciculations in the six areas and the total fasciculation score were related directly to the rate of infusion. Total fasciculation scores in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion groups were not significantly different.",
+    "pubmed_id": "435349",
+    "entities": [
+        [
+            0,
+            13,
+            "Suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            41,
+            55,
+            "fasciculations",
+            "Disease",
+            "D005207"
+        ],
+        [
+            80,
+            102,
+            "Suxamethonium chloride",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            104,
+            107,
+            "Sch",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            265,
+            272,
+            "tetanic",
+            "Disease",
+            "D013746"
+        ],
+        [
+            312,
+            315,
+            "Sch",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            395,
+            409,
+            "Fasciculations",
+            "Disease",
+            "D005207"
+        ],
+        [
+            483,
+            496,
+            "fasciculation",
+            "Disease",
+            "D005207"
+        ],
+        [
+            523,
+            536,
+            "fasciculation",
+            "Disease",
+            "D005207"
+        ],
+        [
+            538,
+            544,
+            "twitch",
+            "Disease",
+            "D013746"
+        ],
+        [
+            561,
+            568,
+            "tetanus",
+            "Disease",
+            "D013746"
+        ],
+        [
+            627,
+            641,
+            "Fasciculations",
+            "Disease",
+            "D005207"
+        ],
+        [
+            673,
+            686,
+            "fasciculation",
+            "Disease",
+            "D005207"
+        ],
+        [
+            746,
+            759,
+            "fasciculation",
+            "Disease",
+            "D005207"
+        ]
+    ],
+    "split_sentence": [
+        "Suxamethonium infusion rate and observed fasciculations.",
+        "A dose-response study.",
+        "Suxamethonium chloride (Sch) was administered i.v.",
+        "to 36 adult males at six rates: 0.25 mg s-1 to 20 mg s-1.",
+        "The infusion was discontinued either when there was no muscular response to tetanic stimulation of the ulnar nerve or when Sch 120 mg was exceeded.",
+        "Six additional patients received a 30-mg i.v.",
+        "bolus dose.",
+        "Fasciculations in six areas of the body were scored from 0 to 3 and summated as a total fasciculation score.",
+        "The times to first fasciculation, twitch suppression and tetanus suppression were inversely related to the infusion rates.",
+        "Fasciculations in the six areas and the total fasciculation score were related directly to the rate of infusion.",
+        "Total fasciculation scores in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion groups were not significantly different."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> infusion rate and observed fasciculations .",
+        "D005207\tDisease\tfasciculations\tSuxamethonium infusion rate and observed <target> fasciculations </target> .",
+        "D013390\tChemical\tSuxamethonium chloride\t<target> Suxamethonium chloride </target> ( Sch ) was administered i.v .",
+        "D013390\tChemical\tSch\tSuxamethonium chloride ( <target> Sch </target> ) was administered i.v .",
+        "D013746\tDisease\ttetanic\tThe infusion was discontinued either when there was no muscular response to <target> tetanic </target> stimulation of the ulnar nerve or when Sch 120 mg was exceeded .",
+        "D013390\tChemical\tSch\tThe infusion was discontinued either when there was no muscular response to tetanic stimulation of the ulnar nerve or when <target> Sch </target> 120 mg was exceeded .",
+        "D005207\tDisease\tFasciculations\t<target> Fasciculations </target> in six areas of the body were scored from 0 to 3 and summated as a total fasciculation score .",
+        "D005207\tDisease\tfasciculation\tFasciculations in six areas of the body were scored from 0 to 3 and summated as a total <target> fasciculation </target> score .",
+        "D005207\tDisease\tfasciculation\tThe times to first <target> fasciculation </target> , twitch suppression and tetanus suppression were inversely related to the infusion rates .",
+        "D013746\tDisease\ttwitch\tThe times to first fasciculation , <target> twitch </target> suppression and tetanus suppression were inversely related to the infusion rates .",
+        "D013746\tDisease\ttetanus\tThe times to first fasciculation , twitch suppression and <target> tetanus </target> suppression were inversely related to the infusion rates .",
+        "D005207\tDisease\tFasciculations\t<target> Fasciculations </target> in the six areas and the total fasciculation score were related directly to the rate of infusion .",
+        "D005207\tDisease\tfasciculation\tFasciculations in the six areas and the total <target> fasciculation </target> score were related directly to the rate of infusion .",
+        "D005207\tDisease\tfasciculation\tTotal <target> fasciculation </target> scores in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion groups were not significantly different ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> infusion rate and observe fasciculation .",
+        "D005207\tDisease\tfasciculations\tsuxamethonium infusion rate and observe <target> fasciculation </target> .",
+        "D013390\tChemical\tSuxamethonium chloride\t<target> Suxamethonium chloride </target> ( sch ) be administer i.v .",
+        "D013390\tChemical\tSch\tSuxamethonium chloride ( <target> sch </target> ) be administer i.v .",
+        "D013746\tDisease\ttetanic\tthe infusion be discontinue either when there be no muscular response to <target> tetanic </target> stimulation of the ulnar nerve or when sch 120 mg be exceed .",
+        "D013390\tChemical\tSch\tthe infusion be discontinue either when there be no muscular response to tetanic stimulation of the ulnar nerve or when <target> sch </target> 120 mg be exceed .",
+        "D005207\tDisease\tFasciculations\t<target> fasciculation </target> in six area of the body be score from 0 to 3 and summate as a total fasciculation score .",
+        "D005207\tDisease\tfasciculation\tfasciculation in six area of the body be score from 0 to 3 and summate as a total <target> fasciculation </target> score .",
+        "D005207\tDisease\tfasciculation\tthe time to first <target> fasciculation </target> , twitch suppression and tetanus suppression be inversely related to the infusion rate .",
+        "D013746\tDisease\ttwitch\tthe time to first fasciculation , <target> twitch </target> suppression and tetanus suppression be inversely related to the infusion rate .",
+        "D013746\tDisease\ttetanus\tthe time to first fasciculation , twitch suppression and <target> tetanus </target> suppression be inversely related to the infusion rate .",
+        "D005207\tDisease\tFasciculations\t<target> fasciculation </target> in the six area and the total fasciculation score be relate directly to the rate of infusion .",
+        "D005207\tDisease\tfasciculation\tfasciculation in the six area and the total <target> fasciculation </target> score be relate directly to the rate of infusion .",
+        "D005207\tDisease\tfasciculation\ttotal <target> fasciculation </target> score in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion group be not significantly different ."
+    ]
+}

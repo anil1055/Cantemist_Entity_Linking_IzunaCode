@@ -1,0 +1,139 @@
+{
+    "title": "Bilateral optic neuropathy due to combined ethambutol and isoniazid treatment.",
+    "abst": "The case of a 40-year-old patient who underwent an unsuccessful cadaver kidney transplantation and was treated with ethambutol and isoniazid is reported. A bilateral retrobulbar neuropathy with an unusual central bitemporal hemianopic scotoma was found. Ethambutol was stopped and only small improvement of the visual acuity followed. Isoniazid was discontinued later, followed by a dramatic improvement in the visual acuity. The hazards of optic nerve toxicity due to ethambutol are known. We emphasize the potential danger in the use of ethambutol and isoniazid.",
+    "title_plus_abst": "Bilateral optic neuropathy due to combined ethambutol and isoniazid treatment. The case of a 40-year-old patient who underwent an unsuccessful cadaver kidney transplantation and was treated with ethambutol and isoniazid is reported. A bilateral retrobulbar neuropathy with an unusual central bitemporal hemianopic scotoma was found. Ethambutol was stopped and only small improvement of the visual acuity followed. Isoniazid was discontinued later, followed by a dramatic improvement in the visual acuity. The hazards of optic nerve toxicity due to ethambutol are known. We emphasize the potential danger in the use of ethambutol and isoniazid.",
+    "pubmed_id": "384871",
+    "entities": [
+        [
+            0,
+            26,
+            "Bilateral optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            43,
+            53,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            58,
+            67,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            195,
+            205,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            210,
+            219,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            235,
+            267,
+            "bilateral retrobulbar neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            314,
+            321,
+            "scotoma",
+            "Disease",
+            "D012607"
+        ],
+        [
+            333,
+            343,
+            "Ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            414,
+            423,
+            "Isoniazid",
+            "Chemical",
+            "D007538"
+        ],
+        [
+            532,
+            540,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            548,
+            558,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            618,
+            628,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            633,
+            642,
+            "isoniazid",
+            "Chemical",
+            "D007538"
+        ]
+    ],
+    "split_sentence": [
+        "Bilateral optic neuropathy due to combined ethambutol and isoniazid treatment.",
+        "The case of a 40-year-old patient who underwent an unsuccessful cadaver kidney transplantation and was treated with ethambutol and isoniazid is reported.",
+        "A bilateral retrobulbar neuropathy with an unusual central bitemporal hemianopic scotoma was found.",
+        "Ethambutol was stopped and only small improvement of the visual acuity followed.",
+        "Isoniazid was discontinued later, followed by a dramatic improvement in the visual acuity.",
+        "The hazards of optic nerve toxicity due to ethambutol are known.",
+        "We emphasize the potential danger in the use of ethambutol and isoniazid."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009901\tDisease\tBilateral optic neuropathy\t<target> Bilateral optic neuropathy </target> due to combined ethambutol and isoniazid treatment .",
+        "D004977\tChemical\tethambutol\tBilateral optic neuropathy due to combined <target> ethambutol </target> and isoniazid treatment .",
+        "D007538\tChemical\tisoniazid\tBilateral optic neuropathy due to combined ethambutol and <target> isoniazid </target> treatment .",
+        "D004977\tChemical\tethambutol\tThe case of a 40-year-old patient who underwent an unsuccessful cadaver kidney transplantation and was treated with <target> ethambutol </target> and isoniazid is reported .",
+        "D007538\tChemical\tisoniazid\tThe case of a 40-year-old patient who underwent an unsuccessful cadaver kidney transplantation and was treated with ethambutol and <target> isoniazid </target> is reported .",
+        "D009901\tDisease\tbilateral retrobulbar neuropathy\tA <target> bilateral retrobulbar neuropathy </target> with an unusual central bitemporal hemianopic scotoma was found .",
+        "D012607\tDisease\tscotoma\tA bilateral retrobulbar neuropathy with an unusual central bitemporal hemianopic <target> scotoma </target> was found .",
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> was stopped and only small improvement of the visual acuity followed .",
+        "D007538\tChemical\tIsoniazid\t<target> Isoniazid </target> was discontinued later , followed by a dramatic improvement in the visual acuity .",
+        "D064420\tDisease\ttoxicity\tThe hazards of optic nerve <target> toxicity </target> due to ethambutol are known .",
+        "D004977\tChemical\tethambutol\tThe hazards of optic nerve toxicity due to <target> ethambutol </target> are known .",
+        "D004977\tChemical\tethambutol\tWe emphasize the potential danger in the use of <target> ethambutol </target> and isoniazid .",
+        "D007538\tChemical\tisoniazid\tWe emphasize the potential danger in the use of ethambutol and <target> isoniazid </target> ."
+    ],
+    "lines_lemma": [
+        "D009901\tDisease\tBilateral optic neuropathy\t<target> Bilateral optic neuropathy </target> due to combined ethambutol and isoniazid treatment .",
+        "D004977\tChemical\tethambutol\tbilateral optic neuropathy due to combined <target> ethambutol </target> and isoniazid treatment .",
+        "D007538\tChemical\tisoniazid\tbilateral optic neuropathy due to combined ethambutol and <target> isoniazid </target> treatment .",
+        "D004977\tChemical\tethambutol\tthe case of a 40-year-old patient who undergo an unsuccessful cadaver kidney transplantation and be treat with <target> ethambutol </target> and isoniazid be report .",
+        "D007538\tChemical\tisoniazid\tthe case of a 40-year-old patient who undergo an unsuccessful cadaver kidney transplantation and be treat with ethambutol and <target> isoniazid </target> be report .",
+        "D009901\tDisease\tbilateral retrobulbar neuropathy\ta <target> bilateral retrobulbar neuropathy </target> with an unusual central bitemporal hemianopic scotoma be find .",
+        "D012607\tDisease\tscotoma\ta bilateral retrobulbar neuropathy with an unusual central bitemporal hemianopic <target> scotoma </target> be find .",
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> be stop and only small improvement of the visual acuity follow .",
+        "D007538\tChemical\tIsoniazid\t<target> Isoniazid </target> be discontinue later , follow by a dramatic improvement in the visual acuity .",
+        "D064420\tDisease\ttoxicity\tthe hazard of optic nerve <target> toxicity </target> due to ethambutol be know .",
+        "D004977\tChemical\tethambutol\tthe hazard of optic nerve toxicity due to <target> ethambutol </target> be know .",
+        "D004977\tChemical\tethambutol\twe emphasize the potential danger in the use of <target> ethambutol </target> and isoniazid .",
+        "D007538\tChemical\tisoniazid\twe emphasize the potential danger in the use of ethambutol and <target> isoniazid </target> ."
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "title": "Encephalopathy during amitriptyline therapy: are neuroleptic malignant syndrome and serotonin syndrome spectrum disorders?",
+    "abst": "This report describes a case of encephalopathy developed in the course of amitriptyline therapy, during a remission of unipolar depression. This patient could have been diagnosed as having either neuroleptic malignant syndrome (NMS) or serotonin syndrome (SS). The major determinant of the symptoms may have been dopamine/serotonin imbalance in the central nervous system. The NMS-like encephalopathy that develops in association with the use of antidepressants indicates that NMS and SS are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects.",
+    "title_plus_abst": "Encephalopathy during amitriptyline therapy: are neuroleptic malignant syndrome and serotonin syndrome spectrum disorders? This report describes a case of encephalopathy developed in the course of amitriptyline therapy, during a remission of unipolar depression. This patient could have been diagnosed as having either neuroleptic malignant syndrome (NMS) or serotonin syndrome (SS). The major determinant of the symptoms may have been dopamine/serotonin imbalance in the central nervous system. The NMS-like encephalopathy that develops in association with the use of antidepressants indicates that NMS and SS are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects.",
+    "pubmed_id": "8748050",
+    "entities": [
+        [
+            0,
+            14,
+            "Encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            22,
+            35,
+            "amitriptyline",
+            "Chemical",
+            "D000639"
+        ],
+        [
+            49,
+            79,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            84,
+            102,
+            "serotonin syndrome",
+            "Disease",
+            "D020230"
+        ],
+        [
+            155,
+            169,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            197,
+            210,
+            "amitriptyline",
+            "Chemical",
+            "D000639"
+        ],
+        [
+            242,
+            261,
+            "unipolar depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            319,
+            349,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            351,
+            354,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            359,
+            377,
+            "serotonin syndrome",
+            "Disease",
+            "D020230"
+        ],
+        [
+            379,
+            381,
+            "SS",
+            "Disease",
+            "D020230"
+        ],
+        [
+            436,
+            444,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            445,
+            454,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            500,
+            503,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            509,
+            523,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            600,
+            603,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            608,
+            610,
+            "SS",
+            "Disease",
+            "D020230"
+        ]
+    ],
+    "split_sentence": [
+        "Encephalopathy during amitriptyline therapy: are neuroleptic malignant syndrome and serotonin syndrome spectrum disorders?",
+        "This report describes a case of encephalopathy developed in the course of amitriptyline therapy, during a remission of unipolar depression.",
+        "This patient could have been diagnosed as having either neuroleptic malignant syndrome (NMS) or serotonin syndrome (SS).",
+        "The major determinant of the symptoms may have been dopamine/serotonin imbalance in the central nervous system.",
+        "The NMS-like encephalopathy that develops in association with the use of antidepressants indicates that NMS and SS are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001927\tDisease\tEncephalopathy\t<target> Encephalopathy </target> during amitriptyline therapy : are neuroleptic malignant syndrome and serotonin syndrome spectrum disorders ?",
+        "D000639\tChemical\tamitriptyline\tEncephalopathy during <target> amitriptyline </target> therapy : are neuroleptic malignant syndrome and serotonin syndrome spectrum disorders ?",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tEncephalopathy during amitriptyline therapy : are <target> neuroleptic malignant syndrome </target> and serotonin syndrome spectrum disorders ?",
+        "D020230\tDisease\tserotonin syndrome\tEncephalopathy during amitriptyline therapy : are neuroleptic malignant syndrome and <target> serotonin syndrome </target> spectrum disorders ?",
+        "D001927\tDisease\tencephalopathy\tThis report describes a case of <target> encephalopathy </target> developed in the course of amitriptyline therapy , during a remission of unipolar depression .",
+        "D000639\tChemical\tamitriptyline\tThis report describes a case of encephalopathy developed in the course of <target> amitriptyline </target> therapy , during a remission of unipolar depression .",
+        "D003866\tDisease\tunipolar depression\tThis report describes a case of encephalopathy developed in the course of amitriptyline therapy , during a remission of <target> unipolar depression </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tThis patient could have been diagnosed as having either <target> neuroleptic malignant syndrome </target> ( NMS ) or serotonin syndrome ( SS ) .",
+        "D009459\tDisease\tNMS\tThis patient could have been diagnosed as having either neuroleptic malignant syndrome ( <target> NMS </target> ) or serotonin syndrome ( SS ) .",
+        "D020230\tDisease\tserotonin syndrome\tThis patient could have been diagnosed as having either neuroleptic malignant syndrome ( NMS ) or <target> serotonin syndrome </target> ( SS ) .",
+        "D020230\tDisease\tSS\tThis patient could have been diagnosed as having either neuroleptic malignant syndrome ( NMS ) or serotonin syndrome ( <target> SS </target> ) .",
+        "D004298\tChemical\tdopamine\tThe major determinant of the symptoms may have been <target> dopamine </target> /serotonin imbalance in the central nervous system .",
+        "D012701\tChemical\tserotonin\tThe major determinant of the symptoms may have been dopamine/ <target> serotonin </target> imbalance in the central nervous system .",
+        "D009459\tDisease\tNMS\tThe <target> NMS </target> -like encephalopathy that develops in association with the use of antidepressants indicates that NMS and SS are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects .",
+        "D001927\tDisease\tencephalopathy\tThe NMS-like <target> encephalopathy </target> that develops in association with the use of antidepressants indicates that NMS and SS are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects .",
+        "D009459\tDisease\tNMS\tThe NMS-like encephalopathy that develops in association with the use of antidepressants indicates that <target> NMS </target> and SS are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects .",
+        "D020230\tDisease\tSS\tThe NMS-like encephalopathy that develops in association with the use of antidepressants indicates that NMS and <target> SS </target> are spectrum disorders induced by drugs with both antidopaminergic and serotonergic effects ."
+    ],
+    "lines_lemma": [
+        "D001927\tDisease\tEncephalopathy\t<target> Encephalopathy </target> during amitriptyline therapy : be neuroleptic malignant syndrome and serotonin syndrome spectrum disorder ?",
+        "D000639\tChemical\tamitriptyline\tEncephalopathy during <target> amitriptyline </target> therapy : be neuroleptic malignant syndrome and serotonin syndrome spectrum disorder ?",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tEncephalopathy during amitriptyline therapy : be <target> neuroleptic malignant syndrome </target> and serotonin syndrome spectrum disorder ?",
+        "D020230\tDisease\tserotonin syndrome\tEncephalopathy during amitriptyline therapy : be neuroleptic malignant syndrome and <target> serotonin syndrome </target> spectrum disorder ?",
+        "D001927\tDisease\tencephalopathy\tthis report describe a case of <target> encephalopathy </target> develop in the course of amitriptyline therapy , during a remission of unipolar depression .",
+        "D000639\tChemical\tamitriptyline\tthis report describe a case of encephalopathy develop in the course of <target> amitriptyline </target> therapy , during a remission of unipolar depression .",
+        "D003866\tDisease\tunipolar depression\tthis report describe a case of encephalopathy develop in the course of amitriptyline therapy , during a remission of <target> unipolar depression </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tthis patient could have be diagnose as have either <target> neuroleptic malignant syndrome </target> ( nms ) or serotonin syndrome ( ss ) .",
+        "D009459\tDisease\tNMS\tthis patient could have be diagnose as have either neuroleptic malignant syndrome ( <target> nms </target> ) or serotonin syndrome ( ss ) .",
+        "D020230\tDisease\tserotonin syndrome\tthis patient could have be diagnose as have either neuroleptic malignant syndrome ( nms ) or <target> serotonin syndrome </target> ( ss ) .",
+        "D020230\tDisease\tSS\tthis patient could have be diagnose as have either neuroleptic malignant syndrome ( nms ) or serotonin syndrome ( <target> ss </target> ) .",
+        "D004298\tChemical\tdopamine\tthe major determinant of the symptom may have be <target> dopamine </target> /serotonin imbalance in the central nervous system .",
+        "D012701\tChemical\tserotonin\tthe major determinant of the symptom may have be dopamine/ <target> serotonin </target> imbalance in the central nervous system .",
+        "D009459\tDisease\tNMS\tthe <target> nms </target> -like encephalopathy that develop in association with the use of antidepressant indicate that nms and ss be spectrum disorder induce by drug with both antidopaminergic and serotonergic effect .",
+        "D001927\tDisease\tencephalopathy\tthe nms-like <target> encephalopathy </target> that develop in association with the use of antidepressant indicate that nms and ss be spectrum disorder induce by drug with both antidopaminergic and serotonergic effect .",
+        "D009459\tDisease\tNMS\tthe nms-like encephalopathy that develop in association with the use of antidepressant indicate that <target> nms </target> and ss be spectrum disorder induce by drug with both antidopaminergic and serotonergic effect .",
+        "D020230\tDisease\tSS\tthe nms-like encephalopathy that develop in association with the use of antidepressant indicate that nms and <target> ss </target> be spectrum disorder induce by drug with both antidopaminergic and serotonergic effect ."
+    ]
+}

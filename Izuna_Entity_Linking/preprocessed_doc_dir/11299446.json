@@ -1,0 +1,63 @@
+{
+    "title": "Worsening of Parkinsonism after the use of veralipride for treatment of menopause: case report.",
+    "abst": "We describe a female patient with stable Parkinson's disease who has shown a marked worsening of her motor functions following therapy of menopause related symptoms with veralipride, as well as the improvement of her symptoms back to baseline after discontinuation of the drug. We emphasize the anti-dopaminergic effect of veralipride.",
+    "title_plus_abst": "Worsening of Parkinsonism after the use of veralipride for treatment of menopause: case report. We describe a female patient with stable Parkinson's disease who has shown a marked worsening of her motor functions following therapy of menopause related symptoms with veralipride, as well as the improvement of her symptoms back to baseline after discontinuation of the drug. We emphasize the anti-dopaminergic effect of veralipride.",
+    "pubmed_id": "11299446",
+    "entities": [
+        [
+            13,
+            25,
+            "Parkinsonism",
+            "Disease",
+            "D010302"
+        ],
+        [
+            43,
+            54,
+            "veralipride",
+            "Chemical",
+            "C027429"
+        ],
+        [
+            137,
+            156,
+            "Parkinson's disease",
+            "Disease",
+            "D010302"
+        ],
+        [
+            266,
+            277,
+            "veralipride",
+            "Chemical",
+            "C027429"
+        ],
+        [
+            419,
+            430,
+            "veralipride",
+            "Chemical",
+            "C027429"
+        ]
+    ],
+    "split_sentence": [
+        "Worsening of Parkinsonism after the use of veralipride for treatment of menopause: case report.",
+        "We describe a female patient with stable Parkinson's disease who has shown a marked worsening of her motor functions following therapy of menopause related symptoms with veralipride, as well as the improvement of her symptoms back to baseline after discontinuation of the drug.",
+        "We emphasize the anti-dopaminergic effect of veralipride."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010302\tDisease\tParkinsonism\tWorsening of <target> Parkinsonism </target> after the use of veralipride for treatment of menopause : case report .",
+        "C027429\tChemical\tveralipride\tWorsening of Parkinsonism after the use of <target> veralipride </target> for treatment of menopause : case report .",
+        "D010302\tDisease\tParkinson's disease\tWe describe a female patient with stable <target> Parkinson 's disease </target> who has shown a marked worsening of her motor functions following therapy of menopause related symptoms with veralipride , as well as the improvement of her symptoms back to baseline after discontinuation of the drug .",
+        "C027429\tChemical\tveralipride\tWe describe a female patient with stable Parkinson 's disease who has shown a marked worsening of her motor functions following therapy of menopause related symptoms with <target> veralipride </target> , as well as the improvement of her symptoms back to baseline after discontinuation of the drug .",
+        "C027429\tChemical\tveralipride\tWe emphasize the anti-dopaminergic effect of <target> veralipride </target> ."
+    ],
+    "lines_lemma": [
+        "D010302\tDisease\tParkinsonism\tworsen of <target> Parkinsonism </target> after the use of veralipride for treatment of menopause : case report .",
+        "C027429\tChemical\tveralipride\tworsening of Parkinsonism after the use of <target> veralipride </target> for treatment of menopause : case report .",
+        "D010302\tDisease\tParkinson's disease\twe describe a female patient with stable <target> Parkinson 's disease </target> who have show a marked worsening of her motor function follow therapy of menopause related symptom with veralipride , as well as the improvement of her symptom back to baseline after discontinuation of the drug .",
+        "C027429\tChemical\tveralipride\twe describe a female patient with stable Parkinson 's disease who have show a marked worsening of her motor function follow therapy of menopause related symptom with <target> veralipride </target> , as well as the improvement of her symptom back to baseline after discontinuation of the drug .",
+        "C027429\tChemical\tveralipride\twe emphasize the anti-dopaminergic effect of <target> veralipride </target> ."
+    ]
+}

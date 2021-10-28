@@ -1,0 +1,127 @@
+{
+    "entities": [
+        [
+            132,
+            138,
+            "cáncer",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2338,
+            2360,
+            "enfermedad a distancia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2036,
+            2051,
+            "lesión parietal",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2523,
+            2538,
+            "lesión parietal",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2215,
+            2225,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2585,
+            2625,
+            "metástasis de carcinoma mal diferenciado",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/63"
+        ],
+        [
+            497,
+            554,
+            "carcinoma ductal infiltrante mal diferenciado, multifocal",
+            "MORFOLOGIA_NEOPLASIA",
+            "8500/33/H"
+        ],
+        [
+            2375,
+            2407,
+            "Recaída cerebral única de cáncer",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            3512,
+            3528,
+            "recaída cerebral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Se trata de una mujer nacida en el año 1961, sin alergias ni hábitos tóxicos, ni antecedentes médicos de interés salvo un  <objetivo> cáncer </objetivo> de mama en 2005.",
+        "Recaída cerebral única de  <objetivo> cáncer </objetivo> de mama.",
+        "Se completa estudio con resonancia encefálica que confirma dicha lesión única sugerente de metástasis como primera opción, se realiza también TC toracoabdominopélvica y gammagrafía ósea, en las que no se visualiza  <objetivo> enfermedad a distancia </objetivo> ",
+        "Se realiza TC craneal donde se objetiva  <objetivo> lesión parietal </objetivo> corticosubcortical izquierda de 25 x 25 x 13 mm con edema perilesional.",
+        "Con estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de  <objetivo> lesión parietal </objetivo> izquierda, con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptores hormonales negativos y HER-2 positivo.",
+        "Se realiza TC craneal donde se objetiva  <objetivo> lesión parietal </objetivo> corticosubcortical izquierda de 25 x 25 x 13 mm con edema perilesional.",
+        "Con estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de  <objetivo> lesión parietal </objetivo> izquierda, con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptores hormonales negativos y HER-2 positivo.",
+        "Se completa estudio con resonancia encefálica que confirma dicha lesión única sugerente de  <objetivo> metástasis </objetivo> como primera opción, se realiza también TC toracoabdominopélvica y gammagrafía ósea, en las que no se visualiza enfermedad a distancia.",
+        "Con estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierda, con resultado anatomopatológico de  <objetivo> metástasis </objetivo> de carcinoma mal diferenciado de probable origen mamario con receptores hormonales negativos y HER-2 positivo.",
+        "Con estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierda, con resultado anatomopatológico de  <objetivo> metástasis de carcinoma mal diferenciado </objetivo> de probable origen mamario con receptores hormonales negativos y HER-2 positivo.",
+        "Su historia oncológica empieza en abril de 2005, cuando es intervenida mediante tumorectomía y linfadenectomía de mama izquierda con resultado de  <objetivo> carcinoma ductal infiltrante mal diferenciado, multifocal </objetivo> con receptores de estrógenos y progesterona positivos, HER-2 negativo y Ki67 del 40-%, márgenes quirúrgicos positivos y afectación de 9 de los 21 ganglios linfáticos aislados.",
+        "<objetivo> Recaída cerebral única de cáncer </objetivo> de mama.",
+        "Actualmente la paciente, 11 años después de la  <objetivo> recaída cerebral </objetivo> única, sigue controles anuales sin evidencia de reaparición de la enfermedad."
+    ],
+    "lines_lemma": [
+        "él tratar de uno mujer nacido en el año 1961 , sin alergia ni hábito tóxico , ni antecedente médico de interés salvo uno   <objetivo> cáncer </objetivo> de mama en 2005 .",
+        "recaído cerebral único de   <objetivo> cáncer </objetivo> de mama .",
+        "él completar estudio con resonancia encefálico que confirmar dicho lesión único sugerente de metástasis como primero opción , él realizar también TC toracoabdominopélvico y gammagrafía óseo , en el que no él visualizar   <objetivo> enfermedad a distancia </objetivo>",
+        "él realizar TC craneal donde él objetiir   <objetivo> lesión parietal </objetivo> corticosubcortical izquierdo de 25 x 25 x 13 mm con edema perilesional .",
+        "con este dato ser intervenir el 8 de mayo de 2008 mediante craneotomía y exéresis total de   <objetivo> lesión parietal </objetivo> izquierdo , con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptor hormonal negativo y her-2 positivo .",
+        "él realizar TC craneal donde él objetiir   <objetivo> lesión parietal </objetivo> corticosubcortical izquierdo de 25 x 25 x 13 mm con edema perilesional .",
+        "con este dato ser intervenir el 8 de mayo de 2008 mediante craneotomía y exéresis total de   <objetivo> lesión parietal </objetivo> izquierdo , con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptor hormonal negativo y her-2 positivo .",
+        "él completar estudio con resonancia encefálico que confirmar dicho lesión único sugerente de   <objetivo> metástasi </objetivo> como primero opción , él realizar también TC toracoabdominopélvico y gammagrafía óseo , en el que no él visualizar enfermedad a distancia .",
+        "con este dato ser intervenir el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierdo , con resultado anatomopatológico de   <objetivo> metástasi </objetivo> de carcinoma mal diferenciado de probable origen mamario con receptor hormonal negativo y her-2 positivo .",
+        "con este dato ser intervenir el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierdo , con resultado anatomopatológico de   <objetivo> metástasis de carcinoma mal diferenciado </objetivo> de probable origen mamario con receptor hormonal negativo y her-2 positivo .",
+        "su historia oncológico empezar en abril de 2005 , cuando ser intervenir mediante tumorectomía y linfadenectomía de mama izquierdo con resultado de   <objetivo> carcinomar ductal infiltrante mal diferenciado , multifocal </objetivo> con receptor de estrógeno y progesteronar positivo , her-2 negativo y Ki67 del 40-% , margen quirúrgico positivo y afectación de 9 de el 21 ganglio linfático aislado .",
+        "<objetivo> Recaída cerebral único de cáncer </objetivo> de mama .",
+        "actualmente el paciente , 11 año después de el   <objetivo> recaído cerebral </objetivo> único , seguir control anual sin evidencia de reaparición de el enfermedad ."
+    ],
+    "pubmed_id": "onco565",
+    "split_sentence": [
+        "Anamnesis",
+        "Se trata de una mujer nacida en el año 1961, sin alergias ni hábitos tóxicos, ni antecedentes médicos de interés salvo un cáncer de mama en 2005.",
+        "Había tenido su primera menstruación a los 11 años, es madre de 1 hijo al cual dio lactancia durante 6 meses y no ha tomado anticonceptivos.",
+        "Vive con su marido e hijo, y su profesión es abogada.",
+        "Su historia oncológica empieza en abril de 2005, cuando es intervenida mediante tumorectomía y linfadenectomía de mama izquierda con resultado de carcinoma ductal infiltrante mal diferenciado, multifocal con receptores de estrógenos y progesterona positivos, HER-2 negativo y Ki67 del 40-%, márgenes quirúrgicos positivos y afectación de 9 de los 21 ganglios linfáticos aislados.",
+        "Posteriormente es intervenida mediante mastectomía obteniéndose márgenes negativos.",
+        "Por tanto, ante un estadio pTxN2a, luminal B se completa estudio de extensión con TC toracoabdominopélvica que es negativa y se inicia tratamiento adyuvante con quimioterapia, según esquema FAC x 6 (fluorouracilo 500 mg/m2 D1, adriamicina 50 mg/m2 D1 y ciclofosfamida 500 mg/m2, D1 intravenosos cada 21 días) entre mayo y septiembre de 2005, radioterapia externa adyuvante 45Gy sobre pared torácica-supraclavicular-axilar y hormonoterapia con tamoxifeno 20 mg diario y goserelina trimestral desde octubre de 2005.",
+        "La tolerancia al tratamiento con quimioterapia fue buena, salvo por diarrea grado 1, alopecia g2 y astenia grado 1; en cuanto a la radioterapia, le ocasionó radiodermitis grado 1 y la hormonoterapia sofocos grado 1.",
+        "En abril de 2008, es llevada a Urgencias por cuadro de disartria y desorientación de 30 minutos de duración.",
+        "Mientras está siendo atendida, presenta convulsión tónico-clónica por lo que precisa ingreso en UCI.",
+        "Exploración física",
+        "A la exploración física no destaca nada salvo la disartria y desorientación que mejoran tras la instauración de tratamiento corticoide.",
+        "Pruebas complementarias",
+        "En cuanto a la analítica de sangre su resultado es anodino.",
+        "Se realiza TC craneal donde se objetiva lesión parietal corticosubcortical izquierda de 25 x 25 x 13 mm con edema perilesional.",
+        "Se completa estudio con resonancia encefálica que confirma dicha lesión única sugerente de metástasis como primera opción, se realiza también TC toracoabdominopélvica y gammagrafía ósea, en las que no se visualiza enfermedad a distancia.",
+        "Diagnóstico",
+        "Recaída cerebral única de cáncer de mama.",
+        "Tratamiento",
+        "Con estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierda, con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptores hormonales negativos y HER-2 positivo.",
+        "Evolución",
+        "Tras el tratamiento inicial con corticoterapia y la intervención, la paciente se recupera completamente de la afectación neurológica.",
+        "Se completa tratamiento con radioterapia holocraneal 40Gy en junio 2008, y se inicia quimioterapia con vinorelbina 25 mg/m2 semanales y trastuzumab 6 mg/m2 trisemanales intravenosos que lleva desde julio 2008 hasta enero de 2009, con buena tolerancia salvo por estreñimiento, momento en el que se decide continuar con anastrozol 1 mg/m2, goserelina trimestral y trastuzumab trisemanal.",
+        "Continuó tratamiento con trastuzumab hasta enero de 2010, completando 18 meses y el anastrozol-goserelina hasta enero de 2014, completando 5 años (más los 2 años y medio que había llevado previamente de tamoxifeno-goserelina).",
+        "Actualmente la paciente, 11 años después de la recaída cerebral única, sigue controles anuales sin evidencia de reaparición de la enfermedad."
+    ],
+    "text": "Anamnesis\nSe trata de una mujer nacida en el año 1961, sin alergias ni hábitos tóxicos, ni antecedentes médicos de interés salvo un cáncer de mama en 2005.\nHabía tenido su primera menstruación a los 11 años, es madre de 1 hijo al cual dio lactancia durante 6 meses y no ha tomado anticonceptivos.\nVive con su marido e hijo, y su profesión es abogada.\nSu historia oncológica empieza en abril de 2005, cuando es intervenida mediante tumorectomía y linfadenectomía de mama izquierda con resultado de carcinoma ductal infiltrante mal diferenciado, multifocal con receptores de estrógenos y progesterona positivos, HER-2 negativo y Ki67 del 40-%, márgenes quirúrgicos positivos y afectación de 9 de los 21 ganglios linfáticos aislados.\nPosteriormente es intervenida mediante mastectomía obteniéndose márgenes negativos. Por tanto, ante un estadio pTxN2a, luminal B se completa estudio de extensión con TC toracoabdominopélvica que es negativa y se inicia tratamiento adyuvante con quimioterapia, según esquema FAC x 6 (fluorouracilo 500 mg/m2 D1, adriamicina 50 mg/m2 D1 y ciclofosfamida 500 mg/m2, D1 intravenosos cada 21 días) entre mayo y septiembre de 2005, radioterapia externa adyuvante 45Gy sobre pared torácica-supraclavicular-axilar y hormonoterapia con tamoxifeno 20 mg diario y goserelina trimestral desde octubre de 2005.\nLa tolerancia al tratamiento con quimioterapia fue buena, salvo por diarrea grado 1, alopecia g2 y astenia grado 1; en cuanto a la radioterapia, le ocasionó radiodermitis grado 1 y la hormonoterapia sofocos grado 1.\nEn abril de 2008, es llevada a Urgencias por cuadro de disartria y desorientación de 30 minutos de duración. Mientras está siendo atendida, presenta convulsión tónico-clónica por lo que precisa ingreso en UCI.\n\nExploración física\nA la exploración física no destaca nada salvo la disartria y desorientación que mejoran tras la instauración de tratamiento corticoide.\n\nPruebas complementarias\nEn cuanto a la analítica de sangre su resultado es anodino.\nSe realiza TC craneal donde se objetiva lesión parietal corticosubcortical izquierda de 25 x 25 x 13 mm con edema perilesional. Se completa estudio con resonancia encefálica que confirma dicha lesión única sugerente de metástasis como primera opción, se realiza también TC toracoabdominopélvica y gammagrafía ósea, en las que no se visualiza enfermedad a distancia.\n\nDiagnóstico\nRecaída cerebral única de cáncer de mama.\n\nTratamiento\nCon estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierda, con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptores hormonales negativos y HER-2 positivo.\n\nEvolución\nTras el tratamiento inicial con corticoterapia y la intervención, la paciente se recupera completamente de la afectación neurológica. Se completa tratamiento con radioterapia holocraneal 40Gy en junio 2008, y se inicia quimioterapia con vinorelbina 25 mg/m2 semanales y trastuzumab 6 mg/m2 trisemanales intravenosos que lleva desde julio 2008 hasta enero de 2009, con buena tolerancia salvo por estreñimiento, momento en el que se decide continuar con anastrozol 1 mg/m2, goserelina trimestral y trastuzumab trisemanal.\nContinuó tratamiento con trastuzumab hasta enero de 2010, completando 18 meses y el anastrozol-goserelina hasta enero de 2014, completando 5 años (más los 2 años y medio que había llevado previamente de tamoxifeno-goserelina).\nActualmente la paciente, 11 años después de la recaída cerebral única, sigue controles anuales sin evidencia de reaparición de la enfermedad."
+}

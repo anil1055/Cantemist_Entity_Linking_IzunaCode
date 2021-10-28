@@ -1,0 +1,119 @@
+{
+    "title": "Interaction of cyclosporin A with antineoplastic agents.",
+    "abst": "A synergistic effect of etoposide and cyclosporin A was observed in a patient with acute T-lymphocytic leukemia in relapse. The concomitant administration of etoposide and cyclosporin A resulted in eradication of hitherto refractory leukemic infiltration of bone marrow. Severe side effects in terms of mental confusion and progressive hyperbilirubinemia, however, point to an enhancement not only of antineoplastic effects but also of toxicity in normal tissues. This report demonstrates for the first time that the pharmacodynamic properties of cyclosporin A may not be confined strictly to suppression of normal T-cell functions.",
+    "title_plus_abst": "Interaction of cyclosporin A with antineoplastic agents. A synergistic effect of etoposide and cyclosporin A was observed in a patient with acute T-lymphocytic leukemia in relapse. The concomitant administration of etoposide and cyclosporin A resulted in eradication of hitherto refractory leukemic infiltration of bone marrow. Severe side effects in terms of mental confusion and progressive hyperbilirubinemia, however, point to an enhancement not only of antineoplastic effects but also of toxicity in normal tissues. This report demonstrates for the first time that the pharmacodynamic properties of cyclosporin A may not be confined strictly to suppression of normal T-cell functions.",
+    "pubmed_id": "3865016",
+    "entities": [
+        [
+            15,
+            28,
+            "cyclosporin A",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            81,
+            90,
+            "etoposide",
+            "Chemical",
+            "D005047"
+        ],
+        [
+            95,
+            108,
+            "cyclosporin A",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            140,
+            168,
+            "acute T-lymphocytic leukemia",
+            "Disease",
+            "D054218"
+        ],
+        [
+            215,
+            224,
+            "etoposide",
+            "Chemical",
+            "D005047"
+        ],
+        [
+            229,
+            242,
+            "cyclosporin A",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            290,
+            311,
+            "leukemic infiltration",
+            "Disease",
+            "D017254"
+        ],
+        [
+            367,
+            376,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            393,
+            411,
+            "hyperbilirubinemia",
+            "Disease",
+            "D006932"
+        ],
+        [
+            493,
+            501,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            604,
+            617,
+            "cyclosporin A",
+            "Chemical",
+            "D016572"
+        ]
+    ],
+    "split_sentence": [
+        "Interaction of cyclosporin A with antineoplastic agents.",
+        "A synergistic effect of etoposide and cyclosporin A was observed in a patient with acute T-lymphocytic leukemia in relapse.",
+        "The concomitant administration of etoposide and cyclosporin A resulted in eradication of hitherto refractory leukemic infiltration of bone marrow.",
+        "Severe side effects in terms of mental confusion and progressive hyperbilirubinemia, however, point to an enhancement not only of antineoplastic effects but also of toxicity in normal tissues.",
+        "This report demonstrates for the first time that the pharmacodynamic properties of cyclosporin A may not be confined strictly to suppression of normal T-cell functions."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016572\tChemical\tcyclosporin A\tInteraction of <target> cyclosporin A </target> with antineoplastic agents .",
+        "D005047\tChemical\tetoposide\tA synergistic effect of <target> etoposide </target> and cyclosporin A was observed in a patient with acute T-lymphocytic leukemia in relapse .",
+        "D016572\tChemical\tcyclosporin A\tA synergistic effect of etoposide and <target> cyclosporin A </target> was observed in a patient with acute T-lymphocytic leukemia in relapse .",
+        "D054218\tDisease\tacute T-lymphocytic leukemia\tA synergistic effect of etoposide and cyclosporin A was observed in a patient with <target> acute T-lymphocytic leukemia </target> in relapse .",
+        "D005047\tChemical\tetoposide\tThe concomitant administration of <target> etoposide </target> and cyclosporin A resulted in eradication of hitherto refractory leukemic infiltration of bone marrow .",
+        "D016572\tChemical\tcyclosporin A\tThe concomitant administration of etoposide and <target> cyclosporin A </target> resulted in eradication of hitherto refractory leukemic infiltration of bone marrow .",
+        "D017254\tDisease\tleukemic infiltration\tThe concomitant administration of etoposide and cyclosporin A resulted in eradication of hitherto refractory <target> leukemic infiltration </target> of bone marrow .",
+        "D003221\tDisease\tconfusion\tSevere side effects in terms of mental <target> confusion </target> and progressive hyperbilirubinemia , however , point to an enhancement not only of antineoplastic effects but also of toxicity in normal tissues .",
+        "D006932\tDisease\thyperbilirubinemia\tSevere side effects in terms of mental confusion and progressive <target> hyperbilirubinemia </target> , however , point to an enhancement not only of antineoplastic effects but also of toxicity in normal tissues .",
+        "D064420\tDisease\ttoxicity\tSevere side effects in terms of mental confusion and progressive hyperbilirubinemia , however , point to an enhancement not only of antineoplastic effects but also of <target> toxicity </target> in normal tissues .",
+        "D016572\tChemical\tcyclosporin A\tThis report demonstrates for the first time that the pharmacodynamic properties of <target> cyclosporin A </target> may not be confined strictly to suppression of normal T-cell functions ."
+    ],
+    "lines_lemma": [
+        "D016572\tChemical\tcyclosporin A\tinteraction of <target> cyclosporin a </target> with antineoplastic agent .",
+        "D005047\tChemical\tetoposide\ta synergistic effect of <target> etoposide </target> and cyclosporin a be observe in a patient with acute t-lymphocytic leukemia in relapse .",
+        "D016572\tChemical\tcyclosporin A\ta synergistic effect of etoposide and <target> cyclosporin a </target> be observe in a patient with acute t-lymphocytic leukemia in relapse .",
+        "D054218\tDisease\tacute T-lymphocytic leukemia\ta synergistic effect of etoposide and cyclosporin a be observe in a patient with <target> acute t-lymphocytic leukemia </target> in relapse .",
+        "D005047\tChemical\tetoposide\tthe concomitant administration of <target> etoposide </target> and cyclosporin a result in eradication of hitherto refractory leukemic infiltration of bone marrow .",
+        "D016572\tChemical\tcyclosporin A\tthe concomitant administration of etoposide and <target> cyclosporin a </target> result in eradication of hitherto refractory leukemic infiltration of bone marrow .",
+        "D017254\tDisease\tleukemic infiltration\tthe concomitant administration of etoposide and cyclosporin a result in eradication of hitherto refractory <target> leukemic infiltration </target> of bone marrow .",
+        "D003221\tDisease\tconfusion\tsevere side effect in term of mental <target> confusion </target> and progressive hyperbilirubinemia , however , point to an enhancement not only of antineoplastic effect but also of toxicity in normal tissue .",
+        "D006932\tDisease\thyperbilirubinemia\tsevere side effect in term of mental confusion and progressive <target> hyperbilirubinemia </target> , however , point to an enhancement not only of antineoplastic effect but also of toxicity in normal tissue .",
+        "D064420\tDisease\ttoxicity\tsevere side effect in term of mental confusion and progressive hyperbilirubinemia , however , point to an enhancement not only of antineoplastic effect but also of <target> toxicity </target> in normal tissue .",
+        "D016572\tChemical\tcyclosporin A\tthis report demonstrate for the first time that the pharmacodynamic property of <target> cyclosporin a </target> may not be confine strictly to suppression of normal t-cell function ."
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "Atrial thrombosis involving the heart of F-344 rats ingesting quinacrine hydrochloride.",
+    "abst": "Quinacrine hydrochloride is toxic for the heart of F-344 rats. Rats treated with 500 ppm quinacrine hydrochloride in the diet all developed a high incidence of left atrial thrombosis. The lesion was associated with cardiac hypertrophy and dilatation and focal myocardial degeneration. Rats died from cardiac hypertrophy with severe acute and chronic congestion of the lungs, liver, and other organs. Seventy percent of rats given 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet had thrombosis of the atria of the heart, while untreated control rats in this laboratory did not have atrial thrombosis. Sodium nitrite in combination with quinacrine hydrochloride appeared to have no additional effect.",
+    "title_plus_abst": "Atrial thrombosis involving the heart of F-344 rats ingesting quinacrine hydrochloride. Quinacrine hydrochloride is toxic for the heart of F-344 rats. Rats treated with 500 ppm quinacrine hydrochloride in the diet all developed a high incidence of left atrial thrombosis. The lesion was associated with cardiac hypertrophy and dilatation and focal myocardial degeneration. Rats died from cardiac hypertrophy with severe acute and chronic congestion of the lungs, liver, and other organs. Seventy percent of rats given 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet had thrombosis of the atria of the heart, while untreated control rats in this laboratory did not have atrial thrombosis. Sodium nitrite in combination with quinacrine hydrochloride appeared to have no additional effect.",
+    "pubmed_id": "6517710",
+    "entities": [
+        [
+            0,
+            17,
+            "Atrial thrombosis",
+            "Disease",
+            "D003328"
+        ],
+        [
+            62,
+            86,
+            "quinacrine hydrochloride",
+            "Chemical",
+            "D011796"
+        ],
+        [
+            88,
+            112,
+            "Quinacrine hydrochloride",
+            "Chemical",
+            "D011796"
+        ],
+        [
+            177,
+            201,
+            "quinacrine hydrochloride",
+            "Chemical",
+            "D011796"
+        ],
+        [
+            253,
+            270,
+            "atrial thrombosis",
+            "Disease",
+            "D003328"
+        ],
+        [
+            303,
+            322,
+            "cardiac hypertrophy",
+            "Disease",
+            "D006332"
+        ],
+        [
+            348,
+            371,
+            "myocardial degeneration",
+            "Disease",
+            "D009202"
+        ],
+        [
+            388,
+            407,
+            "cardiac hypertrophy",
+            "Disease",
+            "D006332"
+        ],
+        [
+            526,
+            550,
+            "quinacrine hydrochloride",
+            "Chemical",
+            "D011796"
+        ],
+        [
+            565,
+            579,
+            "sodium nitrite",
+            "Chemical",
+            "D012977"
+        ],
+        [
+            611,
+            621,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            710,
+            727,
+            "atrial thrombosis",
+            "Disease",
+            "D003328"
+        ],
+        [
+            729,
+            743,
+            "Sodium nitrite",
+            "Chemical",
+            "D012977"
+        ],
+        [
+            764,
+            788,
+            "quinacrine hydrochloride",
+            "Chemical",
+            "D011796"
+        ]
+    ],
+    "split_sentence": [
+        "Atrial thrombosis involving the heart of F-344 rats ingesting quinacrine hydrochloride.",
+        "Quinacrine hydrochloride is toxic for the heart of F-344 rats.",
+        "Rats treated with 500 ppm quinacrine hydrochloride in the diet all developed a high incidence of left atrial thrombosis.",
+        "The lesion was associated with cardiac hypertrophy and dilatation and focal myocardial degeneration.",
+        "Rats died from cardiac hypertrophy with severe acute and chronic congestion of the lungs, liver, and other organs.",
+        "Seventy percent of rats given 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet had thrombosis of the atria of the heart, while untreated control rats in this laboratory did not have atrial thrombosis.",
+        "Sodium nitrite in combination with quinacrine hydrochloride appeared to have no additional effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003328\tDisease\tAtrial thrombosis\t<target> Atrial thrombosis </target> involving the heart of F-344 rats ingesting quinacrine hydrochloride .",
+        "D011796\tChemical\tquinacrine hydrochloride\tAtrial thrombosis involving the heart of F-344 rats ingesting <target> quinacrine hydrochloride </target> .",
+        "D011796\tChemical\tQuinacrine hydrochloride\t<target> Quinacrine hydrochloride </target> is toxic for the heart of F-344 rats .",
+        "D011796\tChemical\tquinacrine hydrochloride\tRats treated with 500 ppm <target> quinacrine hydrochloride </target> in the diet all developed a high incidence of left atrial thrombosis .",
+        "D003328\tDisease\tatrial thrombosis\tRats treated with 500 ppm quinacrine hydrochloride in the diet all developed a high incidence of left <target> atrial thrombosis </target> .",
+        "D006332\tDisease\tcardiac hypertrophy\tThe lesion was associated with <target> cardiac hypertrophy </target> and dilatation and focal myocardial degeneration .",
+        "D009202\tDisease\tmyocardial degeneration\tThe lesion was associated with cardiac hypertrophy and dilatation and focal <target> myocardial degeneration </target> .",
+        "D006332\tDisease\tcardiac hypertrophy\tRats died from <target> cardiac hypertrophy </target> with severe acute and chronic congestion of the lungs , liver , and other organs .",
+        "D011796\tChemical\tquinacrine hydrochloride\tSeventy percent of rats given 250 ppm <target> quinacrine hydrochloride </target> and 1,000 ppm sodium nitrite simultaneously in the diet had thrombosis of the atria of the heart , while untreated control rats in this laboratory did not have atrial thrombosis .",
+        "D012977\tChemical\tsodium nitrite\tSeventy percent of rats given 250 ppm quinacrine hydrochloride and 1,000 ppm <target> sodium nitrite </target> simultaneously in the diet had thrombosis of the atria of the heart , while untreated control rats in this laboratory did not have atrial thrombosis .",
+        "D013927\tDisease\tthrombosis\tSeventy percent of rats given 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet had <target> thrombosis </target> of the atria of the heart , while untreated control rats in this laboratory did not have atrial thrombosis .",
+        "D003328\tDisease\tatrial thrombosis\tSeventy percent of rats given 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet had thrombosis of the atria of the heart , while untreated control rats in this laboratory did not have <target> atrial thrombosis </target> .",
+        "D012977\tChemical\tSodium nitrite\t<target> Sodium nitrite </target> in combination with quinacrine hydrochloride appeared to have no additional effect .",
+        "D011796\tChemical\tquinacrine hydrochloride\tSodium nitrite in combination with <target> quinacrine hydrochloride </target> appeared to have no additional effect ."
+    ],
+    "lines_lemma": [
+        "D003328\tDisease\tAtrial thrombosis\t<target> atrial thrombosis </target> involve the heart of f-344 rat ingest quinacrine hydrochloride .",
+        "D011796\tChemical\tquinacrine hydrochloride\tatrial thrombosis involve the heart of f-344 rat ingest <target> quinacrine hydrochloride </target> .",
+        "D011796\tChemical\tQuinacrine hydrochloride\t<target> Quinacrine hydrochloride </target> be toxic for the heart of f-344 rat .",
+        "D011796\tChemical\tquinacrine hydrochloride\trat treat with 500 ppm <target> quinacrine hydrochloride </target> in the diet all develop a high incidence of leave atrial thrombosis .",
+        "D003328\tDisease\tatrial thrombosis\trat treat with 500 ppm quinacrine hydrochloride in the diet all develop a high incidence of leave <target> atrial thrombosis </target> .",
+        "D006332\tDisease\tcardiac hypertrophy\tthe lesion be associate with <target> cardiac hypertrophy </target> and dilatation and focal myocardial degeneration .",
+        "D009202\tDisease\tmyocardial degeneration\tthe lesion be associate with cardiac hypertrophy and dilatation and focal <target> myocardial degeneration </target> .",
+        "D006332\tDisease\tcardiac hypertrophy\trat die from <target> cardiac hypertrophy </target> with severe acute and chronic congestion of the lung , liver , and other organ .",
+        "D011796\tChemical\tquinacrine hydrochloride\tseventy percent of rat give 250 ppm <target> quinacrine hydrochloride </target> and 1,000 ppm sodium nitrite simultaneously in the diet have thrombosis of the atria of the heart , while untreated control rat in this laboratory do not have atrial thrombosis .",
+        "D012977\tChemical\tsodium nitrite\tseventy percent of rat give 250 ppm quinacrine hydrochloride and 1,000 ppm <target> sodium nitrite </target> simultaneously in the diet have thrombosis of the atria of the heart , while untreated control rat in this laboratory do not have atrial thrombosis .",
+        "D013927\tDisease\tthrombosis\tseventy percent of rat give 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet have <target> thrombosis </target> of the atria of the heart , while untreated control rat in this laboratory do not have atrial thrombosis .",
+        "D003328\tDisease\tatrial thrombosis\tseventy percent of rat give 250 ppm quinacrine hydrochloride and 1,000 ppm sodium nitrite simultaneously in the diet have thrombosis of the atria of the heart , while untreated control rat in this laboratory do not have <target> atrial thrombosis </target> .",
+        "D012977\tChemical\tSodium nitrite\t<target> Sodium nitrite </target> in combination with quinacrine hydrochloride appear to have no additional effect .",
+        "D011796\tChemical\tquinacrine hydrochloride\tsodium nitrite in combination with <target> quinacrine hydrochloride </target> appear to have no additional effect ."
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Rabbit syndrome, antidepressant use, and cerebral perfusion SPECT scan findings.",
+    "abst": "The rabbit syndrome is an extrapyramidal side effect associated with chronic neuroleptic therapy. Its occurrence in a patient being treated with imipramine is described, representing the first reported case of this syndrome in conjunction with antidepressants. Repeated cerebral perfusion SPECT scans revealed decreased basal ganglia perfusion while the movement disorder was present, and a return to normal perfusion when the rabbit syndrome resolved.",
+    "title_plus_abst": "Rabbit syndrome, antidepressant use, and cerebral perfusion SPECT scan findings. The rabbit syndrome is an extrapyramidal side effect associated with chronic neuroleptic therapy. Its occurrence in a patient being treated with imipramine is described, representing the first reported case of this syndrome in conjunction with antidepressants. Repeated cerebral perfusion SPECT scans revealed decreased basal ganglia perfusion while the movement disorder was present, and a return to normal perfusion when the rabbit syndrome resolved.",
+    "pubmed_id": "1786266",
+    "entities": [
+        [
+            0,
+            15,
+            "Rabbit syndrome",
+            "Disease",
+            "D001480"
+        ],
+        [
+            17,
+            31,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            85,
+            100,
+            "rabbit syndrome",
+            "Disease",
+            "D001480"
+        ],
+        [
+            226,
+            236,
+            "imipramine",
+            "Chemical",
+            "D007099"
+        ],
+        [
+            325,
+            340,
+            "antidepressants",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            391,
+            424,
+            "decreased basal ganglia perfusion",
+            "Disease",
+            "D001480"
+        ],
+        [
+            435,
+            452,
+            "movement disorder",
+            "Disease",
+            "D009069"
+        ],
+        [
+            508,
+            523,
+            "rabbit syndrome",
+            "Disease",
+            "D001480"
+        ]
+    ],
+    "split_sentence": [
+        "Rabbit syndrome, antidepressant use, and cerebral perfusion SPECT scan findings.",
+        "The rabbit syndrome is an extrapyramidal side effect associated with chronic neuroleptic therapy.",
+        "Its occurrence in a patient being treated with imipramine is described, representing the first reported case of this syndrome in conjunction with antidepressants.",
+        "Repeated cerebral perfusion SPECT scans revealed decreased basal ganglia perfusion while the movement disorder was present, and a return to normal perfusion when the rabbit syndrome resolved."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001480\tDisease\tRabbit syndrome\t<target> Rabbit syndrome </target> , antidepressant use , and cerebral perfusion SPECT scan findings .",
+        "D000928\tChemical\tantidepressant\tRabbit syndrome , <target> antidepressant </target> use , and cerebral perfusion SPECT scan findings .",
+        "D001480\tDisease\trabbit syndrome\tThe <target> rabbit syndrome </target> is an extrapyramidal side effect associated with chronic neuroleptic therapy .",
+        "D007099\tChemical\timipramine\tIts occurrence in a patient being treated with <target> imipramine </target> is described , representing the first reported case of this syndrome in conjunction with antidepressants .",
+        "D000928\tChemical\tantidepressants\tIts occurrence in a patient being treated with imipramine is described , representing the first reported case of this syndrome in conjunction with <target> antidepressants </target> .",
+        "D001480\tDisease\tdecreased basal ganglia perfusion\tRepeated cerebral perfusion SPECT scans revealed <target> decreased basal ganglia perfusion </target> while the movement disorder was present , and a return to normal perfusion when the rabbit syndrome resolved .",
+        "D009069\tDisease\tmovement disorder\tRepeated cerebral perfusion SPECT scans revealed decreased basal ganglia perfusion while the <target> movement disorder </target> was present , and a return to normal perfusion when the rabbit syndrome resolved .",
+        "D001480\tDisease\trabbit syndrome\tRepeated cerebral perfusion SPECT scans revealed decreased basal ganglia perfusion while the movement disorder was present , and a return to normal perfusion when the <target> rabbit syndrome </target> resolved ."
+    ],
+    "lines_lemma": [
+        "D001480\tDisease\tRabbit syndrome\t<target> rabbit syndrome </target> , antidepressant use , and cerebral perfusion spect scan finding .",
+        "D000928\tChemical\tantidepressant\trabbit syndrome , <target> antidepressant </target> use , and cerebral perfusion spect scan finding .",
+        "D001480\tDisease\trabbit syndrome\tthe <target> rabbit syndrome </target> be an extrapyramidal side effect associate with chronic neuroleptic therapy .",
+        "D007099\tChemical\timipramine\tits occurrence in a patient be treat with <target> imipramine </target> be describe , represent the first report case of this syndrome in conjunction with antidepressant .",
+        "D000928\tChemical\tantidepressants\tits occurrence in a patient be treat with imipramine be describe , represent the first report case of this syndrome in conjunction with <target> antidepressant </target> .",
+        "D001480\tDisease\tdecreased basal ganglia perfusion\trepeat cerebral perfusion spect scan reveal <target> decrease basal ganglia perfusion </target> while the movement disorder be present , and a return to normal perfusion when the rabbit syndrome resolve .",
+        "D009069\tDisease\tmovement disorder\trepeat cerebral perfusion spect scan reveal decrease basal ganglia perfusion while the <target> movement disorder </target> be present , and a return to normal perfusion when the rabbit syndrome resolve .",
+        "D001480\tDisease\trabbit syndrome\trepeat cerebral perfusion spect scan reveal decrease basal ganglia perfusion while the movement disorder be present , and a return to normal perfusion when the <target> rabbit syndrome </target> resolve ."
+    ]
+}

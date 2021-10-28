@@ -1,0 +1,128 @@
+{
+    "title": "Asterixis induced by carbamazepine therapy.",
+    "abst": "There are very few reports about asterixis as a side effect of treatment with psychopharmacologic agents. In this report we present four patients treated with a combination of different psychotropic drugs, in whom asterixis was triggered either by adding carbamazepine (CBZ) to a treatment regimen, or by increasing its dosage. Neither dosage nor serum levels of CBZ were in a higher range. We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.",
+    "title_plus_abst": "Asterixis induced by carbamazepine therapy. There are very few reports about asterixis as a side effect of treatment with psychopharmacologic agents. In this report we present four patients treated with a combination of different psychotropic drugs, in whom asterixis was triggered either by adding carbamazepine (CBZ) to a treatment regimen, or by increasing its dosage. Neither dosage nor serum levels of CBZ were in a higher range. We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.",
+    "pubmed_id": "1420650",
+    "entities": [
+        [
+            0,
+            9,
+            "Asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            21,
+            34,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            77,
+            86,
+            "asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            258,
+            267,
+            "asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            299,
+            312,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            314,
+            317,
+            "CBZ",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            407,
+            410,
+            "CBZ",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            447,
+            456,
+            "asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            492,
+            505,
+            "neurotoxicity",
+            "Disease",
+            "D020258"
+        ],
+        [
+            582,
+            589,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            593,
+            602,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            632,
+            635,
+            "CBZ",
+            "Chemical",
+            "D002220"
+        ]
+    ],
+    "split_sentence": [
+        "Asterixis induced by carbamazepine therapy.",
+        "There are very few reports about asterixis as a side effect of treatment with psychopharmacologic agents.",
+        "In this report we present four patients treated with a combination of different psychotropic drugs, in whom asterixis was triggered either by adding carbamazepine (CBZ) to a treatment regimen, or by increasing its dosage.",
+        "Neither dosage nor serum levels of CBZ were in a higher range.",
+        "We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020820\tDisease\tAsterixis\t<target> Asterixis </target> induced by carbamazepine therapy .",
+        "D002220\tChemical\tcarbamazepine\tAsterixis induced by <target> carbamazepine </target> therapy .",
+        "D020820\tDisease\tasterixis\tThere are very few reports about <target> asterixis </target> as a side effect of treatment with psychopharmacologic agents .",
+        "D020820\tDisease\tasterixis\tIn this report we present four patients treated with a combination of different psychotropic drugs , in whom <target> asterixis </target> was triggered either by adding carbamazepine ( CBZ ) to a treatment regimen , or by increasing its dosage .",
+        "D002220\tChemical\tcarbamazepine\tIn this report we present four patients treated with a combination of different psychotropic drugs , in whom asterixis was triggered either by adding <target> carbamazepine </target> ( CBZ ) to a treatment regimen , or by increasing its dosage .",
+        "D002220\tChemical\tCBZ\tIn this report we present four patients treated with a combination of different psychotropic drugs , in whom asterixis was triggered either by adding carbamazepine ( <target> CBZ </target> ) to a treatment regimen , or by increasing its dosage .",
+        "D002220\tChemical\tCBZ\tNeither dosage nor serum levels of <target> CBZ </target> were in a higher range .",
+        "D020820\tDisease\tasterixis\tWe consider <target> asterixis </target> to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage levels , if certain drugs as lithium or clozapine are used in combination with CBZ .",
+        "D020258\tDisease\tneurotoxicity\tWe consider asterixis to be an easily overlooked sign of <target> neurotoxicity </target> , which may occur even at low or moderate dosage levels , if certain drugs as lithium or clozapine are used in combination with CBZ .",
+        "D008094\tChemical\tlithium\tWe consider asterixis to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage levels , if certain drugs as <target> lithium </target> or clozapine are used in combination with CBZ .",
+        "D003024\tChemical\tclozapine\tWe consider asterixis to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage levels , if certain drugs as lithium or <target> clozapine </target> are used in combination with CBZ .",
+        "D002220\tChemical\tCBZ\tWe consider asterixis to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage levels , if certain drugs as lithium or clozapine are used in combination with <target> CBZ </target> ."
+    ],
+    "lines_lemma": [
+        "D020820\tDisease\tAsterixis\t<target> asterixis </target> induce by carbamazepine therapy .",
+        "D002220\tChemical\tcarbamazepine\tasterixis induce by <target> carbamazepine </target> therapy .",
+        "D020820\tDisease\tasterixis\tthere be very few report about <target> asterixis </target> as a side effect of treatment with psychopharmacologic agent .",
+        "D020820\tDisease\tasterixis\tin this report we present four patient treat with a combination of different psychotropic drug , in whom <target> asterixis </target> be trigger either by add carbamazepine ( cbz ) to a treatment regimen , or by increase its dosage .",
+        "D002220\tChemical\tcarbamazepine\tin this report we present four patient treat with a combination of different psychotropic drug , in whom asterixis be trigger either by add <target> carbamazepine </target> ( cbz ) to a treatment regimen , or by increase its dosage .",
+        "D002220\tChemical\tCBZ\tin this report we present four patient treat with a combination of different psychotropic drug , in whom asterixis be trigger either by add carbamazepine ( <target> cbz </target> ) to a treatment regimen , or by increase its dosage .",
+        "D002220\tChemical\tCBZ\tneither dosage nor serum level of <target> cbz </target> be in a high range .",
+        "D020820\tDisease\tasterixis\twe consider <target> asterixis </target> to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage level , if certain drug as lithium or clozapine be use in combination with cbz .",
+        "D020258\tDisease\tneurotoxicity\twe consider asterixis to be an easily overlooked sign of <target> neurotoxicity </target> , which may occur even at low or moderate dosage level , if certain drug as lithium or clozapine be use in combination with cbz .",
+        "D008094\tChemical\tlithium\twe consider asterixis to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage level , if certain drug as <target> lithium </target> or clozapine be use in combination with cbz .",
+        "D003024\tChemical\tclozapine\twe consider asterixis to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage level , if certain drug as lithium or <target> clozapine </target> be use in combination with cbz .",
+        "D002220\tChemical\tCBZ\twe consider asterixis to be an easily overlooked sign of neurotoxicity , which may occur even at low or moderate dosage level , if certain drug as lithium or clozapine be use in combination with <target> cbz </target> ."
+    ]
+}

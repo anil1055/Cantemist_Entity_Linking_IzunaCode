@@ -1,0 +1,116 @@
+{
+    "title": "Sustained clinical improvement of a patient with decompensated hepatitis B virus-related cirrhosis after treatment with lamivudine monotherapy.",
+    "abst": "Hepatitis B virus (HBV) infection, which causes liver cirrhosis and hepatocellular carcinoma, remains a major health problem in Asian countries. Recent development of vaccine for prevention is reported to be successful in reducing the size of chronically infected carriers, although the standard medical therapies have not been established up to now. In this report, we encountered a patient with decompensated HBV-related cirrhosis who exhibited the dramatic improvements after antiviral therapy. The patient was a 50-year-old woman. Previous conventional medical treatments were not effective for this patient, thus this patient had been referred to our hospital. However, the administration of lamivudine, a reverse transcriptase inhibitor, for 23 months dramatically improved her liver severity. During this period, no drug resistant mutant HBV emerged, and the serum HBV-DNA level was continuously suppressed. These virological responses were also maintained even after the antiviral therapy was discontinued. Moreover, both hepatitis B surface antigen and e antigen were observed to have disappeared in this patient. The administration of lamivudine to patients with HBV-related cirrhosis, like our present case, should be considered as an initial medical therapeutic option, especially in countries where liver transplantation is not reliably available.",
+    "title_plus_abst": "Sustained clinical improvement of a patient with decompensated hepatitis B virus-related cirrhosis after treatment with lamivudine monotherapy. Hepatitis B virus (HBV) infection, which causes liver cirrhosis and hepatocellular carcinoma, remains a major health problem in Asian countries. Recent development of vaccine for prevention is reported to be successful in reducing the size of chronically infected carriers, although the standard medical therapies have not been established up to now. In this report, we encountered a patient with decompensated HBV-related cirrhosis who exhibited the dramatic improvements after antiviral therapy. The patient was a 50-year-old woman. Previous conventional medical treatments were not effective for this patient, thus this patient had been referred to our hospital. However, the administration of lamivudine, a reverse transcriptase inhibitor, for 23 months dramatically improved her liver severity. During this period, no drug resistant mutant HBV emerged, and the serum HBV-DNA level was continuously suppressed. These virological responses were also maintained even after the antiviral therapy was discontinued. Moreover, both hepatitis B surface antigen and e antigen were observed to have disappeared in this patient. The administration of lamivudine to patients with HBV-related cirrhosis, like our present case, should be considered as an initial medical therapeutic option, especially in countries where liver transplantation is not reliably available.",
+    "pubmed_id": "16960342",
+    "entities": [
+        [
+            63,
+            74,
+            "hepatitis B",
+            "Disease",
+            "D006509"
+        ],
+        [
+            89,
+            98,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            120,
+            130,
+            "lamivudine",
+            "Chemical",
+            "D019259"
+        ],
+        [
+            144,
+            177,
+            "Hepatitis B virus (HBV) infection",
+            "Disease",
+            "D006509"
+        ],
+        [
+            192,
+            207,
+            "liver cirrhosis",
+            "Disease",
+            "D008103"
+        ],
+        [
+            212,
+            236,
+            "hepatocellular carcinoma",
+            "Disease",
+            "D006528"
+        ],
+        [
+            567,
+            576,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            841,
+            851,
+            "lamivudine",
+            "Chemical",
+            "D019259"
+        ],
+        [
+            1289,
+            1299,
+            "lamivudine",
+            "Chemical",
+            "D019259"
+        ],
+        [
+            1329,
+            1338,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ]
+    ],
+    "split_sentence": [
+        "Sustained clinical improvement of a patient with decompensated hepatitis B virus-related cirrhosis after treatment with lamivudine monotherapy.",
+        "Hepatitis B virus (HBV) infection, which causes liver cirrhosis and hepatocellular carcinoma, remains a major health problem in Asian countries.",
+        "Recent development of vaccine for prevention is reported to be successful in reducing the size of chronically infected carriers, although the standard medical therapies have not been established up to now.",
+        "In this report, we encountered a patient with decompensated HBV-related cirrhosis who exhibited the dramatic improvements after antiviral therapy.",
+        "The patient was a 50-year-old woman.",
+        "Previous conventional medical treatments were not effective for this patient, thus this patient had been referred to our hospital.",
+        "However, the administration of lamivudine, a reverse transcriptase inhibitor, for 23 months dramatically improved her liver severity.",
+        "During this period, no drug resistant mutant HBV emerged, and the serum HBV-DNA level was continuously suppressed.",
+        "These virological responses were also maintained even after the antiviral therapy was discontinued.",
+        "Moreover, both hepatitis B surface antigen and e antigen were observed to have disappeared in this patient.",
+        "The administration of lamivudine to patients with HBV-related cirrhosis, like our present case, should be considered as an initial medical therapeutic option, especially in countries where liver transplantation is not reliably available."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006509\tDisease\thepatitis B\tSustained clinical improvement of a patient with decompensated <target> hepatitis B </target> virus-related cirrhosis after treatment with lamivudine monotherapy .",
+        "D005355\tDisease\tcirrhosis\tSustained clinical improvement of a patient with decompensated hepatitis B virus-related <target> cirrhosis </target> after treatment with lamivudine monotherapy .",
+        "D019259\tChemical\tlamivudine\tSustained clinical improvement of a patient with decompensated hepatitis B virus-related cirrhosis after treatment with <target> lamivudine </target> monotherapy .",
+        "D006509\tDisease\tHepatitis B virus (HBV) infection\t<target> Hepatitis B virus ( HBV ) infection </target> , which causes liver cirrhosis and hepatocellular carcinoma , remains a major health problem in Asian countries .",
+        "D008103\tDisease\tliver cirrhosis\tHepatitis B virus ( HBV ) infection , which causes <target> liver cirrhosis </target> and hepatocellular carcinoma , remains a major health problem in Asian countries .",
+        "D006528\tDisease\thepatocellular carcinoma\tHepatitis B virus ( HBV ) infection , which causes liver cirrhosis and <target> hepatocellular carcinoma </target> , remains a major health problem in Asian countries .",
+        "D005355\tDisease\tcirrhosis\tIn this report , we encountered a patient with decompensated HBV-related <target> cirrhosis </target> who exhibited the dramatic improvements after antiviral therapy .",
+        "D019259\tChemical\tlamivudine\tHowever , the administration of <target> lamivudine </target> , a reverse transcriptase inhibitor , for 23 months dramatically improved her liver severity .",
+        "D019259\tChemical\tlamivudine\tThe administration of <target> lamivudine </target> to patients with HBV-related cirrhosis , like our present case , should be considered as an initial medical therapeutic option , especially in countries where liver transplantation is not reliably available .",
+        "D005355\tDisease\tcirrhosis\tThe administration of lamivudine to patients with HBV-related <target> cirrhosis </target> , like our present case , should be considered as an initial medical therapeutic option , especially in countries where liver transplantation is not reliably available ."
+    ],
+    "lines_lemma": [
+        "D006509\tDisease\thepatitis B\tsustained clinical improvement of a patient with decompensated <target> hepatitis b </target> virus-related cirrhosis after treatment with lamivudine monotherapy .",
+        "D005355\tDisease\tcirrhosis\tsustained clinical improvement of a patient with decompensated hepatitis b virus-related <target> cirrhosis </target> after treatment with lamivudine monotherapy .",
+        "D019259\tChemical\tlamivudine\tsustained clinical improvement of a patient with decompensated hepatitis b virus-related cirrhosis after treatment with <target> lamivudine </target> monotherapy .",
+        "D006509\tDisease\tHepatitis B virus (HBV) infection\t<target> hepatitis b virus ( hbv ) infection </target> , which cause liver cirrhosis and hepatocellular carcinoma , remain a major health problem in asian country .",
+        "D008103\tDisease\tliver cirrhosis\thepatitis b virus ( hbv ) infection , which cause <target> liver cirrhosis </target> and hepatocellular carcinoma , remain a major health problem in asian country .",
+        "D006528\tDisease\thepatocellular carcinoma\thepatitis b virus ( hbv ) infection , which cause liver cirrhosis and <target> hepatocellular carcinoma </target> , remain a major health problem in asian country .",
+        "D005355\tDisease\tcirrhosis\tin this report , we encounter a patient with decompensate hbv-related <target> cirrhosis </target> who exhibit the dramatic improvement after antiviral therapy .",
+        "D019259\tChemical\tlamivudine\thowever , the administration of <target> lamivudine </target> , a reverse transcriptase inhibitor , for 23 month dramatically improve her liver severity .",
+        "D019259\tChemical\tlamivudine\tthe administration of <target> lamivudine </target> to patient with hbv-related cirrhosis , like our present case , should be consider as an initial medical therapeutic option , especially in country where liver transplantation be not reliably available .",
+        "D005355\tDisease\tcirrhosis\tthe administration of lamivudine to patient with hbv-related <target> cirrhosis </target> , like our present case , should be consider as an initial medical therapeutic option , especially in country where liver transplantation be not reliably available ."
+    ]
+}

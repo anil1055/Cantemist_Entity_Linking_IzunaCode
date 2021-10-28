@@ -1,0 +1,81 @@
+{
+    "title": "Why may epsilon-aminocaproic acid (EACA) induce myopathy in man? Report of a case and literature review.",
+    "abst": "A case of necrotizing myopathy due to a short epsilon-aminocaproic acid (EACA) treatment in a 72 year-old patient with subarachnoid haemorrhage (SAH) is described. Pathogenetic hypotheses are discussed.",
+    "title_plus_abst": "Why may epsilon-aminocaproic acid (EACA) induce myopathy in man? Report of a case and literature review. A case of necrotizing myopathy due to a short epsilon-aminocaproic acid (EACA) treatment in a 72 year-old patient with subarachnoid haemorrhage (SAH) is described. Pathogenetic hypotheses are discussed.",
+    "pubmed_id": "6674249",
+    "entities": [
+        [
+            8,
+            33,
+            "epsilon-aminocaproic acid",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            35,
+            39,
+            "EACA",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            48,
+            56,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            151,
+            176,
+            "epsilon-aminocaproic acid",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            178,
+            182,
+            "EACA",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            224,
+            248,
+            "subarachnoid haemorrhage",
+            "Disease",
+            "D013345"
+        ],
+        [
+            250,
+            253,
+            "SAH",
+            "Disease",
+            "D013345"
+        ]
+    ],
+    "split_sentence": [
+        "Why may epsilon-aminocaproic acid (EACA) induce myopathy in man? Report of a case and literature review.",
+        "A case of necrotizing myopathy due to a short epsilon-aminocaproic acid (EACA) treatment in a 72 year-old patient with subarachnoid haemorrhage (SAH) is described.",
+        "Pathogenetic hypotheses are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015119\tChemical\tepsilon-aminocaproic acid\tWhy may <target> epsilon-aminocaproic acid </target> ( EACA ) induce myopathy in man ? Report of a case and literature review .",
+        "D015119\tChemical\tEACA\tWhy may epsilon-aminocaproic acid ( <target> EACA </target> ) induce myopathy in man ? Report of a case and literature review .",
+        "D009135\tDisease\tmyopathy\tWhy may epsilon-aminocaproic acid ( EACA ) induce <target> myopathy </target> in man ? Report of a case and literature review .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\tA case of necrotizing myopathy due to a short <target> epsilon-aminocaproic acid </target> ( EACA ) treatment in a 72 year-old patient with subarachnoid haemorrhage ( SAH ) is described .",
+        "D015119\tChemical\tEACA\tA case of necrotizing myopathy due to a short epsilon-aminocaproic acid ( <target> EACA </target> ) treatment in a 72 year-old patient with subarachnoid haemorrhage ( SAH ) is described .",
+        "D013345\tDisease\tsubarachnoid haemorrhage\tA case of necrotizing myopathy due to a short epsilon-aminocaproic acid ( EACA ) treatment in a 72 year-old patient with <target> subarachnoid haemorrhage </target> ( SAH ) is described .",
+        "D013345\tDisease\tSAH\tA case of necrotizing myopathy due to a short epsilon-aminocaproic acid ( EACA ) treatment in a 72 year-old patient with subarachnoid haemorrhage ( <target> SAH </target> ) is described ."
+    ],
+    "lines_lemma": [
+        "D015119\tChemical\tepsilon-aminocaproic acid\twhy may <target> epsilon-aminocaproic acid </target> ( eaca ) induce myopathy in man ? report of a case and literature review .",
+        "D015119\tChemical\tEACA\twhy may epsilon-aminocaproic acid ( <target> eaca </target> ) induce myopathy in man ? report of a case and literature review .",
+        "D009135\tDisease\tmyopathy\twhy may epsilon-aminocaproic acid ( eaca ) induce <target> myopathy </target> in man ? report of a case and literature review .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\ta case of necrotize myopathy due to a short <target> epsilon-aminocaproic acid </target> ( eaca ) treatment in a 72 year-old patient with subarachnoid haemorrhage ( sah ) be describe .",
+        "D015119\tChemical\tEACA\ta case of necrotize myopathy due to a short epsilon-aminocaproic acid ( <target> eaca </target> ) treatment in a 72 year-old patient with subarachnoid haemorrhage ( sah ) be describe .",
+        "D013345\tDisease\tsubarachnoid haemorrhage\ta case of necrotize myopathy due to a short epsilon-aminocaproic acid ( eaca ) treatment in a 72 year-old patient with <target> subarachnoid haemorrhage </target> ( sah ) be describe .",
+        "D013345\tDisease\tSAH\ta case of necrotize myopathy due to a short epsilon-aminocaproic acid ( eaca ) treatment in a 72 year-old patient with subarachnoid haemorrhage ( <target> sah </target> ) be describe ."
+    ]
+}

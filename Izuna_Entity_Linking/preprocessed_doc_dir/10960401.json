@@ -1,0 +1,81 @@
+{
+    "title": "Downbeat nystagmus associated with intravenous patient-controlled administration of morphine.",
+    "abst": "IMPLICATIONS: This case documents a patient who developed dizziness with downbeating nystagmus while receiving a relatively large dose of IV patient-controlled analgesia morphine. Although there have been case reports of epidural morphine with these symptoms and signs, this has not been previously documented with IV or patient-controlled analgesia morphine.",
+    "title_plus_abst": "Downbeat nystagmus associated with intravenous patient-controlled administration of morphine. IMPLICATIONS: This case documents a patient who developed dizziness with downbeating nystagmus while receiving a relatively large dose of IV patient-controlled analgesia morphine. Although there have been case reports of epidural morphine with these symptoms and signs, this has not been previously documented with IV or patient-controlled analgesia morphine.",
+    "pubmed_id": "10960401",
+    "entities": [
+        [
+            0,
+            18,
+            "Downbeat nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            84,
+            92,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            152,
+            161,
+            "dizziness",
+            "Disease",
+            "D004244"
+        ],
+        [
+            167,
+            188,
+            "downbeating nystagmus",
+            "Disease",
+            "D009759"
+        ],
+        [
+            264,
+            272,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            324,
+            332,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            444,
+            452,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ]
+    ],
+    "split_sentence": [
+        "Downbeat nystagmus associated with intravenous patient-controlled administration of morphine.",
+        "IMPLICATIONS: This case documents a patient who developed dizziness with downbeating nystagmus while receiving a relatively large dose of IV patient-controlled analgesia morphine.",
+        "Although there have been case reports of epidural morphine with these symptoms and signs, this has not been previously documented with IV or patient-controlled analgesia morphine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009759\tDisease\tDownbeat nystagmus\t<target> Downbeat nystagmus </target> associated with intravenous patient-controlled administration of morphine .",
+        "D009020\tChemical\tmorphine\tDownbeat nystagmus associated with intravenous patient-controlled administration of <target> morphine </target> .",
+        "D004244\tDisease\tdizziness\tIMPLICATIONS : This case documents a patient who developed <target> dizziness </target> with downbeating nystagmus while receiving a relatively large dose of IV patient-controlled analgesia morphine .",
+        "D009759\tDisease\tdownbeating nystagmus\tIMPLICATIONS : This case documents a patient who developed dizziness with <target> downbeating nystagmus </target> while receiving a relatively large dose of IV patient-controlled analgesia morphine .",
+        "D009020\tChemical\tmorphine\tIMPLICATIONS : This case documents a patient who developed dizziness with downbeating nystagmus while receiving a relatively large dose of IV patient-controlled analgesia <target> morphine </target> .",
+        "D009020\tChemical\tmorphine\tAlthough there have been case reports of epidural <target> morphine </target> with these symptoms and signs , this has not been previously documented with IV or patient-controlled analgesia morphine .",
+        "D009020\tChemical\tmorphine\tAlthough there have been case reports of epidural morphine with these symptoms and signs , this has not been previously documented with IV or patient-controlled analgesia <target> morphine </target> ."
+    ],
+    "lines_lemma": [
+        "D009759\tDisease\tDownbeat nystagmus\t<target> downbeat nystagmus </target> associate with intravenous patient-controlled administration of morphine .",
+        "D009020\tChemical\tmorphine\tdownbeat nystagmus associate with intravenous patient-controlled administration of <target> morphine </target> .",
+        "D004244\tDisease\tdizziness\timplication : this case document a patient who develop <target> dizziness </target> with downbeate nystagmus while receive a relatively large dose of iv patient-controlled analgesia morphine .",
+        "D009759\tDisease\tdownbeating nystagmus\timplication : this case document a patient who develop dizziness with <target> downbeating nystagmus </target> while receive a relatively large dose of iv patient-controlled analgesia morphine .",
+        "D009020\tChemical\tmorphine\timplication : this case document a patient who develop dizziness with downbeating nystagmus while receive a relatively large dose of iv patient-controlled analgesia <target> morphine </target> .",
+        "D009020\tChemical\tmorphine\talthough there have be case report of epidural <target> morphine </target> with these symptom and sign , this have not be previously document with iv or patient-controlled analgesia morphine .",
+        "D009020\tChemical\tmorphine\talthough there have be case report of epidural morphine with these symptom and sign , this have not be previously document with iv or patient-controlled analgesia <target> morphine </target> ."
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Post-operative rigidity after fentanyl administration.",
+    "abst": "A case of thoraco-abdominal rigidity leading to respiratory failure is described in the post-operative period in an elderly patient who received a moderate dose of fentanyl. This was successfully reversed by naloxone. The mechanisms possibly implicated in this accident are discussed.",
+    "title_plus_abst": "Post-operative rigidity after fentanyl administration. A case of thoraco-abdominal rigidity leading to respiratory failure is described in the post-operative period in an elderly patient who received a moderate dose of fentanyl. This was successfully reversed by naloxone. The mechanisms possibly implicated in this accident are discussed.",
+    "pubmed_id": "3780697",
+    "entities": [
+        [
+            15,
+            23,
+            "rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            30,
+            38,
+            "fentanyl",
+            "Chemical",
+            "D005283"
+        ],
+        [
+            83,
+            91,
+            "rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            103,
+            122,
+            "respiratory failure",
+            "Disease",
+            "D012131"
+        ],
+        [
+            219,
+            227,
+            "fentanyl",
+            "Chemical",
+            "D005283"
+        ],
+        [
+            263,
+            271,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ]
+    ],
+    "split_sentence": [
+        "Post-operative rigidity after fentanyl administration.",
+        "A case of thoraco-abdominal rigidity leading to respiratory failure is described in the post-operative period in an elderly patient who received a moderate dose of fentanyl.",
+        "This was successfully reversed by naloxone.",
+        "The mechanisms possibly implicated in this accident are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009127\tDisease\trigidity\tPost-operative <target> rigidity </target> after fentanyl administration .",
+        "D005283\tChemical\tfentanyl\tPost-operative rigidity after <target> fentanyl </target> administration .",
+        "D009127\tDisease\trigidity\tA case of thoraco-abdominal <target> rigidity </target> leading to respiratory failure is described in the post-operative period in an elderly patient who received a moderate dose of fentanyl .",
+        "D012131\tDisease\trespiratory failure\tA case of thoraco-abdominal rigidity leading to <target> respiratory failure </target> is described in the post-operative period in an elderly patient who received a moderate dose of fentanyl .",
+        "D005283\tChemical\tfentanyl\tA case of thoraco-abdominal rigidity leading to respiratory failure is described in the post-operative period in an elderly patient who received a moderate dose of <target> fentanyl </target> .",
+        "D009270\tChemical\tnaloxone\tThis was successfully reversed by <target> naloxone </target> ."
+    ],
+    "lines_lemma": [
+        "D009127\tDisease\trigidity\tpost-operative <target> rigidity </target> after fentanyl administration .",
+        "D005283\tChemical\tfentanyl\tpost-operative rigidity after <target> fentanyl </target> administration .",
+        "D009127\tDisease\trigidity\ta case of thoraco-abdominal <target> rigidity </target> lead to respiratory failure be describe in the post-operative period in an elderly patient who receive a moderate dose of fentanyl .",
+        "D012131\tDisease\trespiratory failure\ta case of thoraco-abdominal rigidity lead to <target> respiratory failure </target> be describe in the post-operative period in an elderly patient who receive a moderate dose of fentanyl .",
+        "D005283\tChemical\tfentanyl\ta case of thoraco-abdominal rigidity lead to respiratory failure be describe in the post-operative period in an elderly patient who receive a moderate dose of <target> fentanyl </target> .",
+        "D009270\tChemical\tnaloxone\tthis be successfully reverse by <target> naloxone </target> ."
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "title": "Clinical safety of lidocaine in patients with cocaine-associated myocardial infarction.",
+    "abst": "STUDY OBJECTIVE: To evaluate the safety of lidocaine in the setting of cocaine-induced myocardial infarction (MI). DESIGN: A retrospective, multicenter study. SETTING: Twenty-nine university, university-affiliated, or community hospitals during a 6-year period (total of 117 cumulative hospital-years). PARTICIPANTS: Patients with cocaine-associated MI who received lidocaine in the emergency department. RESULTS: Of 29 patients who received lidocaine in the setting of cocaine-associated MI, no patient died; exhibited bradydysrhythmias, ventricular tachycardia, or ventricular fibrillation; or experienced seizures after administration of lidocaine (95% confidence interval, 0% to 11%). CONCLUSION: Despite theoretical concerns that lidocaine may enhance cocaine toxicity, the use of lidocaine in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity.",
+    "title_plus_abst": "Clinical safety of lidocaine in patients with cocaine-associated myocardial infarction. STUDY OBJECTIVE: To evaluate the safety of lidocaine in the setting of cocaine-induced myocardial infarction (MI). DESIGN: A retrospective, multicenter study. SETTING: Twenty-nine university, university-affiliated, or community hospitals during a 6-year period (total of 117 cumulative hospital-years). PARTICIPANTS: Patients with cocaine-associated MI who received lidocaine in the emergency department. RESULTS: Of 29 patients who received lidocaine in the setting of cocaine-associated MI, no patient died; exhibited bradydysrhythmias, ventricular tachycardia, or ventricular fibrillation; or experienced seizures after administration of lidocaine (95% confidence interval, 0% to 11%). CONCLUSION: Despite theoretical concerns that lidocaine may enhance cocaine toxicity, the use of lidocaine in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity.",
+    "pubmed_id": "7492040",
+    "entities": [
+        [
+            19,
+            28,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            46,
+            53,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            65,
+            86,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            131,
+            140,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            159,
+            166,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            175,
+            196,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            198,
+            200,
+            "MI",
+            "Disease",
+            "D009203"
+        ],
+        [
+            419,
+            426,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            438,
+            440,
+            "MI",
+            "Disease",
+            "D009203"
+        ],
+        [
+            454,
+            463,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            530,
+            539,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            558,
+            565,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            577,
+            579,
+            "MI",
+            "Disease",
+            "D009203"
+        ],
+        [
+            608,
+            625,
+            "bradydysrhythmias",
+            "Disease",
+            "D001919"
+        ],
+        [
+            627,
+            650,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ],
+        [
+            655,
+            679,
+            "ventricular fibrillation",
+            "Disease",
+            "D014693"
+        ],
+        [
+            696,
+            704,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            729,
+            738,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            823,
+            832,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            845,
+            852,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            853,
+            861,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            874,
+            883,
+            "lidocaine",
+            "Chemical",
+            "D008012"
+        ],
+        [
+            901,
+            908,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            920,
+            922,
+            "MI",
+            "Disease",
+            "D009203"
+        ]
+    ],
+    "split_sentence": [
+        "Clinical safety of lidocaine in patients with cocaine-associated myocardial infarction.",
+        "STUDY OBJECTIVE: To evaluate the safety of lidocaine in the setting of cocaine-induced myocardial infarction (MI).",
+        "DESIGN: A retrospective, multicenter study.",
+        "SETTING: Twenty-nine university, university-affiliated, or community hospitals during a 6-year period (total of 117 cumulative hospital-years).",
+        "PARTICIPANTS: Patients with cocaine-associated MI who received lidocaine in the emergency department.",
+        "RESULTS: Of 29 patients who received lidocaine in the setting of cocaine-associated MI, no patient died; exhibited bradydysrhythmias, ventricular tachycardia, or ventricular fibrillation; or experienced seizures after administration of lidocaine (95% confidence interval, 0% to 11%).",
+        "CONCLUSION: Despite theoretical concerns that lidocaine may enhance cocaine toxicity, the use of lidocaine in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008012\tChemical\tlidocaine\tClinical safety of <target> lidocaine </target> in patients with cocaine-associated myocardial infarction .",
+        "D003042\tChemical\tcocaine\tClinical safety of lidocaine in patients with <target> cocaine </target> -associated myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tClinical safety of lidocaine in patients with cocaine-associated <target> myocardial infarction </target> .",
+        "D008012\tChemical\tlidocaine\tSTUDY OBJECTIVE : To evaluate the safety of <target> lidocaine </target> in the setting of cocaine-induced myocardial infarction ( MI ) .",
+        "D003042\tChemical\tcocaine\tSTUDY OBJECTIVE : To evaluate the safety of lidocaine in the setting of <target> cocaine </target> -induced myocardial infarction ( MI ) .",
+        "D009203\tDisease\tmyocardial infarction\tSTUDY OBJECTIVE : To evaluate the safety of lidocaine in the setting of cocaine-induced <target> myocardial infarction </target> ( MI ) .",
+        "D009203\tDisease\tMI\tSTUDY OBJECTIVE : To evaluate the safety of lidocaine in the setting of cocaine-induced myocardial infarction ( <target> MI </target> ) .",
+        "D003042\tChemical\tcocaine\tPARTICIPANTS : Patients with <target> cocaine </target> -associated MI who received lidocaine in the emergency department .",
+        "D009203\tDisease\tMI\tPARTICIPANTS : Patients with cocaine-associated <target> MI </target> who received lidocaine in the emergency department .",
+        "D008012\tChemical\tlidocaine\tPARTICIPANTS : Patients with cocaine-associated MI who received <target> lidocaine </target> in the emergency department .",
+        "D008012\tChemical\tlidocaine\tRESULTS : Of 29 patients who received <target> lidocaine </target> in the setting of cocaine-associated MI , no patient died ; exhibited bradydysrhythmias , ventricular tachycardia , or ventricular fibrillation ; or experienced seizures after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D003042\tChemical\tcocaine\tRESULTS : Of 29 patients who received lidocaine in the setting of <target> cocaine </target> -associated MI , no patient died ; exhibited bradydysrhythmias , ventricular tachycardia , or ventricular fibrillation ; or experienced seizures after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D009203\tDisease\tMI\tRESULTS : Of 29 patients who received lidocaine in the setting of cocaine-associated <target> MI </target> , no patient died ; exhibited bradydysrhythmias , ventricular tachycardia , or ventricular fibrillation ; or experienced seizures after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D001919\tDisease\tbradydysrhythmias\tRESULTS : Of 29 patients who received lidocaine in the setting of cocaine-associated MI , no patient died ; exhibited <target> bradydysrhythmias </target> , ventricular tachycardia , or ventricular fibrillation ; or experienced seizures after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D017180\tDisease\tventricular tachycardia\tRESULTS : Of 29 patients who received lidocaine in the setting of cocaine-associated MI , no patient died ; exhibited bradydysrhythmias , <target> ventricular tachycardia </target> , or ventricular fibrillation ; or experienced seizures after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D014693\tDisease\tventricular fibrillation\tRESULTS : Of 29 patients who received lidocaine in the setting of cocaine-associated MI , no patient died ; exhibited bradydysrhythmias , ventricular tachycardia , or <target> ventricular fibrillation </target> ; or experienced seizures after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D012640\tDisease\tseizures\tRESULTS : Of 29 patients who received lidocaine in the setting of cocaine-associated MI , no patient died ; exhibited bradydysrhythmias , ventricular tachycardia , or ventricular fibrillation ; or experienced <target> seizures </target> after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D008012\tChemical\tlidocaine\tRESULTS : Of 29 patients who received lidocaine in the setting of cocaine-associated MI , no patient died ; exhibited bradydysrhythmias , ventricular tachycardia , or ventricular fibrillation ; or experienced seizures after administration of <target> lidocaine </target> ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D008012\tChemical\tlidocaine\tCONCLUSION : Despite theoretical concerns that <target> lidocaine </target> may enhance cocaine toxicity , the use of lidocaine in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity .",
+        "D003042\tChemical\tcocaine\tCONCLUSION : Despite theoretical concerns that lidocaine may enhance <target> cocaine </target> toxicity , the use of lidocaine in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity .",
+        "D064420\tDisease\ttoxicity\tCONCLUSION : Despite theoretical concerns that lidocaine may enhance cocaine <target> toxicity </target> , the use of lidocaine in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity .",
+        "D008012\tChemical\tlidocaine\tCONCLUSION : Despite theoretical concerns that lidocaine may enhance cocaine toxicity , the use of <target> lidocaine </target> in patients with cocaine-associated MI was not associated with significant cardiovascular or central nervous system toxicity .",
+        "D003042\tChemical\tcocaine\tCONCLUSION : Despite theoretical concerns that lidocaine may enhance cocaine toxicity , the use of lidocaine in patients with <target> cocaine </target> -associated MI was not associated with significant cardiovascular or central nervous system toxicity .",
+        "D009203\tDisease\tMI\tCONCLUSION : Despite theoretical concerns that lidocaine may enhance cocaine toxicity , the use of lidocaine in patients with cocaine-associated <target> MI </target> was not associated with significant cardiovascular or central nervous system toxicity ."
+    ],
+    "lines_lemma": [
+        "D008012\tChemical\tlidocaine\tclinical safety of <target> lidocaine </target> in patient with cocaine-associated myocardial infarction .",
+        "D003042\tChemical\tcocaine\tclinical safety of lidocaine in patient with <target> cocaine </target> -associated myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tclinical safety of lidocaine in patient with cocaine-associated <target> myocardial infarction </target> .",
+        "D008012\tChemical\tlidocaine\tstudy objective : to evaluate the safety of <target> lidocaine </target> in the setting of cocaine-induced myocardial infarction ( mi ) .",
+        "D003042\tChemical\tcocaine\tstudy objective : to evaluate the safety of lidocaine in the setting of <target> cocaine </target> -induced myocardial infarction ( mi ) .",
+        "D009203\tDisease\tmyocardial infarction\tstudy objective : to evaluate the safety of lidocaine in the setting of cocaine-induced <target> myocardial infarction </target> ( mi ) .",
+        "D009203\tDisease\tMI\tstudy objective : to evaluate the safety of lidocaine in the setting of cocaine-induced myocardial infarction ( <target> mi </target> ) .",
+        "D003042\tChemical\tcocaine\tparticipant : patient with <target> cocaine </target> -associated MI who receive lidocaine in the emergency department .",
+        "D009203\tDisease\tMI\tparticipant : patient with cocaine-associated <target> mi </target> who receive lidocaine in the emergency department .",
+        "D008012\tChemical\tlidocaine\tparticipant : patient with cocaine-associated mi who receive <target> lidocaine </target> in the emergency department .",
+        "D008012\tChemical\tlidocaine\tresult : of 29 patient who receive <target> lidocaine </target> in the setting of cocaine-associated mi , no patient die ; exhibit bradydysrhythmia , ventricular tachycardia , or ventricular fibrillation ; or experienced seizure after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D003042\tChemical\tcocaine\tresult : of 29 patient who receive lidocaine in the setting of <target> cocaine </target> -associated mi , no patient die ; exhibit bradydysrhythmia , ventricular tachycardia , or ventricular fibrillation ; or experienced seizure after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D009203\tDisease\tMI\tresult : of 29 patient who receive lidocaine in the setting of cocaine-associated <target> mi </target> , no patient die ; exhibit bradydysrhythmia , ventricular tachycardia , or ventricular fibrillation ; or experienced seizure after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D001919\tDisease\tbradydysrhythmias\tresult : of 29 patient who receive lidocaine in the setting of cocaine-associated mi , no patient die ; exhibit <target> bradydysrhythmia </target> , ventricular tachycardia , or ventricular fibrillation ; or experienced seizure after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D017180\tDisease\tventricular tachycardia\tresult : of 29 patient who receive lidocaine in the setting of cocaine-associated mi , no patient die ; exhibit bradydysrhythmia , <target> ventricular tachycardia </target> , or ventricular fibrillation ; or experienced seizure after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D014693\tDisease\tventricular fibrillation\tresult : of 29 patient who receive lidocaine in the setting of cocaine-associated mi , no patient die ; exhibit bradydysrhythmia , ventricular tachycardia , or <target> ventricular fibrillation </target> ; or experience seizure after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D012640\tDisease\tseizures\tresult : of 29 patient who receive lidocaine in the setting of cocaine-associated mi , no patient die ; exhibit bradydysrhythmia , ventricular tachycardia , or ventricular fibrillation ; or experience <target> seizure </target> after administration of lidocaine ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D008012\tChemical\tlidocaine\tresult : of 29 patient who receive lidocaine in the setting of cocaine-associated mi , no patient die ; exhibit bradydysrhythmia , ventricular tachycardia , or ventricular fibrillation ; or experienced seizure after administration of <target> lidocaine </target> ( 95 % confidence interval , 0 % to 11 % ) .",
+        "D008012\tChemical\tlidocaine\tconclusion : despite theoretical concern that <target> lidocaine </target> may enhance cocaine toxicity , the use of lidocaine in patient with cocaine-associated mi be not associate with significant cardiovascular or central nervous system toxicity .",
+        "D003042\tChemical\tcocaine\tconclusion : despite theoretical concern that lidocaine may enhance <target> cocaine </target> toxicity , the use of lidocaine in patient with cocaine-associated mi be not associate with significant cardiovascular or central nervous system toxicity .",
+        "D064420\tDisease\ttoxicity\tconclusion : despite theoretical concern that lidocaine may enhance cocaine <target> toxicity </target> , the use of lidocaine in patient with cocaine-associated mi be not associate with significant cardiovascular or central nervous system toxicity .",
+        "D008012\tChemical\tlidocaine\tconclusion : despite theoretical concern that lidocaine may enhance cocaine toxicity , the use of <target> lidocaine </target> in patient with cocaine-associated mi be not associate with significant cardiovascular or central nervous system toxicity .",
+        "D003042\tChemical\tcocaine\tconclusion : despite theoretical concern that lidocaine may enhance cocaine toxicity , the use of lidocaine in patient with <target> cocaine </target> -associated MI be not associate with significant cardiovascular or central nervous system toxicity .",
+        "D009203\tDisease\tMI\tconclusion : despite theoretical concern that lidocaine may enhance cocaine toxicity , the use of lidocaine in patient with cocaine-associated <target> mi </target> be not associate with significant cardiovascular or central nervous system toxicity ."
+    ]
+}

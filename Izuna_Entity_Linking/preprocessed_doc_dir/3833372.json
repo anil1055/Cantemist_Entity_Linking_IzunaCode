@@ -1,0 +1,122 @@
+{
+    "title": "Postmarketing study of timolol-hydrochlorothiazide antihypertensive therapy.",
+    "abst": "A postmarketing surveillance study was conducted to determine the safety and efficacy of a fixed-ratio combination containing 10 mg of timolol maleate and 25 mg of hydrochlorothiazide, administered twice daily for one month to hypertensive patients. Data on 9,037 patients were collected by 1,455 participating physicians. Mean systolic blood pressure decreased 25 mmHg and mean diastolic blood pressure declined 15 mmHg after one month of timolol-hydrochlorothiazide therapy (P less than 0.01, both comparisons). Age, race, and sex appeared to have no influence on the decrease in blood pressure. The antihypertensive effect of the drug was greater in patients with more severe hypertension. Overall, 1,453 patients experienced a total of 2,658 adverse events, the most common being fatigue, dizziness, and weakness. Treatment in 590 patients was discontinued because of adverse events.",
+    "title_plus_abst": "Postmarketing study of timolol-hydrochlorothiazide antihypertensive therapy. A postmarketing surveillance study was conducted to determine the safety and efficacy of a fixed-ratio combination containing 10 mg of timolol maleate and 25 mg of hydrochlorothiazide, administered twice daily for one month to hypertensive patients. Data on 9,037 patients were collected by 1,455 participating physicians. Mean systolic blood pressure decreased 25 mmHg and mean diastolic blood pressure declined 15 mmHg after one month of timolol-hydrochlorothiazide therapy (P less than 0.01, both comparisons). Age, race, and sex appeared to have no influence on the decrease in blood pressure. The antihypertensive effect of the drug was greater in patients with more severe hypertension. Overall, 1,453 patients experienced a total of 2,658 adverse events, the most common being fatigue, dizziness, and weakness. Treatment in 590 patients was discontinued because of adverse events.",
+    "pubmed_id": "3833372",
+    "entities": [
+        [
+            23,
+            30,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            31,
+            50,
+            "hydrochlorothiazide",
+            "Chemical",
+            "D006852"
+        ],
+        [
+            212,
+            227,
+            "timolol maleate",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            241,
+            260,
+            "hydrochlorothiazide",
+            "Chemical",
+            "D006852"
+        ],
+        [
+            304,
+            316,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            517,
+            524,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            525,
+            544,
+            "hydrochlorothiazide",
+            "Chemical",
+            "D006852"
+        ],
+        [
+            756,
+            768,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            861,
+            868,
+            "fatigue",
+            "Disease",
+            "D005221"
+        ],
+        [
+            870,
+            879,
+            "dizziness",
+            "Disease",
+            "D004244"
+        ],
+        [
+            885,
+            893,
+            "weakness",
+            "Disease",
+            "D018908"
+        ]
+    ],
+    "split_sentence": [
+        "Postmarketing study of timolol-hydrochlorothiazide antihypertensive therapy.",
+        "A postmarketing surveillance study was conducted to determine the safety and efficacy of a fixed-ratio combination containing 10 mg of timolol maleate and 25 mg of hydrochlorothiazide, administered twice daily for one month to hypertensive patients.",
+        "Data on 9,037 patients were collected by 1,455 participating physicians.",
+        "Mean systolic blood pressure decreased 25 mmHg and mean diastolic blood pressure declined 15 mmHg after one month of timolol-hydrochlorothiazide therapy (P less than 0.01, both comparisons).",
+        "Age, race, and sex appeared to have no influence on the decrease in blood pressure.",
+        "The antihypertensive effect of the drug was greater in patients with more severe hypertension.",
+        "Overall, 1,453 patients experienced a total of 2,658 adverse events, the most common being fatigue, dizziness, and weakness.",
+        "Treatment in 590 patients was discontinued because of adverse events."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013999\tChemical\ttimolol\tPostmarketing study of <target> timolol </target> -hydrochlorothiazide antihypertensive therapy .",
+        "D006852\tChemical\thydrochlorothiazide\tPostmarketing study of timolol- <target> hydrochlorothiazide </target> antihypertensive therapy .",
+        "D013999\tChemical\ttimolol maleate\tA postmarketing surveillance study was conducted to determine the safety and efficacy of a fixed-ratio combination containing 10 mg of <target> timolol maleate </target> and 25 mg of hydrochlorothiazide , administered twice daily for one month to hypertensive patients .",
+        "D006852\tChemical\thydrochlorothiazide\tA postmarketing surveillance study was conducted to determine the safety and efficacy of a fixed-ratio combination containing 10 mg of timolol maleate and 25 mg of <target> hydrochlorothiazide </target> , administered twice daily for one month to hypertensive patients .",
+        "D006973\tDisease\thypertensive\tA postmarketing surveillance study was conducted to determine the safety and efficacy of a fixed-ratio combination containing 10 mg of timolol maleate and 25 mg of hydrochlorothiazide , administered twice daily for one month to <target> hypertensive </target> patients .",
+        "D013999\tChemical\ttimolol\tMean systolic blood pressure decreased 25 mmHg and mean diastolic blood pressure declined 15 mmHg after one month of <target> timolol </target> -hydrochlorothiazide therapy ( P less than 0.01 , both comparisons ) .",
+        "D006852\tChemical\thydrochlorothiazide\tMean systolic blood pressure decreased 25 mmHg and mean diastolic blood pressure declined 15 mmHg after one month of timolol- <target> hydrochlorothiazide </target> therapy ( P less than 0.01 , both comparisons ) .",
+        "D006973\tDisease\thypertension\tThe antihypertensive effect of the drug was greater in patients with more severe <target> hypertension </target> .",
+        "D005221\tDisease\tfatigue\tOverall , 1,453 patients experienced a total of 2,658 adverse events , the most common being <target> fatigue </target> , dizziness , and weakness .",
+        "D004244\tDisease\tdizziness\tOverall , 1,453 patients experienced a total of 2,658 adverse events , the most common being fatigue , <target> dizziness </target> , and weakness .",
+        "D018908\tDisease\tweakness\tOverall , 1,453 patients experienced a total of 2,658 adverse events , the most common being fatigue , dizziness , and <target> weakness </target> ."
+    ],
+    "lines_lemma": [
+        "D013999\tChemical\ttimolol\tpostmarketing study of <target> timolol </target> -hydrochlorothiazide antihypertensive therapy .",
+        "D006852\tChemical\thydrochlorothiazide\tpostmarketing study of timolol- <target> hydrochlorothiazide </target> antihypertensive therapy .",
+        "D013999\tChemical\ttimolol maleate\ta postmarketing surveillance study be conduct to determine the safety and efficacy of a fixed-ratio combination contain 10 mg of <target> timolol maleate </target> and 25 mg of hydrochlorothiazide , administer twice daily for one month to hypertensive patient .",
+        "D006852\tChemical\thydrochlorothiazide\ta postmarketing surveillance study be conduct to determine the safety and efficacy of a fixed-ratio combination contain 10 mg of timolol maleate and 25 mg of <target> hydrochlorothiazide </target> , administer twice daily for one month to hypertensive patient .",
+        "D006973\tDisease\thypertensive\ta postmarketing surveillance study be conduct to determine the safety and efficacy of a fixed-ratio combination contain 10 mg of timolol maleate and 25 mg of hydrochlorothiazide , administer twice daily for one month to <target> hypertensive </target> patient .",
+        "D013999\tChemical\ttimolol\tmean systolic blood pressure decrease 25 mmhg and mean diastolic blood pressure decline 15 mmhg after one month of <target> timolol </target> -hydrochlorothiazide therapy ( p less than 0.01 , both comparison ) .",
+        "D006852\tChemical\thydrochlorothiazide\tmean systolic blood pressure decrease 25 mmhg and mean diastolic blood pressure decline 15 mmhg after one month of timolol- <target> hydrochlorothiazide </target> therapy ( p less than 0.01 , both comparison ) .",
+        "D006973\tDisease\thypertension\tthe antihypertensive effect of the drug be great in patient with more severe <target> hypertension </target> .",
+        "D005221\tDisease\tfatigue\toverall , 1,453 patient experience a total of 2,658 adverse event , the most common be <target> fatigue </target> , dizziness , and weakness .",
+        "D004244\tDisease\tdizziness\toverall , 1,453 patient experience a total of 2,658 adverse event , the most common be fatigue , <target> dizziness </target> , and weakness .",
+        "D018908\tDisease\tweakness\toverall , 1,453 patient experience a total of 2,658 adverse event , the most common be fatigue , dizziness , and <target> weakness </target> ."
+    ]
+}

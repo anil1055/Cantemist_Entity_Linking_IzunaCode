@@ -1,0 +1,128 @@
+{
+    "title": "Indomethacin-induced renal insufficiency: recurrence on rechallenge.",
+    "abst": "We have reported a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis, ascites, and cor pulmonale after indomethacin therapy. Prompt restoration of renal function followed drug withdrawal, while re-exposure to a single dose of indomethacin caused recurrence of acute reversible oliguria. Our case supports the hypothesis that endogenous renal prostaglandins play a role in the maintenance of renal blood flow when circulating plasma volume is diminished. Since nonsteroidal anti-inflammatory agents interfere with this compensatory mechanism and may cause acute renal failure, they should be used with caution in such patients.",
+    "title_plus_abst": "Indomethacin-induced renal insufficiency: recurrence on rechallenge. We have reported a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis, ascites, and cor pulmonale after indomethacin therapy. Prompt restoration of renal function followed drug withdrawal, while re-exposure to a single dose of indomethacin caused recurrence of acute reversible oliguria. Our case supports the hypothesis that endogenous renal prostaglandins play a role in the maintenance of renal blood flow when circulating plasma volume is diminished. Since nonsteroidal anti-inflammatory agents interfere with this compensatory mechanism and may cause acute renal failure, they should be used with caution in such patients.",
+    "pubmed_id": "4071154",
+    "entities": [
+        [
+            0,
+            12,
+            "Indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            21,
+            40,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ],
+        [
+            111,
+            124,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            130,
+            142,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            161,
+            170,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            172,
+            179,
+            "ascites",
+            "Disease",
+            "D001201"
+        ],
+        [
+            185,
+            198,
+            "cor pulmonale",
+            "Disease",
+            "D011660"
+        ],
+        [
+            205,
+            217,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            328,
+            340,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            379,
+            387,
+            "oliguria",
+            "Disease",
+            "D009846"
+        ],
+        [
+            444,
+            458,
+            "prostaglandins",
+            "Chemical",
+            "D011453"
+        ],
+        [
+            657,
+            676,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ]
+    ],
+    "split_sentence": [
+        "Indomethacin-induced renal insufficiency: recurrence on rechallenge.",
+        "We have reported a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis, ascites, and cor pulmonale after indomethacin therapy.",
+        "Prompt restoration of renal function followed drug withdrawal, while re-exposure to a single dose of indomethacin caused recurrence of acute reversible oliguria.",
+        "Our case supports the hypothesis that endogenous renal prostaglandins play a role in the maintenance of renal blood flow when circulating plasma volume is diminished.",
+        "Since nonsteroidal anti-inflammatory agents interfere with this compensatory mechanism and may cause acute renal failure, they should be used with caution in such patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007213\tChemical\tIndomethacin\t<target> Indomethacin </target> -induced renal insufficiency : recurrence on rechallenge .",
+        "D051437\tDisease\trenal insufficiency\tIndomethacin-induced <target> renal insufficiency </target> : recurrence on rechallenge .",
+        "D051437\tDisease\trenal failure\tWe have reported a case of acute oliguric <target> renal failure </target> with hyperkalemia in a patient with cirrhosis , ascites , and cor pulmonale after indomethacin therapy .",
+        "D006947\tDisease\thyperkalemia\tWe have reported a case of acute oliguric renal failure with <target> hyperkalemia </target> in a patient with cirrhosis , ascites , and cor pulmonale after indomethacin therapy .",
+        "D005355\tDisease\tcirrhosis\tWe have reported a case of acute oliguric renal failure with hyperkalemia in a patient with <target> cirrhosis </target> , ascites , and cor pulmonale after indomethacin therapy .",
+        "D001201\tDisease\tascites\tWe have reported a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis , <target> ascites </target> , and cor pulmonale after indomethacin therapy .",
+        "D011660\tDisease\tcor pulmonale\tWe have reported a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis , ascites , and <target> cor pulmonale </target> after indomethacin therapy .",
+        "D007213\tChemical\tindomethacin\tWe have reported a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis , ascites , and cor pulmonale after <target> indomethacin </target> therapy .",
+        "D007213\tChemical\tindomethacin\tPrompt restoration of renal function followed drug withdrawal , while re-exposure to a single dose of <target> indomethacin </target> caused recurrence of acute reversible oliguria .",
+        "D009846\tDisease\toliguria\tPrompt restoration of renal function followed drug withdrawal , while re-exposure to a single dose of indomethacin caused recurrence of acute reversible <target> oliguria </target> .",
+        "D011453\tChemical\tprostaglandins\tOur case supports the hypothesis that endogenous renal <target> prostaglandins </target> play a role in the maintenance of renal blood flow when circulating plasma volume is diminished .",
+        "D058186\tDisease\tacute renal failure\tSince nonsteroidal anti-inflammatory agents interfere with this compensatory mechanism and may cause <target> acute renal failure </target> , they should be used with caution in such patients ."
+    ],
+    "lines_lemma": [
+        "D007213\tChemical\tIndomethacin\t<target> indomethacin </target> -induced renal insufficiency : recurrence on rechallenge .",
+        "D051437\tDisease\trenal insufficiency\tindomethacin-induced <target> renal insufficiency </target> : recurrence on rechallenge .",
+        "D051437\tDisease\trenal failure\twe have report a case of acute oliguric <target> renal failure </target> with hyperkalemia in a patient with cirrhosis , ascite , and cor pulmonale after indomethacin therapy .",
+        "D006947\tDisease\thyperkalemia\twe have report a case of acute oliguric renal failure with <target> hyperkalemia </target> in a patient with cirrhosis , ascite , and cor pulmonale after indomethacin therapy .",
+        "D005355\tDisease\tcirrhosis\twe have report a case of acute oliguric renal failure with hyperkalemia in a patient with <target> cirrhosis </target> , ascite , and cor pulmonale after indomethacin therapy .",
+        "D001201\tDisease\tascites\twe have report a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis , <target> ascite </target> , and cor pulmonale after indomethacin therapy .",
+        "D011660\tDisease\tcor pulmonale\twe have report a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis , ascite , and <target> cor pulmonale </target> after indomethacin therapy .",
+        "D007213\tChemical\tindomethacin\twe have report a case of acute oliguric renal failure with hyperkalemia in a patient with cirrhosis , ascite , and cor pulmonale after <target> indomethacin </target> therapy .",
+        "D007213\tChemical\tindomethacin\tprompt restoration of renal function follow drug withdrawal , while re-exposure to a single dose of <target> indomethacin </target> cause recurrence of acute reversible oliguria .",
+        "D009846\tDisease\toliguria\tprompt restoration of renal function follow drug withdrawal , while re-exposure to a single dose of indomethacin cause recurrence of acute reversible <target> oliguria </target> .",
+        "D011453\tChemical\tprostaglandins\tour case support the hypothesis that endogenous renal <target> prostaglandin </target> play a role in the maintenance of renal blood flow when circulate plasma volume be diminish .",
+        "D058186\tDisease\tacute renal failure\tsince nonsteroidal anti-inflammatory agent interfere with this compensatory mechanism and may cause <target> acute renal failure </target> , they should be use with caution in such patient ."
+    ]
+}

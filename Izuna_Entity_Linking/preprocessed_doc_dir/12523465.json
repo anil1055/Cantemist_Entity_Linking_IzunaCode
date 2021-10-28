@@ -1,0 +1,133 @@
+{
+    "title": "Visual hallucinations associated with zonisamide.",
+    "abst": "Zonisamide is a broad-spectrum antiepileptic drug used to treat various types of seizures. Although visual hallucinations have not been reported as an adverse effect of this agent, we describe three patients who experienced complex visual hallucinations and altered mental status after zonisamide treatment was begun or its dosage increased. All three had been diagnosed earlier with epilepsy, and their electroencephalogram (EEG) findings were abnormal. During monitoring, visual hallucinations did not correlate with EEG readings, nor did video recording capture any of the described events. None of the patients had experienced visual hallucinations before this event. The only recent change in their treatment was the introduction or increased dosage of zonisamide. With either discontinuation or decreased dosage of the drug the symptoms disappeared and did not recur. Further observations and reports will help clarify this adverse effect. Until then, clinicians need to be aware of this possible complication associated with zonisamide.",
+    "title_plus_abst": "Visual hallucinations associated with zonisamide. Zonisamide is a broad-spectrum antiepileptic drug used to treat various types of seizures. Although visual hallucinations have not been reported as an adverse effect of this agent, we describe three patients who experienced complex visual hallucinations and altered mental status after zonisamide treatment was begun or its dosage increased. All three had been diagnosed earlier with epilepsy, and their electroencephalogram (EEG) findings were abnormal. During monitoring, visual hallucinations did not correlate with EEG readings, nor did video recording capture any of the described events. None of the patients had experienced visual hallucinations before this event. The only recent change in their treatment was the introduction or increased dosage of zonisamide. With either discontinuation or decreased dosage of the drug the symptoms disappeared and did not recur. Further observations and reports will help clarify this adverse effect. Until then, clinicians need to be aware of this possible complication associated with zonisamide.",
+    "pubmed_id": "12523465",
+    "entities": [
+        [
+            0,
+            21,
+            "Visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            38,
+            48,
+            "zonisamide",
+            "Chemical",
+            "C022189"
+        ],
+        [
+            50,
+            60,
+            "Zonisamide",
+            "Chemical",
+            "C022189"
+        ],
+        [
+            131,
+            139,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            150,
+            171,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            282,
+            303,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            336,
+            346,
+            "zonisamide",
+            "Chemical",
+            "C022189"
+        ],
+        [
+            434,
+            442,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            524,
+            545,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            681,
+            702,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            808,
+            818,
+            "zonisamide",
+            "Chemical",
+            "C022189"
+        ],
+        [
+            1082,
+            1092,
+            "zonisamide",
+            "Chemical",
+            "C022189"
+        ]
+    ],
+    "split_sentence": [
+        "Visual hallucinations associated with zonisamide.",
+        "Zonisamide is a broad-spectrum antiepileptic drug used to treat various types of seizures.",
+        "Although visual hallucinations have not been reported as an adverse effect of this agent, we describe three patients who experienced complex visual hallucinations and altered mental status after zonisamide treatment was begun or its dosage increased.",
+        "All three had been diagnosed earlier with epilepsy, and their electroencephalogram (EEG) findings were abnormal.",
+        "During monitoring, visual hallucinations did not correlate with EEG readings, nor did video recording capture any of the described events.",
+        "None of the patients had experienced visual hallucinations before this event.",
+        "The only recent change in their treatment was the introduction or increased dosage of zonisamide.",
+        "With either discontinuation or decreased dosage of the drug the symptoms disappeared and did not recur.",
+        "Further observations and reports will help clarify this adverse effect.",
+        "Until then, clinicians need to be aware of this possible complication associated with zonisamide."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006212\tDisease\tVisual hallucinations\t<target> Visual hallucinations </target> associated with zonisamide .",
+        "C022189\tChemical\tzonisamide\tVisual hallucinations associated with <target> zonisamide </target> .",
+        "C022189\tChemical\tZonisamide\t<target> Zonisamide </target> is a broad-spectrum antiepileptic drug used to treat various types of seizures .",
+        "D012640\tDisease\tseizures\tZonisamide is a broad-spectrum antiepileptic drug used to treat various types of <target> seizures </target> .",
+        "D006212\tDisease\tvisual hallucinations\tAlthough <target> visual hallucinations </target> have not been reported as an adverse effect of this agent , we describe three patients who experienced complex visual hallucinations and altered mental status after zonisamide treatment was begun or its dosage increased .",
+        "D006212\tDisease\tvisual hallucinations\tAlthough visual hallucinations have not been reported as an adverse effect of this agent , we describe three patients who experienced complex <target> visual hallucinations </target> and altered mental status after zonisamide treatment was begun or its dosage increased .",
+        "C022189\tChemical\tzonisamide\tAlthough visual hallucinations have not been reported as an adverse effect of this agent , we describe three patients who experienced complex visual hallucinations and altered mental status after <target> zonisamide </target> treatment was begun or its dosage increased .",
+        "D004827\tDisease\tepilepsy\tAll three had been diagnosed earlier with <target> epilepsy </target> , and their electroencephalogram ( EEG ) findings were abnormal .",
+        "D006212\tDisease\tvisual hallucinations\tDuring monitoring , <target> visual hallucinations </target> did not correlate with EEG readings , nor did video recording capture any of the described events .",
+        "D006212\tDisease\tvisual hallucinations\tNone of the patients had experienced <target> visual hallucinations </target> before this event .",
+        "C022189\tChemical\tzonisamide\tThe only recent change in their treatment was the introduction or increased dosage of <target> zonisamide </target> .",
+        "C022189\tChemical\tzonisamide\tUntil then , clinicians need to be aware of this possible complication associated with <target> zonisamide </target> ."
+    ],
+    "lines_lemma": [
+        "D006212\tDisease\tVisual hallucinations\t<target> visual hallucination </target> associate with zonisamide .",
+        "C022189\tChemical\tzonisamide\tvisual hallucination associate with <target> zonisamide </target> .",
+        "C022189\tChemical\tZonisamide\t<target> Zonisamide </target> be a broad-spectrum antiepileptic drug use to treat various type of seizure .",
+        "D012640\tDisease\tseizures\tZonisamide be a broad-spectrum antiepileptic drug use to treat various type of <target> seizure </target> .",
+        "D006212\tDisease\tvisual hallucinations\talthough <target> visual hallucination </target> have not be report as an adverse effect of this agent , we describe three patient who experience complex visual hallucination and altered mental status after zonisamide treatment be begin or its dosage increase .",
+        "D006212\tDisease\tvisual hallucinations\talthough visual hallucination have not be report as an adverse effect of this agent , we describe three patient who experience complex <target> visual hallucination </target> and altered mental status after zonisamide treatment be begin or its dosage increase .",
+        "C022189\tChemical\tzonisamide\talthough visual hallucination have not be report as an adverse effect of this agent , we describe three patient who experience complex visual hallucination and altered mental status after <target> zonisamide </target> treatment be begin or its dosage increase .",
+        "D004827\tDisease\tepilepsy\tall three have be diagnose early with <target> epilepsy </target> , and their electroencephalogram ( eeg ) finding be abnormal .",
+        "D006212\tDisease\tvisual hallucinations\tduring monitoring , <target> visual hallucination </target> do not correlate with eeg reading , nor do video recording capture any of the describe event .",
+        "D006212\tDisease\tvisual hallucinations\tnone of the patient have experience <target> visual hallucination </target> before this event .",
+        "C022189\tChemical\tzonisamide\tthe only recent change in their treatment be the introduction or increase dosage of <target> zonisamide </target> .",
+        "C022189\tChemical\tzonisamide\tuntil then , clinician need to be aware of this possible complication associate with <target> zonisamide </target> ."
+    ]
+}

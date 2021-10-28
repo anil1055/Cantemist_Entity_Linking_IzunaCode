@@ -1,0 +1,122 @@
+{
+    "title": "Peri-operative atrioventricular block as a result of chemotherapy with epirubicin and paclitaxel.",
+    "abst": "A 47-year-old woman presented for mastectomy and immediate latissimus dorsi flap reconstruction having been diagnosed with carcinoma of the breast 6 months previously. In the preceding months she had received neo-adjuvant chemotherapy with epirubicin, paclitaxel (Taxol) and cyclophosphamide. This had been apparently uncomplicated and she had maintained a remarkably high level of physical activity. She was found to be bradycardic at pre-operative assessment but had no cardiac symptoms. Second degree Mobitz type II atrioventricular block was diagnosed on electrocardiogram, and temporary transvenous ventricular pacing instituted in the peri-operative period. We discuss how evidence-based guidelines would not have been helpful in this case, and how chemotherapy can exhibit substantial cardiotoxicity that may develop over many years. We suggest that patients who have received chemotherapy at any time should have a pre-operative electrocardiogram even if they are asymptomatic.",
+    "title_plus_abst": "Peri-operative atrioventricular block as a result of chemotherapy with epirubicin and paclitaxel. A 47-year-old woman presented for mastectomy and immediate latissimus dorsi flap reconstruction having been diagnosed with carcinoma of the breast 6 months previously. In the preceding months she had received neo-adjuvant chemotherapy with epirubicin, paclitaxel (Taxol) and cyclophosphamide. This had been apparently uncomplicated and she had maintained a remarkably high level of physical activity. She was found to be bradycardic at pre-operative assessment but had no cardiac symptoms. Second degree Mobitz type II atrioventricular block was diagnosed on electrocardiogram, and temporary transvenous ventricular pacing instituted in the peri-operative period. We discuss how evidence-based guidelines would not have been helpful in this case, and how chemotherapy can exhibit substantial cardiotoxicity that may develop over many years. We suggest that patients who have received chemotherapy at any time should have a pre-operative electrocardiogram even if they are asymptomatic.",
+    "pubmed_id": "17223814",
+    "entities": [
+        [
+            15,
+            37,
+            "atrioventricular block",
+            "Disease",
+            "D054537"
+        ],
+        [
+            71,
+            81,
+            "epirubicin",
+            "Chemical",
+            "D015251"
+        ],
+        [
+            86,
+            96,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            221,
+            244,
+            "carcinoma of the breast",
+            "Disease",
+            "D001943"
+        ],
+        [
+            338,
+            348,
+            "epirubicin",
+            "Chemical",
+            "D015251"
+        ],
+        [
+            350,
+            360,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            362,
+            367,
+            "Taxol",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            373,
+            389,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            519,
+            530,
+            "bradycardic",
+            "Disease",
+            "D001919"
+        ],
+        [
+            617,
+            639,
+            "atrioventricular block",
+            "Disease",
+            "D054537"
+        ],
+        [
+            890,
+            904,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ]
+    ],
+    "split_sentence": [
+        "Peri-operative atrioventricular block as a result of chemotherapy with epirubicin and paclitaxel.",
+        "A 47-year-old woman presented for mastectomy and immediate latissimus dorsi flap reconstruction having been diagnosed with carcinoma of the breast 6 months previously.",
+        "In the preceding months she had received neo-adjuvant chemotherapy with epirubicin, paclitaxel (Taxol) and cyclophosphamide.",
+        "This had been apparently uncomplicated and she had maintained a remarkably high level of physical activity.",
+        "She was found to be bradycardic at pre-operative assessment but had no cardiac symptoms.",
+        "Second degree Mobitz type II atrioventricular block was diagnosed on electrocardiogram, and temporary transvenous ventricular pacing instituted in the peri-operative period.",
+        "We discuss how evidence-based guidelines would not have been helpful in this case, and how chemotherapy can exhibit substantial cardiotoxicity that may develop over many years.",
+        "We suggest that patients who have received chemotherapy at any time should have a pre-operative electrocardiogram even if they are asymptomatic."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D054537\tDisease\tatrioventricular block\tPeri-operative <target> atrioventricular block </target> as a result of chemotherapy with epirubicin and paclitaxel .",
+        "D015251\tChemical\tepirubicin\tPeri-operative atrioventricular block as a result of chemotherapy with <target> epirubicin </target> and paclitaxel .",
+        "D017239\tChemical\tpaclitaxel\tPeri-operative atrioventricular block as a result of chemotherapy with epirubicin and <target> paclitaxel </target> .",
+        "D001943\tDisease\tcarcinoma of the breast\tA 47-year-old woman presented for mastectomy and immediate latissimus dorsi flap reconstruction having been diagnosed with <target> carcinoma of the breast </target> 6 months previously .",
+        "D015251\tChemical\tepirubicin\tIn the preceding months she had received neo-adjuvant chemotherapy with <target> epirubicin </target> , paclitaxel ( Taxol ) and cyclophosphamide .",
+        "D017239\tChemical\tpaclitaxel\tIn the preceding months she had received neo-adjuvant chemotherapy with epirubicin , <target> paclitaxel </target> ( Taxol ) and cyclophosphamide .",
+        "D017239\tChemical\tTaxol\tIn the preceding months she had received neo-adjuvant chemotherapy with epirubicin , paclitaxel ( <target> Taxol </target> ) and cyclophosphamide .",
+        "D003520\tChemical\tcyclophosphamide\tIn the preceding months she had received neo-adjuvant chemotherapy with epirubicin , paclitaxel ( Taxol ) and <target> cyclophosphamide </target> .",
+        "D001919\tDisease\tbradycardic\tShe was found to be <target> bradycardic </target> at pre-operative assessment but had no cardiac symptoms .",
+        "D054537\tDisease\tatrioventricular block\tSecond degree Mobitz type II <target> atrioventricular block </target> was diagnosed on electrocardiogram , and temporary transvenous ventricular pacing instituted in the peri-operative period .",
+        "D066126\tDisease\tcardiotoxicity\tWe discuss how evidence-based guidelines would not have been helpful in this case , and how chemotherapy can exhibit substantial <target> cardiotoxicity </target> that may develop over many years ."
+    ],
+    "lines_lemma": [
+        "D054537\tDisease\tatrioventricular block\tperi-operative <target> atrioventricular block </target> as a result of chemotherapy with epirubicin and paclitaxel .",
+        "D015251\tChemical\tepirubicin\tperi-operative atrioventricular block as a result of chemotherapy with <target> epirubicin </target> and paclitaxel .",
+        "D017239\tChemical\tpaclitaxel\tperi-operative atrioventricular block as a result of chemotherapy with epirubicin and <target> paclitaxel </target> .",
+        "D001943\tDisease\tcarcinoma of the breast\ta 47-year-old woman present for mastectomy and immediate latissimus dorsi flap reconstruction have be diagnose with <target> carcinoma of the breast </target> 6 month previously .",
+        "D015251\tChemical\tepirubicin\tin the precede month she have receive neo-adjuvant chemotherapy with <target> epirubicin </target> , paclitaxel ( Taxol ) and cyclophosphamide .",
+        "D017239\tChemical\tpaclitaxel\tin the precede month she have receive neo-adjuvant chemotherapy with epirubicin , <target> paclitaxel </target> ( Taxol ) and cyclophosphamide .",
+        "D017239\tChemical\tTaxol\tin the precede month she have receive neo-adjuvant chemotherapy with epirubicin , paclitaxel ( <target> Taxol </target> ) and cyclophosphamide .",
+        "D003520\tChemical\tcyclophosphamide\tin the precede month she have receive neo-adjuvant chemotherapy with epirubicin , paclitaxel ( Taxol ) and <target> cyclophosphamide </target> .",
+        "D001919\tDisease\tbradycardic\tshe be find to be <target> bradycardic </target> at pre-operative assessment but have no cardiac symptom .",
+        "D054537\tDisease\tatrioventricular block\tsecond degree Mobitz type ii <target> atrioventricular block </target> be diagnose on electrocardiogram , and temporary transvenous ventricular pacing institute in the peri-operative period .",
+        "D066126\tDisease\tcardiotoxicity\twe discuss how evidence-based guideline would not have be helpful in this case , and how chemotherapy can exhibit substantial <target> cardiotoxicity </target> that may develop over many year ."
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Apparent cure of rheumatoid arthritis by bone marrow transplantation.",
+    "abst": "We describe the induction of sustained remissions and possible cure of severe erosive rheumatoid arthritis (RA) by bone marrow transplantation (BMT) in 2 patients. BMT was used to treat severe aplastic anemia which was caused by gold in one case and D-penicillamine in the other. In the 8 and 6 years since the transplants (representing 8 and 4 years since cessation of all immunosuppressive therapy, respectively), the RA in each case has been completely quiescent. Although short term remission of severe RA following BMT has been reported, these are the first cases for which prolonged followup has been available. This experience raises the question of the role of BMT itself as a therapeutic option for patients with uncontrolled destructive synovitis.",
+    "title_plus_abst": "Apparent cure of rheumatoid arthritis by bone marrow transplantation. We describe the induction of sustained remissions and possible cure of severe erosive rheumatoid arthritis (RA) by bone marrow transplantation (BMT) in 2 patients. BMT was used to treat severe aplastic anemia which was caused by gold in one case and D-penicillamine in the other. In the 8 and 6 years since the transplants (representing 8 and 4 years since cessation of all immunosuppressive therapy, respectively), the RA in each case has been completely quiescent. Although short term remission of severe RA following BMT has been reported, these are the first cases for which prolonged followup has been available. This experience raises the question of the role of BMT itself as a therapeutic option for patients with uncontrolled destructive synovitis.",
+    "pubmed_id": "8441146",
+    "entities": [
+        [
+            17,
+            37,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            156,
+            176,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            178,
+            180,
+            "RA",
+            "Disease",
+            "D001172"
+        ],
+        [
+            263,
+            278,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            299,
+            303,
+            "gold",
+            "Chemical",
+            "D006046"
+        ],
+        [
+            320,
+            335,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            490,
+            492,
+            "RA",
+            "Disease",
+            "D001172"
+        ],
+        [
+            577,
+            579,
+            "RA",
+            "Disease",
+            "D001172"
+        ],
+        [
+            817,
+            826,
+            "synovitis",
+            "Disease",
+            "D013585"
+        ]
+    ],
+    "split_sentence": [
+        "Apparent cure of rheumatoid arthritis by bone marrow transplantation.",
+        "We describe the induction of sustained remissions and possible cure of severe erosive rheumatoid arthritis (RA) by bone marrow transplantation (BMT) in 2 patients.",
+        "BMT was used to treat severe aplastic anemia which was caused by gold in one case and D-penicillamine in the other.",
+        "In the 8 and 6 years since the transplants (representing 8 and 4 years since cessation of all immunosuppressive therapy, respectively), the RA in each case has been completely quiescent.",
+        "Although short term remission of severe RA following BMT has been reported, these are the first cases for which prolonged followup has been available.",
+        "This experience raises the question of the role of BMT itself as a therapeutic option for patients with uncontrolled destructive synovitis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001172\tDisease\trheumatoid arthritis\tApparent cure of <target> rheumatoid arthritis </target> by bone marrow transplantation .",
+        "D001172\tDisease\trheumatoid arthritis\tWe describe the induction of sustained remissions and possible cure of severe erosive <target> rheumatoid arthritis </target> ( RA ) by bone marrow transplantation ( BMT ) in 2 patients .",
+        "D001172\tDisease\tRA\tWe describe the induction of sustained remissions and possible cure of severe erosive rheumatoid arthritis ( <target> RA </target> ) by bone marrow transplantation ( BMT ) in 2 patients .",
+        "D000741\tDisease\taplastic anemia\tBMT was used to treat severe <target> aplastic anemia </target> which was caused by gold in one case and D-penicillamine in the other .",
+        "D006046\tChemical\tgold\tBMT was used to treat severe aplastic anemia which was caused by <target> gold </target> in one case and D-penicillamine in the other .",
+        "D010396\tChemical\tD-penicillamine\tBMT was used to treat severe aplastic anemia which was caused by gold in one case and <target> D-penicillamine </target> in the other .",
+        "D001172\tDisease\tRA\tIn the 8 and 6 years since the transplants ( representing 8 and 4 years since cessation of all immunosuppressive therapy , respectively ) , the <target> RA </target> in each case has been completely quiescent .",
+        "D001172\tDisease\tRA\tAlthough short term remission of severe <target> RA </target> following BMT has been reported , these are the first cases for which prolonged followup has been available .",
+        "D013585\tDisease\tsynovitis\tThis experience raises the question of the role of BMT itself as a therapeutic option for patients with uncontrolled destructive <target> synovitis </target> ."
+    ],
+    "lines_lemma": [
+        "D001172\tDisease\trheumatoid arthritis\tapparent cure of <target> rheumatoid arthritis </target> by bone marrow transplantation .",
+        "D001172\tDisease\trheumatoid arthritis\twe describe the induction of sustained remission and possible cure of severe erosive <target> rheumatoid arthritis </target> ( ra ) by bone marrow transplantation ( bmt ) in 2 patient .",
+        "D001172\tDisease\tRA\twe describe the induction of sustained remission and possible cure of severe erosive rheumatoid arthritis ( <target> ra </target> ) by bone marrow transplantation ( bmt ) in 2 patient .",
+        "D000741\tDisease\taplastic anemia\tbmt be use to treat severe <target> aplastic anemia </target> which be cause by gold in one case and d-penicillamine in the other .",
+        "D006046\tChemical\tgold\tbmt be use to treat severe aplastic anemia which be cause by <target> gold </target> in one case and d-penicillamine in the other .",
+        "D010396\tChemical\tD-penicillamine\tbmt be use to treat severe aplastic anemia which be cause by gold in one case and <target> d-penicillamine </target> in the other .",
+        "D001172\tDisease\tRA\tin the 8 and 6 year since the transplant ( represent 8 and 4 year since cessation of all immunosuppressive therapy , respectively ) , the <target> ra </target> in each case have be completely quiescent .",
+        "D001172\tDisease\tRA\talthough short term remission of severe <target> ra </target> follow bmt have be report , these be the first case for which prolonged followup have be available .",
+        "D013585\tDisease\tsynovitis\tthis experience raise the question of the role of bmt itself as a therapeutic option for patient with uncontrolled destructive <target> synovitis </target> ."
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "entities": [
+        [
+            323,
+            325,
+            "M1",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            180,
+            194,
+            "adenocarcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/3"
+        ],
+        [
+            296,
+            306,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1357,
+            1367,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            211,
+            244,
+            "enfermedad ganglionar retrocrural",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            265,
+            290,
+            "gammagrafía ósea positiva",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            517,
+            544,
+            "progresión ganglionar, ósea",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1268,
+            1306,
+            "afectación difusa de la calota craneal",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1575,
+            1627,
+            "Adenocarcinoma de próstata estadio IV por metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "En 2010 se diagnosticó de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía ósea positiva para metástasis (estadio IV por  <objetivo> M1 </objetivo> .",
+        "En 2010 se diagnosticó de  <objetivo> adenocarcinoma </objetivo> de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía ósea positiva para metástasis (estadio IV por M1).",
+        "En 2010 se diagnosticó de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía ósea positiva para  <objetivo> metástasis </objetivo> (estadio IV por M1).",
+        "» Se realizó una TC cerebral sin contraste evidenciándose afectación difusa de la calota craneal y múltiples masas de partes blandas sugestivas de  <objetivo> metástasis </objetivo> meníngeas.",
+        "Adenocarcinoma de próstata estadio IV por  <objetivo> metástasis </objetivo> óseas, ganglionares y meníngeas.",
+        "En 2010 se diagnosticó de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía ósea positiva para  <objetivo> metástasis </objetivo> (estadio IV por M1).",
+        "» Se realizó una TC cerebral sin contraste evidenciándose afectación difusa de la calota craneal y múltiples masas de partes blandas sugestivas de  <objetivo> metástasis </objetivo> meníngeas.",
+        "Adenocarcinoma de próstata estadio IV por  <objetivo> metástasis </objetivo> óseas, ganglionares y meníngeas.",
+        "En 2010 se diagnosticó de adenocarcinoma de próstata con  <objetivo> enfermedad ganglionar retrocrural </objetivo> y retroperitoneal y gammagrafía ósea positiva para metástasis (estadio IV por M1).",
+        "En 2010 se diagnosticó de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y  <objetivo> gammagrafía ósea positiva </objetivo> para metástasis (estadio IV por M1).",
+        "Se inició bloqueo androgénico completo, tratamiento que recibió durante 28 meses, con disminución de los niveles de PSA (de 239 ng/mL a 2 ng/mL) hasta noviembre de 2013 cuando se evidenció  <objetivo> progresión ganglionar, ósea </objetivo> y bioquímica.",
+        "» Se realizó una TC cerebral sin contraste evidenciándose  <objetivo> afectación difusa de la calota craneal </objetivo> y múltiples masas de partes blandas sugestivas de metástasis meníngeas.",
+        "<objetivo> Adenocarcinoma de próstata estadio IV por metástasis </objetivo> óseas, ganglionares y meníngeas."
+    ],
+    "lines_lemma": [
+        "en 2010 él diagnosticar de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía óseo positivo para metástasi ( estadio IV por   <objetivo> m1 </objetivo> .",
+        "en 2010 él diagnosticar de   <objetivo> adenocarcinomar </objetivo> de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía óseo positivo para metástasi ( estadio IV por M1 ) .",
+        "en 2010 él diagnosticar de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía óseo positivo para   <objetivo> metástasi </objetivo> ( estadio IV por M1 ) .",
+        "» él realizar uno TC cerebral sin contraste evidenciar él afectación difús de el calota craneal y múltiple masa de parte blando sugestivo de   <objetivo> metástasi </objetivo> meníngea .",
+        "Adenocarcinoma de próstata estadio IV por   <objetivo> metástasi </objetivo> ósea , ganglionar y meníngea .",
+        "en 2010 él diagnosticar de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía óseo positivo para   <objetivo> metástasi </objetivo> ( estadio IV por M1 ) .",
+        "» él realizar uno TC cerebral sin contraste evidenciar él afectación difús de el calota craneal y múltiple masa de parte blando sugestivo de   <objetivo> metástasi </objetivo> meníngea .",
+        "Adenocarcinoma de próstata estadio IV por   <objetivo> metástasi </objetivo> ósea , ganglionar y meníngea .",
+        "en 2010 él diagnosticar de adenocarcinoma de próstata con   <objetivo> enfermedad ganglionar retrocrural </objetivo> y retroperitoneal y gammagrafía óseo positivo para metástasi ( estadio IV por M1 ) .",
+        "en 2010 él diagnosticar de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y   <objetivo> gammagrafía óseo positivo </objetivo> para metástasis ( estadio IV por M1 ) .",
+        "él iniciar bloqueo androgénico completo , tratamiento que recibir durante 28 mes , con disminución de el nivel de PSA ( de 239 ng / ml a 2 ng / ml ) hasta noviembre de 2013 cuando él evidenciar   <objetivo> progresión ganglionar , óseo </objetivo> y bioquímico .",
+        "» él realizar uno TC cerebral sin contraste evidenciar él   <objetivo> afectación difús de el calota craneal </objetivo> y múltiple masa de parte blando sugestivo de metástasis meníngea .",
+        "<objetivo> Adenocarcinoma de próstata estadio IV por metástasis </objetivo> ósea , ganglionar y meníngea ."
+    ],
+    "pubmed_id": "onco19",
+    "split_sentence": [
+        "Anamnesis",
+        "Varón de 73 años, sin alergias medicamentosas conocidas ni hábitos tóxicos, que está anticoagulado desde el 2009 por una fibrilación auricular.",
+        "En 2010 se diagnosticó de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía ósea positiva para metástasis (estadio IV por M1).",
+        "Se inició bloqueo androgénico completo, tratamiento que recibió durante 28 meses, con disminución de los niveles de PSA (de 239 ng/mL a 2 ng/mL) hasta noviembre de 2013 cuando se evidenció progresión ganglionar, ósea y bioquímica.",
+        "Tras considerar la enfermedad resistente a castración, se propuso tratamiento quimioterápico con esquema docetaxel-prednisona y bifosfonatos recibiendo solo un ciclo de docetaxel por mala tolerancia e iniciando abiraterona-prednisona con beneficio clínico durante 10 meses.",
+        "En noviembre de 2014 progresó nuevamente, por lo que se reintrodujo docetaxel prednisona.",
+        "Después de recibir el 6.º ciclo, el paciente ingresó por varios episodios de crisis parciales simples.",
+        "Exploración física",
+        "Performance Status (ECOG) 2.",
+        "No presentó focalidad neurológica aguda, manteniendo fuerza y sensibilidad conservadas en las 4 extremidades.",
+        "Pruebas complementarias",
+        "» Se realizó una TC cerebral sin contraste evidenciándose afectación difusa de la calota craneal y múltiples masas de partes blandas sugestivas de metástasis meníngeas.",
+        "» Con estos hallazgos se solicitó una RM cerebral donde se confirmó el engrosamiento meníngeo bilateral fronto-temporo-parietal que realza moderada y homogéneamente con el contraste.",
+        "Diagnóstico",
+        "Adenocarcinoma de próstata estadio IV por metástasis óseas, ganglionares y meníngeas.",
+        "Tratamiento",
+        "Desde el inicio de las crisis parciales simples, el paciente empezó tratamiento anticonvulsivo con levetiracetam y, tras la realización de la RM cerebral, inició tratamiento radioterápico paliativo sobre holocráneo hasta C2, dosis recibida 30 Gy a 3 Gy por sesión.",
+        "Evolución",
+        "Tras el tratamiento con radioterapia, el paciente presentó empeoramiento clínico progresivo con astenia importante y debilidad en miembros inferiores, siendo éxitus a finales de abril de 2015."
+    ],
+    "text": "Anamnesis\nVarón de 73 años, sin alergias medicamentosas conocidas ni hábitos tóxicos, que está anticoagulado desde el 2009 por una fibrilación auricular.\nEn 2010 se diagnosticó de adenocarcinoma de próstata con enfermedad ganglionar retrocrural y retroperitoneal y gammagrafía ósea positiva para metástasis (estadio IV por M1). Se inició bloqueo androgénico completo, tratamiento que recibió durante 28 meses, con disminución de los niveles de PSA (de 239 ng/mL a 2 ng/mL) hasta noviembre de 2013 cuando se evidenció progresión ganglionar, ósea y bioquímica. Tras considerar la enfermedad resistente a castración, se propuso tratamiento quimioterápico con esquema docetaxel-prednisona y bifosfonatos recibiendo solo un ciclo de docetaxel por mala tolerancia e iniciando abiraterona-prednisona con beneficio clínico durante 10 meses.\nEn noviembre de 2014 progresó nuevamente, por lo que se reintrodujo docetaxel prednisona. Después de recibir el 6.º ciclo, el paciente ingresó por varios episodios de crisis parciales simples.\n\nExploración física\nPerformance Status (ECOG) 2. No presentó focalidad neurológica aguda, manteniendo fuerza y sensibilidad conservadas en las 4 extremidades.\n\nPruebas complementarias\n» Se realizó una TC cerebral sin contraste evidenciándose afectación difusa de la calota craneal y múltiples masas de partes blandas sugestivas de metástasis meníngeas.\n» Con estos hallazgos se solicitó una RM cerebral donde se confirmó el engrosamiento meníngeo bilateral fronto-temporo-parietal que realza moderada y homogéneamente con el contraste.\n\nDiagnóstico\nAdenocarcinoma de próstata estadio IV por metástasis óseas, ganglionares y meníngeas.\n\nTratamiento\nDesde el inicio de las crisis parciales simples, el paciente empezó tratamiento anticonvulsivo con levetiracetam y, tras la realización de la RM cerebral, inició tratamiento radioterápico paliativo sobre holocráneo hasta C2, dosis recibida 30 Gy a 3 Gy por sesión.\n\nEvolución\nTras el tratamiento con radioterapia, el paciente presentó empeoramiento clínico progresivo con astenia importante y debilidad en miembros inferiores, siendo éxitus a finales de abril de 2015."
+}

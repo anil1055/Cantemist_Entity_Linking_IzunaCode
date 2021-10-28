@@ -1,0 +1,86 @@
+{
+    "entities": [
+        [
+            541,
+            566,
+            "Tumor de células gigantes",
+            "MORFOLOGIA_NEOPLASIA",
+            "8003/3"
+        ],
+        [
+            886,
+            896,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            932,
+            948,
+            "suelta de globos",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            149,
+            174,
+            "tumor de células gigantes",
+            "MORFOLOGIA_NEOPLASIA",
+            "8003/3"
+        ],
+        [
+            284,
+            294,
+            "tumoración",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            407,
+            455,
+            "tumor de células gigantes grado tres de Sanerkin",
+            "MORFOLOGIA_NEOPLASIA",
+            "8003/33"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "<objetivo> Tumor de células gigantes </objetivo> localizado en el fémur izquierdo.",
+        "Seis meses tras la realización de cirugía se diagnostica mediante radiografía de control de  <objetivo> metástasis </objetivo> pulmonares múltiples con patrón de suelta de globos.",
+        "Seis meses tras la realización de cirugía se diagnostica mediante radiografía de control de metástasis pulmonares múltiples con patrón de  <objetivo> suelta de globos </objetivo> ",
+        "Paciente mujer de 18 años sin antecedentes personales de interés que consulta por dolor en la pierna izquierda, siendo diagnosticada de un  <objetivo> tumor de células gigantes </objetivo> de fémur izquierdo mediante biopsia con aguja gruesa.",
+        "- Anatomía patológica:  <objetivo> tumor de células gigantes </objetivo> grado tres de Sanerkin del fémur izquierdo.",
+        "Exploración física normal, salvo por la  <objetivo> tumoración </objetivo> en el miembro inferior izquierdo en la zona proximal del fémur.",
+        "- Anatomía patológica:  <objetivo> tumor de células gigantes grado tres de Sanerkin </objetivo> del fémur izquierdo."
+    ],
+    "lines_lemma": [
+        "<objetivo> Tumor de célula gigante </objetivo> localizado en el fémur izquierdo .",
+        "seis mes tras el realización de cirugía él diagnosticar mediante radiografía de control de   <objetivo> metástasi </objetivo> pulmonar múltiple con patrón de suelta de globo .",
+        "seis mes tras el realización de cirugía él diagnosticar mediante radiografía de control de metástasi pulmonar múltiple con patrón de   <objetivo> suelto de globo </objetivo>",
+        "Paciente mujer de 18 año sin antecedente personal de interés que consultar por dolor en el pierna izquierdo , ser diagnosticar de uno   <objetivo> tumor de célula gigante </objetivo> de fémur izquierdo mediante biopsia con aguja grueso .",
+        "- Anatomía patológicar :   <objetivo> tumor de célula gigante </objetivo> gradir tres de Sanerkin del fémur izquierdo .",
+        "Exploración físico normal , salvo por el   <objetivo> tumoración </objetivo> en el miembro inferior izquierdo en el zona proximal del fémur .",
+        "- Anatomía patológicar :   <objetivo> tumor de célula gigante grado tres de Sanerkin </objetivo> del fémur izquierdo ."
+    ],
+    "pubmed_id": "onco1163",
+    "split_sentence": [
+        "Anamnesis",
+        "Paciente mujer de 18 años sin antecedentes personales de interés que consulta por dolor en la pierna izquierda, siendo diagnosticada de un tumor de células gigantes de fémur izquierdo mediante biopsia con aguja gruesa.",
+        "Examen físico",
+        "Exploración física normal, salvo por la tumoración en el miembro inferior izquierdo en la zona proximal del fémur.",
+        "Pruebas complementarias",
+        "- Anatomía patológica: tumor de células gigantes grado tres de Sanerkin del fémur izquierdo.",
+        "- Radiografía de tórax: sin hallazgos patológicos.",
+        "Diagnóstico",
+        "Tumor de células gigantes localizado en el fémur izquierdo.",
+        "Tratamiento",
+        "En diciembre de 1999 se interviene mediante exéresis, prótesis y aloinjerto con los resultados patológicos que se especifican en el apartado de pruebas complementarias.",
+        "Evolución",
+        "Seis meses tras la realización de cirugía se diagnostica mediante radiografía de control de metástasis pulmonares múltiples con patrón de suelta de globos.",
+        "En octubre del año 2000 inicia quimioterapia con cisplatino, adriamicina e ifosfamida, objetivándose progresión tras la administración de seis ciclos.",
+        "Tras ello realizó tratamiento con interferón alfa 2a a dosis bajas durante un mes, teniendo que abandonar el tratamiento por toxicidad inaceptable.",
+        "Desde entonces está en seguimiento clínico, con estabilización de la enfermedad.",
+        "Actualmente se encuentra en seguimiento mediante radiografía anual, mostrándose algunas de sus radiografías."
+    ],
+    "text": "Anamnesis\nPaciente mujer de 18 años sin antecedentes personales de interés que consulta por dolor en la pierna izquierda, siendo diagnosticada de un tumor de células gigantes de fémur izquierdo mediante biopsia con aguja gruesa.\n\nExamen físico\nExploración física normal, salvo por la tumoración en el miembro inferior izquierdo en la zona proximal del fémur.\n\nPruebas complementarias\n- Anatomía patológica: tumor de células gigantes grado tres de Sanerkin del fémur izquierdo.\n- Radiografía de tórax: sin hallazgos patológicos.\n\nDiagnóstico\nTumor de células gigantes localizado en el fémur izquierdo.\n\nTratamiento\nEn diciembre de 1999 se interviene mediante exéresis, prótesis y aloinjerto con los resultados patológicos que se especifican en el apartado de pruebas complementarias.\n\nEvolución\nSeis meses tras la realización de cirugía se diagnostica mediante radiografía de control de metástasis pulmonares múltiples con patrón de suelta de globos.\nEn octubre del año 2000 inicia quimioterapia con cisplatino, adriamicina e ifosfamida, objetivándose progresión tras la administración de seis ciclos.\nTras ello realizó tratamiento con interferón alfa 2a a dosis bajas durante un mes, teniendo que abandonar el tratamiento por toxicidad inaceptable.\nDesde entonces está en seguimiento clínico, con estabilización de la enfermedad. Actualmente se encuentra en seguimiento mediante radiografía anual, mostrándose algunas de sus radiografías."
+}

@@ -1,0 +1,136 @@
+{
+    "title": "Atrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with myotonic dystrophy (Steinert's disease).",
+    "abst": "The authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy, the most common form of adult muscular dystrophy, and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient. Atrial fibrillation or other cardiac arrhythmias are unusual complications in patients treated with chemotherapy. The cardiac toxicity intrinsically associated with the aggressive chemotherapy employed could function as a triggering factor for the arrhythmia in the predisposed myocardium of this patient.",
+    "title_plus_abst": "Atrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with myotonic dystrophy (Steinert's disease). The authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy, the most common form of adult muscular dystrophy, and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient. Atrial fibrillation or other cardiac arrhythmias are unusual complications in patients treated with chemotherapy. The cardiac toxicity intrinsically associated with the aggressive chemotherapy employed could function as a triggering factor for the arrhythmia in the predisposed myocardium of this patient.",
+    "pubmed_id": "15042318",
+    "entities": [
+        [
+            0,
+            19,
+            "Atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            79,
+            95,
+            "gastric lymphoma",
+            "Disease",
+            "C535648"
+        ],
+        [
+            114,
+            132,
+            "myotonic dystrophy",
+            "Disease",
+            "D009223"
+        ],
+        [
+            134,
+            152,
+            "Steinert's disease",
+            "Disease",
+            "D009223"
+        ],
+        [
+            223,
+            239,
+            "gastric lymphoma",
+            "Disease",
+            "C535648"
+        ],
+        [
+            244,
+            262,
+            "myotonic dystrophy",
+            "Disease",
+            "D009223"
+        ],
+        [
+            294,
+            312,
+            "muscular dystrophy",
+            "Disease",
+            "D009136"
+        ],
+        [
+            325,
+            344,
+            "atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            368,
+            379,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            420,
+            439,
+            "Atrial fibrillation",
+            "Disease",
+            "D001281"
+        ],
+        [
+            449,
+            468,
+            "cardiac arrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            538,
+            554,
+            "cardiac toxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            668,
+            678,
+            "arrhythmia",
+            "Disease",
+            "D001145"
+        ]
+    ],
+    "split_sentence": [
+        "Atrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with myotonic dystrophy (Steinert's disease).",
+        "The authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy, the most common form of adult muscular dystrophy, and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient.",
+        "Atrial fibrillation or other cardiac arrhythmias are unusual complications in patients treated with chemotherapy.",
+        "The cardiac toxicity intrinsically associated with the aggressive chemotherapy employed could function as a triggering factor for the arrhythmia in the predisposed myocardium of this patient."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001281\tDisease\tAtrial fibrillation\t<target> Atrial fibrillation </target> following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with myotonic dystrophy ( Steinert 's disease ) .",
+        "C535648\tDisease\tgastric lymphoma\tAtrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell <target> gastric lymphoma </target> in a patient with myotonic dystrophy ( Steinert 's disease ) .",
+        "D009223\tDisease\tmyotonic dystrophy\tAtrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with <target> myotonic dystrophy </target> ( Steinert 's disease ) .",
+        "D009223\tDisease\tSteinert's disease\tAtrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with myotonic dystrophy ( <target> Steinert 's disease </target> ) .",
+        "C535648\tDisease\tgastric lymphoma\tThe authors describe the unusual association between diffuse B-cell <target> gastric lymphoma </target> and myotonic dystrophy , the most common form of adult muscular dystrophy , and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D009223\tDisease\tmyotonic dystrophy\tThe authors describe the unusual association between diffuse B-cell gastric lymphoma and <target> myotonic dystrophy </target> , the most common form of adult muscular dystrophy , and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D009136\tDisease\tmuscular dystrophy\tThe authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy , the most common form of adult <target> muscular dystrophy </target> , and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D001281\tDisease\tatrial fibrillation\tThe authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy , the most common form of adult muscular dystrophy , and sudden <target> atrial fibrillation </target> following one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D004317\tChemical\tdoxorubicin\tThe authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy , the most common form of adult muscular dystrophy , and sudden atrial fibrillation following one cycle of <target> doxorubicin </target> -based chemotherapy in the same patient .",
+        "D001281\tDisease\tAtrial fibrillation\t<target> Atrial fibrillation </target> or other cardiac arrhythmias are unusual complications in patients treated with chemotherapy .",
+        "D001145\tDisease\tcardiac arrhythmias\tAtrial fibrillation or other <target> cardiac arrhythmias </target> are unusual complications in patients treated with chemotherapy .",
+        "D066126\tDisease\tcardiac toxicity\tThe <target> cardiac toxicity </target> intrinsically associated with the aggressive chemotherapy employed could function as a triggering factor for the arrhythmia in the predisposed myocardium of this patient .",
+        "D001145\tDisease\tarrhythmia\tThe cardiac toxicity intrinsically associated with the aggressive chemotherapy employed could function as a triggering factor for the <target> arrhythmia </target> in the predisposed myocardium of this patient ."
+    ],
+    "lines_lemma": [
+        "D001281\tDisease\tAtrial fibrillation\t<target> atrial fibrillation </target> follow chemotherapy for stage iiie diffuse large b-cell gastric lymphoma in a patient with myotonic dystrophy ( Steinert 's disease ) .",
+        "C535648\tDisease\tgastric lymphoma\tatrial fibrillation follow chemotherapy for stage iiie diffuse large b-cell <target> gastric lymphoma </target> in a patient with myotonic dystrophy ( Steinert 's disease ) .",
+        "D009223\tDisease\tmyotonic dystrophy\tatrial fibrillation follow chemotherapy for stage iiie diffuse large b-cell gastric lymphoma in a patient with <target> myotonic dystrophy </target> ( Steinert 's disease ) .",
+        "D009223\tDisease\tSteinert's disease\tatrial fibrillation follow chemotherapy for stage iiie diffuse large b-cell gastric lymphoma in a patient with myotonic dystrophy ( <target> Steinert 's disease </target> ) .",
+        "C535648\tDisease\tgastric lymphoma\tthe author describe the unusual association between diffuse b-cell <target> gastric lymphoma </target> and myotonic dystrophy , the most common form of adult muscular dystrophy , and sudden atrial fibrillation follow one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D009223\tDisease\tmyotonic dystrophy\tthe author describe the unusual association between diffuse b-cell gastric lymphoma and <target> myotonic dystrophy </target> , the most common form of adult muscular dystrophy , and sudden atrial fibrillation follow one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D009136\tDisease\tmuscular dystrophy\tthe author describe the unusual association between diffuse b-cell gastric lymphoma and myotonic dystrophy , the most common form of adult <target> muscular dystrophy </target> , and sudden atrial fibrillation follow one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D001281\tDisease\tatrial fibrillation\tthe author describe the unusual association between diffuse b-cell gastric lymphoma and myotonic dystrophy , the most common form of adult muscular dystrophy , and sudden <target> atrial fibrillation </target> follow one cycle of doxorubicin-based chemotherapy in the same patient .",
+        "D004317\tChemical\tdoxorubicin\tthe author describe the unusual association between diffuse b-cell gastric lymphoma and myotonic dystrophy , the most common form of adult muscular dystrophy , and sudden atrial fibrillation follow one cycle of <target> doxorubicin </target> -based chemotherapy in the same patient .",
+        "D001281\tDisease\tAtrial fibrillation\t<target> atrial fibrillation </target> or other cardiac arrhythmia be unusual complication in patient treat with chemotherapy .",
+        "D001145\tDisease\tcardiac arrhythmias\tatrial fibrillation or other <target> cardiac arrhythmia </target> be unusual complication in patient treat with chemotherapy .",
+        "D066126\tDisease\tcardiac toxicity\tthe <target> cardiac toxicity </target> intrinsically associate with the aggressive chemotherapy employ could function as a trigger factor for the arrhythmia in the predisposed myocardium of this patient .",
+        "D001145\tDisease\tarrhythmia\tthe cardiac toxicity intrinsically associate with the aggressive chemotherapy employ could function as a trigger factor for the <target> arrhythmia </target> in the predisposed myocardium of this patient ."
+    ]
+}

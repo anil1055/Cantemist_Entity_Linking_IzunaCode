@@ -1,0 +1,172 @@
+{
+    "title": "Hyperkalemia induced by indomethacin and naproxen and reversed by fludrocortisone.",
+    "abst": "We have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen, without major decline in renal function. It is likely that preexisting renal disease predisposed this patient to type IV renal tubular acidosis with prostaglandin synthetase inhibitors. Because he was unable to discontinue nonsteroidal anti-inflammatory drug therapy, fludrocortisone was added, correcting the hyperkalemia and allowing indomethacin therapy to be continued safely.",
+    "title_plus_abst": "Hyperkalemia induced by indomethacin and naproxen and reversed by fludrocortisone. We have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen, without major decline in renal function. It is likely that preexisting renal disease predisposed this patient to type IV renal tubular acidosis with prostaglandin synthetase inhibitors. Because he was unable to discontinue nonsteroidal anti-inflammatory drug therapy, fludrocortisone was added, correcting the hyperkalemia and allowing indomethacin therapy to be continued safely.",
+    "pubmed_id": "3375885",
+    "entities": [
+        [
+            0,
+            12,
+            "Hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            24,
+            36,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            41,
+            49,
+            "naproxen",
+            "Chemical",
+            "D009288"
+        ],
+        [
+            66,
+            81,
+            "fludrocortisone",
+            "Chemical",
+            "D005438"
+        ],
+        [
+            123,
+            143,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            161,
+            175,
+            "mefenamic acid",
+            "Chemical",
+            "D008528"
+        ],
+        [
+            176,
+            187,
+            "nephropathy",
+            "Disease",
+            "D007674"
+        ],
+        [
+            196,
+            208,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            227,
+            244,
+            "hypoaldosteronism",
+            "Disease",
+            "D006994"
+        ],
+        [
+            265,
+            277,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            282,
+            290,
+            "naproxen",
+            "Chemical",
+            "D009288"
+        ],
+        [
+            363,
+            376,
+            "renal disease",
+            "Disease",
+            "D007674"
+        ],
+        [
+            405,
+            435,
+            "type IV renal tubular acidosis",
+            "Disease",
+            "D006994"
+        ],
+        [
+            441,
+            454,
+            "prostaglandin",
+            "Chemical",
+            "D011453"
+        ],
+        [
+            560,
+            575,
+            "fludrocortisone",
+            "Chemical",
+            "D005438"
+        ],
+        [
+            602,
+            614,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            628,
+            640,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ]
+    ],
+    "split_sentence": [
+        "Hyperkalemia induced by indomethacin and naproxen and reversed by fludrocortisone.",
+        "We have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen, without major decline in renal function.",
+        "It is likely that preexisting renal disease predisposed this patient to type IV renal tubular acidosis with prostaglandin synthetase inhibitors.",
+        "Because he was unable to discontinue nonsteroidal anti-inflammatory drug therapy, fludrocortisone was added, correcting the hyperkalemia and allowing indomethacin therapy to be continued safely."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006947\tDisease\tHyperkalemia\t<target> Hyperkalemia </target> induced by indomethacin and naproxen and reversed by fludrocortisone .",
+        "D007213\tChemical\tindomethacin\tHyperkalemia induced by <target> indomethacin </target> and naproxen and reversed by fludrocortisone .",
+        "D009288\tChemical\tnaproxen\tHyperkalemia induced by indomethacin and <target> naproxen </target> and reversed by fludrocortisone .",
+        "D005438\tChemical\tfludrocortisone\tHyperkalemia induced by indomethacin and naproxen and reversed by <target> fludrocortisone </target> .",
+        "D001172\tDisease\trheumatoid arthritis\tWe have described a patient with severe <target> rheumatoid arthritis </target> and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen , without major decline in renal function .",
+        "D008528\tChemical\tmefenamic acid\tWe have described a patient with severe rheumatoid arthritis and a history of <target> mefenamic acid </target> nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen , without major decline in renal function .",
+        "D007674\tDisease\tnephropathy\tWe have described a patient with severe rheumatoid arthritis and a history of mefenamic acid <target> nephropathy </target> in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen , without major decline in renal function .",
+        "D006947\tDisease\thyperkalemia\tWe have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom <target> hyperkalemia </target> and inappropriate hypoaldosteronism were caused by both indomethacin and naproxen , without major decline in renal function .",
+        "D006994\tDisease\thypoaldosteronism\tWe have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate <target> hypoaldosteronism </target> were caused by both indomethacin and naproxen , without major decline in renal function .",
+        "D007213\tChemical\tindomethacin\tWe have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both <target> indomethacin </target> and naproxen , without major decline in renal function .",
+        "D009288\tChemical\tnaproxen\tWe have described a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism were caused by both indomethacin and <target> naproxen </target> , without major decline in renal function .",
+        "D007674\tDisease\trenal disease\tIt is likely that preexisting <target> renal disease </target> predisposed this patient to type IV renal tubular acidosis with prostaglandin synthetase inhibitors .",
+        "D006994\tDisease\ttype IV renal tubular acidosis\tIt is likely that preexisting renal disease predisposed this patient to <target> type IV renal tubular acidosis </target> with prostaglandin synthetase inhibitors .",
+        "D011453\tChemical\tprostaglandin\tIt is likely that preexisting renal disease predisposed this patient to type IV renal tubular acidosis with <target> prostaglandin </target> synthetase inhibitors .",
+        "D005438\tChemical\tfludrocortisone\tBecause he was unable to discontinue nonsteroidal anti-inflammatory drug therapy , <target> fludrocortisone </target> was added , correcting the hyperkalemia and allowing indomethacin therapy to be continued safely .",
+        "D006947\tDisease\thyperkalemia\tBecause he was unable to discontinue nonsteroidal anti-inflammatory drug therapy , fludrocortisone was added , correcting the <target> hyperkalemia </target> and allowing indomethacin therapy to be continued safely .",
+        "D007213\tChemical\tindomethacin\tBecause he was unable to discontinue nonsteroidal anti-inflammatory drug therapy , fludrocortisone was added , correcting the hyperkalemia and allowing <target> indomethacin </target> therapy to be continued safely ."
+    ],
+    "lines_lemma": [
+        "D006947\tDisease\tHyperkalemia\t<target> hyperkalemia </target> induce by indomethacin and naproxen and reverse by fludrocortisone .",
+        "D007213\tChemical\tindomethacin\thyperkalemia induce by <target> indomethacin </target> and naproxen and reverse by fludrocortisone .",
+        "D009288\tChemical\tnaproxen\thyperkalemia induce by indomethacin and <target> naproxen </target> and reverse by fludrocortisone .",
+        "D005438\tChemical\tfludrocortisone\thyperkalemia induce by indomethacin and naproxen and reverse by <target> fludrocortisone </target> .",
+        "D001172\tDisease\trheumatoid arthritis\twe have describe a patient with severe <target> rheumatoid arthritis </target> and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism be cause by both indomethacin and naproxen , without major decline in renal function .",
+        "D008528\tChemical\tmefenamic acid\twe have describe a patient with severe rheumatoid arthritis and a history of <target> mefenamic acid </target> nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism be cause by both indomethacin and naproxen , without major decline in renal function .",
+        "D007674\tDisease\tnephropathy\twe have describe a patient with severe rheumatoid arthritis and a history of mefenamic acid <target> nephropathy </target> in whom hyperkalemia and inappropriate hypoaldosteronism be cause by both indomethacin and naproxen , without major decline in renal function .",
+        "D006947\tDisease\thyperkalemia\twe have describe a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom <target> hyperkalemia </target> and inappropriate hypoaldosteronism be cause by both indomethacin and naproxen , without major decline in renal function .",
+        "D006994\tDisease\thypoaldosteronism\twe have describe a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate <target> hypoaldosteronism </target> be cause by both indomethacin and naproxen , without major decline in renal function .",
+        "D007213\tChemical\tindomethacin\twe have describe a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism be cause by both <target> indomethacin </target> and naproxen , without major decline in renal function .",
+        "D009288\tChemical\tnaproxen\twe have describe a patient with severe rheumatoid arthritis and a history of mefenamic acid nephropathy in whom hyperkalemia and inappropriate hypoaldosteronism be cause by both indomethacin and <target> naproxen </target> , without major decline in renal function .",
+        "D007674\tDisease\trenal disease\tit be likely that preexist <target> renal disease </target> predispose this patient to type iv renal tubular acidosis with prostaglandin synthetase inhibitor .",
+        "D006994\tDisease\ttype IV renal tubular acidosis\tit be likely that preexist renal disease predispose this patient to <target> type iv renal tubular acidosis </target> with prostaglandin synthetase inhibitor .",
+        "D011453\tChemical\tprostaglandin\tit be likely that preexist renal disease predispose this patient to type iv renal tubular acidosis with <target> prostaglandin </target> synthetase inhibitor .",
+        "D005438\tChemical\tfludrocortisone\tbecause he be unable to discontinue nonsteroidal anti-inflammatory drug therapy , <target> fludrocortisone </target> be add , correct the hyperkalemia and allow indomethacin therapy to be continue safely .",
+        "D006947\tDisease\thyperkalemia\tbecause he be unable to discontinue nonsteroidal anti-inflammatory drug therapy , fludrocortisone be add , correct the <target> hyperkalemia </target> and allow indomethacin therapy to be continue safely .",
+        "D007213\tChemical\tindomethacin\tbecause he be unable to discontinue nonsteroidal anti-inflammatory drug therapy , fludrocortisone be add , correct the hyperkalemia and allow <target> indomethacin </target> therapy to be continue safely ."
+    ]
+}

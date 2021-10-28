@@ -1,0 +1,72 @@
+{
+    "title": "Postinfarction ventricular septal defect associated with long-term steroid therapy.",
+    "abst": "Two cases of postinfarction ventricular septal rupture in patients on long-term steroid therapy are presented and the favourable outcome in both cases described. A possible association between steroid therapy and subsequent postinfarction septal rupture is discussed.",
+    "title_plus_abst": "Postinfarction ventricular septal defect associated with long-term steroid therapy. Two cases of postinfarction ventricular septal rupture in patients on long-term steroid therapy are presented and the favourable outcome in both cases described. A possible association between steroid therapy and subsequent postinfarction septal rupture is discussed.",
+    "pubmed_id": "9105126",
+    "entities": [
+        [
+            15,
+            40,
+            "ventricular septal defect",
+            "Disease",
+            "D018658"
+        ],
+        [
+            67,
+            74,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            112,
+            138,
+            "ventricular septal rupture",
+            "Disease",
+            "D018658"
+        ],
+        [
+            164,
+            171,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            277,
+            284,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            323,
+            337,
+            "septal rupture",
+            "Disease",
+            "D018658"
+        ]
+    ],
+    "split_sentence": [
+        "Postinfarction ventricular septal defect associated with long-term steroid therapy.",
+        "Two cases of postinfarction ventricular septal rupture in patients on long-term steroid therapy are presented and the favourable outcome in both cases described.",
+        "A possible association between steroid therapy and subsequent postinfarction septal rupture is discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018658\tDisease\tventricular septal defect\tPostinfarction <target> ventricular septal defect </target> associated with long-term steroid therapy .",
+        "D013256\tChemical\tsteroid\tPostinfarction ventricular septal defect associated with long-term <target> steroid </target> therapy .",
+        "D018658\tDisease\tventricular septal rupture\tTwo cases of postinfarction <target> ventricular septal rupture </target> in patients on long-term steroid therapy are presented and the favourable outcome in both cases described .",
+        "D013256\tChemical\tsteroid\tTwo cases of postinfarction ventricular septal rupture in patients on long-term <target> steroid </target> therapy are presented and the favourable outcome in both cases described .",
+        "D013256\tChemical\tsteroid\tA possible association between <target> steroid </target> therapy and subsequent postinfarction septal rupture is discussed .",
+        "D018658\tDisease\tseptal rupture\tA possible association between steroid therapy and subsequent postinfarction <target> septal rupture </target> is discussed ."
+    ],
+    "lines_lemma": [
+        "D018658\tDisease\tventricular septal defect\tpostinfarction <target> ventricular septal defect </target> associate with long-term steroid therapy .",
+        "D013256\tChemical\tsteroid\tpostinfarction ventricular septal defect associate with long-term <target> steroid </target> therapy .",
+        "D018658\tDisease\tventricular septal rupture\ttwo case of postinfarction <target> ventricular septal rupture </target> in patient on long-term steroid therapy be present and the favourable outcome in both case describe .",
+        "D013256\tChemical\tsteroid\ttwo case of postinfarction ventricular septal rupture in patient on long-term <target> steroid </target> therapy be present and the favourable outcome in both case describe .",
+        "D013256\tChemical\tsteroid\ta possible association between <target> steroid </target> therapy and subsequent postinfarction septal rupture be discuss .",
+        "D018658\tDisease\tseptal rupture\ta possible association between steroid therapy and subsequent postinfarction <target> septal rupture </target> be discuss ."
+    ]
+}

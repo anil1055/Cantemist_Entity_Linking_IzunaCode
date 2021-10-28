@@ -1,0 +1,81 @@
+{
+    "title": "Urine N-acetyl-beta-D-glucosaminidase--a marker of tubular damage?",
+    "abst": "BACKGROUND: Although an indicator of renal tubular dysfunction, an increased urinary N-acetyl-beta-D-glucosaminidase (NAG) activity might reflect increased lysosomal activity in renal tubular cells. METHODS: Puromycin aminonucleoside (PAN) was administered to Sprague Dawley rats to induce proteinuria. Total protein, albumin, NAG activity and protein electrophoretic pattern were assessed in daily urine samples for 33 days. The morphological appearance of the kidneys was examined on days three, four, six, eight and thirty three and the NAG isoenzyme patterns on days zero, four, eight and thirty three. RESULTS: Following intravenous PAN urine volume and urine NAG activity increased significantly by day two, but returned to normal by day four. After day four all treated animals exhibited a marked rise in urine albumin, total protein excretion and NAG activity. Electrophoresis showed a generalised increase in middle and high molecular weight urine proteins from day four onwards. Protein droplets first appeared prominent in tubular cells on day four. Peak urine NAG activity and a change in NAG isoenzyme pattern coincided with both the peak proteinuria and the reduction in intracellular protein and NAG droplets (day six onwards). CONCLUSIONS: This animal model demonstrates that an increase in lysosomal turnover and hence urine NAG activity, occurs when increased protein is presented to the tubular cells. Urine NAG activity is thus a measure of altered function in the renal tubules and not simply an indicator of damage.",
+    "title_plus_abst": "Urine N-acetyl-beta-D-glucosaminidase--a marker of tubular damage? BACKGROUND: Although an indicator of renal tubular dysfunction, an increased urinary N-acetyl-beta-D-glucosaminidase (NAG) activity might reflect increased lysosomal activity in renal tubular cells. METHODS: Puromycin aminonucleoside (PAN) was administered to Sprague Dawley rats to induce proteinuria. Total protein, albumin, NAG activity and protein electrophoretic pattern were assessed in daily urine samples for 33 days. The morphological appearance of the kidneys was examined on days three, four, six, eight and thirty three and the NAG isoenzyme patterns on days zero, four, eight and thirty three. RESULTS: Following intravenous PAN urine volume and urine NAG activity increased significantly by day two, but returned to normal by day four. After day four all treated animals exhibited a marked rise in urine albumin, total protein excretion and NAG activity. Electrophoresis showed a generalised increase in middle and high molecular weight urine proteins from day four onwards. Protein droplets first appeared prominent in tubular cells on day four. Peak urine NAG activity and a change in NAG isoenzyme pattern coincided with both the peak proteinuria and the reduction in intracellular protein and NAG droplets (day six onwards). CONCLUSIONS: This animal model demonstrates that an increase in lysosomal turnover and hence urine NAG activity, occurs when increased protein is presented to the tubular cells. Urine NAG activity is thus a measure of altered function in the renal tubules and not simply an indicator of damage.",
+    "pubmed_id": "10193809",
+    "entities": [
+        [
+            104,
+            129,
+            "renal tubular dysfunction",
+            "Disease",
+            "D005198"
+        ],
+        [
+            275,
+            300,
+            "Puromycin aminonucleoside",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            302,
+            305,
+            "PAN",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            357,
+            368,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            705,
+            708,
+            "PAN",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            1219,
+            1230,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ]
+    ],
+    "split_sentence": [
+        "Urine N-acetyl-beta-D-glucosaminidase--a marker of tubular damage?",
+        "BACKGROUND: Although an indicator of renal tubular dysfunction, an increased urinary N-acetyl-beta-D-glucosaminidase (NAG) activity might reflect increased lysosomal activity in renal tubular cells.",
+        "METHODS: Puromycin aminonucleoside (PAN) was administered to Sprague Dawley rats to induce proteinuria.",
+        "Total protein, albumin, NAG activity and protein electrophoretic pattern were assessed in daily urine samples for 33 days.",
+        "The morphological appearance of the kidneys was examined on days three, four, six, eight and thirty three and the NAG isoenzyme patterns on days zero, four, eight and thirty three.",
+        "RESULTS: Following intravenous PAN urine volume and urine NAG activity increased significantly by day two, but returned to normal by day four.",
+        "After day four all treated animals exhibited a marked rise in urine albumin, total protein excretion and NAG activity.",
+        "Electrophoresis showed a generalised increase in middle and high molecular weight urine proteins from day four onwards.",
+        "Protein droplets first appeared prominent in tubular cells on day four.",
+        "Peak urine NAG activity and a change in NAG isoenzyme pattern coincided with both the peak proteinuria and the reduction in intracellular protein and NAG droplets (day six onwards).",
+        "CONCLUSIONS: This animal model demonstrates that an increase in lysosomal turnover and hence urine NAG activity, occurs when increased protein is presented to the tubular cells.",
+        "Urine NAG activity is thus a measure of altered function in the renal tubules and not simply an indicator of damage."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005198\tDisease\trenal tubular dysfunction\tBACKGROUND : Although an indicator of <target> renal tubular dysfunction </target> , an increased urinary N-acetyl-beta-D-glucosaminidase ( NAG ) activity might reflect increased lysosomal activity in renal tubular cells .",
+        "D011692\tChemical\tPuromycin aminonucleoside\tMETHODS : <target> Puromycin aminonucleoside </target> ( PAN ) was administered to Sprague Dawley rats to induce proteinuria .",
+        "D011692\tChemical\tPAN\tMETHODS : Puromycin aminonucleoside ( <target> PAN </target> ) was administered to Sprague Dawley rats to induce proteinuria .",
+        "D011507\tDisease\tproteinuria\tMETHODS : Puromycin aminonucleoside ( PAN ) was administered to Sprague Dawley rats to induce <target> proteinuria </target> .",
+        "D011692\tChemical\tPAN\tRESULTS : Following intravenous <target> PAN </target> urine volume and urine NAG activity increased significantly by day two , but returned to normal by day four .",
+        "D011507\tDisease\tproteinuria\tPeak urine NAG activity and a change in NAG isoenzyme pattern coincided with both the peak <target> proteinuria </target> and the reduction in intracellular protein and NAG droplets ( day six onwards ) ."
+    ],
+    "lines_lemma": [
+        "D005198\tDisease\trenal tubular dysfunction\tbackground : although an indicator of <target> renal tubular dysfunction </target> , an increase urinary n-acetyl-beta-d-glucosaminidase ( nag ) activity might reflect increase lysosomal activity in renal tubular cell .",
+        "D011692\tChemical\tPuromycin aminonucleoside\tmethod : <target> puromycin aminonucleoside </target> ( pan ) be administer to Sprague Dawley rat to induce proteinuria .",
+        "D011692\tChemical\tPAN\tmethod : puromycin aminonucleoside ( <target> pan </target> ) be administer to Sprague Dawley rat to induce proteinuria .",
+        "D011507\tDisease\tproteinuria\tmethod : puromycin aminonucleoside ( pan ) be administer to Sprague Dawley rat to induce <target> proteinuria </target> .",
+        "D011692\tChemical\tPAN\tresult : follow intravenous <target> pan </target> urine volume and urine nag activity increase significantly by day two , but return to normal by day four .",
+        "D011507\tDisease\tproteinuria\tpeak urine nag activity and a change in nag isoenzyme pattern coincide with both the peak <target> proteinuria </target> and the reduction in intracellular protein and nag droplet ( day six onward ) ."
+    ]
+}

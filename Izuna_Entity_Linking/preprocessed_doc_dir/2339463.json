@@ -1,0 +1,110 @@
+{
+    "title": "Cerebral sinus thrombosis as a potential hazard of antifibrinolytic treatment in menorrhagia.",
+    "abst": "We describe a 42-year-old woman who developed superior sagittal and left transverse sinus thrombosis associated with prolonged epsilon-aminocaproic acid therapy for menorrhagia. This antifibrinolytic agent has been used in women with menorrhagia to promote clotting and reduce blood loss. Although increased risk of thromboembolic disease has been reported during treatment with epsilon-aminocaproic acid, cerebral sinus thrombosis has not been previously described. Careful use of epsilon-aminocaproic acid therapy is recommended.",
+    "title_plus_abst": "Cerebral sinus thrombosis as a potential hazard of antifibrinolytic treatment in menorrhagia. We describe a 42-year-old woman who developed superior sagittal and left transverse sinus thrombosis associated with prolonged epsilon-aminocaproic acid therapy for menorrhagia. This antifibrinolytic agent has been used in women with menorrhagia to promote clotting and reduce blood loss. Although increased risk of thromboembolic disease has been reported during treatment with epsilon-aminocaproic acid, cerebral sinus thrombosis has not been previously described. Careful use of epsilon-aminocaproic acid therapy is recommended.",
+    "pubmed_id": "2339463",
+    "entities": [
+        [
+            0,
+            25,
+            "Cerebral sinus thrombosis",
+            "Disease",
+            "D012851"
+        ],
+        [
+            81,
+            92,
+            "menorrhagia",
+            "Disease",
+            "D008595"
+        ],
+        [
+            221,
+            246,
+            "epsilon-aminocaproic acid",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            259,
+            270,
+            "menorrhagia",
+            "Disease",
+            "D008595"
+        ],
+        [
+            328,
+            339,
+            "menorrhagia",
+            "Disease",
+            "D008595"
+        ],
+        [
+            371,
+            381,
+            "blood loss",
+            "Disease",
+            "D006473"
+        ],
+        [
+            410,
+            432,
+            "thromboembolic disease",
+            "Disease",
+            "D013923"
+        ],
+        [
+            473,
+            498,
+            "epsilon-aminocaproic acid",
+            "Chemical",
+            "D015119"
+        ],
+        [
+            500,
+            525,
+            "cerebral sinus thrombosis",
+            "Disease",
+            "D012851"
+        ],
+        [
+            576,
+            601,
+            "epsilon-aminocaproic acid",
+            "Chemical",
+            "D015119"
+        ]
+    ],
+    "split_sentence": [
+        "Cerebral sinus thrombosis as a potential hazard of antifibrinolytic treatment in menorrhagia.",
+        "We describe a 42-year-old woman who developed superior sagittal and left transverse sinus thrombosis associated with prolonged epsilon-aminocaproic acid therapy for menorrhagia.",
+        "This antifibrinolytic agent has been used in women with menorrhagia to promote clotting and reduce blood loss.",
+        "Although increased risk of thromboembolic disease has been reported during treatment with epsilon-aminocaproic acid, cerebral sinus thrombosis has not been previously described.",
+        "Careful use of epsilon-aminocaproic acid therapy is recommended."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012851\tDisease\tCerebral sinus thrombosis\t<target> Cerebral sinus thrombosis </target> as a potential hazard of antifibrinolytic treatment in menorrhagia .",
+        "D008595\tDisease\tmenorrhagia\tCerebral sinus thrombosis as a potential hazard of antifibrinolytic treatment in <target> menorrhagia </target> .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\tWe describe a 42-year-old woman who developed superior sagittal and left transverse sinus thrombosis associated with prolonged <target> epsilon-aminocaproic acid </target> therapy for menorrhagia .",
+        "D008595\tDisease\tmenorrhagia\tWe describe a 42-year-old woman who developed superior sagittal and left transverse sinus thrombosis associated with prolonged epsilon-aminocaproic acid therapy for <target> menorrhagia </target> .",
+        "D008595\tDisease\tmenorrhagia\tThis antifibrinolytic agent has been used in women with <target> menorrhagia </target> to promote clotting and reduce blood loss .",
+        "D006473\tDisease\tblood loss\tThis antifibrinolytic agent has been used in women with menorrhagia to promote clotting and reduce <target> blood loss </target> .",
+        "D013923\tDisease\tthromboembolic disease\tAlthough increased risk of <target> thromboembolic disease </target> has been reported during treatment with epsilon-aminocaproic acid , cerebral sinus thrombosis has not been previously described .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\tAlthough increased risk of thromboembolic disease has been reported during treatment with <target> epsilon-aminocaproic acid </target> , cerebral sinus thrombosis has not been previously described .",
+        "D012851\tDisease\tcerebral sinus thrombosis\tAlthough increased risk of thromboembolic disease has been reported during treatment with epsilon-aminocaproic acid , <target> cerebral sinus thrombosis </target> has not been previously described .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\tCareful use of <target> epsilon-aminocaproic acid </target> therapy is recommended ."
+    ],
+    "lines_lemma": [
+        "D012851\tDisease\tCerebral sinus thrombosis\t<target> Cerebral sinus thrombosis </target> as a potential hazard of antifibrinolytic treatment in menorrhagia .",
+        "D008595\tDisease\tmenorrhagia\tcerebral sinus thrombosis as a potential hazard of antifibrinolytic treatment in <target> menorrhagia </target> .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\twe describe a 42-year-old woman who develop superior sagittal and leave transverse sinus thrombosis associate with prolonged <target> epsilon-aminocaproic acid </target> therapy for menorrhagia .",
+        "D008595\tDisease\tmenorrhagia\twe describe a 42-year-old woman who develop superior sagittal and leave transverse sinus thrombosis associate with prolonged epsilon-aminocaproic acid therapy for <target> menorrhagia </target> .",
+        "D008595\tDisease\tmenorrhagia\tthis antifibrinolytic agent have be use in woman with <target> menorrhagia </target> to promote clotting and reduce blood loss .",
+        "D006473\tDisease\tblood loss\tthis antifibrinolytic agent have be use in woman with menorrhagia to promote clotting and reduce <target> blood loss </target> .",
+        "D013923\tDisease\tthromboembolic disease\talthough increase risk of <target> thromboembolic disease </target> have be report during treatment with epsilon-aminocaproic acid , cerebral sinus thrombosis have not be previously describe .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\talthough increase risk of thromboembolic disease have be report during treatment with <target> epsilon-aminocaproic acid </target> , cerebral sinus thrombosis have not be previously describe .",
+        "D012851\tDisease\tcerebral sinus thrombosis\talthough increase risk of thromboembolic disease have be report during treatment with epsilon-aminocaproic acid , <target> cerebral sinus thrombosis </target> have not be previously describe .",
+        "D015119\tChemical\tepsilon-aminocaproic acid\tcareful use of <target> epsilon-aminocaproic acid </target> therapy be recommend ."
+    ]
+}

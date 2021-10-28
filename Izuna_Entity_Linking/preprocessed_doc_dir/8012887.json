@@ -1,0 +1,118 @@
+{
+    "title": "Failure of ancrod in the treatment of heparin-induced arterial thrombosis.",
+    "abst": "The morbidity and mortality associated with heparin-induced thrombosis remain high despite numerous empirical therapies. Ancrod has been used successfully for prophylaxis against development of thrombosis in patients with heparin induced platelet aggregation who require brief reexposure to heparin, but its success in patients who have developed the thrombosis syndrome is not well defined. The authors present a case of failure of ancrod treatment in a patient with heparin-induced thrombosis.",
+    "title_plus_abst": "Failure of ancrod in the treatment of heparin-induced arterial thrombosis. The morbidity and mortality associated with heparin-induced thrombosis remain high despite numerous empirical therapies. Ancrod has been used successfully for prophylaxis against development of thrombosis in patients with heparin induced platelet aggregation who require brief reexposure to heparin, but its success in patients who have developed the thrombosis syndrome is not well defined. The authors present a case of failure of ancrod treatment in a patient with heparin-induced thrombosis.",
+    "pubmed_id": "8012887",
+    "entities": [
+        [
+            38,
+            45,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            63,
+            73,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            119,
+            126,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            135,
+            145,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            269,
+            279,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            297,
+            304,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            313,
+            333,
+            "platelet aggregation",
+            "Disease",
+            "D001791"
+        ],
+        [
+            366,
+            373,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            426,
+            436,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            543,
+            550,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            559,
+            569,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ]
+    ],
+    "split_sentence": [
+        "Failure of ancrod in the treatment of heparin-induced arterial thrombosis.",
+        "The morbidity and mortality associated with heparin-induced thrombosis remain high despite numerous empirical therapies.",
+        "Ancrod has been used successfully for prophylaxis against development of thrombosis in patients with heparin induced platelet aggregation who require brief reexposure to heparin, but its success in patients who have developed the thrombosis syndrome is not well defined.",
+        "The authors present a case of failure of ancrod treatment in a patient with heparin-induced thrombosis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006493\tChemical\theparin\tFailure of ancrod in the treatment of <target> heparin </target> -induced arterial thrombosis .",
+        "D013927\tDisease\tthrombosis\tFailure of ancrod in the treatment of heparin-induced arterial <target> thrombosis </target> .",
+        "D006493\tChemical\theparin\tThe morbidity and mortality associated with <target> heparin </target> -induced thrombosis remain high despite numerous empirical therapies .",
+        "D013927\tDisease\tthrombosis\tThe morbidity and mortality associated with heparin-induced <target> thrombosis </target> remain high despite numerous empirical therapies .",
+        "D013927\tDisease\tthrombosis\tAncrod has been used successfully for prophylaxis against development of <target> thrombosis </target> in patients with heparin induced platelet aggregation who require brief reexposure to heparin , but its success in patients who have developed the thrombosis syndrome is not well defined .",
+        "D006493\tChemical\theparin\tAncrod has been used successfully for prophylaxis against development of thrombosis in patients with <target> heparin </target> induced platelet aggregation who require brief reexposure to heparin , but its success in patients who have developed the thrombosis syndrome is not well defined .",
+        "D001791\tDisease\tplatelet aggregation\tAncrod has been used successfully for prophylaxis against development of thrombosis in patients with heparin induced <target> platelet aggregation </target> who require brief reexposure to heparin , but its success in patients who have developed the thrombosis syndrome is not well defined .",
+        "D006493\tChemical\theparin\tAncrod has been used successfully for prophylaxis against development of thrombosis in patients with heparin induced platelet aggregation who require brief reexposure to <target> heparin </target> , but its success in patients who have developed the thrombosis syndrome is not well defined .",
+        "D013927\tDisease\tthrombosis\tAncrod has been used successfully for prophylaxis against development of thrombosis in patients with heparin induced platelet aggregation who require brief reexposure to heparin , but its success in patients who have developed the <target> thrombosis </target> syndrome is not well defined .",
+        "D006493\tChemical\theparin\tThe authors present a case of failure of ancrod treatment in a patient with <target> heparin </target> -induced thrombosis .",
+        "D013927\tDisease\tthrombosis\tThe authors present a case of failure of ancrod treatment in a patient with heparin-induced <target> thrombosis </target> ."
+    ],
+    "lines_lemma": [
+        "D006493\tChemical\theparin\tfailure of ancrod in the treatment of <target> heparin </target> -induced arterial thrombosis .",
+        "D013927\tDisease\tthrombosis\tfailure of ancrod in the treatment of heparin-induced arterial <target> thrombosis </target> .",
+        "D006493\tChemical\theparin\tthe morbidity and mortality associate with <target> heparin </target> -induced thrombosis remain high despite numerous empirical therapy .",
+        "D013927\tDisease\tthrombosis\tthe morbidity and mortality associate with heparin-induced <target> thrombosis </target> remain high despite numerous empirical therapy .",
+        "D013927\tDisease\tthrombosis\tAncrod have be use successfully for prophylaxis against development of <target> thrombosis </target> in patient with heparin induce platelet aggregation who require brief reexposure to heparin , but its success in patient who have develop the thrombosis syndrome be not well define .",
+        "D006493\tChemical\theparin\tAncrod have be use successfully for prophylaxis against development of thrombosis in patient with <target> heparin </target> induce platelet aggregation who require brief reexposure to heparin , but its success in patient who have develop the thrombosis syndrome be not well define .",
+        "D001791\tDisease\tplatelet aggregation\tAncrod have be use successfully for prophylaxis against development of thrombosis in patient with heparin induce <target> platelet aggregation </target> who require brief reexposure to heparin , but its success in patient who have develop the thrombosis syndrome be not well define .",
+        "D006493\tChemical\theparin\tAncrod have be use successfully for prophylaxis against development of thrombosis in patient with heparin induce platelet aggregation who require brief reexposure to <target> heparin </target> , but its success in patient who have develop the thrombosis syndrome be not well define .",
+        "D013927\tDisease\tthrombosis\tAncrod have be use successfully for prophylaxis against development of thrombosis in patient with heparin induce platelet aggregation who require brief reexposure to heparin , but its success in patient who have develop the <target> thrombosis </target> syndrome be not well define .",
+        "D006493\tChemical\theparin\tthe author present a case of failure of ancrod treatment in a patient with <target> heparin </target> -induced thrombosis .",
+        "D013927\tDisease\tthrombosis\tthe author present a case of failure of ancrod treatment in a patient with heparin-induced <target> thrombosis </target> ."
+    ]
+}

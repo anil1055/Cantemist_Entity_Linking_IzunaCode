@@ -1,0 +1,138 @@
+{
+    "title": "Ciprofloxacin-induced acute interstitial nephritis and autoimmune hemolytic anemia.",
+    "abst": "Ciprofloxacin has been associated with several side effects including interstitial nephritis and hemolytic anemia. The combination of both side effects is extremely rare. In this report, we describe a case of ciprofloxacin-induced interstitial nephritis and autoimmune hemolytic anemia. Hemolytic anemia improved after stopping the drug and initiation of steroid therapy. Unfortunately, acute interstitial nephritis was irreversible and the patient developed end-stage renal disease.",
+    "title_plus_abst": "Ciprofloxacin-induced acute interstitial nephritis and autoimmune hemolytic anemia. Ciprofloxacin has been associated with several side effects including interstitial nephritis and hemolytic anemia. The combination of both side effects is extremely rare. In this report, we describe a case of ciprofloxacin-induced interstitial nephritis and autoimmune hemolytic anemia. Hemolytic anemia improved after stopping the drug and initiation of steroid therapy. Unfortunately, acute interstitial nephritis was irreversible and the patient developed end-stage renal disease.",
+    "pubmed_id": "12911170",
+    "entities": [
+        [
+            0,
+            13,
+            "Ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            28,
+            50,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            55,
+            82,
+            "autoimmune hemolytic anemia",
+            "Disease",
+            "D000744"
+        ],
+        [
+            84,
+            97,
+            "Ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            154,
+            176,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            181,
+            197,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            293,
+            306,
+            "ciprofloxacin",
+            "Chemical",
+            "D002939"
+        ],
+        [
+            315,
+            337,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            342,
+            369,
+            "autoimmune hemolytic anemia",
+            "Disease",
+            "D000744"
+        ],
+        [
+            371,
+            387,
+            "Hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            439,
+            446,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            477,
+            499,
+            "interstitial nephritis",
+            "Disease",
+            "D009395"
+        ],
+        [
+            543,
+            566,
+            "end-stage renal disease",
+            "Disease",
+            "D007676"
+        ]
+    ],
+    "split_sentence": [
+        "Ciprofloxacin-induced acute interstitial nephritis and autoimmune hemolytic anemia.",
+        "Ciprofloxacin has been associated with several side effects including interstitial nephritis and hemolytic anemia.",
+        "The combination of both side effects is extremely rare.",
+        "In this report, we describe a case of ciprofloxacin-induced interstitial nephritis and autoimmune hemolytic anemia.",
+        "Hemolytic anemia improved after stopping the drug and initiation of steroid therapy.",
+        "Unfortunately, acute interstitial nephritis was irreversible and the patient developed end-stage renal disease."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002939\tChemical\tCiprofloxacin\t<target> Ciprofloxacin </target> -induced acute interstitial nephritis and autoimmune hemolytic anemia .",
+        "D009395\tDisease\tinterstitial nephritis\tCiprofloxacin-induced acute <target> interstitial nephritis </target> and autoimmune hemolytic anemia .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tCiprofloxacin-induced acute interstitial nephritis and <target> autoimmune hemolytic anemia </target> .",
+        "D002939\tChemical\tCiprofloxacin\t<target> Ciprofloxacin </target> has been associated with several side effects including interstitial nephritis and hemolytic anemia .",
+        "D009395\tDisease\tinterstitial nephritis\tCiprofloxacin has been associated with several side effects including <target> interstitial nephritis </target> and hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tCiprofloxacin has been associated with several side effects including interstitial nephritis and <target> hemolytic anemia </target> .",
+        "D002939\tChemical\tciprofloxacin\tIn this report , we describe a case of <target> ciprofloxacin </target> -induced interstitial nephritis and autoimmune hemolytic anemia .",
+        "D009395\tDisease\tinterstitial nephritis\tIn this report , we describe a case of ciprofloxacin-induced <target> interstitial nephritis </target> and autoimmune hemolytic anemia .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tIn this report , we describe a case of ciprofloxacin-induced interstitial nephritis and <target> autoimmune hemolytic anemia </target> .",
+        "D000743\tDisease\tHemolytic anemia\t<target> Hemolytic anemia </target> improved after stopping the drug and initiation of steroid therapy .",
+        "D013256\tChemical\tsteroid\tHemolytic anemia improved after stopping the drug and initiation of <target> steroid </target> therapy .",
+        "D009395\tDisease\tinterstitial nephritis\tUnfortunately , acute <target> interstitial nephritis </target> was irreversible and the patient developed end-stage renal disease .",
+        "D007676\tDisease\tend-stage renal disease\tUnfortunately , acute interstitial nephritis was irreversible and the patient developed <target> end-stage renal disease </target> ."
+    ],
+    "lines_lemma": [
+        "D002939\tChemical\tCiprofloxacin\t<target> ciprofloxacin </target> -induced acute interstitial nephritis and autoimmune hemolytic anemia .",
+        "D009395\tDisease\tinterstitial nephritis\tciprofloxacin-induced acute <target> interstitial nephritis </target> and autoimmune hemolytic anemia .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tciprofloxacin-induced acute interstitial nephritis and <target> autoimmune hemolytic anemia </target> .",
+        "D002939\tChemical\tCiprofloxacin\t<target> ciprofloxacin </target> have be associate with several side effect include interstitial nephritis and hemolytic anemia .",
+        "D009395\tDisease\tinterstitial nephritis\tciprofloxacin have be associate with several side effect include <target> interstitial nephritis </target> and hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tciprofloxacin have be associate with several side effect include interstitial nephritis and <target> hemolytic anemia </target> .",
+        "D002939\tChemical\tciprofloxacin\tin this report , we describe a case of <target> ciprofloxacin </target> -induced interstitial nephritis and autoimmune hemolytic anemia .",
+        "D009395\tDisease\tinterstitial nephritis\tin this report , we describe a case of ciprofloxacin-induced <target> interstitial nephritis </target> and autoimmune hemolytic anemia .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tin this report , we describe a case of ciprofloxacin-induced interstitial nephritis and <target> autoimmune hemolytic anemia </target> .",
+        "D000743\tDisease\tHemolytic anemia\t<target> hemolytic anemia </target> improve after stop the drug and initiation of steroid therapy .",
+        "D013256\tChemical\tsteroid\themolytic anemia improve after stop the drug and initiation of <target> steroid </target> therapy .",
+        "D009395\tDisease\tinterstitial nephritis\tunfortunately , acute <target> interstitial nephritis </target> be irreversible and the patient develop end-stage renal disease .",
+        "D007676\tDisease\tend-stage renal disease\tunfortunately , acute interstitial nephritis be irreversible and the patient develop <target> end-stage renal disease </target> ."
+    ]
+}

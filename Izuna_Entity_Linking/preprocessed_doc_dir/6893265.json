@@ -1,0 +1,63 @@
+{
+    "title": "Propylthiouracil-induced hepatic damage.",
+    "abst": "Two cases of propylthiouracil-induced liver damage have been observed. The first case is of an acute type of damage, proven by rechallenge; the second presents a clinical and histologic picture resembling chronic active hepatitis, with spontaneous remission.",
+    "title_plus_abst": "Propylthiouracil-induced hepatic damage. Two cases of propylthiouracil-induced liver damage have been observed. The first case is of an acute type of damage, proven by rechallenge; the second presents a clinical and histologic picture resembling chronic active hepatitis, with spontaneous remission.",
+    "pubmed_id": "6893265",
+    "entities": [
+        [
+            0,
+            16,
+            "Propylthiouracil",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            25,
+            39,
+            "hepatic damage",
+            "Disease",
+            "D056486"
+        ],
+        [
+            54,
+            70,
+            "propylthiouracil",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            79,
+            91,
+            "liver damage",
+            "Disease",
+            "D056486"
+        ],
+        [
+            246,
+            270,
+            "chronic active hepatitis",
+            "Disease",
+            "D006521"
+        ]
+    ],
+    "split_sentence": [
+        "Propylthiouracil-induced hepatic damage.",
+        "Two cases of propylthiouracil-induced liver damage have been observed.",
+        "The first case is of an acute type of damage, proven by rechallenge; the second presents a clinical and histologic picture resembling chronic active hepatitis, with spontaneous remission."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011441\tChemical\tPropylthiouracil\t<target> Propylthiouracil </target> -induced hepatic damage .",
+        "D056486\tDisease\thepatic damage\tPropylthiouracil-induced <target> hepatic damage </target> .",
+        "D011441\tChemical\tpropylthiouracil\tTwo cases of <target> propylthiouracil </target> -induced liver damage have been observed .",
+        "D056486\tDisease\tliver damage\tTwo cases of propylthiouracil-induced <target> liver damage </target> have been observed .",
+        "D006521\tDisease\tchronic active hepatitis\tThe first case is of an acute type of damage , proven by rechallenge ; the second presents a clinical and histologic picture resembling <target> chronic active hepatitis </target> , with spontaneous remission ."
+    ],
+    "lines_lemma": [
+        "D011441\tChemical\tPropylthiouracil\t<target> Propylthiouracil </target> -induced hepatic damage .",
+        "D056486\tDisease\thepatic damage\tpropylthiouracil-induced <target> hepatic damage </target> .",
+        "D011441\tChemical\tpropylthiouracil\ttwo case of <target> propylthiouracil </target> -induced liver damage have be observe .",
+        "D056486\tDisease\tliver damage\ttwo case of propylthiouracil-induced <target> liver damage </target> have be observe .",
+        "D006521\tDisease\tchronic active hepatitis\tthe first case be of an acute type of damage , prove by rechallenge ; the second present a clinical and histologic picture resemble <target> chronic active hepatitis </target> , with spontaneous remission ."
+    ]
+}

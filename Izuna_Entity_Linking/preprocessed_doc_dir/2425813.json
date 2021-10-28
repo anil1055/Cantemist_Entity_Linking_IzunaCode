@@ -1,0 +1,65 @@
+{
+    "title": "On two paradoxical side-effects of prednisolone in rats, ribosomal RNA biosyntheses, and a mechanism of action.",
+    "abst": "Liver enlargement and muscle wastage occurred in Wistar rats following the subcutaneous administration of prednisolone. In the liver both the content of RNA and the biosynthesis of ribosomal RNA increased while both the RNA content and ribosomal RNA biosynthesis were reduced in the gastrocnemius muscle. It is suggested that the drug acted in a selective and tissue-specific manner to enhance ribosomal RNA synthesis in the liver and depress such synthesis in the muscle. This view supports the contention that the liver and muscle are independent sites of prednisolone action.",
+    "title_plus_abst": "On two paradoxical side-effects of prednisolone in rats, ribosomal RNA biosyntheses, and a mechanism of action. Liver enlargement and muscle wastage occurred in Wistar rats following the subcutaneous administration of prednisolone. In the liver both the content of RNA and the biosynthesis of ribosomal RNA increased while both the RNA content and ribosomal RNA biosynthesis were reduced in the gastrocnemius muscle. It is suggested that the drug acted in a selective and tissue-specific manner to enhance ribosomal RNA synthesis in the liver and depress such synthesis in the muscle. This view supports the contention that the liver and muscle are independent sites of prednisolone action.",
+    "pubmed_id": "2425813",
+    "entities": [
+        [
+            35,
+            47,
+            "prednisolone",
+            "Chemical",
+            "D011239"
+        ],
+        [
+            112,
+            129,
+            "Liver enlargement",
+            "Disease",
+            "D006529"
+        ],
+        [
+            134,
+            148,
+            "muscle wastage",
+            "Disease",
+            "D009133"
+        ],
+        [
+            218,
+            230,
+            "prednisolone",
+            "Chemical",
+            "D011239"
+        ],
+        [
+            670,
+            682,
+            "prednisolone",
+            "Chemical",
+            "D011239"
+        ]
+    ],
+    "split_sentence": [
+        "On two paradoxical side-effects of prednisolone in rats, ribosomal RNA biosyntheses, and a mechanism of action.",
+        "Liver enlargement and muscle wastage occurred in Wistar rats following the subcutaneous administration of prednisolone.",
+        "In the liver both the content of RNA and the biosynthesis of ribosomal RNA increased while both the RNA content and ribosomal RNA biosynthesis were reduced in the gastrocnemius muscle.",
+        "It is suggested that the drug acted in a selective and tissue-specific manner to enhance ribosomal RNA synthesis in the liver and depress such synthesis in the muscle.",
+        "This view supports the contention that the liver and muscle are independent sites of prednisolone action."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011239\tChemical\tprednisolone\tOn two paradoxical side-effects of <target> prednisolone </target> in rats , ribosomal RNA biosyntheses , and a mechanism of action .",
+        "D006529\tDisease\tLiver enlargement\t<target> Liver enlargement </target> and muscle wastage occurred in Wistar rats following the subcutaneous administration of prednisolone .",
+        "D009133\tDisease\tmuscle wastage\tLiver enlargement and <target> muscle wastage </target> occurred in Wistar rats following the subcutaneous administration of prednisolone .",
+        "D011239\tChemical\tprednisolone\tLiver enlargement and muscle wastage occurred in Wistar rats following the subcutaneous administration of <target> prednisolone </target> .",
+        "D011239\tChemical\tprednisolone\tThis view supports the contention that the liver and muscle are independent sites of <target> prednisolone </target> action ."
+    ],
+    "lines_lemma": [
+        "D011239\tChemical\tprednisolone\ton two paradoxical side-effect of <target> prednisolone </target> in rat , ribosomal rna biosynthese , and a mechanism of action .",
+        "D006529\tDisease\tLiver enlargement\t<target> Liver enlargement </target> and muscle wastage occur in Wistar rat follow the subcutaneous administration of prednisolone .",
+        "D009133\tDisease\tmuscle wastage\tliver enlargement and <target> muscle wastage </target> occur in Wistar rat follow the subcutaneous administration of prednisolone .",
+        "D011239\tChemical\tprednisolone\tliver enlargement and muscle wastage occur in Wistar rat follow the subcutaneous administration of <target> prednisolone </target> .",
+        "D011239\tChemical\tprednisolone\tthis view support the contention that the liver and muscle be independent site of <target> prednisolone </target> action ."
+    ]
+}

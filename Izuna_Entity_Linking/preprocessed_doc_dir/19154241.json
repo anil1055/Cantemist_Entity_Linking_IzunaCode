@@ -1,0 +1,121 @@
+{
+    "title": "Long-term lithium therapy leading to hyperparathyroidism: a case report.",
+    "abst": "PURPOSE: This paper reviews the effect of chronic lithium therapy on serum calcium level and parathyroid glands, its pathogenesis, and treatment options. We examined the case of a lithium-treated patient who had recurrent hypercalcemia to better understand the disease process. CONCLUSION: Primary hyperparathyroidism is a rare but potentially life-threatening side effect of long-term lithium therapy. Careful patient selection and long-term follow-up can reduce morbidity. PRACTICAL IMPLICATIONS: As much as 15% of lithium-treated patients become hypercalcemic. By routinely monitoring serum calcium levels, healthcare providers can improve the quality of life of this patient group.",
+    "title_plus_abst": "Long-term lithium therapy leading to hyperparathyroidism: a case report. PURPOSE: This paper reviews the effect of chronic lithium therapy on serum calcium level and parathyroid glands, its pathogenesis, and treatment options. We examined the case of a lithium-treated patient who had recurrent hypercalcemia to better understand the disease process. CONCLUSION: Primary hyperparathyroidism is a rare but potentially life-threatening side effect of long-term lithium therapy. Careful patient selection and long-term follow-up can reduce morbidity. PRACTICAL IMPLICATIONS: As much as 15% of lithium-treated patients become hypercalcemic. By routinely monitoring serum calcium levels, healthcare providers can improve the quality of life of this patient group.",
+    "pubmed_id": "19154241",
+    "entities": [
+        [
+            10,
+            17,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            37,
+            56,
+            "hyperparathyroidism",
+            "Disease",
+            "D006961"
+        ],
+        [
+            123,
+            130,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            148,
+            155,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            253,
+            260,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            295,
+            308,
+            "hypercalcemia",
+            "Disease",
+            "D006934"
+        ],
+        [
+            363,
+            390,
+            "Primary hyperparathyroidism",
+            "Disease",
+            "D049950"
+        ],
+        [
+            459,
+            466,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            590,
+            597,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            622,
+            635,
+            "hypercalcemic",
+            "Disease",
+            "D006934"
+        ],
+        [
+            667,
+            674,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ]
+    ],
+    "split_sentence": [
+        "Long-term lithium therapy leading to hyperparathyroidism: a case report.",
+        "PURPOSE: This paper reviews the effect of chronic lithium therapy on serum calcium level and parathyroid glands, its pathogenesis, and treatment options.",
+        "We examined the case of a lithium-treated patient who had recurrent hypercalcemia to better understand the disease process.",
+        "CONCLUSION: Primary hyperparathyroidism is a rare but potentially life-threatening side effect of long-term lithium therapy.",
+        "Careful patient selection and long-term follow-up can reduce morbidity.",
+        "PRACTICAL IMPLICATIONS: As much as 15% of lithium-treated patients become hypercalcemic.",
+        "By routinely monitoring serum calcium levels, healthcare providers can improve the quality of life of this patient group."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008094\tChemical\tlithium\tLong-term <target> lithium </target> therapy leading to hyperparathyroidism : a case report .",
+        "D006961\tDisease\thyperparathyroidism\tLong-term lithium therapy leading to <target> hyperparathyroidism </target> : a case report .",
+        "D008094\tChemical\tlithium\tPURPOSE : This paper reviews the effect of chronic <target> lithium </target> therapy on serum calcium level and parathyroid glands , its pathogenesis , and treatment options .",
+        "D002118\tChemical\tcalcium\tPURPOSE : This paper reviews the effect of chronic lithium therapy on serum <target> calcium </target> level and parathyroid glands , its pathogenesis , and treatment options .",
+        "D008094\tChemical\tlithium\tWe examined the case of a <target> lithium </target> -treated patient who had recurrent hypercalcemia to better understand the disease process .",
+        "D006934\tDisease\thypercalcemia\tWe examined the case of a lithium-treated patient who had recurrent <target> hypercalcemia </target> to better understand the disease process .",
+        "D049950\tDisease\tPrimary hyperparathyroidism\tCONCLUSION : <target> Primary hyperparathyroidism </target> is a rare but potentially life-threatening side effect of long-term lithium therapy .",
+        "D008094\tChemical\tlithium\tCONCLUSION : Primary hyperparathyroidism is a rare but potentially life-threatening side effect of long-term <target> lithium </target> therapy .",
+        "D008094\tChemical\tlithium\tPRACTICAL IMPLICATIONS : As much as 15 % of <target> lithium </target> -treated patients become hypercalcemic .",
+        "D006934\tDisease\thypercalcemic\tPRACTICAL IMPLICATIONS : As much as 15 % of lithium-treated patients become <target> hypercalcemic </target> .",
+        "D002118\tChemical\tcalcium\tBy routinely monitoring serum <target> calcium </target> levels , healthcare providers can improve the quality of life of this patient group ."
+    ],
+    "lines_lemma": [
+        "D008094\tChemical\tlithium\tlong-term <target> lithium </target> therapy lead to hyperparathyroidism : a case report .",
+        "D006961\tDisease\thyperparathyroidism\tlong-term lithium therapy lead to <target> hyperparathyroidism </target> : a case report .",
+        "D008094\tChemical\tlithium\tpurpose : this paper review the effect of chronic <target> lithium </target> therapy on serum calcium level and parathyroid gland , its pathogenesis , and treatment option .",
+        "D002118\tChemical\tcalcium\tpurpose : this paper review the effect of chronic lithium therapy on serum <target> calcium </target> level and parathyroid gland , its pathogenesis , and treatment option .",
+        "D008094\tChemical\tlithium\twe examine the case of a <target> lithium </target> -treated patient who have recurrent hypercalcemia to well understand the disease process .",
+        "D006934\tDisease\thypercalcemia\twe examine the case of a lithium-treated patient who have recurrent <target> hypercalcemia </target> to well understand the disease process .",
+        "D049950\tDisease\tPrimary hyperparathyroidism\tconclusion : <target> primary hyperparathyroidism </target> be a rare but potentially life-threatening side effect of long-term lithium therapy .",
+        "D008094\tChemical\tlithium\tconclusion : primary hyperparathyroidism be a rare but potentially life-threatening side effect of long-term <target> lithium </target> therapy .",
+        "D008094\tChemical\tlithium\tPRACTICAL implication : as much as 15 % of <target> lithium </target> -treated patient become hypercalcemic .",
+        "D006934\tDisease\thypercalcemic\tPRACTICAL implication : as much as 15 % of lithium-treated patient become <target> hypercalcemic </target> .",
+        "D002118\tChemical\tcalcium\tby routinely monitor serum <target> calcium </target> level , healthcare provider can improve the quality of life of this patient group ."
+    ]
+}

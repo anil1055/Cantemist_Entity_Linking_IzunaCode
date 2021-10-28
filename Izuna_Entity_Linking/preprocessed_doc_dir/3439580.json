@@ -1,0 +1,176 @@
+{
+    "title": "Hypertension in neuroblastoma induced by imipramine.",
+    "abst": "Hypertension is a well-known finding in some patients with neuroblastoma. However, it has not previously been described in association with the use of Imipramine. We report the occurrence of severe hypertension (blood pressure 190/160) in a 4-year-old girl with neuroblastoma who was given Imipramine to control a behavior disorder. It was determined later that this patient's tumor was recurring at the time of her hypertensive episode. Since she had no blood pressure elevation at initial diagnosis and none following discontinuation of the Imipramine (when she was in florid relapse), we believe that this drug rather than her underlying disease alone caused her hypertension. The mechanism for this reaction is believed to be increased levels of vasoactive catecholamines due to interference of their physiologic inactivation by Imipramine. From this experience, we urge extreme caution in the use of tricyclic antidepressants in children with active neuroblastoma.",
+    "title_plus_abst": "Hypertension in neuroblastoma induced by imipramine. Hypertension is a well-known finding in some patients with neuroblastoma. However, it has not previously been described in association with the use of Imipramine. We report the occurrence of severe hypertension (blood pressure 190/160) in a 4-year-old girl with neuroblastoma who was given Imipramine to control a behavior disorder. It was determined later that this patient's tumor was recurring at the time of her hypertensive episode. Since she had no blood pressure elevation at initial diagnosis and none following discontinuation of the Imipramine (when she was in florid relapse), we believe that this drug rather than her underlying disease alone caused her hypertension. The mechanism for this reaction is believed to be increased levels of vasoactive catecholamines due to interference of their physiologic inactivation by Imipramine. From this experience, we urge extreme caution in the use of tricyclic antidepressants in children with active neuroblastoma.",
+    "pubmed_id": "3439580",
+    "entities": [
+        [
+            0,
+            12,
+            "Hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            16,
+            29,
+            "neuroblastoma",
+            "Disease",
+            "D009447"
+        ],
+        [
+            41,
+            51,
+            "imipramine",
+            "Chemical",
+            "D007099"
+        ],
+        [
+            53,
+            65,
+            "Hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            112,
+            125,
+            "neuroblastoma",
+            "Disease",
+            "D009447"
+        ],
+        [
+            204,
+            214,
+            "Imipramine",
+            "Chemical",
+            "D007099"
+        ],
+        [
+            251,
+            263,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            315,
+            328,
+            "neuroblastoma",
+            "Disease",
+            "D009447"
+        ],
+        [
+            343,
+            353,
+            "Imipramine",
+            "Chemical",
+            "D007099"
+        ],
+        [
+            367,
+            384,
+            "behavior disorder",
+            "Disease",
+            "D002653"
+        ],
+        [
+            430,
+            435,
+            "tumor",
+            "Disease",
+            "D009369"
+        ],
+        [
+            469,
+            481,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            596,
+            606,
+            "Imipramine",
+            "Chemical",
+            "D007099"
+        ],
+        [
+            719,
+            731,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            814,
+            828,
+            "catecholamines",
+            "Chemical",
+            "D002395"
+        ],
+        [
+            886,
+            896,
+            "Imipramine",
+            "Chemical",
+            "D007099"
+        ],
+        [
+            1008,
+            1021,
+            "neuroblastoma",
+            "Disease",
+            "D009447"
+        ]
+    ],
+    "split_sentence": [
+        "Hypertension in neuroblastoma induced by imipramine.",
+        "Hypertension is a well-known finding in some patients with neuroblastoma.",
+        "However, it has not previously been described in association with the use of Imipramine.",
+        "We report the occurrence of severe hypertension (blood pressure 190/160) in a 4-year-old girl with neuroblastoma who was given Imipramine to control a behavior disorder.",
+        "It was determined later that this patient's tumor was recurring at the time of her hypertensive episode.",
+        "Since she had no blood pressure elevation at initial diagnosis and none following discontinuation of the Imipramine (when she was in florid relapse), we believe that this drug rather than her underlying disease alone caused her hypertension.",
+        "The mechanism for this reaction is believed to be increased levels of vasoactive catecholamines due to interference of their physiologic inactivation by Imipramine.",
+        "From this experience, we urge extreme caution in the use of tricyclic antidepressants in children with active neuroblastoma."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006973\tDisease\tHypertension\t<target> Hypertension </target> in neuroblastoma induced by imipramine .",
+        "D009447\tDisease\tneuroblastoma\tHypertension in <target> neuroblastoma </target> induced by imipramine .",
+        "D007099\tChemical\timipramine\tHypertension in neuroblastoma induced by <target> imipramine </target> .",
+        "D006973\tDisease\tHypertension\t<target> Hypertension </target> is a well-known finding in some patients with neuroblastoma .",
+        "D009447\tDisease\tneuroblastoma\tHypertension is a well-known finding in some patients with <target> neuroblastoma </target> .",
+        "D007099\tChemical\tImipramine\tHowever , it has not previously been described in association with the use of <target> Imipramine </target> .",
+        "D006973\tDisease\thypertension\tWe report the occurrence of severe <target> hypertension </target> ( blood pressure 190/160 ) in a 4-year-old girl with neuroblastoma who was given Imipramine to control a behavior disorder .",
+        "D009447\tDisease\tneuroblastoma\tWe report the occurrence of severe hypertension ( blood pressure 190/160 ) in a 4-year-old girl with <target> neuroblastoma </target> who was given Imipramine to control a behavior disorder .",
+        "D007099\tChemical\tImipramine\tWe report the occurrence of severe hypertension ( blood pressure 190/160 ) in a 4-year-old girl with neuroblastoma who was given <target> Imipramine </target> to control a behavior disorder .",
+        "D002653\tDisease\tbehavior disorder\tWe report the occurrence of severe hypertension ( blood pressure 190/160 ) in a 4-year-old girl with neuroblastoma who was given Imipramine to control a <target> behavior disorder </target> .",
+        "D009369\tDisease\ttumor\tIt was determined later that this patient 's <target> tumor </target> was recurring at the time of her hypertensive episode .",
+        "D006973\tDisease\thypertensive\tIt was determined later that this patient 's tumor was recurring at the time of her <target> hypertensive </target> episode .",
+        "D007099\tChemical\tImipramine\tSince she had no blood pressure elevation at initial diagnosis and none following discontinuation of the <target> Imipramine </target> ( when she was in florid relapse ) , we believe that this drug rather than her underlying disease alone caused her hypertension .",
+        "D006973\tDisease\thypertension\tSince she had no blood pressure elevation at initial diagnosis and none following discontinuation of the Imipramine ( when she was in florid relapse ) , we believe that this drug rather than her underlying disease alone caused her <target> hypertension </target> .",
+        "D002395\tChemical\tcatecholamines\tThe mechanism for this reaction is believed to be increased levels of vasoactive <target> catecholamines </target> due to interference of their physiologic inactivation by Imipramine .",
+        "D007099\tChemical\tImipramine\tThe mechanism for this reaction is believed to be increased levels of vasoactive catecholamines due to interference of their physiologic inactivation by <target> Imipramine </target> .",
+        "D009447\tDisease\tneuroblastoma\tFrom this experience , we urge extreme caution in the use of tricyclic antidepressants in children with active <target> neuroblastoma </target> ."
+    ],
+    "lines_lemma": [
+        "D006973\tDisease\tHypertension\t<target> hypertension </target> in neuroblastoma induce by imipramine .",
+        "D009447\tDisease\tneuroblastoma\thypertension in <target> neuroblastoma </target> induce by imipramine .",
+        "D007099\tChemical\timipramine\thypertension in neuroblastoma induce by <target> imipramine </target> .",
+        "D006973\tDisease\tHypertension\t<target> hypertension </target> be a well-known finding in some patient with neuroblastoma .",
+        "D009447\tDisease\tneuroblastoma\thypertension be a well-known finding in some patient with <target> neuroblastoma </target> .",
+        "D007099\tChemical\tImipramine\thowever , it have not previously be describe in association with the use of <target> Imipramine </target> .",
+        "D006973\tDisease\thypertension\twe report the occurrence of severe <target> hypertension </target> ( blood pressure 190/160 ) in a 4-year-old girl with neuroblastoma who be give Imipramine to control a behavior disorder .",
+        "D009447\tDisease\tneuroblastoma\twe report the occurrence of severe hypertension ( blood pressure 190/160 ) in a 4-year-old girl with <target> neuroblastoma </target> who be give Imipramine to control a behavior disorder .",
+        "D007099\tChemical\tImipramine\twe report the occurrence of severe hypertension ( blood pressure 190/160 ) in a 4-year-old girl with neuroblastoma who be give <target> Imipramine </target> to control a behavior disorder .",
+        "D002653\tDisease\tbehavior disorder\twe report the occurrence of severe hypertension ( blood pressure 190/160 ) in a 4-year-old girl with neuroblastoma who be give Imipramine to control a <target> behavior disorder </target> .",
+        "D009369\tDisease\ttumor\tit be determine later that this patient 's <target> tumor </target> be recur at the time of her hypertensive episode .",
+        "D006973\tDisease\thypertensive\tit be determine later that this patient 's tumor be recur at the time of her <target> hypertensive </target> episode .",
+        "D007099\tChemical\tImipramine\tsince she have no blood pressure elevation at initial diagnosis and none follow discontinuation of the <target> Imipramine </target> ( when she be in florid relapse ) , we believe that this drug rather than her underlying disease alone cause her hypertension .",
+        "D006973\tDisease\thypertension\tsince she have no blood pressure elevation at initial diagnosis and none follow discontinuation of the Imipramine ( when she be in florid relapse ) , we believe that this drug rather than her underlying disease alone cause her <target> hypertension </target> .",
+        "D002395\tChemical\tcatecholamines\tthe mechanism for this reaction be believe to be increase level of vasoactive <target> catecholamine </target> due to interference of their physiologic inactivation by Imipramine .",
+        "D007099\tChemical\tImipramine\tthe mechanism for this reaction be believe to be increase level of vasoactive catecholamine due to interference of their physiologic inactivation by <target> Imipramine </target> .",
+        "D009447\tDisease\tneuroblastoma\tfrom this experience , we urge extreme caution in the use of tricyclic antidepressant in child with active <target> neuroblastoma </target> ."
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Cephalothin-induced immune hemolytic anemia.",
+    "abst": "A patient with renal disease developed Coombs-positive hemolytic anemia while receiving cephalothin therapy. An anti-cephalothin IgG antibody was detected in the patient's serum and in the eluates from her erythrocytes. In addition, nonimmunologic binding of normal and patient's serum proteins to her own and cephalothin-coated normal red cells was demonstrated. Skin tests and in vitro lymphocyte stimulation revealed that the patient was sensitized to cephalothin and also to ampicillin. Careful investigation of drug-induced hemolytic anemias reveals the complexity of the immune mechanisms involved.",
+    "title_plus_abst": "Cephalothin-induced immune hemolytic anemia. A patient with renal disease developed Coombs-positive hemolytic anemia while receiving cephalothin therapy. An anti-cephalothin IgG antibody was detected in the patient's serum and in the eluates from her erythrocytes. In addition, nonimmunologic binding of normal and patient's serum proteins to her own and cephalothin-coated normal red cells was demonstrated. Skin tests and in vitro lymphocyte stimulation revealed that the patient was sensitized to cephalothin and also to ampicillin. Careful investigation of drug-induced hemolytic anemias reveals the complexity of the immune mechanisms involved.",
+    "pubmed_id": "816141",
+    "entities": [
+        [
+            0,
+            11,
+            "Cephalothin",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            27,
+            43,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            60,
+            73,
+            "renal disease",
+            "Disease",
+            "D007674"
+        ],
+        [
+            100,
+            116,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            133,
+            144,
+            "cephalothin",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            162,
+            173,
+            "cephalothin",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            355,
+            366,
+            "cephalothin",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            500,
+            511,
+            "cephalothin",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            524,
+            534,
+            "ampicillin",
+            "Chemical",
+            "D000667"
+        ],
+        [
+            574,
+            591,
+            "hemolytic anemias",
+            "Disease",
+            "D000743"
+        ]
+    ],
+    "split_sentence": [
+        "Cephalothin-induced immune hemolytic anemia.",
+        "A patient with renal disease developed Coombs-positive hemolytic anemia while receiving cephalothin therapy.",
+        "An anti-cephalothin IgG antibody was detected in the patient's serum and in the eluates from her erythrocytes.",
+        "In addition, nonimmunologic binding of normal and patient's serum proteins to her own and cephalothin-coated normal red cells was demonstrated.",
+        "Skin tests and in vitro lymphocyte stimulation revealed that the patient was sensitized to cephalothin and also to ampicillin.",
+        "Careful investigation of drug-induced hemolytic anemias reveals the complexity of the immune mechanisms involved."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002512\tChemical\tCephalothin\t<target> Cephalothin </target> -induced immune hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tCephalothin-induced immune <target> hemolytic anemia </target> .",
+        "D007674\tDisease\trenal disease\tA patient with <target> renal disease </target> developed Coombs-positive hemolytic anemia while receiving cephalothin therapy .",
+        "D000743\tDisease\themolytic anemia\tA patient with renal disease developed Coombs-positive <target> hemolytic anemia </target> while receiving cephalothin therapy .",
+        "D002512\tChemical\tcephalothin\tA patient with renal disease developed Coombs-positive hemolytic anemia while receiving <target> cephalothin </target> therapy .",
+        "D002512\tChemical\tcephalothin\tAn anti- <target> cephalothin </target> IgG antibody was detected in the patient 's serum and in the eluates from her erythrocytes .",
+        "D002512\tChemical\tcephalothin\tIn addition , nonimmunologic binding of normal and patient 's serum proteins to her own and <target> cephalothin </target> -coated normal red cells was demonstrated .",
+        "D002512\tChemical\tcephalothin\tSkin tests and in vitro lymphocyte stimulation revealed that the patient was sensitized to <target> cephalothin </target> and also to ampicillin .",
+        "D000667\tChemical\tampicillin\tSkin tests and in vitro lymphocyte stimulation revealed that the patient was sensitized to cephalothin and also to <target> ampicillin </target> .",
+        "D000743\tDisease\themolytic anemias\tCareful investigation of drug-induced <target> hemolytic anemias </target> reveals the complexity of the immune mechanisms involved ."
+    ],
+    "lines_lemma": [
+        "D002512\tChemical\tCephalothin\t<target> cephalothin </target> -induced immune hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tcephalothin-induced immune <target> hemolytic anemia </target> .",
+        "D007674\tDisease\trenal disease\ta patient with <target> renal disease </target> develop coombs-positive hemolytic anemia while receive cephalothin therapy .",
+        "D000743\tDisease\themolytic anemia\ta patient with renal disease develop coombs-positive <target> hemolytic anemia </target> while receive cephalothin therapy .",
+        "D002512\tChemical\tcephalothin\ta patient with renal disease develop coombs-positive hemolytic anemia while receive <target> cephalothin </target> therapy .",
+        "D002512\tChemical\tcephalothin\tan anti- <target> cephalothin </target> igg antibody be detect in the patient 's serum and in the eluate from her erythrocyte .",
+        "D002512\tChemical\tcephalothin\tin addition , nonimmunologic binding of normal and patient 's serum protein to her own and <target> cephalothin </target> -coated normal red cell be demonstrate .",
+        "D002512\tChemical\tcephalothin\tskin test and in vitro lymphocyte stimulation reveal that the patient be sensitize to <target> cephalothin </target> and also to ampicillin .",
+        "D000667\tChemical\tampicillin\tskin test and in vitro lymphocyte stimulation reveal that the patient be sensitize to cephalothin and also to <target> ampicillin </target> .",
+        "D000743\tDisease\themolytic anemias\tcareful investigation of drug-induced <target> hemolytic anemia </target> reveal the complexity of the immune mechanism involve ."
+    ]
+}

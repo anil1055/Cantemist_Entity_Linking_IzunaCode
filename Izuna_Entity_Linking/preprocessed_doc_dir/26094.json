@@ -1,0 +1,119 @@
+{
+    "title": "Antihypertensive drugs and depression: a reappraisal.",
+    "abst": "Eighty-nine new referral hypertensive out-patients and 46 new referral non-hypertensive chronically physically ill out-patients completed a mood rating scale at regular intervals for one year. The results showed a high prevalence of depression in both groups of patients, with no preponderance in the hypertensive group. Hypertensive patients with psychiatric histories had a higher prevalence of depression than the comparison patients. This was accounted for by a significant number of depressions occurring in methyl dopa treated patients with psychiatric histories.",
+    "title_plus_abst": "Antihypertensive drugs and depression: a reappraisal. Eighty-nine new referral hypertensive out-patients and 46 new referral non-hypertensive chronically physically ill out-patients completed a mood rating scale at regular intervals for one year. The results showed a high prevalence of depression in both groups of patients, with no preponderance in the hypertensive group. Hypertensive patients with psychiatric histories had a higher prevalence of depression than the comparison patients. This was accounted for by a significant number of depressions occurring in methyl dopa treated patients with psychiatric histories.",
+    "pubmed_id": "26094",
+    "entities": [
+        [
+            27,
+            37,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            79,
+            91,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            129,
+            141,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            287,
+            297,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            355,
+            367,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            375,
+            387,
+            "Hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            402,
+            413,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ],
+        [
+            451,
+            461,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            542,
+            553,
+            "depressions",
+            "Disease",
+            "D003866"
+        ],
+        [
+            567,
+            578,
+            "methyl dopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            601,
+            612,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ]
+    ],
+    "split_sentence": [
+        "Antihypertensive drugs and depression: a reappraisal.",
+        "Eighty-nine new referral hypertensive out-patients and 46 new referral non-hypertensive chronically physically ill out-patients completed a mood rating scale at regular intervals for one year.",
+        "The results showed a high prevalence of depression in both groups of patients, with no preponderance in the hypertensive group.",
+        "Hypertensive patients with psychiatric histories had a higher prevalence of depression than the comparison patients.",
+        "This was accounted for by a significant number of depressions occurring in methyl dopa treated patients with psychiatric histories."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003866\tDisease\tdepression\tAntihypertensive drugs and <target> depression </target> : a reappraisal .",
+        "D006973\tDisease\thypertensive\tEighty-nine new referral <target> hypertensive </target> out-patients and 46 new referral non-hypertensive chronically physically ill out-patients completed a mood rating scale at regular intervals for one year .",
+        "D006973\tDisease\thypertensive\tEighty-nine new referral hypertensive out-patients and 46 new referral non- <target> hypertensive </target> chronically physically ill out-patients completed a mood rating scale at regular intervals for one year .",
+        "D003866\tDisease\tdepression\tThe results showed a high prevalence of <target> depression </target> in both groups of patients , with no preponderance in the hypertensive group .",
+        "D006973\tDisease\thypertensive\tThe results showed a high prevalence of depression in both groups of patients , with no preponderance in the <target> hypertensive </target> group .",
+        "D006973\tDisease\tHypertensive\t<target> Hypertensive </target> patients with psychiatric histories had a higher prevalence of depression than the comparison patients .",
+        "D001523\tDisease\tpsychiatric\tHypertensive patients with <target> psychiatric </target> histories had a higher prevalence of depression than the comparison patients .",
+        "D003866\tDisease\tdepression\tHypertensive patients with psychiatric histories had a higher prevalence of <target> depression </target> than the comparison patients .",
+        "D003866\tDisease\tdepressions\tThis was accounted for by a significant number of <target> depressions </target> occurring in methyl dopa treated patients with psychiatric histories .",
+        "D008750\tChemical\tmethyl dopa\tThis was accounted for by a significant number of depressions occurring in <target> methyl dopa </target> treated patients with psychiatric histories .",
+        "D001523\tDisease\tpsychiatric\tThis was accounted for by a significant number of depressions occurring in methyl dopa treated patients with <target> psychiatric </target> histories ."
+    ],
+    "lines_lemma": [
+        "D003866\tDisease\tdepression\tantihypertensive drug and <target> depression </target> : a reappraisal .",
+        "D006973\tDisease\thypertensive\teighty-nine new referral <target> hypertensive </target> out-patient and 46 new referral non-hypertensive chronically physically ill out-patient complete a mood rating scale at regular interval for one year .",
+        "D006973\tDisease\thypertensive\teighty-nine new referral hypertensive out-patient and 46 new referral non- <target> hypertensive </target> chronically physically ill out-patient complete a mood rating scale at regular interval for one year .",
+        "D003866\tDisease\tdepression\tthe result show a high prevalence of <target> depression </target> in both group of patient , with no preponderance in the hypertensive group .",
+        "D006973\tDisease\thypertensive\tthe result show a high prevalence of depression in both group of patient , with no preponderance in the <target> hypertensive </target> group .",
+        "D006973\tDisease\tHypertensive\t<target> Hypertensive </target> patient with psychiatric history have a high prevalence of depression than the comparison patient .",
+        "D001523\tDisease\tpsychiatric\thypertensive patient with <target> psychiatric </target> history have a high prevalence of depression than the comparison patient .",
+        "D003866\tDisease\tdepression\thypertensive patient with psychiatric history have a high prevalence of <target> depression </target> than the comparison patient .",
+        "D003866\tDisease\tdepressions\tthis be account for by a significant number of <target> depression </target> occur in methyl dopa treat patient with psychiatric history .",
+        "D008750\tChemical\tmethyl dopa\tthis be account for by a significant number of depression occur in <target> methyl dopa </target> treat patient with psychiatric history .",
+        "D001523\tDisease\tpsychiatric\tthis be account for by a significant number of depression occur in methyl dopa treat patient with <target> psychiatric </target> history ."
+    ]
+}

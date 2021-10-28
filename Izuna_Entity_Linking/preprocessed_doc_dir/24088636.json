@@ -1,0 +1,178 @@
+{
+    "title": "Linezolid-induced optic neuropathy.",
+    "abst": "Many systemic antimicrobials have been implicated to cause ocular adverse effects. This is especially relevant in multidrug therapy where more than one drug can cause a similar ocular adverse effect. We describe a case of progressive loss of vision associated with linezolid therapy. A 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and ethambutol for extensively drug-resistant tuberculosis (XDR-TB) presented to us with painless progressive loss of vision in both eyes. Color vision was defective and fundus examination revealed optic disc edema in both eyes. Ethambutol-induced toxic optic neuropathy was suspected and tablet ethambutol was withdrawn. Deterioration of vision occurred despite withdrawal of ethambutol. Discontinuation of linezolid resulted in marked improvement of vision. Our report emphasizes the need for monitoring of visual function in patients on long-term linezolid treatment.",
+    "title_plus_abst": "Linezolid-induced optic neuropathy. Many systemic antimicrobials have been implicated to cause ocular adverse effects. This is especially relevant in multidrug therapy where more than one drug can cause a similar ocular adverse effect. We describe a case of progressive loss of vision associated with linezolid therapy. A 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and ethambutol for extensively drug-resistant tuberculosis (XDR-TB) presented to us with painless progressive loss of vision in both eyes. Color vision was defective and fundus examination revealed optic disc edema in both eyes. Ethambutol-induced toxic optic neuropathy was suspected and tablet ethambutol was withdrawn. Deterioration of vision occurred despite withdrawal of ethambutol. Discontinuation of linezolid resulted in marked improvement of vision. Our report emphasizes the need for monitoring of visual function in patients on long-term linezolid treatment.",
+    "pubmed_id": "24088636",
+    "entities": [
+        [
+            0,
+            9,
+            "Linezolid",
+            "Chemical",
+            "C098010"
+        ],
+        [
+            18,
+            34,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            270,
+            284,
+            "loss of vision",
+            "Disease",
+            "D014786"
+        ],
+        [
+            301,
+            310,
+            "linezolid",
+            "Chemical",
+            "C098010"
+        ],
+        [
+            427,
+            436,
+            "linezolid",
+            "Chemical",
+            "C098010"
+        ],
+        [
+            441,
+            451,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            456,
+            495,
+            "extensively drug-resistant tuberculosis",
+            "Disease",
+            "D054908"
+        ],
+        [
+            497,
+            503,
+            "XDR-TB",
+            "Disease",
+            "D054908"
+        ],
+        [
+            547,
+            561,
+            "loss of vision",
+            "Disease",
+            "D014786"
+        ],
+        [
+            635,
+            651,
+            "optic disc edema",
+            "Disease",
+            "C531767"
+        ],
+        [
+            666,
+            676,
+            "Ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            685,
+            707,
+            "toxic optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            733,
+            743,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            759,
+            782,
+            "Deterioration of vision",
+            "Disease",
+            "D015354"
+        ],
+        [
+            814,
+            824,
+            "ethambutol",
+            "Chemical",
+            "D004977"
+        ],
+        [
+            845,
+            854,
+            "linezolid",
+            "Chemical",
+            "C098010"
+        ],
+        [
+            987,
+            996,
+            "linezolid",
+            "Chemical",
+            "C098010"
+        ]
+    ],
+    "split_sentence": [
+        "Linezolid-induced optic neuropathy.",
+        "Many systemic antimicrobials have been implicated to cause ocular adverse effects.",
+        "This is especially relevant in multidrug therapy where more than one drug can cause a similar ocular adverse effect.",
+        "We describe a case of progressive loss of vision associated with linezolid therapy.",
+        "A 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and ethambutol for extensively drug-resistant tuberculosis (XDR-TB) presented to us with painless progressive loss of vision in both eyes.",
+        "Color vision was defective and fundus examination revealed optic disc edema in both eyes.",
+        "Ethambutol-induced toxic optic neuropathy was suspected and tablet ethambutol was withdrawn.",
+        "Deterioration of vision occurred despite withdrawal of ethambutol.",
+        "Discontinuation of linezolid resulted in marked improvement of vision.",
+        "Our report emphasizes the need for monitoring of visual function in patients on long-term linezolid treatment."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C098010\tChemical\tLinezolid\t<target> Linezolid </target> -induced optic neuropathy .",
+        "D009901\tDisease\toptic neuropathy\tLinezolid-induced <target> optic neuropathy </target> .",
+        "D014786\tDisease\tloss of vision\tWe describe a case of progressive <target> loss of vision </target> associated with linezolid therapy .",
+        "C098010\tChemical\tlinezolid\tWe describe a case of progressive loss of vision associated with <target> linezolid </target> therapy .",
+        "C098010\tChemical\tlinezolid\tA 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including <target> linezolid </target> and ethambutol for extensively drug-resistant tuberculosis ( XDR-TB ) presented to us with painless progressive loss of vision in both eyes .",
+        "D004977\tChemical\tethambutol\tA 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and <target> ethambutol </target> for extensively drug-resistant tuberculosis ( XDR-TB ) presented to us with painless progressive loss of vision in both eyes .",
+        "D054908\tDisease\textensively drug-resistant tuberculosis\tA 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and ethambutol for <target> extensively drug-resistant tuberculosis </target> ( XDR-TB ) presented to us with painless progressive loss of vision in both eyes .",
+        "D054908\tDisease\tXDR-TB\tA 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and ethambutol for extensively drug-resistant tuberculosis ( <target> XDR-TB </target> ) presented to us with painless progressive loss of vision in both eyes .",
+        "D014786\tDisease\tloss of vision\tA 45-year-old male patient who was on treatment with multiple second-line anti-tuberculous drugs including linezolid and ethambutol for extensively drug-resistant tuberculosis ( XDR-TB ) presented to us with painless progressive <target> loss of vision </target> in both eyes .",
+        "C531767\tDisease\toptic disc edema\tColor vision was defective and fundus examination revealed <target> optic disc edema </target> in both eyes .",
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> -induced toxic optic neuropathy was suspected and tablet ethambutol was withdrawn .",
+        "D009901\tDisease\ttoxic optic neuropathy\tEthambutol-induced <target> toxic optic neuropathy </target> was suspected and tablet ethambutol was withdrawn .",
+        "D004977\tChemical\tethambutol\tEthambutol-induced toxic optic neuropathy was suspected and tablet <target> ethambutol </target> was withdrawn .",
+        "D015354\tDisease\tDeterioration of vision\t<target> Deterioration of vision </target> occurred despite withdrawal of ethambutol .",
+        "D004977\tChemical\tethambutol\tDeterioration of vision occurred despite withdrawal of <target> ethambutol </target> .",
+        "C098010\tChemical\tlinezolid\tDiscontinuation of <target> linezolid </target> resulted in marked improvement of vision .",
+        "C098010\tChemical\tlinezolid\tOur report emphasizes the need for monitoring of visual function in patients on long-term <target> linezolid </target> treatment ."
+    ],
+    "lines_lemma": [
+        "C098010\tChemical\tLinezolid\t<target> linezolid </target> -induced optic neuropathy .",
+        "D009901\tDisease\toptic neuropathy\tlinezolid-induced <target> optic neuropathy </target> .",
+        "D014786\tDisease\tloss of vision\twe describe a case of progressive <target> loss of vision </target> associate with linezolid therapy .",
+        "C098010\tChemical\tlinezolid\twe describe a case of progressive loss of vision associate with <target> linezolid </target> therapy .",
+        "C098010\tChemical\tlinezolid\ta 45-year-old male patient who be on treatment with multiple second-line anti-tuberculous drug include <target> linezolid </target> and ethambutol for extensively drug-resistant tuberculosis ( xdr-tb ) present to we with painless progressive loss of vision in both eye .",
+        "D004977\tChemical\tethambutol\ta 45-year-old male patient who be on treatment with multiple second-line anti-tuberculous drug include linezolid and <target> ethambutol </target> for extensively drug-resistant tuberculosis ( xdr-tb ) present to we with painless progressive loss of vision in both eye .",
+        "D054908\tDisease\textensively drug-resistant tuberculosis\ta 45-year-old male patient who be on treatment with multiple second-line anti-tuberculous drug include linezolid and ethambutol for <target> extensively drug-resistant tuberculosis </target> ( xdr-tb ) present to we with painless progressive loss of vision in both eye .",
+        "D054908\tDisease\tXDR-TB\ta 45-year-old male patient who be on treatment with multiple second-line anti-tuberculous drug include linezolid and ethambutol for extensively drug-resistant tuberculosis ( <target> xdr-tb </target> ) present to we with painless progressive loss of vision in both eye .",
+        "D014786\tDisease\tloss of vision\ta 45-year-old male patient who be on treatment with multiple second-line anti-tuberculous drug include linezolid and ethambutol for extensively drug-resistant tuberculosis ( xdr-tb ) present to we with painless progressive <target> loss of vision </target> in both eye .",
+        "C531767\tDisease\toptic disc edema\tcolor vision be defective and fundus examination reveal <target> optic disc edema </target> in both eye .",
+        "D004977\tChemical\tEthambutol\t<target> Ethambutol </target> -induced toxic optic neuropathy be suspect and tablet ethambutol be withdraw .",
+        "D009901\tDisease\ttoxic optic neuropathy\tethambutol-induced <target> toxic optic neuropathy </target> be suspect and tablet ethambutol be withdraw .",
+        "D004977\tChemical\tethambutol\tethambutol-induced toxic optic neuropathy be suspect and tablet <target> ethambutol </target> be withdraw .",
+        "D015354\tDisease\tDeterioration of vision\t<target> deterioration of vision </target> occur despite withdrawal of ethambutol .",
+        "D004977\tChemical\tethambutol\tdeterioration of vision occur despite withdrawal of <target> ethambutol </target> .",
+        "C098010\tChemical\tlinezolid\tdiscontinuation of <target> linezolid </target> result in marked improvement of vision .",
+        "C098010\tChemical\tlinezolid\tour report emphasize the need for monitoring of visual function in patient on long-term <target> linezolid </target> treatment ."
+    ]
+}

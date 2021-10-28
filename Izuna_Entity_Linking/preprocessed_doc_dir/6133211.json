@@ -1,0 +1,121 @@
+{
+    "title": "Possible teratogenicity of sulphasalazine.",
+    "abst": "Three infants, born of two mothers with inflammatory bowel disease who received treatment with sulphasalazine throughout pregnancy, were found to have major congenital anomalies. In the singleton pregnancy, the mother had ulcerative colitis, and the infant, a male, had coarctation of the aorta and a ventricular septal defect. In the twin pregnancy, the mother had Crohn's disease. The first twin, a female, had a left Potter-type IIa polycystic kidney and a rudimentary left uterine cornu. The second twin, a male, had some features of Potter's facies, hypoplastic lungs, absent kidneys and ureters, and talipes equinovarus. Despite reports to the contrary, it is suggested that sulphasalazine may be teratogenic.",
+    "title_plus_abst": "Possible teratogenicity of sulphasalazine. Three infants, born of two mothers with inflammatory bowel disease who received treatment with sulphasalazine throughout pregnancy, were found to have major congenital anomalies. In the singleton pregnancy, the mother had ulcerative colitis, and the infant, a male, had coarctation of the aorta and a ventricular septal defect. In the twin pregnancy, the mother had Crohn's disease. The first twin, a female, had a left Potter-type IIa polycystic kidney and a rudimentary left uterine cornu. The second twin, a male, had some features of Potter's facies, hypoplastic lungs, absent kidneys and ureters, and talipes equinovarus. Despite reports to the contrary, it is suggested that sulphasalazine may be teratogenic.",
+    "pubmed_id": "6133211",
+    "entities": [
+        [
+            27,
+            41,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            83,
+            109,
+            "inflammatory bowel disease",
+            "Disease",
+            "D015212"
+        ],
+        [
+            138,
+            152,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            200,
+            220,
+            "congenital anomalies",
+            "Disease",
+            "D000013"
+        ],
+        [
+            265,
+            283,
+            "ulcerative colitis",
+            "Disease",
+            "D003093"
+        ],
+        [
+            313,
+            337,
+            "coarctation of the aorta",
+            "Disease",
+            "D001017"
+        ],
+        [
+            344,
+            369,
+            "ventricular septal defect",
+            "Disease",
+            "D006345"
+        ],
+        [
+            409,
+            424,
+            "Crohn's disease",
+            "Disease",
+            "D003424"
+        ],
+        [
+            463,
+            496,
+            "Potter-type IIa polycystic kidney",
+            "Disease",
+            "D007690"
+        ],
+        [
+            649,
+            668,
+            "talipes equinovarus",
+            "Disease",
+            "D003025"
+        ],
+        [
+            724,
+            738,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ]
+    ],
+    "split_sentence": [
+        "Possible teratogenicity of sulphasalazine.",
+        "Three infants, born of two mothers with inflammatory bowel disease who received treatment with sulphasalazine throughout pregnancy, were found to have major congenital anomalies.",
+        "In the singleton pregnancy, the mother had ulcerative colitis, and the infant, a male, had coarctation of the aorta and a ventricular septal defect.",
+        "In the twin pregnancy, the mother had Crohn's disease.",
+        "The first twin, a female, had a left Potter-type IIa polycystic kidney and a rudimentary left uterine cornu.",
+        "The second twin, a male, had some features of Potter's facies, hypoplastic lungs, absent kidneys and ureters, and talipes equinovarus.",
+        "Despite reports to the contrary, it is suggested that sulphasalazine may be teratogenic."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012460\tChemical\tsulphasalazine\tPossible teratogenicity of <target> sulphasalazine </target> .",
+        "D015212\tDisease\tinflammatory bowel disease\tThree infants , born of two mothers with <target> inflammatory bowel disease </target> who received treatment with sulphasalazine throughout pregnancy , were found to have major congenital anomalies .",
+        "D012460\tChemical\tsulphasalazine\tThree infants , born of two mothers with inflammatory bowel disease who received treatment with <target> sulphasalazine </target> throughout pregnancy , were found to have major congenital anomalies .",
+        "D000013\tDisease\tcongenital anomalies\tThree infants , born of two mothers with inflammatory bowel disease who received treatment with sulphasalazine throughout pregnancy , were found to have major <target> congenital anomalies </target> .",
+        "D003093\tDisease\tulcerative colitis\tIn the singleton pregnancy , the mother had <target> ulcerative colitis </target> , and the infant , a male , had coarctation of the aorta and a ventricular septal defect .",
+        "D001017\tDisease\tcoarctation of the aorta\tIn the singleton pregnancy , the mother had ulcerative colitis , and the infant , a male , had <target> coarctation of the aorta </target> and a ventricular septal defect .",
+        "D006345\tDisease\tventricular septal defect\tIn the singleton pregnancy , the mother had ulcerative colitis , and the infant , a male , had coarctation of the aorta and a <target> ventricular septal defect </target> .",
+        "D003424\tDisease\tCrohn's disease\tIn the twin pregnancy , the mother had <target> Crohn 's disease </target> .",
+        "D007690\tDisease\tPotter-type IIa polycystic kidney\tThe first twin , a female , had a left <target> Potter-type IIa polycystic kidney </target> and a rudimentary left uterine cornu .",
+        "D003025\tDisease\ttalipes equinovarus\tThe second twin , a male , had some features of Potter 's facies , hypoplastic lungs , absent kidneys and ureters , and <target> talipes equinovarus </target> .",
+        "D012460\tChemical\tsulphasalazine\tDespite reports to the contrary , it is suggested that <target> sulphasalazine </target> may be teratogenic ."
+    ],
+    "lines_lemma": [
+        "D012460\tChemical\tsulphasalazine\tpossible teratogenicity of <target> sulphasalazine </target> .",
+        "D015212\tDisease\tinflammatory bowel disease\tthree infant , bear of two mother with <target> inflammatory bowel disease </target> who receive treatment with sulphasalazine throughout pregnancy , be find to have major congenital anomaly .",
+        "D012460\tChemical\tsulphasalazine\tthree infant , bear of two mother with inflammatory bowel disease who receive treatment with <target> sulphasalazine </target> throughout pregnancy , be find to have major congenital anomaly .",
+        "D000013\tDisease\tcongenital anomalies\tthree infant , bear of two mother with inflammatory bowel disease who receive treatment with sulphasalazine throughout pregnancy , be find to have major <target> congenital anomaly </target> .",
+        "D003093\tDisease\tulcerative colitis\tin the singleton pregnancy , the mother have <target> ulcerative colitis </target> , and the infant , a male , have coarctation of the aorta and a ventricular septal defect .",
+        "D001017\tDisease\tcoarctation of the aorta\tin the singleton pregnancy , the mother have ulcerative colitis , and the infant , a male , have <target> coarctation of the aorta </target> and a ventricular septal defect .",
+        "D006345\tDisease\tventricular septal defect\tin the singleton pregnancy , the mother have ulcerative colitis , and the infant , a male , have coarctation of the aorta and a <target> ventricular septal defect </target> .",
+        "D003424\tDisease\tCrohn's disease\tin the twin pregnancy , the mother have <target> Crohn 's disease </target> .",
+        "D007690\tDisease\tPotter-type IIa polycystic kidney\tthe first twin , a female , have a left <target> potter-type iia polycystic kidney </target> and a rudimentary leave uterine cornu .",
+        "D003025\tDisease\ttalipes equinovarus\tthe second twin , a male , have some feature of potter 's facie , hypoplastic lung , absent kidney and ureter , and <target> talipe equinovarus </target> .",
+        "D012460\tChemical\tsulphasalazine\tdespite report to the contrary , it be suggest that <target> sulphasalazine </target> may be teratogenic ."
+    ]
+}

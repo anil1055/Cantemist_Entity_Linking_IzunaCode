@@ -1,0 +1,129 @@
+{
+    "title": "Effect of switching carbamazepine to oxcarbazepine on the plasma levels of neuroleptics. A case report.",
+    "abst": "Carbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol, chlorpromazine or clozapine. This change resulted within 2-4 weeks in the 50-200% increase in the plasma levels of these neuroleptics and the appearance of extrapyramidal symptoms. None of the patients showed any clinical deteriotation during the following 3-6 months. The results of this case report support the idea that in contrast with carbamazepine oxcarbazepine does not induce the hepatic microsomal enzyme systems regulating the inactivation of antipsychotic drugs.",
+    "title_plus_abst": "Effect of switching carbamazepine to oxcarbazepine on the plasma levels of neuroleptics. A case report. Carbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol, chlorpromazine or clozapine. This change resulted within 2-4 weeks in the 50-200% increase in the plasma levels of these neuroleptics and the appearance of extrapyramidal symptoms. None of the patients showed any clinical deteriotation during the following 3-6 months. The results of this case report support the idea that in contrast with carbamazepine oxcarbazepine does not induce the hepatic microsomal enzyme systems regulating the inactivation of antipsychotic drugs.",
+    "pubmed_id": "7862923",
+    "entities": [
+        [
+            20,
+            33,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            37,
+            50,
+            "oxcarbazepine",
+            "Chemical",
+            "C036006"
+        ],
+        [
+            104,
+            117,
+            "Carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            155,
+            168,
+            "oxcarbazepine",
+            "Chemical",
+            "C036006"
+        ],
+        [
+            198,
+            211,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            215,
+            232,
+            "organic psychotic",
+            "Disease",
+            "D019965"
+        ],
+        [
+            262,
+            273,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            275,
+            289,
+            "chlorpromazine",
+            "Chemical",
+            "D002746"
+        ],
+        [
+            293,
+            302,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            431,
+            454,
+            "extrapyramidal symptoms",
+            "Disease",
+            "D001480"
+        ],
+        [
+            615,
+            628,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            629,
+            642,
+            "oxcarbazepine",
+            "Chemical",
+            "C036006"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of switching carbamazepine to oxcarbazepine on the plasma levels of neuroleptics.",
+        "A case report.",
+        "Carbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol, chlorpromazine or clozapine.",
+        "This change resulted within 2-4 weeks in the 50-200% increase in the plasma levels of these neuroleptics and the appearance of extrapyramidal symptoms.",
+        "None of the patients showed any clinical deteriotation during the following 3-6 months.",
+        "The results of this case report support the idea that in contrast with carbamazepine oxcarbazepine does not induce the hepatic microsomal enzyme systems regulating the inactivation of antipsychotic drugs."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002220\tChemical\tcarbamazepine\tEffect of switching <target> carbamazepine </target> to oxcarbazepine on the plasma levels of neuroleptics .",
+        "C036006\tChemical\toxcarbazepine\tEffect of switching carbamazepine to <target> oxcarbazepine </target> on the plasma levels of neuroleptics .",
+        "D002220\tChemical\tCarbamazepine\t<target> Carbamazepine </target> was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol , chlorpromazine or clozapine .",
+        "C036006\tChemical\toxcarbazepine\tCarbamazepine was switched to its 10-keto analogue <target> oxcarbazepine </target> among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol , chlorpromazine or clozapine .",
+        "D012559\tDisease\tschizophrenic\tCarbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat <target> schizophrenic </target> or organic psychotic patients using concomitantly haloperidol , chlorpromazine or clozapine .",
+        "D019965\tDisease\torganic psychotic\tCarbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or <target> organic psychotic </target> patients using concomitantly haloperidol , chlorpromazine or clozapine .",
+        "D006220\tChemical\thaloperidol\tCarbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly <target> haloperidol </target> , chlorpromazine or clozapine .",
+        "D002746\tChemical\tchlorpromazine\tCarbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol , <target> chlorpromazine </target> or clozapine .",
+        "D003024\tChemical\tclozapine\tCarbamazepine was switched to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patients using concomitantly haloperidol , chlorpromazine or <target> clozapine </target> .",
+        "D001480\tDisease\textrapyramidal symptoms\tThis change resulted within 2 - 4 weeks in the 50 - 200 % increase in the plasma levels of these neuroleptics and the appearance of <target> extrapyramidal symptoms </target> .",
+        "D002220\tChemical\tcarbamazepine\tThe results of this case report support the idea that in contrast with <target> carbamazepine </target> oxcarbazepine does not induce the hepatic microsomal enzyme systems regulating the inactivation of antipsychotic drugs .",
+        "C036006\tChemical\toxcarbazepine\tThe results of this case report support the idea that in contrast with carbamazepine <target> oxcarbazepine </target> does not induce the hepatic microsomal enzyme systems regulating the inactivation of antipsychotic drugs ."
+    ],
+    "lines_lemma": [
+        "D002220\tChemical\tcarbamazepine\teffect of switch <target> carbamazepine </target> to oxcarbazepine on the plasma level of neuroleptic .",
+        "C036006\tChemical\toxcarbazepine\teffect of switching carbamazepine to <target> oxcarbazepine </target> on the plasma level of neuroleptic .",
+        "D002220\tChemical\tCarbamazepine\t<target> Carbamazepine </target> be switch to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patient use concomitantly haloperidol , chlorpromazine or clozapine .",
+        "C036006\tChemical\toxcarbazepine\tCarbamazepine be switch to its 10-keto analogue <target> oxcarbazepine </target> among six difficult-to-treat schizophrenic or organic psychotic patient use concomitantly haloperidol , chlorpromazine or clozapine .",
+        "D012559\tDisease\tschizophrenic\tCarbamazepine be switch to its 10-keto analogue oxcarbazepine among six difficult-to-treat <target> schizophrenic </target> or organic psychotic patient use concomitantly haloperidol , chlorpromazine or clozapine .",
+        "D019965\tDisease\torganic psychotic\tCarbamazepine be switch to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or <target> organic psychotic </target> patient use concomitantly haloperidol , chlorpromazine or clozapine .",
+        "D006220\tChemical\thaloperidol\tCarbamazepine be switch to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patient use concomitantly <target> haloperidol </target> , chlorpromazine or clozapine .",
+        "D002746\tChemical\tchlorpromazine\tCarbamazepine be switch to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patient use concomitantly haloperidol , <target> chlorpromazine </target> or clozapine .",
+        "D003024\tChemical\tclozapine\tCarbamazepine be switch to its 10-keto analogue oxcarbazepine among six difficult-to-treat schizophrenic or organic psychotic patient use concomitantly haloperidol , chlorpromazine or <target> clozapine </target> .",
+        "D001480\tDisease\textrapyramidal symptoms\tthis change result within 2 - 4 week in the 50 - 200 % increase in the plasma level of these neuroleptic and the appearance of <target> extrapyramidal symptom </target> .",
+        "D002220\tChemical\tcarbamazepine\tthe result of this case report support the idea that in contrast with <target> carbamazepine </target> oxcarbazepine do not induce the hepatic microsomal enzyme system regulate the inactivation of antipsychotic drug .",
+        "C036006\tChemical\toxcarbazepine\tthe result of this case report support the idea that in contrast with carbamazepine <target> oxcarbazepine </target> do not induce the hepatic microsomal enzyme system regulate the inactivation of antipsychotic drug ."
+    ]
+}

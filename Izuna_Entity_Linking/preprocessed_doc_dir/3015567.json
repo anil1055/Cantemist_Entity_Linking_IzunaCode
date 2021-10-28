@@ -1,0 +1,148 @@
+{
+    "title": "Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial-portal circulation by delayed glucocorticoid feedback.",
+    "abst": "Nitroprusside-induced hypotension evokes ACTH secretion which is primarily mediated by enhanced secretion of immunoreactive corticotropin-releasing factor (irCRF) into the hypophysial-portal circulation. Portal plasma concentrations of neither arginine vasopressin nor oxytocin are significantly altered in this paradigm. Application of a delayed feedback signal, in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis, is without effect on the resting secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose tested. Resting irCRF levels are suppressed only at the highest corticosterone infusion rate, which resulted in systemic corticosterone levels of 40 micrograms/dl. Suppression of irCRF secretion in response to nitroprusside-induced hypotension is observed and occurs at a plasma corticosterone level between 8-12 micrograms/dl. These studies provide further evidence for a strong central component of the delayed feedback process which is mediated by modulation of irCRF release.",
+    "title_plus_abst": "Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial-portal circulation by delayed glucocorticoid feedback. Nitroprusside-induced hypotension evokes ACTH secretion which is primarily mediated by enhanced secretion of immunoreactive corticotropin-releasing factor (irCRF) into the hypophysial-portal circulation. Portal plasma concentrations of neither arginine vasopressin nor oxytocin are significantly altered in this paradigm. Application of a delayed feedback signal, in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis, is without effect on the resting secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose tested. Resting irCRF levels are suppressed only at the highest corticosterone infusion rate, which resulted in systemic corticosterone levels of 40 micrograms/dl. Suppression of irCRF secretion in response to nitroprusside-induced hypotension is observed and occurs at a plasma corticosterone level between 8-12 micrograms/dl. These studies provide further evidence for a strong central component of the delayed feedback process which is mediated by modulation of irCRF release.",
+    "pubmed_id": "3015567",
+    "entities": [
+        [
+            146,
+            159,
+            "Nitroprusside",
+            "Chemical",
+            "D009599"
+        ],
+        [
+            168,
+            179,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            390,
+            410,
+            "arginine vasopressin",
+            "Chemical",
+            "D001127"
+        ],
+        [
+            415,
+            423,
+            "oxytocin",
+            "Chemical",
+            "D010121"
+        ],
+        [
+            540,
+            554,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            567,
+            575,
+            "urethane",
+            "Chemical",
+            "D014520"
+        ],
+        [
+            699,
+            719,
+            "arginine vasopressin",
+            "Chemical",
+            "D001127"
+        ],
+        [
+            724,
+            732,
+            "oxytocin",
+            "Chemical",
+            "D010121"
+        ],
+        [
+            740,
+            754,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            833,
+            847,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            890,
+            904,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            979,
+            992,
+            "nitroprusside",
+            "Chemical",
+            "D009599"
+        ],
+        [
+            1001,
+            1012,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            1048,
+            1062,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ]
+    ],
+    "split_sentence": [
+        "Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial-portal circulation by delayed glucocorticoid feedback.",
+        "Nitroprusside-induced hypotension evokes ACTH secretion which is primarily mediated by enhanced secretion of immunoreactive corticotropin-releasing factor (irCRF) into the hypophysial-portal circulation.",
+        "Portal plasma concentrations of neither arginine vasopressin nor oxytocin are significantly altered in this paradigm.",
+        "Application of a delayed feedback signal, in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis, is without effect on the resting secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose tested.",
+        "Resting irCRF levels are suppressed only at the highest corticosterone infusion rate, which resulted in systemic corticosterone levels of 40 micrograms/dl.",
+        "Suppression of irCRF secretion in response to nitroprusside-induced hypotension is observed and occurs at a plasma corticosterone level between 8-12 micrograms/dl.",
+        "These studies provide further evidence for a strong central component of the delayed feedback process which is mediated by modulation of irCRF release."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009599\tChemical\tNitroprusside\t<target> Nitroprusside </target> -induced hypotension evokes ACTH secretion which is primarily mediated by enhanced secretion of immunoreactive corticotropin-releasing factor ( irCRF ) into the hypophysial-portal circulation .",
+        "D007022\tDisease\thypotension\tNitroprusside-induced <target> hypotension </target> evokes ACTH secretion which is primarily mediated by enhanced secretion of immunoreactive corticotropin-releasing factor ( irCRF ) into the hypophysial-portal circulation .",
+        "D001127\tChemical\targinine vasopressin\tPortal plasma concentrations of neither <target> arginine vasopressin </target> nor oxytocin are significantly altered in this paradigm .",
+        "D010121\tChemical\toxytocin\tPortal plasma concentrations of neither arginine vasopressin nor <target> oxytocin </target> are significantly altered in this paradigm .",
+        "D003345\tChemical\tcorticosterone\tApplication of a delayed feedback signal , in the form of a 2-h systemic <target> corticosterone </target> infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis , is without effect on the resting secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose tested .",
+        "D014520\tChemical\turethane\tApplication of a delayed feedback signal , in the form of a 2-h systemic corticosterone infusion in <target> urethane </target> -anesthetized rats with pharmacological blockade of glucocorticoid synthesis , is without effect on the resting secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose tested .",
+        "D001127\tChemical\targinine vasopressin\tApplication of a delayed feedback signal , in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis , is without effect on the resting secretion of <target> arginine vasopressin </target> and oxytocin at any corticosterone feedback dose tested .",
+        "D010121\tChemical\toxytocin\tApplication of a delayed feedback signal , in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis , is without effect on the resting secretion of arginine vasopressin and <target> oxytocin </target> at any corticosterone feedback dose tested .",
+        "D003345\tChemical\tcorticosterone\tApplication of a delayed feedback signal , in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rats with pharmacological blockade of glucocorticoid synthesis , is without effect on the resting secretion of arginine vasopressin and oxytocin at any <target> corticosterone </target> feedback dose tested .",
+        "D003345\tChemical\tcorticosterone\tResting irCRF levels are suppressed only at the highest <target> corticosterone </target> infusion rate , which resulted in systemic corticosterone levels of 40 micrograms/dl .",
+        "D003345\tChemical\tcorticosterone\tResting irCRF levels are suppressed only at the highest corticosterone infusion rate , which resulted in systemic <target> corticosterone </target> levels of 40 micrograms/dl .",
+        "D009599\tChemical\tnitroprusside\tSuppression of irCRF secretion in response to <target> nitroprusside </target> -induced hypotension is observed and occurs at a plasma corticosterone level between 8 - 12 micrograms/dl .",
+        "D007022\tDisease\thypotension\tSuppression of irCRF secretion in response to nitroprusside-induced <target> hypotension </target> is observed and occurs at a plasma corticosterone level between 8 - 12 micrograms/dl .",
+        "D003345\tChemical\tcorticosterone\tSuppression of irCRF secretion in response to nitroprusside-induced hypotension is observed and occurs at a plasma <target> corticosterone </target> level between 8 - 12 micrograms/dl ."
+    ],
+    "lines_lemma": [
+        "D009599\tChemical\tNitroprusside\t<target> Nitroprusside </target> -induced hypotension evoke acth secretion which be primarily mediate by enhance secretion of immunoreactive corticotropin-releasing factor ( ircrf ) into the hypophysial-portal circulation .",
+        "D007022\tDisease\thypotension\tnitroprusside-induced <target> hypotension </target> evoke acth secretion which be primarily mediate by enhance secretion of immunoreactive corticotropin-releasing factor ( ircrf ) into the hypophysial-portal circulation .",
+        "D001127\tChemical\targinine vasopressin\tportal plasma concentration of neither <target> arginine vasopressin </target> nor oxytocin be significantly alter in this paradigm .",
+        "D010121\tChemical\toxytocin\tportal plasma concentration of neither arginine vasopressin nor <target> oxytocin </target> be significantly alter in this paradigm .",
+        "D003345\tChemical\tcorticosterone\tapplication of a delay feedback signal , in the form of a 2-h systemic <target> corticosterone </target> infusion in urethane-anesthetized rat with pharmacological blockade of glucocorticoid synthesis , be without effect on the rest secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose test .",
+        "D014520\tChemical\turethane\tapplication of a delay feedback signal , in the form of a 2-h systemic corticosterone infusion in <target> urethane </target> -anesthetized rat with pharmacological blockade of glucocorticoid synthesis , be without effect on the rest secretion of arginine vasopressin and oxytocin at any corticosterone feedback dose test .",
+        "D001127\tChemical\targinine vasopressin\tapplication of a delay feedback signal , in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rat with pharmacological blockade of glucocorticoid synthesis , be without effect on the rest secretion of <target> arginine vasopressin </target> and oxytocin at any corticosterone feedback dose test .",
+        "D010121\tChemical\toxytocin\tapplication of a delay feedback signal , in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rat with pharmacological blockade of glucocorticoid synthesis , be without effect on the rest secretion of arginine vasopressin and <target> oxytocin </target> at any corticosterone feedback dose test .",
+        "D003345\tChemical\tcorticosterone\tapplication of a delay feedback signal , in the form of a 2-h systemic corticosterone infusion in urethane-anesthetized rat with pharmacological blockade of glucocorticoid synthesis , be without effect on the rest secretion of arginine vasopressin and oxytocin at any <target> corticosterone </target> feedback dose test .",
+        "D003345\tChemical\tcorticosterone\trest ircrf level be suppress only at the high <target> corticosterone </target> infusion rate , which result in systemic corticosterone level of 40 micrograms/dl .",
+        "D003345\tChemical\tcorticosterone\trest ircrf level be suppress only at the high corticosterone infusion rate , which result in systemic <target> corticosterone </target> level of 40 micrograms/dl .",
+        "D009599\tChemical\tnitroprusside\tsuppression of ircrf secretion in response to <target> nitroprusside </target> -induced hypotension be observe and occur at a plasma corticosterone level between 8 - 12 micrograms/dl .",
+        "D007022\tDisease\thypotension\tsuppression of ircrf secretion in response to nitroprusside-induced <target> hypotension </target> be observe and occur at a plasma corticosterone level between 8 - 12 micrograms/dl .",
+        "D003345\tChemical\tcorticosterone\tsuppression of ircrf secretion in response to nitroprusside-induced hypotension be observe and occur at a plasma <target> corticosterone </target> level between 8 - 12 micrograms/dl ."
+    ]
+}

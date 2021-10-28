@@ -1,0 +1,95 @@
+{
+    "title": "Learning of rats under amnesia caused by pentobarbital.",
+    "abst": "Dissociated learning of rats in the normal state and the state of amnesia produced by pentobarbital (15 mg/kg, ip) was carried out. Rats were trained to approach a shelf where they received food reinforcement. In Group 1 the rats were trained under the influence of pentobarbital to run to the same shelf as in the normal state. In Group 2 the rats were trained to approach different shelves in different drug states. It was shown that memory dissociation occurred in both groups. Differences in the parameters of training under the influence of pentobarbital between Groups 1 and 2 were revealed. These findings show that the brain-dissociated state induced by pentobarbital is formed with the participation of the mechanisms of information perception.",
+    "title_plus_abst": "Learning of rats under amnesia caused by pentobarbital. Dissociated learning of rats in the normal state and the state of amnesia produced by pentobarbital (15 mg/kg, ip) was carried out. Rats were trained to approach a shelf where they received food reinforcement. In Group 1 the rats were trained under the influence of pentobarbital to run to the same shelf as in the normal state. In Group 2 the rats were trained to approach different shelves in different drug states. It was shown that memory dissociation occurred in both groups. Differences in the parameters of training under the influence of pentobarbital between Groups 1 and 2 were revealed. These findings show that the brain-dissociated state induced by pentobarbital is formed with the participation of the mechanisms of information perception.",
+    "pubmed_id": "1616457",
+    "entities": [
+        [
+            23,
+            30,
+            "amnesia",
+            "Disease",
+            "D000647"
+        ],
+        [
+            41,
+            54,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ],
+        [
+            122,
+            129,
+            "amnesia",
+            "Disease",
+            "D000647"
+        ],
+        [
+            142,
+            155,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ],
+        [
+            322,
+            335,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ],
+        [
+            492,
+            511,
+            "memory dissociation",
+            "Disease",
+            "D008569"
+        ],
+        [
+            602,
+            615,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ],
+        [
+            718,
+            731,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ]
+    ],
+    "split_sentence": [
+        "Learning of rats under amnesia caused by pentobarbital.",
+        "Dissociated learning of rats in the normal state and the state of amnesia produced by pentobarbital (15 mg/kg, ip) was carried out.",
+        "Rats were trained to approach a shelf where they received food reinforcement.",
+        "In Group 1 the rats were trained under the influence of pentobarbital to run to the same shelf as in the normal state.",
+        "In Group 2 the rats were trained to approach different shelves in different drug states.",
+        "It was shown that memory dissociation occurred in both groups.",
+        "Differences in the parameters of training under the influence of pentobarbital between Groups 1 and 2 were revealed.",
+        "These findings show that the brain-dissociated state induced by pentobarbital is formed with the participation of the mechanisms of information perception."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000647\tDisease\tamnesia\tLearning of rats under <target> amnesia </target> caused by pentobarbital .",
+        "D010424\tChemical\tpentobarbital\tLearning of rats under amnesia caused by <target> pentobarbital </target> .",
+        "D000647\tDisease\tamnesia\tDissociated learning of rats in the normal state and the state of <target> amnesia </target> produced by pentobarbital ( 15 mg/kg , ip ) was carried out .",
+        "D010424\tChemical\tpentobarbital\tDissociated learning of rats in the normal state and the state of amnesia produced by <target> pentobarbital </target> ( 15 mg/kg , ip ) was carried out .",
+        "D010424\tChemical\tpentobarbital\tIn Group 1 the rats were trained under the influence of <target> pentobarbital </target> to run to the same shelf as in the normal state .",
+        "D008569\tDisease\tmemory dissociation\tIt was shown that <target> memory dissociation </target> occurred in both groups .",
+        "D010424\tChemical\tpentobarbital\tDifferences in the parameters of training under the influence of <target> pentobarbital </target> between Groups 1 and 2 were revealed .",
+        "D010424\tChemical\tpentobarbital\tThese findings show that the brain-dissociated state induced by <target> pentobarbital </target> is formed with the participation of the mechanisms of information perception ."
+    ],
+    "lines_lemma": [
+        "D000647\tDisease\tamnesia\tlearning of rat under <target> amnesia </target> cause by pentobarbital .",
+        "D010424\tChemical\tpentobarbital\tlearning of rat under amnesia cause by <target> pentobarbital </target> .",
+        "D000647\tDisease\tamnesia\tdissociated learning of rat in the normal state and the state of <target> amnesia </target> produce by pentobarbital ( 15 mg/kg , ip ) be carry out .",
+        "D010424\tChemical\tpentobarbital\tdissociated learning of rat in the normal state and the state of amnesia produce by <target> pentobarbital </target> ( 15 mg/kg , ip ) be carry out .",
+        "D010424\tChemical\tpentobarbital\tin Group 1 the rat be train under the influence of <target> pentobarbital </target> to run to the same shelf as in the normal state .",
+        "D008569\tDisease\tmemory dissociation\tit be show that <target> memory dissociation </target> occur in both group .",
+        "D010424\tChemical\tpentobarbital\tdifference in the parameter of training under the influence of <target> pentobarbital </target> between group 1 and 2 be reveal .",
+        "D010424\tChemical\tpentobarbital\tthese finding show that the brain-dissociated state induce by <target> pentobarbital </target> be form with the participation of the mechanism of information perception ."
+    ]
+}

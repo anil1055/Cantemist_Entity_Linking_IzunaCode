@@ -1,0 +1,63 @@
+{
+    "title": "Central vein thrombosis and topical dipivalyl epinephrine.",
+    "abst": "A report is given on an 83-year-old female who acquired central vein thrombosis in her seeing eye one day after having started topical medication with dipivalyl epinephrine for advanced glaucoma discovered in the other eye. From present knowledge about the effects of adrenergic eye drops on ocular blood circulation, it is difficult to suggest an association between the two events, which may be coincidental only.",
+    "title_plus_abst": "Central vein thrombosis and topical dipivalyl epinephrine. A report is given on an 83-year-old female who acquired central vein thrombosis in her seeing eye one day after having started topical medication with dipivalyl epinephrine for advanced glaucoma discovered in the other eye. From present knowledge about the effects of adrenergic eye drops on ocular blood circulation, it is difficult to suggest an association between the two events, which may be coincidental only.",
+    "pubmed_id": "2220369",
+    "entities": [
+        [
+            8,
+            23,
+            "vein thrombosis",
+            "Disease",
+            "D020246"
+        ],
+        [
+            36,
+            57,
+            "dipivalyl epinephrine",
+            "Chemical",
+            "C015173"
+        ],
+        [
+            123,
+            138,
+            "vein thrombosis",
+            "Disease",
+            "D020246"
+        ],
+        [
+            210,
+            231,
+            "dipivalyl epinephrine",
+            "Chemical",
+            "C015173"
+        ],
+        [
+            245,
+            253,
+            "glaucoma",
+            "Disease",
+            "D005901"
+        ]
+    ],
+    "split_sentence": [
+        "Central vein thrombosis and topical dipivalyl epinephrine.",
+        "A report is given on an 83-year-old female who acquired central vein thrombosis in her seeing eye one day after having started topical medication with dipivalyl epinephrine for advanced glaucoma discovered in the other eye.",
+        "From present knowledge about the effects of adrenergic eye drops on ocular blood circulation, it is difficult to suggest an association between the two events, which may be coincidental only."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020246\tDisease\tvein thrombosis\tCentral <target> vein thrombosis </target> and topical dipivalyl epinephrine .",
+        "C015173\tChemical\tdipivalyl epinephrine\tCentral vein thrombosis and topical <target> dipivalyl epinephrine </target> .",
+        "D020246\tDisease\tvein thrombosis\tA report is given on an 83-year-old female who acquired central <target> vein thrombosis </target> in her seeing eye one day after having started topical medication with dipivalyl epinephrine for advanced glaucoma discovered in the other eye .",
+        "C015173\tChemical\tdipivalyl epinephrine\tA report is given on an 83-year-old female who acquired central vein thrombosis in her seeing eye one day after having started topical medication with <target> dipivalyl epinephrine </target> for advanced glaucoma discovered in the other eye .",
+        "D005901\tDisease\tglaucoma\tA report is given on an 83-year-old female who acquired central vein thrombosis in her seeing eye one day after having started topical medication with dipivalyl epinephrine for advanced <target> glaucoma </target> discovered in the other eye ."
+    ],
+    "lines_lemma": [
+        "D020246\tDisease\tvein thrombosis\tcentral <target> vein thrombosis </target> and topical dipivalyl epinephrine .",
+        "C015173\tChemical\tdipivalyl epinephrine\tcentral vein thrombosis and topical <target> dipivalyl epinephrine </target> .",
+        "D020246\tDisease\tvein thrombosis\ta report be give on an 83-year-old female who acquire central <target> vein thrombosis </target> in her see eye one day after have start topical medication with dipivalyl epinephrine for advanced glaucoma discover in the other eye .",
+        "C015173\tChemical\tdipivalyl epinephrine\ta report be give on an 83-year-old female who acquire central vein thrombosis in her see eye one day after have start topical medication with <target> dipivalyl epinephrine </target> for advanced glaucoma discover in the other eye .",
+        "D005901\tDisease\tglaucoma\ta report be give on an 83-year-old female who acquire central vein thrombosis in her see eye one day after have start topical medication with dipivalyl epinephrine for advanced <target> glaucoma </target> discover in the other eye ."
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Cocaine induced myocardial ischemia.",
+    "abst": "We report a case of myocardial ischemia induced by cocaine. The ischemia probably induced by coronary artery spasm was reversed by nitroglycerin and calcium blocking agents.",
+    "title_plus_abst": "Cocaine induced myocardial ischemia. We report a case of myocardial ischemia induced by cocaine. The ischemia probably induced by coronary artery spasm was reversed by nitroglycerin and calcium blocking agents.",
+    "pubmed_id": "8511251",
+    "entities": [
+        [
+            0,
+            7,
+            "Cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            16,
+            35,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            57,
+            76,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            88,
+            95,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            101,
+            109,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ],
+        [
+            130,
+            151,
+            "coronary artery spasm",
+            "Disease",
+            "D003329"
+        ],
+        [
+            168,
+            181,
+            "nitroglycerin",
+            "Chemical",
+            "D005996"
+        ],
+        [
+            186,
+            193,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ]
+    ],
+    "split_sentence": [
+        "Cocaine induced myocardial ischemia.",
+        "We report a case of myocardial ischemia induced by cocaine.",
+        "The ischemia probably induced by coronary artery spasm was reversed by nitroglycerin and calcium blocking agents."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> induced myocardial ischemia .",
+        "D017202\tDisease\tmyocardial ischemia\tCocaine induced <target> myocardial ischemia </target> .",
+        "D017202\tDisease\tmyocardial ischemia\tWe report a case of <target> myocardial ischemia </target> induced by cocaine .",
+        "D003042\tChemical\tcocaine\tWe report a case of myocardial ischemia induced by <target> cocaine </target> .",
+        "D007511\tDisease\tischemia\tThe <target> ischemia </target> probably induced by coronary artery spasm was reversed by nitroglycerin and calcium blocking agents .",
+        "D003329\tDisease\tcoronary artery spasm\tThe ischemia probably induced by <target> coronary artery spasm </target> was reversed by nitroglycerin and calcium blocking agents .",
+        "D005996\tChemical\tnitroglycerin\tThe ischemia probably induced by coronary artery spasm was reversed by <target> nitroglycerin </target> and calcium blocking agents .",
+        "D002118\tChemical\tcalcium\tThe ischemia probably induced by coronary artery spasm was reversed by nitroglycerin and <target> calcium </target> blocking agents ."
+    ],
+    "lines_lemma": [
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> induce myocardial ischemia .",
+        "D017202\tDisease\tmyocardial ischemia\tcocaine induce <target> myocardial ischemia </target> .",
+        "D017202\tDisease\tmyocardial ischemia\twe report a case of <target> myocardial ischemia </target> induce by cocaine .",
+        "D003042\tChemical\tcocaine\twe report a case of myocardial ischemia induce by <target> cocaine </target> .",
+        "D007511\tDisease\tischemia\tthe <target> ischemia </target> probably induce by coronary artery spasm be reverse by nitroglycerin and calcium blocking agent .",
+        "D003329\tDisease\tcoronary artery spasm\tthe ischemia probably induce by <target> coronary artery spasm </target> be reverse by nitroglycerin and calcium blocking agent .",
+        "D005996\tChemical\tnitroglycerin\tthe ischemia probably induce by coronary artery spasm be reverse by <target> nitroglycerin </target> and calcium blocking agent .",
+        "D002118\tChemical\tcalcium\tthe ischemia probably induce by coronary artery spasm be reverse by nitroglycerin and <target> calcium </target> blocking agent ."
+    ]
+}

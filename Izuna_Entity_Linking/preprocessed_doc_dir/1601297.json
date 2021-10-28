@@ -1,0 +1,99 @@
+{
+    "title": "Electrocardiographic evidence of myocardial injury in psychiatrically hospitalized cocaine abusers.",
+    "abst": "The electrocardiograms (ECG) of 99 cocaine-abusing patients were compared with the ECGs of 50 schizophrenic controls. Eleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction, ischemia, and bundle branch block.",
+    "title_plus_abst": "Electrocardiographic evidence of myocardial injury in psychiatrically hospitalized cocaine abusers. The electrocardiograms (ECG) of 99 cocaine-abusing patients were compared with the ECGs of 50 schizophrenic controls. Eleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction, ischemia, and bundle branch block.",
+    "pubmed_id": "1601297",
+    "entities": [
+        [
+            33,
+            50,
+            "myocardial injury",
+            "Disease",
+            "D009202"
+        ],
+        [
+            83,
+            90,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            135,
+            142,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            194,
+            207,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            232,
+            239,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            305,
+            322,
+            "myocardial injury",
+            "Disease",
+            "D009202"
+        ],
+        [
+            334,
+            355,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            357,
+            365,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ],
+        [
+            371,
+            390,
+            "bundle branch block",
+            "Disease",
+            "D002037"
+        ]
+    ],
+    "split_sentence": [
+        "Electrocardiographic evidence of myocardial injury in psychiatrically hospitalized cocaine abusers.",
+        "The electrocardiograms (ECG) of 99 cocaine-abusing patients were compared with the ECGs of 50 schizophrenic controls.",
+        "Eleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction, ischemia, and bundle branch block."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009202\tDisease\tmyocardial injury\tElectrocardiographic evidence of <target> myocardial injury </target> in psychiatrically hospitalized cocaine abusers .",
+        "D003042\tChemical\tcocaine\tElectrocardiographic evidence of myocardial injury in psychiatrically hospitalized <target> cocaine </target> abusers .",
+        "D003042\tChemical\tcocaine\tThe electrocardiograms ( ECG ) of 99 <target> cocaine </target> -abusing patients were compared with the ECGs of 50 schizophrenic controls .",
+        "D012559\tDisease\tschizophrenic\tThe electrocardiograms ( ECG ) of 99 cocaine-abusing patients were compared with the ECGs of 50 <target> schizophrenic </target> controls .",
+        "D003042\tChemical\tcocaine\tEleven of the <target> cocaine </target> abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction , ischemia , and bundle branch block .",
+        "D009202\tDisease\tmyocardial injury\tEleven of the cocaine abusers and none of the controls had ECG evidence of significant <target> myocardial injury </target> defined as myocardial infarction , ischemia , and bundle branch block .",
+        "D009203\tDisease\tmyocardial infarction\tEleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as <target> myocardial infarction </target> , ischemia , and bundle branch block .",
+        "D007511\tDisease\tischemia\tEleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction , <target> ischemia </target> , and bundle branch block .",
+        "D002037\tDisease\tbundle branch block\tEleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction , ischemia , and <target> bundle branch block </target> ."
+    ],
+    "lines_lemma": [
+        "D009202\tDisease\tmyocardial injury\telectrocardiographic evidence of <target> myocardial injury </target> in psychiatrically hospitalize cocaine abuser .",
+        "D003042\tChemical\tcocaine\telectrocardiographic evidence of myocardial injury in psychiatrically hospitalize <target> cocaine </target> abuser .",
+        "D003042\tChemical\tcocaine\tthe electrocardiogram ( ecg ) of 99 <target> cocaine </target> -abusing patient be compare with the ecg of 50 schizophrenic control .",
+        "D012559\tDisease\tschizophrenic\tthe electrocardiogram ( ecg ) of 99 cocaine-abusing patient be compare with the ecg of 50 <target> schizophrenic </target> control .",
+        "D003042\tChemical\tcocaine\televen of the <target> cocaine </target> abuser and none of the control have ecg evidence of significant myocardial injury define as myocardial infarction , ischemia , and bundle branch block .",
+        "D009202\tDisease\tmyocardial injury\televen of the cocaine abuser and none of the control have ecg evidence of significant <target> myocardial injury </target> define as myocardial infarction , ischemia , and bundle branch block .",
+        "D009203\tDisease\tmyocardial infarction\televen of the cocaine abuser and none of the control have ecg evidence of significant myocardial injury define as <target> myocardial infarction </target> , ischemia , and bundle branch block .",
+        "D007511\tDisease\tischemia\televen of the cocaine abuser and none of the control have ecg evidence of significant myocardial injury define as myocardial infarction , <target> ischemia </target> , and bundle branch block .",
+        "D002037\tDisease\tbundle branch block\televen of the cocaine abuser and none of the control have ecg evidence of significant myocardial injury define as myocardial infarction , ischemia , and <target> bundle branch block </target> ."
+    ]
+}

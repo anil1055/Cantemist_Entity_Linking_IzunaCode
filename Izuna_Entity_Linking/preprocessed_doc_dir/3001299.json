@@ -1,0 +1,120 @@
+{
+    "title": "Thyroid function and urine-concentrating ability during lithium treatment.",
+    "abst": "It has been suggested that adenylate cyclase inhibition may be important in the development of both nephrogenic diabetes insipidus and hypothyroidism during lithium treatment. We measured serum thyroxine and urine-concentrating ability (Umax) in response to desmopressin (DDAVP) in 85 patients receiving lithium. Hypothyroidism developed in eight patients while they were taking lithium. Impaired Umax was found in both euthyroid and hypothyroid patients while some hypothyroid patients concentrated their urine well. It is concluded that the dominant mechanisms by which lithium exerts these two effects are different.",
+    "title_plus_abst": "Thyroid function and urine-concentrating ability during lithium treatment. It has been suggested that adenylate cyclase inhibition may be important in the development of both nephrogenic diabetes insipidus and hypothyroidism during lithium treatment. We measured serum thyroxine and urine-concentrating ability (Umax) in response to desmopressin (DDAVP) in 85 patients receiving lithium. Hypothyroidism developed in eight patients while they were taking lithium. Impaired Umax was found in both euthyroid and hypothyroid patients while some hypothyroid patients concentrated their urine well. It is concluded that the dominant mechanisms by which lithium exerts these two effects are different.",
+    "pubmed_id": "3001299",
+    "entities": [
+        [
+            56,
+            63,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            175,
+            205,
+            "nephrogenic diabetes insipidus",
+            "Disease",
+            "D018500"
+        ],
+        [
+            210,
+            224,
+            "hypothyroidism",
+            "Disease",
+            "D007037"
+        ],
+        [
+            232,
+            239,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            269,
+            278,
+            "thyroxine",
+            "Chemical",
+            "D013974"
+        ],
+        [
+            379,
+            386,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            388,
+            402,
+            "Hypothyroidism",
+            "Disease",
+            "D007037"
+        ],
+        [
+            454,
+            461,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            509,
+            520,
+            "hypothyroid",
+            "Disease",
+            "D007037"
+        ],
+        [
+            541,
+            552,
+            "hypothyroid",
+            "Disease",
+            "D007037"
+        ],
+        [
+            647,
+            654,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ]
+    ],
+    "split_sentence": [
+        "Thyroid function and urine-concentrating ability during lithium treatment.",
+        "It has been suggested that adenylate cyclase inhibition may be important in the development of both nephrogenic diabetes insipidus and hypothyroidism during lithium treatment.",
+        "We measured serum thyroxine and urine-concentrating ability (Umax) in response to desmopressin (DDAVP) in 85 patients receiving lithium.",
+        "Hypothyroidism developed in eight patients while they were taking lithium.",
+        "Impaired Umax was found in both euthyroid and hypothyroid patients while some hypothyroid patients concentrated their urine well.",
+        "It is concluded that the dominant mechanisms by which lithium exerts these two effects are different."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008094\tChemical\tlithium\tThyroid function and urine-concentrating ability during <target> lithium </target> treatment .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\tIt has been suggested that adenylate cyclase inhibition may be important in the development of both <target> nephrogenic diabetes insipidus </target> and hypothyroidism during lithium treatment .",
+        "D007037\tDisease\thypothyroidism\tIt has been suggested that adenylate cyclase inhibition may be important in the development of both nephrogenic diabetes insipidus and <target> hypothyroidism </target> during lithium treatment .",
+        "D008094\tChemical\tlithium\tIt has been suggested that adenylate cyclase inhibition may be important in the development of both nephrogenic diabetes insipidus and hypothyroidism during <target> lithium </target> treatment .",
+        "D013974\tChemical\tthyroxine\tWe measured serum <target> thyroxine </target> and urine-concentrating ability ( Umax ) in response to desmopressin ( DDAVP ) in 85 patients receiving lithium .",
+        "D008094\tChemical\tlithium\tWe measured serum thyroxine and urine-concentrating ability ( Umax ) in response to desmopressin ( DDAVP ) in 85 patients receiving <target> lithium </target> .",
+        "D007037\tDisease\tHypothyroidism\t<target> Hypothyroidism </target> developed in eight patients while they were taking lithium .",
+        "D008094\tChemical\tlithium\tHypothyroidism developed in eight patients while they were taking <target> lithium </target> .",
+        "D007037\tDisease\thypothyroid\tImpaired Umax was found in both euthyroid and <target> hypothyroid </target> patients while some hypothyroid patients concentrated their urine well .",
+        "D007037\tDisease\thypothyroid\tImpaired Umax was found in both euthyroid and hypothyroid patients while some <target> hypothyroid </target> patients concentrated their urine well .",
+        "D008094\tChemical\tlithium\tIt is concluded that the dominant mechanisms by which <target> lithium </target> exerts these two effects are different ."
+    ],
+    "lines_lemma": [
+        "D008094\tChemical\tlithium\tthyroid function and urine-concentrating ability during <target> lithium </target> treatment .",
+        "D018500\tDisease\tnephrogenic diabetes insipidus\tit have be suggest that adenylate cyclase inhibition may be important in the development of both <target> nephrogenic diabete insipidu </target> and hypothyroidism during lithium treatment .",
+        "D007037\tDisease\thypothyroidism\tit have be suggest that adenylate cyclase inhibition may be important in the development of both nephrogenic diabete insipidu and <target> hypothyroidism </target> during lithium treatment .",
+        "D008094\tChemical\tlithium\tit have be suggest that adenylate cyclase inhibition may be important in the development of both nephrogenic diabete insipidu and hypothyroidism during <target> lithium </target> treatment .",
+        "D013974\tChemical\tthyroxine\twe measure serum <target> thyroxine </target> and urine-concentrating ability ( umax ) in response to desmopressin ( ddavp ) in 85 patient receive lithium .",
+        "D008094\tChemical\tlithium\twe measure serum thyroxine and urine-concentrating ability ( umax ) in response to desmopressin ( ddavp ) in 85 patient receive <target> lithium </target> .",
+        "D007037\tDisease\tHypothyroidism\t<target> hypothyroidism </target> develop in eight patient while they be take lithium .",
+        "D008094\tChemical\tlithium\tHypothyroidism develop in eight patient while they be take <target> lithium </target> .",
+        "D007037\tDisease\thypothyroid\tImpaired Umax be find in both euthyroid and <target> hypothyroid </target> patient while some hypothyroid patient concentrate their urine well .",
+        "D007037\tDisease\thypothyroid\tImpaired Umax be find in both euthyroid and hypothyroid patient while some <target> hypothyroid </target> patient concentrate their urine well .",
+        "D008094\tChemical\tlithium\tit be conclude that the dominant mechanism by which <target> lithium </target> exert these two effect be different ."
+    ]
+}

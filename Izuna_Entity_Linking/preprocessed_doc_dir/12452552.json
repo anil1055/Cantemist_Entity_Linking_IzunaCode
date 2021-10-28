@@ -1,0 +1,145 @@
+{
+    "title": "Neuroleptic malignant syndrome complicated by massive intestinal bleeding in a patient with chronic renal failure.",
+    "abst": "A patient with chronic renal failure (CRF) developed neuroleptic malignant syndrome (NMS) after administration of risperidone and levomepromazine. In addition to the typical symptoms of NMS, massive intestinal bleeding was observed during the episode. This report suggests that NMS in a patient with CRF may be complicated by intestinal bleeding and needs special caution for this complication.",
+    "title_plus_abst": "Neuroleptic malignant syndrome complicated by massive intestinal bleeding in a patient with chronic renal failure. A patient with chronic renal failure (CRF) developed neuroleptic malignant syndrome (NMS) after administration of risperidone and levomepromazine. In addition to the typical symptoms of NMS, massive intestinal bleeding was observed during the episode. This report suggests that NMS in a patient with CRF may be complicated by intestinal bleeding and needs special caution for this complication.",
+    "pubmed_id": "12452552",
+    "entities": [
+        [
+            0,
+            30,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            65,
+            73,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ],
+        [
+            92,
+            113,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            130,
+            151,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            153,
+            156,
+            "CRF",
+            "Disease",
+            "D007676"
+        ],
+        [
+            168,
+            198,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            200,
+            203,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            229,
+            240,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            245,
+            260,
+            "levomepromazine",
+            "Chemical",
+            "D008728"
+        ],
+        [
+            301,
+            304,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            325,
+            333,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ],
+        [
+            393,
+            396,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            415,
+            418,
+            "CRF",
+            "Disease",
+            "D007676"
+        ],
+        [
+            452,
+            460,
+            "bleeding",
+            "Disease",
+            "D006470"
+        ]
+    ],
+    "split_sentence": [
+        "Neuroleptic malignant syndrome complicated by massive intestinal bleeding in a patient with chronic renal failure.",
+        "A patient with chronic renal failure (CRF) developed neuroleptic malignant syndrome (NMS) after administration of risperidone and levomepromazine.",
+        "In addition to the typical symptoms of NMS, massive intestinal bleeding was observed during the episode.",
+        "This report suggests that NMS in a patient with CRF may be complicated by intestinal bleeding and needs special caution for this complication."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> complicated by massive intestinal bleeding in a patient with chronic renal failure .",
+        "D006470\tDisease\tbleeding\tNeuroleptic malignant syndrome complicated by massive intestinal <target> bleeding </target> in a patient with chronic renal failure .",
+        "D007676\tDisease\tchronic renal failure\tNeuroleptic malignant syndrome complicated by massive intestinal bleeding in a patient with <target> chronic renal failure </target> .",
+        "D007676\tDisease\tchronic renal failure\tA patient with <target> chronic renal failure </target> ( CRF ) developed neuroleptic malignant syndrome ( NMS ) after administration of risperidone and levomepromazine .",
+        "D007676\tDisease\tCRF\tA patient with chronic renal failure ( <target> CRF </target> ) developed neuroleptic malignant syndrome ( NMS ) after administration of risperidone and levomepromazine .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tA patient with chronic renal failure ( CRF ) developed <target> neuroleptic malignant syndrome </target> ( NMS ) after administration of risperidone and levomepromazine .",
+        "D009459\tDisease\tNMS\tA patient with chronic renal failure ( CRF ) developed neuroleptic malignant syndrome ( <target> NMS </target> ) after administration of risperidone and levomepromazine .",
+        "D018967\tChemical\trisperidone\tA patient with chronic renal failure ( CRF ) developed neuroleptic malignant syndrome ( NMS ) after administration of <target> risperidone </target> and levomepromazine .",
+        "D008728\tChemical\tlevomepromazine\tA patient with chronic renal failure ( CRF ) developed neuroleptic malignant syndrome ( NMS ) after administration of risperidone and <target> levomepromazine </target> .",
+        "D009459\tDisease\tNMS\tIn addition to the typical symptoms of <target> NMS </target> , massive intestinal bleeding was observed during the episode .",
+        "D006470\tDisease\tbleeding\tIn addition to the typical symptoms of NMS , massive intestinal <target> bleeding </target> was observed during the episode .",
+        "D009459\tDisease\tNMS\tThis report suggests that <target> NMS </target> in a patient with CRF may be complicated by intestinal bleeding and needs special caution for this complication .",
+        "D007676\tDisease\tCRF\tThis report suggests that NMS in a patient with <target> CRF </target> may be complicated by intestinal bleeding and needs special caution for this complication .",
+        "D006470\tDisease\tbleeding\tThis report suggests that NMS in a patient with CRF may be complicated by intestinal <target> bleeding </target> and needs special caution for this complication ."
+    ],
+    "lines_lemma": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> complicated by massive intestinal bleeding in a patient with chronic renal failure .",
+        "D006470\tDisease\tbleeding\tneuroleptic malignant syndrome complicate by massive intestinal <target> bleeding </target> in a patient with chronic renal failure .",
+        "D007676\tDisease\tchronic renal failure\tneuroleptic malignant syndrome complicate by massive intestinal bleeding in a patient with <target> chronic renal failure </target> .",
+        "D007676\tDisease\tchronic renal failure\ta patient with <target> chronic renal failure </target> ( crf ) develop neuroleptic malignant syndrome ( nms ) after administration of risperidone and levomepromazine .",
+        "D007676\tDisease\tCRF\ta patient with chronic renal failure ( <target> crf </target> ) develop neuroleptic malignant syndrome ( nms ) after administration of risperidone and levomepromazine .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\ta patient with chronic renal failure ( crf ) develop <target> neuroleptic malignant syndrome </target> ( nms ) after administration of risperidone and levomepromazine .",
+        "D009459\tDisease\tNMS\ta patient with chronic renal failure ( crf ) develop neuroleptic malignant syndrome ( <target> nms </target> ) after administration of risperidone and levomepromazine .",
+        "D018967\tChemical\trisperidone\ta patient with chronic renal failure ( crf ) develop neuroleptic malignant syndrome ( nms ) after administration of <target> risperidone </target> and levomepromazine .",
+        "D008728\tChemical\tlevomepromazine\ta patient with chronic renal failure ( crf ) develop neuroleptic malignant syndrome ( nms ) after administration of risperidone and <target> levomepromazine </target> .",
+        "D009459\tDisease\tNMS\tin addition to the typical symptom of <target> nms </target> , massive intestinal bleeding be observe during the episode .",
+        "D006470\tDisease\tbleeding\tin addition to the typical symptom of nms , massive intestinal <target> bleeding </target> be observe during the episode .",
+        "D009459\tDisease\tNMS\tthis report suggest that <target> nms </target> in a patient with crf may be complicate by intestinal bleeding and need special caution for this complication .",
+        "D007676\tDisease\tCRF\tthis report suggest that nms in a patient with <target> crf </target> may be complicate by intestinal bleeding and need special caution for this complication .",
+        "D006470\tDisease\tbleeding\tthis report suggest that nms in a patient with crf may be complicate by intestinal <target> bleeding </target> and need special caution for this complication ."
+    ]
+}

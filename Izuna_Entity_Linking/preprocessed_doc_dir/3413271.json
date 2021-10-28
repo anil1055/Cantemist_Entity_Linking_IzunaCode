@@ -1,0 +1,202 @@
+{
+    "title": "Mechanisms of myocardial ischemia induced by epinephrine: comparison with exercise-induced ischemia.",
+    "abst": "The role of epinephrine in eliciting myocardial ischemia was examined in patients with coronary artery disease. Objective signs of ischemia and factors increasing myocardial oxygen consumption were compared during epinephrine infusion and supine bicycle exercise. Both epinephrine and exercise produced myocardial ischemia as evidenced by ST segment depression and angina. However, the mechanisms of myocardial ischemia induced by epinephrine were significantly different from those of exercise. Exercise-induced myocardial ischemia was marked predominantly by increased heart rate and rate-pressure product with a minor contribution of end-diastolic volume, while epinephrine-induced ischemia was characterized by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product. These findings indicate that ischemia produced by epinephrine, as may occur during states of emotional distress, has a mechanism distinct from that due to physical exertion.",
+    "title_plus_abst": "Mechanisms of myocardial ischemia induced by epinephrine: comparison with exercise-induced ischemia. The role of epinephrine in eliciting myocardial ischemia was examined in patients with coronary artery disease. Objective signs of ischemia and factors increasing myocardial oxygen consumption were compared during epinephrine infusion and supine bicycle exercise. Both epinephrine and exercise produced myocardial ischemia as evidenced by ST segment depression and angina. However, the mechanisms of myocardial ischemia induced by epinephrine were significantly different from those of exercise. Exercise-induced myocardial ischemia was marked predominantly by increased heart rate and rate-pressure product with a minor contribution of end-diastolic volume, while epinephrine-induced ischemia was characterized by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product. These findings indicate that ischemia produced by epinephrine, as may occur during states of emotional distress, has a mechanism distinct from that due to physical exertion.",
+    "pubmed_id": "3413271",
+    "entities": [
+        [
+            14,
+            33,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            45,
+            56,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            91,
+            99,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ],
+        [
+            113,
+            124,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            138,
+            157,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            188,
+            211,
+            "coronary artery disease",
+            "Disease",
+            "D003324"
+        ],
+        [
+            232,
+            240,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ],
+        [
+            275,
+            281,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            315,
+            326,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            370,
+            381,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            404,
+            423,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            451,
+            461,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            466,
+            472,
+            "angina",
+            "Disease",
+            "D000787"
+        ],
+        [
+            501,
+            520,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            532,
+            543,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            614,
+            633,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            766,
+            777,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            786,
+            794,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ],
+        [
+            952,
+            960,
+            "ischemia",
+            "Disease",
+            "D007511"
+        ],
+        [
+            973,
+            984,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ]
+    ],
+    "split_sentence": [
+        "Mechanisms of myocardial ischemia induced by epinephrine: comparison with exercise-induced ischemia.",
+        "The role of epinephrine in eliciting myocardial ischemia was examined in patients with coronary artery disease.",
+        "Objective signs of ischemia and factors increasing myocardial oxygen consumption were compared during epinephrine infusion and supine bicycle exercise.",
+        "Both epinephrine and exercise produced myocardial ischemia as evidenced by ST segment depression and angina.",
+        "However, the mechanisms of myocardial ischemia induced by epinephrine were significantly different from those of exercise.",
+        "Exercise-induced myocardial ischemia was marked predominantly by increased heart rate and rate-pressure product with a minor contribution of end-diastolic volume, while epinephrine-induced ischemia was characterized by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product.",
+        "These findings indicate that ischemia produced by epinephrine, as may occur during states of emotional distress, has a mechanism distinct from that due to physical exertion."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017202\tDisease\tmyocardial ischemia\tMechanisms of <target> myocardial ischemia </target> induced by epinephrine : comparison with exercise-induced ischemia .",
+        "D004837\tChemical\tepinephrine\tMechanisms of myocardial ischemia induced by <target> epinephrine </target> : comparison with exercise-induced ischemia .",
+        "D007511\tDisease\tischemia\tMechanisms of myocardial ischemia induced by epinephrine : comparison with exercise-induced <target> ischemia </target> .",
+        "D004837\tChemical\tepinephrine\tThe role of <target> epinephrine </target> in eliciting myocardial ischemia was examined in patients with coronary artery disease .",
+        "D017202\tDisease\tmyocardial ischemia\tThe role of epinephrine in eliciting <target> myocardial ischemia </target> was examined in patients with coronary artery disease .",
+        "D003324\tDisease\tcoronary artery disease\tThe role of epinephrine in eliciting myocardial ischemia was examined in patients with <target> coronary artery disease </target> .",
+        "D007511\tDisease\tischemia\tObjective signs of <target> ischemia </target> and factors increasing myocardial oxygen consumption were compared during epinephrine infusion and supine bicycle exercise .",
+        "D010100\tChemical\toxygen\tObjective signs of ischemia and factors increasing myocardial <target> oxygen </target> consumption were compared during epinephrine infusion and supine bicycle exercise .",
+        "D004837\tChemical\tepinephrine\tObjective signs of ischemia and factors increasing myocardial oxygen consumption were compared during <target> epinephrine </target> infusion and supine bicycle exercise .",
+        "D004837\tChemical\tepinephrine\tBoth <target> epinephrine </target> and exercise produced myocardial ischemia as evidenced by ST segment depression and angina .",
+        "D017202\tDisease\tmyocardial ischemia\tBoth epinephrine and exercise produced <target> myocardial ischemia </target> as evidenced by ST segment depression and angina .",
+        "D003866\tDisease\tdepression\tBoth epinephrine and exercise produced myocardial ischemia as evidenced by ST segment <target> depression </target> and angina .",
+        "D000787\tDisease\tangina\tBoth epinephrine and exercise produced myocardial ischemia as evidenced by ST segment depression and <target> angina </target> .",
+        "D017202\tDisease\tmyocardial ischemia\tHowever , the mechanisms of <target> myocardial ischemia </target> induced by epinephrine were significantly different from those of exercise .",
+        "D004837\tChemical\tepinephrine\tHowever , the mechanisms of myocardial ischemia induced by <target> epinephrine </target> were significantly different from those of exercise .",
+        "D017202\tDisease\tmyocardial ischemia\tExercise-induced <target> myocardial ischemia </target> was marked predominantly by increased heart rate and rate-pressure product with a minor contribution of end-diastolic volume , while epinephrine-induced ischemia was characterized by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product .",
+        "D004837\tChemical\tepinephrine\tExercise-induced myocardial ischemia was marked predominantly by increased heart rate and rate-pressure product with a minor contribution of end-diastolic volume , while <target> epinephrine </target> -induced ischemia was characterized by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product .",
+        "D007511\tDisease\tischemia\tExercise-induced myocardial ischemia was marked predominantly by increased heart rate and rate-pressure product with a minor contribution of end-diastolic volume , while epinephrine-induced <target> ischemia </target> was characterized by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product .",
+        "D007511\tDisease\tischemia\tThese findings indicate that <target> ischemia </target> produced by epinephrine , as may occur during states of emotional distress , has a mechanism distinct from that due to physical exertion .",
+        "D004837\tChemical\tepinephrine\tThese findings indicate that ischemia produced by <target> epinephrine </target> , as may occur during states of emotional distress , has a mechanism distinct from that due to physical exertion ."
+    ],
+    "lines_lemma": [
+        "D017202\tDisease\tmyocardial ischemia\tmechanism of <target> myocardial ischemia </target> induce by epinephrine : comparison with exercise-induced ischemia .",
+        "D004837\tChemical\tepinephrine\tmechanism of myocardial ischemia induce by <target> epinephrine </target> : comparison with exercise-induced ischemia .",
+        "D007511\tDisease\tischemia\tmechanism of myocardial ischemia induce by epinephrine : comparison with exercise-induced <target> ischemia </target> .",
+        "D004837\tChemical\tepinephrine\tthe role of <target> epinephrine </target> in elicit myocardial ischemia be examine in patient with coronary artery disease .",
+        "D017202\tDisease\tmyocardial ischemia\tthe role of epinephrine in elicit <target> myocardial ischemia </target> be examine in patient with coronary artery disease .",
+        "D003324\tDisease\tcoronary artery disease\tthe role of epinephrine in elicit myocardial ischemia be examine in patient with <target> coronary artery disease </target> .",
+        "D007511\tDisease\tischemia\tobjective sign of <target> ischemia </target> and factor increase myocardial oxygen consumption be compare during epinephrine infusion and supine bicycle exercise .",
+        "D010100\tChemical\toxygen\tobjective sign of ischemia and factor increase myocardial <target> oxygen </target> consumption be compare during epinephrine infusion and supine bicycle exercise .",
+        "D004837\tChemical\tepinephrine\tobjective sign of ischemia and factor increase myocardial oxygen consumption be compare during <target> epinephrine </target> infusion and supine bicycle exercise .",
+        "D004837\tChemical\tepinephrine\tboth <target> epinephrine </target> and exercise produce myocardial ischemia as evidence by st segment depression and angina .",
+        "D017202\tDisease\tmyocardial ischemia\tboth epinephrine and exercise produce <target> myocardial ischemia </target> as evidence by st segment depression and angina .",
+        "D003866\tDisease\tdepression\tboth epinephrine and exercise produce myocardial ischemia as evidence by st segment <target> depression </target> and angina .",
+        "D000787\tDisease\tangina\tboth epinephrine and exercise produce myocardial ischemia as evidence by st segment depression and <target> angina </target> .",
+        "D017202\tDisease\tmyocardial ischemia\thowever , the mechanism of <target> myocardial ischemia </target> induce by epinephrine be significantly different from those of exercise .",
+        "D004837\tChemical\tepinephrine\thowever , the mechanism of myocardial ischemia induce by <target> epinephrine </target> be significantly different from those of exercise .",
+        "D017202\tDisease\tmyocardial ischemia\texercise-induced <target> myocardial ischemia </target> be mark predominantly by increase heart rate and rate-pressure product with a minor contribution of end-diastolic volume , while epinephrine-induced ischemia be characterize by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product .",
+        "D004837\tChemical\tepinephrine\texercise-induced myocardial ischemia be mark predominantly by increase heart rate and rate-pressure product with a minor contribution of end-diastolic volume , while <target> epinephrine </target> -induced ischemia be characterize by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product .",
+        "D007511\tDisease\tischemia\texercise-induced myocardial ischemia be mark predominantly by increase heart rate and rate-pressure product with a minor contribution of end-diastolic volume , while epinephrine-induced <target> ischemia </target> be characterize by a marked increase in contractility and a less pronounced increase in heart rate and rate-pressure product .",
+        "D007511\tDisease\tischemia\tthese finding indicate that <target> ischemia </target> produce by epinephrine , as may occur during state of emotional distress , have a mechanism distinct from that due to physical exertion .",
+        "D004837\tChemical\tepinephrine\tthese finding indicate that ischemia produce by <target> epinephrine </target> , as may occur during state of emotional distress , have a mechanism distinct from that due to physical exertion ."
+    ]
+}

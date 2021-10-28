@@ -1,0 +1,137 @@
+{
+    "entities": [
+        [
+            1217,
+            1219,
+            "M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2980,
+            2992,
+            "metastásicos",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1513,
+            1523,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2961,
+            2979,
+            "nódulos pulmonares",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            2611,
+            2640,
+            "progresiones a nivel pulmonar",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1631,
+            1650,
+            "progresión pulmonar",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            956,
+            981,
+            "sarcoma de partes blandas",
+            "MORFOLOGIA_NEOPLASIA",
+            "8800/3"
+        ],
+        [
+            1198,
+            1205,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            2695,
+            2702,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1120,
+            1149,
+            "leiomiosarcoma indiferenciado",
+            "MORFOLOGIA_NEOPLASIA",
+            "8890/34"
+        ],
+        [
+            1466,
+            1497,
+            "nódulos milimétricos pulmonares",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Los resultados anatomopatológicos fueron leiomiosarcoma indiferenciado de 8 cm de diámetro mayor, bordes libres, grado tumoral 3, pT2a N0  <objetivo> M0 </objetivo>  estadio II.",
+        "Actualmente el paciente se encuentra en curso de radioterapia de intensidad modulada sobre varios nódulos pulmonares  <objetivo> metastásicos </objetivo> ",
+        "En enero de 2011 se detectan en la tomografía computarizada (TC) nódulos milimétricos pulmonares sospechosos de  <objetivo> metástasis </objetivo>  comenzando esquema quimioterápico con adriamicina, del que recibe solo dos ciclos por detectarse en la TC progresión pulmonar.",
+        "Actualmente el paciente se encuentra en curso de radioterapia de intensidad modulada sobre varios  <objetivo> nódulos pulmonares </objetivo> metastásicos.",
+        "Este paciente ha presentado posteriormente múltiples  <objetivo> progresiones a nivel pulmonar </objetivo>  administrándose gemcitabina, dada la buena respuesta tumoral inicial, en distintas líneas terapéuticas, en combinación y monoterapia, sin llegar a reaparecer en ninguna de ellas nuevamente el fenómeno de radiaton recall.",
+        "En enero de 2011 se detectan en la tomografía computarizada (TC) nódulos milimétricos pulmonares sospechosos de metástasis, comenzando esquema quimioterápico con adriamicina, del que recibe solo dos ciclos por detectarse en la TC  <objetivo> progresión pulmonar </objetivo> ",
+        "Se realizó una biopsia de dicha región, con resultados compatibles con  <objetivo> sarcoma de partes blandas </objetivo> ",
+        "Los resultados anatomopatológicos fueron leiomiosarcoma indiferenciado de 8 cm de diámetro mayor, bordes libres, grado  <objetivo> tumoral </objetivo> 3, pT2a N0 M0, estadio II.",
+        "Este paciente ha presentado posteriormente múltiples progresiones a nivel pulmonar, administrándose gemcitabina, dada la buena respuesta  <objetivo> tumoral </objetivo> inicial, en distintas líneas terapéuticas, en combinación y monoterapia, sin llegar a reaparecer en ninguna de ellas nuevamente el fenómeno de radiaton recall.",
+        "Los resultados anatomopatológicos fueron leiomiosarcoma indiferenciado de 8 cm de diámetro mayor, bordes libres, grado  <objetivo> tumoral </objetivo> 3, pT2a N0 M0, estadio II.",
+        "Este paciente ha presentado posteriormente múltiples progresiones a nivel pulmonar, administrándose gemcitabina, dada la buena respuesta  <objetivo> tumoral </objetivo> inicial, en distintas líneas terapéuticas, en combinación y monoterapia, sin llegar a reaparecer en ninguna de ellas nuevamente el fenómeno de radiaton recall.",
+        "Los resultados anatomopatológicos fueron  <objetivo> leiomiosarcoma indiferenciado </objetivo> de 8 cm de diámetro mayor, bordes libres, grado tumoral 3, pT2a N0 M0, estadio II.",
+        "En enero de 2011 se detectan en la tomografía computarizada (TC)  <objetivo> nódulos milimétricos pulmonares </objetivo> sospechosos de metástasis, comenzando esquema quimioterápico con adriamicina, del que recibe solo dos ciclos por detectarse en la TC progresión pulmonar."
+    ],
+    "lines_lemma": [
+        "el resultado anatomopatológico ser leiomiosarcomar indiferenciar de 8 cm de diámetro mayor , borde libre , grado tumoral 3 , pT2a N0   <objetivo> M0 </objetivo>   estadio II .",
+        "actualmente el paciente él encontrar en curso de radioterapia de intensidad modulado sobre varios nódulo pulmonar   <objetivo> metastásico </objetivo>",
+        "en enero de 2011 él detectar en el tomografía computarizado ( TC ) nodu él milimétrico pulmonar sospechoso de   <objetivo> metástasi </objetivo>   comenzar esquema quimioterápico con adriamicina , del que recibir solo dos ciclo por detectar él en el TC progresión pulmonar .",
+        "actualmente el paciente él encontrar en curso de radioterapia de intensidad modulado sobre varios   <objetivo> nódulo pulmonar </objetivo> metastásico .",
+        "este paciente haber presentar posteriormente múltiple   <objetivo> progresión a nivel pulmonar </objetivo>   administrar él gemcitabina , dar el buen respuesta tumoral inicial , en distinto línea terapéutico , en combinación y monoterapia , sin llegar a reaparecer en ninguno de él nuevamente el fenómeno de radiaton recall .",
+        "en enero de 2011 él detectar en el tomografía computarizado ( TC ) nodu él milimétrico pulmonar sospechoso de metástasis , comenzar esquema quimioterápico con adriamicina , del que recibir solo dos ciclo por detectar él en el TC   <objetivo> progresión pulmonar </objetivo>",
+        "él realizar uno biopsia de dicho región , con resultado compatible con   <objetivo> sarcomar de parte blando </objetivo>",
+        "el resultado anatomopatológico ser leiomiosarcomar indiferenciar de 8 cm de diámetro mayor , borde libre , grado   <objetivo> tumoral </objetivo> 3 , pT2a N0 M0 , estadio II .",
+        "este paciente haber presentar posteriormente múltiple progresión a nivel pulmonar , administrar él gemcitabina , dar el buen respuesta   <objetivo> tumoral </objetivo> inicial , en distinto línea terapéutico , en combinación y monoterapia , sin llegar a reaparecer en ninguno de él nuevamente el fenómeno de radiaton recall .",
+        "el resultado anatomopatológico ser leiomiosarcomar indiferenciar de 8 cm de diámetro mayor , borde libre , grado   <objetivo> tumoral </objetivo> 3 , pT2a N0 M0 , estadio II .",
+        "este paciente haber presentar posteriormente múltiple progresión a nivel pulmonar , administrar él gemcitabina , dar el buen respuesta   <objetivo> tumoral </objetivo> inicial , en distinto línea terapéutico , en combinación y monoterapia , sin llegar a reaparecer en ninguno de él nuevamente el fenómeno de radiaton recall .",
+        "el resultado anatomopatológico ser   <objetivo> leiomiosarcomar indiferenciado </objetivo> de 8 cm de diámetro mayor , borde libre , grado tumoral 3 , pT2a N0 M0 , estadio II .",
+        "en enero de 2011 él detectar en el tomografía computarizado ( TC )   <objetivo> nódulo milimétrico pulmonar </objetivo> sospechoso de metástasis , comenzar esquema quimioterápico con adriamicina , del que recibir solo dos ciclo por detectar él en el TC progresión pulmonar ."
+    ],
+    "pubmed_id": "onco131",
+    "split_sentence": [
+        "Anamnesis",
+        "Paciente varón de 63 años, con antecedentes médicos destacados de diabetes mellitus tipo 2 y dislipemia; comienza en junio de 2010 con dolor y tumefacción en la región inguinal derecha.",
+        "Exploración física",
+        "A la exploración clínica presentaba tumefacción, eritema, aumento de la temperatura local, dolor a la palpación y aumento del diámetro de la región proximal del muslo derecho respecto con respecto al muslo contralateral.",
+        "Pruebas complementarias",
+        "» Se realizó una resonancia magnética de la región proximal del miembro inferior derecho en julio de 2010, donde se observó una lesión ocupante de espacio de características sólidas en la región inguinal derecha, con diámetro máximo de 4,6 x 3,6 x 4,1 cm, isointenso en T1 y de intensidad de señal intermedia y heterogénea en T2 con hiperintensidad de señal periférica.",
+        "» El estudio de extensión fue negativo.",
+        "Diagnóstico",
+        "Se realizó una biopsia de dicha región, con resultados compatibles con sarcoma de partes blandas.",
+        "Tratamiento",
+        "Se somete a intervención quirúrgica en septiembre de 2010 con resección en bloque.",
+        "Los resultados anatomopatológicos fueron leiomiosarcoma indiferenciado de 8 cm de diámetro mayor, bordes libres, grado tumoral 3, pT2a N0 M0, estadio II.",
+        "Posteriormente recibe radioterapia externa local, con una dosis total de 60 Gy, finalizando en abril de 2010, tras lo cual comienza un seguimiento estrecho.",
+        "Evolución",
+        "En enero de 2011 se detectan en la tomografía computarizada (TC) nódulos milimétricos pulmonares sospechosos de metástasis, comenzando esquema quimioterápico con adriamicina, del que recibe solo dos ciclos por detectarse en la TC progresión pulmonar.",
+        "Comienza entonces esquema quimioterápico con gemcitabina-docetaxel, con respuesta parcial tras tres ciclos pero con comienzo tras estos ciclos de dolor en el muslo derecho, así como aumento del perímetro del mismo.",
+        "En la resonancia magnética del muslo derecho se detecta edema en el tejido celular subcutáneo y en la musculatura aproximadora y glútea del muslo derecho, con cambios postratamiento (Imágenes 1 y 2).",
+        "Concluyéndose finalmente que corresponde a un fenómeno de radiaton recall por gemcitabina, por lo que se le prescriben antiinflamatorios no esteroideos y corticoides a dosis bajas y en pauta descendente, con lo que progresivamente mejora hasta remitir completamente la clínica en unas 2 semanas.",
+        "Se decide continuar con gemcitabina-docetaxel hasta completar seis ciclos en agosto de 2011, tras los cuales se consigue una respuesta completa y sin reaparición del fenómeno de radiaton recall.",
+        "Este paciente ha presentado posteriormente múltiples progresiones a nivel pulmonar, administrándose gemcitabina, dada la buena respuesta tumoral inicial, en distintas líneas terapéuticas, en combinación y monoterapia, sin llegar a reaparecer en ninguna de ellas nuevamente el fenómeno de radiaton recall.",
+        "Actualmente el paciente se encuentra en curso de radioterapia de intensidad modulada sobre varios nódulos pulmonares metastásicos."
+    ],
+    "text": "Anamnesis\nPaciente varón de 63 años, con antecedentes médicos destacados de diabetes mellitus tipo 2 y dislipemia; comienza en junio de 2010 con dolor y tumefacción en la región inguinal derecha.\n\nExploración física\nA la exploración clínica presentaba tumefacción, eritema, aumento de la temperatura local, dolor a la palpación y aumento del diámetro de la región proximal del muslo derecho respecto con respecto al muslo contralateral.\n\nPruebas complementarias\n» Se realizó una resonancia magnética de la región proximal del miembro inferior derecho en julio de 2010, donde se observó una lesión ocupante de espacio de características sólidas en la región inguinal derecha, con diámetro máximo de 4,6 x 3,6 x 4,1 cm, isointenso en T1 y de intensidad de señal intermedia y heterogénea en T2 con hiperintensidad de señal periférica.\n» El estudio de extensión fue negativo.\n\nDiagnóstico\nSe realizó una biopsia de dicha región, con resultados compatibles con sarcoma de partes blandas.\n\nTratamiento\nSe somete a intervención quirúrgica en septiembre de 2010 con resección en bloque. Los resultados anatomopatológicos fueron leiomiosarcoma indiferenciado de 8 cm de diámetro mayor, bordes libres, grado tumoral 3, pT2a N0 M0, estadio II.\nPosteriormente recibe radioterapia externa local, con una dosis total de 60 Gy, finalizando en abril de 2010, tras lo cual comienza un seguimiento estrecho.\n\nEvolución\nEn enero de 2011 se detectan en la tomografía computarizada (TC) nódulos milimétricos pulmonares sospechosos de metástasis, comenzando esquema quimioterápico con adriamicina, del que recibe solo dos ciclos por detectarse en la TC progresión pulmonar.\nComienza entonces esquema quimioterápico con gemcitabina-docetaxel, con respuesta parcial tras tres ciclos pero con comienzo tras estos ciclos de dolor en el muslo derecho, así como aumento del perímetro del mismo. En la resonancia magnética del muslo derecho se detecta edema en el tejido celular subcutáneo y en la musculatura aproximadora y glútea del muslo derecho, con cambios postratamiento (Imágenes 1 y 2). Concluyéndose finalmente que corresponde a un fenómeno de radiaton recall por gemcitabina, por lo que se le prescriben antiinflamatorios no esteroideos y corticoides a dosis bajas y en pauta descendente, con lo que progresivamente mejora hasta remitir completamente la clínica en unas 2 semanas. Se decide continuar con gemcitabina-docetaxel hasta completar seis ciclos en agosto de 2011, tras los cuales se consigue una respuesta completa y sin reaparición del fenómeno de radiaton recall.\nEste paciente ha presentado posteriormente múltiples progresiones a nivel pulmonar, administrándose gemcitabina, dada la buena respuesta tumoral inicial, en distintas líneas terapéuticas, en combinación y monoterapia, sin llegar a reaparecer en ninguna de ellas nuevamente el fenómeno de radiaton recall.\nActualmente el paciente se encuentra en curso de radioterapia de intensidad modulada sobre varios nódulos pulmonares metastásicos."
+}

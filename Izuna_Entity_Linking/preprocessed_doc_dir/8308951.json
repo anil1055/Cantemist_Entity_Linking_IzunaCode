@@ -1,0 +1,110 @@
+{
+    "title": "Cutaneous exposure to warfarin-like anticoagulant causing an intracerebral hemorrhage: a case report.",
+    "abst": "A case of intercerebral hematoma due to warfarin-induced coagulopathy is presented. The 39-year-old woman had spread a warfarin-type rat poison around her house weekly using her bare hands, with no washing post application. Percutaneous absorption of warfarin causing coagulopathy, reported three times in the past, is a significant risk if protective measures, such as gloves, are not used. An adverse drug interaction with piroxicam, which she took occasionally, may have exacerbated the coagulopathy.",
+    "title_plus_abst": "Cutaneous exposure to warfarin-like anticoagulant causing an intracerebral hemorrhage: a case report. A case of intercerebral hematoma due to warfarin-induced coagulopathy is presented. The 39-year-old woman had spread a warfarin-type rat poison around her house weekly using her bare hands, with no washing post application. Percutaneous absorption of warfarin causing coagulopathy, reported three times in the past, is a significant risk if protective measures, such as gloves, are not used. An adverse drug interaction with piroxicam, which she took occasionally, may have exacerbated the coagulopathy.",
+    "pubmed_id": "8308951",
+    "entities": [
+        [
+            22,
+            30,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            61,
+            85,
+            "intracerebral hemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            126,
+            134,
+            "hematoma",
+            "Disease",
+            "D006406"
+        ],
+        [
+            142,
+            150,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            159,
+            171,
+            "coagulopathy",
+            "Disease",
+            "D001778"
+        ],
+        [
+            221,
+            229,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            353,
+            361,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            370,
+            382,
+            "coagulopathy",
+            "Disease",
+            "D001778"
+        ],
+        [
+            527,
+            536,
+            "piroxicam",
+            "Chemical",
+            "D010894"
+        ],
+        [
+            592,
+            604,
+            "coagulopathy",
+            "Disease",
+            "D001778"
+        ]
+    ],
+    "split_sentence": [
+        "Cutaneous exposure to warfarin-like anticoagulant causing an intracerebral hemorrhage: a case report.",
+        "A case of intercerebral hematoma due to warfarin-induced coagulopathy is presented.",
+        "The 39-year-old woman had spread a warfarin-type rat poison around her house weekly using her bare hands, with no washing post application.",
+        "Percutaneous absorption of warfarin causing coagulopathy, reported three times in the past, is a significant risk if protective measures, such as gloves, are not used.",
+        "An adverse drug interaction with piroxicam, which she took occasionally, may have exacerbated the coagulopathy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014859\tChemical\twarfarin\tCutaneous exposure to <target> warfarin </target> -like anticoagulant causing an intracerebral hemorrhage : a case report .",
+        "D002543\tDisease\tintracerebral hemorrhage\tCutaneous exposure to warfarin-like anticoagulant causing an <target> intracerebral hemorrhage </target> : a case report .",
+        "D006406\tDisease\thematoma\tA case of intercerebral <target> hematoma </target> due to warfarin-induced coagulopathy is presented .",
+        "D014859\tChemical\twarfarin\tA case of intercerebral hematoma due to <target> warfarin </target> -induced coagulopathy is presented .",
+        "D001778\tDisease\tcoagulopathy\tA case of intercerebral hematoma due to warfarin-induced <target> coagulopathy </target> is presented .",
+        "D014859\tChemical\twarfarin\tThe 39-year-old woman had spread a <target> warfarin </target> -type rat poison around her house weekly using her bare hands , with no washing post application .",
+        "D014859\tChemical\twarfarin\tPercutaneous absorption of <target> warfarin </target> causing coagulopathy , reported three times in the past , is a significant risk if protective measures , such as gloves , are not used .",
+        "D001778\tDisease\tcoagulopathy\tPercutaneous absorption of warfarin causing <target> coagulopathy </target> , reported three times in the past , is a significant risk if protective measures , such as gloves , are not used .",
+        "D010894\tChemical\tpiroxicam\tAn adverse drug interaction with <target> piroxicam </target> , which she took occasionally , may have exacerbated the coagulopathy .",
+        "D001778\tDisease\tcoagulopathy\tAn adverse drug interaction with piroxicam , which she took occasionally , may have exacerbated the <target> coagulopathy </target> ."
+    ],
+    "lines_lemma": [
+        "D014859\tChemical\twarfarin\tcutaneous exposure to <target> warfarin </target> -like anticoagulant cause an intracerebral hemorrhage : a case report .",
+        "D002543\tDisease\tintracerebral hemorrhage\tcutaneous exposure to warfarin-like anticoagulant cause an <target> intracerebral hemorrhage </target> : a case report .",
+        "D006406\tDisease\thematoma\ta case of intercerebral <target> hematoma </target> due to warfarin-induced coagulopathy be present .",
+        "D014859\tChemical\twarfarin\ta case of intercerebral hematoma due to <target> warfarin </target> -induced coagulopathy be present .",
+        "D001778\tDisease\tcoagulopathy\ta case of intercerebral hematoma due to warfarin-induced <target> coagulopathy </target> be present .",
+        "D014859\tChemical\twarfarin\tthe 39-year-old woman have spread a <target> warfarin </target> -type rat poison around her house weekly use her bare hand , with no washing post application .",
+        "D014859\tChemical\twarfarin\tpercutaneous absorption of <target> warfarin </target> cause coagulopathy , report three time in the past , be a significant risk if protective measure , such as glove , be not use .",
+        "D001778\tDisease\tcoagulopathy\tpercutaneous absorption of warfarin cause <target> coagulopathy </target> , report three time in the past , be a significant risk if protective measure , such as glove , be not use .",
+        "D010894\tChemical\tpiroxicam\tan adverse drug interaction with <target> piroxicam </target> , which she take occasionally , may have exacerbate the coagulopathy .",
+        "D001778\tDisease\tcoagulopathy\tan adverse drug interaction with piroxicam , which she take occasionally , may have exacerbate the <target> coagulopathy </target> ."
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "title": "Allergic reaction to 5-fluorouracil infusion.",
+    "abst": "An allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity, cirrhosis, and cisplatin-induced impaired renal function. This reaction occurred during the sixth and seventh courses of infusional chemotherapy. Oral diphenhydramine and prednisone were ineffective in preventing the recurrence of the allergic reaction. Discontinuance of effective chemotherapy in this patient during partial remission resulted in fatal disease progression.",
+    "title_plus_abst": "Allergic reaction to 5-fluorouracil infusion. An allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity, cirrhosis, and cisplatin-induced impaired renal function. This reaction occurred during the sixth and seventh courses of infusional chemotherapy. Oral diphenhydramine and prednisone were ineffective in preventing the recurrence of the allergic reaction. Discontinuance of effective chemotherapy in this patient during partial remission resulted in fatal disease progression.",
+    "pubmed_id": "3719553",
+    "entities": [
+        [
+            0,
+            17,
+            "Allergic reaction",
+            "Disease",
+            "D004342"
+        ],
+        [
+            21,
+            35,
+            "5-fluorouracil",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            49,
+            66,
+            "allergic reaction",
+            "Disease",
+            "D004342"
+        ],
+        [
+            81,
+            100,
+            "angioneurotic edema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            134,
+            148,
+            "5-fluorouracil",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            186,
+            214,
+            "carcinoma of the oral cavity",
+            "Disease",
+            "D009062"
+        ],
+        [
+            216,
+            225,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            231,
+            240,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            249,
+            272,
+            "impaired renal function",
+            "Disease",
+            "D007674"
+        ],
+        [
+            367,
+            382,
+            "diphenhydramine",
+            "Chemical",
+            "D004155"
+        ],
+        [
+            387,
+            397,
+            "prednisone",
+            "Chemical",
+            "D011241"
+        ],
+        [
+            451,
+            468,
+            "allergic reaction",
+            "Disease",
+            "D004342"
+        ]
+    ],
+    "split_sentence": [
+        "Allergic reaction to 5-fluorouracil infusion.",
+        "An allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity, cirrhosis, and cisplatin-induced impaired renal function.",
+        "This reaction occurred during the sixth and seventh courses of infusional chemotherapy.",
+        "Oral diphenhydramine and prednisone were ineffective in preventing the recurrence of the allergic reaction.",
+        "Discontinuance of effective chemotherapy in this patient during partial remission resulted in fatal disease progression."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004342\tDisease\tAllergic reaction\t<target> Allergic reaction </target> to 5-fluorouracil infusion .",
+        "D005472\tChemical\t5-fluorouracil\tAllergic reaction to <target> 5-fluorouracil </target> infusion .",
+        "D004342\tDisease\tallergic reaction\tAn <target> allergic reaction </target> consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D000799\tDisease\tangioneurotic edema\tAn allergic reaction consisting of <target> angioneurotic edema </target> secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D005472\tChemical\t5-fluorouracil\tAn allergic reaction consisting of angioneurotic edema secondary to continuous infusion <target> 5-fluorouracil </target> occurred in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D009062\tDisease\tcarcinoma of the oral cavity\tAn allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent <target> carcinoma of the oral cavity </target> , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D005355\tDisease\tcirrhosis\tAn allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity , <target> cirrhosis </target> , and cisplatin-induced impaired renal function .",
+        "D002945\tChemical\tcisplatin\tAn allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and <target> cisplatin </target> -induced impaired renal function .",
+        "D007674\tDisease\timpaired renal function\tAn allergic reaction consisting of angioneurotic edema secondary to continuous infusion 5-fluorouracil occurred in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced <target> impaired renal function </target> .",
+        "D004155\tChemical\tdiphenhydramine\tOral <target> diphenhydramine </target> and prednisone were ineffective in preventing the recurrence of the allergic reaction .",
+        "D011241\tChemical\tprednisone\tOral diphenhydramine and <target> prednisone </target> were ineffective in preventing the recurrence of the allergic reaction .",
+        "D004342\tDisease\tallergic reaction\tOral diphenhydramine and prednisone were ineffective in preventing the recurrence of the <target> allergic reaction </target> ."
+    ],
+    "lines_lemma": [
+        "D004342\tDisease\tAllergic reaction\t<target> allergic reaction </target> to 5-fluorouracil infusion .",
+        "D005472\tChemical\t5-fluorouracil\tallergic reaction to <target> 5-fluorouracil </target> infusion .",
+        "D004342\tDisease\tallergic reaction\tan <target> allergic reaction </target> consist of angioneurotic edema secondary to continuous infusion 5-fluorouracil occur in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D000799\tDisease\tangioneurotic edema\tan allergic reaction consist of <target> angioneurotic edema </target> secondary to continuous infusion 5-fluorouracil occur in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D005472\tChemical\t5-fluorouracil\tan allergic reaction consist of angioneurotic edema secondary to continuous infusion <target> 5-fluorouracil </target> occur in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D009062\tDisease\tcarcinoma of the oral cavity\tan allergic reaction consist of angioneurotic edema secondary to continuous infusion 5-fluorouracil occur in a patient with recurrent <target> carcinoma of the oral cavity </target> , cirrhosis , and cisplatin-induced impaired renal function .",
+        "D005355\tDisease\tcirrhosis\tan allergic reaction consist of angioneurotic edema secondary to continuous infusion 5-fluorouracil occur in a patient with recurrent carcinoma of the oral cavity , <target> cirrhosis </target> , and cisplatin-induced impaired renal function .",
+        "D002945\tChemical\tcisplatin\tan allergic reaction consist of angioneurotic edema secondary to continuous infusion 5-fluorouracil occur in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and <target> cisplatin </target> -induced impaired renal function .",
+        "D007674\tDisease\timpaired renal function\tan allergic reaction consist of angioneurotic edema secondary to continuous infusion 5-fluorouracil occur in a patient with recurrent carcinoma of the oral cavity , cirrhosis , and cisplatin-induced <target> impaired renal function </target> .",
+        "D004155\tChemical\tdiphenhydramine\toral <target> diphenhydramine </target> and prednisone be ineffective in prevent the recurrence of the allergic reaction .",
+        "D011241\tChemical\tprednisone\toral diphenhydramine and <target> prednisone </target> be ineffective in prevent the recurrence of the allergic reaction .",
+        "D004342\tDisease\tallergic reaction\toral diphenhydramine and prednisone be ineffective in prevent the recurrence of the <target> allergic reaction </target> ."
+    ]
+}

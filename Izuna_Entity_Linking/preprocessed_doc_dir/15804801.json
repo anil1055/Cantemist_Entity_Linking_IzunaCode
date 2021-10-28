@@ -1,0 +1,102 @@
+{
+    "title": "Coronary aneurysm after implantation of a paclitaxel-eluting stent.",
+    "abst": "Formation of coronary aneurysm is a rare complication of stenting with bare metal stents, but based on experimental studies drug-eluting stents may induce toxic effects on the vessel wall with incomplete stent apposition, aneurysm formation and with the potential of stent thrombosis or vessel rupture. We present a 43-year-old man who developed a coronary aneurysm in the right coronary artery 6 months after receiving a paclitaxel-eluting stent. The patient was asymptomatic and the aneurysm was detected in a routine control. Angiography and intracoronary ultrasound demonstrated lack of contact between stent and vessel wall in a 15-mm long segment with maximal aneurysm diameter of 6.0 mm. The patient was successfully treated with a graft stent.",
+    "title_plus_abst": "Coronary aneurysm after implantation of a paclitaxel-eluting stent. Formation of coronary aneurysm is a rare complication of stenting with bare metal stents, but based on experimental studies drug-eluting stents may induce toxic effects on the vessel wall with incomplete stent apposition, aneurysm formation and with the potential of stent thrombosis or vessel rupture. We present a 43-year-old man who developed a coronary aneurysm in the right coronary artery 6 months after receiving a paclitaxel-eluting stent. The patient was asymptomatic and the aneurysm was detected in a routine control. Angiography and intracoronary ultrasound demonstrated lack of contact between stent and vessel wall in a 15-mm long segment with maximal aneurysm diameter of 6.0 mm. The patient was successfully treated with a graft stent.",
+    "pubmed_id": "15804801",
+    "entities": [
+        [
+            0,
+            17,
+            "Coronary aneurysm",
+            "Disease",
+            "D003323"
+        ],
+        [
+            42,
+            52,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            81,
+            98,
+            "coronary aneurysm",
+            "Disease",
+            "D003323"
+        ],
+        [
+            290,
+            298,
+            "aneurysm",
+            "Disease",
+            "D000783"
+        ],
+        [
+            341,
+            351,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            416,
+            433,
+            "coronary aneurysm",
+            "Disease",
+            "D003323"
+        ],
+        [
+            490,
+            500,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            553,
+            561,
+            "aneurysm",
+            "Disease",
+            "D000783"
+        ],
+        [
+            734,
+            742,
+            "aneurysm",
+            "Disease",
+            "D000783"
+        ]
+    ],
+    "split_sentence": [
+        "Coronary aneurysm after implantation of a paclitaxel-eluting stent.",
+        "Formation of coronary aneurysm is a rare complication of stenting with bare metal stents, but based on experimental studies drug-eluting stents may induce toxic effects on the vessel wall with incomplete stent apposition, aneurysm formation and with the potential of stent thrombosis or vessel rupture.",
+        "We present a 43-year-old man who developed a coronary aneurysm in the right coronary artery 6 months after receiving a paclitaxel-eluting stent.",
+        "The patient was asymptomatic and the aneurysm was detected in a routine control.",
+        "Angiography and intracoronary ultrasound demonstrated lack of contact between stent and vessel wall in a 15-mm long segment with maximal aneurysm diameter of 6.0 mm.",
+        "The patient was successfully treated with a graft stent."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003323\tDisease\tCoronary aneurysm\t<target> Coronary aneurysm </target> after implantation of a paclitaxel-eluting stent .",
+        "D017239\tChemical\tpaclitaxel\tCoronary aneurysm after implantation of a <target> paclitaxel </target> -eluting stent .",
+        "D003323\tDisease\tcoronary aneurysm\tFormation of <target> coronary aneurysm </target> is a rare complication of stenting with bare metal stents , but based on experimental studies drug-eluting stents may induce toxic effects on the vessel wall with incomplete stent apposition , aneurysm formation and with the potential of stent thrombosis or vessel rupture .",
+        "D000783\tDisease\taneurysm\tFormation of coronary aneurysm is a rare complication of stenting with bare metal stents , but based on experimental studies drug-eluting stents may induce toxic effects on the vessel wall with incomplete stent apposition , <target> aneurysm </target> formation and with the potential of stent thrombosis or vessel rupture .",
+        "D013927\tDisease\tthrombosis\tFormation of coronary aneurysm is a rare complication of stenting with bare metal stents , but based on experimental studies drug-eluting stents may induce toxic effects on the vessel wall with incomplete stent apposition , aneurysm formation and with the potential of stent <target> thrombosis </target> or vessel rupture .",
+        "D003323\tDisease\tcoronary aneurysm\tWe present a 43-year-old man who developed a <target> coronary aneurysm </target> in the right coronary artery 6 months after receiving a paclitaxel-eluting stent .",
+        "D017239\tChemical\tpaclitaxel\tWe present a 43-year-old man who developed a coronary aneurysm in the right coronary artery 6 months after receiving a <target> paclitaxel </target> -eluting stent .",
+        "D000783\tDisease\taneurysm\tThe patient was asymptomatic and the <target> aneurysm </target> was detected in a routine control .",
+        "D000783\tDisease\taneurysm\tAngiography and intracoronary ultrasound demonstrated lack of contact between stent and vessel wall in a 15-mm long segment with maximal <target> aneurysm </target> diameter of 6.0 mm ."
+    ],
+    "lines_lemma": [
+        "D003323\tDisease\tCoronary aneurysm\t<target> coronary aneurysm </target> after implantation of a paclitaxel-eluting stent .",
+        "D017239\tChemical\tpaclitaxel\tcoronary aneurysm after implantation of a <target> paclitaxel </target> -eluting stent .",
+        "D003323\tDisease\tcoronary aneurysm\tformation of <target> coronary aneurysm </target> be a rare complication of stente with bare metal stent , but base on experimental study drug-eluting stent may induce toxic effect on the vessel wall with incomplete stent apposition , aneurysm formation and with the potential of stent thrombosis or vessel rupture .",
+        "D000783\tDisease\taneurysm\tformation of coronary aneurysm be a rare complication of stente with bare metal stent , but base on experimental study drug-eluting stent may induce toxic effect on the vessel wall with incomplete stent apposition , <target> aneurysm </target> formation and with the potential of stent thrombosis or vessel rupture .",
+        "D013927\tDisease\tthrombosis\tformation of coronary aneurysm be a rare complication of stente with bare metal stent , but base on experimental study drug-eluting stent may induce toxic effect on the vessel wall with incomplete stent apposition , aneurysm formation and with the potential of stent <target> thrombosis </target> or vessel rupture .",
+        "D003323\tDisease\tcoronary aneurysm\twe present a 43-year-old man who develop a <target> coronary aneurysm </target> in the right coronary artery 6 month after receive a paclitaxel-eluting stent .",
+        "D017239\tChemical\tpaclitaxel\twe present a 43-year-old man who develop a coronary aneurysm in the right coronary artery 6 month after receive a <target> paclitaxel </target> -eluting stent .",
+        "D000783\tDisease\taneurysm\tthe patient be asymptomatic and the <target> aneurysm </target> be detect in a routine control .",
+        "D000783\tDisease\taneurysm\tangiography and intracoronary ultrasound demonstrate lack of contact between stent and vessel wall in a 15-mm long segment with maximal <target> aneurysm </target> diameter of 6.0 mm ."
+    ]
+}

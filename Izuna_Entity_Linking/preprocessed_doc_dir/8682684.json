@@ -1,0 +1,158 @@
+{
+    "title": "Acetaminophen-induced hypotension.",
+    "abst": "Through 30 years of widespread use, acetaminophen has been shown to be a remarkably safe medication in therapeutic dosages. The potential for acetaminophen to produce cardiovascular toxicities is very low. However, acetaminophen has been demonstrated to produce symptoms of anaphylaxis, including hypotension, in sensitive individuals. This article describes two critically ill patients in whom transient episodes of hypotension reproducibly developed after administration of acetaminophen. Other symptoms of allergic reactions were not clinically detectable. The hypotensive episodes were severe enough to require vasopressor administration. The reports illustrate the need for clinicians to consider acetaminophen in patients with hypotension of unknown origin.",
+    "title_plus_abst": "Acetaminophen-induced hypotension. Through 30 years of widespread use, acetaminophen has been shown to be a remarkably safe medication in therapeutic dosages. The potential for acetaminophen to produce cardiovascular toxicities is very low. However, acetaminophen has been demonstrated to produce symptoms of anaphylaxis, including hypotension, in sensitive individuals. This article describes two critically ill patients in whom transient episodes of hypotension reproducibly developed after administration of acetaminophen. Other symptoms of allergic reactions were not clinically detectable. The hypotensive episodes were severe enough to require vasopressor administration. The reports illustrate the need for clinicians to consider acetaminophen in patients with hypotension of unknown origin.",
+    "pubmed_id": "8682684",
+    "entities": [
+        [
+            0,
+            13,
+            "Acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            22,
+            33,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            71,
+            84,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            177,
+            190,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            202,
+            227,
+            "cardiovascular toxicities",
+            "Disease",
+            "D002318"
+        ],
+        [
+            250,
+            263,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            309,
+            320,
+            "anaphylaxis",
+            "Disease",
+            "D000707"
+        ],
+        [
+            332,
+            343,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            398,
+            412,
+            "critically ill",
+            "Disease",
+            "D016638"
+        ],
+        [
+            452,
+            463,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            511,
+            524,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            544,
+            562,
+            "allergic reactions",
+            "Disease",
+            "D004342"
+        ],
+        [
+            599,
+            610,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            737,
+            750,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            768,
+            779,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ]
+    ],
+    "split_sentence": [
+        "Acetaminophen-induced hypotension.",
+        "Through 30 years of widespread use, acetaminophen has been shown to be a remarkably safe medication in therapeutic dosages.",
+        "The potential for acetaminophen to produce cardiovascular toxicities is very low.",
+        "However, acetaminophen has been demonstrated to produce symptoms of anaphylaxis, including hypotension, in sensitive individuals.",
+        "This article describes two critically ill patients in whom transient episodes of hypotension reproducibly developed after administration of acetaminophen.",
+        "Other symptoms of allergic reactions were not clinically detectable.",
+        "The hypotensive episodes were severe enough to require vasopressor administration.",
+        "The reports illustrate the need for clinicians to consider acetaminophen in patients with hypotension of unknown origin."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000082\tChemical\tAcetaminophen\t<target> Acetaminophen </target> -induced hypotension .",
+        "D007022\tDisease\thypotension\tAcetaminophen-induced <target> hypotension </target> .",
+        "D000082\tChemical\tacetaminophen\tThrough 30 years of widespread use , <target> acetaminophen </target> has been shown to be a remarkably safe medication in therapeutic dosages .",
+        "D000082\tChemical\tacetaminophen\tThe potential for <target> acetaminophen </target> to produce cardiovascular toxicities is very low .",
+        "D002318\tDisease\tcardiovascular toxicities\tThe potential for acetaminophen to produce <target> cardiovascular toxicities </target> is very low .",
+        "D000082\tChemical\tacetaminophen\tHowever , <target> acetaminophen </target> has been demonstrated to produce symptoms of anaphylaxis , including hypotension , in sensitive individuals .",
+        "D000707\tDisease\tanaphylaxis\tHowever , acetaminophen has been demonstrated to produce symptoms of <target> anaphylaxis </target> , including hypotension , in sensitive individuals .",
+        "D007022\tDisease\thypotension\tHowever , acetaminophen has been demonstrated to produce symptoms of anaphylaxis , including <target> hypotension </target> , in sensitive individuals .",
+        "D016638\tDisease\tcritically ill\tThis article describes two <target> critically ill </target> patients in whom transient episodes of hypotension reproducibly developed after administration of acetaminophen .",
+        "D007022\tDisease\thypotension\tThis article describes two critically ill patients in whom transient episodes of <target> hypotension </target> reproducibly developed after administration of acetaminophen .",
+        "D000082\tChemical\tacetaminophen\tThis article describes two critically ill patients in whom transient episodes of hypotension reproducibly developed after administration of <target> acetaminophen </target> .",
+        "D004342\tDisease\tallergic reactions\tOther symptoms of <target> allergic reactions </target> were not clinically detectable .",
+        "D007022\tDisease\thypotensive\tThe <target> hypotensive </target> episodes were severe enough to require vasopressor administration .",
+        "D000082\tChemical\tacetaminophen\tThe reports illustrate the need for clinicians to consider <target> acetaminophen </target> in patients with hypotension of unknown origin .",
+        "D007022\tDisease\thypotension\tThe reports illustrate the need for clinicians to consider acetaminophen in patients with <target> hypotension </target> of unknown origin ."
+    ],
+    "lines_lemma": [
+        "D000082\tChemical\tAcetaminophen\t<target> Acetaminophen </target> -induced hypotension .",
+        "D007022\tDisease\thypotension\tacetaminophen-induced <target> hypotension </target> .",
+        "D000082\tChemical\tacetaminophen\tthrough 30 year of widespread use , <target> acetaminophen </target> have be show to be a remarkably safe medication in therapeutic dosage .",
+        "D000082\tChemical\tacetaminophen\tthe potential for <target> acetaminophen </target> to produce cardiovascular toxicity be very low .",
+        "D002318\tDisease\tcardiovascular toxicities\tthe potential for acetaminophen to produce <target> cardiovascular toxicity </target> be very low .",
+        "D000082\tChemical\tacetaminophen\thowever , <target> acetaminophen </target> have be demonstrate to produce symptom of anaphylaxis , include hypotension , in sensitive individual .",
+        "D000707\tDisease\tanaphylaxis\thowever , acetaminophen have be demonstrate to produce symptom of <target> anaphylaxis </target> , include hypotension , in sensitive individual .",
+        "D007022\tDisease\thypotension\thowever , acetaminophen have be demonstrate to produce symptom of anaphylaxis , include <target> hypotension </target> , in sensitive individual .",
+        "D016638\tDisease\tcritically ill\tthis article describe two <target> critically ill </target> patient in whom transient episode of hypotension reproducibly develop after administration of acetaminophen .",
+        "D007022\tDisease\thypotension\tthis article describe two critically ill patient in whom transient episode of <target> hypotension </target> reproducibly develop after administration of acetaminophen .",
+        "D000082\tChemical\tacetaminophen\tthis article describe two critically ill patient in whom transient episode of hypotension reproducibly develop after administration of <target> acetaminophen </target> .",
+        "D004342\tDisease\tallergic reactions\tother symptom of <target> allergic reaction </target> be not clinically detectable .",
+        "D007022\tDisease\thypotensive\tthe <target> hypotensive </target> episode be severe enough to require vasopressor administration .",
+        "D000082\tChemical\tacetaminophen\tthe report illustrate the need for clinician to consider <target> acetaminophen </target> in patient with hypotension of unknown origin .",
+        "D007022\tDisease\thypotension\tthe report illustrate the need for clinician to consider acetaminophen in patient with <target> hypotension </target> of unknown origin ."
+    ]
+}

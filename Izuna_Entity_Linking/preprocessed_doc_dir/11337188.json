@@ -1,0 +1,215 @@
+{
+    "title": "Cutaneous leucocytoclastic vasculitis associated with oxacillin.",
+    "abst": "A 67-year-old man who was treated with oxacillin for one week because of Staphylococcus aureus bacteremia, developed renal failure and diffuse, symmetric, palpable purpuric lesions on his feet. Necrotic blisters were noted on his fingers. Skin biopsies showed findings diagnostic of leucocytoclastic vasculitis. Oxacillin was discontinued and patient was treated with corticosteroids. The rash disappeared after three weeks and renal function returned to normal. Leucocytoclastic vasculitis presents as palpable purpura of the lower extremities often accompanied by abdominal pain, arthralgia, and renal involvement. Etiologic factors or associated disorders include infections, medications, collagen vascular disease and neoplasia. However, in half of the cases no etiologic factor is identified. Usually it is a self-limited disorder, but corticosteroid therapy may be needed in life-threatening cases since early treatment with corticosteroids in severe cases can prevent complications. Oxacillin should be included among the drugs that can cause leucocytoclastic vasculitis.",
+    "title_plus_abst": "Cutaneous leucocytoclastic vasculitis associated with oxacillin. A 67-year-old man who was treated with oxacillin for one week because of Staphylococcus aureus bacteremia, developed renal failure and diffuse, symmetric, palpable purpuric lesions on his feet. Necrotic blisters were noted on his fingers. Skin biopsies showed findings diagnostic of leucocytoclastic vasculitis. Oxacillin was discontinued and patient was treated with corticosteroids. The rash disappeared after three weeks and renal function returned to normal. Leucocytoclastic vasculitis presents as palpable purpura of the lower extremities often accompanied by abdominal pain, arthralgia, and renal involvement. Etiologic factors or associated disorders include infections, medications, collagen vascular disease and neoplasia. However, in half of the cases no etiologic factor is identified. Usually it is a self-limited disorder, but corticosteroid therapy may be needed in life-threatening cases since early treatment with corticosteroids in severe cases can prevent complications. Oxacillin should be included among the drugs that can cause leucocytoclastic vasculitis.",
+    "pubmed_id": "11337188",
+    "entities": [
+        [
+            0,
+            37,
+            "Cutaneous leucocytoclastic vasculitis",
+            "Disease",
+            "D018366"
+        ],
+        [
+            54,
+            63,
+            "oxacillin",
+            "Chemical",
+            "D010068"
+        ],
+        [
+            104,
+            113,
+            "oxacillin",
+            "Chemical",
+            "D010068"
+        ],
+        [
+            182,
+            195,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            229,
+            245,
+            "purpuric lesions",
+            "Disease",
+            "D011693"
+        ],
+        [
+            348,
+            375,
+            "leucocytoclastic vasculitis",
+            "Disease",
+            "D018366"
+        ],
+        [
+            377,
+            386,
+            "Oxacillin",
+            "Chemical",
+            "D010068"
+        ],
+        [
+            433,
+            448,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            454,
+            458,
+            "rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            528,
+            555,
+            "Leucocytoclastic vasculitis",
+            "Disease",
+            "D018366"
+        ],
+        [
+            577,
+            584,
+            "purpura",
+            "Disease",
+            "D011693"
+        ],
+        [
+            631,
+            645,
+            "abdominal pain",
+            "Disease",
+            "D015746"
+        ],
+        [
+            647,
+            657,
+            "arthralgia",
+            "Disease",
+            "D018771"
+        ],
+        [
+            663,
+            680,
+            "renal involvement",
+            "Disease",
+            "D007674"
+        ],
+        [
+            732,
+            742,
+            "infections",
+            "Disease",
+            "D007239"
+        ],
+        [
+            757,
+            782,
+            "collagen vascular disease",
+            "Disease",
+            "D003095"
+        ],
+        [
+            787,
+            796,
+            "neoplasia",
+            "Disease",
+            "D009369"
+        ],
+        [
+            906,
+            920,
+            "corticosteroid",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            996,
+            1011,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            1055,
+            1064,
+            "Oxacillin",
+            "Chemical",
+            "D010068"
+        ],
+        [
+            1115,
+            1142,
+            "leucocytoclastic vasculitis",
+            "Disease",
+            "D018366"
+        ]
+    ],
+    "split_sentence": [
+        "Cutaneous leucocytoclastic vasculitis associated with oxacillin.",
+        "A 67-year-old man who was treated with oxacillin for one week because of Staphylococcus aureus bacteremia, developed renal failure and diffuse, symmetric, palpable purpuric lesions on his feet.",
+        "Necrotic blisters were noted on his fingers.",
+        "Skin biopsies showed findings diagnostic of leucocytoclastic vasculitis.",
+        "Oxacillin was discontinued and patient was treated with corticosteroids.",
+        "The rash disappeared after three weeks and renal function returned to normal.",
+        "Leucocytoclastic vasculitis presents as palpable purpura of the lower extremities often accompanied by abdominal pain, arthralgia, and renal involvement.",
+        "Etiologic factors or associated disorders include infections, medications, collagen vascular disease and neoplasia.",
+        "However, in half of the cases no etiologic factor is identified.",
+        "Usually it is a self-limited disorder, but corticosteroid therapy may be needed in life-threatening cases since early treatment with corticosteroids in severe cases can prevent complications.",
+        "Oxacillin should be included among the drugs that can cause leucocytoclastic vasculitis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018366\tDisease\tCutaneous leucocytoclastic vasculitis\t<target> Cutaneous leucocytoclastic vasculitis </target> associated with oxacillin .",
+        "D010068\tChemical\toxacillin\tCutaneous leucocytoclastic vasculitis associated with <target> oxacillin </target> .",
+        "D010068\tChemical\toxacillin\tA 67-year-old man who was treated with <target> oxacillin </target> for one week because of Staphylococcus aureus bacteremia , developed renal failure and diffuse , symmetric , palpable purpuric lesions on his feet .",
+        "D051437\tDisease\trenal failure\tA 67-year-old man who was treated with oxacillin for one week because of Staphylococcus aureus bacteremia , developed <target> renal failure </target> and diffuse , symmetric , palpable purpuric lesions on his feet .",
+        "D011693\tDisease\tpurpuric lesions\tA 67-year-old man who was treated with oxacillin for one week because of Staphylococcus aureus bacteremia , developed renal failure and diffuse , symmetric , palpable <target> purpuric lesions </target> on his feet .",
+        "D018366\tDisease\tleucocytoclastic vasculitis\tSkin biopsies showed findings diagnostic of <target> leucocytoclastic vasculitis </target> .",
+        "D010068\tChemical\tOxacillin\t<target> Oxacillin </target> was discontinued and patient was treated with corticosteroids .",
+        "D000305\tChemical\tcorticosteroids\tOxacillin was discontinued and patient was treated with <target> corticosteroids </target> .",
+        "D005076\tDisease\trash\tThe <target> rash </target> disappeared after three weeks and renal function returned to normal .",
+        "D018366\tDisease\tLeucocytoclastic vasculitis\t<target> Leucocytoclastic vasculitis </target> presents as palpable purpura of the lower extremities often accompanied by abdominal pain , arthralgia , and renal involvement .",
+        "D011693\tDisease\tpurpura\tLeucocytoclastic vasculitis presents as palpable <target> purpura </target> of the lower extremities often accompanied by abdominal pain , arthralgia , and renal involvement .",
+        "D015746\tDisease\tabdominal pain\tLeucocytoclastic vasculitis presents as palpable purpura of the lower extremities often accompanied by <target> abdominal pain </target> , arthralgia , and renal involvement .",
+        "D018771\tDisease\tarthralgia\tLeucocytoclastic vasculitis presents as palpable purpura of the lower extremities often accompanied by abdominal pain , <target> arthralgia </target> , and renal involvement .",
+        "D007674\tDisease\trenal involvement\tLeucocytoclastic vasculitis presents as palpable purpura of the lower extremities often accompanied by abdominal pain , arthralgia , and <target> renal involvement </target> .",
+        "D007239\tDisease\tinfections\tEtiologic factors or associated disorders include <target> infections </target> , medications , collagen vascular disease and neoplasia .",
+        "D003095\tDisease\tcollagen vascular disease\tEtiologic factors or associated disorders include infections , medications , <target> collagen vascular disease </target> and neoplasia .",
+        "D009369\tDisease\tneoplasia\tEtiologic factors or associated disorders include infections , medications , collagen vascular disease and <target> neoplasia </target> .",
+        "D000305\tChemical\tcorticosteroid\tUsually it is a self-limited disorder , but <target> corticosteroid </target> therapy may be needed in life-threatening cases since early treatment with corticosteroids in severe cases can prevent complications .",
+        "D000305\tChemical\tcorticosteroids\tUsually it is a self-limited disorder , but corticosteroid therapy may be needed in life-threatening cases since early treatment with <target> corticosteroids </target> in severe cases can prevent complications .",
+        "D010068\tChemical\tOxacillin\t<target> Oxacillin </target> should be included among the drugs that can cause leucocytoclastic vasculitis .",
+        "D018366\tDisease\tleucocytoclastic vasculitis\tOxacillin should be included among the drugs that can cause <target> leucocytoclastic vasculitis </target> ."
+    ],
+    "lines_lemma": [
+        "D018366\tDisease\tCutaneous leucocytoclastic vasculitis\t<target> cutaneous leucocytoclastic vasculitis </target> associate with oxacillin .",
+        "D010068\tChemical\toxacillin\tcutaneous leucocytoclastic vasculitis associate with <target> oxacillin </target> .",
+        "D010068\tChemical\toxacillin\ta 67-year-old man who be treat with <target> oxacillin </target> for one week because of staphylococcus aureus bacteremia , develop renal failure and diffuse , symmetric , palpable purpuric lesion on his foot .",
+        "D051437\tDisease\trenal failure\ta 67-year-old man who be treat with oxacillin for one week because of staphylococcus aureus bacteremia , develop <target> renal failure </target> and diffuse , symmetric , palpable purpuric lesion on his foot .",
+        "D011693\tDisease\tpurpuric lesions\ta 67-year-old man who be treat with oxacillin for one week because of staphylococcus aureus bacteremia , develop renal failure and diffuse , symmetric , palpable <target> purpuric lesion </target> on his foot .",
+        "D018366\tDisease\tleucocytoclastic vasculitis\tskin biopsy show finding diagnostic of <target> leucocytoclastic vasculitis </target> .",
+        "D010068\tChemical\tOxacillin\t<target> Oxacillin </target> be discontinue and patient be treat with corticosteroid .",
+        "D000305\tChemical\tcorticosteroids\tOxacillin be discontinue and patient be treat with <target> corticosteroid </target> .",
+        "D005076\tDisease\trash\tthe <target> rash </target> disappear after three week and renal function return to normal .",
+        "D018366\tDisease\tLeucocytoclastic vasculitis\t<target> leucocytoclastic vasculitis </target> present as palpable purpura of the low extremity often accompany by abdominal pain , arthralgia , and renal involvement .",
+        "D011693\tDisease\tpurpura\tleucocytoclastic vasculitis present as palpable <target> purpura </target> of the low extremity often accompany by abdominal pain , arthralgia , and renal involvement .",
+        "D015746\tDisease\tabdominal pain\tleucocytoclastic vasculitis present as palpable purpura of the low extremity often accompany by <target> abdominal pain </target> , arthralgia , and renal involvement .",
+        "D018771\tDisease\tarthralgia\tleucocytoclastic vasculitis present as palpable purpura of the low extremity often accompany by abdominal pain , <target> arthralgia </target> , and renal involvement .",
+        "D007674\tDisease\trenal involvement\tleucocytoclastic vasculitis present as palpable purpura of the low extremity often accompany by abdominal pain , arthralgia , and <target> renal involvement </target> .",
+        "D007239\tDisease\tinfections\tetiologic factor or associate disorder include <target> infection </target> , medication , collagen vascular disease and neoplasia .",
+        "D003095\tDisease\tcollagen vascular disease\tetiologic factor or associate disorder include infection , medication , <target> collagen vascular disease </target> and neoplasia .",
+        "D009369\tDisease\tneoplasia\tetiologic factor or associate disorder include infection , medication , collagen vascular disease and <target> neoplasia </target> .",
+        "D000305\tChemical\tcorticosteroid\tusually it be a self-limited disorder , but <target> corticosteroid </target> therapy may be need in life-threatening case since early treatment with corticosteroid in severe case can prevent complication .",
+        "D000305\tChemical\tcorticosteroids\tusually it be a self-limited disorder , but corticosteroid therapy may be need in life-threatening case since early treatment with <target> corticosteroid </target> in severe case can prevent complication .",
+        "D010068\tChemical\tOxacillin\t<target> Oxacillin </target> should be include among the drug that can cause leucocytoclastic vasculitis .",
+        "D018366\tDisease\tleucocytoclastic vasculitis\tOxacillin should be include among the drug that can cause <target> leucocytoclastic vasculitis </target> ."
+    ]
+}

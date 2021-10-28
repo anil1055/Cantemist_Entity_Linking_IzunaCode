@@ -1,0 +1,156 @@
+{
+    "title": "Neuroleptic malignant syndrome induced by ziprasidone on the second day of treatment.",
+    "abst": "Neuroleptic malignant syndrome (NMS) is the rarest and most serious of the neuroleptic-induced movement disorders. We describe a case of neuroleptic malignant syndrome (NMS) associated with the use of ziprasidone. Although conventional neuroleptics are more frequently associated with NMS, atypical antipsychotic drugs like ziprasidone may also be a cause. The patient is a 24-year-old male with a history of schizophrenia who developed signs and symptoms of NMS after 2 days of treatment with an 80-mg/day dose of orally administrated ziprasidone. This case is the earliest (second day of treatment) NMS due to ziprasidone reported in the literature.",
+    "title_plus_abst": "Neuroleptic malignant syndrome induced by ziprasidone on the second day of treatment. Neuroleptic malignant syndrome (NMS) is the rarest and most serious of the neuroleptic-induced movement disorders. We describe a case of neuroleptic malignant syndrome (NMS) associated with the use of ziprasidone. Although conventional neuroleptics are more frequently associated with NMS, atypical antipsychotic drugs like ziprasidone may also be a cause. The patient is a 24-year-old male with a history of schizophrenia who developed signs and symptoms of NMS after 2 days of treatment with an 80-mg/day dose of orally administrated ziprasidone. This case is the earliest (second day of treatment) NMS due to ziprasidone reported in the literature.",
+    "pubmed_id": "17366349",
+    "entities": [
+        [
+            0,
+            30,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            42,
+            53,
+            "ziprasidone",
+            "Chemical",
+            "C092292"
+        ],
+        [
+            86,
+            116,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            118,
+            121,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            181,
+            199,
+            "movement disorders",
+            "Disease",
+            "D009069"
+        ],
+        [
+            223,
+            253,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            255,
+            258,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            287,
+            298,
+            "ziprasidone",
+            "Chemical",
+            "C092292"
+        ],
+        [
+            371,
+            374,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            410,
+            421,
+            "ziprasidone",
+            "Chemical",
+            "C092292"
+        ],
+        [
+            495,
+            508,
+            "schizophrenia",
+            "Disease",
+            "D012559"
+        ],
+        [
+            545,
+            548,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            622,
+            633,
+            "ziprasidone",
+            "Chemical",
+            "C092292"
+        ],
+        [
+            687,
+            690,
+            "NMS",
+            "Disease",
+            "D009459"
+        ],
+        [
+            698,
+            709,
+            "ziprasidone",
+            "Chemical",
+            "C092292"
+        ]
+    ],
+    "split_sentence": [
+        "Neuroleptic malignant syndrome induced by ziprasidone on the second day of treatment.",
+        "Neuroleptic malignant syndrome (NMS) is the rarest and most serious of the neuroleptic-induced movement disorders.",
+        "We describe a case of neuroleptic malignant syndrome (NMS) associated with the use of ziprasidone.",
+        "Although conventional neuroleptics are more frequently associated with NMS, atypical antipsychotic drugs like ziprasidone may also be a cause.",
+        "The patient is a 24-year-old male with a history of schizophrenia who developed signs and symptoms of NMS after 2 days of treatment with an 80-mg/day dose of orally administrated ziprasidone.",
+        "This case is the earliest (second day of treatment) NMS due to ziprasidone reported in the literature."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> induced by ziprasidone on the second day of treatment .",
+        "C092292\tChemical\tziprasidone\tNeuroleptic malignant syndrome induced by <target> ziprasidone </target> on the second day of treatment .",
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> ( NMS ) is the rarest and most serious of the neuroleptic-induced movement disorders .",
+        "D009459\tDisease\tNMS\tNeuroleptic malignant syndrome ( <target> NMS </target> ) is the rarest and most serious of the neuroleptic-induced movement disorders .",
+        "D009069\tDisease\tmovement disorders\tNeuroleptic malignant syndrome ( NMS ) is the rarest and most serious of the neuroleptic-induced <target> movement disorders </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tWe describe a case of <target> neuroleptic malignant syndrome </target> ( NMS ) associated with the use of ziprasidone .",
+        "D009459\tDisease\tNMS\tWe describe a case of neuroleptic malignant syndrome ( <target> NMS </target> ) associated with the use of ziprasidone .",
+        "C092292\tChemical\tziprasidone\tWe describe a case of neuroleptic malignant syndrome ( NMS ) associated with the use of <target> ziprasidone </target> .",
+        "D009459\tDisease\tNMS\tAlthough conventional neuroleptics are more frequently associated with <target> NMS </target> , atypical antipsychotic drugs like ziprasidone may also be a cause .",
+        "C092292\tChemical\tziprasidone\tAlthough conventional neuroleptics are more frequently associated with NMS , atypical antipsychotic drugs like <target> ziprasidone </target> may also be a cause .",
+        "D012559\tDisease\tschizophrenia\tThe patient is a 24-year-old male with a history of <target> schizophrenia </target> who developed signs and symptoms of NMS after 2 days of treatment with an 80-mg/day dose of orally administrated ziprasidone .",
+        "D009459\tDisease\tNMS\tThe patient is a 24-year-old male with a history of schizophrenia who developed signs and symptoms of <target> NMS </target> after 2 days of treatment with an 80-mg/day dose of orally administrated ziprasidone .",
+        "C092292\tChemical\tziprasidone\tThe patient is a 24-year-old male with a history of schizophrenia who developed signs and symptoms of NMS after 2 days of treatment with an 80-mg/day dose of orally administrated <target> ziprasidone </target> .",
+        "D009459\tDisease\tNMS\tThis case is the earliest ( second day of treatment ) <target> NMS </target> due to ziprasidone reported in the literature .",
+        "C092292\tChemical\tziprasidone\tThis case is the earliest ( second day of treatment ) NMS due to <target> ziprasidone </target> reported in the literature ."
+    ],
+    "lines_lemma": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> induce by ziprasidone on the second day of treatment .",
+        "C092292\tChemical\tziprasidone\tneuroleptic malignant syndrome induce by <target> ziprasidone </target> on the second day of treatment .",
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> ( nms ) be the rarest and most serious of the neuroleptic-induced movement disorder .",
+        "D009459\tDisease\tNMS\tneuroleptic malignant syndrome ( <target> nms </target> ) be the rarest and most serious of the neuroleptic-induced movement disorder .",
+        "D009069\tDisease\tmovement disorders\tneuroleptic malignant syndrome ( nms ) be the rarest and most serious of the neuroleptic-induced <target> movement disorder </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\twe describe a case of <target> neuroleptic malignant syndrome </target> ( nms ) associate with the use of ziprasidone .",
+        "D009459\tDisease\tNMS\twe describe a case of neuroleptic malignant syndrome ( <target> nms </target> ) associate with the use of ziprasidone .",
+        "C092292\tChemical\tziprasidone\twe describe a case of neuroleptic malignant syndrome ( nms ) associate with the use of <target> ziprasidone </target> .",
+        "D009459\tDisease\tNMS\talthough conventional neuroleptic be more frequently associate with <target> nms </target> , atypical antipsychotic drug like ziprasidone may also be a cause .",
+        "C092292\tChemical\tziprasidone\talthough conventional neuroleptic be more frequently associate with nms , atypical antipsychotic drug like <target> ziprasidone </target> may also be a cause .",
+        "D012559\tDisease\tschizophrenia\tthe patient be a 24-year-old male with a history of <target> schizophrenia </target> who develop sign and symptom of nms after 2 day of treatment with an 80-mg/day dose of orally administrate ziprasidone .",
+        "D009459\tDisease\tNMS\tthe patient be a 24-year-old male with a history of schizophrenia who develop sign and symptom of <target> nms </target> after 2 day of treatment with an 80-mg/day dose of orally administrate ziprasidone .",
+        "C092292\tChemical\tziprasidone\tthe patient be a 24-year-old male with a history of schizophrenia who develop sign and symptom of nms after 2 day of treatment with an 80-mg/day dose of orally administrate <target> ziprasidone </target> .",
+        "D009459\tDisease\tNMS\tthis case be the early ( second day of treatment ) <target> nms </target> due to ziprasidone report in the literature .",
+        "C092292\tChemical\tziprasidone\tthis case be the early ( second day of treatment ) nms due to <target> ziprasidone </target> report in the literature ."
+    ]
+}

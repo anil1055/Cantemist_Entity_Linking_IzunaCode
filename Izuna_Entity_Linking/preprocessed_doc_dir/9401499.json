@@ -1,0 +1,114 @@
+{
+    "title": "Ticlopidine-induced aplastic anemia: report of three Chinese patients and review of the literature.",
+    "abst": "In this study, three Chinese patients with ticlopidine-induced aplastic anemia were reported and another 13 patients in the English literature were reviewed. We attempted to find underlying similarities, evaluate the risk factors, and identify appropriate treatment for this complication. All but one of the patients were over 60 years old, and the 6 who died were all older than 65. Therefore, old age may be a risk factor for developing this complication. Agranulocytosis occurred 3-20 weeks after initiation of ticlopidine, so frequent examination of white cell count during treatment is recommended. There seemed to be no direct correlation between the dose or duration used and the severity of bone marrow suppression. Treatment for ticlopidine-induced aplastic anemia with colony-stimulating factors seemed to have little effect. The fact that 5 of the 6 patients who received concurrent calcium channel blockers died, should alert clinicians to be more cautious when using these two drugs simultaneously.",
+    "title_plus_abst": "Ticlopidine-induced aplastic anemia: report of three Chinese patients and review of the literature. In this study, three Chinese patients with ticlopidine-induced aplastic anemia were reported and another 13 patients in the English literature were reviewed. We attempted to find underlying similarities, evaluate the risk factors, and identify appropriate treatment for this complication. All but one of the patients were over 60 years old, and the 6 who died were all older than 65. Therefore, old age may be a risk factor for developing this complication. Agranulocytosis occurred 3-20 weeks after initiation of ticlopidine, so frequent examination of white cell count during treatment is recommended. There seemed to be no direct correlation between the dose or duration used and the severity of bone marrow suppression. Treatment for ticlopidine-induced aplastic anemia with colony-stimulating factors seemed to have little effect. The fact that 5 of the 6 patients who received concurrent calcium channel blockers died, should alert clinicians to be more cautious when using these two drugs simultaneously.",
+    "pubmed_id": "9401499",
+    "entities": [
+        [
+            0,
+            11,
+            "Ticlopidine",
+            "Chemical",
+            "D013988"
+        ],
+        [
+            20,
+            35,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            143,
+            154,
+            "ticlopidine",
+            "Chemical",
+            "D013988"
+        ],
+        [
+            163,
+            178,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            558,
+            573,
+            "Agranulocytosis",
+            "Disease",
+            "D000380"
+        ],
+        [
+            614,
+            625,
+            "ticlopidine",
+            "Chemical",
+            "D013988"
+        ],
+        [
+            799,
+            822,
+            "bone marrow suppression",
+            "Disease",
+            "D001855"
+        ],
+        [
+            838,
+            849,
+            "ticlopidine",
+            "Chemical",
+            "D013988"
+        ],
+        [
+            858,
+            873,
+            "aplastic anemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            994,
+            1001,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ]
+    ],
+    "split_sentence": [
+        "Ticlopidine-induced aplastic anemia: report of three Chinese patients and review of the literature.",
+        "In this study, three Chinese patients with ticlopidine-induced aplastic anemia were reported and another 13 patients in the English literature were reviewed.",
+        "We attempted to find underlying similarities, evaluate the risk factors, and identify appropriate treatment for this complication.",
+        "All but one of the patients were over 60 years old, and the 6 who died were all older than 65.",
+        "Therefore, old age may be a risk factor for developing this complication.",
+        "Agranulocytosis occurred 3-20 weeks after initiation of ticlopidine, so frequent examination of white cell count during treatment is recommended.",
+        "There seemed to be no direct correlation between the dose or duration used and the severity of bone marrow suppression.",
+        "Treatment for ticlopidine-induced aplastic anemia with colony-stimulating factors seemed to have little effect.",
+        "The fact that 5 of the 6 patients who received concurrent calcium channel blockers died, should alert clinicians to be more cautious when using these two drugs simultaneously."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013988\tChemical\tTiclopidine\t<target> Ticlopidine </target> -induced aplastic anemia : report of three Chinese patients and review of the literature .",
+        "D000741\tDisease\taplastic anemia\tTiclopidine-induced <target> aplastic anemia </target> : report of three Chinese patients and review of the literature .",
+        "D013988\tChemical\tticlopidine\tIn this study , three Chinese patients with <target> ticlopidine </target> -induced aplastic anemia were reported and another 13 patients in the English literature were reviewed .",
+        "D000741\tDisease\taplastic anemia\tIn this study , three Chinese patients with ticlopidine-induced <target> aplastic anemia </target> were reported and another 13 patients in the English literature were reviewed .",
+        "D000380\tDisease\tAgranulocytosis\t<target> Agranulocytosis </target> occurred 3 - 20 weeks after initiation of ticlopidine , so frequent examination of white cell count during treatment is recommended .",
+        "D013988\tChemical\tticlopidine\tAgranulocytosis occurred 3 - 20 weeks after initiation of <target> ticlopidine </target> , so frequent examination of white cell count during treatment is recommended .",
+        "D001855\tDisease\tbone marrow suppression\tThere seemed to be no direct correlation between the dose or duration used and the severity of <target> bone marrow suppression </target> .",
+        "D013988\tChemical\tticlopidine\tTreatment for <target> ticlopidine </target> -induced aplastic anemia with colony-stimulating factors seemed to have little effect .",
+        "D000741\tDisease\taplastic anemia\tTreatment for ticlopidine-induced <target> aplastic anemia </target> with colony-stimulating factors seemed to have little effect .",
+        "D002118\tChemical\tcalcium\tThe fact that 5 of the 6 patients who received concurrent <target> calcium </target> channel blockers died , should alert clinicians to be more cautious when using these two drugs simultaneously ."
+    ],
+    "lines_lemma": [
+        "D013988\tChemical\tTiclopidine\t<target> ticlopidine </target> -induced aplastic anemia : report of three chinese patient and review of the literature .",
+        "D000741\tDisease\taplastic anemia\tticlopidine-induced <target> aplastic anemia </target> : report of three chinese patient and review of the literature .",
+        "D013988\tChemical\tticlopidine\tin this study , three chinese patient with <target> ticlopidine </target> -induced aplastic anemia be report and another 13 patient in the English literature be review .",
+        "D000741\tDisease\taplastic anemia\tin this study , three chinese patient with ticlopidine-induced <target> aplastic anemia </target> be report and another 13 patient in the English literature be review .",
+        "D000380\tDisease\tAgranulocytosis\t<target> agranulocytosis </target> occur 3 - 20 week after initiation of ticlopidine , so frequent examination of white cell count during treatment be recommend .",
+        "D013988\tChemical\tticlopidine\tagranulocytosis occur 3 - 20 week after initiation of <target> ticlopidine </target> , so frequent examination of white cell count during treatment be recommend .",
+        "D001855\tDisease\tbone marrow suppression\tthere seem to be no direct correlation between the dose or duration use and the severity of <target> bone marrow suppression </target> .",
+        "D013988\tChemical\tticlopidine\ttreatment for <target> ticlopidine </target> -induced aplastic anemia with colony-stimulating factor seem to have little effect .",
+        "D000741\tDisease\taplastic anemia\ttreatment for ticlopidine-induced <target> aplastic anemia </target> with colony-stimulating factor seem to have little effect .",
+        "D002118\tChemical\tcalcium\tthe fact that 5 of the 6 patient who receive concurrent <target> calcium </target> channel blocker die , should alert clinician to be more cautious when use these two drug simultaneously ."
+    ]
+}

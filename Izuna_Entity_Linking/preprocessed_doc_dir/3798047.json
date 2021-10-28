@@ -1,0 +1,113 @@
+{
+    "title": "Bradycardia after high-dose intravenous methylprednisolone therapy.",
+    "abst": "In 5 consecutive patients with rheumatoid arthritis who received intravenous high-dose methylprednisolone (MP) therapy (1 g daily for 2 or 3 consecutive days), a decline in pulse rate was observed, most pronounced on day 4. In one of the 5 patients the bradycardia was associated with complaints of substernal pressure. Reversal to normal heart rate was found on day 7. Electrocardiographic registrations showed sinus bradycardia in all cases. No significant changes in plasma concentrations of electrolytes were found. Careful observation of patients receiving high-dose MP is recommended. High-dose MP may be contraindicated in patients with known heart disease.",
+    "title_plus_abst": "Bradycardia after high-dose intravenous methylprednisolone therapy. In 5 consecutive patients with rheumatoid arthritis who received intravenous high-dose methylprednisolone (MP) therapy (1 g daily for 2 or 3 consecutive days), a decline in pulse rate was observed, most pronounced on day 4. In one of the 5 patients the bradycardia was associated with complaints of substernal pressure. Reversal to normal heart rate was found on day 7. Electrocardiographic registrations showed sinus bradycardia in all cases. No significant changes in plasma concentrations of electrolytes were found. Careful observation of patients receiving high-dose MP is recommended. High-dose MP may be contraindicated in patients with known heart disease.",
+    "pubmed_id": "3798047",
+    "entities": [
+        [
+            0,
+            11,
+            "Bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            40,
+            58,
+            "methylprednisolone",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            99,
+            119,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            155,
+            173,
+            "methylprednisolone",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            175,
+            177,
+            "MP",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            321,
+            332,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            480,
+            497,
+            "sinus bradycardia",
+            "Disease",
+            "D012804"
+        ],
+        [
+            640,
+            642,
+            "MP",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            669,
+            671,
+            "MP",
+            "Chemical",
+            "D008775"
+        ],
+        [
+            718,
+            731,
+            "heart disease",
+            "Disease",
+            "D006331"
+        ]
+    ],
+    "split_sentence": [
+        "Bradycardia after high-dose intravenous methylprednisolone therapy.",
+        "In 5 consecutive patients with rheumatoid arthritis who received intravenous high-dose methylprednisolone (MP) therapy (1 g daily for 2 or 3 consecutive days), a decline in pulse rate was observed, most pronounced on day 4.",
+        "In one of the 5 patients the bradycardia was associated with complaints of substernal pressure.",
+        "Reversal to normal heart rate was found on day 7.",
+        "Electrocardiographic registrations showed sinus bradycardia in all cases.",
+        "No significant changes in plasma concentrations of electrolytes were found.",
+        "Careful observation of patients receiving high-dose MP is recommended.",
+        "High-dose MP may be contraindicated in patients with known heart disease."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001919\tDisease\tBradycardia\t<target> Bradycardia </target> after high-dose intravenous methylprednisolone therapy .",
+        "D008775\tChemical\tmethylprednisolone\tBradycardia after high-dose intravenous <target> methylprednisolone </target> therapy .",
+        "D001172\tDisease\trheumatoid arthritis\tIn 5 consecutive patients with <target> rheumatoid arthritis </target> who received intravenous high-dose methylprednisolone ( MP ) therapy ( 1 g daily for 2 or 3 consecutive days ) , a decline in pulse rate was observed , most pronounced on day 4 .",
+        "D008775\tChemical\tmethylprednisolone\tIn 5 consecutive patients with rheumatoid arthritis who received intravenous high-dose <target> methylprednisolone </target> ( MP ) therapy ( 1 g daily for 2 or 3 consecutive days ) , a decline in pulse rate was observed , most pronounced on day 4 .",
+        "D008775\tChemical\tMP\tIn 5 consecutive patients with rheumatoid arthritis who received intravenous high-dose methylprednisolone ( <target> MP </target> ) therapy ( 1 g daily for 2 or 3 consecutive days ) , a decline in pulse rate was observed , most pronounced on day 4 .",
+        "D001919\tDisease\tbradycardia\tIn one of the 5 patients the <target> bradycardia </target> was associated with complaints of substernal pressure .",
+        "D012804\tDisease\tsinus bradycardia\tElectrocardiographic registrations showed <target> sinus bradycardia </target> in all cases .",
+        "D008775\tChemical\tMP\tCareful observation of patients receiving high-dose <target> MP </target> is recommended .",
+        "D008775\tChemical\tMP\tHigh-dose <target> MP </target> may be contraindicated in patients with known heart disease .",
+        "D006331\tDisease\theart disease\tHigh-dose MP may be contraindicated in patients with known <target> heart disease </target> ."
+    ],
+    "lines_lemma": [
+        "D001919\tDisease\tBradycardia\t<target> bradycardia </target> after high-dose intravenous methylprednisolone therapy .",
+        "D008775\tChemical\tmethylprednisolone\tBradycardia after high-dose intravenous <target> methylprednisolone </target> therapy .",
+        "D001172\tDisease\trheumatoid arthritis\tin 5 consecutive patient with <target> rheumatoid arthritis </target> who receive intravenous high-dose methylprednisolone ( mp ) therapy ( 1 g daily for 2 or 3 consecutive day ) , a decline in pulse rate be observe , most pronounced on day 4 .",
+        "D008775\tChemical\tmethylprednisolone\tin 5 consecutive patient with rheumatoid arthritis who receive intravenous high-dose <target> methylprednisolone </target> ( mp ) therapy ( 1 g daily for 2 or 3 consecutive day ) , a decline in pulse rate be observe , most pronounced on day 4 .",
+        "D008775\tChemical\tMP\tin 5 consecutive patient with rheumatoid arthritis who receive intravenous high-dose methylprednisolone ( <target> mp </target> ) therapy ( 1 g daily for 2 or 3 consecutive day ) , a decline in pulse rate be observe , most pronounced on day 4 .",
+        "D001919\tDisease\tbradycardia\tin one of the 5 patient the <target> bradycardia </target> be associate with complaint of substernal pressure .",
+        "D012804\tDisease\tsinus bradycardia\telectrocardiographic registration show <target> sinus bradycardia </target> in all case .",
+        "D008775\tChemical\tMP\tcareful observation of patient receive high-dose <target> mp </target> be recommend .",
+        "D008775\tChemical\tMP\thigh-dose <target> mp </target> may be contraindicate in patient with known heart disease .",
+        "D006331\tDisease\theart disease\thigh-dose mp may be contraindicate in patient with known <target> heart disease </target> ."
+    ]
+}

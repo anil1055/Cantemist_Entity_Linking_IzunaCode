@@ -1,0 +1,82 @@
+{
+    "title": "Age-dependent sensitivity of the rat to neurotoxic effects of streptomycin.",
+    "abst": "Streptomycin sulfate (300 mg/kg s.c.) was injected for various periods into preweanling rats and for 3 weeks into weanling rats. Beginning at 8 days of age, body movement and hearing were examined for 6 and up to 17 weeks, respectively. Abnormal movements and deafness occurred only in rats treated during the preweaning period; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11-17 and 5 to 11 days of age, respectively, indicating that the cochlea is more sensitive to streptomycin than the site (vestibular or central) responsible for the dyskinesias.",
+    "title_plus_abst": "Age-dependent sensitivity of the rat to neurotoxic effects of streptomycin. Streptomycin sulfate (300 mg/kg s.c.) was injected for various periods into preweanling rats and for 3 weeks into weanling rats. Beginning at 8 days of age, body movement and hearing were examined for 6 and up to 17 weeks, respectively. Abnormal movements and deafness occurred only in rats treated during the preweaning period; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11-17 and 5 to 11 days of age, respectively, indicating that the cochlea is more sensitive to streptomycin than the site (vestibular or central) responsible for the dyskinesias.",
+    "pubmed_id": "7444978",
+    "entities": [
+        [
+            40,
+            50,
+            "neurotoxic",
+            "Disease",
+            "D020258"
+        ],
+        [
+            62,
+            74,
+            "streptomycin",
+            "Chemical",
+            "D013307"
+        ],
+        [
+            76,
+            88,
+            "Streptomycin",
+            "Chemical",
+            "D013307"
+        ],
+        [
+            313,
+            331,
+            "Abnormal movements",
+            "Disease",
+            "D004409"
+        ],
+        [
+            336,
+            344,
+            "deafness",
+            "Disease",
+            "D003638"
+        ],
+        [
+            588,
+            600,
+            "streptomycin",
+            "Chemical",
+            "D013307"
+        ],
+        [
+            659,
+            670,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ]
+    ],
+    "split_sentence": [
+        "Age-dependent sensitivity of the rat to neurotoxic effects of streptomycin.",
+        "Streptomycin sulfate (300 mg/kg s.c.) was injected for various periods into preweanling rats and for 3 weeks into weanling rats.",
+        "Beginning at 8 days of age, body movement and hearing were examined for 6 and up to 17 weeks, respectively.",
+        "Abnormal movements and deafness occurred only in rats treated during the preweaning period; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11-17 and 5 to 11 days of age, respectively, indicating that the cochlea is more sensitive to streptomycin than the site (vestibular or central) responsible for the dyskinesias."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020258\tDisease\tneurotoxic\tAge-dependent sensitivity of the rat to <target> neurotoxic </target> effects of streptomycin .",
+        "D013307\tChemical\tstreptomycin\tAge-dependent sensitivity of the rat to neurotoxic effects of <target> streptomycin </target> .",
+        "D013307\tChemical\tStreptomycin\t<target> Streptomycin </target> sulfate ( 300 mg/kg s.c . ) was injected for various periods into preweanling rats and for 3 weeks into weanling rats .",
+        "D004409\tDisease\tAbnormal movements\t<target> Abnormal movements </target> and deafness occurred only in rats treated during the preweaning period ; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11 - 17 and 5 to 11 days of age , respectively , indicating that the cochlea is more sensitive to streptomycin than the site ( vestibular or central ) responsible for the dyskinesias .",
+        "D003638\tDisease\tdeafness\tAbnormal movements and <target> deafness </target> occurred only in rats treated during the preweaning period ; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11 - 17 and 5 to 11 days of age , respectively , indicating that the cochlea is more sensitive to streptomycin than the site ( vestibular or central ) responsible for the dyskinesias .",
+        "D013307\tChemical\tstreptomycin\tAbnormal movements and deafness occurred only in rats treated during the preweaning period ; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11 - 17 and 5 to 11 days of age , respectively , indicating that the cochlea is more sensitive to <target> streptomycin </target> than the site ( vestibular or central ) responsible for the dyskinesias .",
+        "D004409\tDisease\tdyskinesias\tAbnormal movements and deafness occurred only in rats treated during the preweaning period ; within this period the greatest sensitivities for these abnormalities occurred from 2 to 11 - 17 and 5 to 11 days of age , respectively , indicating that the cochlea is more sensitive to streptomycin than the site ( vestibular or central ) responsible for the <target> dyskinesias </target> ."
+    ],
+    "lines_lemma": [
+        "D020258\tDisease\tneurotoxic\tage-dependent sensitivity of the rat to <target> neurotoxic </target> effect of streptomycin .",
+        "D013307\tChemical\tstreptomycin\tage-dependent sensitivity of the rat to neurotoxic effect of <target> streptomycin </target> .",
+        "D013307\tChemical\tStreptomycin\t<target> Streptomycin </target> sulfate ( 300 mg/kg s.c . ) be inject for various period into preweanle rat and for 3 week into weanle rat .",
+        "D004409\tDisease\tAbnormal movements\t<target> abnormal movement </target> and deafness occur only in rat treat during the preweane period ; within this period the great sensitivity for these abnormality occur from 2 to 11 - 17 and 5 to 11 day of age , respectively , indicate that the cochlea be more sensitive to streptomycin than the site ( vestibular or central ) responsible for the dyskinesia .",
+        "D003638\tDisease\tdeafness\tabnormal movement and <target> deafness </target> occur only in rat treat during the preweane period ; within this period the great sensitivity for these abnormality occur from 2 to 11 - 17 and 5 to 11 day of age , respectively , indicate that the cochlea be more sensitive to streptomycin than the site ( vestibular or central ) responsible for the dyskinesia .",
+        "D013307\tChemical\tstreptomycin\tabnormal movement and deafness occur only in rat treat during the preweane period ; within this period the great sensitivity for these abnormality occur from 2 to 11 - 17 and 5 to 11 day of age , respectively , indicate that the cochlea be more sensitive to <target> streptomycin </target> than the site ( vestibular or central ) responsible for the dyskinesia .",
+        "D004409\tDisease\tdyskinesias\tabnormal movement and deafness occur only in rat treat during the preweane period ; within this period the great sensitivity for these abnormality occur from 2 to 11 - 17 and 5 to 11 day of age , respectively , indicate that the cochlea be more sensitive to streptomycin than the site ( vestibular or central ) responsible for the <target> dyskinesia </target> ."
+    ]
+}

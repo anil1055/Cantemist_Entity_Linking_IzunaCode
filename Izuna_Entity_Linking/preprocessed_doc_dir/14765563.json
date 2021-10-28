@@ -1,0 +1,100 @@
+{
+    "title": "Risks of the consumption of beverages containing quinine.",
+    "abst": "Although the United States Food and Drug Administration banned its use for nocturnal leg cramps due to lack of safety and efficacy, quinine is widely available in beverages including tonic water and bitter lemon. Numerous anecdotal reports suggest that products containing quinine may produce neurological complications, including confusion, altered mental status, seizures, and coma, particularly in older women. Psychologists need to inquire about consumption of quinine-containing beverages as part of an evaluation process.",
+    "title_plus_abst": "Risks of the consumption of beverages containing quinine. Although the United States Food and Drug Administration banned its use for nocturnal leg cramps due to lack of safety and efficacy, quinine is widely available in beverages including tonic water and bitter lemon. Numerous anecdotal reports suggest that products containing quinine may produce neurological complications, including confusion, altered mental status, seizures, and coma, particularly in older women. Psychologists need to inquire about consumption of quinine-containing beverages as part of an evaluation process.",
+    "pubmed_id": "14765563",
+    "entities": [
+        [
+            49,
+            56,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            133,
+            153,
+            "nocturnal leg cramps",
+            "Disease",
+            "D020922"
+        ],
+        [
+            190,
+            197,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            331,
+            338,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            351,
+            377,
+            "neurological complications",
+            "Disease",
+            "D002493"
+        ],
+        [
+            389,
+            398,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            423,
+            431,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            437,
+            441,
+            "coma",
+            "Disease",
+            "D003128"
+        ],
+        [
+            523,
+            530,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ]
+    ],
+    "split_sentence": [
+        "Risks of the consumption of beverages containing quinine.",
+        "Although the United States Food and Drug Administration banned its use for nocturnal leg cramps due to lack of safety and efficacy, quinine is widely available in beverages including tonic water and bitter lemon.",
+        "Numerous anecdotal reports suggest that products containing quinine may produce neurological complications, including confusion, altered mental status, seizures, and coma, particularly in older women.",
+        "Psychologists need to inquire about consumption of quinine-containing beverages as part of an evaluation process."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011803\tChemical\tquinine\tRisks of the consumption of beverages containing <target> quinine </target> .",
+        "D020922\tDisease\tnocturnal leg cramps\tAlthough the United States Food and Drug Administration banned its use for <target> nocturnal leg cramps </target> due to lack of safety and efficacy , quinine is widely available in beverages including tonic water and bitter lemon .",
+        "D011803\tChemical\tquinine\tAlthough the United States Food and Drug Administration banned its use for nocturnal leg cramps due to lack of safety and efficacy , <target> quinine </target> is widely available in beverages including tonic water and bitter lemon .",
+        "D011803\tChemical\tquinine\tNumerous anecdotal reports suggest that products containing <target> quinine </target> may produce neurological complications , including confusion , altered mental status , seizures , and coma , particularly in older women .",
+        "D002493\tDisease\tneurological complications\tNumerous anecdotal reports suggest that products containing quinine may produce <target> neurological complications </target> , including confusion , altered mental status , seizures , and coma , particularly in older women .",
+        "D003221\tDisease\tconfusion\tNumerous anecdotal reports suggest that products containing quinine may produce neurological complications , including <target> confusion </target> , altered mental status , seizures , and coma , particularly in older women .",
+        "D012640\tDisease\tseizures\tNumerous anecdotal reports suggest that products containing quinine may produce neurological complications , including confusion , altered mental status , <target> seizures </target> , and coma , particularly in older women .",
+        "D003128\tDisease\tcoma\tNumerous anecdotal reports suggest that products containing quinine may produce neurological complications , including confusion , altered mental status , seizures , and <target> coma </target> , particularly in older women .",
+        "D011803\tChemical\tquinine\tPsychologists need to inquire about consumption of <target> quinine </target> -containing beverages as part of an evaluation process ."
+    ],
+    "lines_lemma": [
+        "D011803\tChemical\tquinine\trisk of the consumption of beverage contain <target> quinine </target> .",
+        "D020922\tDisease\tnocturnal leg cramps\talthough the United States Food and Drug Administration ban its use for <target> nocturnal leg cramp </target> due to lack of safety and efficacy , quinine be widely available in beverage include tonic water and bitter lemon .",
+        "D011803\tChemical\tquinine\talthough the United States Food and Drug Administration ban its use for nocturnal leg cramp due to lack of safety and efficacy , <target> quinine </target> be widely available in beverage include tonic water and bitter lemon .",
+        "D011803\tChemical\tquinine\tnumerous anecdotal report suggest that product contain <target> quinine </target> may produce neurological complication , include confusion , altered mental status , seizure , and coma , particularly in old woman .",
+        "D002493\tDisease\tneurological complications\tnumerous anecdotal report suggest that product contain quinine may produce <target> neurological complication </target> , include confusion , altered mental status , seizure , and coma , particularly in old woman .",
+        "D003221\tDisease\tconfusion\tnumerous anecdotal report suggest that product contain quinine may produce neurological complication , include <target> confusion </target> , altered mental status , seizure , and coma , particularly in old woman .",
+        "D012640\tDisease\tseizures\tnumerous anecdotal report suggest that product contain quinine may produce neurological complication , include confusion , altered mental status , <target> seizure </target> , and coma , particularly in old woman .",
+        "D003128\tDisease\tcoma\tnumerous anecdotal report suggest that product contain quinine may produce neurological complication , include confusion , altered mental status , seizure , and <target> coma </target> , particularly in old woman .",
+        "D011803\tChemical\tquinine\tpsychologist need to inquire about consumption of <target> quinine </target> -containing beverage as part of an evaluation process ."
+    ]
+}

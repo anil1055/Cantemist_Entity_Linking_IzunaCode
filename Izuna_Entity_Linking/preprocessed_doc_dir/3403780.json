@@ -1,0 +1,65 @@
+{
+    "title": "Paracetamol-associated coma, metabolic acidosis, renal and hepatic failure.",
+    "abst": "A case of metabolic acidosis, acute renal failure and hepatic failure following paracetamol ingestion is presented. The diagnostic difficulty at presentation is highlighted. Continuous arteriovenous haemofiltration proved a valuable means of maintaining fluid and electrolyte balance. The patient recovered.",
+    "title_plus_abst": "Paracetamol-associated coma, metabolic acidosis, renal and hepatic failure. A case of metabolic acidosis, acute renal failure and hepatic failure following paracetamol ingestion is presented. The diagnostic difficulty at presentation is highlighted. Continuous arteriovenous haemofiltration proved a valuable means of maintaining fluid and electrolyte balance. The patient recovered.",
+    "pubmed_id": "3403780",
+    "entities": [
+        [
+            0,
+            11,
+            "Paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            23,
+            27,
+            "coma",
+            "Disease",
+            "D003128"
+        ],
+        [
+            29,
+            47,
+            "metabolic acidosis",
+            "Disease",
+            "D000138"
+        ],
+        [
+            86,
+            104,
+            "metabolic acidosis",
+            "Disease",
+            "D000138"
+        ],
+        [
+            156,
+            167,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ]
+    ],
+    "split_sentence": [
+        "Paracetamol-associated coma, metabolic acidosis, renal and hepatic failure.",
+        "A case of metabolic acidosis, acute renal failure and hepatic failure following paracetamol ingestion is presented.",
+        "The diagnostic difficulty at presentation is highlighted.",
+        "Continuous arteriovenous haemofiltration proved a valuable means of maintaining fluid and electrolyte balance.",
+        "The patient recovered."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000082\tChemical\tParacetamol\t<target> Paracetamol </target> -associated coma , metabolic acidosis , renal and hepatic failure .",
+        "D003128\tDisease\tcoma\tParacetamol-associated <target> coma </target> , metabolic acidosis , renal and hepatic failure .",
+        "D000138\tDisease\tmetabolic acidosis\tParacetamol-associated coma , <target> metabolic acidosis </target> , renal and hepatic failure .",
+        "D000138\tDisease\tmetabolic acidosis\tA case of <target> metabolic acidosis </target> , acute renal failure and hepatic failure following paracetamol ingestion is presented .",
+        "D000082\tChemical\tparacetamol\tA case of metabolic acidosis , acute renal failure and hepatic failure following <target> paracetamol </target> ingestion is presented ."
+    ],
+    "lines_lemma": [
+        "D000082\tChemical\tParacetamol\t<target> Paracetamol </target> -associated coma , metabolic acidosis , renal and hepatic failure .",
+        "D003128\tDisease\tcoma\tparacetamol-associated <target> coma </target> , metabolic acidosis , renal and hepatic failure .",
+        "D000138\tDisease\tmetabolic acidosis\tparacetamol-associated coma , <target> metabolic acidosis </target> , renal and hepatic failure .",
+        "D000138\tDisease\tmetabolic acidosis\ta case of <target> metabolic acidosis </target> , acute renal failure and hepatic failure follow paracetamol ingestion be present .",
+        "D000082\tChemical\tparacetamol\ta case of metabolic acidosis , acute renal failure and hepatic failure follow <target> paracetamol </target> ingestion be present ."
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Perhexiline maleate and peripheral neuropathy.",
+    "abst": "Peripheral neuropathy has been noted as a complication of therapy with perhexiline maleate, a drug widely used in France (and in clinical trials in the United States) for the prophylactic treatment of angina pectoris. In 24 patients with this complication, the marked slowing of motor nerve conduction velocity and the electromyographic changes imply mainly a demyelinating disorder. Improvement was noted with cessation of therapy. In a few cases the presence of active denervation signified a poor prognosis, with only slight improvement. The underlying mechanism causing the neuropathy is not yet fully known, although some evidence indicates that it may be a lipid storage process.",
+    "title_plus_abst": "Perhexiline maleate and peripheral neuropathy. Peripheral neuropathy has been noted as a complication of therapy with perhexiline maleate, a drug widely used in France (and in clinical trials in the United States) for the prophylactic treatment of angina pectoris. In 24 patients with this complication, the marked slowing of motor nerve conduction velocity and the electromyographic changes imply mainly a demyelinating disorder. Improvement was noted with cessation of therapy. In a few cases the presence of active denervation signified a poor prognosis, with only slight improvement. The underlying mechanism causing the neuropathy is not yet fully known, although some evidence indicates that it may be a lipid storage process.",
+    "pubmed_id": "220563",
+    "entities": [
+        [
+            0,
+            19,
+            "Perhexiline maleate",
+            "Chemical",
+            "C023470"
+        ],
+        [
+            24,
+            45,
+            "peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            47,
+            68,
+            "Peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            118,
+            137,
+            "perhexiline maleate",
+            "Chemical",
+            "C023470"
+        ],
+        [
+            248,
+            263,
+            "angina pectoris",
+            "Disease",
+            "D000787"
+        ],
+        [
+            407,
+            429,
+            "demyelinating disorder",
+            "Disease",
+            "D003711"
+        ],
+        [
+            625,
+            635,
+            "neuropathy",
+            "Disease",
+            "D009422"
+        ]
+    ],
+    "split_sentence": [
+        "Perhexiline maleate and peripheral neuropathy.",
+        "Peripheral neuropathy has been noted as a complication of therapy with perhexiline maleate, a drug widely used in France (and in clinical trials in the United States) for the prophylactic treatment of angina pectoris.",
+        "In 24 patients with this complication, the marked slowing of motor nerve conduction velocity and the electromyographic changes imply mainly a demyelinating disorder.",
+        "Improvement was noted with cessation of therapy.",
+        "In a few cases the presence of active denervation signified a poor prognosis, with only slight improvement.",
+        "The underlying mechanism causing the neuropathy is not yet fully known, although some evidence indicates that it may be a lipid storage process."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C023470\tChemical\tPerhexiline maleate\t<target> Perhexiline maleate </target> and peripheral neuropathy .",
+        "D010523\tDisease\tperipheral neuropathy\tPerhexiline maleate and <target> peripheral neuropathy </target> .",
+        "D010523\tDisease\tPeripheral neuropathy\t<target> Peripheral neuropathy </target> has been noted as a complication of therapy with perhexiline maleate , a drug widely used in France ( and in clinical trials in the United States ) for the prophylactic treatment of angina pectoris .",
+        "C023470\tChemical\tperhexiline maleate\tPeripheral neuropathy has been noted as a complication of therapy with <target> perhexiline maleate </target> , a drug widely used in France ( and in clinical trials in the United States ) for the prophylactic treatment of angina pectoris .",
+        "D000787\tDisease\tangina pectoris\tPeripheral neuropathy has been noted as a complication of therapy with perhexiline maleate , a drug widely used in France ( and in clinical trials in the United States ) for the prophylactic treatment of <target> angina pectoris </target> .",
+        "D003711\tDisease\tdemyelinating disorder\tIn 24 patients with this complication , the marked slowing of motor nerve conduction velocity and the electromyographic changes imply mainly a <target> demyelinating disorder </target> .",
+        "D009422\tDisease\tneuropathy\tThe underlying mechanism causing the <target> neuropathy </target> is not yet fully known , although some evidence indicates that it may be a lipid storage process ."
+    ],
+    "lines_lemma": [
+        "C023470\tChemical\tPerhexiline maleate\t<target> Perhexiline maleate </target> and peripheral neuropathy .",
+        "D010523\tDisease\tperipheral neuropathy\tperhexiline maleate and <target> peripheral neuropathy </target> .",
+        "D010523\tDisease\tPeripheral neuropathy\t<target> peripheral neuropathy </target> have be note as a complication of therapy with perhexiline maleate , a drug widely use in France ( and in clinical trial in the United States ) for the prophylactic treatment of angina pectoris .",
+        "C023470\tChemical\tperhexiline maleate\tperipheral neuropathy have be note as a complication of therapy with <target> perhexiline maleate </target> , a drug widely use in France ( and in clinical trial in the United States ) for the prophylactic treatment of angina pectoris .",
+        "D000787\tDisease\tangina pectoris\tperipheral neuropathy have be note as a complication of therapy with perhexiline maleate , a drug widely use in France ( and in clinical trial in the United States ) for the prophylactic treatment of <target> angina pectoris </target> .",
+        "D003711\tDisease\tdemyelinating disorder\tin 24 patient with this complication , the marked slowing of motor nerve conduction velocity and the electromyographic change imply mainly a <target> demyelinating disorder </target> .",
+        "D009422\tDisease\tneuropathy\tthe underlying mechanism cause the <target> neuropathy </target> be not yet fully know , although some evidence indicate that it may be a lipid storage process ."
+    ]
+}

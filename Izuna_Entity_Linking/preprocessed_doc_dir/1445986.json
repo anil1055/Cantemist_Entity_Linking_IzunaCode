@@ -1,0 +1,130 @@
+{
+    "title": "Cefotetan-induced immune hemolytic anemia.",
+    "abst": "Immune hemolytic anemia due to a drug-adsorption mechanism has been described primarily in patients receiving penicillins and first-generation cephalosporins. We describe a patient who developed anemia while receiving intravenous cefotetan. Cefotetan-dependent antibodies were detected in the patient's serum and in an eluate prepared from his red blood cells. The eluate also reacted weakly with red blood cells in the absence of cefotetan, suggesting the concomitant formation of warm-reactive autoantibodies. These observations, in conjunction with clinical and laboratory evidence of extravascular hemolysis, are consistent with drug-induced hemolytic anemia, possibly involving both drug-adsorption and autoantibody formation mechanisms. This case emphasizes the need for increased awareness of hemolytic reactions to all cephalosporins.",
+    "title_plus_abst": "Cefotetan-induced immune hemolytic anemia. Immune hemolytic anemia due to a drug-adsorption mechanism has been described primarily in patients receiving penicillins and first-generation cephalosporins. We describe a patient who developed anemia while receiving intravenous cefotetan. Cefotetan-dependent antibodies were detected in the patient's serum and in an eluate prepared from his red blood cells. The eluate also reacted weakly with red blood cells in the absence of cefotetan, suggesting the concomitant formation of warm-reactive autoantibodies. These observations, in conjunction with clinical and laboratory evidence of extravascular hemolysis, are consistent with drug-induced hemolytic anemia, possibly involving both drug-adsorption and autoantibody formation mechanisms. This case emphasizes the need for increased awareness of hemolytic reactions to all cephalosporins.",
+    "pubmed_id": "1445986",
+    "entities": [
+        [
+            0,
+            9,
+            "Cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            25,
+            41,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            50,
+            66,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            153,
+            164,
+            "penicillins",
+            "Chemical",
+            "D010406"
+        ],
+        [
+            186,
+            200,
+            "cephalosporins",
+            "Chemical",
+            "D002511"
+        ],
+        [
+            238,
+            244,
+            "anemia",
+            "Disease",
+            "D000740"
+        ],
+        [
+            273,
+            282,
+            "cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            284,
+            293,
+            "Cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            474,
+            483,
+            "cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            645,
+            654,
+            "hemolysis",
+            "Disease",
+            "D006461"
+        ],
+        [
+            689,
+            705,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            870,
+            884,
+            "cephalosporins",
+            "Chemical",
+            "D002511"
+        ]
+    ],
+    "split_sentence": [
+        "Cefotetan-induced immune hemolytic anemia.",
+        "Immune hemolytic anemia due to a drug-adsorption mechanism has been described primarily in patients receiving penicillins and first-generation cephalosporins.",
+        "We describe a patient who developed anemia while receiving intravenous cefotetan.",
+        "Cefotetan-dependent antibodies were detected in the patient's serum and in an eluate prepared from his red blood cells.",
+        "The eluate also reacted weakly with red blood cells in the absence of cefotetan, suggesting the concomitant formation of warm-reactive autoantibodies.",
+        "These observations, in conjunction with clinical and laboratory evidence of extravascular hemolysis, are consistent with drug-induced hemolytic anemia, possibly involving both drug-adsorption and autoantibody formation mechanisms.",
+        "This case emphasizes the need for increased awareness of hemolytic reactions to all cephalosporins."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015313\tChemical\tCefotetan\t<target> Cefotetan </target> -induced immune hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tCefotetan-induced immune <target> hemolytic anemia </target> .",
+        "D000743\tDisease\themolytic anemia\tImmune <target> hemolytic anemia </target> due to a drug-adsorption mechanism has been described primarily in patients receiving penicillins and first-generation cephalosporins .",
+        "D010406\tChemical\tpenicillins\tImmune hemolytic anemia due to a drug-adsorption mechanism has been described primarily in patients receiving <target> penicillins </target> and first-generation cephalosporins .",
+        "D002511\tChemical\tcephalosporins\tImmune hemolytic anemia due to a drug-adsorption mechanism has been described primarily in patients receiving penicillins and first-generation <target> cephalosporins </target> .",
+        "D000740\tDisease\tanemia\tWe describe a patient who developed <target> anemia </target> while receiving intravenous cefotetan .",
+        "D015313\tChemical\tcefotetan\tWe describe a patient who developed anemia while receiving intravenous <target> cefotetan </target> .",
+        "D015313\tChemical\tCefotetan\t<target> Cefotetan </target> -dependent antibodies were detected in the patient 's serum and in an eluate prepared from his red blood cells .",
+        "D015313\tChemical\tcefotetan\tThe eluate also reacted weakly with red blood cells in the absence of <target> cefotetan </target> , suggesting the concomitant formation of warm-reactive autoantibodies .",
+        "D006461\tDisease\themolysis\tThese observations , in conjunction with clinical and laboratory evidence of extravascular <target> hemolysis </target> , are consistent with drug-induced hemolytic anemia , possibly involving both drug-adsorption and autoantibody formation mechanisms .",
+        "D000743\tDisease\themolytic anemia\tThese observations , in conjunction with clinical and laboratory evidence of extravascular hemolysis , are consistent with drug-induced <target> hemolytic anemia </target> , possibly involving both drug-adsorption and autoantibody formation mechanisms .",
+        "D002511\tChemical\tcephalosporins\tThis case emphasizes the need for increased awareness of hemolytic reactions to all <target> cephalosporins </target> ."
+    ],
+    "lines_lemma": [
+        "D015313\tChemical\tCefotetan\t<target> Cefotetan </target> -induced immune hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tcefotetan-induced immune <target> hemolytic anemia </target> .",
+        "D000743\tDisease\themolytic anemia\timmune <target> hemolytic anemia </target> due to a drug-adsorption mechanism have be describe primarily in patient receive penicillin and first-generation cephalosporin .",
+        "D010406\tChemical\tpenicillins\timmune hemolytic anemia due to a drug-adsorption mechanism have be describe primarily in patient receive <target> penicillin </target> and first-generation cephalosporin .",
+        "D002511\tChemical\tcephalosporins\timmune hemolytic anemia due to a drug-adsorption mechanism have be describe primarily in patient receive penicillin and first-generation <target> cephalosporin </target> .",
+        "D000740\tDisease\tanemia\twe describe a patient who develop <target> anemia </target> while receive intravenous cefotetan .",
+        "D015313\tChemical\tcefotetan\twe describe a patient who develop anemia while receive intravenous <target> cefotetan </target> .",
+        "D015313\tChemical\tCefotetan\t<target> Cefotetan </target> -dependent antibody be detect in the patient 's serum and in an eluate prepare from his red blood cell .",
+        "D015313\tChemical\tcefotetan\tthe eluate also react weakly with red blood cell in the absence of <target> cefotetan </target> , suggest the concomitant formation of warm-reactive autoantibody .",
+        "D006461\tDisease\themolysis\tthese observation , in conjunction with clinical and laboratory evidence of extravascular <target> hemolysis </target> , be consistent with drug-induced hemolytic anemia , possibly involve both drug-adsorption and autoantibody formation mechanism .",
+        "D000743\tDisease\themolytic anemia\tthese observation , in conjunction with clinical and laboratory evidence of extravascular hemolysis , be consistent with drug-induced <target> hemolytic anemia </target> , possibly involve both drug-adsorption and autoantibody formation mechanism .",
+        "D002511\tChemical\tcephalosporins\tthis case emphasize the need for increase awareness of hemolytic reaction to all <target> cephalosporin </target> ."
+    ]
+}

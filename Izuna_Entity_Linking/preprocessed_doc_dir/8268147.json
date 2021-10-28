@@ -1,0 +1,156 @@
+{
+    "title": "A case of polymyositis in a patient with primary biliary cirrhosis treated with D-penicillamine.",
+    "abst": "Although D-penicillamine has been used for many rheumatologic diseases, toxicity limits its usefulness in many patients. Polymyositis/dermatomyositis can develop as one of the autoimmune complications of D-penicillamine treatment, but its exact pathogenesis remains unclear. We report a patient with primary biliary cirrhosis, who developed polymyositis while receiving D-penicillamine therapy. We described the special clinical course of the patient. Patients receiving D-penicillamine therapy should be followed carefully for the development of autoimmune complications like polymyositis/dermatomyositis.",
+    "title_plus_abst": "A case of polymyositis in a patient with primary biliary cirrhosis treated with D-penicillamine. Although D-penicillamine has been used for many rheumatologic diseases, toxicity limits its usefulness in many patients. Polymyositis/dermatomyositis can develop as one of the autoimmune complications of D-penicillamine treatment, but its exact pathogenesis remains unclear. We report a patient with primary biliary cirrhosis, who developed polymyositis while receiving D-penicillamine therapy. We described the special clinical course of the patient. Patients receiving D-penicillamine therapy should be followed carefully for the development of autoimmune complications like polymyositis/dermatomyositis.",
+    "pubmed_id": "8268147",
+    "entities": [
+        [
+            10,
+            22,
+            "polymyositis",
+            "Disease",
+            "D017285"
+        ],
+        [
+            41,
+            66,
+            "primary biliary cirrhosis",
+            "Disease",
+            "D008105"
+        ],
+        [
+            80,
+            95,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            106,
+            121,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            145,
+            167,
+            "rheumatologic diseases",
+            "Disease",
+            "D012216"
+        ],
+        [
+            169,
+            177,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            218,
+            230,
+            "Polymyositis",
+            "Disease",
+            "D017285"
+        ],
+        [
+            231,
+            246,
+            "dermatomyositis",
+            "Disease",
+            "D003882"
+        ],
+        [
+            301,
+            316,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            397,
+            422,
+            "primary biliary cirrhosis",
+            "Disease",
+            "D008105"
+        ],
+        [
+            438,
+            450,
+            "polymyositis",
+            "Disease",
+            "D017285"
+        ],
+        [
+            467,
+            482,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            568,
+            583,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            674,
+            686,
+            "polymyositis",
+            "Disease",
+            "D017285"
+        ],
+        [
+            687,
+            702,
+            "dermatomyositis",
+            "Disease",
+            "D003882"
+        ]
+    ],
+    "split_sentence": [
+        "A case of polymyositis in a patient with primary biliary cirrhosis treated with D-penicillamine.",
+        "Although D-penicillamine has been used for many rheumatologic diseases, toxicity limits its usefulness in many patients.",
+        "Polymyositis/dermatomyositis can develop as one of the autoimmune complications of D-penicillamine treatment, but its exact pathogenesis remains unclear.",
+        "We report a patient with primary biliary cirrhosis, who developed polymyositis while receiving D-penicillamine therapy.",
+        "We described the special clinical course of the patient.",
+        "Patients receiving D-penicillamine therapy should be followed carefully for the development of autoimmune complications like polymyositis/dermatomyositis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017285\tDisease\tpolymyositis\tA case of <target> polymyositis </target> in a patient with primary biliary cirrhosis treated with D-penicillamine .",
+        "D008105\tDisease\tprimary biliary cirrhosis\tA case of polymyositis in a patient with <target> primary biliary cirrhosis </target> treated with D-penicillamine .",
+        "D010396\tChemical\tD-penicillamine\tA case of polymyositis in a patient with primary biliary cirrhosis treated with <target> D-penicillamine </target> .",
+        "D010396\tChemical\tD-penicillamine\tAlthough <target> D-penicillamine </target> has been used for many rheumatologic diseases , toxicity limits its usefulness in many patients .",
+        "D012216\tDisease\trheumatologic diseases\tAlthough D-penicillamine has been used for many <target> rheumatologic diseases </target> , toxicity limits its usefulness in many patients .",
+        "D064420\tDisease\ttoxicity\tAlthough D-penicillamine has been used for many rheumatologic diseases , <target> toxicity </target> limits its usefulness in many patients .",
+        "D017285\tDisease\tPolymyositis\t<target> Polymyositis </target> /dermatomyositis can develop as one of the autoimmune complications of D-penicillamine treatment , but its exact pathogenesis remains unclear .",
+        "D003882\tDisease\tdermatomyositis\tPolymyositis/ <target> dermatomyositis </target> can develop as one of the autoimmune complications of D-penicillamine treatment , but its exact pathogenesis remains unclear .",
+        "D010396\tChemical\tD-penicillamine\tPolymyositis/dermatomyositis can develop as one of the autoimmune complications of <target> D-penicillamine </target> treatment , but its exact pathogenesis remains unclear .",
+        "D008105\tDisease\tprimary biliary cirrhosis\tWe report a patient with <target> primary biliary cirrhosis </target> , who developed polymyositis while receiving D-penicillamine therapy .",
+        "D017285\tDisease\tpolymyositis\tWe report a patient with primary biliary cirrhosis , who developed <target> polymyositis </target> while receiving D-penicillamine therapy .",
+        "D010396\tChemical\tD-penicillamine\tWe report a patient with primary biliary cirrhosis , who developed polymyositis while receiving <target> D-penicillamine </target> therapy .",
+        "D010396\tChemical\tD-penicillamine\tPatients receiving <target> D-penicillamine </target> therapy should be followed carefully for the development of autoimmune complications like polymyositis/dermatomyositis .",
+        "D017285\tDisease\tpolymyositis\tPatients receiving D-penicillamine therapy should be followed carefully for the development of autoimmune complications like <target> polymyositis </target> /dermatomyositis .",
+        "D003882\tDisease\tdermatomyositis\tPatients receiving D-penicillamine therapy should be followed carefully for the development of autoimmune complications like polymyositis/ <target> dermatomyositis </target> ."
+    ],
+    "lines_lemma": [
+        "D017285\tDisease\tpolymyositis\ta case of <target> polymyositis </target> in a patient with primary biliary cirrhosis treat with d-penicillamine .",
+        "D008105\tDisease\tprimary biliary cirrhosis\ta case of polymyositis in a patient with <target> primary biliary cirrhosis </target> treat with d-penicillamine .",
+        "D010396\tChemical\tD-penicillamine\ta case of polymyositis in a patient with primary biliary cirrhosis treat with <target> d-penicillamine </target> .",
+        "D010396\tChemical\tD-penicillamine\talthough <target> d-penicillamine </target> have be use for many rheumatologic disease , toxicity limit its usefulness in many patient .",
+        "D012216\tDisease\trheumatologic diseases\talthough d-penicillamine have be use for many <target> rheumatologic disease </target> , toxicity limit its usefulness in many patient .",
+        "D064420\tDisease\ttoxicity\talthough d-penicillamine have be use for many rheumatologic disease , <target> toxicity </target> limit its usefulness in many patient .",
+        "D017285\tDisease\tPolymyositis\t<target> polymyositis </target> /dermatomyositis can develop as one of the autoimmune complication of d-penicillamine treatment , but its exact pathogenesis remain unclear .",
+        "D003882\tDisease\tdermatomyositis\tpolymyositis/ <target> dermatomyositis </target> can develop as one of the autoimmune complication of d-penicillamine treatment , but its exact pathogenesis remain unclear .",
+        "D010396\tChemical\tD-penicillamine\tpolymyositis/dermatomyositis can develop as one of the autoimmune complication of <target> d-penicillamine </target> treatment , but its exact pathogenesis remain unclear .",
+        "D008105\tDisease\tprimary biliary cirrhosis\twe report a patient with <target> primary biliary cirrhosis </target> , who develop polymyositis while receive d-penicillamine therapy .",
+        "D017285\tDisease\tpolymyositis\twe report a patient with primary biliary cirrhosis , who develop <target> polymyositis </target> while receive d-penicillamine therapy .",
+        "D010396\tChemical\tD-penicillamine\twe report a patient with primary biliary cirrhosis , who develop polymyositis while receive <target> d-penicillamine </target> therapy .",
+        "D010396\tChemical\tD-penicillamine\tpatient receive <target> d-penicillamine </target> therapy should be follow carefully for the development of autoimmune complication like polymyositis/dermatomyositis .",
+        "D017285\tDisease\tpolymyositis\tpatient receive d-penicillamine therapy should be follow carefully for the development of autoimmune complication like <target> polymyositis </target> /dermatomyositis .",
+        "D003882\tDisease\tdermatomyositis\tpatient receive d-penicillamine therapy should be follow carefully for the development of autoimmune complication like polymyositis/ <target> dermatomyositis </target> ."
+    ]
+}

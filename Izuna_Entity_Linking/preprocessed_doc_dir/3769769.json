@@ -1,0 +1,83 @@
+{
+    "title": "Bradycardia due to trihexyphenidyl hydrochloride.",
+    "abst": "A chronic schizophrenic patient was treated with an anticholinergic drug, trihexyphenidyl hydrochloride. The patient developed, paradoxically, sinus bradycardia. The reaction was specific to trihexyphenidyl and not to other anticholinergic drugs. This antidyskinetic drug is widely used in clinical psychiatric practice and physicians should be aware of this side effect.",
+    "title_plus_abst": "Bradycardia due to trihexyphenidyl hydrochloride. A chronic schizophrenic patient was treated with an anticholinergic drug, trihexyphenidyl hydrochloride. The patient developed, paradoxically, sinus bradycardia. The reaction was specific to trihexyphenidyl and not to other anticholinergic drugs. This antidyskinetic drug is widely used in clinical psychiatric practice and physicians should be aware of this side effect.",
+    "pubmed_id": "3769769",
+    "entities": [
+        [
+            0,
+            11,
+            "Bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            19,
+            48,
+            "trihexyphenidyl hydrochloride",
+            "Chemical",
+            "D014282"
+        ],
+        [
+            60,
+            73,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            124,
+            153,
+            "trihexyphenidyl hydrochloride",
+            "Chemical",
+            "D014282"
+        ],
+        [
+            199,
+            210,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            241,
+            256,
+            "trihexyphenidyl",
+            "Chemical",
+            "D014282"
+        ],
+        [
+            349,
+            360,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ]
+    ],
+    "split_sentence": [
+        "Bradycardia due to trihexyphenidyl hydrochloride.",
+        "A chronic schizophrenic patient was treated with an anticholinergic drug, trihexyphenidyl hydrochloride.",
+        "The patient developed, paradoxically, sinus bradycardia.",
+        "The reaction was specific to trihexyphenidyl and not to other anticholinergic drugs.",
+        "This antidyskinetic drug is widely used in clinical psychiatric practice and physicians should be aware of this side effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001919\tDisease\tBradycardia\t<target> Bradycardia </target> due to trihexyphenidyl hydrochloride .",
+        "D014282\tChemical\ttrihexyphenidyl hydrochloride\tBradycardia due to <target> trihexyphenidyl hydrochloride </target> .",
+        "D012559\tDisease\tschizophrenic\tA chronic <target> schizophrenic </target> patient was treated with an anticholinergic drug , trihexyphenidyl hydrochloride .",
+        "D014282\tChemical\ttrihexyphenidyl hydrochloride\tA chronic schizophrenic patient was treated with an anticholinergic drug , <target> trihexyphenidyl hydrochloride </target> .",
+        "D001919\tDisease\tbradycardia\tThe patient developed , paradoxically , sinus <target> bradycardia </target> .",
+        "D014282\tChemical\ttrihexyphenidyl\tThe reaction was specific to <target> trihexyphenidyl </target> and not to other anticholinergic drugs .",
+        "D001523\tDisease\tpsychiatric\tThis antidyskinetic drug is widely used in clinical <target> psychiatric </target> practice and physicians should be aware of this side effect ."
+    ],
+    "lines_lemma": [
+        "D001919\tDisease\tBradycardia\t<target> bradycardia </target> due to trihexyphenidyl hydrochloride .",
+        "D014282\tChemical\ttrihexyphenidyl hydrochloride\tBradycardia due to <target> trihexyphenidyl hydrochloride </target> .",
+        "D012559\tDisease\tschizophrenic\ta chronic <target> schizophrenic </target> patient be treat with an anticholinergic drug , trihexyphenidyl hydrochloride .",
+        "D014282\tChemical\ttrihexyphenidyl hydrochloride\ta chronic schizophrenic patient be treat with an anticholinergic drug , <target> trihexyphenidyl hydrochloride </target> .",
+        "D001919\tDisease\tbradycardia\tthe patient develop , paradoxically , sinus <target> bradycardia </target> .",
+        "D014282\tChemical\ttrihexyphenidyl\tthe reaction be specific to <target> trihexyphenidyl </target> and not to other anticholinergic drug .",
+        "D001523\tDisease\tpsychiatric\tthis antidyskinetic drug be widely use in clinical <target> psychiatric </target> practice and physician should be aware of this side effect ."
+    ]
+}

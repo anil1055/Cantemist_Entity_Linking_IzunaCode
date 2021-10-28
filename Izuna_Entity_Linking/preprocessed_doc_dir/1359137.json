@@ -1,0 +1,174 @@
+{
+    "title": "Neuroleptic-associated hyperprolactinemia. Can it be treated with bromocriptine?",
+    "abst": "Six stable psychiatric outpatients with hyperprolactinemia and amenorrhea/oligomenorrhea associated with their neuroleptic medications were treated with bromocriptine. Daily dosages of 5-10 mg corrected the hyperprolactinemia and restored menstruation in four of the six patients. One woman, however, developed worsened psychiatric symptoms while taking bromocriptine, and it was discontinued. Thus, three of six patients had their menstrual irregularity successfully corrected with bromocriptine. This suggests that bromocriptine should be further evaluated as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/galactorrhea.",
+    "title_plus_abst": "Neuroleptic-associated hyperprolactinemia. Can it be treated with bromocriptine? Six stable psychiatric outpatients with hyperprolactinemia and amenorrhea/oligomenorrhea associated with their neuroleptic medications were treated with bromocriptine. Daily dosages of 5-10 mg corrected the hyperprolactinemia and restored menstruation in four of the six patients. One woman, however, developed worsened psychiatric symptoms while taking bromocriptine, and it was discontinued. Thus, three of six patients had their menstrual irregularity successfully corrected with bromocriptine. This suggests that bromocriptine should be further evaluated as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/galactorrhea.",
+    "pubmed_id": "1359137",
+    "entities": [
+        [
+            0,
+            11,
+            "Neuroleptic",
+            "Chemical",
+            "D014150"
+        ],
+        [
+            23,
+            41,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            66,
+            79,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            121,
+            139,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            144,
+            154,
+            "amenorrhea",
+            "Disease",
+            "D000568"
+        ],
+        [
+            155,
+            169,
+            "oligomenorrhea",
+            "Disease",
+            "D009839"
+        ],
+        [
+            192,
+            215,
+            "neuroleptic medications",
+            "Chemical",
+            "D014150"
+        ],
+        [
+            234,
+            247,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            288,
+            306,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            401,
+            421,
+            "psychiatric symptoms",
+            "Disease",
+            "D011618"
+        ],
+        [
+            435,
+            448,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            564,
+            577,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            598,
+            611,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            665,
+            676,
+            "neuroleptic",
+            "Chemical",
+            "D014150"
+        ],
+        [
+            688,
+            706,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            711,
+            721,
+            "amenorrhea",
+            "Disease",
+            "D000568"
+        ],
+        [
+            722,
+            734,
+            "galactorrhea",
+            "Disease",
+            "D005687"
+        ]
+    ],
+    "split_sentence": [
+        "Neuroleptic-associated hyperprolactinemia. Can it be treated with bromocriptine?",
+        "Six stable psychiatric outpatients with hyperprolactinemia and amenorrhea/oligomenorrhea associated with their neuroleptic medications were treated with bromocriptine.",
+        "Daily dosages of 5-10 mg corrected the hyperprolactinemia and restored menstruation in four of the six patients.",
+        "One woman, however, developed worsened psychiatric symptoms while taking bromocriptine, and it was discontinued.",
+        "Thus, three of six patients had their menstrual irregularity successfully corrected with bromocriptine.",
+        "This suggests that bromocriptine should be further evaluated as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/galactorrhea."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014150\tChemical\tNeuroleptic\t<target> Neuroleptic </target> -associated hyperprolactinemia . Can it be treated with bromocriptine ?",
+        "D006966\tDisease\thyperprolactinemia\tNeuroleptic-associated <target> hyperprolactinemia </target> . Can it be treated with bromocriptine ?",
+        "D001971\tChemical\tbromocriptine\tNeuroleptic-associated hyperprolactinemia . Can it be treated with <target> bromocriptine </target> ?",
+        "D006966\tDisease\thyperprolactinemia\tSix stable psychiatric outpatients with <target> hyperprolactinemia </target> and amenorrhea/oligomenorrhea associated with their neuroleptic medications were treated with bromocriptine .",
+        "D000568\tDisease\tamenorrhea\tSix stable psychiatric outpatients with hyperprolactinemia and <target> amenorrhea </target> /oligomenorrhea associated with their neuroleptic medications were treated with bromocriptine .",
+        "D009839\tDisease\toligomenorrhea\tSix stable psychiatric outpatients with hyperprolactinemia and amenorrhea/ <target> oligomenorrhea </target> associated with their neuroleptic medications were treated with bromocriptine .",
+        "D014150\tChemical\tneuroleptic medications\tSix stable psychiatric outpatients with hyperprolactinemia and amenorrhea/oligomenorrhea associated with their <target> neuroleptic medications </target> were treated with bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tSix stable psychiatric outpatients with hyperprolactinemia and amenorrhea/oligomenorrhea associated with their neuroleptic medications were treated with <target> bromocriptine </target> .",
+        "D006966\tDisease\thyperprolactinemia\tDaily dosages of 5 - 10 mg corrected the <target> hyperprolactinemia </target> and restored menstruation in four of the six patients .",
+        "D011618\tDisease\tpsychiatric symptoms\tOne woman , however , developed worsened <target> psychiatric symptoms </target> while taking bromocriptine , and it was discontinued .",
+        "D001971\tChemical\tbromocriptine\tOne woman , however , developed worsened psychiatric symptoms while taking <target> bromocriptine </target> , and it was discontinued .",
+        "D001971\tChemical\tbromocriptine\tThus , three of six patients had their menstrual irregularity successfully corrected with <target> bromocriptine </target> .",
+        "D001971\tChemical\tbromocriptine\tThis suggests that <target> bromocriptine </target> should be further evaluated as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/galactorrhea .",
+        "D014150\tChemical\tneuroleptic\tThis suggests that bromocriptine should be further evaluated as potential therapy for <target> neuroleptic </target> -associated hyperprolactinemia and amenorrhea/galactorrhea .",
+        "D006966\tDisease\thyperprolactinemia\tThis suggests that bromocriptine should be further evaluated as potential therapy for neuroleptic-associated <target> hyperprolactinemia </target> and amenorrhea/galactorrhea .",
+        "D000568\tDisease\tamenorrhea\tThis suggests that bromocriptine should be further evaluated as potential therapy for neuroleptic-associated hyperprolactinemia and <target> amenorrhea </target> /galactorrhea .",
+        "D005687\tDisease\tgalactorrhea\tThis suggests that bromocriptine should be further evaluated as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/ <target> galactorrhea </target> ."
+    ],
+    "lines_lemma": [
+        "D014150\tChemical\tNeuroleptic\t<target> neuroleptic </target> -associated hyperprolactinemia . can it be treat with bromocriptine ?",
+        "D006966\tDisease\thyperprolactinemia\tneuroleptic-associated <target> hyperprolactinemia </target> . can it be treat with bromocriptine ?",
+        "D001971\tChemical\tbromocriptine\tneuroleptic-associated hyperprolactinemia . can it be treat with <target> bromocriptine </target> ?",
+        "D006966\tDisease\thyperprolactinemia\tsix stable psychiatric outpatient with <target> hyperprolactinemia </target> and amenorrhea/oligomenorrhea associate with their neuroleptic medication be treat with bromocriptine .",
+        "D000568\tDisease\tamenorrhea\tsix stable psychiatric outpatient with hyperprolactinemia and <target> amenorrhea </target> /oligomenorrhea associate with their neuroleptic medication be treat with bromocriptine .",
+        "D009839\tDisease\toligomenorrhea\tsix stable psychiatric outpatient with hyperprolactinemia and amenorrhea/ <target> oligomenorrhea </target> associate with their neuroleptic medication be treat with bromocriptine .",
+        "D014150\tChemical\tneuroleptic medications\tsix stable psychiatric outpatient with hyperprolactinemia and amenorrhea/oligomenorrhea associate with their <target> neuroleptic medication </target> be treat with bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tsix stable psychiatric outpatient with hyperprolactinemia and amenorrhea/oligomenorrhea associate with their neuroleptic medication be treat with <target> bromocriptine </target> .",
+        "D006966\tDisease\thyperprolactinemia\tdaily dosage of 5 - 10 mg correct the <target> hyperprolactinemia </target> and restore menstruation in four of the six patient .",
+        "D011618\tDisease\tpsychiatric symptoms\tone woman , however , develop worsen <target> psychiatric symptom </target> while take bromocriptine , and it be discontinue .",
+        "D001971\tChemical\tbromocriptine\tone woman , however , develop worsen psychiatric symptom while take <target> bromocriptine </target> , and it be discontinue .",
+        "D001971\tChemical\tbromocriptine\tthus , three of six patient have their menstrual irregularity successfully correct with <target> bromocriptine </target> .",
+        "D001971\tChemical\tbromocriptine\tthis suggest that <target> bromocriptine </target> should be far evaluate as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/galactorrhea .",
+        "D014150\tChemical\tneuroleptic\tthis suggest that bromocriptine should be far evaluate as potential therapy for <target> neuroleptic </target> -associated hyperprolactinemia and amenorrhea/galactorrhea .",
+        "D006966\tDisease\thyperprolactinemia\tthis suggest that bromocriptine should be far evaluate as potential therapy for neuroleptic-associated <target> hyperprolactinemia </target> and amenorrhea/galactorrhea .",
+        "D000568\tDisease\tamenorrhea\tthis suggest that bromocriptine should be far evaluate as potential therapy for neuroleptic-associated hyperprolactinemia and <target> amenorrhea </target> /galactorrhea .",
+        "D005687\tDisease\tgalactorrhea\tthis suggest that bromocriptine should be far evaluate as potential therapy for neuroleptic-associated hyperprolactinemia and amenorrhea/ <target> galactorrhea </target> ."
+    ]
+}

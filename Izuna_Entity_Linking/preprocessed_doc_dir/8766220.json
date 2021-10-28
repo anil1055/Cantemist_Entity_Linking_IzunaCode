@@ -1,0 +1,146 @@
+{
+    "title": "Nightmares and hallucinations after long-term intake of tramadol combined with antidepressants.",
+    "abst": "Tramadol is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat cancer pain and chronic non malignant pain. This drug was initiated in association with paroxetine and dosulepine hydrochloride in a tetraparetic patient with chronic pain. Fifty-six days after initiation of the treatment the patient presented hallucinations that only stopped after the withdrawal of psycho-active drugs and tramadol. The case report questions the long term use of pain killers combined with psycho-active drugs in chronic non malignant pain, especially if pain is under control.",
+    "title_plus_abst": "Nightmares and hallucinations after long-term intake of tramadol combined with antidepressants. Tramadol is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat cancer pain and chronic non malignant pain. This drug was initiated in association with paroxetine and dosulepine hydrochloride in a tetraparetic patient with chronic pain. Fifty-six days after initiation of the treatment the patient presented hallucinations that only stopped after the withdrawal of psycho-active drugs and tramadol. The case report questions the long term use of pain killers combined with psycho-active drugs in chronic non malignant pain, especially if pain is under control.",
+    "pubmed_id": "8766220",
+    "entities": [
+        [
+            15,
+            29,
+            "hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            56,
+            64,
+            "tramadol",
+            "Chemical",
+            "D014147"
+        ],
+        [
+            96,
+            104,
+            "Tramadol",
+            "Chemical",
+            "D014147"
+        ],
+        [
+            206,
+            212,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            213,
+            217,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            244,
+            248,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            294,
+            304,
+            "paroxetine",
+            "Chemical",
+            "D017374"
+        ],
+        [
+            309,
+            333,
+            "dosulepine hydrochloride",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            365,
+            377,
+            "chronic pain",
+            "Disease",
+            "D059350"
+        ],
+        [
+            450,
+            464,
+            "hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            531,
+            539,
+            "tramadol",
+            "Chemical",
+            "D014147"
+        ],
+        [
+            588,
+            592,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            660,
+            664,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            680,
+            684,
+            "pain",
+            "Disease",
+            "D010146"
+        ]
+    ],
+    "split_sentence": [
+        "Nightmares and hallucinations after long-term intake of tramadol combined with antidepressants.",
+        "Tramadol is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat cancer pain and chronic non malignant pain.",
+        "This drug was initiated in association with paroxetine and dosulepine hydrochloride in a tetraparetic patient with chronic pain.",
+        "Fifty-six days after initiation of the treatment the patient presented hallucinations that only stopped after the withdrawal of psycho-active drugs and tramadol.",
+        "The case report questions the long term use of pain killers combined with psycho-active drugs in chronic non malignant pain, especially if pain is under control."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006212\tDisease\thallucinations\tNightmares and <target> hallucinations </target> after long-term intake of tramadol combined with antidepressants .",
+        "D014147\tChemical\ttramadol\tNightmares and hallucinations after long-term intake of <target> tramadol </target> combined with antidepressants .",
+        "D014147\tChemical\tTramadol\t<target> Tramadol </target> is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat cancer pain and chronic non malignant pain .",
+        "D009369\tDisease\tcancer\tTramadol is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat <target> cancer </target> pain and chronic non malignant pain .",
+        "D010146\tDisease\tpain\tTramadol is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat cancer <target> pain </target> and chronic non malignant pain .",
+        "D010146\tDisease\tpain\tTramadol is a weak opioid with effects on adrenergic and serotonergic neurotransmission that is used to treat cancer pain and chronic non malignant <target> pain </target> .",
+        "D017374\tChemical\tparoxetine\tThis drug was initiated in association with <target> paroxetine </target> and dosulepine hydrochloride in a tetraparetic patient with chronic pain .",
+        "D004308\tChemical\tdosulepine hydrochloride\tThis drug was initiated in association with paroxetine and <target> dosulepine hydrochloride </target> in a tetraparetic patient with chronic pain .",
+        "D059350\tDisease\tchronic pain\tThis drug was initiated in association with paroxetine and dosulepine hydrochloride in a tetraparetic patient with <target> chronic pain </target> .",
+        "D006212\tDisease\thallucinations\tFifty-six days after initiation of the treatment the patient presented <target> hallucinations </target> that only stopped after the withdrawal of psycho-active drugs and tramadol .",
+        "D014147\tChemical\ttramadol\tFifty-six days after initiation of the treatment the patient presented hallucinations that only stopped after the withdrawal of psycho-active drugs and <target> tramadol </target> .",
+        "D010146\tDisease\tpain\tThe case report questions the long term use of <target> pain </target> killers combined with psycho-active drugs in chronic non malignant pain , especially if pain is under control .",
+        "D010146\tDisease\tpain\tThe case report questions the long term use of pain killers combined with psycho-active drugs in chronic non malignant <target> pain </target> , especially if pain is under control .",
+        "D010146\tDisease\tpain\tThe case report questions the long term use of pain killers combined with psycho-active drugs in chronic non malignant pain , especially if <target> pain </target> is under control ."
+    ],
+    "lines_lemma": [
+        "D006212\tDisease\thallucinations\tnightmare and <target> hallucination </target> after long-term intake of tramadol combine with antidepressant .",
+        "D014147\tChemical\ttramadol\tnightmare and hallucination after long-term intake of <target> tramadol </target> combine with antidepressant .",
+        "D014147\tChemical\tTramadol\t<target> Tramadol </target> be a weak opioid with effect on adrenergic and serotonergic neurotransmission that be use to treat cancer pain and chronic non malignant pain .",
+        "D009369\tDisease\tcancer\tTramadol be a weak opioid with effect on adrenergic and serotonergic neurotransmission that be use to treat <target> cancer </target> pain and chronic non malignant pain .",
+        "D010146\tDisease\tpain\tTramadol be a weak opioid with effect on adrenergic and serotonergic neurotransmission that be use to treat cancer <target> pain </target> and chronic non malignant pain .",
+        "D010146\tDisease\tpain\tTramadol be a weak opioid with effect on adrenergic and serotonergic neurotransmission that be use to treat cancer pain and chronic non malignant <target> pain </target> .",
+        "D017374\tChemical\tparoxetine\tthis drug be initiate in association with <target> paroxetine </target> and dosulepine hydrochloride in a tetraparetic patient with chronic pain .",
+        "D004308\tChemical\tdosulepine hydrochloride\tthis drug be initiate in association with paroxetine and <target> dosulepine hydrochloride </target> in a tetraparetic patient with chronic pain .",
+        "D059350\tDisease\tchronic pain\tthis drug be initiate in association with paroxetine and dosulepine hydrochloride in a tetraparetic patient with <target> chronic pain </target> .",
+        "D006212\tDisease\thallucinations\tfifty-six day after initiation of the treatment the patient present <target> hallucination </target> that only stop after the withdrawal of psycho-active drug and tramadol .",
+        "D014147\tChemical\ttramadol\tfifty-six day after initiation of the treatment the patient present hallucination that only stop after the withdrawal of psycho-active drug and <target> tramadol </target> .",
+        "D010146\tDisease\tpain\tthe case report question the long term use of <target> pain </target> killer combine with psycho-active drug in chronic non malignant pain , especially if pain be under control .",
+        "D010146\tDisease\tpain\tthe case report question the long term use of pain killer combine with psycho-active drug in chronic non malignant <target> pain </target> , especially if pain be under control .",
+        "D010146\tDisease\tpain\tthe case report question the long term use of pain killer combine with psycho-active drug in chronic non malignant pain , especially if <target> pain </target> be under control ."
+    ]
+}

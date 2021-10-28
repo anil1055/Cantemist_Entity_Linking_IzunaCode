@@ -1,0 +1,92 @@
+{
+    "title": "Choreoathetoid movements associated with rapid adjustment to methadone.",
+    "abst": "Choreatiform hyperkinesias are known to be occasional movement abnormalities during intoxications with cocaine but not opiates. This is a case report of euphoria and choreoathetoid movements both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abusing heroine and cocaine. In addition, minor EEG abnormalities occurred. Possible underlying neurobiological phenomena are discussed.",
+    "title_plus_abst": "Choreoathetoid movements associated with rapid adjustment to methadone. Choreatiform hyperkinesias are known to be occasional movement abnormalities during intoxications with cocaine but not opiates. This is a case report of euphoria and choreoathetoid movements both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abusing heroine and cocaine. In addition, minor EEG abnormalities occurred. Possible underlying neurobiological phenomena are discussed.",
+    "pubmed_id": "9754849",
+    "entities": [
+        [
+            0,
+            24,
+            "Choreoathetoid movements",
+            "Disease",
+            "D002819"
+        ],
+        [
+            61,
+            70,
+            "methadone",
+            "Chemical",
+            "D008691"
+        ],
+        [
+            126,
+            148,
+            "movement abnormalities",
+            "Disease",
+            "D020820"
+        ],
+        [
+            175,
+            182,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            238,
+            262,
+            "choreoathetoid movements",
+            "Disease",
+            "D002819"
+        ],
+        [
+            352,
+            361,
+            "methadone",
+            "Chemical",
+            "D008691"
+        ],
+        [
+            397,
+            404,
+            "heroine",
+            "Chemical",
+            "D003932"
+        ],
+        [
+            409,
+            416,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ]
+    ],
+    "split_sentence": [
+        "Choreoathetoid movements associated with rapid adjustment to methadone.",
+        "Choreatiform hyperkinesias are known to be occasional movement abnormalities during intoxications with cocaine but not opiates.",
+        "This is a case report of euphoria and choreoathetoid movements both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abusing heroine and cocaine.",
+        "In addition, minor EEG abnormalities occurred.",
+        "Possible underlying neurobiological phenomena are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002819\tDisease\tChoreoathetoid movements\t<target> Choreoathetoid movements </target> associated with rapid adjustment to methadone .",
+        "D008691\tChemical\tmethadone\tChoreoathetoid movements associated with rapid adjustment to <target> methadone </target> .",
+        "D020820\tDisease\tmovement abnormalities\tChoreatiform hyperkinesias are known to be occasional <target> movement abnormalities </target> during intoxications with cocaine but not opiates .",
+        "D003042\tChemical\tcocaine\tChoreatiform hyperkinesias are known to be occasional movement abnormalities during intoxications with <target> cocaine </target> but not opiates .",
+        "D002819\tDisease\tchoreoathetoid movements\tThis is a case report of euphoria and <target> choreoathetoid movements </target> both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abusing heroine and cocaine .",
+        "D008691\tChemical\tmethadone\tThis is a case report of euphoria and choreoathetoid movements both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist <target> methadone </target> in an inpatient previously abusing heroine and cocaine .",
+        "D003932\tChemical\theroine\tThis is a case report of euphoria and choreoathetoid movements both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abusing <target> heroine </target> and cocaine .",
+        "D003042\tChemical\tcocaine\tThis is a case report of euphoria and choreoathetoid movements both transiently induced by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abusing heroine and <target> cocaine </target> ."
+    ],
+    "lines_lemma": [
+        "D002819\tDisease\tChoreoathetoid movements\t<target> Choreoathetoid movement </target> associate with rapid adjustment to methadone .",
+        "D008691\tChemical\tmethadone\tchoreoathetoid movement associate with rapid adjustment to <target> methadone </target> .",
+        "D020820\tDisease\tmovement abnormalities\tchoreatiform hyperkinesia be know to be occasional <target> movement abnormality </target> during intoxication with cocaine but not opiate .",
+        "D003042\tChemical\tcocaine\tchoreatiform hyperkinesia be know to be occasional movement abnormality during intoxication with <target> cocaine </target> but not opiate .",
+        "D002819\tDisease\tchoreoathetoid movements\tthis be a case report of euphoria and <target> choreoathetoid movement </target> both transiently induce by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abuse heroine and cocaine .",
+        "D008691\tChemical\tmethadone\tthis be a case report of euphoria and choreoathetoid movement both transiently induce by rapid adjustment to the selective mu-opioid receptor agonist <target> methadone </target> in an inpatient previously abuse heroine and cocaine .",
+        "D003932\tChemical\theroine\tthis be a case report of euphoria and choreoathetoid movement both transiently induce by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abuse <target> heroine </target> and cocaine .",
+        "D003042\tChemical\tcocaine\tthis be a case report of euphoria and choreoathetoid movement both transiently induce by rapid adjustment to the selective mu-opioid receptor agonist methadone in an inpatient previously abuse heroine and <target> cocaine </target> ."
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "title": "Vasopressin in the treatment of milrinone-induced hypotension in severe heart failure.",
+    "abst": "The use of phosphodiesterase inhibitors such as milrinone in the treatment of severe heart failure is frequently restricted because they cause vasodilation and hypotension. In patients with decompensated heart failure with hypotension after treatment with milrinone, low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of milrinone.",
+    "title_plus_abst": "Vasopressin in the treatment of milrinone-induced hypotension in severe heart failure. The use of phosphodiesterase inhibitors such as milrinone in the treatment of severe heart failure is frequently restricted because they cause vasodilation and hypotension. In patients with decompensated heart failure with hypotension after treatment with milrinone, low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of milrinone.",
+    "pubmed_id": "10728962",
+    "entities": [
+        [
+            0,
+            11,
+            "Vasopressin",
+            "Chemical",
+            "D014667"
+        ],
+        [
+            32,
+            41,
+            "milrinone",
+            "Chemical",
+            "D020105"
+        ],
+        [
+            50,
+            61,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            72,
+            85,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            135,
+            144,
+            "milrinone",
+            "Chemical",
+            "D020105"
+        ],
+        [
+            172,
+            185,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            247,
+            258,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            291,
+            304,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            310,
+            321,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            343,
+            352,
+            "milrinone",
+            "Chemical",
+            "D020105"
+        ],
+        [
+            367,
+            378,
+            "vasopressin",
+            "Chemical",
+            "D014667"
+        ],
+        [
+            446,
+            455,
+            "milrinone",
+            "Chemical",
+            "D020105"
+        ]
+    ],
+    "split_sentence": [
+        "Vasopressin in the treatment of milrinone-induced hypotension in severe heart failure.",
+        "The use of phosphodiesterase inhibitors such as milrinone in the treatment of severe heart failure is frequently restricted because they cause vasodilation and hypotension.",
+        "In patients with decompensated heart failure with hypotension after treatment with milrinone, low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of milrinone."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014667\tChemical\tVasopressin\t<target> Vasopressin </target> in the treatment of milrinone-induced hypotension in severe heart failure .",
+        "D020105\tChemical\tmilrinone\tVasopressin in the treatment of <target> milrinone </target> -induced hypotension in severe heart failure .",
+        "D007022\tDisease\thypotension\tVasopressin in the treatment of milrinone-induced <target> hypotension </target> in severe heart failure .",
+        "D006333\tDisease\theart failure\tVasopressin in the treatment of milrinone-induced hypotension in severe <target> heart failure </target> .",
+        "D020105\tChemical\tmilrinone\tThe use of phosphodiesterase inhibitors such as <target> milrinone </target> in the treatment of severe heart failure is frequently restricted because they cause vasodilation and hypotension .",
+        "D006333\tDisease\theart failure\tThe use of phosphodiesterase inhibitors such as milrinone in the treatment of severe <target> heart failure </target> is frequently restricted because they cause vasodilation and hypotension .",
+        "D007022\tDisease\thypotension\tThe use of phosphodiesterase inhibitors such as milrinone in the treatment of severe heart failure is frequently restricted because they cause vasodilation and <target> hypotension </target> .",
+        "D006333\tDisease\theart failure\tIn patients with decompensated <target> heart failure </target> with hypotension after treatment with milrinone , low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of milrinone .",
+        "D007022\tDisease\thypotension\tIn patients with decompensated heart failure with <target> hypotension </target> after treatment with milrinone , low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of milrinone .",
+        "D020105\tChemical\tmilrinone\tIn patients with decompensated heart failure with hypotension after treatment with <target> milrinone </target> , low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of milrinone .",
+        "D014667\tChemical\tvasopressin\tIn patients with decompensated heart failure with hypotension after treatment with milrinone , low doses of <target> vasopressin </target> restored blood pressure without inhibiting the inotropic effect of milrinone .",
+        "D020105\tChemical\tmilrinone\tIn patients with decompensated heart failure with hypotension after treatment with milrinone , low doses of vasopressin restored blood pressure without inhibiting the inotropic effect of <target> milrinone </target> ."
+    ],
+    "lines_lemma": [
+        "D014667\tChemical\tVasopressin\t<target> Vasopressin </target> in the treatment of milrinone-induced hypotension in severe heart failure .",
+        "D020105\tChemical\tmilrinone\tvasopressin in the treatment of <target> milrinone </target> -induced hypotension in severe heart failure .",
+        "D007022\tDisease\thypotension\tvasopressin in the treatment of milrinone-induced <target> hypotension </target> in severe heart failure .",
+        "D006333\tDisease\theart failure\tvasopressin in the treatment of milrinone-induced hypotension in severe <target> heart failure </target> .",
+        "D020105\tChemical\tmilrinone\tthe use of phosphodiesterase inhibitor such as <target> milrinone </target> in the treatment of severe heart failure be frequently restricted because they cause vasodilation and hypotension .",
+        "D006333\tDisease\theart failure\tthe use of phosphodiesterase inhibitor such as milrinone in the treatment of severe <target> heart failure </target> be frequently restricted because they cause vasodilation and hypotension .",
+        "D007022\tDisease\thypotension\tthe use of phosphodiesterase inhibitor such as milrinone in the treatment of severe heart failure be frequently restricted because they cause vasodilation and <target> hypotension </target> .",
+        "D006333\tDisease\theart failure\tin patient with decompensated <target> heart failure </target> with hypotension after treatment with milrinone , low dose of vasopressin restore blood pressure without inhibit the inotropic effect of milrinone .",
+        "D007022\tDisease\thypotension\tin patient with decompensated heart failure with <target> hypotension </target> after treatment with milrinone , low dose of vasopressin restore blood pressure without inhibit the inotropic effect of milrinone .",
+        "D020105\tChemical\tmilrinone\tin patient with decompensated heart failure with hypotension after treatment with <target> milrinone </target> , low dose of vasopressin restore blood pressure without inhibit the inotropic effect of milrinone .",
+        "D014667\tChemical\tvasopressin\tin patient with decompensated heart failure with hypotension after treatment with milrinone , low dose of <target> vasopressin </target> restore blood pressure without inhibit the inotropic effect of milrinone .",
+        "D020105\tChemical\tmilrinone\tin patient with decompensated heart failure with hypotension after treatment with milrinone , low dose of vasopressin restore blood pressure without inhibit the inotropic effect of <target> milrinone </target> ."
+    ]
+}

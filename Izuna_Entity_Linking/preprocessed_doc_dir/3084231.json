@@ -1,0 +1,91 @@
+{
+    "title": "Reversible valproic acid-induced dementia: a case report.",
+    "abst": "Reversible valproic acid-induced dementia was documented in a 21-year-old man with epilepsy who had a 3-year history of insidious progressive decline in global cognitive abilities documented by serial neuropsychological studies. Repeat neuropsychological testing 7 weeks after discontinuation of the drug revealed dramatic improvement in IQ, memory, naming, and other tasks commensurate with clinical recovery in his intellectual capacity. Possible pathophysiological mechanisms which may have been operative in this case include: a direct central nervous system (CNS) toxic effect of valproic acid; a paradoxical epileptogenic effect secondary to the drug; and an indirect CNS toxic effect mediated through valproic acid-induced hyperammonemia.",
+    "title_plus_abst": "Reversible valproic acid-induced dementia: a case report. Reversible valproic acid-induced dementia was documented in a 21-year-old man with epilepsy who had a 3-year history of insidious progressive decline in global cognitive abilities documented by serial neuropsychological studies. Repeat neuropsychological testing 7 weeks after discontinuation of the drug revealed dramatic improvement in IQ, memory, naming, and other tasks commensurate with clinical recovery in his intellectual capacity. Possible pathophysiological mechanisms which may have been operative in this case include: a direct central nervous system (CNS) toxic effect of valproic acid; a paradoxical epileptogenic effect secondary to the drug; and an indirect CNS toxic effect mediated through valproic acid-induced hyperammonemia.",
+    "pubmed_id": "3084231",
+    "entities": [
+        [
+            11,
+            24,
+            "valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            33,
+            41,
+            "dementia",
+            "Disease",
+            "D003704"
+        ],
+        [
+            69,
+            82,
+            "valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            91,
+            99,
+            "dementia",
+            "Disease",
+            "D003704"
+        ],
+        [
+            141,
+            149,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            643,
+            656,
+            "valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            766,
+            779,
+            "valproic acid",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            788,
+            802,
+            "hyperammonemia",
+            "Disease",
+            "D022124"
+        ]
+    ],
+    "split_sentence": [
+        "Reversible valproic acid-induced dementia: a case report.",
+        "Reversible valproic acid-induced dementia was documented in a 21-year-old man with epilepsy who had a 3-year history of insidious progressive decline in global cognitive abilities documented by serial neuropsychological studies.",
+        "Repeat neuropsychological testing 7 weeks after discontinuation of the drug revealed dramatic improvement in IQ, memory, naming, and other tasks commensurate with clinical recovery in his intellectual capacity.",
+        "Possible pathophysiological mechanisms which may have been operative in this case include: a direct central nervous system (CNS) toxic effect of valproic acid; a paradoxical epileptogenic effect secondary to the drug; and an indirect CNS toxic effect mediated through valproic acid-induced hyperammonemia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014635\tChemical\tvalproic acid\tReversible <target> valproic acid </target> -induced dementia : a case report .",
+        "D003704\tDisease\tdementia\tReversible valproic acid-induced <target> dementia </target> : a case report .",
+        "D014635\tChemical\tvalproic acid\tReversible <target> valproic acid </target> -induced dementia was documented in a 21-year-old man with epilepsy who had a 3-year history of insidious progressive decline in global cognitive abilities documented by serial neuropsychological studies .",
+        "D003704\tDisease\tdementia\tReversible valproic acid-induced <target> dementia </target> was documented in a 21-year-old man with epilepsy who had a 3-year history of insidious progressive decline in global cognitive abilities documented by serial neuropsychological studies .",
+        "D004827\tDisease\tepilepsy\tReversible valproic acid-induced dementia was documented in a 21-year-old man with <target> epilepsy </target> who had a 3-year history of insidious progressive decline in global cognitive abilities documented by serial neuropsychological studies .",
+        "D014635\tChemical\tvalproic acid\tPossible pathophysiological mechanisms which may have been operative in this case include : a direct central nervous system ( CNS ) toxic effect of <target> valproic acid </target> ; a paradoxical epileptogenic effect secondary to the drug ; and an indirect CNS toxic effect mediated through valproic acid-induced hyperammonemia .",
+        "D014635\tChemical\tvalproic acid\tPossible pathophysiological mechanisms which may have been operative in this case include : a direct central nervous system ( CNS ) toxic effect of valproic acid ; a paradoxical epileptogenic effect secondary to the drug ; and an indirect CNS toxic effect mediated through <target> valproic acid </target> -induced hyperammonemia .",
+        "D022124\tDisease\thyperammonemia\tPossible pathophysiological mechanisms which may have been operative in this case include : a direct central nervous system ( CNS ) toxic effect of valproic acid ; a paradoxical epileptogenic effect secondary to the drug ; and an indirect CNS toxic effect mediated through valproic acid-induced <target> hyperammonemia </target> ."
+    ],
+    "lines_lemma": [
+        "D014635\tChemical\tvalproic acid\treversible <target> valproic acid </target> -induced dementia : a case report .",
+        "D003704\tDisease\tdementia\treversible valproic acid-induced <target> dementia </target> : a case report .",
+        "D014635\tChemical\tvalproic acid\treversible <target> valproic acid </target> -induced dementia be document in a 21-year-old man with epilepsy who have a 3-year history of insidious progressive decline in global cognitive ability document by serial neuropsychological study .",
+        "D003704\tDisease\tdementia\treversible valproic acid-induced <target> dementia </target> be document in a 21-year-old man with epilepsy who have a 3-year history of insidious progressive decline in global cognitive ability document by serial neuropsychological study .",
+        "D004827\tDisease\tepilepsy\treversible valproic acid-induced dementia be document in a 21-year-old man with <target> epilepsy </target> who have a 3-year history of insidious progressive decline in global cognitive ability document by serial neuropsychological study .",
+        "D014635\tChemical\tvalproic acid\tpossible pathophysiological mechanism which may have be operative in this case include : a direct central nervous system ( cns ) toxic effect of <target> valproic acid </target> ; a paradoxical epileptogenic effect secondary to the drug ; and an indirect cns toxic effect mediate through valproic acid-induced hyperammonemia .",
+        "D014635\tChemical\tvalproic acid\tpossible pathophysiological mechanism which may have be operative in this case include : a direct central nervous system ( cns ) toxic effect of valproic acid ; a paradoxical epileptogenic effect secondary to the drug ; and an indirect cns toxic effect mediate through <target> valproic acid </target> -induced hyperammonemia .",
+        "D022124\tDisease\thyperammonemia\tpossible pathophysiological mechanism which may have be operative in this case include : a direct central nervous system ( cns ) toxic effect of valproic acid ; a paradoxical epileptogenic effect secondary to the drug ; and an indirect cns toxic effect mediate through valproic acid-induced <target> hyperammonemia </target> ."
+    ]
+}

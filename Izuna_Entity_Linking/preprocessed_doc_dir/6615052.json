@@ -1,0 +1,177 @@
+{
+    "title": "Heparin-induced thrombocytopenia, thrombosis, and hemorrhage.",
+    "abst": "Sixty-two patients with a heparin-induced thrombocytopenia are reported. Clinical manifestations of this disorder include hemorrhage or, more frequently, thromboembolic events in patients receiving heparin. Laboratory testing has revealed a falling platelet count, increased resistance to heparin, and aggregation of platelets by the patient's plasma when heparin is added. Immunologic testing has demonstrated the presence of a heparin-dependent platelet membrane antibody. The 20 deaths, 52 hemorrhagic and thromboembolic complications, and 21 surgical procedures to manage the complications confirm the seriousness of the disorder. Specific risk factors have not been identified; therefore, all patients receiving heparin should be monitored. If the platelet count falls to less than 100,000/mm3, while the patient is receiving heparin, platelet aggregation testing, using the patient's plasma, is indicated. Management consists of cessation of heparin, platelet anti-aggregating agents, and alternate forms of anticoagulation when indicated.",
+    "title_plus_abst": "Heparin-induced thrombocytopenia, thrombosis, and hemorrhage. Sixty-two patients with a heparin-induced thrombocytopenia are reported. Clinical manifestations of this disorder include hemorrhage or, more frequently, thromboembolic events in patients receiving heparin. Laboratory testing has revealed a falling platelet count, increased resistance to heparin, and aggregation of platelets by the patient's plasma when heparin is added. Immunologic testing has demonstrated the presence of a heparin-dependent platelet membrane antibody. The 20 deaths, 52 hemorrhagic and thromboembolic complications, and 21 surgical procedures to manage the complications confirm the seriousness of the disorder. Specific risk factors have not been identified; therefore, all patients receiving heparin should be monitored. If the platelet count falls to less than 100,000/mm3, while the patient is receiving heparin, platelet aggregation testing, using the patient's plasma, is indicated. Management consists of cessation of heparin, platelet anti-aggregating agents, and alternate forms of anticoagulation when indicated.",
+    "pubmed_id": "6615052",
+    "entities": [
+        [
+            0,
+            7,
+            "Heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            16,
+            32,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            34,
+            44,
+            "thrombosis",
+            "Disease",
+            "D013927"
+        ],
+        [
+            50,
+            60,
+            "hemorrhage",
+            "Disease",
+            "D006470"
+        ],
+        [
+            88,
+            95,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            104,
+            120,
+            "thrombocytopenia",
+            "Disease",
+            "D013921"
+        ],
+        [
+            184,
+            194,
+            "hemorrhage",
+            "Disease",
+            "D006470"
+        ],
+        [
+            216,
+            230,
+            "thromboembolic",
+            "Disease",
+            "D013923"
+        ],
+        [
+            260,
+            267,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            301,
+            325,
+            "a falling platelet count",
+            "Disease",
+            "D001791"
+        ],
+        [
+            351,
+            358,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            418,
+            425,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            491,
+            498,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            779,
+            786,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            893,
+            900,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ],
+        [
+            902,
+            922,
+            "platelet aggregation",
+            "Disease",
+            "D001791"
+        ],
+        [
+            1010,
+            1017,
+            "heparin",
+            "Chemical",
+            "D006493"
+        ]
+    ],
+    "split_sentence": [
+        "Heparin-induced thrombocytopenia, thrombosis, and hemorrhage.",
+        "Sixty-two patients with a heparin-induced thrombocytopenia are reported.",
+        "Clinical manifestations of this disorder include hemorrhage or, more frequently, thromboembolic events in patients receiving heparin.",
+        "Laboratory testing has revealed a falling platelet count, increased resistance to heparin, and aggregation of platelets by the patient's plasma when heparin is added.",
+        "Immunologic testing has demonstrated the presence of a heparin-dependent platelet membrane antibody.",
+        "The 20 deaths, 52 hemorrhagic and thromboembolic complications, and 21 surgical procedures to manage the complications confirm the seriousness of the disorder.",
+        "Specific risk factors have not been identified; therefore, all patients receiving heparin should be monitored.",
+        "If the platelet count falls to less than 100,000/mm3, while the patient is receiving heparin, platelet aggregation testing, using the patient's plasma, is indicated.",
+        "Management consists of cessation of heparin, platelet anti-aggregating agents, and alternate forms of anticoagulation when indicated."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006493\tChemical\tHeparin\t<target> Heparin </target> -induced thrombocytopenia , thrombosis , and hemorrhage .",
+        "D013921\tDisease\tthrombocytopenia\tHeparin-induced <target> thrombocytopenia </target> , thrombosis , and hemorrhage .",
+        "D013927\tDisease\tthrombosis\tHeparin-induced thrombocytopenia , <target> thrombosis </target> , and hemorrhage .",
+        "D006470\tDisease\themorrhage\tHeparin-induced thrombocytopenia , thrombosis , and <target> hemorrhage </target> .",
+        "D006493\tChemical\theparin\tSixty-two patients with a <target> heparin </target> -induced thrombocytopenia are reported .",
+        "D013921\tDisease\tthrombocytopenia\tSixty-two patients with a heparin-induced <target> thrombocytopenia </target> are reported .",
+        "D006470\tDisease\themorrhage\tClinical manifestations of this disorder include <target> hemorrhage </target> or , more frequently , thromboembolic events in patients receiving heparin .",
+        "D013923\tDisease\tthromboembolic\tClinical manifestations of this disorder include hemorrhage or , more frequently , <target> thromboembolic </target> events in patients receiving heparin .",
+        "D006493\tChemical\theparin\tClinical manifestations of this disorder include hemorrhage or , more frequently , thromboembolic events in patients receiving <target> heparin </target> .",
+        "D001791\tDisease\ta falling platelet count\tLaboratory testing has revealed <target> a falling platelet count </target> , increased resistance to heparin , and aggregation of platelets by the patient 's plasma when heparin is added .",
+        "D006493\tChemical\theparin\tLaboratory testing has revealed a falling platelet count , increased resistance to <target> heparin </target> , and aggregation of platelets by the patient 's plasma when heparin is added .",
+        "D006493\tChemical\theparin\tLaboratory testing has revealed a falling platelet count , increased resistance to heparin , and aggregation of platelets by the patient 's plasma when <target> heparin </target> is added .",
+        "D006493\tChemical\theparin\tImmunologic testing has demonstrated the presence of a <target> heparin </target> -dependent platelet membrane antibody .",
+        "D006493\tChemical\theparin\tSpecific risk factors have not been identified ; therefore , all patients receiving <target> heparin </target> should be monitored .",
+        "D006493\tChemical\theparin\tIf the platelet count falls to less than 100,000/mm3 , while the patient is receiving <target> heparin </target> , platelet aggregation testing , using the patient 's plasma , is indicated .",
+        "D001791\tDisease\tplatelet aggregation\tIf the platelet count falls to less than 100,000/mm3 , while the patient is receiving heparin , <target> platelet aggregation </target> testing , using the patient 's plasma , is indicated .",
+        "D006493\tChemical\theparin\tManagement consists of cessation of <target> heparin </target> , platelet anti-aggregating agents , and alternate forms of anticoagulation when indicated ."
+    ],
+    "lines_lemma": [
+        "D006493\tChemical\tHeparin\t<target> heparin </target> -induced thrombocytopenia , thrombosis , and hemorrhage .",
+        "D013921\tDisease\tthrombocytopenia\theparin-induced <target> thrombocytopenia </target> , thrombosis , and hemorrhage .",
+        "D013927\tDisease\tthrombosis\theparin-induced thrombocytopenia , <target> thrombosis </target> , and hemorrhage .",
+        "D006470\tDisease\themorrhage\theparin-induced thrombocytopenia , thrombosis , and <target> hemorrhage </target> .",
+        "D006493\tChemical\theparin\tsixty-two patient with a <target> heparin </target> -induced thrombocytopenia be report .",
+        "D013921\tDisease\tthrombocytopenia\tsixty-two patient with a heparin-induced <target> thrombocytopenia </target> be report .",
+        "D006470\tDisease\themorrhage\tclinical manifestation of this disorder include <target> hemorrhage </target> or , more frequently , thromboembolic event in patient receive heparin .",
+        "D013923\tDisease\tthromboembolic\tclinical manifestation of this disorder include hemorrhage or , more frequently , <target> thromboembolic </target> event in patient receive heparin .",
+        "D006493\tChemical\theparin\tclinical manifestation of this disorder include hemorrhage or , more frequently , thromboembolic event in patient receive <target> heparin </target> .",
+        "D001791\tDisease\ta falling platelet count\tlaboratory testing have reveal <target> a fall platelet count </target> , increase resistance to heparin , and aggregation of platelet by the patient 's plasma when heparin be add .",
+        "D006493\tChemical\theparin\tlaboratory testing have reveal a fall platelet count , increase resistance to <target> heparin </target> , and aggregation of platelet by the patient 's plasma when heparin be add .",
+        "D006493\tChemical\theparin\tlaboratory testing have reveal a fall platelet count , increase resistance to heparin , and aggregation of platelet by the patient 's plasma when <target> heparin </target> be add .",
+        "D006493\tChemical\theparin\timmunologic testing have demonstrate the presence of a <target> heparin </target> -dependent platelet membrane antibody .",
+        "D006493\tChemical\theparin\tspecific risk factor have not be identify ; therefore , all patient receive <target> heparin </target> should be monitor .",
+        "D006493\tChemical\theparin\tif the platelet count fall to less than 100,000/mm3 , while the patient be receive <target> heparin </target> , platelet aggregation testing , use the patient 's plasma , be indicate .",
+        "D001791\tDisease\tplatelet aggregation\tif the platelet count fall to less than 100,000/mm3 , while the patient be receive heparin , <target> platelet aggregation </target> testing , use the patient 's plasma , be indicate .",
+        "D006493\tChemical\theparin\tmanagement consist of cessation of <target> heparin </target> , platelet anti-aggregating agent , and alternate form of anticoagulation when indicate ."
+    ]
+}

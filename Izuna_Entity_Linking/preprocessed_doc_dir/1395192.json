@@ -1,0 +1,84 @@
+{
+    "title": "Recurrent myocardial infarction in a postpartum patient receiving bromocriptine.",
+    "abst": "Myocardial infarction in puerperium is infrequently reported. Spasm, coronary dissection, or atheromatous etiology has been described. Bromocriptine has been implicated in several previous case reports of myocardial infarction in the puerperium. Our case (including an inadvertent rechallenge) suggests such a relationship. Although generally regarded as \"safe,\" possible serious cardiac effects of bromocriptine should be acknowledged.",
+    "title_plus_abst": "Recurrent myocardial infarction in a postpartum patient receiving bromocriptine. Myocardial infarction in puerperium is infrequently reported. Spasm, coronary dissection, or atheromatous etiology has been described. Bromocriptine has been implicated in several previous case reports of myocardial infarction in the puerperium. Our case (including an inadvertent rechallenge) suggests such a relationship. Although generally regarded as \"safe,\" possible serious cardiac effects of bromocriptine should be acknowledged.",
+    "pubmed_id": "1395192",
+    "entities": [
+        [
+            10,
+            31,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            66,
+            79,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            81,
+            102,
+            "Myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            143,
+            148,
+            "Spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            216,
+            229,
+            "Bromocriptine",
+            "Chemical",
+            "D001971"
+        ],
+        [
+            286,
+            307,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            480,
+            493,
+            "bromocriptine",
+            "Chemical",
+            "D001971"
+        ]
+    ],
+    "split_sentence": [
+        "Recurrent myocardial infarction in a postpartum patient receiving bromocriptine.",
+        "Myocardial infarction in puerperium is infrequently reported.",
+        "Spasm, coronary dissection, or atheromatous etiology has been described.",
+        "Bromocriptine has been implicated in several previous case reports of myocardial infarction in the puerperium.",
+        "Our case (including an inadvertent rechallenge) suggests such a relationship.",
+        "Although generally regarded as \"safe,\" possible serious cardiac effects of bromocriptine should be acknowledged."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009203\tDisease\tmyocardial infarction\tRecurrent <target> myocardial infarction </target> in a postpartum patient receiving bromocriptine .",
+        "D001971\tChemical\tbromocriptine\tRecurrent myocardial infarction in a postpartum patient receiving <target> bromocriptine </target> .",
+        "D009203\tDisease\tMyocardial infarction\t<target> Myocardial infarction </target> in puerperium is infrequently reported .",
+        "D013035\tDisease\tSpasm\t<target> Spasm </target> , coronary dissection , or atheromatous etiology has been described .",
+        "D001971\tChemical\tBromocriptine\t<target> Bromocriptine </target> has been implicated in several previous case reports of myocardial infarction in the puerperium .",
+        "D009203\tDisease\tmyocardial infarction\tBromocriptine has been implicated in several previous case reports of <target> myocardial infarction </target> in the puerperium .",
+        "D001971\tChemical\tbromocriptine\tAlthough generally regarded as \" safe , \" possible serious cardiac effects of <target> bromocriptine </target> should be acknowledged ."
+    ],
+    "lines_lemma": [
+        "D009203\tDisease\tmyocardial infarction\tRecurrent <target> myocardial infarction </target> in a postpartum patient receive bromocriptine .",
+        "D001971\tChemical\tbromocriptine\trecurrent myocardial infarction in a postpartum patient receive <target> bromocriptine </target> .",
+        "D009203\tDisease\tMyocardial infarction\t<target> myocardial infarction </target> in puerperium be infrequently report .",
+        "D013035\tDisease\tSpasm\t<target> Spasm </target> , coronary dissection , or atheromatous etiology have be describe .",
+        "D001971\tChemical\tBromocriptine\t<target> Bromocriptine </target> have be implicate in several previous case report of myocardial infarction in the puerperium .",
+        "D009203\tDisease\tmyocardial infarction\tBromocriptine have be implicate in several previous case report of <target> myocardial infarction </target> in the puerperium .",
+        "D001971\tChemical\tbromocriptine\talthough generally regard as \" safe , \" possible serious cardiac effect of <target> bromocriptine </target> should be acknowledge ."
+    ]
+}

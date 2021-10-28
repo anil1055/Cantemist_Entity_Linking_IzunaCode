@@ -1,0 +1,120 @@
+{
+    "title": "Succinylcholine apnoea: attempted reversal with anticholinesterases.",
+    "abst": "Anticholinesterases were administered in an attempt to antagonize prolonged neuromuscular blockade following the administration of succinylcholine in a patient later found to be homozygous for atypical plasma cholinesterase. Edrophonium 10 mg, given 74 min after succinylcholine, when train-of-four stimulation was characteristic of phase II block, produced partial antagonism which was not sustained. Repeated doses of edrophonium to 70 mg and neostigmine to 2.5 mg did not antagonize or augment the block. Spontaneous respiration recommenced 200 min after succinylcholine administration. It is concluded that anticholinesterases are only partially effective in restoring neuromuscular function in succinylcholine apnoea despite muscle twitch activity typical of phase II block.",
+    "title_plus_abst": "Succinylcholine apnoea: attempted reversal with anticholinesterases. Anticholinesterases were administered in an attempt to antagonize prolonged neuromuscular blockade following the administration of succinylcholine in a patient later found to be homozygous for atypical plasma cholinesterase. Edrophonium 10 mg, given 74 min after succinylcholine, when train-of-four stimulation was characteristic of phase II block, produced partial antagonism which was not sustained. Repeated doses of edrophonium to 70 mg and neostigmine to 2.5 mg did not antagonize or augment the block. Spontaneous respiration recommenced 200 min after succinylcholine administration. It is concluded that anticholinesterases are only partially effective in restoring neuromuscular function in succinylcholine apnoea despite muscle twitch activity typical of phase II block.",
+    "pubmed_id": "6627074",
+    "entities": [
+        [
+            0,
+            15,
+            "Succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            16,
+            22,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            145,
+            167,
+            "neuromuscular blockade",
+            "Disease",
+            "D020879"
+        ],
+        [
+            200,
+            215,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            294,
+            305,
+            "Edrophonium",
+            "Chemical",
+            "D004491"
+        ],
+        [
+            332,
+            347,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            489,
+            500,
+            "edrophonium",
+            "Chemical",
+            "D004491"
+        ],
+        [
+            514,
+            525,
+            "neostigmine",
+            "Chemical",
+            "D009388"
+        ],
+        [
+            627,
+            642,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            768,
+            783,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            784,
+            790,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ]
+    ],
+    "split_sentence": [
+        "Succinylcholine apnoea: attempted reversal with anticholinesterases.",
+        "Anticholinesterases were administered in an attempt to antagonize prolonged neuromuscular blockade following the administration of succinylcholine in a patient later found to be homozygous for atypical plasma cholinesterase.",
+        "Edrophonium 10 mg, given 74 min after succinylcholine, when train-of-four stimulation was characteristic of phase II block, produced partial antagonism which was not sustained.",
+        "Repeated doses of edrophonium to 70 mg and neostigmine to 2.5 mg did not antagonize or augment the block.",
+        "Spontaneous respiration recommenced 200 min after succinylcholine administration.",
+        "It is concluded that anticholinesterases are only partially effective in restoring neuromuscular function in succinylcholine apnoea despite muscle twitch activity typical of phase II block."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tSuccinylcholine\t<target> Succinylcholine </target> apnoea : attempted reversal with anticholinesterases .",
+        "D001049\tDisease\tapnoea\tSuccinylcholine <target> apnoea </target> : attempted reversal with anticholinesterases .",
+        "D020879\tDisease\tneuromuscular blockade\tAnticholinesterases were administered in an attempt to antagonize prolonged <target> neuromuscular blockade </target> following the administration of succinylcholine in a patient later found to be homozygous for atypical plasma cholinesterase .",
+        "D013390\tChemical\tsuccinylcholine\tAnticholinesterases were administered in an attempt to antagonize prolonged neuromuscular blockade following the administration of <target> succinylcholine </target> in a patient later found to be homozygous for atypical plasma cholinesterase .",
+        "D004491\tChemical\tEdrophonium\t<target> Edrophonium </target> 10 mg , given 74 min after succinylcholine , when train-of-four stimulation was characteristic of phase II block , produced partial antagonism which was not sustained .",
+        "D013390\tChemical\tsuccinylcholine\tEdrophonium 10 mg , given 74 min after <target> succinylcholine </target> , when train-of-four stimulation was characteristic of phase II block , produced partial antagonism which was not sustained .",
+        "D004491\tChemical\tedrophonium\tRepeated doses of <target> edrophonium </target> to 70 mg and neostigmine to 2.5 mg did not antagonize or augment the block .",
+        "D009388\tChemical\tneostigmine\tRepeated doses of edrophonium to 70 mg and <target> neostigmine </target> to 2.5 mg did not antagonize or augment the block .",
+        "D013390\tChemical\tsuccinylcholine\tSpontaneous respiration recommenced 200 min after <target> succinylcholine </target> administration .",
+        "D013390\tChemical\tsuccinylcholine\tIt is concluded that anticholinesterases are only partially effective in restoring neuromuscular function in <target> succinylcholine </target> apnoea despite muscle twitch activity typical of phase II block .",
+        "D001049\tDisease\tapnoea\tIt is concluded that anticholinesterases are only partially effective in restoring neuromuscular function in succinylcholine <target> apnoea </target> despite muscle twitch activity typical of phase II block ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tSuccinylcholine\t<target> Succinylcholine </target> apnoea : attempt reversal with anticholinesterase .",
+        "D001049\tDisease\tapnoea\tsuccinylcholine <target> apnoea </target> : attempt reversal with anticholinesterase .",
+        "D020879\tDisease\tneuromuscular blockade\tanticholinesterase be administer in an attempt to antagonize prolonged <target> neuromuscular blockade </target> follow the administration of succinylcholine in a patient later find to be homozygous for atypical plasma cholinesterase .",
+        "D013390\tChemical\tsuccinylcholine\tanticholinesterase be administer in an attempt to antagonize prolonged neuromuscular blockade follow the administration of <target> succinylcholine </target> in a patient later find to be homozygous for atypical plasma cholinesterase .",
+        "D004491\tChemical\tEdrophonium\t<target> Edrophonium </target> 10 mg , give 74 min after succinylcholine , when train-of-four stimulation be characteristic of phase ii block , produce partial antagonism which be not sustained .",
+        "D013390\tChemical\tsuccinylcholine\tedrophonium 10 mg , give 74 min after <target> succinylcholine </target> , when train-of-four stimulation be characteristic of phase ii block , produce partial antagonism which be not sustained .",
+        "D004491\tChemical\tedrophonium\trepeated dose of <target> edrophonium </target> to 70 mg and neostigmine to 2.5 mg do not antagonize or augment the block .",
+        "D009388\tChemical\tneostigmine\trepeated dose of edrophonium to 70 mg and <target> neostigmine </target> to 2.5 mg do not antagonize or augment the block .",
+        "D013390\tChemical\tsuccinylcholine\tspontaneous respiration recommence 200 min after <target> succinylcholine </target> administration .",
+        "D013390\tChemical\tsuccinylcholine\tit be conclude that anticholinesterase be only partially effective in restore neuromuscular function in <target> succinylcholine </target> apnoea despite muscle twitch activity typical of phase ii block .",
+        "D001049\tDisease\tapnoea\tit be conclude that anticholinesterase be only partially effective in restore neuromuscular function in succinylcholine <target> apnoea </target> despite muscle twitch activity typical of phase ii block ."
+    ]
+}

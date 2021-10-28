@@ -1,0 +1,159 @@
+{
+    "title": "Methyldopa-induced hemolytic anemia in a 15 year old presenting as near-syncope.",
+    "abst": "Methyldopa is an antihypertensive medication which is available generically and under the trade name Aldomet that is widely prescribed in the adult population and infrequently used in children. Methyldopa causes an autoimmune hemolytic anemia in a small percentage of patients who take the drug. We report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who presented to the emergency department with near-syncope. The boy had been treated with intravenous methyldopa during a trauma admission seven weeks prior to presentation. Evaluation revealed a hemoglobin of three grams, 3+ Coombs' test with polyspecific anti-human globulin and monospecific IgG reagents, and a warm reacting autoantibody. Transfusion and corticosteroid therapy resulted in a complete recovery of the patient. Emergency physicians treating children must be aware of this syndrome in order to diagnose and treat it correctly. A brief review of autoimmune and drug-induced hemolytic anemias is provided.",
+    "title_plus_abst": "Methyldopa-induced hemolytic anemia in a 15 year old presenting as near-syncope. Methyldopa is an antihypertensive medication which is available generically and under the trade name Aldomet that is widely prescribed in the adult population and infrequently used in children. Methyldopa causes an autoimmune hemolytic anemia in a small percentage of patients who take the drug. We report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who presented to the emergency department with near-syncope. The boy had been treated with intravenous methyldopa during a trauma admission seven weeks prior to presentation. Evaluation revealed a hemoglobin of three grams, 3+ Coombs' test with polyspecific anti-human globulin and monospecific IgG reagents, and a warm reacting autoantibody. Transfusion and corticosteroid therapy resulted in a complete recovery of the patient. Emergency physicians treating children must be aware of this syndrome in order to diagnose and treat it correctly. A brief review of autoimmune and drug-induced hemolytic anemias is provided.",
+    "pubmed_id": "2320485",
+    "entities": [
+        [
+            0,
+            10,
+            "Methyldopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            19,
+            35,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            72,
+            79,
+            "syncope",
+            "Disease",
+            "D013575"
+        ],
+        [
+            81,
+            91,
+            "Methyldopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            182,
+            189,
+            "Aldomet",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            275,
+            285,
+            "Methyldopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            296,
+            323,
+            "autoimmune hemolytic anemia",
+            "Disease",
+            "D000744"
+        ],
+        [
+            397,
+            407,
+            "methyldopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            416,
+            432,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            475,
+            495,
+            "emergency department",
+            "Disease",
+            "D004630"
+        ],
+        [
+            506,
+            513,
+            "syncope",
+            "Disease",
+            "D013575"
+        ],
+        [
+            557,
+            567,
+            "methyldopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            577,
+            583,
+            "trauma",
+            "Disease",
+            "D014947"
+        ],
+        [
+            813,
+            827,
+            "corticosteroid",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            1045,
+            1062,
+            "hemolytic anemias",
+            "Disease",
+            "D000743"
+        ]
+    ],
+    "split_sentence": [
+        "Methyldopa-induced hemolytic anemia in a 15 year old presenting as near-syncope.",
+        "Methyldopa is an antihypertensive medication which is available generically and under the trade name Aldomet that is widely prescribed in the adult population and infrequently used in children.",
+        "Methyldopa causes an autoimmune hemolytic anemia in a small percentage of patients who take the drug.",
+        "We report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who presented to the emergency department with near-syncope.",
+        "The boy had been treated with intravenous methyldopa during a trauma admission seven weeks prior to presentation.",
+        "Evaluation revealed a hemoglobin of three grams, 3+ Coombs' test with polyspecific anti-human globulin and monospecific IgG reagents, and a warm reacting autoantibody.",
+        "Transfusion and corticosteroid therapy resulted in a complete recovery of the patient.",
+        "Emergency physicians treating children must be aware of this syndrome in order to diagnose and treat it correctly.",
+        "A brief review of autoimmune and drug-induced hemolytic anemias is provided."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008750\tChemical\tMethyldopa\t<target> Methyldopa </target> -induced hemolytic anemia in a 15 year old presenting as near-syncope .",
+        "D000743\tDisease\themolytic anemia\tMethyldopa-induced <target> hemolytic anemia </target> in a 15 year old presenting as near-syncope .",
+        "D013575\tDisease\tsyncope\tMethyldopa-induced hemolytic anemia in a 15 year old presenting as near- <target> syncope </target> .",
+        "D008750\tChemical\tMethyldopa\t<target> Methyldopa </target> is an antihypertensive medication which is available generically and under the trade name Aldomet that is widely prescribed in the adult population and infrequently used in children .",
+        "D008750\tChemical\tAldomet\tMethyldopa is an antihypertensive medication which is available generically and under the trade name <target> Aldomet </target> that is widely prescribed in the adult population and infrequently used in children .",
+        "D008750\tChemical\tMethyldopa\t<target> Methyldopa </target> causes an autoimmune hemolytic anemia in a small percentage of patients who take the drug .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tMethyldopa causes an <target> autoimmune hemolytic anemia </target> in a small percentage of patients who take the drug .",
+        "D008750\tChemical\tmethyldopa\tWe report a case of <target> methyldopa </target> -induced hemolytic anemia in a 15-year-old boy who presented to the emergency department with near-syncope .",
+        "D000743\tDisease\themolytic anemia\tWe report a case of methyldopa-induced <target> hemolytic anemia </target> in a 15-year-old boy who presented to the emergency department with near-syncope .",
+        "D004630\tDisease\temergency department\tWe report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who presented to the <target> emergency department </target> with near-syncope .",
+        "D013575\tDisease\tsyncope\tWe report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who presented to the emergency department with near- <target> syncope </target> .",
+        "D008750\tChemical\tmethyldopa\tThe boy had been treated with intravenous <target> methyldopa </target> during a trauma admission seven weeks prior to presentation .",
+        "D014947\tDisease\ttrauma\tThe boy had been treated with intravenous methyldopa during a <target> trauma </target> admission seven weeks prior to presentation .",
+        "D000305\tChemical\tcorticosteroid\tTransfusion and <target> corticosteroid </target> therapy resulted in a complete recovery of the patient .",
+        "D000743\tDisease\themolytic anemias\tA brief review of autoimmune and drug-induced <target> hemolytic anemias </target> is provided ."
+    ],
+    "lines_lemma": [
+        "D008750\tChemical\tMethyldopa\t<target> Methyldopa </target> -induced hemolytic anemia in a 15 year old presenting as near-syncope .",
+        "D000743\tDisease\themolytic anemia\tmethyldopa-induced <target> hemolytic anemia </target> in a 15 year old presenting as near-syncope .",
+        "D013575\tDisease\tsyncope\tmethyldopa-induced hemolytic anemia in a 15 year old presenting as near- <target> syncope </target> .",
+        "D008750\tChemical\tMethyldopa\t<target> Methyldopa </target> be an antihypertensive medication which be available generically and under the trade name Aldomet that be widely prescribe in the adult population and infrequently use in child .",
+        "D008750\tChemical\tAldomet\tMethyldopa be an antihypertensive medication which be available generically and under the trade name <target> Aldomet </target> that be widely prescribe in the adult population and infrequently use in child .",
+        "D008750\tChemical\tMethyldopa\t<target> Methyldopa </target> cause an autoimmune hemolytic anemia in a small percentage of patient who take the drug .",
+        "D000744\tDisease\tautoimmune hemolytic anemia\tMethyldopa cause an <target> autoimmune hemolytic anemia </target> in a small percentage of patient who take the drug .",
+        "D008750\tChemical\tmethyldopa\twe report a case of <target> methyldopa </target> -induced hemolytic anemia in a 15-year-old boy who present to the emergency department with near-syncope .",
+        "D000743\tDisease\themolytic anemia\twe report a case of methyldopa-induced <target> hemolytic anemia </target> in a 15-year-old boy who present to the emergency department with near-syncope .",
+        "D004630\tDisease\temergency department\twe report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who present to the <target> emergency department </target> with near-syncope .",
+        "D013575\tDisease\tsyncope\twe report a case of methyldopa-induced hemolytic anemia in a 15-year-old boy who present to the emergency department with near- <target> syncope </target> .",
+        "D008750\tChemical\tmethyldopa\tthe boy have be treat with intravenous <target> methyldopa </target> during a trauma admission seven week prior to presentation .",
+        "D014947\tDisease\ttrauma\tthe boy have be treat with intravenous methyldopa during a <target> trauma </target> admission seven week prior to presentation .",
+        "D000305\tChemical\tcorticosteroid\ttransfusion and <target> corticosteroid </target> therapy result in a complete recovery of the patient .",
+        "D000743\tDisease\themolytic anemias\ta brief review of autoimmune and drug-induced <target> hemolytic anemia </target> be provide ."
+    ]
+}

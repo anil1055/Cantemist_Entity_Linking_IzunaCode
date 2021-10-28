@@ -1,0 +1,127 @@
+{
+    "entities": [
+        [
+            2985,
+            2994,
+            "carcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/3"
+        ],
+        [
+            2049,
+            2091,
+            "carcinoma neuroendocrino de célula pequeña",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/3"
+        ],
+        [
+            1652,
+            1662,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            1568,
+            1578,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            3103,
+            3113,
+            "metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1153,
+            1160,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            2257,
+            2320,
+            "Carcinoma neuroendocrino microcítico de próstata con metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8041/6"
+        ],
+        [
+            2364,
+            2370,
+            "T4N2M1",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "- Biopsia de próstata:  <objetivo> carcinoma </objetivo> neuroendocrino de célula pequeña de próstata, con infiltración perineural y positividad a los marcadores neuroendocrino (sinaptofisina, cromogranina y enolasa) y citoqueratina AE1/AE3.",
+        "Tras descartarla y sospechar prostatitis realizan una hoja de interconsulta a Urología, que solicitan RM pélvica con resultados de probable  <objetivo> carcinoma </objetivo> de próstata, el cual es confirmado tras biopsia.",
+        "- Biopsia de próstata:  <objetivo> carcinoma neuroendocrino de célula pequeña </objetivo> de próstata, con infiltración perineural y positividad a los marcadores neuroendocrino (sinaptofisina, cromogranina y enolasa) y citoqueratina AE1/AE3.",
+        "Múltiples imágenes hipodensas en ambos lóbulos hepáticos sospechosas de  <objetivo> malignidad </objetivo> ",
+        "- Tomografía computarizada (TC) toraco-abdomino-pélvica: múltiples imágenes nodulares subcentimétricas en ambos campos pulmonares en relación con  <objetivo> metástasis </objetivo> ",
+        "Carcinoma neuroendocrino microcítico de próstata con  <objetivo> metástasis </objetivo> pulmonares, hepáticas y óseas, estadio IV (T4N2M1).",
+        "Se realiza estudio de extensión con TC y GGO, detectándose  <objetivo> metástasis </objetivo> a nivel óseo, hepático y pulmonar.",
+        "- Tomografía computarizada (TC) toraco-abdomino-pélvica: múltiples imágenes nodulares subcentimétricas en ambos campos pulmonares en relación con  <objetivo> metástasis </objetivo> ",
+        "Carcinoma neuroendocrino microcítico de próstata con  <objetivo> metástasis </objetivo> pulmonares, hepáticas y óseas, estadio IV (T4N2M1).",
+        "Se realiza estudio de extensión con TC y GGO, detectándose  <objetivo> metástasis </objetivo> a nivel óseo, hepático y pulmonar.",
+        "- Resonancia magnética (RM) de pelvis: masa  <objetivo> tumoral </objetivo> de unos 6,5 x 5,5 x 3 cm, dependiente del lóbulo prostático derecho, de morfología irregular e intensidad de señal heterogénea, con extensión extracapsular hacia el paquete neurovascular derecho y hacia las vesículas seminales derechas y el suelo de la vejiga.",
+        "<objetivo> Carcinoma neuroendocrino microcítico de próstata con metástasis </objetivo> pulmonares, hepáticas y óseas, estadio IV (T4N2M1).",
+        "Carcinoma neuroendocrino microcítico de próstata con metástasis pulmonares, hepáticas y óseas, estadio IV ( <objetivo> T4N2M1 </objetivo> ."
+    ],
+    "lines_lemma": [
+        "- Biopsia de próstata :   <objetivo> carcinomar </objetivo> neuroendocrino de célula pequeño de próstata , con infiltración perineural y positividad a el marcador neuroendocrino ( sinaptofisina , cromogranina y enolasar ) y citoqueratina AE1 / AE3 .",
+        "tras descartar él y sospechar prostatiti realizar uno hoja de interconsulta a Urología , que solicitar RM pélvico con resultado de probable   <objetivo> carcinomar </objetivo> de próstata , el cual ser confirmar tras biopsia .",
+        "- Biopsia de próstata :   <objetivo> carcinomar neuroendocrino de célula pequeño </objetivo> de próstata , con infiltración perineural y positividad a el marcador neuroendocrino ( sinaptofisina , cromogranina y enolasar ) y citoqueratina AE1 / AE3 .",
+        "Múltiples imagen hipodensa en ambos lobu él hepático sospechosa de   <objetivo> malignidad </objetivo>",
+        "- Tomografía computarizado ( TC ) toraco-abdomino-pélvico : múltiple imagen nodular subcentimétrica en ambos campo pulmonar en relación con   <objetivo> metástasi </objetivo>",
+        "Carcinoma neuroendocrino microcítico de próstata con   <objetivo> metástasi </objetivo> pulmonar , hepático y ósea , estadio IV ( T4N2M1 ) .",
+        "él realizar estudio de extensión con TC y GGO , detectar él   <objetivo> metástasi </objetivo> a nivel óseo , hepático y pulmonar .",
+        "- Tomografía computarizado ( TC ) toraco-abdomino-pélvico : múltiple imagen nodular subcentimétrica en ambos campo pulmonar en relación con   <objetivo> metástasi </objetivo>",
+        "Carcinoma neuroendocrino microcítico de próstata con   <objetivo> metástasi </objetivo> pulmonar , hepático y ósea , estadio IV ( T4N2M1 ) .",
+        "él realizar estudio de extensión con TC y GGO , detectar él   <objetivo> metástasi </objetivo> a nivel óseo , hepático y pulmonar .",
+        "- Resonancia magnético ( RM ) de pelvis : masir   <objetivo> tumoral </objetivo> de uno 6.5 x 5.5 x 3 cm , dependiente del lóbulo prostático derecho , de morfología irregular e intensidad de señal heterogéneo , con extensión extracapsular hacia el paquete neurovascular derecho y hacia el vesícula seminal derecho y el suelo de el vejiga .",
+        "<objetivo> Carcinoma neuroendocrino microcítico de próstata con metástasis </objetivo> pulmonar , hepático y ósea , estadio IV ( T4N2M1 ) .",
+        "Carcinoma neuroendocrino microcítico de próstata con metástasis pulmonar , hepático y ósea , estadio IV ( <objetivo> t4n2m1 </objetivo> ."
+    ],
+    "pubmed_id": "onco294",
+    "split_sentence": [
+        "Anamnesis",
+        "Varón de 56 años, exfumador desde hace 6 meses, con los siguientes antecedentes personales: hipertensión, diabetes mellitus tipo 2, hipertiroidismo e intervenido de hemicolectomía con colostomía transversa por obstrucción intestinal y aneurisma de aorta abdominal vía endovascular.",
+        "No presentaba antecedentes familiares de interés.",
+        "El paciente acude a urgencias porque refiere dolor anal de 2-3 meses de evolución que no mejora con tratamiento analgésico y medidas higiénico-dietéticas, con diagnóstico de fisura anal.",
+        "El dolor es de carácter intermitente, irradiado a testículos, no relacionado con la defecación, sin emisión de sangre ni productos patológicos, además de polaquiuria, estranguria y nicturia.",
+        "En los últimos días, refiere tenesmo rectal y vesical.",
+        "Sin fiebre ni síndrome constitucional.",
+        "Exploración física",
+        "Inspección anal normal, sin hipertonía del esfínter, no se aprecia fisura anal.",
+        "Tacto rectal con próstata grande, dura, muy dolorosa a la palpación.",
+        "Pruebas complementarias",
+        "- Analítica: hemograma, bioquímica y coagulación dentro de los valores normales.",
+        "CEA 745,7 PSA 1,79.",
+        "- Resonancia magnética (RM) de pelvis: masa tumoral de unos 6,5 x 5,5 x 3 cm, dependiente del lóbulo prostático derecho, de morfología irregular e intensidad de señal heterogénea, con extensión extracapsular hacia el paquete neurovascular derecho y hacia las vesículas seminales derechas y el suelo de la vejiga.",
+        "- Tomografía computarizada (TC) toraco-abdomino-pélvica: múltiples imágenes nodulares subcentimétricas en ambos campos pulmonares en relación con metástasis.",
+        "Múltiples imágenes hipodensas en ambos lóbulos hepáticos sospechosas de malignidad.",
+        "Adenopatías en ambas cadenas ilíacas externas e internas.",
+        "- Gammagrafía ósea (GGO): captación aumentada en escápula derecha, fémur izquierdo, acetábulo derecho y, para completar estudio se obtienen imágenes con SPECT-TC de columna lumbar visualizándose hipercaptación en cuerpo vertebral de L4, S1, apófisis espinosa de L2, acetábulo derecho e ilíaco izquierdo.",
+        "- Biopsia de próstata: carcinoma neuroendocrino de célula pequeña de próstata, con infiltración perineural y positividad a los marcadores neuroendocrino (sinaptofisina, cromogranina y enolasa) y citoqueratina AE1/AE3.",
+        "Diagnóstico",
+        "Carcinoma neuroendocrino microcítico de próstata con metástasis pulmonares, hepáticas y óseas, estadio IV (T4N2M1).",
+        "Tratamiento",
+        "Tras control de los síntomas, se pauta primer y único ciclo de QT con cisplatino y etopósido.",
+        "Se realizó una hoja de interconsulta a Oncología Radioterápica paliativa para valorar radioterapia antiálgica pélvica por dolor que no cede con derivados mórficos, pero descartaron su administración de forma concomitante con QT por toxicidad.",
+        "Evolución",
+        "El paciente fue ingresado en el servicio de Cirugía general por sospecha de fisura anal rebelde a tratamiento.",
+        "Tras descartarla y sospechar prostatitis realizan una hoja de interconsulta a Urología, que solicitan RM pélvica con resultados de probable carcinoma de próstata, el cual es confirmado tras biopsia.",
+        "Se realiza estudio de extensión con TC y GGO, detectándose metástasis a nivel óseo, hepático y pulmonar.",
+        "Durante el ingreso el dolor es incontrolable, lo cual precisa seguimiento y tratamiento por la Unidad del dolor.",
+        "El dolor es tan intenso que incluso se plantea sedación.",
+        "Tras el diagnóstico pasa a cargo de Oncología para inicio de quimioterapia (QT) paliativa, pero se retrasa por mal control del dolor y cuadro de hiponatremia secundaria a SIADH.",
+        "En el tercer día post-QT el paciente comienza con cuadro febril, dolor abdominal y vómitos en posos de café, con sospecha de patología abdominal grave pero debido al mal estado general del paciente, no es candidato a UCI ni tampoco puede realizarse TC abdominal y finalmente fallece."
+    ],
+    "text": "Anamnesis\nVarón de 56 años, exfumador desde hace 6 meses, con los siguientes antecedentes personales: hipertensión, diabetes mellitus tipo 2, hipertiroidismo e intervenido de hemicolectomía con colostomía transversa por obstrucción intestinal y aneurisma de aorta abdominal vía endovascular. No presentaba antecedentes familiares de interés.\n\nEl paciente acude a urgencias porque refiere dolor anal de 2-3 meses de evolución que no mejora con tratamiento analgésico y medidas higiénico-dietéticas, con diagnóstico de fisura anal. El dolor es de carácter intermitente, irradiado a testículos, no relacionado con la defecación, sin emisión de sangre ni productos patológicos, además de polaquiuria, estranguria y nicturia. En los últimos días, refiere tenesmo rectal y vesical. Sin fiebre ni síndrome constitucional.\n\nExploración física\nInspección anal normal, sin hipertonía del esfínter, no se aprecia fisura anal. Tacto rectal con próstata grande, dura, muy dolorosa a la palpación.\nPruebas complementarias\n- Analítica: hemograma, bioquímica y coagulación dentro de los valores normales. CEA 745,7 PSA 1,79.\n- Resonancia magnética (RM) de pelvis: masa tumoral de unos 6,5 x 5,5 x 3 cm, dependiente del lóbulo prostático derecho, de morfología irregular e intensidad de señal heterogénea, con extensión extracapsular hacia el paquete neurovascular derecho y hacia las vesículas seminales derechas y el suelo de la vejiga.\n- Tomografía computarizada (TC) toraco-abdomino-pélvica: múltiples imágenes nodulares subcentimétricas en ambos campos pulmonares en relación con metástasis. Múltiples imágenes hipodensas en ambos lóbulos hepáticos sospechosas de malignidad. Adenopatías en ambas cadenas ilíacas externas e internas.\n- Gammagrafía ósea (GGO): captación aumentada en escápula derecha, fémur izquierdo, acetábulo derecho y, para completar estudio se obtienen imágenes con SPECT-TC de columna lumbar visualizándose hipercaptación en cuerpo vertebral de L4, S1, apófisis espinosa de L2, acetábulo derecho e ilíaco izquierdo.\n- Biopsia de próstata: carcinoma neuroendocrino de célula pequeña de próstata, con infiltración perineural y positividad a los marcadores neuroendocrino (sinaptofisina, cromogranina y enolasa) y citoqueratina AE1/AE3.\n\nDiagnóstico\nCarcinoma neuroendocrino microcítico de próstata con metástasis pulmonares, hepáticas y óseas, estadio IV (T4N2M1).\n\nTratamiento\nTras control de los síntomas, se pauta primer y único ciclo de QT con cisplatino y etopósido. Se realizó una hoja de interconsulta a Oncología Radioterápica paliativa para valorar radioterapia antiálgica pélvica por dolor que no cede con derivados mórficos, pero descartaron su administración de forma concomitante con QT por toxicidad.\n\nEvolución\nEl paciente fue ingresado en el servicio de Cirugía general por sospecha de fisura anal rebelde a tratamiento. Tras descartarla y sospechar prostatitis realizan una hoja de interconsulta a Urología, que solicitan RM pélvica con resultados de probable carcinoma de próstata, el cual es confirmado tras biopsia. Se realiza estudio de extensión con TC y GGO, detectándose metástasis a nivel óseo, hepático y pulmonar.\nDurante el ingreso el dolor es incontrolable, lo cual precisa seguimiento y tratamiento por la Unidad del dolor. El dolor es tan intenso que incluso se plantea sedación.\nTras el diagnóstico pasa a cargo de Oncología para inicio de quimioterapia (QT) paliativa, pero se retrasa por mal control del dolor y cuadro de hiponatremia secundaria a SIADH.\nEn el tercer día post-QT el paciente comienza con cuadro febril, dolor abdominal y vómitos en posos de café, con sospecha de patología abdominal grave pero debido al mal estado general del paciente, no es candidato a UCI ni tampoco puede realizarse TC abdominal y finalmente fallece."
+}

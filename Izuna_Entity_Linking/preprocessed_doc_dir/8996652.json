@@ -1,0 +1,102 @@
+{
+    "title": "Risk factors of sensorineural hearing loss in preterm infants.",
+    "abst": "Among 547 preterm infants of < or = 34 weeks gestation born between 1987 and 1991, 8 children (1.46%) developed severe progressive and bilateral sensorineural hearing loss. Perinatal risk factors of infants with hearing loss were compared with those of two control groups matched for gestation and birth weight and for perinatal complications. Our observations demonstrated an association of hearing loss with a higher incidence of perinatal complications. Ototoxicity appeared closely related to a prolonged administration and higher total dose of ototoxic drugs, particularly aminoglycosides and furosemide. Finally, we strongly recommend to prospectively and regularly perform audiologic assessment in sick preterm children as hearing loss is of delayed onset and in most cases bilateral and severe.",
+    "title_plus_abst": "Risk factors of sensorineural hearing loss in preterm infants. Among 547 preterm infants of < or = 34 weeks gestation born between 1987 and 1991, 8 children (1.46%) developed severe progressive and bilateral sensorineural hearing loss. Perinatal risk factors of infants with hearing loss were compared with those of two control groups matched for gestation and birth weight and for perinatal complications. Our observations demonstrated an association of hearing loss with a higher incidence of perinatal complications. Ototoxicity appeared closely related to a prolonged administration and higher total dose of ototoxic drugs, particularly aminoglycosides and furosemide. Finally, we strongly recommend to prospectively and regularly perform audiologic assessment in sick preterm children as hearing loss is of delayed onset and in most cases bilateral and severe.",
+    "pubmed_id": "8996652",
+    "entities": [
+        [
+            16,
+            42,
+            "sensorineural hearing loss",
+            "Disease",
+            "D006319"
+        ],
+        [
+            208,
+            234,
+            "sensorineural hearing loss",
+            "Disease",
+            "D006319"
+        ],
+        [
+            275,
+            287,
+            "hearing loss",
+            "Disease",
+            "D034381"
+        ],
+        [
+            455,
+            467,
+            "hearing loss",
+            "Disease",
+            "D034381"
+        ],
+        [
+            520,
+            531,
+            "Ototoxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            612,
+            620,
+            "ototoxic",
+            "Disease",
+            "D006311"
+        ],
+        [
+            641,
+            656,
+            "aminoglycosides",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            661,
+            671,
+            "furosemide",
+            "Chemical",
+            "D005665"
+        ],
+        [
+            793,
+            805,
+            "hearing loss",
+            "Disease",
+            "D034381"
+        ]
+    ],
+    "split_sentence": [
+        "Risk factors of sensorineural hearing loss in preterm infants.",
+        "Among 547 preterm infants of < or = 34 weeks gestation born between 1987 and 1991, 8 children (1.46%) developed severe progressive and bilateral sensorineural hearing loss.",
+        "Perinatal risk factors of infants with hearing loss were compared with those of two control groups matched for gestation and birth weight and for perinatal complications.",
+        "Our observations demonstrated an association of hearing loss with a higher incidence of perinatal complications.",
+        "Ototoxicity appeared closely related to a prolonged administration and higher total dose of ototoxic drugs, particularly aminoglycosides and furosemide.",
+        "Finally, we strongly recommend to prospectively and regularly perform audiologic assessment in sick preterm children as hearing loss is of delayed onset and in most cases bilateral and severe."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006319\tDisease\tsensorineural hearing loss\tRisk factors of <target> sensorineural hearing loss </target> in preterm infants .",
+        "D006319\tDisease\tsensorineural hearing loss\tAmong 547 preterm infants of < or = 34 weeks gestation born between 1987 and 1991 , 8 children ( 1.46 % ) developed severe progressive and bilateral <target> sensorineural hearing loss </target> .",
+        "D034381\tDisease\thearing loss\tPerinatal risk factors of infants with <target> hearing loss </target> were compared with those of two control groups matched for gestation and birth weight and for perinatal complications .",
+        "D034381\tDisease\thearing loss\tOur observations demonstrated an association of <target> hearing loss </target> with a higher incidence of perinatal complications .",
+        "D006311\tDisease\tOtotoxicity\t<target> Ototoxicity </target> appeared closely related to a prolonged administration and higher total dose of ototoxic drugs , particularly aminoglycosides and furosemide .",
+        "D006311\tDisease\tototoxic\tOtotoxicity appeared closely related to a prolonged administration and higher total dose of <target> ototoxic </target> drugs , particularly aminoglycosides and furosemide .",
+        "D000617\tChemical\taminoglycosides\tOtotoxicity appeared closely related to a prolonged administration and higher total dose of ototoxic drugs , particularly <target> aminoglycosides </target> and furosemide .",
+        "D005665\tChemical\tfurosemide\tOtotoxicity appeared closely related to a prolonged administration and higher total dose of ototoxic drugs , particularly aminoglycosides and <target> furosemide </target> .",
+        "D034381\tDisease\thearing loss\tFinally , we strongly recommend to prospectively and regularly perform audiologic assessment in sick preterm children as <target> hearing loss </target> is of delayed onset and in most cases bilateral and severe ."
+    ],
+    "lines_lemma": [
+        "D006319\tDisease\tsensorineural hearing loss\trisk factor of <target> sensorineural hear loss </target> in preterm infant .",
+        "D006319\tDisease\tsensorineural hearing loss\tamong 547 preterm infant of < or = 34 week gestation bear between 1987 and 1991 , 8 child ( 1.46 % ) develop severe progressive and bilateral <target> sensorineural hear loss </target> .",
+        "D034381\tDisease\thearing loss\tperinatal risk factor of infant with <target> hearing loss </target> be compare with those of two control group match for gestation and birth weight and for perinatal complication .",
+        "D034381\tDisease\thearing loss\tour observation demonstrate an association of <target> hearing loss </target> with a high incidence of perinatal complication .",
+        "D006311\tDisease\tOtotoxicity\t<target> Ototoxicity </target> appear closely related to a prolonged administration and high total dose of ototoxic drug , particularly aminoglycoside and furosemide .",
+        "D006311\tDisease\tototoxic\tototoxicity appear closely related to a prolonged administration and high total dose of <target> ototoxic </target> drug , particularly aminoglycoside and furosemide .",
+        "D000617\tChemical\taminoglycosides\tototoxicity appear closely related to a prolonged administration and high total dose of ototoxic drug , particularly <target> aminoglycoside </target> and furosemide .",
+        "D005665\tChemical\tfurosemide\tototoxicity appear closely related to a prolonged administration and high total dose of ototoxic drug , particularly aminoglycoside and <target> furosemide </target> .",
+        "D034381\tDisease\thearing loss\tfinally , we strongly recommend to prospectively and regularly perform audiologic assessment in sick preterm child as <target> hearing loss </target> be of delay onset and in most case bilateral and severe ."
+    ]
+}

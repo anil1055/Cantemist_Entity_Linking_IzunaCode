@@ -1,0 +1,91 @@
+{
+    "title": "rTMS of supplementary motor area modulates therapy-induced dyskinesias in Parkinson disease.",
+    "abst": "The neural mechanisms and circuitry involved in levodopa-induced dyskinesia are unclear. Using repetitive transcranial magnetic stimulation (rTMS) over the supplementary motor area (SMA) in a group of patients with advanced Parkinson disease, the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion. rTMS at 1 Hz was observed to markedly reduce drug-induced dyskinesias, whereas 5-Hz rTMS induced a slight but not significant increase.",
+    "title_plus_abst": "rTMS of supplementary motor area modulates therapy-induced dyskinesias in Parkinson disease. The neural mechanisms and circuitry involved in levodopa-induced dyskinesia are unclear. Using repetitive transcranial magnetic stimulation (rTMS) over the supplementary motor area (SMA) in a group of patients with advanced Parkinson disease, the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion. rTMS at 1 Hz was observed to markedly reduce drug-induced dyskinesias, whereas 5-Hz rTMS induced a slight but not significant increase.",
+    "pubmed_id": "16116131",
+    "entities": [
+        [
+            59,
+            70,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            74,
+            91,
+            "Parkinson disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            141,
+            149,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            158,
+            168,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            317,
+            334,
+            "Parkinson disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            434,
+            444,
+            "dyskinetic",
+            "Disease",
+            "D004409"
+        ],
+        [
+            473,
+            484,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            540,
+            564,
+            "drug-induced dyskinesias",
+            "Disease",
+            "D004409"
+        ]
+    ],
+    "split_sentence": [
+        "rTMS of supplementary motor area modulates therapy-induced dyskinesias in Parkinson disease.",
+        "The neural mechanisms and circuitry involved in levodopa-induced dyskinesia are unclear.",
+        "Using repetitive transcranial magnetic stimulation (rTMS) over the supplementary motor area (SMA) in a group of patients with advanced Parkinson disease, the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion.",
+        "rTMS at 1 Hz was observed to markedly reduce drug-induced dyskinesias, whereas 5-Hz rTMS induced a slight but not significant increase."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004409\tDisease\tdyskinesias\trTMS of supplementary motor area modulates therapy-induced <target> dyskinesias </target> in Parkinson disease .",
+        "D010300\tDisease\tParkinson disease\trTMS of supplementary motor area modulates therapy-induced dyskinesias in <target> Parkinson disease </target> .",
+        "D007980\tChemical\tlevodopa\tThe neural mechanisms and circuitry involved in <target> levodopa </target> -induced dyskinesia are unclear .",
+        "D004409\tDisease\tdyskinesia\tThe neural mechanisms and circuitry involved in levodopa-induced <target> dyskinesia </target> are unclear .",
+        "D010300\tDisease\tParkinson disease\tUsing repetitive transcranial magnetic stimulation ( rTMS ) over the supplementary motor area ( SMA ) in a group of patients with advanced <target> Parkinson disease </target> , the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion .",
+        "D004409\tDisease\tdyskinetic\tUsing repetitive transcranial magnetic stimulation ( rTMS ) over the supplementary motor area ( SMA ) in a group of patients with advanced Parkinson disease , the authors investigated whether modulation of SMA excitability may result in a modification of a <target> dyskinetic </target> state induced by continuous apomorphine infusion .",
+        "D001058\tChemical\tapomorphine\tUsing repetitive transcranial magnetic stimulation ( rTMS ) over the supplementary motor area ( SMA ) in a group of patients with advanced Parkinson disease , the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous <target> apomorphine </target> infusion .",
+        "D004409\tDisease\tdrug-induced dyskinesias\trTMS at 1 Hz was observed to markedly reduce <target> drug-induced dyskinesias </target> , whereas 5-Hz rTMS induced a slight but not significant increase ."
+    ],
+    "lines_lemma": [
+        "D004409\tDisease\tdyskinesias\trtm of supplementary motor area modulate therapy-induced <target> dyskinesia </target> in parkinson disease .",
+        "D010300\tDisease\tParkinson disease\trtm of supplementary motor area modulate therapy-induced dyskinesia in <target> parkinson disease </target> .",
+        "D007980\tChemical\tlevodopa\tthe neural mechanism and circuitry involve in <target> levodopa </target> -induced dyskinesia be unclear .",
+        "D004409\tDisease\tdyskinesia\tthe neural mechanism and circuitry involve in levodopa-induced <target> dyskinesia </target> be unclear .",
+        "D010300\tDisease\tParkinson disease\tuse repetitive transcranial magnetic stimulation ( rtm ) over the supplementary motor area ( sma ) in a group of patient with advanced <target> parkinson disease </target> , the author investigate whether modulation of sma excitability may result in a modification of a dyskinetic state induce by continuous apomorphine infusion .",
+        "D004409\tDisease\tdyskinetic\tuse repetitive transcranial magnetic stimulation ( rtm ) over the supplementary motor area ( sma ) in a group of patient with advanced parkinson disease , the author investigate whether modulation of sma excitability may result in a modification of a <target> dyskinetic </target> state induce by continuous apomorphine infusion .",
+        "D001058\tChemical\tapomorphine\tuse repetitive transcranial magnetic stimulation ( rtm ) over the supplementary motor area ( sma ) in a group of patient with advanced parkinson disease , the author investigate whether modulation of sma excitability may result in a modification of a dyskinetic state induce by continuous <target> apomorphine </target> infusion .",
+        "D004409\tDisease\tdrug-induced dyskinesias\trtm at 1 Hz be observe to markedly reduce <target> drug-induced dyskinesia </target> , whereas 5-hz rtm induce a slight but not significant increase ."
+    ]
+}

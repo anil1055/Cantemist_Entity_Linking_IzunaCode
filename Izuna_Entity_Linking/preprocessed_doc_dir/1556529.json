@@ -1,0 +1,92 @@
+{
+    "title": "Zidovudine-induced hepatitis.",
+    "abst": "A case of acute hepatitis induced by zidovudine in a 38-year-old patient with AIDS is presented. The mechanism whereby the hepatitis was induced is not known. However, the patient tolerated well an alternative reverse transcriptase inhibitor, 2'3' dideoxyinosine. Physicians caring for patients with AIDS should be aware of this hitherto rarely reported complication.",
+    "title_plus_abst": "Zidovudine-induced hepatitis. A case of acute hepatitis induced by zidovudine in a 38-year-old patient with AIDS is presented. The mechanism whereby the hepatitis was induced is not known. However, the patient tolerated well an alternative reverse transcriptase inhibitor, 2'3' dideoxyinosine. Physicians caring for patients with AIDS should be aware of this hitherto rarely reported complication.",
+    "pubmed_id": "1556529",
+    "entities": [
+        [
+            0,
+            10,
+            "Zidovudine",
+            "Chemical",
+            "D015215"
+        ],
+        [
+            19,
+            28,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            46,
+            55,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            67,
+            77,
+            "zidovudine",
+            "Chemical",
+            "D015215"
+        ],
+        [
+            108,
+            112,
+            "AIDS",
+            "Disease",
+            "D000163"
+        ],
+        [
+            153,
+            162,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            273,
+            292,
+            "2'3' dideoxyinosine",
+            "Chemical",
+            "D016049"
+        ],
+        [
+            330,
+            334,
+            "AIDS",
+            "Disease",
+            "D000163"
+        ]
+    ],
+    "split_sentence": [
+        "Zidovudine-induced hepatitis.",
+        "A case of acute hepatitis induced by zidovudine in a 38-year-old patient with AIDS is presented.",
+        "The mechanism whereby the hepatitis was induced is not known.",
+        "However, the patient tolerated well an alternative reverse transcriptase inhibitor, 2'3' dideoxyinosine.",
+        "Physicians caring for patients with AIDS should be aware of this hitherto rarely reported complication."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015215\tChemical\tZidovudine\t<target> Zidovudine </target> -induced hepatitis .",
+        "D056486\tDisease\thepatitis\tZidovudine-induced <target> hepatitis </target> .",
+        "D056486\tDisease\thepatitis\tA case of acute <target> hepatitis </target> induced by zidovudine in a 38-year-old patient with AIDS is presented .",
+        "D015215\tChemical\tzidovudine\tA case of acute hepatitis induced by <target> zidovudine </target> in a 38-year-old patient with AIDS is presented .",
+        "D000163\tDisease\tAIDS\tA case of acute hepatitis induced by zidovudine in a 38-year-old patient with <target> AIDS </target> is presented .",
+        "D056486\tDisease\thepatitis\tThe mechanism whereby the <target> hepatitis </target> was induced is not known .",
+        "D016049\tChemical\t2'3' dideoxyinosine\tHowever , the patient tolerated well an alternative reverse transcriptase inhibitor , <target> 2'3 ' dideoxyinosine </target> .",
+        "D000163\tDisease\tAIDS\tPhysicians caring for patients with <target> AIDS </target> should be aware of this hitherto rarely reported complication ."
+    ],
+    "lines_lemma": [
+        "D015215\tChemical\tZidovudine\t<target> zidovudine </target> -induced hepatitis .",
+        "D056486\tDisease\thepatitis\tzidovudine-induced <target> hepatitis </target> .",
+        "D056486\tDisease\thepatitis\ta case of acute <target> hepatitis </target> induce by zidovudine in a 38-year-old patient with aids be present .",
+        "D015215\tChemical\tzidovudine\ta case of acute hepatitis induce by <target> zidovudine </target> in a 38-year-old patient with aids be present .",
+        "D000163\tDisease\tAIDS\ta case of acute hepatitis induce by zidovudine in a 38-year-old patient with <target> AIDS </target> be present .",
+        "D056486\tDisease\thepatitis\tthe mechanism whereby the <target> hepatitis </target> be induce be not know .",
+        "D016049\tChemical\t2'3' dideoxyinosine\thowever , the patient tolerate well an alternative reverse transcriptase inhibitor , <target> 2'3 ' dideoxyinosine </target> .",
+        "D000163\tDisease\tAIDS\tphysician care for patient with <target> AIDS </target> should be aware of this hitherto rarely report complication ."
+    ]
+}

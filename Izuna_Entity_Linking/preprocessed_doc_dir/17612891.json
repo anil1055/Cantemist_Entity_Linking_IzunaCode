@@ -1,0 +1,161 @@
+{
+    "title": "Acute myocarditis associated with clozapine.",
+    "abst": "OBJECTIVE: A case of acute myocarditis associated with the commencement of clozapine is described, highlighting the onset, course and possible contributing factors. There is an urgent need to raise awareness about this potentially fatal complication of clozapine use. RESULTS: A 20-year-old male with schizophrenia developed a sudden onset of myocarditis after commencement of clozapine. The patient recovered with intensive medical support. The symptoms occurred around 2 weeks after starting clozapine in an inpatient setting. Possible contributing factors may have been concomitant antidepressant use and unaccustomed physical activity. CONCLUSIONS: Myocarditis is an increasingly recognized complication associated with the use of clozapine. It can be fatal if not recognized and treated early. Considering that clozapine remains the gold standard in treatment of resistant psychosis, there is an urgent need to raise awareness among medical and paramedical staff involved in the care of these patients. There are also implications for recommendations and regulations regarding the use of clozapine.",
+    "title_plus_abst": "Acute myocarditis associated with clozapine. OBJECTIVE: A case of acute myocarditis associated with the commencement of clozapine is described, highlighting the onset, course and possible contributing factors. There is an urgent need to raise awareness about this potentially fatal complication of clozapine use. RESULTS: A 20-year-old male with schizophrenia developed a sudden onset of myocarditis after commencement of clozapine. The patient recovered with intensive medical support. The symptoms occurred around 2 weeks after starting clozapine in an inpatient setting. Possible contributing factors may have been concomitant antidepressant use and unaccustomed physical activity. CONCLUSIONS: Myocarditis is an increasingly recognized complication associated with the use of clozapine. It can be fatal if not recognized and treated early. Considering that clozapine remains the gold standard in treatment of resistant psychosis, there is an urgent need to raise awareness among medical and paramedical staff involved in the care of these patients. There are also implications for recommendations and regulations regarding the use of clozapine.",
+    "pubmed_id": "17612891",
+    "entities": [
+        [
+            6,
+            17,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            34,
+            43,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            72,
+            83,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            120,
+            129,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            298,
+            307,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            346,
+            359,
+            "schizophrenia",
+            "Disease",
+            "D012559"
+        ],
+        [
+            388,
+            399,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            422,
+            431,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            539,
+            548,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            630,
+            644,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            698,
+            709,
+            "Myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            780,
+            789,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            861,
+            870,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ],
+        [
+            923,
+            932,
+            "psychosis",
+            "Disease",
+            "D011618"
+        ],
+        [
+            1138,
+            1147,
+            "clozapine",
+            "Chemical",
+            "D003024"
+        ]
+    ],
+    "split_sentence": [
+        "Acute myocarditis associated with clozapine.",
+        "OBJECTIVE: A case of acute myocarditis associated with the commencement of clozapine is described, highlighting the onset, course and possible contributing factors.",
+        "There is an urgent need to raise awareness about this potentially fatal complication of clozapine use.",
+        "RESULTS: A 20-year-old male with schizophrenia developed a sudden onset of myocarditis after commencement of clozapine.",
+        "The patient recovered with intensive medical support.",
+        "The symptoms occurred around 2 weeks after starting clozapine in an inpatient setting.",
+        "Possible contributing factors may have been concomitant antidepressant use and unaccustomed physical activity.",
+        "CONCLUSIONS: Myocarditis is an increasingly recognized complication associated with the use of clozapine.",
+        "It can be fatal if not recognized and treated early.",
+        "Considering that clozapine remains the gold standard in treatment of resistant psychosis, there is an urgent need to raise awareness among medical and paramedical staff involved in the care of these patients.",
+        "There are also implications for recommendations and regulations regarding the use of clozapine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009205\tDisease\tmyocarditis\tAcute <target> myocarditis </target> associated with clozapine .",
+        "D003024\tChemical\tclozapine\tAcute myocarditis associated with <target> clozapine </target> .",
+        "D009205\tDisease\tmyocarditis\tOBJECTIVE : A case of acute <target> myocarditis </target> associated with the commencement of clozapine is described , highlighting the onset , course and possible contributing factors .",
+        "D003024\tChemical\tclozapine\tOBJECTIVE : A case of acute myocarditis associated with the commencement of <target> clozapine </target> is described , highlighting the onset , course and possible contributing factors .",
+        "D003024\tChemical\tclozapine\tThere is an urgent need to raise awareness about this potentially fatal complication of <target> clozapine </target> use .",
+        "D012559\tDisease\tschizophrenia\tRESULTS : A 20-year-old male with <target> schizophrenia </target> developed a sudden onset of myocarditis after commencement of clozapine .",
+        "D009205\tDisease\tmyocarditis\tRESULTS : A 20-year-old male with schizophrenia developed a sudden onset of <target> myocarditis </target> after commencement of clozapine .",
+        "D003024\tChemical\tclozapine\tRESULTS : A 20-year-old male with schizophrenia developed a sudden onset of myocarditis after commencement of <target> clozapine </target> .",
+        "D003024\tChemical\tclozapine\tThe symptoms occurred around 2 weeks after starting <target> clozapine </target> in an inpatient setting .",
+        "D000928\tChemical\tantidepressant\tPossible contributing factors may have been concomitant <target> antidepressant </target> use and unaccustomed physical activity .",
+        "D009205\tDisease\tMyocarditis\tCONCLUSIONS : <target> Myocarditis </target> is an increasingly recognized complication associated with the use of clozapine .",
+        "D003024\tChemical\tclozapine\tCONCLUSIONS : Myocarditis is an increasingly recognized complication associated with the use of <target> clozapine </target> .",
+        "D003024\tChemical\tclozapine\tConsidering that <target> clozapine </target> remains the gold standard in treatment of resistant psychosis , there is an urgent need to raise awareness among medical and paramedical staff involved in the care of these patients .",
+        "D011618\tDisease\tpsychosis\tConsidering that clozapine remains the gold standard in treatment of resistant <target> psychosis </target> , there is an urgent need to raise awareness among medical and paramedical staff involved in the care of these patients .",
+        "D003024\tChemical\tclozapine\tThere are also implications for recommendations and regulations regarding the use of <target> clozapine </target> ."
+    ],
+    "lines_lemma": [
+        "D009205\tDisease\tmyocarditis\tacute <target> myocarditis </target> associate with clozapine .",
+        "D003024\tChemical\tclozapine\tacute myocarditis associate with <target> clozapine </target> .",
+        "D009205\tDisease\tmyocarditis\tobjective : a case of acute <target> myocarditis </target> associate with the commencement of clozapine be describe , highlight the onset , course and possible contribute factor .",
+        "D003024\tChemical\tclozapine\tobjective : a case of acute myocarditis associate with the commencement of <target> clozapine </target> be describe , highlight the onset , course and possible contribute factor .",
+        "D003024\tChemical\tclozapine\tthere be an urgent need to raise awareness about this potentially fatal complication of <target> clozapine </target> use .",
+        "D012559\tDisease\tschizophrenia\tresult : a 20-year-old male with <target> schizophrenia </target> develop a sudden onset of myocarditis after commencement of clozapine .",
+        "D009205\tDisease\tmyocarditis\tresult : a 20-year-old male with schizophrenia develop a sudden onset of <target> myocarditis </target> after commencement of clozapine .",
+        "D003024\tChemical\tclozapine\tresult : a 20-year-old male with schizophrenia develop a sudden onset of myocarditis after commencement of <target> clozapine </target> .",
+        "D003024\tChemical\tclozapine\tthe symptom occur around 2 week after start <target> clozapine </target> in an inpatient setting .",
+        "D000928\tChemical\tantidepressant\tpossible contribute factor may have be concomitant <target> antidepressant </target> use and unaccustomed physical activity .",
+        "D009205\tDisease\tMyocarditis\tconclusion : <target> Myocarditis </target> be an increasingly recognize complication associate with the use of clozapine .",
+        "D003024\tChemical\tclozapine\tconclusion : Myocarditis be an increasingly recognize complication associate with the use of <target> clozapine </target> .",
+        "D003024\tChemical\tclozapine\tconsider that <target> clozapine </target> remain the gold standard in treatment of resistant psychosis , there be an urgent need to raise awareness among medical and paramedical staff involve in the care of these patient .",
+        "D011618\tDisease\tpsychosis\tconsider that clozapine remain the gold standard in treatment of resistant <target> psychosis </target> , there be an urgent need to raise awareness among medical and paramedical staff involve in the care of these patient .",
+        "D003024\tChemical\tclozapine\tthere be also implication for recommendation and regulation regard the use of <target> clozapine </target> ."
+    ]
+}

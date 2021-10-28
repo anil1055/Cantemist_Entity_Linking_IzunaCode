@@ -1,0 +1,101 @@
+{
+    "title": "Gentamicin nephropathy in a neonate.",
+    "abst": "The clinical and autopsy findings in a premature baby who died of acute renal failure after therapy with gentamicin (5 mg/kg/day) and penicillin are presented. The serum gentamicin concentration had reached toxic levels when anuria developed. Numerous periodic acid Schiff (PAS) positive, diastase resistant cytoplasmic inclusion bodies which appeared as myelin figures in cytosegresomes under the electron microscope were identified in the proximal convoluted tubules. The pathological changes induced by gentamicin in the human neonatal kidneys have not been previously reported.",
+    "title_plus_abst": "Gentamicin nephropathy in a neonate. The clinical and autopsy findings in a premature baby who died of acute renal failure after therapy with gentamicin (5 mg/kg/day) and penicillin are presented. The serum gentamicin concentration had reached toxic levels when anuria developed. Numerous periodic acid Schiff (PAS) positive, diastase resistant cytoplasmic inclusion bodies which appeared as myelin figures in cytosegresomes under the electron microscope were identified in the proximal convoluted tubules. The pathological changes induced by gentamicin in the human neonatal kidneys have not been previously reported.",
+    "pubmed_id": "4069770",
+    "entities": [
+        [
+            0,
+            10,
+            "Gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            11,
+            22,
+            "nephropathy",
+            "Disease",
+            "D007674"
+        ],
+        [
+            103,
+            122,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            142,
+            152,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            171,
+            181,
+            "penicillin",
+            "Chemical",
+            "D010406"
+        ],
+        [
+            207,
+            217,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            262,
+            268,
+            "anuria",
+            "Disease",
+            "D001002"
+        ],
+        [
+            289,
+            302,
+            "periodic acid",
+            "Chemical",
+            "D010504"
+        ],
+        [
+            543,
+            553,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ]
+    ],
+    "split_sentence": [
+        "Gentamicin nephropathy in a neonate.",
+        "The clinical and autopsy findings in a premature baby who died of acute renal failure after therapy with gentamicin (5 mg/kg/day) and penicillin are presented.",
+        "The serum gentamicin concentration had reached toxic levels when anuria developed.",
+        "Numerous periodic acid Schiff (PAS) positive, diastase resistant cytoplasmic inclusion bodies which appeared as myelin figures in cytosegresomes under the electron microscope were identified in the proximal convoluted tubules.",
+        "The pathological changes induced by gentamicin in the human neonatal kidneys have not been previously reported."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005839\tChemical\tGentamicin\t<target> Gentamicin </target> nephropathy in a neonate .",
+        "D007674\tDisease\tnephropathy\tGentamicin <target> nephropathy </target> in a neonate .",
+        "D058186\tDisease\tacute renal failure\tThe clinical and autopsy findings in a premature baby who died of <target> acute renal failure </target> after therapy with gentamicin ( 5 mg/kg/day ) and penicillin are presented .",
+        "D005839\tChemical\tgentamicin\tThe clinical and autopsy findings in a premature baby who died of acute renal failure after therapy with <target> gentamicin </target> ( 5 mg/kg/day ) and penicillin are presented .",
+        "D010406\tChemical\tpenicillin\tThe clinical and autopsy findings in a premature baby who died of acute renal failure after therapy with gentamicin ( 5 mg/kg/day ) and <target> penicillin </target> are presented .",
+        "D005839\tChemical\tgentamicin\tThe serum <target> gentamicin </target> concentration had reached toxic levels when anuria developed .",
+        "D001002\tDisease\tanuria\tThe serum gentamicin concentration had reached toxic levels when <target> anuria </target> developed .",
+        "D010504\tChemical\tperiodic acid\tNumerous <target> periodic acid </target> Schiff ( PAS ) positive , diastase resistant cytoplasmic inclusion bodies which appeared as myelin figures in cytosegresomes under the electron microscope were identified in the proximal convoluted tubules .",
+        "D005839\tChemical\tgentamicin\tThe pathological changes induced by <target> gentamicin </target> in the human neonatal kidneys have not been previously reported ."
+    ],
+    "lines_lemma": [
+        "D005839\tChemical\tGentamicin\t<target> gentamicin </target> nephropathy in a neonate .",
+        "D007674\tDisease\tnephropathy\tgentamicin <target> nephropathy </target> in a neonate .",
+        "D058186\tDisease\tacute renal failure\tthe clinical and autopsy finding in a premature baby who die of <target> acute renal failure </target> after therapy with gentamicin ( 5 mg/kg/day ) and penicillin be present .",
+        "D005839\tChemical\tgentamicin\tthe clinical and autopsy finding in a premature baby who die of acute renal failure after therapy with <target> gentamicin </target> ( 5 mg/kg/day ) and penicillin be present .",
+        "D010406\tChemical\tpenicillin\tthe clinical and autopsy finding in a premature baby who die of acute renal failure after therapy with gentamicin ( 5 mg/kg/day ) and <target> penicillin </target> be present .",
+        "D005839\tChemical\tgentamicin\tthe serum <target> gentamicin </target> concentration have reach toxic level when anuria develop .",
+        "D001002\tDisease\tanuria\tthe serum gentamicin concentration have reach toxic level when <target> anuria </target> develop .",
+        "D010504\tChemical\tperiodic acid\tnumerous <target> periodic acid </target> Schiff ( pas ) positive , diastase resistant cytoplasmic inclusion body which appear as myelin figure in cytosegresome under the electron microscope be identify in the proximal convolute tubule .",
+        "D005839\tChemical\tgentamicin\tthe pathological change induce by <target> gentamicin </target> in the human neonatal kidney have not be previously report ."
+    ]
+}

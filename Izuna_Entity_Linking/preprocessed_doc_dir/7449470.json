@@ -1,0 +1,82 @@
+{
+    "title": "Late, late doxorubicin cardiotoxicity.",
+    "abst": "Cardiac toxicity is a major complication which limits the use of adriamycin as a chemotherapeutic agent. Cardiomyopathy is frequent when the total dose exceeds 600 mg/m2 and occurs within one to six months after cessation of therapy. A patient is reported who developed progressive cardiomyopathy two and one-half years after receiving 580 mg/m2 which apparently represents late, late cardiotoxicity.",
+    "title_plus_abst": "Late, late doxorubicin cardiotoxicity. Cardiac toxicity is a major complication which limits the use of adriamycin as a chemotherapeutic agent. Cardiomyopathy is frequent when the total dose exceeds 600 mg/m2 and occurs within one to six months after cessation of therapy. A patient is reported who developed progressive cardiomyopathy two and one-half years after receiving 580 mg/m2 which apparently represents late, late cardiotoxicity.",
+    "pubmed_id": "7449470",
+    "entities": [
+        [
+            11,
+            22,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            23,
+            37,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            39,
+            55,
+            "Cardiac toxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            104,
+            114,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            144,
+            158,
+            "Cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            321,
+            335,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            424,
+            438,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ]
+    ],
+    "split_sentence": [
+        "Late, late doxorubicin cardiotoxicity.",
+        "Cardiac toxicity is a major complication which limits the use of adriamycin as a chemotherapeutic agent.",
+        "Cardiomyopathy is frequent when the total dose exceeds 600 mg/m2 and occurs within one to six months after cessation of therapy.",
+        "A patient is reported who developed progressive cardiomyopathy two and one-half years after receiving 580 mg/m2 which apparently represents late, late cardiotoxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004317\tChemical\tdoxorubicin\tLate , late <target> doxorubicin </target> cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tLate , late doxorubicin <target> cardiotoxicity </target> .",
+        "D066126\tDisease\tCardiac toxicity\t<target> Cardiac toxicity </target> is a major complication which limits the use of adriamycin as a chemotherapeutic agent .",
+        "D004317\tChemical\tadriamycin\tCardiac toxicity is a major complication which limits the use of <target> adriamycin </target> as a chemotherapeutic agent .",
+        "D009202\tDisease\tCardiomyopathy\t<target> Cardiomyopathy </target> is frequent when the total dose exceeds 600 mg/m2 and occurs within one to six months after cessation of therapy .",
+        "D009202\tDisease\tcardiomyopathy\tA patient is reported who developed progressive <target> cardiomyopathy </target> two and one-half years after receiving 580 mg/m2 which apparently represents late , late cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tA patient is reported who developed progressive cardiomyopathy two and one-half years after receiving 580 mg/m2 which apparently represents late , late <target> cardiotoxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D004317\tChemical\tdoxorubicin\tlate , late <target> doxorubicin </target> cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\tlate , late doxorubicin <target> cardiotoxicity </target> .",
+        "D066126\tDisease\tCardiac toxicity\t<target> cardiac toxicity </target> be a major complication which limit the use of adriamycin as a chemotherapeutic agent .",
+        "D004317\tChemical\tadriamycin\tcardiac toxicity be a major complication which limit the use of <target> adriamycin </target> as a chemotherapeutic agent .",
+        "D009202\tDisease\tCardiomyopathy\t<target> Cardiomyopathy </target> be frequent when the total dose exceed 600 mg/m2 and occur within one to six month after cessation of therapy .",
+        "D009202\tDisease\tcardiomyopathy\ta patient be report who develop progressive <target> cardiomyopathy </target> two and one-half year after receive 580 mg/m2 which apparently represent late , late cardiotoxicity .",
+        "D066126\tDisease\tcardiotoxicity\ta patient be report who develop progressive cardiomyopathy two and one-half year after receive 580 mg/m2 which apparently represent late , late <target> cardiotoxicity </target> ."
+    ]
+}

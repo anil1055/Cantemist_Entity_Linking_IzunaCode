@@ -1,0 +1,227 @@
+{
+    "title": "Levodopa-induced dyskinesias are improved by fluoxetine.",
+    "abst": "We evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with Parkinson's disease after an acute challenge with the mixed dopamine agonist, apomorphine, before and after the administration of fluoxetine (20 mg twice per day) for 11 +/- 1 days. After fluoxetine treatment, there was a significant 47% improvement (p < 0.05) of apomorphine-induced dyskinesias without modification of parkinsonian motor disability. The dyskinesias were reduced predominantly in the lower limbs during the onset and disappearance of dystonic dyskinesias (onset- and end-of-dose dyskinesias) and in the upper limbs during choreic mid-dose dyskinesias. The results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesias without aggravating parkinsonian motor disability.",
+    "title_plus_abst": "Levodopa-induced dyskinesias are improved by fluoxetine. We evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with Parkinson's disease after an acute challenge with the mixed dopamine agonist, apomorphine, before and after the administration of fluoxetine (20 mg twice per day) for 11 +/- 1 days. After fluoxetine treatment, there was a significant 47% improvement (p < 0.05) of apomorphine-induced dyskinesias without modification of parkinsonian motor disability. The dyskinesias were reduced predominantly in the lower limbs during the onset and disappearance of dystonic dyskinesias (onset- and end-of-dose dyskinesias) and in the upper limbs during choreic mid-dose dyskinesias. The results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesias without aggravating parkinsonian motor disability.",
+    "pubmed_id": "7477981",
+    "entities": [
+        [
+            0,
+            8,
+            "Levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            17,
+            28,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            45,
+            55,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            86,
+            102,
+            "motor disability",
+            "Disease",
+            "D009069"
+        ],
+        [
+            107,
+            118,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            128,
+            136,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            162,
+            181,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            222,
+            230,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            240,
+            251,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            292,
+            302,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            350,
+            360,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            426,
+            437,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            446,
+            457,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            482,
+            494,
+            "parkinsonian",
+            "Disease",
+            "D010300"
+        ],
+        [
+            495,
+            511,
+            "motor disability",
+            "Disease",
+            "D009069"
+        ],
+        [
+            517,
+            528,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            658,
+            669,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            805,
+            815,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            827,
+            835,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            840,
+            848,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            865,
+            876,
+            "dyskinesias",
+            "Disease",
+            "D004409"
+        ],
+        [
+            897,
+            909,
+            "parkinsonian",
+            "Disease",
+            "D010300"
+        ],
+        [
+            910,
+            926,
+            "motor disability",
+            "Disease",
+            "D009069"
+        ]
+    ],
+    "split_sentence": [
+        "Levodopa-induced dyskinesias are improved by fluoxetine.",
+        "We evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with Parkinson's disease after an acute challenge with the mixed dopamine agonist, apomorphine, before and after the administration of fluoxetine (20 mg twice per day) for 11 +/- 1 days.",
+        "After fluoxetine treatment, there was a significant 47% improvement (p < 0.05) of apomorphine-induced dyskinesias without modification of parkinsonian motor disability.",
+        "The dyskinesias were reduced predominantly in the lower limbs during the onset and disappearance of dystonic dyskinesias (onset- and end-of-dose dyskinesias) and in the upper limbs during choreic mid-dose dyskinesias.",
+        "The results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesias without aggravating parkinsonian motor disability."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007980\tChemical\tLevodopa\t<target> Levodopa </target> -induced dyskinesias are improved by fluoxetine .",
+        "D004409\tDisease\tdyskinesias\tLevodopa-induced <target> dyskinesias </target> are improved by fluoxetine .",
+        "D005473\tChemical\tfluoxetine\tLevodopa-induced dyskinesias are improved by <target> fluoxetine </target> .",
+        "D009069\tDisease\tmotor disability\tWe evaluated the severity of <target> motor disability </target> and dyskinesias in seven levodopa-responsive patients with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D004409\tDisease\tdyskinesias\tWe evaluated the severity of motor disability and <target> dyskinesias </target> in seven levodopa-responsive patients with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D007980\tChemical\tlevodopa\tWe evaluated the severity of motor disability and dyskinesias in seven <target> levodopa </target> -responsive patients with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D010300\tDisease\tParkinson's disease\tWe evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with <target> Parkinson 's disease </target> after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D004298\tChemical\tdopamine\tWe evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with Parkinson 's disease after an acute challenge with the mixed <target> dopamine </target> agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D001058\tChemical\tapomorphine\tWe evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , <target> apomorphine </target> , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D005473\tChemical\tfluoxetine\tWe evaluated the severity of motor disability and dyskinesias in seven levodopa-responsive patients with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of <target> fluoxetine </target> ( 20 mg twice per day ) for 11 + /- 1 days .",
+        "D005473\tChemical\tfluoxetine\tAfter <target> fluoxetine </target> treatment , there was a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced dyskinesias without modification of parkinsonian motor disability .",
+        "D001058\tChemical\tapomorphine\tAfter fluoxetine treatment , there was a significant 47 % improvement ( p < 0.05 ) of <target> apomorphine </target> -induced dyskinesias without modification of parkinsonian motor disability .",
+        "D004409\tDisease\tdyskinesias\tAfter fluoxetine treatment , there was a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced <target> dyskinesias </target> without modification of parkinsonian motor disability .",
+        "D010300\tDisease\tparkinsonian\tAfter fluoxetine treatment , there was a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced dyskinesias without modification of <target> parkinsonian </target> motor disability .",
+        "D009069\tDisease\tmotor disability\tAfter fluoxetine treatment , there was a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced dyskinesias without modification of parkinsonian <target> motor disability </target> .",
+        "D004409\tDisease\tdyskinesias\tThe <target> dyskinesias </target> were reduced predominantly in the lower limbs during the onset and disappearance of dystonic dyskinesias ( onset- and end-of-dose dyskinesias ) and in the upper limbs during choreic mid-dose dyskinesias .",
+        "D004409\tDisease\tdyskinesias\tThe dyskinesias were reduced predominantly in the lower limbs during the onset and disappearance of dystonic dyskinesias ( onset- and end-of-dose <target> dyskinesias </target> ) and in the upper limbs during choreic mid-dose dyskinesias .",
+        "D005473\tChemical\tfluoxetine\tThe results suggest that increased brain serotoninergic transmission with <target> fluoxetine </target> may reduce levodopa- or dopamine agonist-induced dyskinesias without aggravating parkinsonian motor disability .",
+        "D007980\tChemical\tlevodopa\tThe results suggest that increased brain serotoninergic transmission with fluoxetine may reduce <target> levodopa </target> - or dopamine agonist-induced dyskinesias without aggravating parkinsonian motor disability .",
+        "D004298\tChemical\tdopamine\tThe results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or <target> dopamine </target> agonist-induced dyskinesias without aggravating parkinsonian motor disability .",
+        "D004409\tDisease\tdyskinesias\tThe results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced <target> dyskinesias </target> without aggravating parkinsonian motor disability .",
+        "D010300\tDisease\tparkinsonian\tThe results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesias without aggravating <target> parkinsonian </target> motor disability .",
+        "D009069\tDisease\tmotor disability\tThe results suggest that increased brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesias without aggravating parkinsonian <target> motor disability </target> ."
+    ],
+    "lines_lemma": [
+        "D007980\tChemical\tLevodopa\t<target> levodopa </target> -induced dyskinesia be improve by fluoxetine .",
+        "D004409\tDisease\tdyskinesias\tlevodopa-induced <target> dyskinesia </target> be improve by fluoxetine .",
+        "D005473\tChemical\tfluoxetine\tlevodopa-induced dyskinesia be improve by <target> fluoxetine </target> .",
+        "D009069\tDisease\tmotor disability\twe evaluate the severity of <target> motor disability </target> and dyskinesia in seven levodopa-responsive patient with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D004409\tDisease\tdyskinesias\twe evaluate the severity of motor disability and <target> dyskinesia </target> in seven levodopa-responsive patient with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D007980\tChemical\tlevodopa\twe evaluate the severity of motor disability and dyskinesia in seven <target> levodopa </target> -responsive patient with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D010300\tDisease\tParkinson's disease\twe evaluate the severity of motor disability and dyskinesia in seven levodopa-responsive patient with <target> Parkinson 's disease </target> after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D004298\tChemical\tdopamine\twe evaluate the severity of motor disability and dyskinesia in seven levodopa-responsive patient with Parkinson 's disease after an acute challenge with the mixed <target> dopamine </target> agonist , apomorphine , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D001058\tChemical\tapomorphine\twe evaluate the severity of motor disability and dyskinesia in seven levodopa-responsive patient with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , <target> apomorphine </target> , before and after the administration of fluoxetine ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D005473\tChemical\tfluoxetine\twe evaluate the severity of motor disability and dyskinesia in seven levodopa-responsive patient with Parkinson 's disease after an acute challenge with the mixed dopamine agonist , apomorphine , before and after the administration of <target> fluoxetine </target> ( 20 mg twice per day ) for 11 + /- 1 day .",
+        "D005473\tChemical\tfluoxetine\tafter <target> fluoxetine </target> treatment , there be a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced dyskinesia without modification of parkinsonian motor disability .",
+        "D001058\tChemical\tapomorphine\tafter fluoxetine treatment , there be a significant 47 % improvement ( p < 0.05 ) of <target> apomorphine </target> -induced dyskinesia without modification of parkinsonian motor disability .",
+        "D004409\tDisease\tdyskinesias\tafter fluoxetine treatment , there be a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced <target> dyskinesia </target> without modification of parkinsonian motor disability .",
+        "D010300\tDisease\tparkinsonian\tafter fluoxetine treatment , there be a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced dyskinesia without modification of <target> parkinsonian </target> motor disability .",
+        "D009069\tDisease\tmotor disability\tafter fluoxetine treatment , there be a significant 47 % improvement ( p < 0.05 ) of apomorphine-induced dyskinesia without modification of parkinsonian <target> motor disability </target> .",
+        "D004409\tDisease\tdyskinesias\tthe <target> dyskinesia </target> be reduce predominantly in the low limb during the onset and disappearance of dystonic dyskinesia ( onset- and end-of-dose dyskinesia ) and in the upper limb during choreic mid-dose dyskinesia .",
+        "D004409\tDisease\tdyskinesias\tthe dyskinesia be reduce predominantly in the low limb during the onset and disappearance of dystonic dyskinesia ( onset- and end-of-dose <target> dyskinesia </target> ) and in the upper limb during choreic mid-dose dyskinesia .",
+        "D005473\tChemical\tfluoxetine\tthe result suggest that increase brain serotoninergic transmission with <target> fluoxetine </target> may reduce levodopa- or dopamine agonist-induced dyskinesia without aggravating parkinsonian motor disability .",
+        "D007980\tChemical\tlevodopa\tthe result suggest that increase brain serotoninergic transmission with fluoxetine may reduce <target> levodopa </target> - or dopamine agonist-induced dyskinesia without aggravating parkinsonian motor disability .",
+        "D004298\tChemical\tdopamine\tthe result suggest that increase brain serotoninergic transmission with fluoxetine may reduce levodopa- or <target> dopamine </target> agonist-induced dyskinesia without aggravating parkinsonian motor disability .",
+        "D004409\tDisease\tdyskinesias\tthe result suggest that increase brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced <target> dyskinesia </target> without aggravating parkinsonian motor disability .",
+        "D010300\tDisease\tparkinsonian\tthe result suggest that increase brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesia without aggravate <target> parkinsonian </target> motor disability .",
+        "D009069\tDisease\tmotor disability\tthe result suggest that increase brain serotoninergic transmission with fluoxetine may reduce levodopa- or dopamine agonist-induced dyskinesia without aggravating parkinsonian <target> motor disability </target> ."
+    ]
+}

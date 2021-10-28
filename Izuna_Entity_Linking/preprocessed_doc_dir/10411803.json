@@ -1,0 +1,100 @@
+{
+    "title": "Severe immune hemolytic anemia associated with prophylactic use of cefotetan in obstetric and gynecologic procedures.",
+    "abst": "Second- and third-generation cephalosporins, especially cefotetan, are increasingly associated with severe, sometimes fatal immune hemolytic anemia. We noticed that 10 of our 35 cases of cefotetan-induced hemolytic anemias were in patients who had received cefotetan prophylactically for obstetric and gynecologic procedures. Eight of these cases of severe immune hemolytic anemia are described.",
+    "title_plus_abst": "Severe immune hemolytic anemia associated with prophylactic use of cefotetan in obstetric and gynecologic procedures. Second- and third-generation cephalosporins, especially cefotetan, are increasingly associated with severe, sometimes fatal immune hemolytic anemia. We noticed that 10 of our 35 cases of cefotetan-induced hemolytic anemias were in patients who had received cefotetan prophylactically for obstetric and gynecologic procedures. Eight of these cases of severe immune hemolytic anemia are described.",
+    "pubmed_id": "10411803",
+    "entities": [
+        [
+            14,
+            30,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            67,
+            76,
+            "cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            147,
+            161,
+            "cephalosporins",
+            "Chemical",
+            "D002511"
+        ],
+        [
+            174,
+            183,
+            "cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            249,
+            265,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            305,
+            314,
+            "cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            323,
+            340,
+            "hemolytic anemias",
+            "Disease",
+            "D000743"
+        ],
+        [
+            375,
+            384,
+            "cefotetan",
+            "Chemical",
+            "D015313"
+        ],
+        [
+            482,
+            498,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ]
+    ],
+    "split_sentence": [
+        "Severe immune hemolytic anemia associated with prophylactic use of cefotetan in obstetric and gynecologic procedures.",
+        "Second- and third-generation cephalosporins, especially cefotetan, are increasingly associated with severe, sometimes fatal immune hemolytic anemia.",
+        "We noticed that 10 of our 35 cases of cefotetan-induced hemolytic anemias were in patients who had received cefotetan prophylactically for obstetric and gynecologic procedures.",
+        "Eight of these cases of severe immune hemolytic anemia are described."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000743\tDisease\themolytic anemia\tSevere immune <target> hemolytic anemia </target> associated with prophylactic use of cefotetan in obstetric and gynecologic procedures .",
+        "D015313\tChemical\tcefotetan\tSevere immune hemolytic anemia associated with prophylactic use of <target> cefotetan </target> in obstetric and gynecologic procedures .",
+        "D002511\tChemical\tcephalosporins\tSecond- and third-generation <target> cephalosporins </target> , especially cefotetan , are increasingly associated with severe , sometimes fatal immune hemolytic anemia .",
+        "D015313\tChemical\tcefotetan\tSecond- and third-generation cephalosporins , especially <target> cefotetan </target> , are increasingly associated with severe , sometimes fatal immune hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tSecond- and third-generation cephalosporins , especially cefotetan , are increasingly associated with severe , sometimes fatal immune <target> hemolytic anemia </target> .",
+        "D015313\tChemical\tcefotetan\tWe noticed that 10 of our 35 cases of <target> cefotetan </target> -induced hemolytic anemias were in patients who had received cefotetan prophylactically for obstetric and gynecologic procedures .",
+        "D000743\tDisease\themolytic anemias\tWe noticed that 10 of our 35 cases of cefotetan-induced <target> hemolytic anemias </target> were in patients who had received cefotetan prophylactically for obstetric and gynecologic procedures .",
+        "D015313\tChemical\tcefotetan\tWe noticed that 10 of our 35 cases of cefotetan-induced hemolytic anemias were in patients who had received <target> cefotetan </target> prophylactically for obstetric and gynecologic procedures .",
+        "D000743\tDisease\themolytic anemia\tEight of these cases of severe immune <target> hemolytic anemia </target> are described ."
+    ],
+    "lines_lemma": [
+        "D000743\tDisease\themolytic anemia\tsevere immune <target> hemolytic anemia </target> associate with prophylactic use of cefotetan in obstetric and gynecologic procedure .",
+        "D015313\tChemical\tcefotetan\tsevere immune hemolytic anemia associate with prophylactic use of <target> cefotetan </target> in obstetric and gynecologic procedure .",
+        "D002511\tChemical\tcephalosporins\tsecond- and third-generation <target> cephalosporin </target> , especially cefotetan , be increasingly associate with severe , sometimes fatal immune hemolytic anemia .",
+        "D015313\tChemical\tcefotetan\tsecond- and third-generation cephalosporin , especially <target> cefotetan </target> , be increasingly associate with severe , sometimes fatal immune hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tsecond- and third-generation cephalosporin , especially cefotetan , be increasingly associate with severe , sometimes fatal immune <target> hemolytic anemia </target> .",
+        "D015313\tChemical\tcefotetan\twe notice that 10 of our 35 case of <target> cefotetan </target> -induced hemolytic anemia be in patient who have receive cefotetan prophylactically for obstetric and gynecologic procedure .",
+        "D000743\tDisease\themolytic anemias\twe notice that 10 of our 35 case of cefotetan-induced <target> hemolytic anemia </target> be in patient who have receive cefotetan prophylactically for obstetric and gynecologic procedure .",
+        "D015313\tChemical\tcefotetan\twe notice that 10 of our 35 case of cefotetan-induced hemolytic anemia be in patient who have receive <target> cefotetan </target> prophylactically for obstetric and gynecologic procedure .",
+        "D000743\tDisease\themolytic anemia\teight of these case of severe immune <target> hemolytic anemia </target> be describe ."
+    ]
+}

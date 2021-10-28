@@ -1,0 +1,110 @@
+{
+    "title": "Treatment of lethal pertussis vaccine reaction with histamine H1 antagonists.",
+    "abst": "We studied mortality after pertussis immunization in the mouse. Without treatment, 73 of 92 animals (80%) died after injection of bovine serum albumin (BSA) on day +7 of pertussis immunization. After pretreatment with 3 mg of cyproheptadine, 2 mg mianserin, or 2 mg chlorpheniramine, only 5 of 105 animals (5%) died after receiving BSA on day +7 (p less than 0.001). Blockade of histamine H1 receptors may reduce mortality in pertussis immunization-induced encephalopathy in mice.",
+    "title_plus_abst": "Treatment of lethal pertussis vaccine reaction with histamine H1 antagonists. We studied mortality after pertussis immunization in the mouse. Without treatment, 73 of 92 animals (80%) died after injection of bovine serum albumin (BSA) on day +7 of pertussis immunization. After pretreatment with 3 mg of cyproheptadine, 2 mg mianserin, or 2 mg chlorpheniramine, only 5 of 105 animals (5%) died after receiving BSA on day +7 (p less than 0.001). Blockade of histamine H1 receptors may reduce mortality in pertussis immunization-induced encephalopathy in mice.",
+    "pubmed_id": "2884595",
+    "entities": [
+        [
+            20,
+            37,
+            "pertussis vaccine",
+            "Chemical",
+            "D010567"
+        ],
+        [
+            52,
+            61,
+            "histamine",
+            "Chemical",
+            "D006632"
+        ],
+        [
+            105,
+            114,
+            "pertussis",
+            "Disease",
+            "D014917"
+        ],
+        [
+            248,
+            257,
+            "pertussis",
+            "Disease",
+            "D014917"
+        ],
+        [
+            304,
+            318,
+            "cyproheptadine",
+            "Chemical",
+            "D003533"
+        ],
+        [
+            325,
+            334,
+            "mianserin",
+            "Chemical",
+            "D008803"
+        ],
+        [
+            344,
+            360,
+            "chlorpheniramine",
+            "Chemical",
+            "D002744"
+        ],
+        [
+            457,
+            466,
+            "histamine",
+            "Chemical",
+            "D006632"
+        ],
+        [
+            504,
+            513,
+            "pertussis",
+            "Disease",
+            "D014917"
+        ],
+        [
+            535,
+            549,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ]
+    ],
+    "split_sentence": [
+        "Treatment of lethal pertussis vaccine reaction with histamine H1 antagonists.",
+        "We studied mortality after pertussis immunization in the mouse.",
+        "Without treatment, 73 of 92 animals (80%) died after injection of bovine serum albumin (BSA) on day +7 of pertussis immunization.",
+        "After pretreatment with 3 mg of cyproheptadine, 2 mg mianserin, or 2 mg chlorpheniramine, only 5 of 105 animals (5%) died after receiving BSA on day +7 (p less than 0.001).",
+        "Blockade of histamine H1 receptors may reduce mortality in pertussis immunization-induced encephalopathy in mice."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010567\tChemical\tpertussis vaccine\tTreatment of lethal <target> pertussis vaccine </target> reaction with histamine H1 antagonists .",
+        "D006632\tChemical\thistamine\tTreatment of lethal pertussis vaccine reaction with <target> histamine </target> H1 antagonists .",
+        "D014917\tDisease\tpertussis\tWe studied mortality after <target> pertussis </target> immunization in the mouse .",
+        "D014917\tDisease\tpertussis\tWithout treatment , 73 of 92 animals ( 80 % ) died after injection of bovine serum albumin ( BSA ) on day + 7 of <target> pertussis </target> immunization .",
+        "D003533\tChemical\tcyproheptadine\tAfter pretreatment with 3 mg of <target> cyproheptadine </target> , 2 mg mianserin , or 2 mg chlorpheniramine , only 5 of 105 animals ( 5 % ) died after receiving BSA on day + 7 ( p less than 0.001 ) .",
+        "D008803\tChemical\tmianserin\tAfter pretreatment with 3 mg of cyproheptadine , 2 mg <target> mianserin </target> , or 2 mg chlorpheniramine , only 5 of 105 animals ( 5 % ) died after receiving BSA on day + 7 ( p less than 0.001 ) .",
+        "D002744\tChemical\tchlorpheniramine\tAfter pretreatment with 3 mg of cyproheptadine , 2 mg mianserin , or 2 mg <target> chlorpheniramine </target> , only 5 of 105 animals ( 5 % ) died after receiving BSA on day + 7 ( p less than 0.001 ) .",
+        "D006632\tChemical\thistamine\tBlockade of <target> histamine </target> H1 receptors may reduce mortality in pertussis immunization-induced encephalopathy in mice .",
+        "D014917\tDisease\tpertussis\tBlockade of histamine H1 receptors may reduce mortality in <target> pertussis </target> immunization-induced encephalopathy in mice .",
+        "D001927\tDisease\tencephalopathy\tBlockade of histamine H1 receptors may reduce mortality in pertussis immunization-induced <target> encephalopathy </target> in mice ."
+    ],
+    "lines_lemma": [
+        "D010567\tChemical\tpertussis vaccine\ttreatment of lethal <target> pertussis vaccine </target> reaction with histamine h1 antagonist .",
+        "D006632\tChemical\thistamine\ttreatment of lethal pertussis vaccine reaction with <target> histamine </target> h1 antagonist .",
+        "D014917\tDisease\tpertussis\twe study mortality after <target> pertussis </target> immunization in the mouse .",
+        "D014917\tDisease\tpertussis\twithout treatment , 73 of 92 animal ( 80 % ) die after injection of bovine serum albumin ( bsa ) on day + 7 of <target> pertussis </target> immunization .",
+        "D003533\tChemical\tcyproheptadine\tafter pretreatment with 3 mg of <target> cyproheptadine </target> , 2 mg mianserin , or 2 mg chlorpheniramine , only 5 of 105 animal ( 5 % ) die after receive bsa on day + 7 ( p less than 0.001 ) .",
+        "D008803\tChemical\tmianserin\tafter pretreatment with 3 mg of cyproheptadine , 2 mg <target> mianserin </target> , or 2 mg chlorpheniramine , only 5 of 105 animal ( 5 % ) die after receive bsa on day + 7 ( p less than 0.001 ) .",
+        "D002744\tChemical\tchlorpheniramine\tafter pretreatment with 3 mg of cyproheptadine , 2 mg mianserin , or 2 mg <target> chlorpheniramine </target> , only 5 of 105 animal ( 5 % ) die after receive bsa on day + 7 ( p less than 0.001 ) .",
+        "D006632\tChemical\thistamine\tblockade of <target> histamine </target> h1 receptor may reduce mortality in pertussis immunization-induced encephalopathy in mouse .",
+        "D014917\tDisease\tpertussis\tblockade of histamine h1 receptor may reduce mortality in <target> pertussis </target> immunization-induced encephalopathy in mouse .",
+        "D001927\tDisease\tencephalopathy\tblockade of histamine h1 receptor may reduce mortality in pertussis immunization-induced <target> encephalopathy </target> in mouse ."
+    ]
+}

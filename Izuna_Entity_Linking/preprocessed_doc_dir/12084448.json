@@ -1,0 +1,176 @@
+{
+    "title": "Ifosfamide encephalopathy presenting with asterixis.",
+    "abst": "CNS toxic effects of the antineoplastic agent ifosfamide (IFX) are frequent and include a variety of neurological symptoms that can limit drug use. We report a case of a 51-year-old man who developed severe, disabling negative myoclonus of the upper and lower extremities after the infusion of ifosfamide for plasmacytoma. He was awake, revealed no changes of mental status and at rest there were no further motor symptoms. Cranial magnetic resonance imaging and extensive laboratory studies failed to reveal structural lesions of the brain and metabolic abnormalities. An electroencephalogram showed continuous, generalized irregular slowing with admixed periodic triphasic waves indicating symptomatic encephalopathy. The administration of ifosfamide was discontinued and within 12 h the asterixis resolved completely. In the patient described, the presence of asterixis during infusion of ifosfamide, normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative myoclonus is associated with the use of IFX.",
+    "title_plus_abst": "Ifosfamide encephalopathy presenting with asterixis. CNS toxic effects of the antineoplastic agent ifosfamide (IFX) are frequent and include a variety of neurological symptoms that can limit drug use. We report a case of a 51-year-old man who developed severe, disabling negative myoclonus of the upper and lower extremities after the infusion of ifosfamide for plasmacytoma. He was awake, revealed no changes of mental status and at rest there were no further motor symptoms. Cranial magnetic resonance imaging and extensive laboratory studies failed to reveal structural lesions of the brain and metabolic abnormalities. An electroencephalogram showed continuous, generalized irregular slowing with admixed periodic triphasic waves indicating symptomatic encephalopathy. The administration of ifosfamide was discontinued and within 12 h the asterixis resolved completely. In the patient described, the presence of asterixis during infusion of ifosfamide, normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative myoclonus is associated with the use of IFX.",
+    "pubmed_id": "12084448",
+    "entities": [
+        [
+            0,
+            10,
+            "Ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            11,
+            25,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            42,
+            51,
+            "asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            99,
+            109,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            111,
+            114,
+            "IFX",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            280,
+            289,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            347,
+            357,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            362,
+            374,
+            "plasmacytoma",
+            "Disease",
+            "D010954"
+        ],
+        [
+            562,
+            593,
+            "structural lesions of the brain",
+            "Disease",
+            "D001927"
+        ],
+        [
+            598,
+            621,
+            "metabolic abnormalities",
+            "Disease",
+            "D008659"
+        ],
+        [
+            757,
+            771,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            795,
+            805,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            843,
+            852,
+            "asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            916,
+            925,
+            "asterixis",
+            "Disease",
+            "D020820"
+        ],
+        [
+            945,
+            955,
+            "ifosfamide",
+            "Chemical",
+            "D007069"
+        ],
+        [
+            1099,
+            1108,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            1139,
+            1142,
+            "IFX",
+            "Chemical",
+            "D007069"
+        ]
+    ],
+    "split_sentence": [
+        "Ifosfamide encephalopathy presenting with asterixis.",
+        "CNS toxic effects of the antineoplastic agent ifosfamide (IFX) are frequent and include a variety of neurological symptoms that can limit drug use.",
+        "We report a case of a 51-year-old man who developed severe, disabling negative myoclonus of the upper and lower extremities after the infusion of ifosfamide for plasmacytoma.",
+        "He was awake, revealed no changes of mental status and at rest there were no further motor symptoms.",
+        "Cranial magnetic resonance imaging and extensive laboratory studies failed to reveal structural lesions of the brain and metabolic abnormalities.",
+        "An electroencephalogram showed continuous, generalized irregular slowing with admixed periodic triphasic waves indicating symptomatic encephalopathy.",
+        "The administration of ifosfamide was discontinued and within 12 h the asterixis resolved completely.",
+        "In the patient described, the presence of asterixis during infusion of ifosfamide, normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative myoclonus is associated with the use of IFX."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007069\tChemical\tIfosfamide\t<target> Ifosfamide </target> encephalopathy presenting with asterixis .",
+        "D001927\tDisease\tencephalopathy\tIfosfamide <target> encephalopathy </target> presenting with asterixis .",
+        "D020820\tDisease\tasterixis\tIfosfamide encephalopathy presenting with <target> asterixis </target> .",
+        "D007069\tChemical\tifosfamide\tCNS toxic effects of the antineoplastic agent <target> ifosfamide </target> ( IFX ) are frequent and include a variety of neurological symptoms that can limit drug use .",
+        "D007069\tChemical\tIFX\tCNS toxic effects of the antineoplastic agent ifosfamide ( <target> IFX </target> ) are frequent and include a variety of neurological symptoms that can limit drug use .",
+        "D009207\tDisease\tmyoclonus\tWe report a case of a 51-year-old man who developed severe , disabling negative <target> myoclonus </target> of the upper and lower extremities after the infusion of ifosfamide for plasmacytoma .",
+        "D007069\tChemical\tifosfamide\tWe report a case of a 51-year-old man who developed severe , disabling negative myoclonus of the upper and lower extremities after the infusion of <target> ifosfamide </target> for plasmacytoma .",
+        "D010954\tDisease\tplasmacytoma\tWe report a case of a 51-year-old man who developed severe , disabling negative myoclonus of the upper and lower extremities after the infusion of ifosfamide for <target> plasmacytoma </target> .",
+        "D001927\tDisease\tstructural lesions of the brain\tCranial magnetic resonance imaging and extensive laboratory studies failed to reveal <target> structural lesions of the brain </target> and metabolic abnormalities .",
+        "D008659\tDisease\tmetabolic abnormalities\tCranial magnetic resonance imaging and extensive laboratory studies failed to reveal structural lesions of the brain and <target> metabolic abnormalities </target> .",
+        "D001927\tDisease\tencephalopathy\tAn electroencephalogram showed continuous , generalized irregular slowing with admixed periodic triphasic waves indicating symptomatic <target> encephalopathy </target> .",
+        "D007069\tChemical\tifosfamide\tThe administration of <target> ifosfamide </target> was discontinued and within 12 h the asterixis resolved completely .",
+        "D020820\tDisease\tasterixis\tThe administration of ifosfamide was discontinued and within 12 h the <target> asterixis </target> resolved completely .",
+        "D020820\tDisease\tasterixis\tIn the patient described , the presence of <target> asterixis </target> during infusion of ifosfamide , normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative myoclonus is associated with the use of IFX .",
+        "D007069\tChemical\tifosfamide\tIn the patient described , the presence of asterixis during infusion of <target> ifosfamide </target> , normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative myoclonus is associated with the use of IFX .",
+        "D009207\tDisease\tmyoclonus\tIn the patient described , the presence of asterixis during infusion of ifosfamide , normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative <target> myoclonus </target> is associated with the use of IFX .",
+        "D007069\tChemical\tIFX\tIn the patient described , the presence of asterixis during infusion of ifosfamide , normal laboratory findings and imaging studies and the resolution of symptoms following the discontinuation of the drug suggest that negative myoclonus is associated with the use of <target> IFX </target> ."
+    ],
+    "lines_lemma": [
+        "D007069\tChemical\tIfosfamide\t<target> Ifosfamide </target> encephalopathy present with asterixis .",
+        "D001927\tDisease\tencephalopathy\tIfosfamide <target> encephalopathy </target> present with asterixis .",
+        "D020820\tDisease\tasterixis\tifosfamide encephalopathy present with <target> asterixis </target> .",
+        "D007069\tChemical\tifosfamide\tcns toxic effect of the antineoplastic agent <target> ifosfamide </target> ( ifx ) be frequent and include a variety of neurological symptom that can limit drug use .",
+        "D007069\tChemical\tIFX\tcns toxic effect of the antineoplastic agent ifosfamide ( <target> ifx </target> ) be frequent and include a variety of neurological symptom that can limit drug use .",
+        "D009207\tDisease\tmyoclonus\twe report a case of a 51-year-old man who develop severe , disable negative <target> myoclonus </target> of the upper and low extremity after the infusion of ifosfamide for plasmacytoma .",
+        "D007069\tChemical\tifosfamide\twe report a case of a 51-year-old man who develop severe , disable negative myoclonus of the upper and low extremity after the infusion of <target> ifosfamide </target> for plasmacytoma .",
+        "D010954\tDisease\tplasmacytoma\twe report a case of a 51-year-old man who develop severe , disable negative myoclonus of the upper and low extremity after the infusion of ifosfamide for <target> plasmacytoma </target> .",
+        "D001927\tDisease\tstructural lesions of the brain\tcranial magnetic resonance imaging and extensive laboratory study fail to reveal <target> structural lesion of the brain </target> and metabolic abnormality .",
+        "D008659\tDisease\tmetabolic abnormalities\tcranial magnetic resonance imaging and extensive laboratory study fail to reveal structural lesion of the brain and <target> metabolic abnormality </target> .",
+        "D001927\tDisease\tencephalopathy\tan electroencephalogram show continuous , generalize irregular slowing with admixed periodic triphasic wave indicate symptomatic <target> encephalopathy </target> .",
+        "D007069\tChemical\tifosfamide\tthe administration of <target> ifosfamide </target> be discontinue and within 12 h the asterixis resolve completely .",
+        "D020820\tDisease\tasterixis\tthe administration of ifosfamide be discontinue and within 12 h the <target> asterixis </target> resolve completely .",
+        "D020820\tDisease\tasterixis\tin the patient describe , the presence of <target> asterixis </target> during infusion of ifosfamide , normal laboratory finding and imaging study and the resolution of symptom follow the discontinuation of the drug suggest that negative myoclonus be associate with the use of ifx .",
+        "D007069\tChemical\tifosfamide\tin the patient describe , the presence of asterixis during infusion of <target> ifosfamide </target> , normal laboratory finding and imaging study and the resolution of symptom follow the discontinuation of the drug suggest that negative myoclonus be associate with the use of ifx .",
+        "D009207\tDisease\tmyoclonus\tin the patient describe , the presence of asterixis during infusion of ifosfamide , normal laboratory finding and imaging study and the resolution of symptom follow the discontinuation of the drug suggest that negative <target> myoclonus </target> be associate with the use of ifx .",
+        "D007069\tChemical\tIFX\tin the patient describe , the presence of asterixis during infusion of ifosfamide , normal laboratory finding and imaging study and the resolution of symptom follow the discontinuation of the drug suggest that negative myoclonus be associate with the use of <target> ifx </target> ."
+    ]
+}

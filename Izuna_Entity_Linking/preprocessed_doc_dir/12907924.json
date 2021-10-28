@@ -1,0 +1,119 @@
+{
+    "title": "Methylphenidate-induced obsessive-compulsive symptoms in an elderly man.",
+    "abst": "An 82-year-old man with treatment-resistant depression and early Alzheimer's disease was started on methylphenidate. Significant obsessive-compulsive behavior ensued but diminished over several weeks when methylphenidate was replaced by fluvoxamine. The patient had no prior psychiatric history, but he had a sister with obsessive-compulsive disorder. It appears that methylphenidate precipitated the patient's pathological behavior.",
+    "title_plus_abst": "Methylphenidate-induced obsessive-compulsive symptoms in an elderly man. An 82-year-old man with treatment-resistant depression and early Alzheimer's disease was started on methylphenidate. Significant obsessive-compulsive behavior ensued but diminished over several weeks when methylphenidate was replaced by fluvoxamine. The patient had no prior psychiatric history, but he had a sister with obsessive-compulsive disorder. It appears that methylphenidate precipitated the patient's pathological behavior.",
+    "pubmed_id": "12907924",
+    "entities": [
+        [
+            0,
+            15,
+            "Methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            24,
+            53,
+            "obsessive-compulsive symptoms",
+            "Disease",
+            "D009771"
+        ],
+        [
+            97,
+            127,
+            "treatment-resistant depression",
+            "Disease",
+            "D061218"
+        ],
+        [
+            138,
+            157,
+            "Alzheimer's disease",
+            "Disease",
+            "D000544"
+        ],
+        [
+            173,
+            188,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            202,
+            231,
+            "obsessive-compulsive behavior",
+            "Disease",
+            "D009771"
+        ],
+        [
+            278,
+            293,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            310,
+            321,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            348,
+            359,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ],
+        [
+            394,
+            423,
+            "obsessive-compulsive disorder",
+            "Disease",
+            "D009771"
+        ],
+        [
+            441,
+            456,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ]
+    ],
+    "split_sentence": [
+        "Methylphenidate-induced obsessive-compulsive symptoms in an elderly man.",
+        "An 82-year-old man with treatment-resistant depression and early Alzheimer's disease was started on methylphenidate.",
+        "Significant obsessive-compulsive behavior ensued but diminished over several weeks when methylphenidate was replaced by fluvoxamine.",
+        "The patient had no prior psychiatric history, but he had a sister with obsessive-compulsive disorder.",
+        "It appears that methylphenidate precipitated the patient's pathological behavior."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008774\tChemical\tMethylphenidate\t<target> Methylphenidate </target> -induced obsessive-compulsive symptoms in an elderly man .",
+        "D009771\tDisease\tobsessive-compulsive symptoms\tMethylphenidate-induced <target> obsessive-compulsive symptoms </target> in an elderly man .",
+        "D061218\tDisease\ttreatment-resistant depression\tAn 82-year-old man with <target> treatment-resistant depression </target> and early Alzheimer 's disease was started on methylphenidate .",
+        "D000544\tDisease\tAlzheimer's disease\tAn 82-year-old man with treatment-resistant depression and early <target> Alzheimer 's disease </target> was started on methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tAn 82-year-old man with treatment-resistant depression and early Alzheimer 's disease was started on <target> methylphenidate </target> .",
+        "D009771\tDisease\tobsessive-compulsive behavior\tSignificant <target> obsessive-compulsive behavior </target> ensued but diminished over several weeks when methylphenidate was replaced by fluvoxamine .",
+        "D008774\tChemical\tmethylphenidate\tSignificant obsessive-compulsive behavior ensued but diminished over several weeks when <target> methylphenidate </target> was replaced by fluvoxamine .",
+        "D016666\tChemical\tfluvoxamine\tSignificant obsessive-compulsive behavior ensued but diminished over several weeks when methylphenidate was replaced by <target> fluvoxamine </target> .",
+        "D001523\tDisease\tpsychiatric\tThe patient had no prior <target> psychiatric </target> history , but he had a sister with obsessive-compulsive disorder .",
+        "D009771\tDisease\tobsessive-compulsive disorder\tThe patient had no prior psychiatric history , but he had a sister with <target> obsessive-compulsive disorder </target> .",
+        "D008774\tChemical\tmethylphenidate\tIt appears that <target> methylphenidate </target> precipitated the patient 's pathological behavior ."
+    ],
+    "lines_lemma": [
+        "D008774\tChemical\tMethylphenidate\t<target> methylphenidate </target> -induced obsessive-compulsive symptom in an elderly man .",
+        "D009771\tDisease\tobsessive-compulsive symptoms\tmethylphenidate-induced <target> obsessive-compulsive symptom </target> in an elderly man .",
+        "D061218\tDisease\ttreatment-resistant depression\tan 82-year-old man with <target> treatment-resistant depression </target> and early Alzheimer 's disease be start on methylphenidate .",
+        "D000544\tDisease\tAlzheimer's disease\tan 82-year-old man with treatment-resistant depression and early <target> Alzheimer 's disease </target> be start on methylphenidate .",
+        "D008774\tChemical\tmethylphenidate\tan 82-year-old man with treatment-resistant depression and early Alzheimer 's disease be start on <target> methylphenidate </target> .",
+        "D009771\tDisease\tobsessive-compulsive behavior\tsignificant <target> obsessive-compulsive behavior </target> ensue but diminish over several week when methylphenidate be replace by fluvoxamine .",
+        "D008774\tChemical\tmethylphenidate\tsignificant obsessive-compulsive behavior ensue but diminish over several week when <target> methylphenidate </target> be replace by fluvoxamine .",
+        "D016666\tChemical\tfluvoxamine\tsignificant obsessive-compulsive behavior ensue but diminish over several week when methylphenidate be replace by <target> fluvoxamine </target> .",
+        "D001523\tDisease\tpsychiatric\tthe patient have no prior <target> psychiatric </target> history , but he have a sister with obsessive-compulsive disorder .",
+        "D009771\tDisease\tobsessive-compulsive disorder\tthe patient have no prior psychiatric history , but he have a sister with <target> obsessive-compulsive disorder </target> .",
+        "D008774\tChemical\tmethylphenidate\tit appear that <target> methylphenidate </target> precipitate the patient 's pathological behavior ."
+    ]
+}

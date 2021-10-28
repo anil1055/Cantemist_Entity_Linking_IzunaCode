@@ -1,0 +1,127 @@
+{
+    "title": "Chlorpropamide-induced optic neuropathy.",
+    "abst": "A 65-year-old woman with adult-onset diabetes treated with chlorpropamide (Diabenese) had a toxic optic neuropathy that resolved with discontinuation of chlorpropamide therapy. Visual loss occurs in diabetics for a variety of reasons, and accurate diagnosis is necessary to institute appropriate therapy. The possibility of a drug-induced optic neuropathy should be considered in the differential diagnosis of visual loss in diabetics.",
+    "title_plus_abst": "Chlorpropamide-induced optic neuropathy. A 65-year-old woman with adult-onset diabetes treated with chlorpropamide (Diabenese) had a toxic optic neuropathy that resolved with discontinuation of chlorpropamide therapy. Visual loss occurs in diabetics for a variety of reasons, and accurate diagnosis is necessary to institute appropriate therapy. The possibility of a drug-induced optic neuropathy should be considered in the differential diagnosis of visual loss in diabetics.",
+    "pubmed_id": "7059267",
+    "entities": [
+        [
+            0,
+            14,
+            "Chlorpropamide",
+            "Chemical",
+            "D002747"
+        ],
+        [
+            23,
+            39,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            66,
+            86,
+            "adult-onset diabetes",
+            "Disease",
+            "D003924"
+        ],
+        [
+            100,
+            114,
+            "chlorpropamide",
+            "Chemical",
+            "D002747"
+        ],
+        [
+            116,
+            125,
+            "Diabenese",
+            "Chemical",
+            "D002747"
+        ],
+        [
+            133,
+            155,
+            "toxic optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            194,
+            208,
+            "chlorpropamide",
+            "Chemical",
+            "D002747"
+        ],
+        [
+            218,
+            229,
+            "Visual loss",
+            "Disease",
+            "D014786"
+        ],
+        [
+            240,
+            249,
+            "diabetics",
+            "Disease",
+            "D003920"
+        ],
+        [
+            380,
+            396,
+            "optic neuropathy",
+            "Disease",
+            "D009901"
+        ],
+        [
+            451,
+            462,
+            "visual loss",
+            "Disease",
+            "D014786"
+        ],
+        [
+            466,
+            475,
+            "diabetics",
+            "Disease",
+            "D003920"
+        ]
+    ],
+    "split_sentence": [
+        "Chlorpropamide-induced optic neuropathy.",
+        "A 65-year-old woman with adult-onset diabetes treated with chlorpropamide (Diabenese) had a toxic optic neuropathy that resolved with discontinuation of chlorpropamide therapy.",
+        "Visual loss occurs in diabetics for a variety of reasons, and accurate diagnosis is necessary to institute appropriate therapy.",
+        "The possibility of a drug-induced optic neuropathy should be considered in the differential diagnosis of visual loss in diabetics."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002747\tChemical\tChlorpropamide\t<target> Chlorpropamide </target> -induced optic neuropathy .",
+        "D009901\tDisease\toptic neuropathy\tChlorpropamide-induced <target> optic neuropathy </target> .",
+        "D003924\tDisease\tadult-onset diabetes\tA 65-year-old woman with <target> adult-onset diabetes </target> treated with chlorpropamide ( Diabenese ) had a toxic optic neuropathy that resolved with discontinuation of chlorpropamide therapy .",
+        "D002747\tChemical\tchlorpropamide\tA 65-year-old woman with adult-onset diabetes treated with <target> chlorpropamide </target> ( Diabenese ) had a toxic optic neuropathy that resolved with discontinuation of chlorpropamide therapy .",
+        "D002747\tChemical\tDiabenese\tA 65-year-old woman with adult-onset diabetes treated with chlorpropamide ( <target> Diabenese </target> ) had a toxic optic neuropathy that resolved with discontinuation of chlorpropamide therapy .",
+        "D009901\tDisease\ttoxic optic neuropathy\tA 65-year-old woman with adult-onset diabetes treated with chlorpropamide ( Diabenese ) had a <target> toxic optic neuropathy </target> that resolved with discontinuation of chlorpropamide therapy .",
+        "D002747\tChemical\tchlorpropamide\tA 65-year-old woman with adult-onset diabetes treated with chlorpropamide ( Diabenese ) had a toxic optic neuropathy that resolved with discontinuation of <target> chlorpropamide </target> therapy .",
+        "D014786\tDisease\tVisual loss\t<target> Visual loss </target> occurs in diabetics for a variety of reasons , and accurate diagnosis is necessary to institute appropriate therapy .",
+        "D003920\tDisease\tdiabetics\tVisual loss occurs in <target> diabetics </target> for a variety of reasons , and accurate diagnosis is necessary to institute appropriate therapy .",
+        "D009901\tDisease\toptic neuropathy\tThe possibility of a drug-induced <target> optic neuropathy </target> should be considered in the differential diagnosis of visual loss in diabetics .",
+        "D014786\tDisease\tvisual loss\tThe possibility of a drug-induced optic neuropathy should be considered in the differential diagnosis of <target> visual loss </target> in diabetics .",
+        "D003920\tDisease\tdiabetics\tThe possibility of a drug-induced optic neuropathy should be considered in the differential diagnosis of visual loss in <target> diabetics </target> ."
+    ],
+    "lines_lemma": [
+        "D002747\tChemical\tChlorpropamide\t<target> Chlorpropamide </target> -induced optic neuropathy .",
+        "D009901\tDisease\toptic neuropathy\tchlorpropamide-induced <target> optic neuropathy </target> .",
+        "D003924\tDisease\tadult-onset diabetes\ta 65-year-old woman with <target> adult-onset diabete </target> treat with chlorpropamide ( diabenese ) have a toxic optic neuropathy that resolve with discontinuation of chlorpropamide therapy .",
+        "D002747\tChemical\tchlorpropamide\ta 65-year-old woman with adult-onset diabete treat with <target> chlorpropamide </target> ( diabenese ) have a toxic optic neuropathy that resolve with discontinuation of chlorpropamide therapy .",
+        "D002747\tChemical\tDiabenese\ta 65-year-old woman with adult-onset diabete treat with chlorpropamide ( <target> diabenese </target> ) have a toxic optic neuropathy that resolve with discontinuation of chlorpropamide therapy .",
+        "D009901\tDisease\ttoxic optic neuropathy\ta 65-year-old woman with adult-onset diabete treat with chlorpropamide ( diabenese ) have a <target> toxic optic neuropathy </target> that resolve with discontinuation of chlorpropamide therapy .",
+        "D002747\tChemical\tchlorpropamide\ta 65-year-old woman with adult-onset diabete treat with chlorpropamide ( diabenese ) have a toxic optic neuropathy that resolve with discontinuation of <target> chlorpropamide </target> therapy .",
+        "D014786\tDisease\tVisual loss\t<target> visual loss </target> occur in diabetic for a variety of reason , and accurate diagnosis be necessary to institute appropriate therapy .",
+        "D003920\tDisease\tdiabetics\tvisual loss occur in <target> diabetic </target> for a variety of reason , and accurate diagnosis be necessary to institute appropriate therapy .",
+        "D009901\tDisease\toptic neuropathy\tthe possibility of a drug-induced <target> optic neuropathy </target> should be consider in the differential diagnosis of visual loss in diabetic .",
+        "D014786\tDisease\tvisual loss\tthe possibility of a drug-induced optic neuropathy should be consider in the differential diagnosis of <target> visual loss </target> in diabetic .",
+        "D003920\tDisease\tdiabetics\tthe possibility of a drug-induced optic neuropathy should be consider in the differential diagnosis of visual loss in <target> diabetic </target> ."
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "title": "Some central effects of repeated treatment with fluvoxamine.",
+    "abst": "We investigated the effect of repeated treatment with fluvoxamine, a selective serotonin uptake inhibitor, on behavioral effects of dopaminomimetics and methoxamine and on the animal behavior in the \"behavioral despair\" test. A repeated treatment with fluvoxamine (twice daily for 14 days) potentiated in mice and in rats (weaker) the amphetamine-induced hyperactivity. The hyperactivity induced by nomifensine in mice remained unaffected by fluvoxamine. The stimulation of locomotor activity by intracerebroventricularly administered methoxamine was not affected by repeated treatment with fluvoxamine. Given three times fluvoxamine had no effect on the immobilization time in the \"behavioral despair\" test in rats. The results indicate that fluvoxamine given repeatedly acts differently than citalopram, another selective serotonin uptake inhibitor, and differs also from other antidepressant drugs.",
+    "title_plus_abst": "Some central effects of repeated treatment with fluvoxamine. We investigated the effect of repeated treatment with fluvoxamine, a selective serotonin uptake inhibitor, on behavioral effects of dopaminomimetics and methoxamine and on the animal behavior in the \"behavioral despair\" test. A repeated treatment with fluvoxamine (twice daily for 14 days) potentiated in mice and in rats (weaker) the amphetamine-induced hyperactivity. The hyperactivity induced by nomifensine in mice remained unaffected by fluvoxamine. The stimulation of locomotor activity by intracerebroventricularly administered methoxamine was not affected by repeated treatment with fluvoxamine. Given three times fluvoxamine had no effect on the immobilization time in the \"behavioral despair\" test in rats. The results indicate that fluvoxamine given repeatedly acts differently than citalopram, another selective serotonin uptake inhibitor, and differs also from other antidepressant drugs.",
+    "pubmed_id": "2576810",
+    "entities": [
+        [
+            48,
+            59,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            115,
+            126,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            140,
+            149,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            214,
+            225,
+            "methoxamine",
+            "Chemical",
+            "D008729"
+        ],
+        [
+            313,
+            324,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            396,
+            407,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            416,
+            429,
+            "hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            435,
+            448,
+            "hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            460,
+            471,
+            "nomifensine",
+            "Chemical",
+            "D009627"
+        ],
+        [
+            503,
+            514,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            596,
+            607,
+            "methoxamine",
+            "Chemical",
+            "D008729"
+        ],
+        [
+            652,
+            663,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            683,
+            694,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            804,
+            815,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            855,
+            865,
+            "citalopram",
+            "Chemical",
+            "D015283"
+        ],
+        [
+            885,
+            894,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ]
+    ],
+    "split_sentence": [
+        "Some central effects of repeated treatment with fluvoxamine.",
+        "We investigated the effect of repeated treatment with fluvoxamine, a selective serotonin uptake inhibitor, on behavioral effects of dopaminomimetics and methoxamine and on the animal behavior in the \"behavioral despair\" test.",
+        "A repeated treatment with fluvoxamine (twice daily for 14 days) potentiated in mice and in rats (weaker) the amphetamine-induced hyperactivity.",
+        "The hyperactivity induced by nomifensine in mice remained unaffected by fluvoxamine.",
+        "The stimulation of locomotor activity by intracerebroventricularly administered methoxamine was not affected by repeated treatment with fluvoxamine.",
+        "Given three times fluvoxamine had no effect on the immobilization time in the \"behavioral despair\" test in rats.",
+        "The results indicate that fluvoxamine given repeatedly acts differently than citalopram, another selective serotonin uptake inhibitor, and differs also from other antidepressant drugs."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016666\tChemical\tfluvoxamine\tSome central effects of repeated treatment with <target> fluvoxamine </target> .",
+        "D016666\tChemical\tfluvoxamine\tWe investigated the effect of repeated treatment with <target> fluvoxamine </target> , a selective serotonin uptake inhibitor , on behavioral effects of dopaminomimetics and methoxamine and on the animal behavior in the \" behavioral despair \" test .",
+        "D012701\tChemical\tserotonin\tWe investigated the effect of repeated treatment with fluvoxamine , a selective <target> serotonin </target> uptake inhibitor , on behavioral effects of dopaminomimetics and methoxamine and on the animal behavior in the \" behavioral despair \" test .",
+        "D008729\tChemical\tmethoxamine\tWe investigated the effect of repeated treatment with fluvoxamine , a selective serotonin uptake inhibitor , on behavioral effects of dopaminomimetics and <target> methoxamine </target> and on the animal behavior in the \" behavioral despair \" test .",
+        "D016666\tChemical\tfluvoxamine\tA repeated treatment with <target> fluvoxamine </target> ( twice daily for 14 days ) potentiated in mice and in rats ( weaker ) the amphetamine-induced hyperactivity .",
+        "D000661\tChemical\tamphetamine\tA repeated treatment with fluvoxamine ( twice daily for 14 days ) potentiated in mice and in rats ( weaker ) the <target> amphetamine </target> -induced hyperactivity .",
+        "D006948\tDisease\thyperactivity\tA repeated treatment with fluvoxamine ( twice daily for 14 days ) potentiated in mice and in rats ( weaker ) the amphetamine-induced <target> hyperactivity </target> .",
+        "D006948\tDisease\thyperactivity\tThe <target> hyperactivity </target> induced by nomifensine in mice remained unaffected by fluvoxamine .",
+        "D009627\tChemical\tnomifensine\tThe hyperactivity induced by <target> nomifensine </target> in mice remained unaffected by fluvoxamine .",
+        "D016666\tChemical\tfluvoxamine\tThe hyperactivity induced by nomifensine in mice remained unaffected by <target> fluvoxamine </target> .",
+        "D008729\tChemical\tmethoxamine\tThe stimulation of locomotor activity by intracerebroventricularly administered <target> methoxamine </target> was not affected by repeated treatment with fluvoxamine .",
+        "D016666\tChemical\tfluvoxamine\tThe stimulation of locomotor activity by intracerebroventricularly administered methoxamine was not affected by repeated treatment with <target> fluvoxamine </target> .",
+        "D016666\tChemical\tfluvoxamine\tGiven three times <target> fluvoxamine </target> had no effect on the immobilization time in the \" behavioral despair \" test in rats .",
+        "D016666\tChemical\tfluvoxamine\tThe results indicate that <target> fluvoxamine </target> given repeatedly acts differently than citalopram , another selective serotonin uptake inhibitor , and differs also from other antidepressant drugs .",
+        "D015283\tChemical\tcitalopram\tThe results indicate that fluvoxamine given repeatedly acts differently than <target> citalopram </target> , another selective serotonin uptake inhibitor , and differs also from other antidepressant drugs .",
+        "D012701\tChemical\tserotonin\tThe results indicate that fluvoxamine given repeatedly acts differently than citalopram , another selective <target> serotonin </target> uptake inhibitor , and differs also from other antidepressant drugs ."
+    ],
+    "lines_lemma": [
+        "D016666\tChemical\tfluvoxamine\tsome central effect of repeat treatment with <target> fluvoxamine </target> .",
+        "D016666\tChemical\tfluvoxamine\twe investigate the effect of repeat treatment with <target> fluvoxamine </target> , a selective serotonin uptake inhibitor , on behavioral effect of dopaminomimetic and methoxamine and on the animal behavior in the \" behavioral despair \" test .",
+        "D012701\tChemical\tserotonin\twe investigate the effect of repeat treatment with fluvoxamine , a selective <target> serotonin </target> uptake inhibitor , on behavioral effect of dopaminomimetic and methoxamine and on the animal behavior in the \" behavioral despair \" test .",
+        "D008729\tChemical\tmethoxamine\twe investigate the effect of repeat treatment with fluvoxamine , a selective serotonin uptake inhibitor , on behavioral effect of dopaminomimetic and <target> methoxamine </target> and on the animal behavior in the \" behavioral despair \" test .",
+        "D016666\tChemical\tfluvoxamine\ta repeat treatment with <target> fluvoxamine </target> ( twice daily for 14 day ) potentiate in mouse and in rat ( weak ) the amphetamine-induced hyperactivity .",
+        "D000661\tChemical\tamphetamine\ta repeat treatment with fluvoxamine ( twice daily for 14 day ) potentiate in mouse and in rat ( weak ) the <target> amphetamine </target> -induced hyperactivity .",
+        "D006948\tDisease\thyperactivity\ta repeat treatment with fluvoxamine ( twice daily for 14 day ) potentiate in mouse and in rat ( weak ) the amphetamine-induced <target> hyperactivity </target> .",
+        "D006948\tDisease\thyperactivity\tthe <target> hyperactivity </target> induce by nomifensine in mouse remain unaffected by fluvoxamine .",
+        "D009627\tChemical\tnomifensine\tthe hyperactivity induce by <target> nomifensine </target> in mouse remain unaffected by fluvoxamine .",
+        "D016666\tChemical\tfluvoxamine\tthe hyperactivity induce by nomifensine in mouse remain unaffected by <target> fluvoxamine </target> .",
+        "D008729\tChemical\tmethoxamine\tthe stimulation of locomotor activity by intracerebroventricularly administer <target> methoxamine </target> be not affect by repeat treatment with fluvoxamine .",
+        "D016666\tChemical\tfluvoxamine\tthe stimulation of locomotor activity by intracerebroventricularly administer methoxamine be not affect by repeat treatment with <target> fluvoxamine </target> .",
+        "D016666\tChemical\tfluvoxamine\tgive three time <target> fluvoxamine </target> have no effect on the immobilization time in the \" behavioral despair \" test in rat .",
+        "D016666\tChemical\tfluvoxamine\tthe result indicate that <target> fluvoxamine </target> give repeatedly act differently than citalopram , another selective serotonin uptake inhibitor , and differ also from other antidepressant drug .",
+        "D015283\tChemical\tcitalopram\tthe result indicate that fluvoxamine give repeatedly act differently than <target> citalopram </target> , another selective serotonin uptake inhibitor , and differ also from other antidepressant drug .",
+        "D012701\tChemical\tserotonin\tthe result indicate that fluvoxamine give repeatedly act differently than citalopram , another selective <target> serotonin </target> uptake inhibitor , and differ also from other antidepressant drug ."
+    ]
+}

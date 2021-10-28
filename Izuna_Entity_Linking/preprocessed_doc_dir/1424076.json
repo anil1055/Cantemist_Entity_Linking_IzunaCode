@@ -1,0 +1,155 @@
+{
+    "title": "Syndrome of inappropriate secretion of antidiuretic hormone after infusional vincristine.",
+    "abst": "A 77-year-old woman with refractory multiple myeloma was treated with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 days of oral dexamethasone. Nine days after her second cycle she presented with lethargy and weakness associated with hyponatremia. Evaluation revealed the syndrome of inappropriate secretion of antidiuretic hormone, which was attributed to the vincristine infusion. After normal serum sodium levels returned, further doxorubicin and dexamethasone chemotherapy without vincristine did not produce this complication.",
+    "title_plus_abst": "Syndrome of inappropriate secretion of antidiuretic hormone after infusional vincristine. A 77-year-old woman with refractory multiple myeloma was treated with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 days of oral dexamethasone. Nine days after her second cycle she presented with lethargy and weakness associated with hyponatremia. Evaluation revealed the syndrome of inappropriate secretion of antidiuretic hormone, which was attributed to the vincristine infusion. After normal serum sodium levels returned, further doxorubicin and dexamethasone chemotherapy without vincristine did not produce this complication.",
+    "pubmed_id": "1424076",
+    "entities": [
+        [
+            0,
+            59,
+            "Syndrome of inappropriate secretion of antidiuretic hormone",
+            "Disease",
+            "D007177"
+        ],
+        [
+            77,
+            88,
+            "vincristine",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            126,
+            142,
+            "multiple myeloma",
+            "Disease",
+            "D009101"
+        ],
+        [
+            203,
+            214,
+            "vincristine",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            219,
+            230,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            250,
+            263,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ],
+        [
+            317,
+            325,
+            "lethargy",
+            "Disease",
+            "D053609"
+        ],
+        [
+            330,
+            338,
+            "weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            355,
+            367,
+            "hyponatremia",
+            "Disease",
+            "D007010"
+        ],
+        [
+            393,
+            452,
+            "syndrome of inappropriate secretion of antidiuretic hormone",
+            "Disease",
+            "D007177"
+        ],
+        [
+            482,
+            493,
+            "vincristine",
+            "Chemical",
+            "D014750"
+        ],
+        [
+            523,
+            529,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            555,
+            566,
+            "doxorubicin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            571,
+            584,
+            "dexamethasone",
+            "Chemical",
+            "D003907"
+        ],
+        [
+            606,
+            617,
+            "vincristine",
+            "Chemical",
+            "D014750"
+        ]
+    ],
+    "split_sentence": [
+        "Syndrome of inappropriate secretion of antidiuretic hormone after infusional vincristine.",
+        "A 77-year-old woman with refractory multiple myeloma was treated with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 days of oral dexamethasone.",
+        "Nine days after her second cycle she presented with lethargy and weakness associated with hyponatremia.",
+        "Evaluation revealed the syndrome of inappropriate secretion of antidiuretic hormone, which was attributed to the vincristine infusion.",
+        "After normal serum sodium levels returned, further doxorubicin and dexamethasone chemotherapy without vincristine did not produce this complication."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007177\tDisease\tSyndrome of inappropriate secretion of antidiuretic hormone\t<target> Syndrome of inappropriate secretion of antidiuretic hormone </target> after infusional vincristine .",
+        "D014750\tChemical\tvincristine\tSyndrome of inappropriate secretion of antidiuretic hormone after infusional <target> vincristine </target> .",
+        "D009101\tDisease\tmultiple myeloma\tA 77-year-old woman with refractory <target> multiple myeloma </target> was treated with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 days of oral dexamethasone .",
+        "D014750\tChemical\tvincristine\tA 77-year-old woman with refractory multiple myeloma was treated with a 4-day continuous intravenous infusion of <target> vincristine </target> and doxorubicin and 4 days of oral dexamethasone .",
+        "D004317\tChemical\tdoxorubicin\tA 77-year-old woman with refractory multiple myeloma was treated with a 4-day continuous intravenous infusion of vincristine and <target> doxorubicin </target> and 4 days of oral dexamethasone .",
+        "D003907\tChemical\tdexamethasone\tA 77-year-old woman with refractory multiple myeloma was treated with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 days of oral <target> dexamethasone </target> .",
+        "D053609\tDisease\tlethargy\tNine days after her second cycle she presented with <target> lethargy </target> and weakness associated with hyponatremia .",
+        "D018908\tDisease\tweakness\tNine days after her second cycle she presented with lethargy and <target> weakness </target> associated with hyponatremia .",
+        "D007010\tDisease\thyponatremia\tNine days after her second cycle she presented with lethargy and weakness associated with <target> hyponatremia </target> .",
+        "D007177\tDisease\tsyndrome of inappropriate secretion of antidiuretic hormone\tEvaluation revealed the <target> syndrome of inappropriate secretion of antidiuretic hormone </target> , which was attributed to the vincristine infusion .",
+        "D014750\tChemical\tvincristine\tEvaluation revealed the syndrome of inappropriate secretion of antidiuretic hormone , which was attributed to the <target> vincristine </target> infusion .",
+        "D012964\tChemical\tsodium\tAfter normal serum <target> sodium </target> levels returned , further doxorubicin and dexamethasone chemotherapy without vincristine did not produce this complication .",
+        "D004317\tChemical\tdoxorubicin\tAfter normal serum sodium levels returned , further <target> doxorubicin </target> and dexamethasone chemotherapy without vincristine did not produce this complication .",
+        "D003907\tChemical\tdexamethasone\tAfter normal serum sodium levels returned , further doxorubicin and <target> dexamethasone </target> chemotherapy without vincristine did not produce this complication .",
+        "D014750\tChemical\tvincristine\tAfter normal serum sodium levels returned , further doxorubicin and dexamethasone chemotherapy without <target> vincristine </target> did not produce this complication ."
+    ],
+    "lines_lemma": [
+        "D007177\tDisease\tSyndrome of inappropriate secretion of antidiuretic hormone\t<target> syndrome of inappropriate secretion of antidiuretic hormone </target> after infusional vincristine .",
+        "D014750\tChemical\tvincristine\tsyndrome of inappropriate secretion of antidiuretic hormone after infusional <target> vincristine </target> .",
+        "D009101\tDisease\tmultiple myeloma\ta 77-year-old woman with refractory <target> multiple myeloma </target> be treat with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 day of oral dexamethasone .",
+        "D014750\tChemical\tvincristine\ta 77-year-old woman with refractory multiple myeloma be treat with a 4-day continuous intravenous infusion of <target> vincristine </target> and doxorubicin and 4 day of oral dexamethasone .",
+        "D004317\tChemical\tdoxorubicin\ta 77-year-old woman with refractory multiple myeloma be treat with a 4-day continuous intravenous infusion of vincristine and <target> doxorubicin </target> and 4 day of oral dexamethasone .",
+        "D003907\tChemical\tdexamethasone\ta 77-year-old woman with refractory multiple myeloma be treat with a 4-day continuous intravenous infusion of vincristine and doxorubicin and 4 day of oral <target> dexamethasone </target> .",
+        "D053609\tDisease\tlethargy\tnine day after her second cycle she present with <target> lethargy </target> and weakness associate with hyponatremia .",
+        "D018908\tDisease\tweakness\tnine day after her second cycle she present with lethargy and <target> weakness </target> associate with hyponatremia .",
+        "D007010\tDisease\thyponatremia\tnine day after her second cycle she present with lethargy and weakness associate with <target> hyponatremia </target> .",
+        "D007177\tDisease\tsyndrome of inappropriate secretion of antidiuretic hormone\tEvaluation reveal the <target> syndrome of inappropriate secretion of antidiuretic hormone </target> , which be attribute to the vincristine infusion .",
+        "D014750\tChemical\tvincristine\tEvaluation reveal the syndrome of inappropriate secretion of antidiuretic hormone , which be attribute to the <target> vincristine </target> infusion .",
+        "D012964\tChemical\tsodium\tafter normal serum <target> sodium </target> level return , further doxorubicin and dexamethasone chemotherapy without vincristine do not produce this complication .",
+        "D004317\tChemical\tdoxorubicin\tafter normal serum sodium level return , far <target> doxorubicin </target> and dexamethasone chemotherapy without vincristine do not produce this complication .",
+        "D003907\tChemical\tdexamethasone\tafter normal serum sodium level return , further doxorubicin and <target> dexamethasone </target> chemotherapy without vincristine do not produce this complication .",
+        "D014750\tChemical\tvincristine\tafter normal serum sodium level return , further doxorubicin and dexamethasone chemotherapy without <target> vincristine </target> do not produce this complication ."
+    ]
+}

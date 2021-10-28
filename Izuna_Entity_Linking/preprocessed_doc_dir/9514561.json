@@ -1,0 +1,176 @@
+{
+    "title": "Experimental cranial pain elicited by capsaicin: a PET study.",
+    "abst": "Using a positron emission tomography (PET) study it was shown recently that in migraine without aura certain areas in the brain stem were activated during the headache state, but not in the headache free interval. It was suggested that this brain stem activation is inherent to the migraine attack itself and represents the so called 'migraine generator'. To test this hypothesis we performed an experimental pain study in seven healthy volunteers, using the same positioning in the PET scanner as in the migraine patients. A small amount of capsaicin was administered subcutaneously in the right forehead to evoke a burning painful sensation in the first division of the trigeminal nerve. Increases of regional cerebral blood flow (rCBF) were found bilaterally in the insula, in the anterior cingulate cortex, the cavernous sinus and the cerebellum. Using the same stereotactic space limits as in the above mentioned migraine study no brain stem activation was found in the acute pain state compared to the pain free state. The increase of activation in the region of the cavernous sinus however, suggests that this structure is more likely to be involved in trigeminal transmitted pain as such, rather than in a specific type of headache as was suggested for cluster headache.",
+    "title_plus_abst": "Experimental cranial pain elicited by capsaicin: a PET study. Using a positron emission tomography (PET) study it was shown recently that in migraine without aura certain areas in the brain stem were activated during the headache state, but not in the headache free interval. It was suggested that this brain stem activation is inherent to the migraine attack itself and represents the so called 'migraine generator'. To test this hypothesis we performed an experimental pain study in seven healthy volunteers, using the same positioning in the PET scanner as in the migraine patients. A small amount of capsaicin was administered subcutaneously in the right forehead to evoke a burning painful sensation in the first division of the trigeminal nerve. Increases of regional cerebral blood flow (rCBF) were found bilaterally in the insula, in the anterior cingulate cortex, the cavernous sinus and the cerebellum. Using the same stereotactic space limits as in the above mentioned migraine study no brain stem activation was found in the acute pain state compared to the pain free state. The increase of activation in the region of the cavernous sinus however, suggests that this structure is more likely to be involved in trigeminal transmitted pain as such, rather than in a specific type of headache as was suggested for cluster headache.",
+    "pubmed_id": "9514561",
+    "entities": [
+        [
+            21,
+            25,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            38,
+            47,
+            "capsaicin",
+            "Chemical",
+            "D002211"
+        ],
+        [
+            141,
+            149,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            221,
+            229,
+            "headache",
+            "Disease",
+            "D006261"
+        ],
+        [
+            252,
+            260,
+            "headache",
+            "Disease",
+            "D006261"
+        ],
+        [
+            344,
+            352,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            397,
+            405,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            471,
+            475,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            567,
+            575,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            604,
+            613,
+            "capsaicin",
+            "Chemical",
+            "D002211"
+        ],
+        [
+            687,
+            694,
+            "painful",
+            "Disease",
+            "D010146"
+        ],
+        [
+            980,
+            988,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            1043,
+            1047,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            1070,
+            1074,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            1245,
+            1249,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            1293,
+            1301,
+            "headache",
+            "Disease",
+            "D006261"
+        ],
+        [
+            1323,
+            1339,
+            "cluster headache",
+            "Disease",
+            "D003027"
+        ]
+    ],
+    "split_sentence": [
+        "Experimental cranial pain elicited by capsaicin: a PET study.",
+        "Using a positron emission tomography (PET) study it was shown recently that in migraine without aura certain areas in the brain stem were activated during the headache state, but not in the headache free interval.",
+        "It was suggested that this brain stem activation is inherent to the migraine attack itself and represents the so called 'migraine generator'.",
+        "To test this hypothesis we performed an experimental pain study in seven healthy volunteers, using the same positioning in the PET scanner as in the migraine patients.",
+        "A small amount of capsaicin was administered subcutaneously in the right forehead to evoke a burning painful sensation in the first division of the trigeminal nerve.",
+        "Increases of regional cerebral blood flow (rCBF) were found bilaterally in the insula, in the anterior cingulate cortex, the cavernous sinus and the cerebellum.",
+        "Using the same stereotactic space limits as in the above mentioned migraine study no brain stem activation was found in the acute pain state compared to the pain free state.",
+        "The increase of activation in the region of the cavernous sinus however, suggests that this structure is more likely to be involved in trigeminal transmitted pain as such, rather than in a specific type of headache as was suggested for cluster headache."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010146\tDisease\tpain\tExperimental cranial <target> pain </target> elicited by capsaicin : a PET study .",
+        "D002211\tChemical\tcapsaicin\tExperimental cranial pain elicited by <target> capsaicin </target> : a PET study .",
+        "D008881\tDisease\tmigraine\tUsing a positron emission tomography ( PET ) study it was shown recently that in <target> migraine </target> without aura certain areas in the brain stem were activated during the headache state , but not in the headache free interval .",
+        "D006261\tDisease\theadache\tUsing a positron emission tomography ( PET ) study it was shown recently that in migraine without aura certain areas in the brain stem were activated during the <target> headache </target> state , but not in the headache free interval .",
+        "D006261\tDisease\theadache\tUsing a positron emission tomography ( PET ) study it was shown recently that in migraine without aura certain areas in the brain stem were activated during the headache state , but not in the <target> headache </target> free interval .",
+        "D008881\tDisease\tmigraine\tIt was suggested that this brain stem activation is inherent to the <target> migraine </target> attack itself and represents the so called ' migraine generator ' .",
+        "D008881\tDisease\tmigraine\tIt was suggested that this brain stem activation is inherent to the migraine attack itself and represents the so called ' <target> migraine </target> generator ' .",
+        "D010146\tDisease\tpain\tTo test this hypothesis we performed an experimental <target> pain </target> study in seven healthy volunteers , using the same positioning in the PET scanner as in the migraine patients .",
+        "D008881\tDisease\tmigraine\tTo test this hypothesis we performed an experimental pain study in seven healthy volunteers , using the same positioning in the PET scanner as in the <target> migraine </target> patients .",
+        "D002211\tChemical\tcapsaicin\tA small amount of <target> capsaicin </target> was administered subcutaneously in the right forehead to evoke a burning painful sensation in the first division of the trigeminal nerve .",
+        "D010146\tDisease\tpainful\tA small amount of capsaicin was administered subcutaneously in the right forehead to evoke a burning <target> painful </target> sensation in the first division of the trigeminal nerve .",
+        "D008881\tDisease\tmigraine\tUsing the same stereotactic space limits as in the above mentioned <target> migraine </target> study no brain stem activation was found in the acute pain state compared to the pain free state .",
+        "D010146\tDisease\tpain\tUsing the same stereotactic space limits as in the above mentioned migraine study no brain stem activation was found in the acute <target> pain </target> state compared to the pain free state .",
+        "D010146\tDisease\tpain\tUsing the same stereotactic space limits as in the above mentioned migraine study no brain stem activation was found in the acute pain state compared to the <target> pain </target> free state .",
+        "D010146\tDisease\tpain\tThe increase of activation in the region of the cavernous sinus however , suggests that this structure is more likely to be involved in trigeminal transmitted <target> pain </target> as such , rather than in a specific type of headache as was suggested for cluster headache .",
+        "D006261\tDisease\theadache\tThe increase of activation in the region of the cavernous sinus however , suggests that this structure is more likely to be involved in trigeminal transmitted pain as such , rather than in a specific type of <target> headache </target> as was suggested for cluster headache .",
+        "D003027\tDisease\tcluster headache\tThe increase of activation in the region of the cavernous sinus however , suggests that this structure is more likely to be involved in trigeminal transmitted pain as such , rather than in a specific type of headache as was suggested for <target> cluster headache </target> ."
+    ],
+    "lines_lemma": [
+        "D010146\tDisease\tpain\texperimental cranial <target> pain </target> elicit by capsaicin : a pet study .",
+        "D002211\tChemical\tcapsaicin\texperimental cranial pain elicit by <target> capsaicin </target> : a pet study .",
+        "D008881\tDisease\tmigraine\tuse a positron emission tomography ( pet ) study it be show recently that in <target> migraine </target> without aura certain area in the brain stem be activate during the headache state , but not in the headache free interval .",
+        "D006261\tDisease\theadache\tuse a positron emission tomography ( pet ) study it be show recently that in migraine without aura certain area in the brain stem be activate during the <target> headache </target> state , but not in the headache free interval .",
+        "D006261\tDisease\theadache\tuse a positron emission tomography ( pet ) study it be show recently that in migraine without aura certain area in the brain stem be activate during the headache state , but not in the <target> headache </target> free interval .",
+        "D008881\tDisease\tmigraine\tit be suggest that this brain stem activation be inherent to the <target> migraine </target> attack itself and represent the so call ' migraine generator ' .",
+        "D008881\tDisease\tmigraine\tit be suggest that this brain stem activation be inherent to the migraine attack itself and represent the so call ' <target> migraine </target> generator ' .",
+        "D010146\tDisease\tpain\tto test this hypothesis we perform an experimental <target> pain </target> study in seven healthy volunteer , use the same positioning in the pet scanner as in the migraine patient .",
+        "D008881\tDisease\tmigraine\tto test this hypothesis we perform an experimental pain study in seven healthy volunteer , use the same positioning in the pet scanner as in the <target> migraine </target> patient .",
+        "D002211\tChemical\tcapsaicin\ta small amount of <target> capsaicin </target> be administer subcutaneously in the right forehead to evoke a burn painful sensation in the first division of the trigeminal nerve .",
+        "D010146\tDisease\tpainful\ta small amount of capsaicin be administer subcutaneously in the right forehead to evoke a burn <target> painful </target> sensation in the first division of the trigeminal nerve .",
+        "D008881\tDisease\tmigraine\tuse the same stereotactic space limit as in the above mention <target> migraine </target> study no brain stem activation be find in the acute pain state compare to the pain free state .",
+        "D010146\tDisease\tpain\tuse the same stereotactic space limit as in the above mention migraine study no brain stem activation be find in the acute <target> pain </target> state compare to the pain free state .",
+        "D010146\tDisease\tpain\tuse the same stereotactic space limit as in the above mention migraine study no brain stem activation be find in the acute pain state compare to the <target> pain </target> free state .",
+        "D010146\tDisease\tpain\tthe increase of activation in the region of the cavernous sinus however , suggest that this structure be more likely to be involve in trigeminal transmit <target> pain </target> as such , rather than in a specific type of headache as be suggest for cluster headache .",
+        "D006261\tDisease\theadache\tthe increase of activation in the region of the cavernous sinus however , suggest that this structure be more likely to be involve in trigeminal transmit pain as such , rather than in a specific type of <target> headache </target> as be suggest for cluster headache .",
+        "D003027\tDisease\tcluster headache\tthe increase of activation in the region of the cavernous sinus however , suggest that this structure be more likely to be involve in trigeminal transmit pain as such , rather than in a specific type of headache as be suggest for <target> cluster headache </target> ."
+    ]
+}

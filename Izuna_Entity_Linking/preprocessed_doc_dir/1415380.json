@@ -1,0 +1,123 @@
+{
+    "title": "Hemolytic-uremic syndrome associated with ingestion of quinine.",
+    "abst": "Hemolytic-uremic syndrome following quinine ingestion is a newly described phenomenon, with just two previous descriptions of 4 cases in the literature. We describe a 5th case. The reaction may be mediated by the presence of antibodies reactive against platelets in the presence of quinine. Treatment has included use of plasma exchange, prednisone, aspirin, and dipyridamole. The patients have all regained some degree of renal function. However, it is unclear whether pharmacological treatment or spontaneous resolution is responsible for the improvement. Quinine-associated hemolytic-uremic syndrome probably occurs more often than is recognized. It is important to recognize this reaction when it occurs and to avoid further quinine exposure, since the reaction seems to be recurrent.",
+    "title_plus_abst": "Hemolytic-uremic syndrome associated with ingestion of quinine. Hemolytic-uremic syndrome following quinine ingestion is a newly described phenomenon, with just two previous descriptions of 4 cases in the literature. We describe a 5th case. The reaction may be mediated by the presence of antibodies reactive against platelets in the presence of quinine. Treatment has included use of plasma exchange, prednisone, aspirin, and dipyridamole. The patients have all regained some degree of renal function. However, it is unclear whether pharmacological treatment or spontaneous resolution is responsible for the improvement. Quinine-associated hemolytic-uremic syndrome probably occurs more often than is recognized. It is important to recognize this reaction when it occurs and to avoid further quinine exposure, since the reaction seems to be recurrent.",
+    "pubmed_id": "1415380",
+    "entities": [
+        [
+            0,
+            25,
+            "Hemolytic-uremic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            55,
+            62,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            64,
+            89,
+            "Hemolytic-uremic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            100,
+            107,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            346,
+            353,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            402,
+            412,
+            "prednisone",
+            "Chemical",
+            "D011241"
+        ],
+        [
+            414,
+            421,
+            "aspirin",
+            "Chemical",
+            "D001241"
+        ],
+        [
+            427,
+            439,
+            "dipyridamole",
+            "Chemical",
+            "D004176"
+        ],
+        [
+            622,
+            629,
+            "Quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            641,
+            666,
+            "hemolytic-uremic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            793,
+            800,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ]
+    ],
+    "split_sentence": [
+        "Hemolytic-uremic syndrome associated with ingestion of quinine.",
+        "Hemolytic-uremic syndrome following quinine ingestion is a newly described phenomenon, with just two previous descriptions of 4 cases in the literature.",
+        "We describe a 5th case.",
+        "The reaction may be mediated by the presence of antibodies reactive against platelets in the presence of quinine.",
+        "Treatment has included use of plasma exchange, prednisone, aspirin, and dipyridamole.",
+        "The patients have all regained some degree of renal function.",
+        "However, it is unclear whether pharmacological treatment or spontaneous resolution is responsible for the improvement.",
+        "Quinine-associated hemolytic-uremic syndrome probably occurs more often than is recognized.",
+        "It is important to recognize this reaction when it occurs and to avoid further quinine exposure, since the reaction seems to be recurrent."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006463\tDisease\tHemolytic-uremic syndrome\t<target> Hemolytic-uremic syndrome </target> associated with ingestion of quinine .",
+        "D011803\tChemical\tquinine\tHemolytic-uremic syndrome associated with ingestion of <target> quinine </target> .",
+        "D006463\tDisease\tHemolytic-uremic syndrome\t<target> Hemolytic-uremic syndrome </target> following quinine ingestion is a newly described phenomenon , with just two previous descriptions of 4 cases in the literature .",
+        "D011803\tChemical\tquinine\tHemolytic-uremic syndrome following <target> quinine </target> ingestion is a newly described phenomenon , with just two previous descriptions of 4 cases in the literature .",
+        "D011803\tChemical\tquinine\tThe reaction may be mediated by the presence of antibodies reactive against platelets in the presence of <target> quinine </target> .",
+        "D011241\tChemical\tprednisone\tTreatment has included use of plasma exchange , <target> prednisone </target> , aspirin , and dipyridamole .",
+        "D001241\tChemical\taspirin\tTreatment has included use of plasma exchange , prednisone , <target> aspirin </target> , and dipyridamole .",
+        "D004176\tChemical\tdipyridamole\tTreatment has included use of plasma exchange , prednisone , aspirin , and <target> dipyridamole </target> .",
+        "D011803\tChemical\tQuinine\t<target> Quinine </target> -associated hemolytic-uremic syndrome probably occurs more often than is recognized .",
+        "D006463\tDisease\themolytic-uremic syndrome\tQuinine-associated <target> hemolytic-uremic syndrome </target> probably occurs more often than is recognized .",
+        "D011803\tChemical\tquinine\tIt is important to recognize this reaction when it occurs and to avoid further <target> quinine </target> exposure , since the reaction seems to be recurrent ."
+    ],
+    "lines_lemma": [
+        "D006463\tDisease\tHemolytic-uremic syndrome\t<target> hemolytic-uremic syndrome </target> associate with ingestion of quinine .",
+        "D011803\tChemical\tquinine\themolytic-uremic syndrome associate with ingestion of <target> quinine </target> .",
+        "D006463\tDisease\tHemolytic-uremic syndrome\t<target> hemolytic-uremic syndrome </target> follow quinine ingestion be a newly describe phenomenon , with just two previous description of 4 case in the literature .",
+        "D011803\tChemical\tquinine\themolytic-uremic syndrome follow <target> quinine </target> ingestion be a newly describe phenomenon , with just two previous description of 4 case in the literature .",
+        "D011803\tChemical\tquinine\tthe reaction may be mediate by the presence of antibody reactive against platelet in the presence of <target> quinine </target> .",
+        "D011241\tChemical\tprednisone\ttreatment have include use of plasma exchange , <target> prednisone </target> , aspirin , and dipyridamole .",
+        "D001241\tChemical\taspirin\ttreatment have include use of plasma exchange , prednisone , <target> aspirin </target> , and dipyridamole .",
+        "D004176\tChemical\tdipyridamole\ttreatment have include use of plasma exchange , prednisone , aspirin , and <target> dipyridamole </target> .",
+        "D011803\tChemical\tQuinine\t<target> Quinine </target> -associated hemolytic-uremic syndrome probably occur more often than be recognize .",
+        "D006463\tDisease\themolytic-uremic syndrome\tquinine-associated <target> hemolytic-uremic syndrome </target> probably occur more often than be recognize .",
+        "D011803\tChemical\tquinine\tit be important to recognize this reaction when it occur and to avoid far <target> quinine </target> exposure , since the reaction seem to be recurrent ."
+    ]
+}

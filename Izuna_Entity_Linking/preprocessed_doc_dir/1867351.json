@@ -1,0 +1,112 @@
+{
+    "title": "Neuropsychiatric side effects after the use of mefloquine.",
+    "abst": "This study describes neuropsychiatric side effects in patients after treatment with mefloquine. Reactions consisted mainly of seizures, acute psychoses, anxiety neurosis, and major disturbances of sleep-wake rhythm. Side effects occurred after both therapeutic and prophylactic intake and were graded from moderate to severe. In a risk analysis of neuropsychiatric side effects in Germany, it is estimated that one of 8,000 mefloquine users suffers from such reactions. The incidence calculation revealed that one of 215 therapeutic users had reactions, compared with one of 13,000 in the prophylaxis group, making the risk of neuropsychiatric reactions after mefloquine treatment 60 times higher than after prophylaxis. Therefore, certain limitations for malaria prophylaxis and treatment with mefloquine are recommended.",
+    "title_plus_abst": "Neuropsychiatric side effects after the use of mefloquine. This study describes neuropsychiatric side effects in patients after treatment with mefloquine. Reactions consisted mainly of seizures, acute psychoses, anxiety neurosis, and major disturbances of sleep-wake rhythm. Side effects occurred after both therapeutic and prophylactic intake and were graded from moderate to severe. In a risk analysis of neuropsychiatric side effects in Germany, it is estimated that one of 8,000 mefloquine users suffers from such reactions. The incidence calculation revealed that one of 215 therapeutic users had reactions, compared with one of 13,000 in the prophylaxis group, making the risk of neuropsychiatric reactions after mefloquine treatment 60 times higher than after prophylaxis. Therefore, certain limitations for malaria prophylaxis and treatment with mefloquine are recommended.",
+    "pubmed_id": "1867351",
+    "entities": [
+        [
+            47,
+            57,
+            "mefloquine",
+            "Chemical",
+            "D015767"
+        ],
+        [
+            143,
+            153,
+            "mefloquine",
+            "Chemical",
+            "D015767"
+        ],
+        [
+            185,
+            193,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            201,
+            210,
+            "psychoses",
+            "Disease",
+            "D011605"
+        ],
+        [
+            212,
+            228,
+            "anxiety neurosis",
+            "Disease",
+            "D001008"
+        ],
+        [
+            240,
+            273,
+            "disturbances of sleep-wake rhythm",
+            "Disease",
+            "D012893"
+        ],
+        [
+            483,
+            493,
+            "mefloquine",
+            "Chemical",
+            "D015767"
+        ],
+        [
+            719,
+            729,
+            "mefloquine",
+            "Chemical",
+            "D015767"
+        ],
+        [
+            815,
+            822,
+            "malaria",
+            "Disease",
+            "D008288"
+        ],
+        [
+            854,
+            864,
+            "mefloquine",
+            "Chemical",
+            "D015767"
+        ]
+    ],
+    "split_sentence": [
+        "Neuropsychiatric side effects after the use of mefloquine.",
+        "This study describes neuropsychiatric side effects in patients after treatment with mefloquine.",
+        "Reactions consisted mainly of seizures, acute psychoses, anxiety neurosis, and major disturbances of sleep-wake rhythm.",
+        "Side effects occurred after both therapeutic and prophylactic intake and were graded from moderate to severe.",
+        "In a risk analysis of neuropsychiatric side effects in Germany, it is estimated that one of 8,000 mefloquine users suffers from such reactions.",
+        "The incidence calculation revealed that one of 215 therapeutic users had reactions, compared with one of 13,000 in the prophylaxis group, making the risk of neuropsychiatric reactions after mefloquine treatment 60 times higher than after prophylaxis.",
+        "Therefore, certain limitations for malaria prophylaxis and treatment with mefloquine are recommended."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015767\tChemical\tmefloquine\tNeuropsychiatric side effects after the use of <target> mefloquine </target> .",
+        "D015767\tChemical\tmefloquine\tThis study describes neuropsychiatric side effects in patients after treatment with <target> mefloquine </target> .",
+        "D012640\tDisease\tseizures\tReactions consisted mainly of <target> seizures </target> , acute psychoses , anxiety neurosis , and major disturbances of sleep-wake rhythm .",
+        "D011605\tDisease\tpsychoses\tReactions consisted mainly of seizures , acute <target> psychoses </target> , anxiety neurosis , and major disturbances of sleep-wake rhythm .",
+        "D001008\tDisease\tanxiety neurosis\tReactions consisted mainly of seizures , acute psychoses , <target> anxiety neurosis </target> , and major disturbances of sleep-wake rhythm .",
+        "D012893\tDisease\tdisturbances of sleep-wake rhythm\tReactions consisted mainly of seizures , acute psychoses , anxiety neurosis , and major <target> disturbances of sleep-wake rhythm </target> .",
+        "D015767\tChemical\tmefloquine\tIn a risk analysis of neuropsychiatric side effects in Germany , it is estimated that one of 8,000 <target> mefloquine </target> users suffers from such reactions .",
+        "D015767\tChemical\tmefloquine\tThe incidence calculation revealed that one of 215 therapeutic users had reactions , compared with one of 13,000 in the prophylaxis group , making the risk of neuropsychiatric reactions after <target> mefloquine </target> treatment 60 times higher than after prophylaxis .",
+        "D008288\tDisease\tmalaria\tTherefore , certain limitations for <target> malaria </target> prophylaxis and treatment with mefloquine are recommended .",
+        "D015767\tChemical\tmefloquine\tTherefore , certain limitations for malaria prophylaxis and treatment with <target> mefloquine </target> are recommended ."
+    ],
+    "lines_lemma": [
+        "D015767\tChemical\tmefloquine\tneuropsychiatric side effect after the use of <target> mefloquine </target> .",
+        "D015767\tChemical\tmefloquine\tthis study describe neuropsychiatric side effect in patient after treatment with <target> mefloquine </target> .",
+        "D012640\tDisease\tseizures\treaction consist mainly of <target> seizure </target> , acute psychosis , anxiety neurosis , and major disturbance of sleep-wake rhythm .",
+        "D011605\tDisease\tpsychoses\treaction consist mainly of seizure , acute <target> psychosis </target> , anxiety neurosis , and major disturbance of sleep-wake rhythm .",
+        "D001008\tDisease\tanxiety neurosis\treaction consist mainly of seizure , acute psychosis , <target> anxiety neurosis </target> , and major disturbance of sleep-wake rhythm .",
+        "D012893\tDisease\tdisturbances of sleep-wake rhythm\treaction consist mainly of seizure , acute psychosis , anxiety neurosis , and major <target> disturbance of sleep-wake rhythm </target> .",
+        "D015767\tChemical\tmefloquine\tin a risk analysis of neuropsychiatric side effect in Germany , it be estimate that one of 8,000 <target> mefloquine </target> user suffer from such reaction .",
+        "D015767\tChemical\tmefloquine\tthe incidence calculation reveal that one of 215 therapeutic user have reaction , compare with one of 13,000 in the prophylaxis group , make the risk of neuropsychiatric reaction after <target> mefloquine </target> treatment 60 time high than after prophylaxis .",
+        "D008288\tDisease\tmalaria\ttherefore , certain limitation for <target> malaria </target> prophylaxis and treatment with mefloquine be recommend .",
+        "D015767\tChemical\tmefloquine\ttherefore , certain limitation for malaria prophylaxis and treatment with <target> mefloquine </target> be recommend ."
+    ]
+}

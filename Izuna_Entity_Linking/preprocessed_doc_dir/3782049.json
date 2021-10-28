@@ -1,0 +1,110 @@
+{
+    "title": "A case of massive rhabdomyolysis following molindone administration.",
+    "abst": "Rhabdomyolysis is a potentially lethal syndrome that psychiatric patients seem predisposed to develop. The clinical signs and symptoms, typical laboratory features, and complications of rhabdomyolysis are presented. The case of a schizophrenic patient is reported to illustrate massive rhabdomyolysis and subsequent acute renal failure following molindone administration. Physicians who prescribe molindone should be aware of this reaction.",
+    "title_plus_abst": "A case of massive rhabdomyolysis following molindone administration. Rhabdomyolysis is a potentially lethal syndrome that psychiatric patients seem predisposed to develop. The clinical signs and symptoms, typical laboratory features, and complications of rhabdomyolysis are presented. The case of a schizophrenic patient is reported to illustrate massive rhabdomyolysis and subsequent acute renal failure following molindone administration. Physicians who prescribe molindone should be aware of this reaction.",
+    "pubmed_id": "3782049",
+    "entities": [
+        [
+            18,
+            32,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            43,
+            52,
+            "molindone",
+            "Chemical",
+            "D008972"
+        ],
+        [
+            69,
+            83,
+            "Rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            122,
+            133,
+            "psychiatric",
+            "Disease",
+            "D001523"
+        ],
+        [
+            255,
+            269,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            299,
+            312,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            355,
+            369,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            385,
+            404,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            415,
+            424,
+            "molindone",
+            "Chemical",
+            "D008972"
+        ],
+        [
+            466,
+            475,
+            "molindone",
+            "Chemical",
+            "D008972"
+        ]
+    ],
+    "split_sentence": [
+        "A case of massive rhabdomyolysis following molindone administration.",
+        "Rhabdomyolysis is a potentially lethal syndrome that psychiatric patients seem predisposed to develop.",
+        "The clinical signs and symptoms, typical laboratory features, and complications of rhabdomyolysis are presented.",
+        "The case of a schizophrenic patient is reported to illustrate massive rhabdomyolysis and subsequent acute renal failure following molindone administration.",
+        "Physicians who prescribe molindone should be aware of this reaction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012206\tDisease\trhabdomyolysis\tA case of massive <target> rhabdomyolysis </target> following molindone administration .",
+        "D008972\tChemical\tmolindone\tA case of massive rhabdomyolysis following <target> molindone </target> administration .",
+        "D012206\tDisease\tRhabdomyolysis\t<target> Rhabdomyolysis </target> is a potentially lethal syndrome that psychiatric patients seem predisposed to develop .",
+        "D001523\tDisease\tpsychiatric\tRhabdomyolysis is a potentially lethal syndrome that <target> psychiatric </target> patients seem predisposed to develop .",
+        "D012206\tDisease\trhabdomyolysis\tThe clinical signs and symptoms , typical laboratory features , and complications of <target> rhabdomyolysis </target> are presented .",
+        "D012559\tDisease\tschizophrenic\tThe case of a <target> schizophrenic </target> patient is reported to illustrate massive rhabdomyolysis and subsequent acute renal failure following molindone administration .",
+        "D012206\tDisease\trhabdomyolysis\tThe case of a schizophrenic patient is reported to illustrate massive <target> rhabdomyolysis </target> and subsequent acute renal failure following molindone administration .",
+        "D058186\tDisease\tacute renal failure\tThe case of a schizophrenic patient is reported to illustrate massive rhabdomyolysis and subsequent <target> acute renal failure </target> following molindone administration .",
+        "D008972\tChemical\tmolindone\tThe case of a schizophrenic patient is reported to illustrate massive rhabdomyolysis and subsequent acute renal failure following <target> molindone </target> administration .",
+        "D008972\tChemical\tmolindone\tPhysicians who prescribe <target> molindone </target> should be aware of this reaction ."
+    ],
+    "lines_lemma": [
+        "D012206\tDisease\trhabdomyolysis\ta case of massive <target> rhabdomyolysis </target> follow molindone administration .",
+        "D008972\tChemical\tmolindone\ta case of massive rhabdomyolysis follow <target> molindone </target> administration .",
+        "D012206\tDisease\tRhabdomyolysis\t<target> rhabdomyolysis </target> be a potentially lethal syndrome that psychiatric patient seem predispose to develop .",
+        "D001523\tDisease\tpsychiatric\trhabdomyolysis be a potentially lethal syndrome that <target> psychiatric </target> patient seem predispose to develop .",
+        "D012206\tDisease\trhabdomyolysis\tthe clinical sign and symptom , typical laboratory feature , and complication of <target> rhabdomyolysis </target> be present .",
+        "D012559\tDisease\tschizophrenic\tthe case of a <target> schizophrenic </target> patient be report to illustrate massive rhabdomyolysis and subsequent acute renal failure follow molindone administration .",
+        "D012206\tDisease\trhabdomyolysis\tthe case of a schizophrenic patient be report to illustrate massive <target> rhabdomyolysis </target> and subsequent acute renal failure follow molindone administration .",
+        "D058186\tDisease\tacute renal failure\tthe case of a schizophrenic patient be report to illustrate massive rhabdomyolysis and subsequent <target> acute renal failure </target> follow molindone administration .",
+        "D008972\tChemical\tmolindone\tthe case of a schizophrenic patient be report to illustrate massive rhabdomyolysis and subsequent acute renal failure follow <target> molindone </target> administration .",
+        "D008972\tChemical\tmolindone\tphysician who prescribe <target> molindone </target> should be aware of this reaction ."
+    ]
+}

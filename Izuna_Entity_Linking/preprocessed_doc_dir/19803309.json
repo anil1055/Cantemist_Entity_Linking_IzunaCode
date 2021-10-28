@@ -1,0 +1,63 @@
+{
+    "title": "Anaesthetists' nightmare: masseter spasm after induction in an undiagnosed case of myotonia congenita.",
+    "abst": "We report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida, who developed life threatening masseter spasm following a standard dose of intravenous suxamethonium for induction of anaesthesia. Neither the patient nor the anaesthetist was aware of the diagnosis before this potentially lethal complication occurred.",
+    "title_plus_abst": "Anaesthetists' nightmare: masseter spasm after induction in an undiagnosed case of myotonia congenita. We report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida, who developed life threatening masseter spasm following a standard dose of intravenous suxamethonium for induction of anaesthesia. Neither the patient nor the anaesthetist was aware of the diagnosis before this potentially lethal complication occurred.",
+    "pubmed_id": "19803309",
+    "entities": [
+        [
+            26,
+            40,
+            "masseter spasm",
+            "Disease",
+            "D014313"
+        ],
+        [
+            83,
+            101,
+            "myotonia congenita",
+            "Disease",
+            "D009224"
+        ],
+        [
+            136,
+            154,
+            "myotonia congenita",
+            "Disease",
+            "D009224"
+        ],
+        [
+            236,
+            250,
+            "masseter spasm",
+            "Disease",
+            "D014313"
+        ],
+        [
+            292,
+            305,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ]
+    ],
+    "split_sentence": [
+        "Anaesthetists' nightmare: masseter spasm after induction in an undiagnosed case of myotonia congenita.",
+        "We report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida, who developed life threatening masseter spasm following a standard dose of intravenous suxamethonium for induction of anaesthesia.",
+        "Neither the patient nor the anaesthetist was aware of the diagnosis before this potentially lethal complication occurred."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014313\tDisease\tmasseter spasm\tAnaesthetists ' nightmare : <target> masseter spasm </target> after induction in an undiagnosed case of myotonia congenita .",
+        "D009224\tDisease\tmyotonia congenita\tAnaesthetists ' nightmare : masseter spasm after induction in an undiagnosed case of <target> myotonia congenita </target> .",
+        "D009224\tDisease\tmyotonia congenita\tWe report an undiagnosed case of <target> myotonia congenita </target> in a 24-year-old previously healthy primigravida , who developed life threatening masseter spasm following a standard dose of intravenous suxamethonium for induction of anaesthesia .",
+        "D014313\tDisease\tmasseter spasm\tWe report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida , who developed life threatening <target> masseter spasm </target> following a standard dose of intravenous suxamethonium for induction of anaesthesia .",
+        "D013390\tChemical\tsuxamethonium\tWe report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida , who developed life threatening masseter spasm following a standard dose of intravenous <target> suxamethonium </target> for induction of anaesthesia ."
+    ],
+    "lines_lemma": [
+        "D014313\tDisease\tmasseter spasm\tanaesthetist ' nightmare : <target> masseter spasm </target> after induction in an undiagnosed case of myotonia congenita .",
+        "D009224\tDisease\tmyotonia congenita\tanaesthetist ' nightmare : masseter spasm after induction in an undiagnosed case of <target> myotonia congenita </target> .",
+        "D009224\tDisease\tmyotonia congenita\twe report an undiagnosed case of <target> myotonia congenita </target> in a 24-year-old previously healthy primigravida , who develop life threaten masseter spasm follow a standard dose of intravenous suxamethonium for induction of anaesthesia .",
+        "D014313\tDisease\tmasseter spasm\twe report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida , who develop life threaten <target> masseter spasm </target> follow a standard dose of intravenous suxamethonium for induction of anaesthesia .",
+        "D013390\tChemical\tsuxamethonium\twe report an undiagnosed case of myotonia congenita in a 24-year-old previously healthy primigravida , who develop life threaten masseter spasm follow a standard dose of intravenous <target> suxamethonium </target> for induction of anaesthesia ."
+    ]
+}

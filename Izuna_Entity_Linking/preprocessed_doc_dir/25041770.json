@@ -1,0 +1,130 @@
+{
+    "title": "Rhabdomyolysis in association with simvastatin and dosage increment in clarithromycin.",
+    "abst": "Clarithromycin is the most documented cytochrome P450 3A4 (CYP3A4) inhibitor to cause an adverse interaction with simvastatin. This particular case is of interest as rhabdomyolysis only occurred after an increase in the dose of clarithromycin. The patient developed raised cardiac biomarkers without any obvious cardiac issues, a phenomenon that has been linked to rhabdomyolysis previously. To date, there has been no reported effect of rhabdomyolysis on the structure and function of cardiac muscle. Clinicians need to be aware of prescribing concomitant medications that increase the risk of myopathy or inhibit the CYP3A4 enzyme. Our case suggests that troponin elevation could be associated with statin induced rhabdomyolysis, which may warrant further studies.",
+    "title_plus_abst": "Rhabdomyolysis in association with simvastatin and dosage increment in clarithromycin. Clarithromycin is the most documented cytochrome P450 3A4 (CYP3A4) inhibitor to cause an adverse interaction with simvastatin. This particular case is of interest as rhabdomyolysis only occurred after an increase in the dose of clarithromycin. The patient developed raised cardiac biomarkers without any obvious cardiac issues, a phenomenon that has been linked to rhabdomyolysis previously. To date, there has been no reported effect of rhabdomyolysis on the structure and function of cardiac muscle. Clinicians need to be aware of prescribing concomitant medications that increase the risk of myopathy or inhibit the CYP3A4 enzyme. Our case suggests that troponin elevation could be associated with statin induced rhabdomyolysis, which may warrant further studies.",
+    "pubmed_id": "25041770",
+    "entities": [
+        [
+            0,
+            14,
+            "Rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            35,
+            46,
+            "simvastatin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            71,
+            85,
+            "clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            87,
+            101,
+            "Clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            201,
+            212,
+            "simvastatin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            253,
+            267,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            315,
+            329,
+            "clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            452,
+            466,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            525,
+            539,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ],
+        [
+            682,
+            690,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            788,
+            794,
+            "statin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            803,
+            817,
+            "rhabdomyolysis",
+            "Disease",
+            "D012206"
+        ]
+    ],
+    "split_sentence": [
+        "Rhabdomyolysis in association with simvastatin and dosage increment in clarithromycin.",
+        "Clarithromycin is the most documented cytochrome P450 3A4 (CYP3A4) inhibitor to cause an adverse interaction with simvastatin.",
+        "This particular case is of interest as rhabdomyolysis only occurred after an increase in the dose of clarithromycin.",
+        "The patient developed raised cardiac biomarkers without any obvious cardiac issues, a phenomenon that has been linked to rhabdomyolysis previously.",
+        "To date, there has been no reported effect of rhabdomyolysis on the structure and function of cardiac muscle.",
+        "Clinicians need to be aware of prescribing concomitant medications that increase the risk of myopathy or inhibit the CYP3A4 enzyme.",
+        "Our case suggests that troponin elevation could be associated with statin induced rhabdomyolysis, which may warrant further studies."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012206\tDisease\tRhabdomyolysis\t<target> Rhabdomyolysis </target> in association with simvastatin and dosage increment in clarithromycin .",
+        "D019821\tChemical\tsimvastatin\tRhabdomyolysis in association with <target> simvastatin </target> and dosage increment in clarithromycin .",
+        "D017291\tChemical\tclarithromycin\tRhabdomyolysis in association with simvastatin and dosage increment in <target> clarithromycin </target> .",
+        "D017291\tChemical\tClarithromycin\t<target> Clarithromycin </target> is the most documented cytochrome P450 3A4 ( CYP3A4 ) inhibitor to cause an adverse interaction with simvastatin .",
+        "D019821\tChemical\tsimvastatin\tClarithromycin is the most documented cytochrome P450 3A4 ( CYP3A4 ) inhibitor to cause an adverse interaction with <target> simvastatin </target> .",
+        "D012206\tDisease\trhabdomyolysis\tThis particular case is of interest as <target> rhabdomyolysis </target> only occurred after an increase in the dose of clarithromycin .",
+        "D017291\tChemical\tclarithromycin\tThis particular case is of interest as rhabdomyolysis only occurred after an increase in the dose of <target> clarithromycin </target> .",
+        "D012206\tDisease\trhabdomyolysis\tThe patient developed raised cardiac biomarkers without any obvious cardiac issues , a phenomenon that has been linked to <target> rhabdomyolysis </target> previously .",
+        "D012206\tDisease\trhabdomyolysis\tTo date , there has been no reported effect of <target> rhabdomyolysis </target> on the structure and function of cardiac muscle .",
+        "D009135\tDisease\tmyopathy\tClinicians need to be aware of prescribing concomitant medications that increase the risk of <target> myopathy </target> or inhibit the CYP3A4 enzyme .",
+        "D019821\tChemical\tstatin\tOur case suggests that troponin elevation could be associated with <target> statin </target> induced rhabdomyolysis , which may warrant further studies .",
+        "D012206\tDisease\trhabdomyolysis\tOur case suggests that troponin elevation could be associated with statin induced <target> rhabdomyolysis </target> , which may warrant further studies ."
+    ],
+    "lines_lemma": [
+        "D012206\tDisease\tRhabdomyolysis\t<target> rhabdomyolysis </target> in association with simvastatin and dosage increment in clarithromycin .",
+        "D019821\tChemical\tsimvastatin\trhabdomyolysis in association with <target> simvastatin </target> and dosage increment in clarithromycin .",
+        "D017291\tChemical\tclarithromycin\trhabdomyolysis in association with simvastatin and dosage increment in <target> clarithromycin </target> .",
+        "D017291\tChemical\tClarithromycin\t<target> Clarithromycin </target> be the most document cytochrome p450 3a4 ( cyp3a4 ) inhibitor to cause an adverse interaction with simvastatin .",
+        "D019821\tChemical\tsimvastatin\tClarithromycin be the most document cytochrome p450 3a4 ( cyp3a4 ) inhibitor to cause an adverse interaction with <target> simvastatin </target> .",
+        "D012206\tDisease\trhabdomyolysis\tthis particular case be of interest as <target> rhabdomyolysis </target> only occur after an increase in the dose of clarithromycin .",
+        "D017291\tChemical\tclarithromycin\tthis particular case be of interest as rhabdomyolysis only occur after an increase in the dose of <target> clarithromycin </target> .",
+        "D012206\tDisease\trhabdomyolysis\tthe patient develop raise cardiac biomarker without any obvious cardiac issue , a phenomenon that have be link to <target> rhabdomyolysis </target> previously .",
+        "D012206\tDisease\trhabdomyolysis\tto date , there have be no report effect of <target> rhabdomyolysis </target> on the structure and function of cardiac muscle .",
+        "D009135\tDisease\tmyopathy\tclinician need to be aware of prescribe concomitant medication that increase the risk of <target> myopathy </target> or inhibit the cyp3a4 enzyme .",
+        "D019821\tChemical\tstatin\tour case suggest that troponin elevation could be associate with <target> statin </target> induced rhabdomyolysis , which may warrant further study .",
+        "D012206\tDisease\trhabdomyolysis\tour case suggest that troponin elevation could be associate with statin induce <target> rhabdomyolysis </target> , which may warrant further study ."
+    ]
+}

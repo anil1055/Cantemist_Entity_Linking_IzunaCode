@@ -1,0 +1,91 @@
+{
+    "title": "Palpebral twitching in a depressed adolescent on citalopram.",
+    "abst": "Current estimates suggest that between 0.4% and 8.3% of children and adolescents are affected by major depression. We report a favorable response to treatment with citalopram by a 15-year-old boy with major depression who exhibited palpebral twitching during his first 2 weeks of treatment. This may have been a side effect of citalopram as it remitted with redistribution of doses.",
+    "title_plus_abst": "Palpebral twitching in a depressed adolescent on citalopram. Current estimates suggest that between 0.4% and 8.3% of children and adolescents are affected by major depression. We report a favorable response to treatment with citalopram by a 15-year-old boy with major depression who exhibited palpebral twitching during his first 2 weeks of treatment. This may have been a side effect of citalopram as it remitted with redistribution of doses.",
+    "pubmed_id": "11642480",
+    "entities": [
+        [
+            0,
+            19,
+            "Palpebral twitching",
+            "Disease",
+            "D004409"
+        ],
+        [
+            25,
+            34,
+            "depressed",
+            "Disease",
+            "D003866"
+        ],
+        [
+            49,
+            59,
+            "citalopram",
+            "Chemical",
+            "D015283"
+        ],
+        [
+            158,
+            174,
+            "major depression",
+            "Disease",
+            "D003865"
+        ],
+        [
+            225,
+            235,
+            "citalopram",
+            "Chemical",
+            "D015283"
+        ],
+        [
+            262,
+            278,
+            "major depression",
+            "Disease",
+            "D003865"
+        ],
+        [
+            293,
+            312,
+            "palpebral twitching",
+            "Disease",
+            "D004409"
+        ],
+        [
+            388,
+            398,
+            "citalopram",
+            "Chemical",
+            "D015283"
+        ]
+    ],
+    "split_sentence": [
+        "Palpebral twitching in a depressed adolescent on citalopram.",
+        "Current estimates suggest that between 0.4% and 8.3% of children and adolescents are affected by major depression.",
+        "We report a favorable response to treatment with citalopram by a 15-year-old boy with major depression who exhibited palpebral twitching during his first 2 weeks of treatment.",
+        "This may have been a side effect of citalopram as it remitted with redistribution of doses."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004409\tDisease\tPalpebral twitching\t<target> Palpebral twitching </target> in a depressed adolescent on citalopram .",
+        "D003866\tDisease\tdepressed\tPalpebral twitching in a <target> depressed </target> adolescent on citalopram .",
+        "D015283\tChemical\tcitalopram\tPalpebral twitching in a depressed adolescent on <target> citalopram </target> .",
+        "D003865\tDisease\tmajor depression\tCurrent estimates suggest that between 0.4 % and 8.3 % of children and adolescents are affected by <target> major depression </target> .",
+        "D015283\tChemical\tcitalopram\tWe report a favorable response to treatment with <target> citalopram </target> by a 15-year-old boy with major depression who exhibited palpebral twitching during his first 2 weeks of treatment .",
+        "D003865\tDisease\tmajor depression\tWe report a favorable response to treatment with citalopram by a 15-year-old boy with <target> major depression </target> who exhibited palpebral twitching during his first 2 weeks of treatment .",
+        "D004409\tDisease\tpalpebral twitching\tWe report a favorable response to treatment with citalopram by a 15-year-old boy with major depression who exhibited <target> palpebral twitching </target> during his first 2 weeks of treatment .",
+        "D015283\tChemical\tcitalopram\tThis may have been a side effect of <target> citalopram </target> as it remitted with redistribution of doses ."
+    ],
+    "lines_lemma": [
+        "D004409\tDisease\tPalpebral twitching\t<target> Palpebral twitching </target> in a depressed adolescent on citalopram .",
+        "D003866\tDisease\tdepressed\tpalpebral twitching in a <target> depressed </target> adolescent on citalopram .",
+        "D015283\tChemical\tcitalopram\tpalpebral twitching in a depressed adolescent on <target> citalopram </target> .",
+        "D003865\tDisease\tmajor depression\tcurrent estimate suggest that between 0.4 % and 8.3 % of child and adolescent be affect by <target> major depression </target> .",
+        "D015283\tChemical\tcitalopram\twe report a favorable response to treatment with <target> citalopram </target> by a 15-year-old boy with major depression who exhibit palpebral twitching during his first 2 week of treatment .",
+        "D003865\tDisease\tmajor depression\twe report a favorable response to treatment with citalopram by a 15-year-old boy with <target> major depression </target> who exhibit palpebral twitching during his first 2 week of treatment .",
+        "D004409\tDisease\tpalpebral twitching\twe report a favorable response to treatment with citalopram by a 15-year-old boy with major depression who exhibit <target> palpebral twitching </target> during his first 2 week of treatment .",
+        "D015283\tChemical\tcitalopram\tthis may have be a side effect of <target> citalopram </target> as it remit with redistribution of dose ."
+    ]
+}

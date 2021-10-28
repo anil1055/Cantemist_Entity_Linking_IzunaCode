@@ -1,0 +1,64 @@
+{
+    "title": "The renal pathology in a case of lithium-induced diabetes insipidus.",
+    "abst": "A case of lithium-induced diabetes insipidus is reported. At necropsy microscopy shoed unique and extensive damage to cells lining the distal nephron. It is suggested that these changes represent a specific toxic effect of lithium, reported here for the first time in man.",
+    "title_plus_abst": "The renal pathology in a case of lithium-induced diabetes insipidus. A case of lithium-induced diabetes insipidus is reported. At necropsy microscopy shoed unique and extensive damage to cells lining the distal nephron. It is suggested that these changes represent a specific toxic effect of lithium, reported here for the first time in man.",
+    "pubmed_id": "1141447",
+    "entities": [
+        [
+            33,
+            40,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            49,
+            67,
+            "diabetes insipidus",
+            "Disease",
+            "D003919"
+        ],
+        [
+            79,
+            86,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            95,
+            113,
+            "diabetes insipidus",
+            "Disease",
+            "D003919"
+        ],
+        [
+            292,
+            299,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ]
+    ],
+    "split_sentence": [
+        "The renal pathology in a case of lithium-induced diabetes insipidus.",
+        "A case of lithium-induced diabetes insipidus is reported.",
+        "At necropsy microscopy shoed unique and extensive damage to cells lining the distal nephron.",
+        "It is suggested that these changes represent a specific toxic effect of lithium, reported here for the first time in man."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008094\tChemical\tlithium\tThe renal pathology in a case of <target> lithium </target> -induced diabetes insipidus .",
+        "D003919\tDisease\tdiabetes insipidus\tThe renal pathology in a case of lithium-induced <target> diabetes insipidus </target> .",
+        "D008094\tChemical\tlithium\tA case of <target> lithium </target> -induced diabetes insipidus is reported .",
+        "D003919\tDisease\tdiabetes insipidus\tA case of lithium-induced <target> diabetes insipidus </target> is reported .",
+        "D008094\tChemical\tlithium\tIt is suggested that these changes represent a specific toxic effect of <target> lithium </target> , reported here for the first time in man ."
+    ],
+    "lines_lemma": [
+        "D008094\tChemical\tlithium\tthe renal pathology in a case of <target> lithium </target> -induced diabete insipidu .",
+        "D003919\tDisease\tdiabetes insipidus\tthe renal pathology in a case of lithium-induced <target> diabete insipidu </target> .",
+        "D008094\tChemical\tlithium\ta case of <target> lithium </target> -induced diabete insipidu be report .",
+        "D003919\tDisease\tdiabetes insipidus\ta case of lithium-induced <target> diabete insipidu </target> be report .",
+        "D008094\tChemical\tlithium\tit be suggest that these change represent a specific toxic effect of <target> lithium </target> , report here for the first time in man ."
+    ]
+}

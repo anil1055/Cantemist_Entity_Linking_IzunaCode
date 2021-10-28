@@ -1,0 +1,181 @@
+{
+    "entities": [
+        [
+            1954,
+            1956,
+            "M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1919,
+            1935,
+            "Melanoma maligno",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/3"
+        ],
+        [
+            1509,
+            1531,
+            "enfermedad a distancia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            837,
+            847,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2324,
+            2334,
+            "malignidad",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            2486,
+            2502,
+            "melanoma maligno",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/3"
+        ],
+        [
+            3352,
+            3364,
+            "metastásicas",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1862,
+            1877,
+            "micrometástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            1538,
+            1547,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1766,
+            1775,
+            "neoplasia",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            934,
+            992,
+            "melanoma maligno tipo histológico de extensión superficial",
+            "MORFOLOGIA_NEOPLASIA",
+            "8743/3"
+        ],
+        [
+            2140,
+            2156,
+            "nevus pigmentado",
+            "MORFOLOGIA_NEOPLASIA",
+            "8720/0"
+        ],
+        [
+            2296,
+            2310,
+            "nevus de unión",
+            "MORFOLOGIA_NEOPLASIA",
+            "8740/0"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Melanoma maligno de tronco pT2a N2  <objetivo> M0 </objetivo> ",
+        "<objetivo> Melanoma maligno </objetivo> de tronco pT2a N2 M0.",
+        "• PET-TC: no existen datos de  <objetivo> enfermedad a distancia </objetivo> de la neoplasia cutánea diagnosticada.",
+        "Existían a nivel corporal un total de 16 lesiones pigmentadas, todas ellas sin datos de  <objetivo> malignidad </objetivo> ",
+        "Esta lesión fue estudiada por el Servicio de Dermatología Pediátrica con el diagnóstico de nevus de unión sin datos de  <objetivo> malignidad </objetivo> ",
+        "Existían a nivel corporal un total de 16 lesiones pigmentadas, todas ellas sin datos de  <objetivo> malignidad </objetivo> ",
+        "Esta lesión fue estudiada por el Servicio de Dermatología Pediátrica con el diagnóstico de nevus de unión sin datos de  <objetivo> malignidad </objetivo> ",
+        "• Exéresis de la lesión cutánea, estudio anatomopatológico:  <objetivo> melanoma maligno </objetivo> tipo histológico de extensión superficial, en fase de crecimiento vertical.",
+        "La paciente es derivada a nuestro Servicio, y con el diagnóstico de  <objetivo> melanoma maligno </objetivo> estadio IIIB se decide iniciar tratamiento con interferón según esquema de Kirkwood con finalidad adyuvante.",
+        "En nuestro Servicio se solicitó TC de cráneo urgente que descartó lesiones  <objetivo> metastásicas </objetivo> a nivel cerebral que justificaran el cuadro y bioquímica con hormonas tiroideas, vitamina B12 y ácido fólico que se encontraban en rango normal.",
+        "– Ganglio en tránsito:  <objetivo> micrometástasis </objetivo> de 0,3 mm en área capsular.",
+        "• PET-TC: no existen datos de enfermedad a distancia de la  <objetivo> neoplasia </objetivo> cutánea diagnosticada.",
+        "– Ampliación de márgenes: libres de  <objetivo> neoplasia </objetivo> ",
+        "• PET-TC: no existen datos de enfermedad a distancia de la  <objetivo> neoplasia </objetivo> cutánea diagnosticada.",
+        "– Ampliación de márgenes: libres de  <objetivo> neoplasia </objetivo> ",
+        "• Exéresis de la lesión cutánea, estudio anatomopatológico:  <objetivo> melanoma maligno tipo histológico de extensión superficial </objetivo>  en fase de crecimiento vertical.",
+        "Dado el estado de gestación de la paciente, se espera a completar el desarrollo fetal y el parto, naciendo un niño sano mediante parto eutócico que presenta  <objetivo> nevus pigmentado </objetivo> en el cuero cabelludo de 14 x 9 cm de diámetro.",
+        "Esta lesión fue estudiada por el Servicio de Dermatología Pediátrica con el diagnóstico de  <objetivo> nevus de unión </objetivo> sin datos de malignidad."
+    ],
+    "lines_lemma": [
+        "melanomar maligno de tronco pt2a N2   <objetivo> M0 </objetivo>",
+        "<objetivo> Melanoma maligno </objetivo> de tronco pt2a N2 M0 .",
+        "• PET-TC : no existir dato de   <objetivo> enfermedad a distancia </objetivo> de el neoplasio cutánea diagnosticado .",
+        "existir a nivel corporal uno total de 16 lesión pigmentada , todo él sin dato de   <objetivo> malignidad </objetivo>",
+        "este lesión ser estudiar por el Servicio de Dermatología Pediátrica con el diagnóstico de nevu de unión sin dato de   <objetivo> malignidad </objetivo>",
+        "existir a nivel corporal uno total de 16 lesión pigmentada , todo él sin dato de   <objetivo> malignidad </objetivo>",
+        "este lesión ser estudiar por el Servicio de Dermatología Pediátrica con el diagnóstico de nevu de unión sin dato de   <objetivo> malignidad </objetivo>",
+        "• Exéresis de el lesión cutáneo , estudio anatomopatológico :   <objetivo> melanomar maligno </objetivo> tipo histológico de extensión superficial , en fase de crecimiento vertical .",
+        "el paciente ser derivar a nuestro Servicio , y con el diagnóstico de   <objetivo> melanomar maligno </objetivo> estadio IIIB él decidir iniciar tratamiento con interferón según esquema de Kirkwood con finalidad adyuvante .",
+        "en nuestro Servicio él solicitar TC de cráneo urgente que descartar lesión   <objetivo> metastásica </objetivo> a nivel cerebral que justificarar el cuadro y bioquímico con hormona tiroidea , vitamina B12 y ácido fólico que él encontrar en rango normal .",
+        "– Ganglio en tránsito :   <objetivo> micrometástasis </objetivo> de 0.3 mm en área capsular .",
+        "• PET-TC : no existir dato de enfermedad a distancia de el   <objetivo> neoplasio </objetivo> cutánear diagnosticado .",
+        "– Ampliación de margen : libre de   <objetivo> neoplasio </objetivo>",
+        "• PET-TC : no existir dato de enfermedad a distancia de el   <objetivo> neoplasio </objetivo> cutánear diagnosticado .",
+        "– Ampliación de margen : libre de   <objetivo> neoplasio </objetivo>",
+        "• Exéresis de el lesión cutáneo , estudio anatomopatológico :   <objetivo> melanomar maligno tipo histológico de extensión superficial </objetivo>   en fase de crecimiento vertical .",
+        "dar el estado de gestación de el paciente , él esperar a completar el desarrollo fetal y el parto , nacer uno niño sano mediante parto eutócico que presentar   <objetivo> nevus pigmentado </objetivo> en el cuero cabelludo de 14 x 9 cm de diámetro .",
+        "este lesión ser estudiar por el Servicio de Dermatología Pediátrica con el diagnóstico de   <objetivo> nevus de unión </objetivo> sin dato de malignidad ."
+    ],
+    "pubmed_id": "onco1451",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 33 años de edad, sin antecedentes familiares ni personales de interés.",
+        "Acude derivada desde el Servicio de Dermatología por presentar durante el tercer trimestre de su primer embarazo cambio de coloración en lesión pigmentada a nivel interescapular de años de evolución, sin otra sintomatología acompañante.",
+        "Exploración física",
+        "Normocoloreada, sin hallazgos patológicos en la auscultación cardiorespiratoria ni anormalidades a la exploración abdominal.",
+        "No se palpaban adenopatías periféricas en ninguno de los niveles explorados.",
+        "A nivel interescapular presentaba lesión de 5 cm de diámetro, de coloración negruzca y bordes irregulares.",
+        "Al tacto, la palpación de la lesión era rugosa.",
+        "No presentaba zonas ulceradas ni sangrantes.",
+        "Existían a nivel corporal un total de 16 lesiones pigmentadas, todas ellas sin datos de malignidad.",
+        "Pruebas complementarias",
+        "• Exéresis de la lesión cutánea, estudio anatomopatológico: melanoma maligno tipo histológico de extensión superficial, en fase de crecimiento vertical.",
+        "Nivel III de Clark de 1,6 mm de grosor (Índice de Breslow) sin evidencia de ulceración (pT2A).",
+        "Índice mitótico de 3 mm por cuadrado.",
+        "Sin evidencia de regresión histológica, invasión vascular, invasión perineural ni satelosis, con infiltrado inflamatorio no intenso.",
+        "Bordes quirúrgicos libres de infiltración (margen mínimo a 1,5 mm de la fase de crecimiento radial).",
+        "• Bioquímica con marcadores tumorales: todos los parámetros dentro de la normalidad.",
+        "• PET-TC: no existen datos de enfermedad a distancia de la neoplasia cutánea diagnosticada.",
+        "Quistes renales simples.",
+        "No otros hallazgos significativos en el estudio de imagen.",
+        "• Ampliación de márgenes y estudio selectivo del ganglio centinela (BSGC):",
+        "– Ampliación de márgenes: libres de neoplasia.",
+        "– Ganglio centinela axilar derecho: negativo para enfermedad.",
+        "– Ganglio en tránsito: micrometástasis de 0,3 mm en área capsular.",
+        "Diagnóstico",
+        "Melanoma maligno de tronco pT2a N2 M0.",
+        "Estadio IIIB.",
+        "Evolución",
+        "Dado el estado de gestación de la paciente, se espera a completar el desarrollo fetal y el parto, naciendo un niño sano mediante parto eutócico que presenta nevus pigmentado en el cuero cabelludo de 14 x 9 cm de diámetro.",
+        "Esta lesión fue estudiada por el Servicio de Dermatología Pediátrica con el diagnóstico de nevus de unión sin datos de malignidad.",
+        "En revisiones posteriores la lesión fue disminuyendo de tamaño hasta desaparecer.",
+        "La paciente es derivada a nuestro Servicio, y con el diagnóstico de melanoma maligno estadio IIIB se decide iniciar tratamiento con interferón según esquema de Kirkwood con finalidad adyuvante.",
+        "Tratamiento",
+        "Se inicia tratamiento con interferón-α-2b a dosis de 20 UM/m2 cinco veces por semana durante cuatro semanas, con planteamiento de continuar con interferón-α-2b 10 UM/m2 subcutáneo tres veces por semana por 48 semanas.",
+        "A la tercera semana del tratamiento intravenoso, la paciente consulta en Urgencias por cuadro de hiperactividad, insomnio, aumento de energía y ánimo expansivo con verborrea, aumento de presión del habla y taquipsiquia, sin presentar sintomatología en rango psicótico.",
+        "En el Servicio de Urgencias se pauto risperidona 6 mg al día y cloracepato 10 mg, 1 comprimido cada 8 horas, derivándose de manera urgente al Servicio de Oncología.",
+        "En nuestro Servicio se solicitó TC de cráneo urgente que descartó lesiones metastásicas a nivel cerebral que justificaran el cuadro y bioquímica con hormonas tiroideas, vitamina B12 y ácido fólico que se encontraban en rango normal.",
+        "Ante tales resultados, se deriva al Servicio de Psiquiatría donde es reinterrogada sobre los antecedentes familiares, comentando que dos de sus abuelos habían presentado síndromes depresivos mayores y una tía paterna estaba en tratamiento por esquizofrenia paranoide.",
+        "Con el tratamiento pautado en el Servicio de Urgencias, se objetiva mejoría global, aunque con persistencia de la verborrea y aumento de energía, sin irritabilidad ni alteraciones del sueño, aunque con aumento de apetito y de ingesta de líquidos.",
+        "La paciente es diagnosticada de episodio maníaco grave secundario al tratamiento con interferón-α-2b.",
+        "Tras finalizar cuatro semanas de tratamiento intravenoso y por la gravedad del cuadro, se decide suspender el tratamiento adyuvante con interferón, manteniendo a la paciente en revisiones mensuales."
+    ],
+    "text": "Anamnesis\nMujer de 33 años de edad, sin antecedentes familiares ni personales de interés. Acude derivada desde el Servicio de Dermatología por presentar durante el tercer trimestre de su primer embarazo cambio de coloración en lesión pigmentada a nivel interescapular de años de evolución, sin otra sintomatología acompañante.\n\nExploración física\nNormocoloreada, sin hallazgos patológicos en la auscultación cardiorespiratoria ni anormalidades a la exploración abdominal. No se palpaban adenopatías periféricas en ninguno de los niveles explorados.\nA nivel interescapular presentaba lesión de 5 cm de diámetro, de coloración negruzca y bordes irregulares. Al tacto, la palpación de la lesión era rugosa. No presentaba zonas ulceradas ni sangrantes. Existían a nivel corporal un total de 16 lesiones pigmentadas, todas ellas sin datos de malignidad.\n\nPruebas complementarias\n• Exéresis de la lesión cutánea, estudio anatomopatológico: melanoma maligno tipo histológico de extensión superficial, en fase de crecimiento vertical. Nivel III de Clark de 1,6 mm de grosor (Índice de Breslow) sin evidencia de ulceración (pT2A). Índice mitótico de 3 mm por cuadrado. Sin evidencia de regresión histológica, invasión vascular, invasión perineural ni satelosis, con infiltrado inflamatorio no intenso. Bordes quirúrgicos libres de infiltración (margen mínimo a 1,5 mm de la fase de crecimiento radial).\n• Bioquímica con marcadores tumorales: todos los parámetros dentro de la normalidad.\n• PET-TC: no existen datos de enfermedad a distancia de la neoplasia cutánea diagnosticada. Quistes renales simples. No otros hallazgos significativos en el estudio de imagen.\n• Ampliación de márgenes y estudio selectivo del ganglio centinela (BSGC):\n– Ampliación de márgenes: libres de neoplasia.\n– Ganglio centinela axilar derecho: negativo para enfermedad.\n– Ganglio en tránsito: micrometástasis de 0,3 mm en área capsular.\n\nDiagnóstico\nMelanoma maligno de tronco pT2a N2 M0. Estadio IIIB.\n\nEvolución\nDado el estado de gestación de la paciente, se espera a completar el desarrollo fetal y el parto, naciendo un niño sano mediante parto eutócico que presenta nevus pigmentado en el cuero cabelludo de 14 x 9 cm de diámetro. Esta lesión fue estudiada por el Servicio de Dermatología Pediátrica con el diagnóstico de nevus de unión sin datos de malignidad.\nEn revisiones posteriores la lesión fue disminuyendo de tamaño hasta desaparecer.\nLa paciente es derivada a nuestro Servicio, y con el diagnóstico de melanoma maligno estadio IIIB se decide iniciar tratamiento con interferón según esquema de Kirkwood con finalidad adyuvante.\n\nTratamiento\nSe inicia tratamiento con interferón-α-2b a dosis de 20 UM/m2 cinco veces por semana durante cuatro semanas, con planteamiento de continuar con interferón-α-2b 10 UM/m2 subcutáneo tres veces por semana por 48 semanas.\nA la tercera semana del tratamiento intravenoso, la paciente consulta en Urgencias por cuadro de hiperactividad, insomnio, aumento de energía y ánimo expansivo con verborrea, aumento de presión del habla y taquipsiquia, sin presentar sintomatología en rango psicótico. En el Servicio de Urgencias se pauto risperidona 6 mg al día y cloracepato 10 mg, 1 comprimido cada 8 horas, derivándose de manera urgente al Servicio de Oncología.\nEn nuestro Servicio se solicitó TC de cráneo urgente que descartó lesiones metastásicas a nivel cerebral que justificaran el cuadro y bioquímica con hormonas tiroideas, vitamina B12 y ácido fólico que se encontraban en rango normal.\nAnte tales resultados, se deriva al Servicio de Psiquiatría donde es reinterrogada sobre los antecedentes familiares, comentando que dos de sus abuelos habían presentado síndromes depresivos mayores y una tía paterna estaba en tratamiento por esquizofrenia paranoide. Con el tratamiento pautado en el Servicio de Urgencias, se objetiva mejoría global, aunque con persistencia de la verborrea y aumento de energía, sin irritabilidad ni alteraciones del sueño, aunque con aumento de apetito y de ingesta de líquidos.\nLa paciente es diagnosticada de episodio maníaco grave secundario al tratamiento con interferón-α-2b. Tras finalizar cuatro semanas de tratamiento intravenoso y por la gravedad del cuadro, se decide suspender el tratamiento adyuvante con interferón, manteniendo a la paciente en revisiones mensuales."
+}

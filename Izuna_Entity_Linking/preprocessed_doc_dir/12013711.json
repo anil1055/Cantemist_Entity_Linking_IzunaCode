@@ -1,0 +1,167 @@
+{
+    "title": "Risperidone-associated, benign transient visual disturbances in schizophrenic patients with a past history of LSD abuse.",
+    "abst": "Two schizophrenic patients, who had a prior history of LSD abuse and who had previously developed EPS with classic antipsychotics, were successfully treated with risperidone. They both reported short episodes of transient visual disturbances, which appeared immediately after starting treatment with risperidone. This imagery resembled visual disturbances previously experienced as \"flashbacks\" related to prior LSD consumption. Risperidone administration was continued and the visual disturbances gradually wore off. During a six-month follow-up period, there was no recurrence of visual disturbances. This phenomenon may be interpreted as a benign, short-term and self-limiting side effect which does not contraindicate the use of risperidone or interfere with treatment. Conclusions based on two case reports should be taken with appropriate caution.",
+    "title_plus_abst": "Risperidone-associated, benign transient visual disturbances in schizophrenic patients with a past history of LSD abuse. Two schizophrenic patients, who had a prior history of LSD abuse and who had previously developed EPS with classic antipsychotics, were successfully treated with risperidone. They both reported short episodes of transient visual disturbances, which appeared immediately after starting treatment with risperidone. This imagery resembled visual disturbances previously experienced as \"flashbacks\" related to prior LSD consumption. Risperidone administration was continued and the visual disturbances gradually wore off. During a six-month follow-up period, there was no recurrence of visual disturbances. This phenomenon may be interpreted as a benign, short-term and self-limiting side effect which does not contraindicate the use of risperidone or interfere with treatment. Conclusions based on two case reports should be taken with appropriate caution.",
+    "pubmed_id": "12013711",
+    "entities": [
+        [
+            0,
+            11,
+            "Risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            41,
+            60,
+            "visual disturbances",
+            "Disease",
+            "D010468"
+        ],
+        [
+            64,
+            77,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            110,
+            113,
+            "LSD",
+            "Chemical",
+            "D008238"
+        ],
+        [
+            125,
+            138,
+            "schizophrenic",
+            "Disease",
+            "D012559"
+        ],
+        [
+            176,
+            179,
+            "LSD",
+            "Chemical",
+            "D008238"
+        ],
+        [
+            219,
+            222,
+            "EPS",
+            "Disease",
+            "D001480"
+        ],
+        [
+            283,
+            294,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            343,
+            362,
+            "visual disturbances",
+            "Disease",
+            "D010468"
+        ],
+        [
+            421,
+            432,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            457,
+            476,
+            "visual disturbances",
+            "Disease",
+            "D010468"
+        ],
+        [
+            533,
+            536,
+            "LSD",
+            "Chemical",
+            "D008238"
+        ],
+        [
+            550,
+            561,
+            "Risperidone",
+            "Chemical",
+            "D018967"
+        ],
+        [
+            599,
+            618,
+            "visual disturbances",
+            "Disease",
+            "D010468"
+        ],
+        [
+            703,
+            722,
+            "visual disturbances",
+            "Disease",
+            "D010468"
+        ],
+        [
+            854,
+            865,
+            "risperidone",
+            "Chemical",
+            "D018967"
+        ]
+    ],
+    "split_sentence": [
+        "Risperidone-associated, benign transient visual disturbances in schizophrenic patients with a past history of LSD abuse.",
+        "Two schizophrenic patients, who had a prior history of LSD abuse and who had previously developed EPS with classic antipsychotics, were successfully treated with risperidone.",
+        "They both reported short episodes of transient visual disturbances, which appeared immediately after starting treatment with risperidone.",
+        "This imagery resembled visual disturbances previously experienced as \"flashbacks\" related to prior LSD consumption.",
+        "Risperidone administration was continued and the visual disturbances gradually wore off.",
+        "During a six-month follow-up period, there was no recurrence of visual disturbances.",
+        "This phenomenon may be interpreted as a benign, short-term and self-limiting side effect which does not contraindicate the use of risperidone or interfere with treatment.",
+        "Conclusions based on two case reports should be taken with appropriate caution."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018967\tChemical\tRisperidone\t<target> Risperidone </target> -associated , benign transient visual disturbances in schizophrenic patients with a past history of LSD abuse .",
+        "D010468\tDisease\tvisual disturbances\tRisperidone-associated , benign transient <target> visual disturbances </target> in schizophrenic patients with a past history of LSD abuse .",
+        "D012559\tDisease\tschizophrenic\tRisperidone-associated , benign transient visual disturbances in <target> schizophrenic </target> patients with a past history of LSD abuse .",
+        "D008238\tChemical\tLSD\tRisperidone-associated , benign transient visual disturbances in schizophrenic patients with a past history of <target> LSD </target> abuse .",
+        "D012559\tDisease\tschizophrenic\tTwo <target> schizophrenic </target> patients , who had a prior history of LSD abuse and who had previously developed EPS with classic antipsychotics , were successfully treated with risperidone .",
+        "D008238\tChemical\tLSD\tTwo schizophrenic patients , who had a prior history of <target> LSD </target> abuse and who had previously developed EPS with classic antipsychotics , were successfully treated with risperidone .",
+        "D001480\tDisease\tEPS\tTwo schizophrenic patients , who had a prior history of LSD abuse and who had previously developed <target> EPS </target> with classic antipsychotics , were successfully treated with risperidone .",
+        "D018967\tChemical\trisperidone\tTwo schizophrenic patients , who had a prior history of LSD abuse and who had previously developed EPS with classic antipsychotics , were successfully treated with <target> risperidone </target> .",
+        "D010468\tDisease\tvisual disturbances\tThey both reported short episodes of transient <target> visual disturbances </target> , which appeared immediately after starting treatment with risperidone .",
+        "D018967\tChemical\trisperidone\tThey both reported short episodes of transient visual disturbances , which appeared immediately after starting treatment with <target> risperidone </target> .",
+        "D010468\tDisease\tvisual disturbances\tThis imagery resembled <target> visual disturbances </target> previously experienced as \" flashbacks \" related to prior LSD consumption .",
+        "D008238\tChemical\tLSD\tThis imagery resembled visual disturbances previously experienced as \" flashbacks \" related to prior <target> LSD </target> consumption .",
+        "D018967\tChemical\tRisperidone\t<target> Risperidone </target> administration was continued and the visual disturbances gradually wore off .",
+        "D010468\tDisease\tvisual disturbances\tRisperidone administration was continued and the <target> visual disturbances </target> gradually wore off .",
+        "D010468\tDisease\tvisual disturbances\tDuring a six-month follow-up period , there was no recurrence of <target> visual disturbances </target> .",
+        "D018967\tChemical\trisperidone\tThis phenomenon may be interpreted as a benign , short-term and self-limiting side effect which does not contraindicate the use of <target> risperidone </target> or interfere with treatment ."
+    ],
+    "lines_lemma": [
+        "D018967\tChemical\tRisperidone\t<target> risperidone </target> -associated , benign transient visual disturbance in schizophrenic patient with a past history of lsd abuse .",
+        "D010468\tDisease\tvisual disturbances\trisperidone-associated , benign transient <target> visual disturbance </target> in schizophrenic patient with a past history of lsd abuse .",
+        "D012559\tDisease\tschizophrenic\trisperidone-associated , benign transient visual disturbance in <target> schizophrenic </target> patient with a past history of lsd abuse .",
+        "D008238\tChemical\tLSD\trisperidone-associated , benign transient visual disturbance in schizophrenic patient with a past history of <target> lsd </target> abuse .",
+        "D012559\tDisease\tschizophrenic\ttwo <target> schizophrenic </target> patient , who have a prior history of lsd abuse and who have previously develop EPS with classic antipsychotic , be successfully treat with risperidone .",
+        "D008238\tChemical\tLSD\ttwo schizophrenic patient , who have a prior history of <target> lsd </target> abuse and who have previously develop EPS with classic antipsychotic , be successfully treat with risperidone .",
+        "D001480\tDisease\tEPS\ttwo schizophrenic patient , who have a prior history of lsd abuse and who have previously develop <target> eps </target> with classic antipsychotic , be successfully treat with risperidone .",
+        "D018967\tChemical\trisperidone\ttwo schizophrenic patient , who have a prior history of lsd abuse and who have previously develop EPS with classic antipsychotic , be successfully treat with <target> risperidone </target> .",
+        "D010468\tDisease\tvisual disturbances\tthey both report short episode of transient <target> visual disturbance </target> , which appear immediately after start treatment with risperidone .",
+        "D018967\tChemical\trisperidone\tthey both report short episode of transient visual disturbance , which appear immediately after start treatment with <target> risperidone </target> .",
+        "D010468\tDisease\tvisual disturbances\tthis imagery resemble <target> visual disturbance </target> previously experience as \" flashback \" related to prior lsd consumption .",
+        "D008238\tChemical\tLSD\tthis imagery resemble visual disturbance previously experience as \" flashback \" related to prior <target> lsd </target> consumption .",
+        "D018967\tChemical\tRisperidone\t<target> risperidone </target> administration be continue and the visual disturbance gradually wear off .",
+        "D010468\tDisease\tvisual disturbances\trisperidone administration be continue and the <target> visual disturbance </target> gradually wear off .",
+        "D010468\tDisease\tvisual disturbances\tduring a six-month follow-up period , there be no recurrence of <target> visual disturbance </target> .",
+        "D018967\tChemical\trisperidone\tthis phenomenon may be interpret as a benign , short-term and self-limiting side effect which do not contraindicate the use of <target> risperidone </target> or interfere with treatment ."
+    ]
+}

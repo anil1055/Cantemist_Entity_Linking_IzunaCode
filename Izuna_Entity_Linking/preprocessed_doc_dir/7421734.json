@@ -1,0 +1,127 @@
+{
+    "title": "Endometrial carcinoma after Hodgkin disease in childhood.",
+    "abst": "A 34-year-old patient developed metastic endometrial carcinoma after Hodgkin disease in childhood. She had ovarian failure after abdominal irradiation and chemotherapy for Hodgkin disease, and received exogenous estrogens, a treatment implicated in the development of endometrial cancer in menopausal women. Young women on replacement estrogens for ovarian failure after cancer therapy may also have increased risk of endometrial carcinoma and should be examined periodically.",
+    "title_plus_abst": "Endometrial carcinoma after Hodgkin disease in childhood. A 34-year-old patient developed metastic endometrial carcinoma after Hodgkin disease in childhood. She had ovarian failure after abdominal irradiation and chemotherapy for Hodgkin disease, and received exogenous estrogens, a treatment implicated in the development of endometrial cancer in menopausal women. Young women on replacement estrogens for ovarian failure after cancer therapy may also have increased risk of endometrial carcinoma and should be examined periodically.",
+    "pubmed_id": "7421734",
+    "entities": [
+        [
+            0,
+            21,
+            "Endometrial carcinoma",
+            "Disease",
+            "D016889"
+        ],
+        [
+            28,
+            43,
+            "Hodgkin disease",
+            "Disease",
+            "D006689"
+        ],
+        [
+            99,
+            120,
+            "endometrial carcinoma",
+            "Disease",
+            "D016889"
+        ],
+        [
+            127,
+            142,
+            "Hodgkin disease",
+            "Disease",
+            "D006689"
+        ],
+        [
+            165,
+            180,
+            "ovarian failure",
+            "Disease",
+            "D010049"
+        ],
+        [
+            230,
+            245,
+            "Hodgkin disease",
+            "Disease",
+            "D006689"
+        ],
+        [
+            270,
+            279,
+            "estrogens",
+            "Chemical",
+            "D004967"
+        ],
+        [
+            326,
+            344,
+            "endometrial cancer",
+            "Disease",
+            "D016889"
+        ],
+        [
+            393,
+            402,
+            "estrogens",
+            "Chemical",
+            "D004967"
+        ],
+        [
+            407,
+            422,
+            "ovarian failure",
+            "Disease",
+            "D010049"
+        ],
+        [
+            429,
+            435,
+            "cancer",
+            "Disease",
+            "D009369"
+        ],
+        [
+            476,
+            497,
+            "endometrial carcinoma",
+            "Disease",
+            "D016889"
+        ]
+    ],
+    "split_sentence": [
+        "Endometrial carcinoma after Hodgkin disease in childhood.",
+        "A 34-year-old patient developed metastic endometrial carcinoma after Hodgkin disease in childhood.",
+        "She had ovarian failure after abdominal irradiation and chemotherapy for Hodgkin disease, and received exogenous estrogens, a treatment implicated in the development of endometrial cancer in menopausal women.",
+        "Young women on replacement estrogens for ovarian failure after cancer therapy may also have increased risk of endometrial carcinoma and should be examined periodically."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D016889\tDisease\tEndometrial carcinoma\t<target> Endometrial carcinoma </target> after Hodgkin disease in childhood .",
+        "D006689\tDisease\tHodgkin disease\tEndometrial carcinoma after <target> Hodgkin disease </target> in childhood .",
+        "D016889\tDisease\tendometrial carcinoma\tA 34-year-old patient developed metastic <target> endometrial carcinoma </target> after Hodgkin disease in childhood .",
+        "D006689\tDisease\tHodgkin disease\tA 34-year-old patient developed metastic endometrial carcinoma after <target> Hodgkin disease </target> in childhood .",
+        "D010049\tDisease\tovarian failure\tShe had <target> ovarian failure </target> after abdominal irradiation and chemotherapy for Hodgkin disease , and received exogenous estrogens , a treatment implicated in the development of endometrial cancer in menopausal women .",
+        "D006689\tDisease\tHodgkin disease\tShe had ovarian failure after abdominal irradiation and chemotherapy for <target> Hodgkin disease </target> , and received exogenous estrogens , a treatment implicated in the development of endometrial cancer in menopausal women .",
+        "D004967\tChemical\testrogens\tShe had ovarian failure after abdominal irradiation and chemotherapy for Hodgkin disease , and received exogenous <target> estrogens </target> , a treatment implicated in the development of endometrial cancer in menopausal women .",
+        "D016889\tDisease\tendometrial cancer\tShe had ovarian failure after abdominal irradiation and chemotherapy for Hodgkin disease , and received exogenous estrogens , a treatment implicated in the development of <target> endometrial cancer </target> in menopausal women .",
+        "D004967\tChemical\testrogens\tYoung women on replacement <target> estrogens </target> for ovarian failure after cancer therapy may also have increased risk of endometrial carcinoma and should be examined periodically .",
+        "D010049\tDisease\tovarian failure\tYoung women on replacement estrogens for <target> ovarian failure </target> after cancer therapy may also have increased risk of endometrial carcinoma and should be examined periodically .",
+        "D009369\tDisease\tcancer\tYoung women on replacement estrogens for ovarian failure after <target> cancer </target> therapy may also have increased risk of endometrial carcinoma and should be examined periodically .",
+        "D016889\tDisease\tendometrial carcinoma\tYoung women on replacement estrogens for ovarian failure after cancer therapy may also have increased risk of <target> endometrial carcinoma </target> and should be examined periodically ."
+    ],
+    "lines_lemma": [
+        "D016889\tDisease\tEndometrial carcinoma\t<target> endometrial carcinoma </target> after hodgkin disease in childhood .",
+        "D006689\tDisease\tHodgkin disease\tendometrial carcinoma after <target> hodgkin disease </target> in childhood .",
+        "D016889\tDisease\tendometrial carcinoma\ta 34-year-old patient develop metastic <target> endometrial carcinoma </target> after hodgkin disease in childhood .",
+        "D006689\tDisease\tHodgkin disease\ta 34-year-old patient develop metastic endometrial carcinoma after <target> hodgkin disease </target> in childhood .",
+        "D010049\tDisease\tovarian failure\tshe have <target> ovarian failure </target> after abdominal irradiation and chemotherapy for hodgkin disease , and receive exogenous estrogen , a treatment implicate in the development of endometrial cancer in menopausal woman .",
+        "D006689\tDisease\tHodgkin disease\tshe have ovarian failure after abdominal irradiation and chemotherapy for <target> hodgkin disease </target> , and receive exogenous estrogen , a treatment implicate in the development of endometrial cancer in menopausal woman .",
+        "D004967\tChemical\testrogens\tshe have ovarian failure after abdominal irradiation and chemotherapy for hodgkin disease , and receive exogenous <target> estrogen </target> , a treatment implicate in the development of endometrial cancer in menopausal woman .",
+        "D016889\tDisease\tendometrial cancer\tshe have ovarian failure after abdominal irradiation and chemotherapy for hodgkin disease , and receive exogenous estrogen , a treatment implicate in the development of <target> endometrial cancer </target> in menopausal woman .",
+        "D004967\tChemical\testrogens\tyoung woman on replacement <target> estrogen </target> for ovarian failure after cancer therapy may also have increase risk of endometrial carcinoma and should be examine periodically .",
+        "D010049\tDisease\tovarian failure\tyoung woman on replacement estrogen for <target> ovarian failure </target> after cancer therapy may also have increase risk of endometrial carcinoma and should be examine periodically .",
+        "D009369\tDisease\tcancer\tyoung woman on replacement estrogen for ovarian failure after <target> cancer </target> therapy may also have increase risk of endometrial carcinoma and should be examine periodically .",
+        "D016889\tDisease\tendometrial carcinoma\tyoung woman on replacement estrogen for ovarian failure after cancer therapy may also have increase risk of <target> endometrial carcinoma </target> and should be examine periodically ."
+    ]
+}

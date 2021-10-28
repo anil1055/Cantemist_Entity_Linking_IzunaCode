@@ -1,0 +1,191 @@
+{
+    "title": "Valproate-induced chorea and encephalopathy in atypical nonketotic hyperglycinemia.",
+    "abst": "Nonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments. In the classical form it presents as neonatal apnea, intractable seizures, and hypotonia, followed by significant psychomotor retardation. An important subset of children with nonketotic hyperglycinemia are atypical variants who present in a heterogeneous manner. This report describes a patient with mild language delay and mental retardation, who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy.",
+    "title_plus_abst": "Valproate-induced chorea and encephalopathy in atypical nonketotic hyperglycinemia. Nonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments. In the classical form it presents as neonatal apnea, intractable seizures, and hypotonia, followed by significant psychomotor retardation. An important subset of children with nonketotic hyperglycinemia are atypical variants who present in a heterogeneous manner. This report describes a patient with mild language delay and mental retardation, who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy.",
+    "pubmed_id": "17074608",
+    "entities": [
+        [
+            0,
+            9,
+            "Valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            18,
+            24,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            29,
+            43,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            56,
+            82,
+            "nonketotic hyperglycinemia",
+            "Disease",
+            "D020158"
+        ],
+        [
+            84,
+            110,
+            "Nonketotic hyperglycinemia",
+            "Disease",
+            "D020158"
+        ],
+        [
+            116,
+            149,
+            "disorder of amino acid metabolism",
+            "Disease",
+            "D000592"
+        ],
+        [
+            175,
+            182,
+            "glycine",
+            "Chemical",
+            "D005998"
+        ],
+        [
+            227,
+            234,
+            "glycine",
+            "Chemical",
+            "D005998"
+        ],
+        [
+            323,
+            328,
+            "apnea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            342,
+            350,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            356,
+            365,
+            "hypotonia",
+            "Disease",
+            "D009123"
+        ],
+        [
+            391,
+            414,
+            "psychomotor retardation",
+            "Disease",
+            "D011596"
+        ],
+        [
+            453,
+            479,
+            "nonketotic hyperglycinemia",
+            "Disease",
+            "D020158"
+        ],
+        [
+            583,
+            597,
+            "language delay",
+            "Disease",
+            "D007805"
+        ],
+        [
+            602,
+            620,
+            "mental retardation",
+            "Disease",
+            "D008607"
+        ],
+        [
+            644,
+            670,
+            "nonketotic hyperglycinemia",
+            "Disease",
+            "D020158"
+        ],
+        [
+            709,
+            723,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            728,
+            734,
+            "chorea",
+            "Disease",
+            "D002819"
+        ],
+        [
+            763,
+            772,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ]
+    ],
+    "split_sentence": [
+        "Valproate-induced chorea and encephalopathy in atypical nonketotic hyperglycinemia.",
+        "Nonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments.",
+        "In the classical form it presents as neonatal apnea, intractable seizures, and hypotonia, followed by significant psychomotor retardation.",
+        "An important subset of children with nonketotic hyperglycinemia are atypical variants who present in a heterogeneous manner.",
+        "This report describes a patient with mild language delay and mental retardation, who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014635\tChemical\tValproate\t<target> Valproate </target> -induced chorea and encephalopathy in atypical nonketotic hyperglycinemia .",
+        "D002819\tDisease\tchorea\tValproate-induced <target> chorea </target> and encephalopathy in atypical nonketotic hyperglycinemia .",
+        "D001927\tDisease\tencephalopathy\tValproate-induced chorea and <target> encephalopathy </target> in atypical nonketotic hyperglycinemia .",
+        "D020158\tDisease\tnonketotic hyperglycinemia\tValproate-induced chorea and encephalopathy in atypical <target> nonketotic hyperglycinemia </target> .",
+        "D020158\tDisease\tNonketotic hyperglycinemia\t<target> Nonketotic hyperglycinemia </target> is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments .",
+        "D000592\tDisease\tdisorder of amino acid metabolism\tNonketotic hyperglycinemia is a <target> disorder of amino acid metabolism </target> in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments .",
+        "D005998\tChemical\tglycine\tNonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the <target> glycine </target> cleavage system leads to an accumulation of glycine in the brain and other body compartments .",
+        "D005998\tChemical\tglycine\tNonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of <target> glycine </target> in the brain and other body compartments .",
+        "D001049\tDisease\tapnea\tIn the classical form it presents as neonatal <target> apnea </target> , intractable seizures , and hypotonia , followed by significant psychomotor retardation .",
+        "D012640\tDisease\tseizures\tIn the classical form it presents as neonatal apnea , intractable <target> seizures </target> , and hypotonia , followed by significant psychomotor retardation .",
+        "D009123\tDisease\thypotonia\tIn the classical form it presents as neonatal apnea , intractable seizures , and <target> hypotonia </target> , followed by significant psychomotor retardation .",
+        "D011596\tDisease\tpsychomotor retardation\tIn the classical form it presents as neonatal apnea , intractable seizures , and hypotonia , followed by significant <target> psychomotor retardation </target> .",
+        "D020158\tDisease\tnonketotic hyperglycinemia\tAn important subset of children with <target> nonketotic hyperglycinemia </target> are atypical variants who present in a heterogeneous manner .",
+        "D007805\tDisease\tlanguage delay\tThis report describes a patient with mild <target> language delay </target> and mental retardation , who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy .",
+        "D008607\tDisease\tmental retardation\tThis report describes a patient with mild language delay and <target> mental retardation </target> , who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy .",
+        "D020158\tDisease\tnonketotic hyperglycinemia\tThis report describes a patient with mild language delay and mental retardation , who was found to have <target> nonketotic hyperglycinemia </target> following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy .",
+        "D001927\tDisease\tencephalopathy\tThis report describes a patient with mild language delay and mental retardation , who was found to have nonketotic hyperglycinemia following her presentation with acute <target> encephalopathy </target> and chorea shortly after initiation of valproate therapy .",
+        "D002819\tDisease\tchorea\tThis report describes a patient with mild language delay and mental retardation , who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and <target> chorea </target> shortly after initiation of valproate therapy .",
+        "D014635\tChemical\tvalproate\tThis report describes a patient with mild language delay and mental retardation , who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of <target> valproate </target> therapy ."
+    ],
+    "lines_lemma": [
+        "D014635\tChemical\tValproate\t<target> Valproate </target> -induced chorea and encephalopathy in atypical nonketotic hyperglycinemia .",
+        "D002819\tDisease\tchorea\tvalproate-induced <target> chorea </target> and encephalopathy in atypical nonketotic hyperglycinemia .",
+        "D001927\tDisease\tencephalopathy\tvalproate-induced chorea and <target> encephalopathy </target> in atypical nonketotic hyperglycinemia .",
+        "D020158\tDisease\tnonketotic hyperglycinemia\tvalproate-induced chorea and encephalopathy in atypical <target> nonketotic hyperglycinemia </target> .",
+        "D020158\tDisease\tNonketotic hyperglycinemia\t<target> nonketotic hyperglycinemia </target> be a disorder of amino acid metabolism in which a defect in the glycine cleavage system lead to an accumulation of glycine in the brain and other body compartment .",
+        "D000592\tDisease\tdisorder of amino acid metabolism\tnonketotic hyperglycinemia be a <target> disorder of amino acid metabolism </target> in which a defect in the glycine cleavage system lead to an accumulation of glycine in the brain and other body compartment .",
+        "D005998\tChemical\tglycine\tnonketotic hyperglycinemia be a disorder of amino acid metabolism in which a defect in the <target> glycine </target> cleavage system lead to an accumulation of glycine in the brain and other body compartment .",
+        "D005998\tChemical\tglycine\tnonketotic hyperglycinemia be a disorder of amino acid metabolism in which a defect in the glycine cleavage system lead to an accumulation of <target> glycine </target> in the brain and other body compartment .",
+        "D001049\tDisease\tapnea\tin the classical form it present as neonatal <target> apnea </target> , intractable seizure , and hypotonia , follow by significant psychomotor retardation .",
+        "D012640\tDisease\tseizures\tin the classical form it present as neonatal apnea , intractable <target> seizure </target> , and hypotonia , follow by significant psychomotor retardation .",
+        "D009123\tDisease\thypotonia\tin the classical form it present as neonatal apnea , intractable seizure , and <target> hypotonia </target> , follow by significant psychomotor retardation .",
+        "D011596\tDisease\tpsychomotor retardation\tin the classical form it present as neonatal apnea , intractable seizure , and hypotonia , follow by significant <target> psychomotor retardation </target> .",
+        "D020158\tDisease\tnonketotic hyperglycinemia\tan important subset of child with <target> nonketotic hyperglycinemia </target> be atypical variant who present in a heterogeneous manner .",
+        "D007805\tDisease\tlanguage delay\tthis report describe a patient with mild <target> language delay </target> and mental retardation , who be find to have nonketotic hyperglycinemia follow her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy .",
+        "D008607\tDisease\tmental retardation\tthis report describe a patient with mild language delay and <target> mental retardation </target> , who be find to have nonketotic hyperglycinemia follow her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy .",
+        "D020158\tDisease\tnonketotic hyperglycinemia\tthis report describe a patient with mild language delay and mental retardation , who be find to have <target> nonketotic hyperglycinemia </target> follow her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy .",
+        "D001927\tDisease\tencephalopathy\tthis report describe a patient with mild language delay and mental retardation , who be find to have nonketotic hyperglycinemia follow her presentation with acute <target> encephalopathy </target> and chorea shortly after initiation of valproate therapy .",
+        "D002819\tDisease\tchorea\tthis report describe a patient with mild language delay and mental retardation , who be find to have nonketotic hyperglycinemia follow her presentation with acute encephalopathy and <target> chorea </target> shortly after initiation of valproate therapy .",
+        "D014635\tChemical\tvalproate\tthis report describe a patient with mild language delay and mental retardation , who be find to have nonketotic hyperglycinemia follow her presentation with acute encephalopathy and chorea shortly after initiation of <target> valproate </target> therapy ."
+    ]
+}

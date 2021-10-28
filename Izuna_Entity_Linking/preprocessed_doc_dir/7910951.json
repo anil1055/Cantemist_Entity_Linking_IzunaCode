@@ -1,0 +1,196 @@
+{
+    "title": "Prolonged paralysis due to nondepolarizing neuromuscular blocking agents and corticosteroids.",
+    "abst": "The long-term use of nondepolarizing neuromuscular blocking agents (ND-NMBA) has recently been implicated as a cause of prolonged muscle weakness, although the site of the lesion and the predisposing factors have been unclear. We report 3 patients (age 37-52 years) with acute respiratory insufficiency who developed prolonged weakness following the discontinuation of ND-NMBAs. Two patients also received intravenous corticosteroids. Renal function was normal but hepatic function was impaired in all patients, and all had acidosis. Electrophysiologic studies revealed low amplitude compound motor action potentials, normal sensory studies, and fibrillations. Repetitive stimulation at 2 Hz showed a decremental response in 2 patients. The serum vecuronium level measured in 1 patient 14 days after the drug had been discontinued was 172 ng/mL. A muscle biopsy in this patient showed loss of thick, myosin filaments. The weakness in these patients is due to pathology at both the neuromuscular junction (most likely due to ND-NMBA) and muscle (most likely due to corticosteroids). Hepatic dysfunction and acidosis are contributing risk factors.",
+    "title_plus_abst": "Prolonged paralysis due to nondepolarizing neuromuscular blocking agents and corticosteroids. The long-term use of nondepolarizing neuromuscular blocking agents (ND-NMBA) has recently been implicated as a cause of prolonged muscle weakness, although the site of the lesion and the predisposing factors have been unclear. We report 3 patients (age 37-52 years) with acute respiratory insufficiency who developed prolonged weakness following the discontinuation of ND-NMBAs. Two patients also received intravenous corticosteroids. Renal function was normal but hepatic function was impaired in all patients, and all had acidosis. Electrophysiologic studies revealed low amplitude compound motor action potentials, normal sensory studies, and fibrillations. Repetitive stimulation at 2 Hz showed a decremental response in 2 patients. The serum vecuronium level measured in 1 patient 14 days after the drug had been discontinued was 172 ng/mL. A muscle biopsy in this patient showed loss of thick, myosin filaments. The weakness in these patients is due to pathology at both the neuromuscular junction (most likely due to ND-NMBA) and muscle (most likely due to corticosteroids). Hepatic dysfunction and acidosis are contributing risk factors.",
+    "pubmed_id": "7910951",
+    "entities": [
+        [
+            10,
+            19,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            27,
+            72,
+            "nondepolarizing neuromuscular blocking agents",
+            "Chemical",
+            "D003473"
+        ],
+        [
+            77,
+            92,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            115,
+            160,
+            "nondepolarizing neuromuscular blocking agents",
+            "Chemical",
+            "D003473"
+        ],
+        [
+            162,
+            169,
+            "ND-NMBA",
+            "Chemical",
+            "D003473"
+        ],
+        [
+            224,
+            239,
+            "muscle weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            371,
+            396,
+            "respiratory insufficiency",
+            "Disease",
+            "D012131"
+        ],
+        [
+            421,
+            429,
+            "weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            463,
+            471,
+            "ND-NMBAs",
+            "Chemical",
+            "D003473"
+        ],
+        [
+            512,
+            527,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            618,
+            626,
+            "acidosis",
+            "Disease",
+            "D000138"
+        ],
+        [
+            841,
+            851,
+            "vecuronium",
+            "Chemical",
+            "D014673"
+        ],
+        [
+            979,
+            1010,
+            "loss of thick, myosin filaments",
+            "Disease",
+            "D009135"
+        ],
+        [
+            1016,
+            1024,
+            "weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            1053,
+            1097,
+            "pathology at both the neuromuscular junction",
+            "Disease",
+            "D009468"
+        ],
+        [
+            1118,
+            1125,
+            "ND-NMBA",
+            "Chemical",
+            "D003473"
+        ],
+        [
+            1158,
+            1173,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            1176,
+            1195,
+            "Hepatic dysfunction",
+            "Disease",
+            "D008107"
+        ],
+        [
+            1200,
+            1208,
+            "acidosis",
+            "Disease",
+            "D000138"
+        ]
+    ],
+    "split_sentence": [
+        "Prolonged paralysis due to nondepolarizing neuromuscular blocking agents and corticosteroids.",
+        "The long-term use of nondepolarizing neuromuscular blocking agents (ND-NMBA) has recently been implicated as a cause of prolonged muscle weakness, although the site of the lesion and the predisposing factors have been unclear.",
+        "We report 3 patients (age 37-52 years) with acute respiratory insufficiency who developed prolonged weakness following the discontinuation of ND-NMBAs.",
+        "Two patients also received intravenous corticosteroids.",
+        "Renal function was normal but hepatic function was impaired in all patients, and all had acidosis.",
+        "Electrophysiologic studies revealed low amplitude compound motor action potentials, normal sensory studies, and fibrillations.",
+        "Repetitive stimulation at 2 Hz showed a decremental response in 2 patients.",
+        "The serum vecuronium level measured in 1 patient 14 days after the drug had been discontinued was 172 ng/mL. A muscle biopsy in this patient showed loss of thick, myosin filaments.",
+        "The weakness in these patients is due to pathology at both the neuromuscular junction (most likely due to ND-NMBA) and muscle (most likely due to corticosteroids).",
+        "Hepatic dysfunction and acidosis are contributing risk factors."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010243\tDisease\tparalysis\tProlonged <target> paralysis </target> due to nondepolarizing neuromuscular blocking agents and corticosteroids .",
+        "D003473\tChemical\tnondepolarizing neuromuscular blocking agents\tProlonged paralysis due to <target> nondepolarizing neuromuscular blocking agents </target> and corticosteroids .",
+        "D000305\tChemical\tcorticosteroids\tProlonged paralysis due to nondepolarizing neuromuscular blocking agents and <target> corticosteroids </target> .",
+        "D003473\tChemical\tnondepolarizing neuromuscular blocking agents\tThe long-term use of <target> nondepolarizing neuromuscular blocking agents </target> ( ND-NMBA ) has recently been implicated as a cause of prolonged muscle weakness , although the site of the lesion and the predisposing factors have been unclear .",
+        "D003473\tChemical\tND-NMBA\tThe long-term use of nondepolarizing neuromuscular blocking agents ( <target> ND-NMBA </target> ) has recently been implicated as a cause of prolonged muscle weakness , although the site of the lesion and the predisposing factors have been unclear .",
+        "D018908\tDisease\tmuscle weakness\tThe long-term use of nondepolarizing neuromuscular blocking agents ( ND-NMBA ) has recently been implicated as a cause of prolonged <target> muscle weakness </target> , although the site of the lesion and the predisposing factors have been unclear .",
+        "D012131\tDisease\trespiratory insufficiency\tWe report 3 patients ( age 37 - 52 years ) with acute <target> respiratory insufficiency </target> who developed prolonged weakness following the discontinuation of ND-NMBAs .",
+        "D018908\tDisease\tweakness\tWe report 3 patients ( age 37 - 52 years ) with acute respiratory insufficiency who developed prolonged <target> weakness </target> following the discontinuation of ND-NMBAs .",
+        "D003473\tChemical\tND-NMBAs\tWe report 3 patients ( age 37 - 52 years ) with acute respiratory insufficiency who developed prolonged weakness following the discontinuation of <target> ND-NMBAs </target> .",
+        "D000305\tChemical\tcorticosteroids\tTwo patients also received intravenous <target> corticosteroids </target> .",
+        "D000138\tDisease\tacidosis\tRenal function was normal but hepatic function was impaired in all patients , and all had <target> acidosis </target> .",
+        "D014673\tChemical\tvecuronium\tThe serum <target> vecuronium </target> level measured in 1 patient 14 days after the drug had been discontinued was 172 ng/mL. A muscle biopsy in this patient showed loss of thick , myosin filaments .",
+        "D009135\tDisease\tloss of thick, myosin filaments\tThe serum vecuronium level measured in 1 patient 14 days after the drug had been discontinued was 172 ng/mL. A muscle biopsy in this patient showed <target> loss of thick , myosin filaments </target> .",
+        "D018908\tDisease\tweakness\tThe <target> weakness </target> in these patients is due to pathology at both the neuromuscular junction ( most likely due to ND-NMBA ) and muscle ( most likely due to corticosteroids ) .",
+        "D009468\tDisease\tpathology at both the neuromuscular junction\tThe weakness in these patients is due to <target> pathology at both the neuromuscular junction </target> ( most likely due to ND-NMBA ) and muscle ( most likely due to corticosteroids ) .",
+        "D003473\tChemical\tND-NMBA\tThe weakness in these patients is due to pathology at both the neuromuscular junction ( most likely due to <target> ND-NMBA </target> ) and muscle ( most likely due to corticosteroids ) .",
+        "D000305\tChemical\tcorticosteroids\tThe weakness in these patients is due to pathology at both the neuromuscular junction ( most likely due to ND-NMBA ) and muscle ( most likely due to <target> corticosteroids </target> ) .",
+        "D008107\tDisease\tHepatic dysfunction\t<target> Hepatic dysfunction </target> and acidosis are contributing risk factors .",
+        "D000138\tDisease\tacidosis\tHepatic dysfunction and <target> acidosis </target> are contributing risk factors ."
+    ],
+    "lines_lemma": [
+        "D010243\tDisease\tparalysis\tProlonged <target> paralysis </target> due to nondepolarize neuromuscular blocking agent and corticosteroid .",
+        "D003473\tChemical\tnondepolarizing neuromuscular blocking agents\tprolonged paralysis due to <target> nondepolarizing neuromuscular blocking agent </target> and corticosteroid .",
+        "D000305\tChemical\tcorticosteroids\tprolonged paralysis due to nondepolarize neuromuscular blocking agent and <target> corticosteroid </target> .",
+        "D003473\tChemical\tnondepolarizing neuromuscular blocking agents\tthe long-term use of <target> nondepolarizing neuromuscular blocking agent </target> ( nd-nmba ) have recently be implicate as a cause of prolonged muscle weakness , although the site of the lesion and the predispose factor have be unclear .",
+        "D003473\tChemical\tND-NMBA\tthe long-term use of nondepolarize neuromuscular blocking agent ( <target> nd-nmba </target> ) have recently be implicate as a cause of prolonged muscle weakness , although the site of the lesion and the predispose factor have be unclear .",
+        "D018908\tDisease\tmuscle weakness\tthe long-term use of nondepolarize neuromuscular blocking agent ( nd-nmba ) have recently be implicate as a cause of prolonged <target> muscle weakness </target> , although the site of the lesion and the predispose factor have be unclear .",
+        "D012131\tDisease\trespiratory insufficiency\twe report 3 patient ( age 37 - 52 year ) with acute <target> respiratory insufficiency </target> who develop prolonged weakness follow the discontinuation of nd-nmbas .",
+        "D018908\tDisease\tweakness\twe report 3 patient ( age 37 - 52 year ) with acute respiratory insufficiency who develop prolonged <target> weakness </target> follow the discontinuation of nd-nmbas .",
+        "D003473\tChemical\tND-NMBAs\twe report 3 patient ( age 37 - 52 year ) with acute respiratory insufficiency who develop prolonged weakness follow the discontinuation of <target> nd-nmbas </target> .",
+        "D000305\tChemical\tcorticosteroids\ttwo patient also receive intravenous <target> corticosteroid </target> .",
+        "D000138\tDisease\tacidosis\trenal function be normal but hepatic function be impaired in all patient , and all have <target> acidosis </target> .",
+        "D014673\tChemical\tvecuronium\tthe serum <target> vecuronium </target> level measure in 1 patient 14 day after the drug have be discontinue be 172 ng/ml. a muscle biopsy in this patient show loss of thick , myosin filament .",
+        "D009135\tDisease\tloss of thick, myosin filaments\tthe serum vecuronium level measure in 1 patient 14 day after the drug have be discontinue be 172 ng/ml. a muscle biopsy in this patient show <target> loss of thick , myosin filament </target> .",
+        "D018908\tDisease\tweakness\tthe <target> weakness </target> in these patient be due to pathology at both the neuromuscular junction ( most likely due to nd-nmba ) and muscle ( most likely due to corticosteroid ) .",
+        "D009468\tDisease\tpathology at both the neuromuscular junction\tthe weakness in these patient be due to <target> pathology at both the neuromuscular junction </target> ( most likely due to nd-nmba ) and muscle ( most likely due to corticosteroid ) .",
+        "D003473\tChemical\tND-NMBA\tthe weakness in these patient be due to pathology at both the neuromuscular junction ( most likely due to <target> nd-nmba </target> ) and muscle ( most likely due to corticosteroid ) .",
+        "D000305\tChemical\tcorticosteroids\tthe weakness in these patient be due to pathology at both the neuromuscular junction ( most likely due to nd-nmba ) and muscle ( most likely due to <target> corticosteroid </target> ) .",
+        "D008107\tDisease\tHepatic dysfunction\t<target> hepatic dysfunction </target> and acidosis be contribute risk factor .",
+        "D000138\tDisease\tacidosis\thepatic dysfunction and <target> acidosis </target> be contribute risk factor ."
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Glycopyrronium requirements for antagonism of the muscarinic side effects of edrophonium.",
+    "abst": "We have compared, in 60 adult patients, the cardiovascular effects of glycopyrronium 5 micrograms kg-1 and 10 micrograms kg-1 given either simultaneously or 1 min before edrophonium 1 mg kg-1. Significant differences between the four groups were detected (P less than 0.001). Both groups receiving 10 micrograms kg-1 showed increases in heart rate of up to 30 beat min-1 (95% confidence limits 28-32 beat min-1). Use of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and, given 1 min before the edrophonium, was sufficient to minimize early, edrophonium-induced bradycardias. This low dose of glycopyrronium provided good control of oropharyngeal secretions.",
+    "title_plus_abst": "Glycopyrronium requirements for antagonism of the muscarinic side effects of edrophonium. We have compared, in 60 adult patients, the cardiovascular effects of glycopyrronium 5 micrograms kg-1 and 10 micrograms kg-1 given either simultaneously or 1 min before edrophonium 1 mg kg-1. Significant differences between the four groups were detected (P less than 0.001). Both groups receiving 10 micrograms kg-1 showed increases in heart rate of up to 30 beat min-1 (95% confidence limits 28-32 beat min-1). Use of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and, given 1 min before the edrophonium, was sufficient to minimize early, edrophonium-induced bradycardias. This low dose of glycopyrronium provided good control of oropharyngeal secretions.",
+    "pubmed_id": "2917114",
+    "entities": [
+        [
+            0,
+            14,
+            "Glycopyrronium",
+            "Chemical",
+            "D006024"
+        ],
+        [
+            77,
+            88,
+            "edrophonium",
+            "Chemical",
+            "D004491"
+        ],
+        [
+            160,
+            174,
+            "glycopyrronium",
+            "Chemical",
+            "D006024"
+        ],
+        [
+            260,
+            271,
+            "edrophonium",
+            "Chemical",
+            "D004491"
+        ],
+        [
+            510,
+            524,
+            "glycopyrronium",
+            "Chemical",
+            "D006024"
+        ],
+        [
+            613,
+            624,
+            "edrophonium",
+            "Chemical",
+            "D004491"
+        ],
+        [
+            660,
+            671,
+            "edrophonium",
+            "Chemical",
+            "D004491"
+        ],
+        [
+            680,
+            692,
+            "bradycardias",
+            "Disease",
+            "D001919"
+        ],
+        [
+            711,
+            725,
+            "glycopyrronium",
+            "Chemical",
+            "D006024"
+        ]
+    ],
+    "split_sentence": [
+        "Glycopyrronium requirements for antagonism of the muscarinic side effects of edrophonium.",
+        "We have compared, in 60 adult patients, the cardiovascular effects of glycopyrronium 5 micrograms kg-1 and 10 micrograms kg-1 given either simultaneously or 1 min before edrophonium 1 mg kg-1.",
+        "Significant differences between the four groups were detected (P less than 0.001).",
+        "Both groups receiving 10 micrograms kg-1 showed increases in heart rate of up to 30 beat min-1 (95% confidence limits 28-32 beat min-1).",
+        "Use of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and, given 1 min before the edrophonium, was sufficient to minimize early, edrophonium-induced bradycardias.",
+        "This low dose of glycopyrronium provided good control of oropharyngeal secretions."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006024\tChemical\tGlycopyrronium\t<target> Glycopyrronium </target> requirements for antagonism of the muscarinic side effects of edrophonium .",
+        "D004491\tChemical\tedrophonium\tGlycopyrronium requirements for antagonism of the muscarinic side effects of <target> edrophonium </target> .",
+        "D006024\tChemical\tglycopyrronium\tWe have compared , in 60 adult patients , the cardiovascular effects of <target> glycopyrronium </target> 5 micrograms kg-1 and 10 micrograms kg-1 given either simultaneously or 1 min before edrophonium 1 mg kg-1 .",
+        "D004491\tChemical\tedrophonium\tWe have compared , in 60 adult patients , the cardiovascular effects of glycopyrronium 5 micrograms kg-1 and 10 micrograms kg-1 given either simultaneously or 1 min before <target> edrophonium </target> 1 mg kg-1 .",
+        "D006024\tChemical\tglycopyrronium\tUse of <target> glycopyrronium </target> 5 micrograms kg-1 provided greater cardiovascular stability and , given 1 min before the edrophonium , was sufficient to minimize early , edrophonium-induced bradycardias .",
+        "D004491\tChemical\tedrophonium\tUse of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and , given 1 min before the <target> edrophonium </target> , was sufficient to minimize early , edrophonium-induced bradycardias .",
+        "D004491\tChemical\tedrophonium\tUse of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and , given 1 min before the edrophonium , was sufficient to minimize early , <target> edrophonium </target> -induced bradycardias .",
+        "D001919\tDisease\tbradycardias\tUse of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and , given 1 min before the edrophonium , was sufficient to minimize early , edrophonium-induced <target> bradycardias </target> .",
+        "D006024\tChemical\tglycopyrronium\tThis low dose of <target> glycopyrronium </target> provided good control of oropharyngeal secretions ."
+    ],
+    "lines_lemma": [
+        "D006024\tChemical\tGlycopyrronium\t<target> glycopyrronium </target> requirement for antagonism of the muscarinic side effect of edrophonium .",
+        "D004491\tChemical\tedrophonium\tglycopyrronium requirement for antagonism of the muscarinic side effect of <target> edrophonium </target> .",
+        "D006024\tChemical\tglycopyrronium\twe have compare , in 60 adult patient , the cardiovascular effect of <target> glycopyrronium </target> 5 microgram kg-1 and 10 microgram kg-1 give either simultaneously or 1 min before edrophonium 1 mg kg-1 .",
+        "D004491\tChemical\tedrophonium\twe have compare , in 60 adult patient , the cardiovascular effect of glycopyrronium 5 microgram kg-1 and 10 microgram kg-1 give either simultaneously or 1 min before <target> edrophonium </target> 1 mg kg-1 .",
+        "D006024\tChemical\tglycopyrronium\tUse of <target> glycopyrronium </target> 5 microgram kg-1 provide great cardiovascular stability and , give 1 min before the edrophonium , be sufficient to minimize early , edrophonium-induced bradycardia .",
+        "D004491\tChemical\tedrophonium\tuse of glycopyrronium 5 microgram kg-1 provide great cardiovascular stability and , give 1 min before the <target> edrophonium </target> , be sufficient to minimize early , edrophonium-induced bradycardia .",
+        "D004491\tChemical\tedrophonium\tuse of glycopyrronium 5 microgram kg-1 provide great cardiovascular stability and , give 1 min before the edrophonium , be sufficient to minimize early , <target> edrophonium </target> -induced bradycardia .",
+        "D001919\tDisease\tbradycardias\tuse of glycopyrronium 5 microgram kg-1 provide great cardiovascular stability and , give 1 min before the edrophonium , be sufficient to minimize early , edrophonium-induced <target> bradycardia </target> .",
+        "D006024\tChemical\tglycopyrronium\tthis low dose of <target> glycopyrronium </target> provide good control of oropharyngeal secretion ."
+    ]
+}

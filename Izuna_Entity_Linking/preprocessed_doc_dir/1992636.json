@@ -1,0 +1,168 @@
+{
+    "title": "Hemolytic anemia associated with the use of omeprazole.",
+    "abst": "Omeprazole is the first drug designed to block the final step in the acid secretory process within the parietal cell. It has been shown to be extremely effective in the treatment of peptic ulcer disease, reflux esophagitis, and the Zollinger-Ellison syndrome. Although clinical experience with omeprazole is still limited, many controlled studies have established the short-term safety of this drug. We report the first case of a serious short-term adverse reaction with the use of omeprazole: hemolytic anemia. The patient developed weakness, lethargy, and shortness of breath 2 days after starting therapy with omeprazole. Two weeks after the initiation of therapy, her hematocrit had decreased from 44.1% to 20.4%, and she had a positive direct Coombs antiglobulin test and an elevated indirect bilirubin. After she discontinued the omeprazole, her hemoglobin and hematocrit gradually returned to normal. The mechanism by which omeprazole caused the patient's hemolytic anemia is uncertain, but physicians should be alerted to this possible adverse effect.",
+    "title_plus_abst": "Hemolytic anemia associated with the use of omeprazole. Omeprazole is the first drug designed to block the final step in the acid secretory process within the parietal cell. It has been shown to be extremely effective in the treatment of peptic ulcer disease, reflux esophagitis, and the Zollinger-Ellison syndrome. Although clinical experience with omeprazole is still limited, many controlled studies have established the short-term safety of this drug. We report the first case of a serious short-term adverse reaction with the use of omeprazole: hemolytic anemia. The patient developed weakness, lethargy, and shortness of breath 2 days after starting therapy with omeprazole. Two weeks after the initiation of therapy, her hematocrit had decreased from 44.1% to 20.4%, and she had a positive direct Coombs antiglobulin test and an elevated indirect bilirubin. After she discontinued the omeprazole, her hemoglobin and hematocrit gradually returned to normal. The mechanism by which omeprazole caused the patient's hemolytic anemia is uncertain, but physicians should be alerted to this possible adverse effect.",
+    "pubmed_id": "1992636",
+    "entities": [
+        [
+            0,
+            16,
+            "Hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            44,
+            54,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            56,
+            66,
+            "Omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            238,
+            258,
+            "peptic ulcer disease",
+            "Disease",
+            "D010437"
+        ],
+        [
+            260,
+            278,
+            "reflux esophagitis",
+            "Disease",
+            "D005764"
+        ],
+        [
+            288,
+            314,
+            "Zollinger-Ellison syndrome",
+            "Disease",
+            "D015043"
+        ],
+        [
+            350,
+            360,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            538,
+            548,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            550,
+            566,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ],
+        [
+            600,
+            608,
+            "lethargy",
+            "Disease",
+            "D053609"
+        ],
+        [
+            614,
+            633,
+            "shortness of breath",
+            "Disease",
+            "D004417"
+        ],
+        [
+            669,
+            679,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            854,
+            863,
+            "bilirubin",
+            "Chemical",
+            "D001663"
+        ],
+        [
+            892,
+            902,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            987,
+            997,
+            "omeprazole",
+            "Chemical",
+            "D009853"
+        ],
+        [
+            1019,
+            1035,
+            "hemolytic anemia",
+            "Disease",
+            "D000743"
+        ]
+    ],
+    "split_sentence": [
+        "Hemolytic anemia associated with the use of omeprazole.",
+        "Omeprazole is the first drug designed to block the final step in the acid secretory process within the parietal cell.",
+        "It has been shown to be extremely effective in the treatment of peptic ulcer disease, reflux esophagitis, and the Zollinger-Ellison syndrome.",
+        "Although clinical experience with omeprazole is still limited, many controlled studies have established the short-term safety of this drug.",
+        "We report the first case of a serious short-term adverse reaction with the use of omeprazole: hemolytic anemia.",
+        "The patient developed weakness, lethargy, and shortness of breath 2 days after starting therapy with omeprazole.",
+        "Two weeks after the initiation of therapy, her hematocrit had decreased from 44.1% to 20.4%, and she had a positive direct Coombs antiglobulin test and an elevated indirect bilirubin.",
+        "After she discontinued the omeprazole, her hemoglobin and hematocrit gradually returned to normal.",
+        "The mechanism by which omeprazole caused the patient's hemolytic anemia is uncertain, but physicians should be alerted to this possible adverse effect."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000743\tDisease\tHemolytic anemia\t<target> Hemolytic anemia </target> associated with the use of omeprazole .",
+        "D009853\tChemical\tomeprazole\tHemolytic anemia associated with the use of <target> omeprazole </target> .",
+        "D009853\tChemical\tOmeprazole\t<target> Omeprazole </target> is the first drug designed to block the final step in the acid secretory process within the parietal cell .",
+        "D010437\tDisease\tpeptic ulcer disease\tIt has been shown to be extremely effective in the treatment of <target> peptic ulcer disease </target> , reflux esophagitis , and the Zollinger-Ellison syndrome .",
+        "D005764\tDisease\treflux esophagitis\tIt has been shown to be extremely effective in the treatment of peptic ulcer disease , <target> reflux esophagitis </target> , and the Zollinger-Ellison syndrome .",
+        "D015043\tDisease\tZollinger-Ellison syndrome\tIt has been shown to be extremely effective in the treatment of peptic ulcer disease , reflux esophagitis , and the <target> Zollinger-Ellison syndrome </target> .",
+        "D009853\tChemical\tomeprazole\tAlthough clinical experience with <target> omeprazole </target> is still limited , many controlled studies have established the short-term safety of this drug .",
+        "D009853\tChemical\tomeprazole\tWe report the first case of a serious short-term adverse reaction with the use of <target> omeprazole </target> : hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\tWe report the first case of a serious short-term adverse reaction with the use of omeprazole : <target> hemolytic anemia </target> .",
+        "D053609\tDisease\tlethargy\tThe patient developed weakness , <target> lethargy </target> , and shortness of breath 2 days after starting therapy with omeprazole .",
+        "D004417\tDisease\tshortness of breath\tThe patient developed weakness , lethargy , and <target> shortness of breath </target> 2 days after starting therapy with omeprazole .",
+        "D009853\tChemical\tomeprazole\tThe patient developed weakness , lethargy , and shortness of breath 2 days after starting therapy with <target> omeprazole </target> .",
+        "D001663\tChemical\tbilirubin\tTwo weeks after the initiation of therapy , her hematocrit had decreased from 44.1 % to 20.4 % , and she had a positive direct Coombs antiglobulin test and an elevated indirect <target> bilirubin </target> .",
+        "D009853\tChemical\tomeprazole\tAfter she discontinued the <target> omeprazole </target> , her hemoglobin and hematocrit gradually returned to normal .",
+        "D009853\tChemical\tomeprazole\tThe mechanism by which <target> omeprazole </target> caused the patient 's hemolytic anemia is uncertain , but physicians should be alerted to this possible adverse effect .",
+        "D000743\tDisease\themolytic anemia\tThe mechanism by which omeprazole caused the patient 's <target> hemolytic anemia </target> is uncertain , but physicians should be alerted to this possible adverse effect ."
+    ],
+    "lines_lemma": [
+        "D000743\tDisease\tHemolytic anemia\t<target> hemolytic anemia </target> associate with the use of omeprazole .",
+        "D009853\tChemical\tomeprazole\themolytic anemia associate with the use of <target> omeprazole </target> .",
+        "D009853\tChemical\tOmeprazole\t<target> Omeprazole </target> be the first drug design to block the final step in the acid secretory process within the parietal cell .",
+        "D010437\tDisease\tpeptic ulcer disease\tit have be show to be extremely effective in the treatment of <target> peptic ulcer disease </target> , reflux esophagitis , and the zollinger-ellison syndrome .",
+        "D005764\tDisease\treflux esophagitis\tit have be show to be extremely effective in the treatment of peptic ulcer disease , <target> reflux esophagitis </target> , and the zollinger-ellison syndrome .",
+        "D015043\tDisease\tZollinger-Ellison syndrome\tit have be show to be extremely effective in the treatment of peptic ulcer disease , reflux esophagitis , and the <target> zollinger-ellison syndrome </target> .",
+        "D009853\tChemical\tomeprazole\talthough clinical experience with <target> omeprazole </target> be still limited , many control study have establish the short-term safety of this drug .",
+        "D009853\tChemical\tomeprazole\twe report the first case of a serious short-term adverse reaction with the use of <target> omeprazole </target> : hemolytic anemia .",
+        "D000743\tDisease\themolytic anemia\twe report the first case of a serious short-term adverse reaction with the use of omeprazole : <target> hemolytic anemia </target> .",
+        "D053609\tDisease\tlethargy\tthe patient develop weakness , <target> lethargy </target> , and shortness of breath 2 day after start therapy with omeprazole .",
+        "D004417\tDisease\tshortness of breath\tthe patient develop weakness , lethargy , and <target> shortness of breath </target> 2 day after start therapy with omeprazole .",
+        "D009853\tChemical\tomeprazole\tthe patient develop weakness , lethargy , and shortness of breath 2 day after start therapy with <target> omeprazole </target> .",
+        "D001663\tChemical\tbilirubin\ttwo week after the initiation of therapy , her hematocrit have decrease from 44.1 % to 20.4 % , and she have a positive direct coomb antiglobulin test and an elevated indirect <target> bilirubin </target> .",
+        "D009853\tChemical\tomeprazole\tafter she discontinue the <target> omeprazole </target> , her hemoglobin and hematocrit gradually return to normal .",
+        "D009853\tChemical\tomeprazole\tthe mechanism by which <target> omeprazole </target> cause the patient 's hemolytic anemia be uncertain , but physician should be alert to this possible adverse effect .",
+        "D000743\tDisease\themolytic anemia\tthe mechanism by which omeprazole cause the patient 's <target> hemolytic anemia </target> be uncertain , but physician should be alert to this possible adverse effect ."
+    ]
+}

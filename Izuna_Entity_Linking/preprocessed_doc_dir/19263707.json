@@ -1,0 +1,231 @@
+{
+    "title": "Carbimazole induced ANCA positive vasculitis.",
+    "abst": "Anti-thyroid drugs, like carbimazole and propylthiouracil (PTU) are commonly prescribed for the treatment of hyperthyroidism. One should be aware of the side effects of antithyroid medications. Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis is a potentially life-threatening adverse effect of antithyroidmedications. We report a patient with Graves' disease who developed ANCA positive carbimazole induced vasculitis. The episode was characterized by a vasculitic skin rash associated with large joint arthritis, pyrexia and parotiditis but no renal or pulmonary involvement. He was referred to us for neurological evaluation because he had difficulty in getting up from squatting position and was suspected to have myositis. Carbimazole and methimazole have a lower incidence of reported ANCA positive side effects than PUT. To the best of our knowledge this is the first ANCA positive carbimazole induced vasculitis case reported from India.",
+    "title_plus_abst": "Carbimazole induced ANCA positive vasculitis. Anti-thyroid drugs, like carbimazole and propylthiouracil (PTU) are commonly prescribed for the treatment of hyperthyroidism. One should be aware of the side effects of antithyroid medications. Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis is a potentially life-threatening adverse effect of antithyroidmedications. We report a patient with Graves' disease who developed ANCA positive carbimazole induced vasculitis. The episode was characterized by a vasculitic skin rash associated with large joint arthritis, pyrexia and parotiditis but no renal or pulmonary involvement. He was referred to us for neurological evaluation because he had difficulty in getting up from squatting position and was suspected to have myositis. Carbimazole and methimazole have a lower incidence of reported ANCA positive side effects than PUT. To the best of our knowledge this is the first ANCA positive carbimazole induced vasculitis case reported from India.",
+    "pubmed_id": "19263707",
+    "entities": [
+        [
+            0,
+            11,
+            "Carbimazole",
+            "Chemical",
+            "D002231"
+        ],
+        [
+            20,
+            44,
+            "ANCA positive vasculitis",
+            "Disease",
+            "D056648"
+        ],
+        [
+            46,
+            64,
+            "Anti-thyroid drugs",
+            "Chemical",
+            "D013956"
+        ],
+        [
+            71,
+            82,
+            "carbimazole",
+            "Chemical",
+            "D002231"
+        ],
+        [
+            87,
+            103,
+            "propylthiouracil",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            105,
+            108,
+            "PTU",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            155,
+            170,
+            "hyperthyroidism",
+            "Disease",
+            "D006980"
+        ],
+        [
+            215,
+            238,
+            "antithyroid medications",
+            "Chemical",
+            "D013956"
+        ],
+        [
+            240,
+            305,
+            "Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis",
+            "Disease",
+            "D056648"
+        ],
+        [
+            358,
+            380,
+            "antithyroidmedications",
+            "Chemical",
+            "D013956"
+        ],
+        [
+            407,
+            422,
+            "Graves' disease",
+            "Disease",
+            "D006111"
+        ],
+        [
+            451,
+            462,
+            "carbimazole",
+            "Chemical",
+            "D002231"
+        ],
+        [
+            471,
+            481,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            518,
+            528,
+            "vasculitic",
+            "Disease",
+            "D014657"
+        ],
+        [
+            529,
+            538,
+            "skin rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            567,
+            576,
+            "arthritis",
+            "Disease",
+            "D001168"
+        ],
+        [
+            578,
+            585,
+            "pyrexia",
+            "Disease",
+            "D005334"
+        ],
+        [
+            590,
+            601,
+            "parotiditis",
+            "Disease",
+            "D010309"
+        ],
+        [
+            781,
+            789,
+            "myositis",
+            "Disease",
+            "D009220"
+        ],
+        [
+            791,
+            802,
+            "Carbimazole",
+            "Chemical",
+            "D002231"
+        ],
+        [
+            807,
+            818,
+            "methimazole",
+            "Chemical",
+            "D008713"
+        ],
+        [
+            952,
+            963,
+            "carbimazole",
+            "Chemical",
+            "D002231"
+        ],
+        [
+            972,
+            982,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ]
+    ],
+    "split_sentence": [
+        "Carbimazole induced ANCA positive vasculitis.",
+        "Anti-thyroid drugs, like carbimazole and propylthiouracil (PTU) are commonly prescribed for the treatment of hyperthyroidism.",
+        "One should be aware of the side effects of antithyroid medications.",
+        "Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis is a potentially life-threatening adverse effect of antithyroidmedications.",
+        "We report a patient with Graves' disease who developed ANCA positive carbimazole induced vasculitis.",
+        "The episode was characterized by a vasculitic skin rash associated with large joint arthritis, pyrexia and parotiditis but no renal or pulmonary involvement.",
+        "He was referred to us for neurological evaluation because he had difficulty in getting up from squatting position and was suspected to have myositis.",
+        "Carbimazole and methimazole have a lower incidence of reported ANCA positive side effects than PUT.",
+        "To the best of our knowledge this is the first ANCA positive carbimazole induced vasculitis case reported from India."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002231\tChemical\tCarbimazole\t<target> Carbimazole </target> induced ANCA positive vasculitis .",
+        "D056648\tDisease\tANCA positive vasculitis\tCarbimazole induced <target> ANCA positive vasculitis </target> .",
+        "D013956\tChemical\tAnti-thyroid drugs\t<target> Anti-thyroid drugs </target> , like carbimazole and propylthiouracil ( PTU ) are commonly prescribed for the treatment of hyperthyroidism .",
+        "D002231\tChemical\tcarbimazole\tAnti-thyroid drugs , like <target> carbimazole </target> and propylthiouracil ( PTU ) are commonly prescribed for the treatment of hyperthyroidism .",
+        "D011441\tChemical\tpropylthiouracil\tAnti-thyroid drugs , like carbimazole and <target> propylthiouracil </target> ( PTU ) are commonly prescribed for the treatment of hyperthyroidism .",
+        "D011441\tChemical\tPTU\tAnti-thyroid drugs , like carbimazole and propylthiouracil ( <target> PTU </target> ) are commonly prescribed for the treatment of hyperthyroidism .",
+        "D006980\tDisease\thyperthyroidism\tAnti-thyroid drugs , like carbimazole and propylthiouracil ( PTU ) are commonly prescribed for the treatment of <target> hyperthyroidism </target> .",
+        "D013956\tChemical\tantithyroid medications\tOne should be aware of the side effects of <target> antithyroid medications </target> .",
+        "D056648\tDisease\tAntineutrophil cytoplasmic antibody (ANCA)--associated vasculitis\t<target> Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis </target> is a potentially life-threatening adverse effect of antithyroidmedications .",
+        "D013956\tChemical\tantithyroidmedications\tAntineutrophil cytoplasmic antibody (ANCA)--associated vasculitis is a potentially life-threatening adverse effect of <target> antithyroidmedications </target> .",
+        "D006111\tDisease\tGraves' disease\tWe report a patient with <target> Graves ' disease </target> who developed ANCA positive carbimazole induced vasculitis .",
+        "D002231\tChemical\tcarbimazole\tWe report a patient with Graves ' disease who developed ANCA positive <target> carbimazole </target> induced vasculitis .",
+        "D014657\tDisease\tvasculitis\tWe report a patient with Graves ' disease who developed ANCA positive carbimazole induced <target> vasculitis </target> .",
+        "D014657\tDisease\tvasculitic\tThe episode was characterized by a <target> vasculitic </target> skin rash associated with large joint arthritis , pyrexia and parotiditis but no renal or pulmonary involvement .",
+        "D005076\tDisease\tskin rash\tThe episode was characterized by a vasculitic <target> skin rash </target> associated with large joint arthritis , pyrexia and parotiditis but no renal or pulmonary involvement .",
+        "D001168\tDisease\tarthritis\tThe episode was characterized by a vasculitic skin rash associated with large joint <target> arthritis </target> , pyrexia and parotiditis but no renal or pulmonary involvement .",
+        "D005334\tDisease\tpyrexia\tThe episode was characterized by a vasculitic skin rash associated with large joint arthritis , <target> pyrexia </target> and parotiditis but no renal or pulmonary involvement .",
+        "D010309\tDisease\tparotiditis\tThe episode was characterized by a vasculitic skin rash associated with large joint arthritis , pyrexia and <target> parotiditis </target> but no renal or pulmonary involvement .",
+        "D009220\tDisease\tmyositis\tHe was referred to us for neurological evaluation because he had difficulty in getting up from squatting position and was suspected to have <target> myositis </target> .",
+        "D002231\tChemical\tCarbimazole\t<target> Carbimazole </target> and methimazole have a lower incidence of reported ANCA positive side effects than PUT .",
+        "D008713\tChemical\tmethimazole\tCarbimazole and <target> methimazole </target> have a lower incidence of reported ANCA positive side effects than PUT .",
+        "D002231\tChemical\tcarbimazole\tTo the best of our knowledge this is the first ANCA positive <target> carbimazole </target> induced vasculitis case reported from India .",
+        "D014657\tDisease\tvasculitis\tTo the best of our knowledge this is the first ANCA positive carbimazole induced <target> vasculitis </target> case reported from India ."
+    ],
+    "lines_lemma": [
+        "D002231\tChemical\tCarbimazole\t<target> Carbimazole </target> induce anca positive vasculitis .",
+        "D056648\tDisease\tANCA positive vasculitis\tCarbimazole induce <target> anca positive vasculitis </target> .",
+        "D013956\tChemical\tAnti-thyroid drugs\t<target> anti-thyroid drug </target> , like carbimazole and propylthiouracil ( ptu ) be commonly prescribe for the treatment of hyperthyroidism .",
+        "D002231\tChemical\tcarbimazole\tanti-thyroid drug , like <target> carbimazole </target> and propylthiouracil ( ptu ) be commonly prescribe for the treatment of hyperthyroidism .",
+        "D011441\tChemical\tpropylthiouracil\tanti-thyroid drug , like carbimazole and <target> propylthiouracil </target> ( ptu ) be commonly prescribe for the treatment of hyperthyroidism .",
+        "D011441\tChemical\tPTU\tanti-thyroid drug , like carbimazole and propylthiouracil ( <target> PTU </target> ) be commonly prescribe for the treatment of hyperthyroidism .",
+        "D006980\tDisease\thyperthyroidism\tanti-thyroid drug , like carbimazole and propylthiouracil ( ptu ) be commonly prescribe for the treatment of <target> hyperthyroidism </target> .",
+        "D013956\tChemical\tantithyroid medications\tone should be aware of the side effect of <target> antithyroid medication </target> .",
+        "D056648\tDisease\tAntineutrophil cytoplasmic antibody (ANCA)--associated vasculitis\t<target> antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis </target> be a potentially life-threatening adverse effect of antithyroidmedication .",
+        "D013956\tChemical\tantithyroidmedications\tantineutrophil cytoplasmic antibody (ANCA)--associated vasculitis be a potentially life-threatening adverse effect of <target> antithyroidmedication </target> .",
+        "D006111\tDisease\tGraves' disease\twe report a patient with <target> Graves ' disease </target> who develop anca positive carbimazole induce vasculitis .",
+        "D002231\tChemical\tcarbimazole\twe report a patient with graves ' disease who develop anca positive <target> carbimazole </target> induce vasculitis .",
+        "D014657\tDisease\tvasculitis\twe report a patient with graves ' disease who develop anca positive carbimazole induce <target> vasculitis </target> .",
+        "D014657\tDisease\tvasculitic\tthe episode be characterize by a <target> vasculitic </target> skin rash associate with large joint arthritis , pyrexia and parotiditis but no renal or pulmonary involvement .",
+        "D005076\tDisease\tskin rash\tthe episode be characterize by a vasculitic <target> skin rash </target> associate with large joint arthritis , pyrexia and parotiditis but no renal or pulmonary involvement .",
+        "D001168\tDisease\tarthritis\tthe episode be characterize by a vasculitic skin rash associate with large joint <target> arthritis </target> , pyrexia and parotiditis but no renal or pulmonary involvement .",
+        "D005334\tDisease\tpyrexia\tthe episode be characterize by a vasculitic skin rash associate with large joint arthritis , <target> pyrexia </target> and parotiditis but no renal or pulmonary involvement .",
+        "D010309\tDisease\tparotiditis\tthe episode be characterize by a vasculitic skin rash associate with large joint arthritis , pyrexia and <target> parotiditis </target> but no renal or pulmonary involvement .",
+        "D009220\tDisease\tmyositis\the be refer to we for neurological evaluation because he have difficulty in get up from squat position and be suspect to have <target> myositis </target> .",
+        "D002231\tChemical\tCarbimazole\t<target> Carbimazole </target> and methimazole have a low incidence of report anca positive side effect than put .",
+        "D008713\tChemical\tmethimazole\tCarbimazole and <target> methimazole </target> have a low incidence of report anca positive side effect than put .",
+        "D002231\tChemical\tcarbimazole\tto the good of our knowledge this be the first anca positive <target> carbimazole </target> induce vasculitis case report from India .",
+        "D014657\tDisease\tvasculitis\tto the good of our knowledge this be the first anca positive carbimazole induce <target> vasculitis </target> case report from India ."
+    ]
+}

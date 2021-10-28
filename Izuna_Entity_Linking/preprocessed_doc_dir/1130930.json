@@ -1,0 +1,92 @@
+{
+    "title": "Nephrotoxicity of combined cephalothin-gentamicin regimen.",
+    "abst": "Two patients developed acute tubular necrosis, characterized clinically by acute oliguric renal failure, while they were receiving a combination of cephalothin sodium and gentamicin sulfate therapy. Patients who are given this drug regimen should be observed very carefully for early signs of nephrotoxicity. High doses of this antibiotic combination should be avoided especially in elderly patients. Patients with renal insufficiency should not be given this regimen.",
+    "title_plus_abst": "Nephrotoxicity of combined cephalothin-gentamicin regimen. Two patients developed acute tubular necrosis, characterized clinically by acute oliguric renal failure, while they were receiving a combination of cephalothin sodium and gentamicin sulfate therapy. Patients who are given this drug regimen should be observed very carefully for early signs of nephrotoxicity. High doses of this antibiotic combination should be avoided especially in elderly patients. Patients with renal insufficiency should not be given this regimen.",
+    "pubmed_id": "1130930",
+    "entities": [
+        [
+            0,
+            14,
+            "Nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            27,
+            38,
+            "cephalothin",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            39,
+            49,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            82,
+            104,
+            "acute tubular necrosis",
+            "Disease",
+            "D007683"
+        ],
+        [
+            207,
+            225,
+            "cephalothin sodium",
+            "Chemical",
+            "D002512"
+        ],
+        [
+            230,
+            248,
+            "gentamicin sulfate",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            352,
+            366,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            474,
+            493,
+            "renal insufficiency",
+            "Disease",
+            "D051437"
+        ]
+    ],
+    "split_sentence": [
+        "Nephrotoxicity of combined cephalothin-gentamicin regimen.",
+        "Two patients developed acute tubular necrosis, characterized clinically by acute oliguric renal failure, while they were receiving a combination of cephalothin sodium and gentamicin sulfate therapy.",
+        "Patients who are given this drug regimen should be observed very carefully for early signs of nephrotoxicity.",
+        "High doses of this antibiotic combination should be avoided especially in elderly patients.",
+        "Patients with renal insufficiency should not be given this regimen."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007674\tDisease\tNephrotoxicity\t<target> Nephrotoxicity </target> of combined cephalothin-gentamicin regimen .",
+        "D002512\tChemical\tcephalothin\tNephrotoxicity of combined <target> cephalothin </target> -gentamicin regimen .",
+        "D005839\tChemical\tgentamicin\tNephrotoxicity of combined cephalothin- <target> gentamicin </target> regimen .",
+        "D007683\tDisease\tacute tubular necrosis\tTwo patients developed <target> acute tubular necrosis </target> , characterized clinically by acute oliguric renal failure , while they were receiving a combination of cephalothin sodium and gentamicin sulfate therapy .",
+        "D002512\tChemical\tcephalothin sodium\tTwo patients developed acute tubular necrosis , characterized clinically by acute oliguric renal failure , while they were receiving a combination of <target> cephalothin sodium </target> and gentamicin sulfate therapy .",
+        "D005839\tChemical\tgentamicin sulfate\tTwo patients developed acute tubular necrosis , characterized clinically by acute oliguric renal failure , while they were receiving a combination of cephalothin sodium and <target> gentamicin sulfate </target> therapy .",
+        "D007674\tDisease\tnephrotoxicity\tPatients who are given this drug regimen should be observed very carefully for early signs of <target> nephrotoxicity </target> .",
+        "D051437\tDisease\trenal insufficiency\tPatients with <target> renal insufficiency </target> should not be given this regimen ."
+    ],
+    "lines_lemma": [
+        "D007674\tDisease\tNephrotoxicity\t<target> nephrotoxicity </target> of combined cephalothin-gentamicin regimen .",
+        "D002512\tChemical\tcephalothin\tnephrotoxicity of combined <target> cephalothin </target> -gentamicin regimen .",
+        "D005839\tChemical\tgentamicin\tnephrotoxicity of combined cephalothin- <target> gentamicin </target> regimen .",
+        "D007683\tDisease\tacute tubular necrosis\ttwo patient develop <target> acute tubular necrosis </target> , characterize clinically by acute oliguric renal failure , while they be receive a combination of cephalothin sodium and gentamicin sulfate therapy .",
+        "D002512\tChemical\tcephalothin sodium\ttwo patient develop acute tubular necrosis , characterize clinically by acute oliguric renal failure , while they be receive a combination of <target> cephalothin sodium </target> and gentamicin sulfate therapy .",
+        "D005839\tChemical\tgentamicin sulfate\ttwo patient develop acute tubular necrosis , characterize clinically by acute oliguric renal failure , while they be receive a combination of cephalothin sodium and <target> gentamicin sulfate </target> therapy .",
+        "D007674\tDisease\tnephrotoxicity\tpatient who be give this drug regiman should be observe very carefully for early sign of <target> nephrotoxicity </target> .",
+        "D051437\tDisease\trenal insufficiency\tpatient with <target> renal insufficiency </target> should not be give this regimen ."
+    ]
+}

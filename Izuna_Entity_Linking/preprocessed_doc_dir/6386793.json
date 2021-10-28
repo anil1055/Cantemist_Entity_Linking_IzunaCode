@@ -1,0 +1,175 @@
+{
+    "title": "A double-blind study of the efficacy and safety of dothiepin hydrochloride in the treatment of major depressive disorder.",
+    "abst": "In a 6-week double-blind parallel treatment study, dothiepin and amitriptyline were compared to placebo in the treatment of 33 depressed outpatients. Dothiepin and amitriptyline were equally effective in alleviating the symptoms of depressive illness, and both were significantly superior to placebo. The overall incidence of side effects and the frequency and severity of blurred vision, dry mouth, and drowsiness were significantly less with dothiepin than with amitriptyline. Dothiepin also produced fewer CNS and cardiovascular effects. There were no clinically important changes in laboratory parameters. Dothiepin thus was found to be an effective antidepressant drug associated with fewer side effects than amitriptyline in the treatment of depressed outpatients.",
+    "title_plus_abst": "A double-blind study of the efficacy and safety of dothiepin hydrochloride in the treatment of major depressive disorder. In a 6-week double-blind parallel treatment study, dothiepin and amitriptyline were compared to placebo in the treatment of 33 depressed outpatients. Dothiepin and amitriptyline were equally effective in alleviating the symptoms of depressive illness, and both were significantly superior to placebo. The overall incidence of side effects and the frequency and severity of blurred vision, dry mouth, and drowsiness were significantly less with dothiepin than with amitriptyline. Dothiepin also produced fewer CNS and cardiovascular effects. There were no clinically important changes in laboratory parameters. Dothiepin thus was found to be an effective antidepressant drug associated with fewer side effects than amitriptyline in the treatment of depressed outpatients.",
+    "pubmed_id": "6386793",
+    "entities": [
+        [
+            51,
+            74,
+            "dothiepin hydrochloride",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            101,
+            120,
+            "depressive disorder",
+            "Disease",
+            "D003866"
+        ],
+        [
+            173,
+            182,
+            "dothiepin",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            187,
+            200,
+            "amitriptyline",
+            "Chemical",
+            "D000639"
+        ],
+        [
+            249,
+            258,
+            "depressed",
+            "Disease",
+            "D003866"
+        ],
+        [
+            272,
+            281,
+            "Dothiepin",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            286,
+            299,
+            "amitriptyline",
+            "Chemical",
+            "D000639"
+        ],
+        [
+            354,
+            372,
+            "depressive illness",
+            "Disease",
+            "D003866"
+        ],
+        [
+            495,
+            509,
+            "blurred vision",
+            "Disease",
+            "D014786"
+        ],
+        [
+            511,
+            520,
+            "dry mouth",
+            "Disease",
+            "D014987"
+        ],
+        [
+            566,
+            575,
+            "dothiepin",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            586,
+            599,
+            "amitriptyline",
+            "Chemical",
+            "D000639"
+        ],
+        [
+            601,
+            610,
+            "Dothiepin",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            732,
+            741,
+            "Dothiepin",
+            "Chemical",
+            "D004308"
+        ],
+        [
+            776,
+            790,
+            "antidepressant",
+            "Chemical",
+            "D000928"
+        ],
+        [
+            836,
+            849,
+            "amitriptyline",
+            "Chemical",
+            "D000639"
+        ],
+        [
+            870,
+            879,
+            "depressed",
+            "Disease",
+            "D003866"
+        ]
+    ],
+    "split_sentence": [
+        "A double-blind study of the efficacy and safety of dothiepin hydrochloride in the treatment of major depressive disorder.",
+        "In a 6-week double-blind parallel treatment study, dothiepin and amitriptyline were compared to placebo in the treatment of 33 depressed outpatients.",
+        "Dothiepin and amitriptyline were equally effective in alleviating the symptoms of depressive illness, and both were significantly superior to placebo.",
+        "The overall incidence of side effects and the frequency and severity of blurred vision, dry mouth, and drowsiness were significantly less with dothiepin than with amitriptyline.",
+        "Dothiepin also produced fewer CNS and cardiovascular effects.",
+        "There were no clinically important changes in laboratory parameters.",
+        "Dothiepin thus was found to be an effective antidepressant drug associated with fewer side effects than amitriptyline in the treatment of depressed outpatients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004308\tChemical\tdothiepin hydrochloride\tA double-blind study of the efficacy and safety of <target> dothiepin hydrochloride </target> in the treatment of major depressive disorder .",
+        "D003866\tDisease\tdepressive disorder\tA double-blind study of the efficacy and safety of dothiepin hydrochloride in the treatment of major <target> depressive disorder </target> .",
+        "D004308\tChemical\tdothiepin\tIn a 6-week double-blind parallel treatment study , <target> dothiepin </target> and amitriptyline were compared to placebo in the treatment of 33 depressed outpatients .",
+        "D000639\tChemical\tamitriptyline\tIn a 6-week double-blind parallel treatment study , dothiepin and <target> amitriptyline </target> were compared to placebo in the treatment of 33 depressed outpatients .",
+        "D003866\tDisease\tdepressed\tIn a 6-week double-blind parallel treatment study , dothiepin and amitriptyline were compared to placebo in the treatment of 33 <target> depressed </target> outpatients .",
+        "D004308\tChemical\tDothiepin\t<target> Dothiepin </target> and amitriptyline were equally effective in alleviating the symptoms of depressive illness , and both were significantly superior to placebo .",
+        "D000639\tChemical\tamitriptyline\tDothiepin and <target> amitriptyline </target> were equally effective in alleviating the symptoms of depressive illness , and both were significantly superior to placebo .",
+        "D003866\tDisease\tdepressive illness\tDothiepin and amitriptyline were equally effective in alleviating the symptoms of <target> depressive illness </target> , and both were significantly superior to placebo .",
+        "D014786\tDisease\tblurred vision\tThe overall incidence of side effects and the frequency and severity of <target> blurred vision </target> , dry mouth , and drowsiness were significantly less with dothiepin than with amitriptyline .",
+        "D014987\tDisease\tdry mouth\tThe overall incidence of side effects and the frequency and severity of blurred vision , <target> dry mouth </target> , and drowsiness were significantly less with dothiepin than with amitriptyline .",
+        "D004308\tChemical\tdothiepin\tThe overall incidence of side effects and the frequency and severity of blurred vision , dry mouth , and drowsiness were significantly less with <target> dothiepin </target> than with amitriptyline .",
+        "D000639\tChemical\tamitriptyline\tThe overall incidence of side effects and the frequency and severity of blurred vision , dry mouth , and drowsiness were significantly less with dothiepin than with <target> amitriptyline </target> .",
+        "D004308\tChemical\tDothiepin\t<target> Dothiepin </target> also produced fewer CNS and cardiovascular effects .",
+        "D004308\tChemical\tDothiepin\t<target> Dothiepin </target> thus was found to be an effective antidepressant drug associated with fewer side effects than amitriptyline in the treatment of depressed outpatients .",
+        "D000928\tChemical\tantidepressant\tDothiepin thus was found to be an effective <target> antidepressant </target> drug associated with fewer side effects than amitriptyline in the treatment of depressed outpatients .",
+        "D000639\tChemical\tamitriptyline\tDothiepin thus was found to be an effective antidepressant drug associated with fewer side effects than <target> amitriptyline </target> in the treatment of depressed outpatients .",
+        "D003866\tDisease\tdepressed\tDothiepin thus was found to be an effective antidepressant drug associated with fewer side effects than amitriptyline in the treatment of <target> depressed </target> outpatients ."
+    ],
+    "lines_lemma": [
+        "D004308\tChemical\tdothiepin hydrochloride\ta double-blind study of the efficacy and safety of <target> dothiepin hydrochloride </target> in the treatment of major depressive disorder .",
+        "D003866\tDisease\tdepressive disorder\ta double-blind study of the efficacy and safety of dothiepin hydrochloride in the treatment of major <target> depressive disorder </target> .",
+        "D004308\tChemical\tdothiepin\tin a 6-week double-blind parallel treatment study , <target> dothiepin </target> and amitriptyline be compare to placebo in the treatment of 33 depressed outpatient .",
+        "D000639\tChemical\tamitriptyline\tin a 6-week double-blind parallel treatment study , dothiepin and <target> amitriptyline </target> be compare to placebo in the treatment of 33 depressed outpatient .",
+        "D003866\tDisease\tdepressed\tin a 6-week double-blind parallel treatment study , dothiepin and amitriptyline be compare to placebo in the treatment of 33 <target> depressed </target> outpatient .",
+        "D004308\tChemical\tDothiepin\t<target> Dothiepin </target> and amitriptyline be equally effective in alleviate the symptom of depressive illness , and both be significantly superior to placebo .",
+        "D000639\tChemical\tamitriptyline\tDothiepin and <target> amitriptyline </target> be equally effective in alleviate the symptom of depressive illness , and both be significantly superior to placebo .",
+        "D003866\tDisease\tdepressive illness\tdothiepin and amitriptyline be equally effective in alleviate the symptom of <target> depressive illness </target> , and both be significantly superior to placebo .",
+        "D014786\tDisease\tblurred vision\tthe overall incidence of side effect and the frequency and severity of <target> blur vision </target> , dry mouth , and drowsiness be significantly less with dothiepin than with amitriptyline .",
+        "D014987\tDisease\tdry mouth\tthe overall incidence of side effect and the frequency and severity of blur vision , <target> dry mouth </target> , and drowsiness be significantly less with dothiepin than with amitriptyline .",
+        "D004308\tChemical\tdothiepin\tthe overall incidence of side effect and the frequency and severity of blur vision , dry mouth , and drowsiness be significantly less with <target> dothiepin </target> than with amitriptyline .",
+        "D000639\tChemical\tamitriptyline\tthe overall incidence of side effect and the frequency and severity of blur vision , dry mouth , and drowsiness be significantly less with dothiepin than with <target> amitriptyline </target> .",
+        "D004308\tChemical\tDothiepin\t<target> Dothiepin </target> also produce few cns and cardiovascular effect .",
+        "D004308\tChemical\tDothiepin\t<target> Dothiepin </target> thus be find to be an effective antidepressant drug associate with few side effect than amitriptyline in the treatment of depressed outpatient .",
+        "D000928\tChemical\tantidepressant\tDothiepin thus be find to be an effective <target> antidepressant </target> drug associate with few side effect than amitriptyline in the treatment of depressed outpatient .",
+        "D000639\tChemical\tamitriptyline\tDothiepin thus be find to be an effective antidepressant drug associate with few side effect than <target> amitriptyline </target> in the treatment of depressed outpatient .",
+        "D003866\tDisease\tdepressed\tDothiepin thus be find to be an effective antidepressant drug associate with few side effect than amitriptyline in the treatment of <target> depressed </target> outpatient ."
+    ]
+}

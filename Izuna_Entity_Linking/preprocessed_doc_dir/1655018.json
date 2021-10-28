@@ -1,0 +1,173 @@
+{
+    "title": "Hepatocellular carcinoma in Fanconi's anemia treated with androgen and corticosteroid.",
+    "abst": "The case of an 11-year-old boy is reported who was known to have Fanconi's anemia for 3 years and was treated with androgens, corticosteroids and transfusions. Two weeks before his death he was readmitted because of aplastic crisis with septicemia and marked abnormalities in liver function and died of hemorrhagic bronchopneumonia. At autopsy peliosis and multiple hepatic tumors were found which histologically proved to be well-differentiated hepatocellular carcinoma. This case contributes to the previous observations that non-metastasizing hepatic neoplasms and peliosis can develop in patients with androgen- and corticosteroid-treated Fanconi's anemia.",
+    "title_plus_abst": "Hepatocellular carcinoma in Fanconi's anemia treated with androgen and corticosteroid. The case of an 11-year-old boy is reported who was known to have Fanconi's anemia for 3 years and was treated with androgens, corticosteroids and transfusions. Two weeks before his death he was readmitted because of aplastic crisis with septicemia and marked abnormalities in liver function and died of hemorrhagic bronchopneumonia. At autopsy peliosis and multiple hepatic tumors were found which histologically proved to be well-differentiated hepatocellular carcinoma. This case contributes to the previous observations that non-metastasizing hepatic neoplasms and peliosis can develop in patients with androgen- and corticosteroid-treated Fanconi's anemia.",
+    "pubmed_id": "1655018",
+    "entities": [
+        [
+            0,
+            24,
+            "Hepatocellular carcinoma",
+            "Disease",
+            "D006528"
+        ],
+        [
+            28,
+            44,
+            "Fanconi's anemia",
+            "Disease",
+            "D005199"
+        ],
+        [
+            58,
+            66,
+            "androgen",
+            "Chemical",
+            "D000728"
+        ],
+        [
+            71,
+            85,
+            "corticosteroid",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            152,
+            168,
+            "Fanconi's anemia",
+            "Disease",
+            "D005199"
+        ],
+        [
+            202,
+            211,
+            "androgens",
+            "Chemical",
+            "D000728"
+        ],
+        [
+            213,
+            228,
+            "corticosteroids",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            324,
+            334,
+            "septicemia",
+            "Disease",
+            "D018805"
+        ],
+        [
+            390,
+            418,
+            "hemorrhagic bronchopneumonia",
+            "Disease",
+            "D001996"
+        ],
+        [
+            431,
+            439,
+            "peliosis",
+            "Disease",
+            "D010382"
+        ],
+        [
+            453,
+            467,
+            "hepatic tumors",
+            "Disease",
+            "D008113"
+        ],
+        [
+            533,
+            557,
+            "hepatocellular carcinoma",
+            "Disease",
+            "D006528"
+        ],
+        [
+            633,
+            650,
+            "hepatic neoplasms",
+            "Disease",
+            "D008113"
+        ],
+        [
+            655,
+            663,
+            "peliosis",
+            "Disease",
+            "D010382"
+        ],
+        [
+            693,
+            701,
+            "androgen",
+            "Chemical",
+            "D000728"
+        ],
+        [
+            707,
+            721,
+            "corticosteroid",
+            "Chemical",
+            "D000305"
+        ],
+        [
+            730,
+            746,
+            "Fanconi's anemia",
+            "Disease",
+            "D005199"
+        ]
+    ],
+    "split_sentence": [
+        "Hepatocellular carcinoma in Fanconi's anemia treated with androgen and corticosteroid.",
+        "The case of an 11-year-old boy is reported who was known to have Fanconi's anemia for 3 years and was treated with androgens, corticosteroids and transfusions.",
+        "Two weeks before his death he was readmitted because of aplastic crisis with septicemia and marked abnormalities in liver function and died of hemorrhagic bronchopneumonia.",
+        "At autopsy peliosis and multiple hepatic tumors were found which histologically proved to be well-differentiated hepatocellular carcinoma.",
+        "This case contributes to the previous observations that non-metastasizing hepatic neoplasms and peliosis can develop in patients with androgen- and corticosteroid-treated Fanconi's anemia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006528\tDisease\tHepatocellular carcinoma\t<target> Hepatocellular carcinoma </target> in Fanconi 's anemia treated with androgen and corticosteroid .",
+        "D005199\tDisease\tFanconi's anemia\tHepatocellular carcinoma in <target> Fanconi 's anemia </target> treated with androgen and corticosteroid .",
+        "D000728\tChemical\tandrogen\tHepatocellular carcinoma in Fanconi 's anemia treated with <target> androgen </target> and corticosteroid .",
+        "D000305\tChemical\tcorticosteroid\tHepatocellular carcinoma in Fanconi 's anemia treated with androgen and <target> corticosteroid </target> .",
+        "D005199\tDisease\tFanconi's anemia\tThe case of an 11-year-old boy is reported who was known to have <target> Fanconi 's anemia </target> for 3 years and was treated with androgens , corticosteroids and transfusions .",
+        "D000728\tChemical\tandrogens\tThe case of an 11-year-old boy is reported who was known to have Fanconi 's anemia for 3 years and was treated with <target> androgens </target> , corticosteroids and transfusions .",
+        "D000305\tChemical\tcorticosteroids\tThe case of an 11-year-old boy is reported who was known to have Fanconi 's anemia for 3 years and was treated with androgens , <target> corticosteroids </target> and transfusions .",
+        "D018805\tDisease\tsepticemia\tTwo weeks before his death he was readmitted because of aplastic crisis with <target> septicemia </target> and marked abnormalities in liver function and died of hemorrhagic bronchopneumonia .",
+        "D001996\tDisease\themorrhagic bronchopneumonia\tTwo weeks before his death he was readmitted because of aplastic crisis with septicemia and marked abnormalities in liver function and died of <target> hemorrhagic bronchopneumonia </target> .",
+        "D010382\tDisease\tpeliosis\tAt autopsy <target> peliosis </target> and multiple hepatic tumors were found which histologically proved to be well-differentiated hepatocellular carcinoma .",
+        "D008113\tDisease\thepatic tumors\tAt autopsy peliosis and multiple <target> hepatic tumors </target> were found which histologically proved to be well-differentiated hepatocellular carcinoma .",
+        "D006528\tDisease\thepatocellular carcinoma\tAt autopsy peliosis and multiple hepatic tumors were found which histologically proved to be well-differentiated <target> hepatocellular carcinoma </target> .",
+        "D008113\tDisease\thepatic neoplasms\tThis case contributes to the previous observations that non-metastasizing <target> hepatic neoplasms </target> and peliosis can develop in patients with androgen- and corticosteroid-treated Fanconi 's anemia .",
+        "D010382\tDisease\tpeliosis\tThis case contributes to the previous observations that non-metastasizing hepatic neoplasms and <target> peliosis </target> can develop in patients with androgen- and corticosteroid-treated Fanconi 's anemia .",
+        "D000728\tChemical\tandrogen\tThis case contributes to the previous observations that non-metastasizing hepatic neoplasms and peliosis can develop in patients with <target> androgen </target> - and corticosteroid-treated Fanconi 's anemia .",
+        "D000305\tChemical\tcorticosteroid\tThis case contributes to the previous observations that non-metastasizing hepatic neoplasms and peliosis can develop in patients with androgen- and <target> corticosteroid </target> -treated Fanconi 's anemia .",
+        "D005199\tDisease\tFanconi's anemia\tThis case contributes to the previous observations that non-metastasizing hepatic neoplasms and peliosis can develop in patients with androgen- and corticosteroid-treated <target> Fanconi 's anemia </target> ."
+    ],
+    "lines_lemma": [
+        "D006528\tDisease\tHepatocellular carcinoma\t<target> hepatocellular carcinoma </target> in Fanconi 's anemia treat with androgen and corticosteroid .",
+        "D005199\tDisease\tFanconi's anemia\thepatocellular carcinoma in <target> Fanconi 's anemia </target> treat with androgen and corticosteroid .",
+        "D000728\tChemical\tandrogen\thepatocellular carcinoma in Fanconi 's anemia treat with <target> androgen </target> and corticosteroid .",
+        "D000305\tChemical\tcorticosteroid\thepatocellular carcinoma in Fanconi 's anemia treat with androgen and <target> corticosteroid </target> .",
+        "D005199\tDisease\tFanconi's anemia\tthe case of an 11-year-old boy be report who be know to have <target> Fanconi 's anemia </target> for 3 year and be treat with androgen , corticosteroid and transfusion .",
+        "D000728\tChemical\tandrogens\tthe case of an 11-year-old boy be report who be know to have Fanconi 's anemia for 3 year and be treat with <target> androgen </target> , corticosteroid and transfusion .",
+        "D000305\tChemical\tcorticosteroids\tthe case of an 11-year-old boy be report who be know to have Fanconi 's anemia for 3 year and be treat with androgen , <target> corticosteroid </target> and transfusion .",
+        "D018805\tDisease\tsepticemia\ttwo week before his death he be readmitte because of aplastic crisis with <target> septicemia </target> and marked abnormality in liver function and die of hemorrhagic bronchopneumonia .",
+        "D001996\tDisease\themorrhagic bronchopneumonia\ttwo week before his death he be readmitte because of aplastic crisis with septicemia and marked abnormality in liver function and die of <target> hemorrhagic bronchopneumonia </target> .",
+        "D010382\tDisease\tpeliosis\tat autopsy <target> peliosis </target> and multiple hepatic tumor be find which histologically prove to be well-differentiated hepatocellular carcinoma .",
+        "D008113\tDisease\thepatic tumors\tat autopsy peliosis and multiple <target> hepatic tumor </target> be find which histologically prove to be well-differentiated hepatocellular carcinoma .",
+        "D006528\tDisease\thepatocellular carcinoma\tat autopsy peliosis and multiple hepatic tumor be find which histologically prove to be well-differentiated <target> hepatocellular carcinoma </target> .",
+        "D008113\tDisease\thepatic neoplasms\tthis case contribute to the previous observation that non-metastasizing <target> hepatic neoplasm </target> and peliosis can develop in patient with androgen- and corticosteroid-treated Fanconi 's anemia .",
+        "D010382\tDisease\tpeliosis\tthis case contribute to the previous observation that non-metastasizing hepatic neoplasm and <target> peliosis </target> can develop in patient with androgen- and corticosteroid-treated Fanconi 's anemia .",
+        "D000728\tChemical\tandrogen\tthis case contribute to the previous observation that non-metastasizing hepatic neoplasm and peliosis can develop in patient with <target> androgen </target> - and corticosteroid-treated Fanconi 's anemia .",
+        "D000305\tChemical\tcorticosteroid\tthis case contribute to the previous observation that non-metastasizing hepatic neoplasm and peliosis can develop in patient with androgen- and <target> corticosteroid </target> -treated Fanconi 's anemia .",
+        "D005199\tDisease\tFanconi's anemia\tthis case contribute to the previous observation that non-metastasizing hepatic neoplasm and peliosis can develop in patient with androgen- and corticosteroid-treated <target> Fanconi 's anemia </target> ."
+    ]
+}

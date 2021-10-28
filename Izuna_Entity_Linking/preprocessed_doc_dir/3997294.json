@@ -1,0 +1,137 @@
+{
+    "title": "Pneumonitis with pleural and pericardial effusion and neuropathy during amiodarone therapy.",
+    "abst": "A patient with sinuatrial disease and implanted pacemaker was treated with amiodarone (maximum dose 1000 mg, maintenance dose 800 mg daily) for 10 months, for control of supraventricular tachyarrhythmias. He developed pneumonitis, pleural and pericardial effusions, and a predominantly proximal motor neuropathy. Immediate but gradual improvement followed withdrawal of amiodarone and treatment with prednisolone. Review of this and previously reported cases indicates the need for early diagnosis of amiodarone pneumonitis, immediate withdrawal of amiodarone, and prompt but continued steroid therapy to ensure full recovery.",
+    "title_plus_abst": "Pneumonitis with pleural and pericardial effusion and neuropathy during amiodarone therapy. A patient with sinuatrial disease and implanted pacemaker was treated with amiodarone (maximum dose 1000 mg, maintenance dose 800 mg daily) for 10 months, for control of supraventricular tachyarrhythmias. He developed pneumonitis, pleural and pericardial effusions, and a predominantly proximal motor neuropathy. Immediate but gradual improvement followed withdrawal of amiodarone and treatment with prednisolone. Review of this and previously reported cases indicates the need for early diagnosis of amiodarone pneumonitis, immediate withdrawal of amiodarone, and prompt but continued steroid therapy to ensure full recovery.",
+    "pubmed_id": "3997294",
+    "entities": [
+        [
+            54,
+            64,
+            "neuropathy",
+            "Disease",
+            "D009422"
+        ],
+        [
+            72,
+            82,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            107,
+            125,
+            "sinuatrial disease",
+            "Disease",
+            "D002318"
+        ],
+        [
+            167,
+            177,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            262,
+            295,
+            "supraventricular tachyarrhythmias",
+            "Disease",
+            "D013617"
+        ],
+        [
+            310,
+            321,
+            "pneumonitis",
+            "Disease",
+            "D011014"
+        ],
+        [
+            378,
+            403,
+            "proximal motor neuropathy",
+            "Disease",
+            "D009468"
+        ],
+        [
+            462,
+            472,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            492,
+            504,
+            "prednisolone",
+            "Chemical",
+            "D011239"
+        ],
+        [
+            593,
+            603,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            604,
+            615,
+            "pneumonitis",
+            "Disease",
+            "D011014"
+        ],
+        [
+            641,
+            651,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            678,
+            685,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ]
+    ],
+    "split_sentence": [
+        "Pneumonitis with pleural and pericardial effusion and neuropathy during amiodarone therapy.",
+        "A patient with sinuatrial disease and implanted pacemaker was treated with amiodarone (maximum dose 1000 mg, maintenance dose 800 mg daily) for 10 months, for control of supraventricular tachyarrhythmias.",
+        "He developed pneumonitis, pleural and pericardial effusions, and a predominantly proximal motor neuropathy.",
+        "Immediate but gradual improvement followed withdrawal of amiodarone and treatment with prednisolone.",
+        "Review of this and previously reported cases indicates the need for early diagnosis of amiodarone pneumonitis, immediate withdrawal of amiodarone, and prompt but continued steroid therapy to ensure full recovery."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009422\tDisease\tneuropathy\tPneumonitis with pleural and pericardial effusion and <target> neuropathy </target> during amiodarone therapy .",
+        "D000638\tChemical\tamiodarone\tPneumonitis with pleural and pericardial effusion and neuropathy during <target> amiodarone </target> therapy .",
+        "D002318\tDisease\tsinuatrial disease\tA patient with <target> sinuatrial disease </target> and implanted pacemaker was treated with amiodarone ( maximum dose 1000 mg , maintenance dose 800 mg daily ) for 10 months , for control of supraventricular tachyarrhythmias .",
+        "D000638\tChemical\tamiodarone\tA patient with sinuatrial disease and implanted pacemaker was treated with <target> amiodarone </target> ( maximum dose 1000 mg , maintenance dose 800 mg daily ) for 10 months , for control of supraventricular tachyarrhythmias .",
+        "D013617\tDisease\tsupraventricular tachyarrhythmias\tA patient with sinuatrial disease and implanted pacemaker was treated with amiodarone ( maximum dose 1000 mg , maintenance dose 800 mg daily ) for 10 months , for control of <target> supraventricular tachyarrhythmias </target> .",
+        "D011014\tDisease\tpneumonitis\tHe developed <target> pneumonitis </target> , pleural and pericardial effusions , and a predominantly proximal motor neuropathy .",
+        "D009468\tDisease\tproximal motor neuropathy\tHe developed pneumonitis , pleural and pericardial effusions , and a predominantly <target> proximal motor neuropathy </target> .",
+        "D000638\tChemical\tamiodarone\tImmediate but gradual improvement followed withdrawal of <target> amiodarone </target> and treatment with prednisolone .",
+        "D011239\tChemical\tprednisolone\tImmediate but gradual improvement followed withdrawal of amiodarone and treatment with <target> prednisolone </target> .",
+        "D000638\tChemical\tamiodarone\tReview of this and previously reported cases indicates the need for early diagnosis of <target> amiodarone </target> pneumonitis , immediate withdrawal of amiodarone , and prompt but continued steroid therapy to ensure full recovery .",
+        "D011014\tDisease\tpneumonitis\tReview of this and previously reported cases indicates the need for early diagnosis of amiodarone <target> pneumonitis </target> , immediate withdrawal of amiodarone , and prompt but continued steroid therapy to ensure full recovery .",
+        "D000638\tChemical\tamiodarone\tReview of this and previously reported cases indicates the need for early diagnosis of amiodarone pneumonitis , immediate withdrawal of <target> amiodarone </target> , and prompt but continued steroid therapy to ensure full recovery .",
+        "D013256\tChemical\tsteroid\tReview of this and previously reported cases indicates the need for early diagnosis of amiodarone pneumonitis , immediate withdrawal of amiodarone , and prompt but continued <target> steroid </target> therapy to ensure full recovery ."
+    ],
+    "lines_lemma": [
+        "D009422\tDisease\tneuropathy\tpneumonitis with pleural and pericardial effusion and <target> neuropathy </target> during amiodarone therapy .",
+        "D000638\tChemical\tamiodarone\tpneumonitis with pleural and pericardial effusion and neuropathy during <target> amiodarone </target> therapy .",
+        "D002318\tDisease\tsinuatrial disease\ta patient with <target> sinuatrial disease </target> and implant pacemaker be treat with amiodarone ( maximum dose 1000 mg , maintenance dose 800 mg daily ) for 10 month , for control of supraventricular tachyarrhythmia .",
+        "D000638\tChemical\tamiodarone\ta patient with sinuatrial disease and implant pacemaker be treat with <target> amiodarone </target> ( maximum dose 1000 mg , maintenance dose 800 mg daily ) for 10 month , for control of supraventricular tachyarrhythmia .",
+        "D013617\tDisease\tsupraventricular tachyarrhythmias\ta patient with sinuatrial disease and implant pacemaker be treat with amiodarone ( maximum dose 1000 mg , maintenance dose 800 mg daily ) for 10 month , for control of <target> supraventricular tachyarrhythmia </target> .",
+        "D011014\tDisease\tpneumonitis\the develop <target> pneumonitis </target> , pleural and pericardial effusion , and a predominantly proximal motor neuropathy .",
+        "D009468\tDisease\tproximal motor neuropathy\the develop pneumonitis , pleural and pericardial effusion , and a predominantly <target> proximal motor neuropathy </target> .",
+        "D000638\tChemical\tamiodarone\timmediate but gradual improvement follow withdrawal of <target> amiodarone </target> and treatment with prednisolone .",
+        "D011239\tChemical\tprednisolone\timmediate but gradual improvement follow withdrawal of amiodarone and treatment with <target> prednisolone </target> .",
+        "D000638\tChemical\tamiodarone\treview of this and previously report case indicate the need for early diagnosis of <target> amiodarone </target> pneumonitis , immediate withdrawal of amiodarone , and prompt but continue steroid therapy to ensure full recovery .",
+        "D011014\tDisease\tpneumonitis\treview of this and previously report case indicate the need for early diagnosis of amiodarone <target> pneumonitis </target> , immediate withdrawal of amiodarone , and prompt but continue steroid therapy to ensure full recovery .",
+        "D000638\tChemical\tamiodarone\treview of this and previously report case indicate the need for early diagnosis of amiodarone pneumonitis , immediate withdrawal of <target> amiodarone </target> , and prompt but continue steroid therapy to ensure full recovery .",
+        "D013256\tChemical\tsteroid\treview of this and previously report case indicate the need for early diagnosis of amiodarone pneumonitis , immediate withdrawal of amiodarone , and prompt but continue <target> steroid </target> therapy to ensure full recovery ."
+    ]
+}

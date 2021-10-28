@@ -1,0 +1,130 @@
+{
+    "title": "Clonazepam monotherapy for epilepsy in childhood.",
+    "abst": "Sixty patients (age-range one month to 14 years) with other types of epilepsy than infantile spasms were treated with clonazepam. Disappearance of seizures and normalization of abnormal EEG with disappearance of seizures were recognized in 77% and 50%, respectively. Seizures disappeared in 71% of the patients with generalized seizures and 89% of partial seizures. Improvement of abnormal EEG was noticed in 76% of diffuse paroxysms and in 67% of focal paroxysms. In excellent cases, mean effective dosages were 0.086 +/- 0.021 mg/kg/day in infants and 0.057 +/- 0.022 mg/kg/day in schoolchildren, this difference was statistically significant (p less than 0.005). The incidence of side effects such as drowsiness and ataxia was only 5%.",
+    "title_plus_abst": "Clonazepam monotherapy for epilepsy in childhood. Sixty patients (age-range one month to 14 years) with other types of epilepsy than infantile spasms were treated with clonazepam. Disappearance of seizures and normalization of abnormal EEG with disappearance of seizures were recognized in 77% and 50%, respectively. Seizures disappeared in 71% of the patients with generalized seizures and 89% of partial seizures. Improvement of abnormal EEG was noticed in 76% of diffuse paroxysms and in 67% of focal paroxysms. In excellent cases, mean effective dosages were 0.086 +/- 0.021 mg/kg/day in infants and 0.057 +/- 0.022 mg/kg/day in schoolchildren, this difference was statistically significant (p less than 0.005). The incidence of side effects such as drowsiness and ataxia was only 5%.",
+    "pubmed_id": "3832950",
+    "entities": [
+        [
+            0,
+            10,
+            "Clonazepam",
+            "Chemical",
+            "D002998"
+        ],
+        [
+            27,
+            35,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            119,
+            127,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            133,
+            149,
+            "infantile spasms",
+            "Disease",
+            "D013036"
+        ],
+        [
+            168,
+            178,
+            "clonazepam",
+            "Chemical",
+            "D002998"
+        ],
+        [
+            197,
+            205,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            262,
+            270,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            317,
+            325,
+            "Seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            378,
+            386,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            406,
+            414,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            754,
+            764,
+            "drowsiness",
+            "Disease",
+            "D006970"
+        ],
+        [
+            769,
+            775,
+            "ataxia",
+            "Disease",
+            "D001259"
+        ]
+    ],
+    "split_sentence": [
+        "Clonazepam monotherapy for epilepsy in childhood.",
+        "Sixty patients (age-range one month to 14 years) with other types of epilepsy than infantile spasms were treated with clonazepam.",
+        "Disappearance of seizures and normalization of abnormal EEG with disappearance of seizures were recognized in 77% and 50%, respectively.",
+        "Seizures disappeared in 71% of the patients with generalized seizures and 89% of partial seizures.",
+        "Improvement of abnormal EEG was noticed in 76% of diffuse paroxysms and in 67% of focal paroxysms.",
+        "In excellent cases, mean effective dosages were 0.086 +/- 0.021 mg/kg/day in infants and 0.057 +/- 0.022 mg/kg/day in schoolchildren, this difference was statistically significant (p less than 0.005).",
+        "The incidence of side effects such as drowsiness and ataxia was only 5%."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002998\tChemical\tClonazepam\t<target> Clonazepam </target> monotherapy for epilepsy in childhood .",
+        "D004827\tDisease\tepilepsy\tClonazepam monotherapy for <target> epilepsy </target> in childhood .",
+        "D004827\tDisease\tepilepsy\tSixty patients ( age-range one month to 14 years ) with other types of <target> epilepsy </target> than infantile spasms were treated with clonazepam .",
+        "D013036\tDisease\tinfantile spasms\tSixty patients ( age-range one month to 14 years ) with other types of epilepsy than <target> infantile spasms </target> were treated with clonazepam .",
+        "D002998\tChemical\tclonazepam\tSixty patients ( age-range one month to 14 years ) with other types of epilepsy than infantile spasms were treated with <target> clonazepam </target> .",
+        "D012640\tDisease\tseizures\tDisappearance of <target> seizures </target> and normalization of abnormal EEG with disappearance of seizures were recognized in 77 % and 50 % , respectively .",
+        "D012640\tDisease\tseizures\tDisappearance of seizures and normalization of abnormal EEG with disappearance of <target> seizures </target> were recognized in 77 % and 50 % , respectively .",
+        "D012640\tDisease\tSeizures\t<target> Seizures </target> disappeared in 71 % of the patients with generalized seizures and 89 % of partial seizures .",
+        "D012640\tDisease\tseizures\tSeizures disappeared in 71 % of the patients with generalized <target> seizures </target> and 89 % of partial seizures .",
+        "D012640\tDisease\tseizures\tSeizures disappeared in 71 % of the patients with generalized seizures and 89 % of partial <target> seizures </target> .",
+        "D006970\tDisease\tdrowsiness\tThe incidence of side effects such as <target> drowsiness </target> and ataxia was only 5 % .",
+        "D001259\tDisease\tataxia\tThe incidence of side effects such as drowsiness and <target> ataxia </target> was only 5 % ."
+    ],
+    "lines_lemma": [
+        "D002998\tChemical\tClonazepam\t<target> Clonazepam </target> monotherapy for epilepsy in childhood .",
+        "D004827\tDisease\tepilepsy\tclonazepam monotherapy for <target> epilepsy </target> in childhood .",
+        "D004827\tDisease\tepilepsy\tsixty patient ( age-range one month to 14 year ) with other type of <target> epilepsy </target> than infantile spasm be treat with clonazepam .",
+        "D013036\tDisease\tinfantile spasms\tsixty patient ( age-range one month to 14 year ) with other type of epilepsy than <target> infantile spasm </target> be treat with clonazepam .",
+        "D002998\tChemical\tclonazepam\tsixty patient ( age-range one month to 14 year ) with other type of epilepsy than infantile spasm be treat with <target> clonazepam </target> .",
+        "D012640\tDisease\tseizures\tdisappearance of <target> seizure </target> and normalization of abnormal eeg with disappearance of seizure be recognize in 77 % and 50 % , respectively .",
+        "D012640\tDisease\tseizures\tdisappearance of seizure and normalization of abnormal eeg with disappearance of <target> seizure </target> be recognize in 77 % and 50 % , respectively .",
+        "D012640\tDisease\tSeizures\t<target> seizure </target> disappear in 71 % of the patient with generalize seizure and 89 % of partial seizure .",
+        "D012640\tDisease\tseizures\tseizure disappear in 71 % of the patient with generalize <target> seizure </target> and 89 % of partial seizure .",
+        "D012640\tDisease\tseizures\tseizure disappear in 71 % of the patient with generalize seizure and 89 % of partial <target> seizure </target> .",
+        "D006970\tDisease\tdrowsiness\tthe incidence of side effect such as <target> drowsiness </target> and ataxia be only 5 % .",
+        "D001259\tDisease\tataxia\tthe incidence of side effect such as drowsiness and <target> ataxia </target> be only 5 % ."
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Auditory disturbance associated with interscalene brachial plexus block.",
+    "abst": "We performed an audiometric study in 20 patients who underwent surgery of the shoulder region under an interscalene brachial plexus block (IBPB). Bupivacaine 0.75% with adrenaline was given followed by a 24-hr continuous infusion of 0.25% bupivacaine. Three audiometric threshold measurements (0.25-18 kHz) were made: the first before IBPB, the second 2-6 h after surgery and the third on the first day after operation. In four patients hearing impairment on the side of the block was demonstrated after operation, in three measurements on the day of surgery and in one on the following day. The frequencies at which the impairment occurred varied between patients; in one only low frequencies (0.25-0.5 kHz) were involved. The maximum change in threshold was 35 dB at 6 kHz measured at the end of the continuous infusion of bupivacaine. This patient had hearing threshold changes (15-20 dB) at 6-10 kHz on the opposite side also. IBPB may cause transient auditory dysfunction in the ipsilateral ear, possibly via an effect on sympathetic innervation.",
+    "title_plus_abst": "Auditory disturbance associated with interscalene brachial plexus block. We performed an audiometric study in 20 patients who underwent surgery of the shoulder region under an interscalene brachial plexus block (IBPB). Bupivacaine 0.75% with adrenaline was given followed by a 24-hr continuous infusion of 0.25% bupivacaine. Three audiometric threshold measurements (0.25-18 kHz) were made: the first before IBPB, the second 2-6 h after surgery and the third on the first day after operation. In four patients hearing impairment on the side of the block was demonstrated after operation, in three measurements on the day of surgery and in one on the following day. The frequencies at which the impairment occurred varied between patients; in one only low frequencies (0.25-0.5 kHz) were involved. The maximum change in threshold was 35 dB at 6 kHz measured at the end of the continuous infusion of bupivacaine. This patient had hearing threshold changes (15-20 dB) at 6-10 kHz on the opposite side also. IBPB may cause transient auditory dysfunction in the ipsilateral ear, possibly via an effect on sympathetic innervation.",
+    "pubmed_id": "7880714",
+    "entities": [
+        [
+            219,
+            230,
+            "Bupivacaine",
+            "Chemical",
+            "D002045"
+        ],
+        [
+            242,
+            252,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            312,
+            323,
+            "bupivacaine",
+            "Chemical",
+            "D002045"
+        ],
+        [
+            510,
+            528,
+            "hearing impairment",
+            "Disease",
+            "D034381"
+        ],
+        [
+            898,
+            909,
+            "bupivacaine",
+            "Chemical",
+            "D002045"
+        ],
+        [
+            1029,
+            1049,
+            "auditory dysfunction",
+            "Disease",
+            "D006311"
+        ]
+    ],
+    "split_sentence": [
+        "Auditory disturbance associated with interscalene brachial plexus block.",
+        "We performed an audiometric study in 20 patients who underwent surgery of the shoulder region under an interscalene brachial plexus block (IBPB).",
+        "Bupivacaine 0.75% with adrenaline was given followed by a 24-hr continuous infusion of 0.25% bupivacaine.",
+        "Three audiometric threshold measurements (0.25-18 kHz) were made: the first before IBPB, the second 2-6 h after surgery and the third on the first day after operation.",
+        "In four patients hearing impairment on the side of the block was demonstrated after operation, in three measurements on the day of surgery and in one on the following day.",
+        "The frequencies at which the impairment occurred varied between patients; in one only low frequencies (0.25-0.5 kHz) were involved.",
+        "The maximum change in threshold was 35 dB at 6 kHz measured at the end of the continuous infusion of bupivacaine.",
+        "This patient had hearing threshold changes (15-20 dB) at 6-10 kHz on the opposite side also.",
+        "IBPB may cause transient auditory dysfunction in the ipsilateral ear, possibly via an effect on sympathetic innervation."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002045\tChemical\tBupivacaine\t<target> Bupivacaine </target> 0.75 % with adrenaline was given followed by a 24-hr continuous infusion of 0.25 % bupivacaine .",
+        "D004837\tChemical\tadrenaline\tBupivacaine 0.75 % with <target> adrenaline </target> was given followed by a 24-hr continuous infusion of 0.25 % bupivacaine .",
+        "D002045\tChemical\tbupivacaine\tBupivacaine 0.75 % with adrenaline was given followed by a 24-hr continuous infusion of 0.25 % <target> bupivacaine </target> .",
+        "D034381\tDisease\thearing impairment\tIn four patients <target> hearing impairment </target> on the side of the block was demonstrated after operation , in three measurements on the day of surgery and in one on the following day .",
+        "D002045\tChemical\tbupivacaine\tThe maximum change in threshold was 35 dB at 6 kHz measured at the end of the continuous infusion of <target> bupivacaine </target> .",
+        "D006311\tDisease\tauditory dysfunction\tIBPB may cause transient <target> auditory dysfunction </target> in the ipsilateral ear , possibly via an effect on sympathetic innervation ."
+    ],
+    "lines_lemma": [
+        "D002045\tChemical\tBupivacaine\t<target> Bupivacaine </target> 0.75 % with adrenaline be give follow by a 24-hr continuous infusion of 0.25 % bupivacaine .",
+        "D004837\tChemical\tadrenaline\tbupivacaine 0.75 % with <target> adrenaline </target> be give follow by a 24-hr continuous infusion of 0.25 % bupivacaine .",
+        "D002045\tChemical\tbupivacaine\tbupivacaine 0.75 % with adrenaline be give follow by a 24-hr continuous infusion of 0.25 % <target> bupivacaine </target> .",
+        "D034381\tDisease\thearing impairment\tin four patient <target> hearing impairment </target> on the side of the block be demonstrate after operation , in three measurement on the day of surgery and in one on the follow day .",
+        "D002045\tChemical\tbupivacaine\tthe maximum change in threshold be 35 db at 6 khz measure at the end of the continuous infusion of <target> bupivacaine </target> .",
+        "D006311\tDisease\tauditory dysfunction\tibpb may cause transient <target> auditory dysfunction </target> in the ipsilateral ear , possibly via an effect on sympathetic innervation ."
+    ]
+}

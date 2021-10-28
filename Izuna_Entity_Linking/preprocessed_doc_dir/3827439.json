@@ -1,0 +1,109 @@
+{
+    "title": "Recurrent reversible acute renal failure from amphotericin.",
+    "abst": "A patient with cryptogenic cirrhosis and disseminated sporotrichosis developed acute renal failure immediately following the administration of amphotericin B on four separate occasions. The abruptness of the renal failure and its reversibility within days suggests that there was a functional component to the renal dysfunction. We propose that amphotericin, in the setting of reduced effective arterial volume, may activate tubuloglomerular feedback, thereby contributing to acute renal failure.",
+    "title_plus_abst": "Recurrent reversible acute renal failure from amphotericin. A patient with cryptogenic cirrhosis and disseminated sporotrichosis developed acute renal failure immediately following the administration of amphotericin B on four separate occasions. The abruptness of the renal failure and its reversibility within days suggests that there was a functional component to the renal dysfunction. We propose that amphotericin, in the setting of reduced effective arterial volume, may activate tubuloglomerular feedback, thereby contributing to acute renal failure.",
+    "pubmed_id": "3827439",
+    "entities": [
+        [
+            21,
+            40,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            46,
+            58,
+            "amphotericin",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            87,
+            96,
+            "cirrhosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            114,
+            128,
+            "sporotrichosis",
+            "Disease",
+            "D013174"
+        ],
+        [
+            139,
+            158,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            203,
+            217,
+            "amphotericin B",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            268,
+            281,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            370,
+            387,
+            "renal dysfunction",
+            "Disease",
+            "D007674"
+        ],
+        [
+            405,
+            417,
+            "amphotericin",
+            "Chemical",
+            "D000666"
+        ],
+        [
+            536,
+            555,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ]
+    ],
+    "split_sentence": [
+        "Recurrent reversible acute renal failure from amphotericin.",
+        "A patient with cryptogenic cirrhosis and disseminated sporotrichosis developed acute renal failure immediately following the administration of amphotericin B on four separate occasions.",
+        "The abruptness of the renal failure and its reversibility within days suggests that there was a functional component to the renal dysfunction.",
+        "We propose that amphotericin, in the setting of reduced effective arterial volume, may activate tubuloglomerular feedback, thereby contributing to acute renal failure."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D058186\tDisease\tacute renal failure\tRecurrent reversible <target> acute renal failure </target> from amphotericin .",
+        "D000666\tChemical\tamphotericin\tRecurrent reversible acute renal failure from <target> amphotericin </target> .",
+        "D005355\tDisease\tcirrhosis\tA patient with cryptogenic <target> cirrhosis </target> and disseminated sporotrichosis developed acute renal failure immediately following the administration of amphotericin B on four separate occasions .",
+        "D013174\tDisease\tsporotrichosis\tA patient with cryptogenic cirrhosis and disseminated <target> sporotrichosis </target> developed acute renal failure immediately following the administration of amphotericin B on four separate occasions .",
+        "D058186\tDisease\tacute renal failure\tA patient with cryptogenic cirrhosis and disseminated sporotrichosis developed <target> acute renal failure </target> immediately following the administration of amphotericin B on four separate occasions .",
+        "D000666\tChemical\tamphotericin B\tA patient with cryptogenic cirrhosis and disseminated sporotrichosis developed acute renal failure immediately following the administration of <target> amphotericin B </target> on four separate occasions .",
+        "D051437\tDisease\trenal failure\tThe abruptness of the <target> renal failure </target> and its reversibility within days suggests that there was a functional component to the renal dysfunction .",
+        "D007674\tDisease\trenal dysfunction\tThe abruptness of the renal failure and its reversibility within days suggests that there was a functional component to the <target> renal dysfunction </target> .",
+        "D000666\tChemical\tamphotericin\tWe propose that <target> amphotericin </target> , in the setting of reduced effective arterial volume , may activate tubuloglomerular feedback , thereby contributing to acute renal failure .",
+        "D058186\tDisease\tacute renal failure\tWe propose that amphotericin , in the setting of reduced effective arterial volume , may activate tubuloglomerular feedback , thereby contributing to <target> acute renal failure </target> ."
+    ],
+    "lines_lemma": [
+        "D058186\tDisease\tacute renal failure\trecurrent reversible <target> acute renal failure </target> from amphotericin .",
+        "D000666\tChemical\tamphotericin\trecurrent reversible acute renal failure from <target> amphotericin </target> .",
+        "D005355\tDisease\tcirrhosis\ta patient with cryptogenic <target> cirrhosis </target> and disseminated sporotrichosis develop acute renal failure immediately follow the administration of amphotericin b on four separate occasion .",
+        "D013174\tDisease\tsporotrichosis\ta patient with cryptogenic cirrhosis and disseminate <target> sporotrichosis </target> develop acute renal failure immediately follow the administration of amphotericin b on four separate occasion .",
+        "D058186\tDisease\tacute renal failure\ta patient with cryptogenic cirrhosis and disseminated sporotrichosis develop <target> acute renal failure </target> immediately follow the administration of amphotericin b on four separate occasion .",
+        "D000666\tChemical\tamphotericin B\ta patient with cryptogenic cirrhosis and disseminated sporotrichosis develop acute renal failure immediately follow the administration of <target> amphotericin b </target> on four separate occasion .",
+        "D051437\tDisease\trenal failure\tthe abruptness of the <target> renal failure </target> and its reversibility within day suggest that there be a functional component to the renal dysfunction .",
+        "D007674\tDisease\trenal dysfunction\tthe abruptness of the renal failure and its reversibility within day suggest that there be a functional component to the <target> renal dysfunction </target> .",
+        "D000666\tChemical\tamphotericin\twe propose that <target> amphotericin </target> , in the setting of reduce effective arterial volume , may activate tubuloglomerular feedback , thereby contribute to acute renal failure .",
+        "D058186\tDisease\tacute renal failure\twe propose that amphotericin , in the setting of reduce effective arterial volume , may activate tubuloglomerular feedback , thereby contribute to <target> acute renal failure </target> ."
+    ]
+}

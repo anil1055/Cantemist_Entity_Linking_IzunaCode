@@ -1,0 +1,245 @@
+{
+    "title": "Cause of death among patients with Parkinson's disease: a rare mortality due to cerebral haemorrhage.",
+    "abst": "Causes of death, with special reference to cerebral haemorrhage, among 240 patients with pathologically verified Parkinson's disease were investigated using the Annuals of the Pathological Autopsy Cases in Japan from 1981 to 1985. The leading causes of death were pneumonia and bronchitis (44.1%), malignant neoplasms (11.6%), heart diseases (4.1%), cerebral infarction (3.7%) and septicaemia (3.3%). Cerebral haemorrhage was the 11th most frequent cause of death, accounting for only 0.8% of deaths among the patients, whereas it was the 5th most common cause of death among the Japanese general population in 1985. The low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain.",
+    "title_plus_abst": "Cause of death among patients with Parkinson's disease: a rare mortality due to cerebral haemorrhage. Causes of death, with special reference to cerebral haemorrhage, among 240 patients with pathologically verified Parkinson's disease were investigated using the Annuals of the Pathological Autopsy Cases in Japan from 1981 to 1985. The leading causes of death were pneumonia and bronchitis (44.1%), malignant neoplasms (11.6%), heart diseases (4.1%), cerebral infarction (3.7%) and septicaemia (3.3%). Cerebral haemorrhage was the 11th most frequent cause of death, accounting for only 0.8% of deaths among the patients, whereas it was the 5th most common cause of death among the Japanese general population in 1985. The low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain.",
+    "pubmed_id": "2355241",
+    "entities": [
+        [
+            9,
+            14,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            35,
+            54,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            80,
+            100,
+            "cerebral haemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            112,
+            117,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            145,
+            165,
+            "cerebral haemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            215,
+            234,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            355,
+            360,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            366,
+            375,
+            "pneumonia",
+            "Disease",
+            "D011014"
+        ],
+        [
+            380,
+            390,
+            "bronchitis",
+            "Disease",
+            "D001991"
+        ],
+        [
+            410,
+            419,
+            "neoplasms",
+            "Disease",
+            "D009369"
+        ],
+        [
+            429,
+            443,
+            "heart diseases",
+            "Disease",
+            "D006331"
+        ],
+        [
+            452,
+            471,
+            "cerebral infarction",
+            "Disease",
+            "D002544"
+        ],
+        [
+            483,
+            494,
+            "septicaemia",
+            "Disease",
+            "D018805"
+        ],
+        [
+            503,
+            523,
+            "Cerebral haemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            560,
+            565,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            595,
+            601,
+            "deaths",
+            "Disease",
+            "D003643"
+        ],
+        [
+            666,
+            671,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            740,
+            760,
+            "cerebral haemorrhage",
+            "Disease",
+            "D002543"
+        ],
+        [
+            775,
+            780,
+            "death",
+            "Disease",
+            "D003643"
+        ],
+        [
+            798,
+            817,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ],
+        [
+            834,
+            845,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            856,
+            864,
+            "levodopa",
+            "Chemical",
+            "D007980"
+        ],
+        [
+            871,
+            882,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            908,
+            921,
+            "noradrenaline",
+            "Chemical",
+            "D009638"
+        ],
+        [
+            936,
+            948,
+            "parkinsonian",
+            "Disease",
+            "D010300"
+        ]
+    ],
+    "split_sentence": [
+        "Cause of death among patients with Parkinson's disease: a rare mortality due to cerebral haemorrhage.",
+        "Causes of death, with special reference to cerebral haemorrhage, among 240 patients with pathologically verified Parkinson's disease were investigated using the Annuals of the Pathological Autopsy Cases in Japan from 1981 to 1985.",
+        "The leading causes of death were pneumonia and bronchitis (44.1%), malignant neoplasms (11.6%), heart diseases (4.1%), cerebral infarction (3.7%) and septicaemia (3.3%).",
+        "Cerebral haemorrhage was the 11th most frequent cause of death, accounting for only 0.8% of deaths among the patients, whereas it was the 5th most common cause of death among the Japanese general population in 1985.",
+        "The low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003643\tDisease\tdeath\tCause of <target> death </target> among patients with Parkinson 's disease : a rare mortality due to cerebral haemorrhage .",
+        "D010300\tDisease\tParkinson's disease\tCause of death among patients with <target> Parkinson 's disease </target> : a rare mortality due to cerebral haemorrhage .",
+        "D002543\tDisease\tcerebral haemorrhage\tCause of death among patients with Parkinson 's disease : a rare mortality due to <target> cerebral haemorrhage </target> .",
+        "D003643\tDisease\tdeath\tCauses of <target> death </target> , with special reference to cerebral haemorrhage , among 240 patients with pathologically verified Parkinson 's disease were investigated using the Annuals of the Pathological Autopsy Cases in Japan from 1981 to 1985 .",
+        "D002543\tDisease\tcerebral haemorrhage\tCauses of death , with special reference to <target> cerebral haemorrhage </target> , among 240 patients with pathologically verified Parkinson 's disease were investigated using the Annuals of the Pathological Autopsy Cases in Japan from 1981 to 1985 .",
+        "D010300\tDisease\tParkinson's disease\tCauses of death , with special reference to cerebral haemorrhage , among 240 patients with pathologically verified <target> Parkinson 's disease </target> were investigated using the Annuals of the Pathological Autopsy Cases in Japan from 1981 to 1985 .",
+        "D003643\tDisease\tdeath\tThe leading causes of <target> death </target> were pneumonia and bronchitis ( 44.1 % ) , malignant neoplasms ( 11.6 % ) , heart diseases ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D011014\tDisease\tpneumonia\tThe leading causes of death were <target> pneumonia </target> and bronchitis ( 44.1 % ) , malignant neoplasms ( 11.6 % ) , heart diseases ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D001991\tDisease\tbronchitis\tThe leading causes of death were pneumonia and <target> bronchitis </target> ( 44.1 % ) , malignant neoplasms ( 11.6 % ) , heart diseases ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D009369\tDisease\tneoplasms\tThe leading causes of death were pneumonia and bronchitis ( 44.1 % ) , malignant <target> neoplasms </target> ( 11.6 % ) , heart diseases ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D006331\tDisease\theart diseases\tThe leading causes of death were pneumonia and bronchitis ( 44.1 % ) , malignant neoplasms ( 11.6 % ) , <target> heart diseases </target> ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D002544\tDisease\tcerebral infarction\tThe leading causes of death were pneumonia and bronchitis ( 44.1 % ) , malignant neoplasms ( 11.6 % ) , heart diseases ( 4.1 % ) , <target> cerebral infarction </target> ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D018805\tDisease\tsepticaemia\tThe leading causes of death were pneumonia and bronchitis ( 44.1 % ) , malignant neoplasms ( 11.6 % ) , heart diseases ( 4.1 % ) , cerebral infarction ( 3.7 % ) and <target> septicaemia </target> ( 3.3 % ) .",
+        "D002543\tDisease\tCerebral haemorrhage\t<target> Cerebral haemorrhage </target> was the 11th most frequent cause of death , accounting for only 0.8 % of deaths among the patients , whereas it was the 5th most common cause of death among the Japanese general population in 1985 .",
+        "D003643\tDisease\tdeath\tCerebral haemorrhage was the 11th most frequent cause of <target> death </target> , accounting for only 0.8 % of deaths among the patients , whereas it was the 5th most common cause of death among the Japanese general population in 1985 .",
+        "D003643\tDisease\tdeaths\tCerebral haemorrhage was the 11th most frequent cause of death , accounting for only 0.8 % of <target> deaths </target> among the patients , whereas it was the 5th most common cause of death among the Japanese general population in 1985 .",
+        "D003643\tDisease\tdeath\tCerebral haemorrhage was the 11th most frequent cause of death , accounting for only 0.8 % of deaths among the patients , whereas it was the 5th most common cause of <target> death </target> among the Japanese general population in 1985 .",
+        "D002543\tDisease\tcerebral haemorrhage\tThe low incidence of <target> cerebral haemorrhage </target> as a cause of death in patients with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain .",
+        "D003643\tDisease\tdeath\tThe low incidence of cerebral haemorrhage as a cause of <target> death </target> in patients with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain .",
+        "D010300\tDisease\tParkinson's disease\tThe low incidence of cerebral haemorrhage as a cause of death in patients with <target> Parkinson 's disease </target> may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain .",
+        "D007022\tDisease\thypotensive\tThe low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson 's disease may reflect the <target> hypotensive </target> effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain .",
+        "D007980\tChemical\tlevodopa\tThe low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson 's disease may reflect the hypotensive effect of <target> levodopa </target> and a hypotensive mechanism due to reduced noradrenaline levels in the parkinsonian brain .",
+        "D007022\tDisease\thypotensive\tThe low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson 's disease may reflect the hypotensive effect of levodopa and a <target> hypotensive </target> mechanism due to reduced noradrenaline levels in the parkinsonian brain .",
+        "D009638\tChemical\tnoradrenaline\tThe low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced <target> noradrenaline </target> levels in the parkinsonian brain .",
+        "D010300\tDisease\tparkinsonian\tThe low incidence of cerebral haemorrhage as a cause of death in patients with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduced noradrenaline levels in the <target> parkinsonian </target> brain ."
+    ],
+    "lines_lemma": [
+        "D003643\tDisease\tdeath\tCause of <target> death </target> among patient with Parkinson 's disease : a rare mortality due to cerebral haemorrhage .",
+        "D010300\tDisease\tParkinson's disease\tcause of death among patient with <target> Parkinson 's disease </target> : a rare mortality due to cerebral haemorrhage .",
+        "D002543\tDisease\tcerebral haemorrhage\tcause of death among patient with Parkinson 's disease : a rare mortality due to <target> cerebral haemorrhage </target> .",
+        "D003643\tDisease\tdeath\tcause of <target> death </target> , with special reference to cerebral haemorrhage , among 240 patient with pathologically verify Parkinson 's disease be investigate use the annual of the Pathological Autopsy Cases in Japan from 1981 to 1985 .",
+        "D002543\tDisease\tcerebral haemorrhage\tcause of death , with special reference to <target> cerebral haemorrhage </target> , among 240 patient with pathologically verify Parkinson 's disease be investigate use the annual of the Pathological Autopsy Cases in Japan from 1981 to 1985 .",
+        "D010300\tDisease\tParkinson's disease\tcause of death , with special reference to cerebral haemorrhage , among 240 patient with pathologically verify <target> Parkinson 's disease </target> be investigate use the annual of the Pathological Autopsy Cases in Japan from 1981 to 1985 .",
+        "D003643\tDisease\tdeath\tthe lead cause of <target> death </target> be pneumonia and bronchitis ( 44.1 % ) , malignant neoplasm ( 11.6 % ) , heart disease ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D011014\tDisease\tpneumonia\tthe lead cause of death be <target> pneumonia </target> and bronchitis ( 44.1 % ) , malignant neoplasm ( 11.6 % ) , heart disease ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D001991\tDisease\tbronchitis\tthe lead cause of death be pneumonia and <target> bronchitis </target> ( 44.1 % ) , malignant neoplasm ( 11.6 % ) , heart disease ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D009369\tDisease\tneoplasms\tthe lead cause of death be pneumonia and bronchitis ( 44.1 % ) , malignant <target> neoplasm </target> ( 11.6 % ) , heart disease ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D006331\tDisease\theart diseases\tthe lead cause of death be pneumonia and bronchitis ( 44.1 % ) , malignant neoplasm ( 11.6 % ) , <target> heart disease </target> ( 4.1 % ) , cerebral infarction ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D002544\tDisease\tcerebral infarction\tthe lead cause of death be pneumonia and bronchitis ( 44.1 % ) , malignant neoplasm ( 11.6 % ) , heart disease ( 4.1 % ) , <target> cerebral infarction </target> ( 3.7 % ) and septicaemia ( 3.3 % ) .",
+        "D018805\tDisease\tsepticaemia\tthe lead cause of death be pneumonia and bronchitis ( 44.1 % ) , malignant neoplasm ( 11.6 % ) , heart disease ( 4.1 % ) , cerebral infarction ( 3.7 % ) and <target> septicaemia </target> ( 3.3 % ) .",
+        "D002543\tDisease\tCerebral haemorrhage\t<target> cerebral haemorrhage </target> be the 11th most frequent cause of death , account for only 0.8 % of death among the patient , whereas it be the 5th most common cause of death among the japanese general population in 1985 .",
+        "D003643\tDisease\tdeath\tcerebral haemorrhage be the 11th most frequent cause of <target> death </target> , account for only 0.8 % of death among the patient , whereas it be the 5th most common cause of death among the japanese general population in 1985 .",
+        "D003643\tDisease\tdeaths\tcerebral haemorrhage be the 11th most frequent cause of death , account for only 0.8 % of <target> death </target> among the patient , whereas it be the 5th most common cause of death among the japanese general population in 1985 .",
+        "D003643\tDisease\tdeath\tcerebral haemorrhage be the 11th most frequent cause of death , account for only 0.8 % of death among the patient , whereas it be the 5th most common cause of <target> death </target> among the japanese general population in 1985 .",
+        "D002543\tDisease\tcerebral haemorrhage\tthe low incidence of <target> cerebral haemorrhage </target> as a cause of death in patient with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduce noradrenaline level in the parkinsonian brain .",
+        "D003643\tDisease\tdeath\tthe low incidence of cerebral haemorrhage as a cause of <target> death </target> in patient with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduce noradrenaline level in the parkinsonian brain .",
+        "D010300\tDisease\tParkinson's disease\tthe low incidence of cerebral haemorrhage as a cause of death in patient with <target> Parkinson 's disease </target> may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduce noradrenaline level in the parkinsonian brain .",
+        "D007022\tDisease\thypotensive\tthe low incidence of cerebral haemorrhage as a cause of death in patient with Parkinson 's disease may reflect the <target> hypotensive </target> effect of levodopa and a hypotensive mechanism due to reduce noradrenaline level in the parkinsonian brain .",
+        "D007980\tChemical\tlevodopa\tthe low incidence of cerebral haemorrhage as a cause of death in patient with Parkinson 's disease may reflect the hypotensive effect of <target> levodopa </target> and a hypotensive mechanism due to reduce noradrenaline level in the parkinsonian brain .",
+        "D007022\tDisease\thypotensive\tthe low incidence of cerebral haemorrhage as a cause of death in patient with Parkinson 's disease may reflect the hypotensive effect of levodopa and a <target> hypotensive </target> mechanism due to reduce noradrenaline level in the parkinsonian brain .",
+        "D009638\tChemical\tnoradrenaline\tthe low incidence of cerebral haemorrhage as a cause of death in patient with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduce <target> noradrenaline </target> level in the parkinsonian brain .",
+        "D010300\tDisease\tparkinsonian\tthe low incidence of cerebral haemorrhage as a cause of death in patient with Parkinson 's disease may reflect the hypotensive effect of levodopa and a hypotensive mechanism due to reduce noradrenaline level in the <target> parkinsonian </target> brain ."
+    ]
+}

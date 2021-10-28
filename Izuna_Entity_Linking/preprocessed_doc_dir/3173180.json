@@ -1,0 +1,100 @@
+{
+    "title": "Haemolytic-uraemic syndrome after treatment with metronidazole.",
+    "abst": "This paper describes the clinical features of six children who developed the haemolytic-uraemic syndrome after treatment with metronidazole. These children were older and were more likely to have undergone recent bowel surgery than are other children with this condition. While the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome is not established firmly, the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some cases of the haemolytic-uraemic syndrome.",
+    "title_plus_abst": "Haemolytic-uraemic syndrome after treatment with metronidazole. This paper describes the clinical features of six children who developed the haemolytic-uraemic syndrome after treatment with metronidazole. These children were older and were more likely to have undergone recent bowel surgery than are other children with this condition. While the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome is not established firmly, the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some cases of the haemolytic-uraemic syndrome.",
+    "pubmed_id": "3173180",
+    "entities": [
+        [
+            0,
+            27,
+            "Haemolytic-uraemic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            49,
+            62,
+            "metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            141,
+            168,
+            "haemolytic-uraemic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            190,
+            203,
+            "metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            361,
+            374,
+            "metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            399,
+            426,
+            "haemolytic-uraemic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            575,
+            602,
+            "haemolytic-uraemic syndrome",
+            "Disease",
+            "D006463"
+        ],
+        [
+            635,
+            648,
+            "metronidazole",
+            "Chemical",
+            "D008795"
+        ],
+        [
+            681,
+            708,
+            "haemolytic-uraemic syndrome",
+            "Disease",
+            "D006463"
+        ]
+    ],
+    "split_sentence": [
+        "Haemolytic-uraemic syndrome after treatment with metronidazole.",
+        "This paper describes the clinical features of six children who developed the haemolytic-uraemic syndrome after treatment with metronidazole.",
+        "These children were older and were more likely to have undergone recent bowel surgery than are other children with this condition.",
+        "While the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome is not established firmly, the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some cases of the haemolytic-uraemic syndrome."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006463\tDisease\tHaemolytic-uraemic syndrome\t<target> Haemolytic-uraemic syndrome </target> after treatment with metronidazole .",
+        "D008795\tChemical\tmetronidazole\tHaemolytic-uraemic syndrome after treatment with <target> metronidazole </target> .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\tThis paper describes the clinical features of six children who developed the <target> haemolytic-uraemic syndrome </target> after treatment with metronidazole .",
+        "D008795\tChemical\tmetronidazole\tThis paper describes the clinical features of six children who developed the haemolytic-uraemic syndrome after treatment with <target> metronidazole </target> .",
+        "D008795\tChemical\tmetronidazole\tWhile the involvement of <target> metronidazole </target> in the aetiology of the haemolytic-uraemic syndrome is not established firmly , the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some cases of the haemolytic-uraemic syndrome .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\tWhile the involvement of metronidazole in the aetiology of the <target> haemolytic-uraemic syndrome </target> is not established firmly , the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some cases of the haemolytic-uraemic syndrome .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\tWhile the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome is not established firmly , the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the <target> haemolytic-uraemic syndrome </target> suggest a possible link between metronidazole treatment and some cases of the haemolytic-uraemic syndrome .",
+        "D008795\tChemical\tmetronidazole\tWhile the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome is not established firmly , the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between <target> metronidazole </target> treatment and some cases of the haemolytic-uraemic syndrome .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\tWhile the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome is not established firmly , the action of this drug in sensitizing tissues to oxidation injury and the reported evidence of oxidation changes in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some cases of the <target> haemolytic-uraemic syndrome </target> ."
+    ],
+    "lines_lemma": [
+        "D006463\tDisease\tHaemolytic-uraemic syndrome\t<target> haemolytic-uraemic syndrome </target> after treatment with metronidazole .",
+        "D008795\tChemical\tmetronidazole\thaemolytic-uraemic syndrome after treatment with <target> metronidazole </target> .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\tthis paper describe the clinical feature of six child who develop the <target> haemolytic-uraemic syndrome </target> after treatment with metronidazole .",
+        "D008795\tChemical\tmetronidazole\tthis paper describe the clinical feature of six child who develop the haemolytic-uraemic syndrome after treatment with <target> metronidazole </target> .",
+        "D008795\tChemical\tmetronidazole\twhile the involvement of <target> metronidazole </target> in the aetiology of the haemolytic-uraemic syndrome be not establish firmly , the action of this drug in sensitize tissue to oxidation injury and the report evidence of oxidation change in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some case of the haemolytic-uraemic syndrome .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\twhile the involvement of metronidazole in the aetiology of the <target> haemolytic-uraemic syndrome </target> be not establish firmly , the action of this drug in sensitize tissue to oxidation injury and the report evidence of oxidation change in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some case of the haemolytic-uraemic syndrome .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\twhile the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome be not establish firmly , the action of this drug in sensitize tissue to oxidation injury and the report evidence of oxidation change in the <target> haemolytic-uraemic syndrome </target> suggest a possible link between metronidazole treatment and some case of the haemolytic-uraemic syndrome .",
+        "D008795\tChemical\tmetronidazole\twhile the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome be not establish firmly , the action of this drug in sensitize tissue to oxidation injury and the report evidence of oxidation change in the haemolytic-uraemic syndrome suggest a possible link between <target> metronidazole </target> treatment and some case of the haemolytic-uraemic syndrome .",
+        "D006463\tDisease\thaemolytic-uraemic syndrome\twhile the involvement of metronidazole in the aetiology of the haemolytic-uraemic syndrome be not establish firmly , the action of this drug in sensitize tissue to oxidation injury and the report evidence of oxidation change in the haemolytic-uraemic syndrome suggest a possible link between metronidazole treatment and some case of the <target> haemolytic-uraemic syndrome </target> ."
+    ]
+}

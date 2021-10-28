@@ -1,0 +1,131 @@
+{
+    "title": "Changes in heart size during long-term timolol treatment after myocardial infarction.",
+    "abst": "The effect of long-term timolol treatment on heart size after myocardial infarction was evaluated by X-ray in a double-blind study including 241 patients (placebo 126, timolol 115). The follow-up period was 12 months. The timolol-treated patients showed a small but significant increase in heart size from baseline in contrast to a decrease in the placebo group. These differences may be caused by timolol-induced bradycardia and a compensatory increase in end-diastolic volume. The timolol-related increase in heart size was observed only in patients with normal and borderline heart size. In patients with cardiomegaly, the increase in heart size was similar in both groups. After re-infarction, heart size increased in the placebo group and remained unchanged in the timolol group.",
+    "title_plus_abst": "Changes in heart size during long-term timolol treatment after myocardial infarction. The effect of long-term timolol treatment on heart size after myocardial infarction was evaluated by X-ray in a double-blind study including 241 patients (placebo 126, timolol 115). The follow-up period was 12 months. The timolol-treated patients showed a small but significant increase in heart size from baseline in contrast to a decrease in the placebo group. These differences may be caused by timolol-induced bradycardia and a compensatory increase in end-diastolic volume. The timolol-related increase in heart size was observed only in patients with normal and borderline heart size. In patients with cardiomegaly, the increase in heart size was similar in both groups. After re-infarction, heart size increased in the placebo group and remained unchanged in the timolol group.",
+    "pubmed_id": "6229975",
+    "entities": [
+        [
+            39,
+            46,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            63,
+            84,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            110,
+            117,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            148,
+            169,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            254,
+            261,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            308,
+            315,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            484,
+            491,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            500,
+            511,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            569,
+            576,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ],
+        [
+            694,
+            706,
+            "cardiomegaly",
+            "Disease",
+            "D006332"
+        ],
+        [
+            772,
+            782,
+            "infarction",
+            "Disease",
+            "D007238"
+        ],
+        [
+            856,
+            863,
+            "timolol",
+            "Chemical",
+            "D013999"
+        ]
+    ],
+    "split_sentence": [
+        "Changes in heart size during long-term timolol treatment after myocardial infarction.",
+        "The effect of long-term timolol treatment on heart size after myocardial infarction was evaluated by X-ray in a double-blind study including 241 patients (placebo 126, timolol 115).",
+        "The follow-up period was 12 months.",
+        "The timolol-treated patients showed a small but significant increase in heart size from baseline in contrast to a decrease in the placebo group.",
+        "These differences may be caused by timolol-induced bradycardia and a compensatory increase in end-diastolic volume.",
+        "The timolol-related increase in heart size was observed only in patients with normal and borderline heart size.",
+        "In patients with cardiomegaly, the increase in heart size was similar in both groups.",
+        "After re-infarction, heart size increased in the placebo group and remained unchanged in the timolol group."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013999\tChemical\ttimolol\tChanges in heart size during long-term <target> timolol </target> treatment after myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tChanges in heart size during long-term timolol treatment after <target> myocardial infarction </target> .",
+        "D013999\tChemical\ttimolol\tThe effect of long-term <target> timolol </target> treatment on heart size after myocardial infarction was evaluated by X-ray in a double-blind study including 241 patients ( placebo 126 , timolol 115 ) .",
+        "D009203\tDisease\tmyocardial infarction\tThe effect of long-term timolol treatment on heart size after <target> myocardial infarction </target> was evaluated by X-ray in a double-blind study including 241 patients ( placebo 126 , timolol 115 ) .",
+        "D013999\tChemical\ttimolol\tThe effect of long-term timolol treatment on heart size after myocardial infarction was evaluated by X-ray in a double-blind study including 241 patients ( placebo 126 , <target> timolol </target> 115 ) .",
+        "D013999\tChemical\ttimolol\tThe <target> timolol </target> -treated patients showed a small but significant increase in heart size from baseline in contrast to a decrease in the placebo group .",
+        "D013999\tChemical\ttimolol\tThese differences may be caused by <target> timolol </target> -induced bradycardia and a compensatory increase in end-diastolic volume .",
+        "D001919\tDisease\tbradycardia\tThese differences may be caused by timolol-induced <target> bradycardia </target> and a compensatory increase in end-diastolic volume .",
+        "D013999\tChemical\ttimolol\tThe <target> timolol </target> -related increase in heart size was observed only in patients with normal and borderline heart size .",
+        "D006332\tDisease\tcardiomegaly\tIn patients with <target> cardiomegaly </target> , the increase in heart size was similar in both groups .",
+        "D007238\tDisease\tinfarction\tAfter re- <target> infarction </target> , heart size increased in the placebo group and remained unchanged in the timolol group .",
+        "D013999\tChemical\ttimolol\tAfter re-infarction , heart size increased in the placebo group and remained unchanged in the <target> timolol </target> group ."
+    ],
+    "lines_lemma": [
+        "D013999\tChemical\ttimolol\tchange in heart size during long-term <target> timolol </target> treatment after myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tchange in heart size during long-term timolol treatment after <target> myocardial infarction </target> .",
+        "D013999\tChemical\ttimolol\tthe effect of long-term <target> timolol </target> treatment on heart size after myocardial infarction be evaluate by x-ray in a double-blind study include 241 patient ( placebo 126 , timolol 115 ) .",
+        "D009203\tDisease\tmyocardial infarction\tthe effect of long-term timolol treatment on heart size after <target> myocardial infarction </target> be evaluate by x-ray in a double-blind study include 241 patient ( placebo 126 , timolol 115 ) .",
+        "D013999\tChemical\ttimolol\tthe effect of long-term timolol treatment on heart size after myocardial infarction be evaluate by x-ray in a double-blind study include 241 patient ( placebo 126 , <target> timolol </target> 115 ) .",
+        "D013999\tChemical\ttimolol\tthe <target> timolol </target> -treated patient show a small but significant increase in heart size from baseline in contrast to a decrease in the placebo group .",
+        "D013999\tChemical\ttimolol\tthese difference may be cause by <target> timolol </target> -induced bradycardia and a compensatory increase in end-diastolic volume .",
+        "D001919\tDisease\tbradycardia\tthese difference may be cause by timolol-induced <target> bradycardia </target> and a compensatory increase in end-diastolic volume .",
+        "D013999\tChemical\ttimolol\tthe <target> timolol </target> -related increase in heart size be observe only in patient with normal and borderline heart size .",
+        "D006332\tDisease\tcardiomegaly\tin patient with <target> cardiomegaly </target> , the increase in heart size be similar in both group .",
+        "D007238\tDisease\tinfarction\tafter re- <target> infarction </target> , heart size increase in the placebo group and remain unchanged in the timolol group .",
+        "D013999\tChemical\ttimolol\tafter re-infarction , heart size increase in the placebo group and remain unchanged in the <target> timolol </target> group ."
+    ]
+}

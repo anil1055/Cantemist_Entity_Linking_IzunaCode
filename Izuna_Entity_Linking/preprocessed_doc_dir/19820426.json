@@ -1,0 +1,91 @@
+{
+    "title": "Twin preterm neonates with cardiac toxicity related to lopinavir/ritonavir therapy.",
+    "abst": "We report twin neonates who were born prematurely at 32 weeks of gestation to a mother with human immunodeficiency virus infection. One of the twins developed complete heart block and dilated cardiomyopathy related to lopinavir/ritonavir therapy, a boosted protease-inhibitor agent, while the other twin developed mild bradycardia. We recommend caution in the use of lopinavir/ritonavir in the immediate neonatal period.",
+    "title_plus_abst": "Twin preterm neonates with cardiac toxicity related to lopinavir/ritonavir therapy. We report twin neonates who were born prematurely at 32 weeks of gestation to a mother with human immunodeficiency virus infection. One of the twins developed complete heart block and dilated cardiomyopathy related to lopinavir/ritonavir therapy, a boosted protease-inhibitor agent, while the other twin developed mild bradycardia. We recommend caution in the use of lopinavir/ritonavir in the immediate neonatal period.",
+    "pubmed_id": "19820426",
+    "entities": [
+        [
+            27,
+            43,
+            "cardiac toxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            55,
+            74,
+            "lopinavir/ritonavir",
+            "Chemical",
+            "C558899"
+        ],
+        [
+            176,
+            214,
+            "human immunodeficiency virus infection",
+            "Disease",
+            "D015658"
+        ],
+        [
+            252,
+            263,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            268,
+            290,
+            "dilated cardiomyopathy",
+            "Disease",
+            "D002311"
+        ],
+        [
+            302,
+            321,
+            "lopinavir/ritonavir",
+            "Chemical",
+            "C558899"
+        ],
+        [
+            403,
+            414,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            451,
+            470,
+            "lopinavir/ritonavir",
+            "Chemical",
+            "C558899"
+        ]
+    ],
+    "split_sentence": [
+        "Twin preterm neonates with cardiac toxicity related to lopinavir/ritonavir therapy.",
+        "We report twin neonates who were born prematurely at 32 weeks of gestation to a mother with human immunodeficiency virus infection.",
+        "One of the twins developed complete heart block and dilated cardiomyopathy related to lopinavir/ritonavir therapy, a boosted protease-inhibitor agent, while the other twin developed mild bradycardia.",
+        "We recommend caution in the use of lopinavir/ritonavir in the immediate neonatal period."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D066126\tDisease\tcardiac toxicity\tTwin preterm neonates with <target> cardiac toxicity </target> related to lopinavir/ritonavir therapy .",
+        "C558899\tChemical\tlopinavir/ritonavir\tTwin preterm neonates with cardiac toxicity related to <target> lopinavir/ritonavir </target> therapy .",
+        "D015658\tDisease\thuman immunodeficiency virus infection\tWe report twin neonates who were born prematurely at 32 weeks of gestation to a mother with <target> human immunodeficiency virus infection </target> .",
+        "D006327\tDisease\theart block\tOne of the twins developed complete <target> heart block </target> and dilated cardiomyopathy related to lopinavir/ritonavir therapy , a boosted protease-inhibitor agent , while the other twin developed mild bradycardia .",
+        "D002311\tDisease\tdilated cardiomyopathy\tOne of the twins developed complete heart block and <target> dilated cardiomyopathy </target> related to lopinavir/ritonavir therapy , a boosted protease-inhibitor agent , while the other twin developed mild bradycardia .",
+        "C558899\tChemical\tlopinavir/ritonavir\tOne of the twins developed complete heart block and dilated cardiomyopathy related to <target> lopinavir/ritonavir </target> therapy , a boosted protease-inhibitor agent , while the other twin developed mild bradycardia .",
+        "D001919\tDisease\tbradycardia\tOne of the twins developed complete heart block and dilated cardiomyopathy related to lopinavir/ritonavir therapy , a boosted protease-inhibitor agent , while the other twin developed mild <target> bradycardia </target> .",
+        "C558899\tChemical\tlopinavir/ritonavir\tWe recommend caution in the use of <target> lopinavir/ritonavir </target> in the immediate neonatal period ."
+    ],
+    "lines_lemma": [
+        "D066126\tDisease\tcardiac toxicity\tTwin preterm neonate with <target> cardiac toxicity </target> related to lopinavir/ritonavir therapy .",
+        "C558899\tChemical\tlopinavir/ritonavir\tTwin preterm neonate with cardiac toxicity related to <target> lopinavir/ritonavir </target> therapy .",
+        "D015658\tDisease\thuman immunodeficiency virus infection\twe report twin neonate who be bear prematurely at 32 week of gestation to a mother with <target> human immunodeficiency virus infection </target> .",
+        "D006327\tDisease\theart block\tone of the twin develop complete <target> heart block </target> and dilate cardiomyopathy related to lopinavir/ritonavir therapy , a boosted protease-inhibitor agent , while the other twin develop mild bradycardia .",
+        "D002311\tDisease\tdilated cardiomyopathy\tone of the twin develop complete heart block and <target> dilated cardiomyopathy </target> related to lopinavir/ritonavir therapy , a boosted protease-inhibitor agent , while the other twin develop mild bradycardia .",
+        "C558899\tChemical\tlopinavir/ritonavir\tone of the twin develop complete heart block and dilate cardiomyopathy related to <target> lopinavir/ritonavir </target> therapy , a boosted protease-inhibitor agent , while the other twin develop mild bradycardia .",
+        "D001919\tDisease\tbradycardia\tone of the twin develop complete heart block and dilate cardiomyopathy related to lopinavir/ritonavir therapy , a boosted protease-inhibitor agent , while the other twin develop mild <target> bradycardia </target> .",
+        "C558899\tChemical\tlopinavir/ritonavir\twe recommend caution in the use of <target> lopinavir/ritonavir </target> in the immediate neonatal period ."
+    ]
+}

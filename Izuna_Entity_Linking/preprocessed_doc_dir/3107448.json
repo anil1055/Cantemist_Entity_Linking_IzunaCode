@@ -1,0 +1,157 @@
+{
+    "title": "Glyburide-induced hepatitis.",
+    "abst": "Drug-induced hepatotoxicity, although common, has been reported only infrequently with sulfonylureas. For glyburide, a second-generation sulfonylurea, only two brief reports of hepatotoxicity exist. Two patients with type II diabetes mellitus developed an acute hepatitis-like syndrome soon after initiation of glyburide therapy. There was no serologic evidence of viral infection, and a liver biopsy sample showed a histologic pattern consistent with drug-induced hepatitis. Both patients recovered quickly after stopping glyburide therapy and have remained well for a follow-up period of 1 year. Glyburide can produce an acute hepatitis-like illness in some persons.",
+    "title_plus_abst": "Glyburide-induced hepatitis. Drug-induced hepatotoxicity, although common, has been reported only infrequently with sulfonylureas. For glyburide, a second-generation sulfonylurea, only two brief reports of hepatotoxicity exist. Two patients with type II diabetes mellitus developed an acute hepatitis-like syndrome soon after initiation of glyburide therapy. There was no serologic evidence of viral infection, and a liver biopsy sample showed a histologic pattern consistent with drug-induced hepatitis. Both patients recovered quickly after stopping glyburide therapy and have remained well for a follow-up period of 1 year. Glyburide can produce an acute hepatitis-like illness in some persons.",
+    "pubmed_id": "3107448",
+    "entities": [
+        [
+            0,
+            9,
+            "Glyburide",
+            "Chemical",
+            "D005905"
+        ],
+        [
+            18,
+            27,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            42,
+            56,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            116,
+            129,
+            "sulfonylureas",
+            "Chemical",
+            "D013453"
+        ],
+        [
+            135,
+            144,
+            "glyburide",
+            "Chemical",
+            "D005905"
+        ],
+        [
+            166,
+            178,
+            "sulfonylurea",
+            "Chemical",
+            "D013453"
+        ],
+        [
+            206,
+            220,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            246,
+            271,
+            "type II diabetes mellitus",
+            "Disease",
+            "D003924"
+        ],
+        [
+            285,
+            314,
+            "acute hepatitis-like syndrome",
+            "Disease",
+            "D056486"
+        ],
+        [
+            340,
+            349,
+            "glyburide",
+            "Chemical",
+            "D005905"
+        ],
+        [
+            394,
+            409,
+            "viral infection",
+            "Disease",
+            "D014777"
+        ],
+        [
+            481,
+            503,
+            "drug-induced hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            552,
+            561,
+            "glyburide",
+            "Chemical",
+            "D005905"
+        ],
+        [
+            627,
+            636,
+            "Glyburide",
+            "Chemical",
+            "D005905"
+        ],
+        [
+            652,
+            680,
+            "acute hepatitis-like illness",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Glyburide-induced hepatitis.",
+        "Drug-induced hepatotoxicity, although common, has been reported only infrequently with sulfonylureas.",
+        "For glyburide, a second-generation sulfonylurea, only two brief reports of hepatotoxicity exist.",
+        "Two patients with type II diabetes mellitus developed an acute hepatitis-like syndrome soon after initiation of glyburide therapy.",
+        "There was no serologic evidence of viral infection, and a liver biopsy sample showed a histologic pattern consistent with drug-induced hepatitis.",
+        "Both patients recovered quickly after stopping glyburide therapy and have remained well for a follow-up period of 1 year.",
+        "Glyburide can produce an acute hepatitis-like illness in some persons."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005905\tChemical\tGlyburide\t<target> Glyburide </target> -induced hepatitis .",
+        "D056486\tDisease\thepatitis\tGlyburide-induced <target> hepatitis </target> .",
+        "D056486\tDisease\thepatotoxicity\tDrug-induced <target> hepatotoxicity </target> , although common , has been reported only infrequently with sulfonylureas .",
+        "D013453\tChemical\tsulfonylureas\tDrug-induced hepatotoxicity , although common , has been reported only infrequently with <target> sulfonylureas </target> .",
+        "D005905\tChemical\tglyburide\tFor <target> glyburide </target> , a second-generation sulfonylurea , only two brief reports of hepatotoxicity exist .",
+        "D013453\tChemical\tsulfonylurea\tFor glyburide , a second-generation <target> sulfonylurea </target> , only two brief reports of hepatotoxicity exist .",
+        "D056486\tDisease\thepatotoxicity\tFor glyburide , a second-generation sulfonylurea , only two brief reports of <target> hepatotoxicity </target> exist .",
+        "D003924\tDisease\ttype II diabetes mellitus\tTwo patients with <target> type II diabetes mellitus </target> developed an acute hepatitis-like syndrome soon after initiation of glyburide therapy .",
+        "D056486\tDisease\tacute hepatitis-like syndrome\tTwo patients with type II diabetes mellitus developed an <target> acute hepatitis-like syndrome </target> soon after initiation of glyburide therapy .",
+        "D005905\tChemical\tglyburide\tTwo patients with type II diabetes mellitus developed an acute hepatitis-like syndrome soon after initiation of <target> glyburide </target> therapy .",
+        "D014777\tDisease\tviral infection\tThere was no serologic evidence of <target> viral infection </target> , and a liver biopsy sample showed a histologic pattern consistent with drug-induced hepatitis .",
+        "D056486\tDisease\tdrug-induced hepatitis\tThere was no serologic evidence of viral infection , and a liver biopsy sample showed a histologic pattern consistent with <target> drug-induced hepatitis </target> .",
+        "D005905\tChemical\tglyburide\tBoth patients recovered quickly after stopping <target> glyburide </target> therapy and have remained well for a follow-up period of 1 year .",
+        "D005905\tChemical\tGlyburide\t<target> Glyburide </target> can produce an acute hepatitis-like illness in some persons .",
+        "D056486\tDisease\tacute hepatitis-like illness\tGlyburide can produce an <target> acute hepatitis-like illness </target> in some persons ."
+    ],
+    "lines_lemma": [
+        "D005905\tChemical\tGlyburide\t<target> glyburide </target> -induced hepatitis .",
+        "D056486\tDisease\thepatitis\tglyburide-induced <target> hepatitis </target> .",
+        "D056486\tDisease\thepatotoxicity\tdrug-induced <target> hepatotoxicity </target> , although common , have be report only infrequently with sulfonylurea .",
+        "D013453\tChemical\tsulfonylureas\tdrug-induced hepatotoxicity , although common , have be report only infrequently with <target> sulfonylurea </target> .",
+        "D005905\tChemical\tglyburide\tfor <target> glyburide </target> , a second-generation sulfonylurea , only two brief report of hepatotoxicity exist .",
+        "D013453\tChemical\tsulfonylurea\tfor glyburide , a second-generation <target> sulfonylurea </target> , only two brief report of hepatotoxicity exist .",
+        "D056486\tDisease\thepatotoxicity\tfor glyburide , a second-generation sulfonylurea , only two brief report of <target> hepatotoxicity </target> exist .",
+        "D003924\tDisease\ttype II diabetes mellitus\ttwo patient with <target> type ii diabete mellitus </target> develop an acute hepatitis-like syndrome soon after initiation of glyburide therapy .",
+        "D056486\tDisease\tacute hepatitis-like syndrome\ttwo patient with type ii diabete mellitus develop an <target> acute hepatitis-like syndrome </target> soon after initiation of glyburide therapy .",
+        "D005905\tChemical\tglyburide\ttwo patient with type ii diabete mellitus develop an acute hepatitis-like syndrome soon after initiation of <target> glyburide </target> therapy .",
+        "D014777\tDisease\tviral infection\tthere be no serologic evidence of <target> viral infection </target> , and a liver biopsy sample show a histologic pattern consistent with drug-induced hepatitis .",
+        "D056486\tDisease\tdrug-induced hepatitis\tthere be no serologic evidence of viral infection , and a liver biopsy sample show a histologic pattern consistent with <target> drug-induced hepatitis </target> .",
+        "D005905\tChemical\tglyburide\tboth patient recover quickly after stop <target> glyburide </target> therapy and have remain well for a follow-up period of 1 year .",
+        "D005905\tChemical\tGlyburide\t<target> Glyburide </target> can produce an acute hepatitis-like illness in some person .",
+        "D056486\tDisease\tacute hepatitis-like illness\tGlyburide can produce an <target> acute hepatitis-like illness </target> in some person ."
+    ]
+}

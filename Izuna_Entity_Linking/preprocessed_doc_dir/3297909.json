@@ -1,0 +1,94 @@
+{
+    "title": "Progressive bile duct injury after thiabendazole administration.",
+    "abst": "A 27-yr-old man developed jaundice 2 wk after exposure to thiabendazole. Cholestasis persisted for 3 yr, at which time a liver transplant was performed. Two liver biopsy specimens and the hepatectomy specimen were remarkable for almost complete disappearance of interlobular bile ducts. Prominent fibrosis and hepatocellular regeneration were also present; however, the lobular architecture was preserved. This case represents an example of \"idiosyncratic\" drug-induced liver damage in which the primary target of injury is the bile duct. An autoimmune pathogenesis of the bile duct destruction is suggested.",
+    "title_plus_abst": "Progressive bile duct injury after thiabendazole administration. A 27-yr-old man developed jaundice 2 wk after exposure to thiabendazole. Cholestasis persisted for 3 yr, at which time a liver transplant was performed. Two liver biopsy specimens and the hepatectomy specimen were remarkable for almost complete disappearance of interlobular bile ducts. Prominent fibrosis and hepatocellular regeneration were also present; however, the lobular architecture was preserved. This case represents an example of \"idiosyncratic\" drug-induced liver damage in which the primary target of injury is the bile duct. An autoimmune pathogenesis of the bile duct destruction is suggested.",
+    "pubmed_id": "3297909",
+    "entities": [
+        [
+            12,
+            28,
+            "bile duct injury",
+            "Disease",
+            "D001649"
+        ],
+        [
+            35,
+            48,
+            "thiabendazole",
+            "Chemical",
+            "D013827"
+        ],
+        [
+            91,
+            99,
+            "jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            123,
+            136,
+            "thiabendazole",
+            "Chemical",
+            "D013827"
+        ],
+        [
+            138,
+            149,
+            "Cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            362,
+            370,
+            "fibrosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            522,
+            547,
+            "drug-induced liver damage",
+            "Disease",
+            "D056486"
+        ],
+        [
+            638,
+            659,
+            "bile duct destruction",
+            "Disease",
+            "D001649"
+        ]
+    ],
+    "split_sentence": [
+        "Progressive bile duct injury after thiabendazole administration.",
+        "A 27-yr-old man developed jaundice 2 wk after exposure to thiabendazole.",
+        "Cholestasis persisted for 3 yr, at which time a liver transplant was performed.",
+        "Two liver biopsy specimens and the hepatectomy specimen were remarkable for almost complete disappearance of interlobular bile ducts.",
+        "Prominent fibrosis and hepatocellular regeneration were also present; however, the lobular architecture was preserved.",
+        "This case represents an example of \"idiosyncratic\" drug-induced liver damage in which the primary target of injury is the bile duct.",
+        "An autoimmune pathogenesis of the bile duct destruction is suggested."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001649\tDisease\tbile duct injury\tProgressive <target> bile duct injury </target> after thiabendazole administration .",
+        "D013827\tChemical\tthiabendazole\tProgressive bile duct injury after <target> thiabendazole </target> administration .",
+        "D007565\tDisease\tjaundice\tA 27-yr-old man developed <target> jaundice </target> 2 wk after exposure to thiabendazole .",
+        "D013827\tChemical\tthiabendazole\tA 27-yr-old man developed jaundice 2 wk after exposure to <target> thiabendazole </target> .",
+        "D002779\tDisease\tCholestasis\t<target> Cholestasis </target> persisted for 3 yr , at which time a liver transplant was performed .",
+        "D005355\tDisease\tfibrosis\tProminent <target> fibrosis </target> and hepatocellular regeneration were also present ; however , the lobular architecture was preserved .",
+        "D056486\tDisease\tdrug-induced liver damage\tThis case represents an example of \" idiosyncratic \" <target> drug-induced liver damage </target> in which the primary target of injury is the bile duct .",
+        "D001649\tDisease\tbile duct destruction\tAn autoimmune pathogenesis of the <target> bile duct destruction </target> is suggested ."
+    ],
+    "lines_lemma": [
+        "D001649\tDisease\tbile duct injury\tProgressive <target> bile duct injury </target> after thiabendazole administration .",
+        "D013827\tChemical\tthiabendazole\tprogressive bile duct injury after <target> thiabendazole </target> administration .",
+        "D007565\tDisease\tjaundice\ta 27-yr-old man develop <target> jaundice </target> 2 wk after exposure to thiabendazole .",
+        "D013827\tChemical\tthiabendazole\ta 27-yr-old man develop jaundice 2 wk after exposure to <target> thiabendazole </target> .",
+        "D002779\tDisease\tCholestasis\t<target> cholestasis </target> persist for 3 yr , at which time a liver transplant be perform .",
+        "D005355\tDisease\tfibrosis\tprominent <target> fibrosis </target> and hepatocellular regeneration be also present ; however , the lobular architecture be preserve .",
+        "D056486\tDisease\tdrug-induced liver damage\tthis case represent an example of \" idiosyncratic \" <target> drug-induced liver damage </target> in which the primary target of injury be the bile duct .",
+        "D001649\tDisease\tbile duct destruction\tan autoimmune pathogenesis of the <target> bile duct destruction </target> be suggest ."
+    ]
+}

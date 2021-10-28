@@ -1,0 +1,69 @@
+{
+    "entities": [
+        [
+            1103,
+            1119,
+            "Seminoma clásico",
+            "MORFOLOGIA_NEOPLASIA",
+            "9061/3"
+        ],
+        [
+            1134,
+            1141,
+            "pT1N0M0",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            995,
+            1011,
+            "seminoma clásico",
+            "MORFOLOGIA_NEOPLASIA",
+            "9061/3"
+        ],
+        [
+            1072,
+            1088,
+            "seminoma in situ",
+            "MORFOLOGIA_NEOPLASIA",
+            "9061/2"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "<objetivo> Seminoma clásico </objetivo> teste derecho pT1N0M0, S0, Estadio Ia.",
+        "Seminoma clásico teste derecho  <objetivo> pT1N0M0 </objetivo>  S0, Estadio Ia.",
+        "Por tanto, se realizó orquiectomía radical derecha con el diagnóstico anatómico patológico de  <objetivo> seminoma clásico </objetivo> que infiltra hasta albugínea sin sobrepasarla, con áreas de seminoma in situ.",
+        "Por tanto, se realizó orquiectomía radical derecha con el diagnóstico anatómico patológico de seminoma clásico que infiltra hasta albugínea sin sobrepasarla, con áreas de  <objetivo> seminoma in situ </objetivo> "
+    ],
+    "lines_lemma": [
+        "<objetivo> Seminoma clásico </objetivo> teste derecho pt1n0m0 , S0 , Estadio Ia .",
+        "Seminoma clásico teste derecho   <objetivo> pt1n0m0 </objetivo>   S0 , Estadio Ia .",
+        "por tanto , él realizar orquiectomía radical derecho con el diagnóstico anatómico patológico de   <objetivo> seminomo clásico </objetivo> que infiltrar hasta albugínea sin sobrepasar él , con área de seminoma in situ .",
+        "por tanto , él realizar orquiectomía radical derecho con el diagnóstico anatómico patológico de seminoma clásico que infiltrar hasta albugínea sin sobrepasar él , con área de   <objetivo> seminomir in situ </objetivo>"
+    ],
+    "pubmed_id": "onco365",
+    "split_sentence": [
+        "Anamnesis",
+        "Varón de 72 años hipertenso y con hiperplasia benigna de próstata en tratamiento, sin alergias conocidas ni otros antecedentes de interés.",
+        "Consulta a su médico por aumento de tamaño progresivo e indoloro del testículo derecho de unos diez días de evolución sin otra sintomatología asociada, por lo que es derivado a su Hospital de referencia para estudio dirigido.",
+        "Exploración física",
+        "EXPLORACIÓN FÍSICA:",
+        "ECOG0.",
+        "Lo único destacable era aumento del testículo derecho con consistencia pétrea de forma difusa.",
+        "Pruebas complementarias",
+        "Ecografía testicular bilateral: Se objetivó un aumento de tamaño de teste derecho e importante alteración de ecogenicidad con áreas pseudonodulares de menor ecogenicidad en su interior y aumento de vascularización.",
+        "Resto normal.",
+        "TAC toracoabdominopélvico: Normal.",
+        "Analítica: Normal.",
+        "Marcadores tumorales: LDH 358, beta - HCG < 2 y alfa - fetoproteína normal.",
+        "Por tanto, se realizó orquiectomía radical derecha con el diagnóstico anatómico patológico de seminoma clásico que infiltra hasta albugínea sin sobrepasarla, con áreas de seminoma in situ.",
+        "Diagnóstico",
+        "Seminoma clásico teste derecho pT1N0M0, S0, Estadio Ia.",
+        "Tratamiento:",
+        "Ante el juicio clínico del paciente se le ofrecieron las distintas alternativas: seguimiento, 1-2 ciclos de carboplatino o radioterapia retroperitoneal, optando por revisiones en consulta.",
+        "Evolución",
+        "Actualmente pendiente de revisión por Oncología Médica."
+    ],
+    "text": "Anamnesis\nVarón de 72 años hipertenso y con hiperplasia benigna de próstata en tratamiento, sin alergias conocidas ni otros antecedentes de interés.\nConsulta a su médico por aumento de tamaño progresivo e indoloro del testículo derecho de unos diez días de evolución sin otra sintomatología asociada, por lo que es derivado a su Hospital de referencia para estudio dirigido.\n\nExploración física\nEXPLORACIÓN FÍSICA:\nECOG0. Lo único destacable era aumento del testículo derecho con consistencia pétrea de forma difusa.\n\nPruebas complementarias\nEcografía testicular bilateral: Se objetivó un aumento de tamaño de teste derecho e importante alteración de ecogenicidad con áreas pseudonodulares de menor ecogenicidad en su interior y aumento de vascularización. Resto normal.\nTAC toracoabdominopélvico: Normal.\nAnalítica: Normal. Marcadores tumorales: LDH 358, beta - HCG < 2 y alfa - fetoproteína normal.\nPor tanto, se realizó orquiectomía radical derecha con el diagnóstico anatómico patológico de seminoma clásico que infiltra hasta albugínea sin sobrepasarla, con áreas de seminoma in situ.\n\nDiagnóstico\nSeminoma clásico teste derecho pT1N0M0, S0, Estadio Ia.\n\nTratamiento:\nAnte el juicio clínico del paciente se le ofrecieron las distintas alternativas: seguimiento, 1-2 ciclos de carboplatino o radioterapia retroperitoneal, optando por revisiones en consulta.\n\nEvolución\nActualmente pendiente de revisión por Oncología Médica."
+}

@@ -1,0 +1,150 @@
+{
+    "title": "Attenuated disruption of prepulse inhibition by dopaminergic stimulation after maternal deprivation and adolescent corticosterone treatment in rats.",
+    "abst": "The development of schizophrenia may include an early neurodevelopmental stress component which increases vulnerability to later stressful life events, in combination leading to overt disease. We investigated the effect of an early stress, in the form of maternal deprivation, combined with a later stress, simulated by chronic periadolescent corticosterone treatment, on behaviour in rats. Acute treatment with apomorphine caused disruption of prepulse inhibition (PPI) in controls and in rats that had undergone either maternal deprivation or corticosterone treatment, but was surprisingly absent in rats that had undergone the combined early and late stress. Amphetamine treatment significantly disrupted PPI in both non-deprived groups, but was absent in both maternally deprived groups. The serotonin-1A receptor agonist, 8-OH-DPAT, induced a significant disruption of PPI in all groups. Amphetamine-induced locomotor hyperactivity was similar in all groups. These results show an inhibitory interaction of early stress, caused by maternal deprivation, combined with 'adolescent' stress, simulated by corticosterone treatment, on dopaminergic regulation of PPI. The altered effects of apomorphine and amphetamine could indicate differential changes in dopamine receptor signalling leading to functional desensitisation, or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus.",
+    "title_plus_abst": "Attenuated disruption of prepulse inhibition by dopaminergic stimulation after maternal deprivation and adolescent corticosterone treatment in rats. The development of schizophrenia may include an early neurodevelopmental stress component which increases vulnerability to later stressful life events, in combination leading to overt disease. We investigated the effect of an early stress, in the form of maternal deprivation, combined with a later stress, simulated by chronic periadolescent corticosterone treatment, on behaviour in rats. Acute treatment with apomorphine caused disruption of prepulse inhibition (PPI) in controls and in rats that had undergone either maternal deprivation or corticosterone treatment, but was surprisingly absent in rats that had undergone the combined early and late stress. Amphetamine treatment significantly disrupted PPI in both non-deprived groups, but was absent in both maternally deprived groups. The serotonin-1A receptor agonist, 8-OH-DPAT, induced a significant disruption of PPI in all groups. Amphetamine-induced locomotor hyperactivity was similar in all groups. These results show an inhibitory interaction of early stress, caused by maternal deprivation, combined with 'adolescent' stress, simulated by corticosterone treatment, on dopaminergic regulation of PPI. The altered effects of apomorphine and amphetamine could indicate differential changes in dopamine receptor signalling leading to functional desensitisation, or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus.",
+    "pubmed_id": "17490864",
+    "entities": [
+        [
+            115,
+            129,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            168,
+            181,
+            "schizophrenia",
+            "Disease",
+            "D012559"
+        ],
+        [
+            492,
+            506,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            561,
+            572,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            694,
+            708,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            811,
+            822,
+            "Amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            945,
+            954,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            976,
+            985,
+            "8-OH-DPAT",
+            "Chemical",
+            "D017371"
+        ],
+        [
+            1042,
+            1053,
+            "Amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            1062,
+            1085,
+            "locomotor hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            1255,
+            1269,
+            "corticosterone",
+            "Chemical",
+            "D003345"
+        ],
+        [
+            1339,
+            1350,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            1355,
+            1366,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            1406,
+            1414,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ]
+    ],
+    "split_sentence": [
+        "Attenuated disruption of prepulse inhibition by dopaminergic stimulation after maternal deprivation and adolescent corticosterone treatment in rats.",
+        "The development of schizophrenia may include an early neurodevelopmental stress component which increases vulnerability to later stressful life events, in combination leading to overt disease.",
+        "We investigated the effect of an early stress, in the form of maternal deprivation, combined with a later stress, simulated by chronic periadolescent corticosterone treatment, on behaviour in rats.",
+        "Acute treatment with apomorphine caused disruption of prepulse inhibition (PPI) in controls and in rats that had undergone either maternal deprivation or corticosterone treatment, but was surprisingly absent in rats that had undergone the combined early and late stress.",
+        "Amphetamine treatment significantly disrupted PPI in both non-deprived groups, but was absent in both maternally deprived groups.",
+        "The serotonin-1A receptor agonist, 8-OH-DPAT, induced a significant disruption of PPI in all groups.",
+        "Amphetamine-induced locomotor hyperactivity was similar in all groups.",
+        "These results show an inhibitory interaction of early stress, caused by maternal deprivation, combined with 'adolescent' stress, simulated by corticosterone treatment, on dopaminergic regulation of PPI.",
+        "The altered effects of apomorphine and amphetamine could indicate differential changes in dopamine receptor signalling leading to functional desensitisation, or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003345\tChemical\tcorticosterone\tAttenuated disruption of prepulse inhibition by dopaminergic stimulation after maternal deprivation and adolescent <target> corticosterone </target> treatment in rats .",
+        "D012559\tDisease\tschizophrenia\tThe development of <target> schizophrenia </target> may include an early neurodevelopmental stress component which increases vulnerability to later stressful life events , in combination leading to overt disease .",
+        "D003345\tChemical\tcorticosterone\tWe investigated the effect of an early stress , in the form of maternal deprivation , combined with a later stress , simulated by chronic periadolescent <target> corticosterone </target> treatment , on behaviour in rats .",
+        "D001058\tChemical\tapomorphine\tAcute treatment with <target> apomorphine </target> caused disruption of prepulse inhibition ( PPI ) in controls and in rats that had undergone either maternal deprivation or corticosterone treatment , but was surprisingly absent in rats that had undergone the combined early and late stress .",
+        "D003345\tChemical\tcorticosterone\tAcute treatment with apomorphine caused disruption of prepulse inhibition ( PPI ) in controls and in rats that had undergone either maternal deprivation or <target> corticosterone </target> treatment , but was surprisingly absent in rats that had undergone the combined early and late stress .",
+        "D000661\tChemical\tAmphetamine\t<target> Amphetamine </target> treatment significantly disrupted PPI in both non-deprived groups , but was absent in both maternally deprived groups .",
+        "D012701\tChemical\tserotonin\tThe <target> serotonin </target> -1A receptor agonist , 8-OH-DPAT , induced a significant disruption of PPI in all groups .",
+        "D017371\tChemical\t8-OH-DPAT\tThe serotonin-1A receptor agonist , <target> 8-OH-DPAT </target> , induced a significant disruption of PPI in all groups .",
+        "D000661\tChemical\tAmphetamine\t<target> Amphetamine </target> -induced locomotor hyperactivity was similar in all groups .",
+        "D006948\tDisease\tlocomotor hyperactivity\tAmphetamine-induced <target> locomotor hyperactivity </target> was similar in all groups .",
+        "D003345\tChemical\tcorticosterone\tThese results show an inhibitory interaction of early stress , caused by maternal deprivation , combined with ' adolescent ' stress , simulated by <target> corticosterone </target> treatment , on dopaminergic regulation of PPI .",
+        "D001058\tChemical\tapomorphine\tThe altered effects of <target> apomorphine </target> and amphetamine could indicate differential changes in dopamine receptor signalling leading to functional desensitisation , or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus .",
+        "D000661\tChemical\tamphetamine\tThe altered effects of apomorphine and <target> amphetamine </target> could indicate differential changes in dopamine receptor signalling leading to functional desensitisation , or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus .",
+        "D004298\tChemical\tdopamine\tThe altered effects of apomorphine and amphetamine could indicate differential changes in <target> dopamine </target> receptor signalling leading to functional desensitisation , or altered modulation of sensory gating in the nucleus accumbens by limbic structures such as the hippocampus ."
+    ],
+    "lines_lemma": [
+        "D003345\tChemical\tcorticosterone\tattenuate disruption of prepulse inhibition by dopaminergic stimulation after maternal deprivation and adolescent <target> corticosterone </target> treatment in rat .",
+        "D012559\tDisease\tschizophrenia\tthe development of <target> schizophrenia </target> may include an early neurodevelopmental stress component which increase vulnerability to later stressful life event , in combination lead to overt disease .",
+        "D003345\tChemical\tcorticosterone\twe investigate the effect of an early stress , in the form of maternal deprivation , combine with a later stress , simulate by chronic periadolescent <target> corticosterone </target> treatment , on behaviour in rat .",
+        "D001058\tChemical\tapomorphine\tacute treatment with <target> apomorphine </target> cause disruption of prepulse inhibition ( ppi ) in control and in rat that have undergo either maternal deprivation or corticosterone treatment , but be surprisingly absent in rat that have undergo the combined early and late stress .",
+        "D003345\tChemical\tcorticosterone\tacute treatment with apomorphine cause disruption of prepulse inhibition ( ppi ) in control and in rat that have undergo either maternal deprivation or <target> corticosterone </target> treatment , but be surprisingly absent in rat that have undergo the combined early and late stress .",
+        "D000661\tChemical\tAmphetamine\t<target> Amphetamine </target> treatment significantly disrupt ppi in both non-deprived group , but be absent in both maternally deprive group .",
+        "D012701\tChemical\tserotonin\tthe <target> serotonin </target> -1a receptor agonist , 8-oh-dpat , induce a significant disruption of ppi in all group .",
+        "D017371\tChemical\t8-OH-DPAT\tthe serotonin-1a receptor agonist , <target> 8-oh-dpat </target> , induce a significant disruption of ppi in all group .",
+        "D000661\tChemical\tAmphetamine\t<target> Amphetamine </target> -induced locomotor hyperactivity be similar in all group .",
+        "D006948\tDisease\tlocomotor hyperactivity\tamphetamine-induced <target> locomotor hyperactivity </target> be similar in all group .",
+        "D003345\tChemical\tcorticosterone\tthese result show an inhibitory interaction of early stress , cause by maternal deprivation , combine with ' adolescent ' stress , simulate by <target> corticosterone </target> treatment , on dopaminergic regulation of ppi .",
+        "D001058\tChemical\tapomorphine\tthe altered effect of <target> apomorphine </target> and amphetamine could indicate differential change in dopamine receptor signalling lead to functional desensitisation , or altered modulation of sensory gating in the nucleus accumben by limbic structure such as the hippocampus .",
+        "D000661\tChemical\tamphetamine\tthe altered effect of apomorphine and <target> amphetamine </target> could indicate differential change in dopamine receptor signalling lead to functional desensitisation , or altered modulation of sensory gating in the nucleus accumben by limbic structure such as the hippocampus .",
+        "D004298\tChemical\tdopamine\tthe altered effect of apomorphine and amphetamine could indicate differential change in <target> dopamine </target> receptor signalling lead to functional desensitisation , or altered modulation of sensory gating in the nucleus accumben by limbic structure such as the hippocampus ."
+    ]
+}

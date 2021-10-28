@@ -1,0 +1,193 @@
+{
+    "title": "Pulmonary edema and shock after high-dose aracytine-C for lymphoma; possible role of TNF-alpha and PAF.",
+    "abst": "Four out of 23 consecutive patients treated with high-dose Ara-C for lymphomas in our institution developed a strikingly similar syndrome during the perfusion. It was characterized by the onset of fever, diarrhea, shock, pulmonary edema, acute renal failure, metabolic acidosis, weight gain and leukocytosis. Thorough bacteriological screening failed to provide evidence of infection. Sequential biological assays of IL-1, IL-2, TNF and PAF were performed during Ara-C infusion to ten patients, including the four who developed the syndrome. TNF and PAF activity was found in the serum of respectively two and four of the cases, but not in the six controls. As TNF and PAF are thought to be involved in the development of septic shock and adult respiratory distress syndrome, we hypothesize that high-dose Ara-C may be associated with cytokine release.",
+    "title_plus_abst": "Pulmonary edema and shock after high-dose aracytine-C for lymphoma; possible role of TNF-alpha and PAF. Four out of 23 consecutive patients treated with high-dose Ara-C for lymphomas in our institution developed a strikingly similar syndrome during the perfusion. It was characterized by the onset of fever, diarrhea, shock, pulmonary edema, acute renal failure, metabolic acidosis, weight gain and leukocytosis. Thorough bacteriological screening failed to provide evidence of infection. Sequential biological assays of IL-1, IL-2, TNF and PAF were performed during Ara-C infusion to ten patients, including the four who developed the syndrome. TNF and PAF activity was found in the serum of respectively two and four of the cases, but not in the six controls. As TNF and PAF are thought to be involved in the development of septic shock and adult respiratory distress syndrome, we hypothesize that high-dose Ara-C may be associated with cytokine release.",
+    "pubmed_id": "8318674",
+    "entities": [
+        [
+            0,
+            15,
+            "Pulmonary edema",
+            "Disease",
+            "D011654"
+        ],
+        [
+            20,
+            25,
+            "shock",
+            "Disease",
+            "D012769"
+        ],
+        [
+            42,
+            53,
+            "aracytine-C",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            58,
+            66,
+            "lymphoma",
+            "Disease",
+            "D008223"
+        ],
+        [
+            163,
+            168,
+            "Ara-C",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            173,
+            182,
+            "lymphomas",
+            "Disease",
+            "D008223"
+        ],
+        [
+            301,
+            306,
+            "fever",
+            "Disease",
+            "D005334"
+        ],
+        [
+            308,
+            316,
+            "diarrhea",
+            "Disease",
+            "D003967"
+        ],
+        [
+            318,
+            323,
+            "shock",
+            "Disease",
+            "D012769"
+        ],
+        [
+            325,
+            340,
+            "pulmonary edema",
+            "Disease",
+            "D011654"
+        ],
+        [
+            342,
+            361,
+            "acute renal failure",
+            "Disease",
+            "D058186"
+        ],
+        [
+            363,
+            381,
+            "metabolic acidosis",
+            "Disease",
+            "D000138"
+        ],
+        [
+            383,
+            394,
+            "weight gain",
+            "Disease",
+            "D015430"
+        ],
+        [
+            399,
+            411,
+            "leukocytosis",
+            "Disease",
+            "D007964"
+        ],
+        [
+            478,
+            487,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            567,
+            572,
+            "Ara-C",
+            "Chemical",
+            "D003561"
+        ],
+        [
+            833,
+            838,
+            "shock",
+            "Disease",
+            "D012769"
+        ],
+        [
+            843,
+            878,
+            "adult respiratory distress syndrome",
+            "Disease",
+            "D012128"
+        ],
+        [
+            910,
+            915,
+            "Ara-C",
+            "Chemical",
+            "D003561"
+        ]
+    ],
+    "split_sentence": [
+        "Pulmonary edema and shock after high-dose aracytine-C for lymphoma; possible role of TNF-alpha and PAF.",
+        "Four out of 23 consecutive patients treated with high-dose Ara-C for lymphomas in our institution developed a strikingly similar syndrome during the perfusion.",
+        "It was characterized by the onset of fever, diarrhea, shock, pulmonary edema, acute renal failure, metabolic acidosis, weight gain and leukocytosis.",
+        "Thorough bacteriological screening failed to provide evidence of infection.",
+        "Sequential biological assays of IL-1, IL-2, TNF and PAF were performed during Ara-C infusion to ten patients, including the four who developed the syndrome.",
+        "TNF and PAF activity was found in the serum of respectively two and four of the cases, but not in the six controls.",
+        "As TNF and PAF are thought to be involved in the development of septic shock and adult respiratory distress syndrome, we hypothesize that high-dose Ara-C may be associated with cytokine release."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011654\tDisease\tPulmonary edema\t<target> Pulmonary edema </target> and shock after high-dose aracytine-C for lymphoma ; possible role of TNF-alpha and PAF .",
+        "D012769\tDisease\tshock\tPulmonary edema and <target> shock </target> after high-dose aracytine-C for lymphoma ; possible role of TNF-alpha and PAF .",
+        "D003561\tChemical\taracytine-C\tPulmonary edema and shock after high-dose <target> aracytine-C </target> for lymphoma ; possible role of TNF-alpha and PAF .",
+        "D008223\tDisease\tlymphoma\tPulmonary edema and shock after high-dose aracytine-C for <target> lymphoma </target> ; possible role of TNF-alpha and PAF .",
+        "D003561\tChemical\tAra-C\tFour out of 23 consecutive patients treated with high-dose <target> Ara-C </target> for lymphomas in our institution developed a strikingly similar syndrome during the perfusion .",
+        "D008223\tDisease\tlymphomas\tFour out of 23 consecutive patients treated with high-dose Ara-C for <target> lymphomas </target> in our institution developed a strikingly similar syndrome during the perfusion .",
+        "D005334\tDisease\tfever\tIt was characterized by the onset of <target> fever </target> , diarrhea , shock , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D003967\tDisease\tdiarrhea\tIt was characterized by the onset of fever , <target> diarrhea </target> , shock , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D012769\tDisease\tshock\tIt was characterized by the onset of fever , diarrhea , <target> shock </target> , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D011654\tDisease\tpulmonary edema\tIt was characterized by the onset of fever , diarrhea , shock , <target> pulmonary edema </target> , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D058186\tDisease\tacute renal failure\tIt was characterized by the onset of fever , diarrhea , shock , pulmonary edema , <target> acute renal failure </target> , metabolic acidosis , weight gain and leukocytosis .",
+        "D000138\tDisease\tmetabolic acidosis\tIt was characterized by the onset of fever , diarrhea , shock , pulmonary edema , acute renal failure , <target> metabolic acidosis </target> , weight gain and leukocytosis .",
+        "D015430\tDisease\tweight gain\tIt was characterized by the onset of fever , diarrhea , shock , pulmonary edema , acute renal failure , metabolic acidosis , <target> weight gain </target> and leukocytosis .",
+        "D007964\tDisease\tleukocytosis\tIt was characterized by the onset of fever , diarrhea , shock , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and <target> leukocytosis </target> .",
+        "D007239\tDisease\tinfection\tThorough bacteriological screening failed to provide evidence of <target> infection </target> .",
+        "D003561\tChemical\tAra-C\tSequential biological assays of IL-1 , IL-2 , TNF and PAF were performed during <target> Ara-C </target> infusion to ten patients , including the four who developed the syndrome .",
+        "D012769\tDisease\tshock\tAs TNF and PAF are thought to be involved in the development of septic <target> shock </target> and adult respiratory distress syndrome , we hypothesize that high-dose Ara-C may be associated with cytokine release .",
+        "D012128\tDisease\tadult respiratory distress syndrome\tAs TNF and PAF are thought to be involved in the development of septic shock and <target> adult respiratory distress syndrome </target> , we hypothesize that high-dose Ara-C may be associated with cytokine release .",
+        "D003561\tChemical\tAra-C\tAs TNF and PAF are thought to be involved in the development of septic shock and adult respiratory distress syndrome , we hypothesize that high-dose <target> Ara-C </target> may be associated with cytokine release ."
+    ],
+    "lines_lemma": [
+        "D011654\tDisease\tPulmonary edema\t<target> pulmonary edema </target> and shock after high-dose aracytine-c for lymphoma ; possible role of tnf-alpha and paf .",
+        "D012769\tDisease\tshock\tpulmonary edema and <target> shock </target> after high-dose aracytine-c for lymphoma ; possible role of tnf-alpha and paf .",
+        "D003561\tChemical\taracytine-C\tpulmonary edema and shock after high-dose <target> aracytine-c </target> for lymphoma ; possible role of tnf-alpha and paf .",
+        "D008223\tDisease\tlymphoma\tpulmonary edema and shock after high-dose aracytine-c for <target> lymphoma </target> ; possible role of tnf-alpha and paf .",
+        "D003561\tChemical\tAra-C\tfour out of 23 consecutive patient treat with high-dose <target> ara-c </target> for lymphoma in our institution develop a strikingly similar syndrome during the perfusion .",
+        "D008223\tDisease\tlymphomas\tfour out of 23 consecutive patient treat with high-dose ara-c for <target> lymphoma </target> in our institution develop a strikingly similar syndrome during the perfusion .",
+        "D005334\tDisease\tfever\tit be characterize by the onset of <target> fever </target> , diarrhea , shock , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D003967\tDisease\tdiarrhea\tit be characterize by the onset of fever , <target> diarrhea </target> , shock , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D012769\tDisease\tshock\tit be characterize by the onset of fever , diarrhea , <target> shock </target> , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D011654\tDisease\tpulmonary edema\tit be characterize by the onset of fever , diarrhea , shock , <target> pulmonary edema </target> , acute renal failure , metabolic acidosis , weight gain and leukocytosis .",
+        "D058186\tDisease\tacute renal failure\tit be characterize by the onset of fever , diarrhea , shock , pulmonary edema , <target> acute renal failure </target> , metabolic acidosis , weight gain and leukocytosis .",
+        "D000138\tDisease\tmetabolic acidosis\tit be characterize by the onset of fever , diarrhea , shock , pulmonary edema , acute renal failure , <target> metabolic acidosis </target> , weight gain and leukocytosis .",
+        "D015430\tDisease\tweight gain\tit be characterize by the onset of fever , diarrhea , shock , pulmonary edema , acute renal failure , metabolic acidosis , <target> weight gain </target> and leukocytosis .",
+        "D007964\tDisease\tleukocytosis\tit be characterize by the onset of fever , diarrhea , shock , pulmonary edema , acute renal failure , metabolic acidosis , weight gain and <target> leukocytosis </target> .",
+        "D007239\tDisease\tinfection\tthorough bacteriological screening fail to provide evidence of <target> infection </target> .",
+        "D003561\tChemical\tAra-C\tsequential biological assay of il-1 , il-2 , tnf and paf be perform during <target> ara-c </target> infusion to ten patient , include the four who develop the syndrome .",
+        "D012769\tDisease\tshock\tas tnf and paf be think to be involve in the development of septic <target> shock </target> and adult respiratory distress syndrome , we hypothesize that high-dose ara-c may be associate with cytokine release .",
+        "D012128\tDisease\tadult respiratory distress syndrome\tas tnf and paf be think to be involve in the development of septic shock and <target> adult respiratory distress syndrome </target> , we hypothesize that high-dose ara-c may be associate with cytokine release .",
+        "D003561\tChemical\tAra-C\tas tnf and paf be think to be involve in the development of septic shock and adult respiratory distress syndrome , we hypothesize that high-dose <target> ara-c </target> may be associate with cytokine release ."
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "title": "Ischemic colitis and sumatriptan use.",
+    "abst": "Sumatriptan succinate, a serotonin-1 (5-hydroxytryptamine-1) receptor agonist, is an antimigraine drug that is reported to act by selectively constricting intracranial arteries. Recently, vasopressor responses that are distinct from the cranial circulation have been demonstrated to occur in the systemic, pulmonary, and coronary circulations. Cases have been published of coronary vasospasm, myocardial ischemia, and myocardial infarction occurring after sumatriptan use. We report on the development of 8 serious cases of ischemic colitis in patients with migraine treated with sumatriptan.",
+    "title_plus_abst": "Ischemic colitis and sumatriptan use. Sumatriptan succinate, a serotonin-1 (5-hydroxytryptamine-1) receptor agonist, is an antimigraine drug that is reported to act by selectively constricting intracranial arteries. Recently, vasopressor responses that are distinct from the cranial circulation have been demonstrated to occur in the systemic, pulmonary, and coronary circulations. Cases have been published of coronary vasospasm, myocardial ischemia, and myocardial infarction occurring after sumatriptan use. We report on the development of 8 serious cases of ischemic colitis in patients with migraine treated with sumatriptan.",
+    "pubmed_id": "9759693",
+    "entities": [
+        [
+            0,
+            16,
+            "Ischemic colitis",
+            "Disease",
+            "D017091"
+        ],
+        [
+            21,
+            32,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            38,
+            59,
+            "Sumatriptan succinate",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            63,
+            72,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            76,
+            95,
+            "5-hydroxytryptamine",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            411,
+            429,
+            "coronary vasospasm",
+            "Disease",
+            "D003329"
+        ],
+        [
+            431,
+            450,
+            "myocardial ischemia",
+            "Disease",
+            "D017202"
+        ],
+        [
+            456,
+            477,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            494,
+            505,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            562,
+            578,
+            "ischemic colitis",
+            "Disease",
+            "D017091"
+        ],
+        [
+            596,
+            604,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            618,
+            629,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ]
+    ],
+    "split_sentence": [
+        "Ischemic colitis and sumatriptan use.",
+        "Sumatriptan succinate, a serotonin-1 (5-hydroxytryptamine-1) receptor agonist, is an antimigraine drug that is reported to act by selectively constricting intracranial arteries.",
+        "Recently, vasopressor responses that are distinct from the cranial circulation have been demonstrated to occur in the systemic, pulmonary, and coronary circulations.",
+        "Cases have been published of coronary vasospasm, myocardial ischemia, and myocardial infarction occurring after sumatriptan use.",
+        "We report on the development of 8 serious cases of ischemic colitis in patients with migraine treated with sumatriptan."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017091\tDisease\tIschemic colitis\t<target> Ischemic colitis </target> and sumatriptan use .",
+        "D018170\tChemical\tsumatriptan\tIschemic colitis and <target> sumatriptan </target> use .",
+        "D018170\tChemical\tSumatriptan succinate\t<target> Sumatriptan succinate </target> , a serotonin-1 ( 5-hydroxytryptamine-1 ) receptor agonist , is an antimigraine drug that is reported to act by selectively constricting intracranial arteries .",
+        "D012701\tChemical\tserotonin\tSumatriptan succinate , a <target> serotonin </target> -1 ( 5-hydroxytryptamine-1 ) receptor agonist , is an antimigraine drug that is reported to act by selectively constricting intracranial arteries .",
+        "D012701\tChemical\t5-hydroxytryptamine\tSumatriptan succinate , a serotonin-1 ( <target> 5-hydroxytryptamine </target> -1 ) receptor agonist , is an antimigraine drug that is reported to act by selectively constricting intracranial arteries .",
+        "D003329\tDisease\tcoronary vasospasm\tCases have been published of <target> coronary vasospasm </target> , myocardial ischemia , and myocardial infarction occurring after sumatriptan use .",
+        "D017202\tDisease\tmyocardial ischemia\tCases have been published of coronary vasospasm , <target> myocardial ischemia </target> , and myocardial infarction occurring after sumatriptan use .",
+        "D009203\tDisease\tmyocardial infarction\tCases have been published of coronary vasospasm , myocardial ischemia , and <target> myocardial infarction </target> occurring after sumatriptan use .",
+        "D018170\tChemical\tsumatriptan\tCases have been published of coronary vasospasm , myocardial ischemia , and myocardial infarction occurring after <target> sumatriptan </target> use .",
+        "D017091\tDisease\tischemic colitis\tWe report on the development of 8 serious cases of <target> ischemic colitis </target> in patients with migraine treated with sumatriptan .",
+        "D008881\tDisease\tmigraine\tWe report on the development of 8 serious cases of ischemic colitis in patients with <target> migraine </target> treated with sumatriptan .",
+        "D018170\tChemical\tsumatriptan\tWe report on the development of 8 serious cases of ischemic colitis in patients with migraine treated with <target> sumatriptan </target> ."
+    ],
+    "lines_lemma": [
+        "D017091\tDisease\tIschemic colitis\t<target> ischemic colitis </target> and sumatriptan use .",
+        "D018170\tChemical\tsumatriptan\tischemic colitis and <target> sumatriptan </target> use .",
+        "D018170\tChemical\tSumatriptan succinate\t<target> sumatriptan succinate </target> , a serotonin-1 ( 5-hydroxytryptamine-1 ) receptor agonist , be an antimigraine drug that be report to act by selectively constrict intracranial artery .",
+        "D012701\tChemical\tserotonin\tsumatriptan succinate , a <target> serotonin </target> -1 ( 5-hydroxytryptamine-1 ) receptor agonist , be an antimigraine drug that be report to act by selectively constrict intracranial artery .",
+        "D012701\tChemical\t5-hydroxytryptamine\tsumatriptan succinate , a serotonin-1 ( <target> 5-hydroxytryptamine </target> -1 ) receptor agonist , be an antimigraine drug that be report to act by selectively constrict intracranial artery .",
+        "D003329\tDisease\tcoronary vasospasm\tcase have be publish of <target> coronary vasospasm </target> , myocardial ischemia , and myocardial infarction occur after sumatriptan use .",
+        "D017202\tDisease\tmyocardial ischemia\tcase have be publish of coronary vasospasm , <target> myocardial ischemia </target> , and myocardial infarction occur after sumatriptan use .",
+        "D009203\tDisease\tmyocardial infarction\tcase have be publish of coronary vasospasm , myocardial ischemia , and <target> myocardial infarction </target> occur after sumatriptan use .",
+        "D018170\tChemical\tsumatriptan\tcase have be publish of coronary vasospasm , myocardial ischemia , and myocardial infarction occur after <target> sumatriptan </target> use .",
+        "D017091\tDisease\tischemic colitis\twe report on the development of 8 serious case of <target> ischemic colitis </target> in patient with migraine treat with sumatriptan .",
+        "D008881\tDisease\tmigraine\twe report on the development of 8 serious case of ischemic colitis in patient with <target> migraine </target> treat with sumatriptan .",
+        "D018170\tChemical\tsumatriptan\twe report on the development of 8 serious case of ischemic colitis in patient with migraine treat with <target> sumatriptan </target> ."
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Penicillin anaphylaxis.",
+    "abst": "A case of oral penicillin anaphylaxis is described, and the terminology, occurrence, clinical manifestations, pathogenesis, prevention, and treatment of anaphylaxis are reviewed. Emergency physicians should be aware of oral penicillin anaphylaxis in order to prevent its occurrence by prescribing the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction has begun.",
+    "title_plus_abst": "Penicillin anaphylaxis. A case of oral penicillin anaphylaxis is described, and the terminology, occurrence, clinical manifestations, pathogenesis, prevention, and treatment of anaphylaxis are reviewed. Emergency physicians should be aware of oral penicillin anaphylaxis in order to prevent its occurrence by prescribing the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction has begun.",
+    "pubmed_id": "3083835",
+    "entities": [
+        [
+            0,
+            10,
+            "Penicillin",
+            "Chemical",
+            "D010406"
+        ],
+        [
+            11,
+            22,
+            "anaphylaxis",
+            "Disease",
+            "D000707"
+        ],
+        [
+            39,
+            49,
+            "penicillin",
+            "Chemical",
+            "D010406"
+        ],
+        [
+            50,
+            61,
+            "anaphylaxis",
+            "Disease",
+            "D000707"
+        ],
+        [
+            177,
+            188,
+            "anaphylaxis",
+            "Disease",
+            "D000707"
+        ],
+        [
+            248,
+            258,
+            "penicillin",
+            "Chemical",
+            "D010406"
+        ],
+        [
+            259,
+            270,
+            "anaphylaxis",
+            "Disease",
+            "D000707"
+        ]
+    ],
+    "split_sentence": [
+        "Penicillin anaphylaxis.",
+        "A case of oral penicillin anaphylaxis is described, and the terminology, occurrence, clinical manifestations, pathogenesis, prevention, and treatment of anaphylaxis are reviewed.",
+        "Emergency physicians should be aware of oral penicillin anaphylaxis in order to prevent its occurrence by prescribing the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction has begun."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010406\tChemical\tPenicillin\t<target> Penicillin </target> anaphylaxis .",
+        "D000707\tDisease\tanaphylaxis\tPenicillin <target> anaphylaxis </target> .",
+        "D010406\tChemical\tpenicillin\tA case of oral <target> penicillin </target> anaphylaxis is described , and the terminology , occurrence , clinical manifestations , pathogenesis , prevention , and treatment of anaphylaxis are reviewed .",
+        "D000707\tDisease\tanaphylaxis\tA case of oral penicillin <target> anaphylaxis </target> is described , and the terminology , occurrence , clinical manifestations , pathogenesis , prevention , and treatment of anaphylaxis are reviewed .",
+        "D000707\tDisease\tanaphylaxis\tA case of oral penicillin anaphylaxis is described , and the terminology , occurrence , clinical manifestations , pathogenesis , prevention , and treatment of <target> anaphylaxis </target> are reviewed .",
+        "D010406\tChemical\tpenicillin\tEmergency physicians should be aware of oral <target> penicillin </target> anaphylaxis in order to prevent its occurrence by prescribing the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction has begun .",
+        "D000707\tDisease\tanaphylaxis\tEmergency physicians should be aware of oral penicillin <target> anaphylaxis </target> in order to prevent its occurrence by prescribing the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction has begun ."
+    ],
+    "lines_lemma": [
+        "D010406\tChemical\tPenicillin\t<target> Penicillin </target> anaphylaxis .",
+        "D000707\tDisease\tanaphylaxis\tPenicillin <target> anaphylaxis </target> .",
+        "D010406\tChemical\tpenicillin\ta case of oral <target> penicillin </target> anaphylaxis be describe , and the terminology , occurrence , clinical manifestation , pathogenesis , prevention , and treatment of anaphylaxis be review .",
+        "D000707\tDisease\tanaphylaxis\ta case of oral penicillin <target> anaphylaxis </target> be describe , and the terminology , occurrence , clinical manifestation , pathogenesis , prevention , and treatment of anaphylaxis be review .",
+        "D000707\tDisease\tanaphylaxis\ta case of oral penicillin anaphylaxis be describe , and the terminology , occurrence , clinical manifestation , pathogenesis , prevention , and treatment of <target> anaphylaxis </target> be review .",
+        "D010406\tChemical\tpenicillin\temergency physician should be aware of oral <target> penicillin </target> anaphylaxis in order to prevent its occurrence by prescribe the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction have begin .",
+        "D000707\tDisease\tanaphylaxis\temergency physician should be aware of oral penicillin <target> anaphylaxis </target> in order to prevent its occurrence by prescribe the antibiotic judiciously and knowledgeably and to offer optimal medical therapy once this life-threatening reaction have begin ."
+    ]
+}

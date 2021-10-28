@@ -1,0 +1,63 @@
+{
+    "title": "Cholinergic toxicity resulting from ocular instillation of echothiophate iodide eye drops.",
+    "abst": "A patient developed a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drops, presented with profound muscle weakness and was initially given the diagnosis of myasthenia gravis. Red blood cell and serum cholinesterase levels were severely depressed and symptoms resolved spontaneously following discontinuation of the eye drops.",
+    "title_plus_abst": "Cholinergic toxicity resulting from ocular instillation of echothiophate iodide eye drops. A patient developed a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drops, presented with profound muscle weakness and was initially given the diagnosis of myasthenia gravis. Red blood cell and serum cholinesterase levels were severely depressed and symptoms resolved spontaneously following discontinuation of the eye drops.",
+    "pubmed_id": "7650771",
+    "entities": [
+        [
+            12,
+            20,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            59,
+            79,
+            "echothiophate iodide",
+            "Chemical",
+            "D004456"
+        ],
+        [
+            157,
+            177,
+            "echothiophate iodide",
+            "Chemical",
+            "D004456"
+        ],
+        [
+            220,
+            235,
+            "muscle weakness",
+            "Disease",
+            "D018908"
+        ],
+        [
+            277,
+            294,
+            "myasthenia gravis",
+            "Disease",
+            "D009157"
+        ]
+    ],
+    "split_sentence": [
+        "Cholinergic toxicity resulting from ocular instillation of echothiophate iodide eye drops.",
+        "A patient developed a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drops, presented with profound muscle weakness and was initially given the diagnosis of myasthenia gravis.",
+        "Red blood cell and serum cholinesterase levels were severely depressed and symptoms resolved spontaneously following discontinuation of the eye drops."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D064420\tDisease\ttoxicity\tCholinergic <target> toxicity </target> resulting from ocular instillation of echothiophate iodide eye drops .",
+        "D004456\tChemical\techothiophate iodide\tCholinergic toxicity resulting from ocular instillation of <target> echothiophate iodide </target> eye drops .",
+        "D004456\tChemical\techothiophate iodide\tA patient developed a severe cholinergic syndrome from the use of <target> echothiophate iodide </target> ophthalmic drops , presented with profound muscle weakness and was initially given the diagnosis of myasthenia gravis .",
+        "D018908\tDisease\tmuscle weakness\tA patient developed a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drops , presented with profound <target> muscle weakness </target> and was initially given the diagnosis of myasthenia gravis .",
+        "D009157\tDisease\tmyasthenia gravis\tA patient developed a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drops , presented with profound muscle weakness and was initially given the diagnosis of <target> myasthenia gravis </target> ."
+    ],
+    "lines_lemma": [
+        "D064420\tDisease\ttoxicity\tcholinergic <target> toxicity </target> result from ocular instillation of echothiophate iodide eye drop .",
+        "D004456\tChemical\techothiophate iodide\tcholinergic toxicity result from ocular instillation of <target> echothiophate iodide </target> eye drop .",
+        "D004456\tChemical\techothiophate iodide\ta patient develop a severe cholinergic syndrome from the use of <target> echothiophate iodide </target> ophthalmic drop , present with profound muscle weakness and be initially give the diagnosis of myasthenia gravis .",
+        "D018908\tDisease\tmuscle weakness\ta patient develop a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drop , present with profound <target> muscle weakness </target> and be initially give the diagnosis of myasthenia gravis .",
+        "D009157\tDisease\tmyasthenia gravis\ta patient develop a severe cholinergic syndrome from the use of echothiophate iodide ophthalmic drop , present with profound muscle weakness and be initially give the diagnosis of <target> myasthenia gravis </target> ."
+    ]
+}

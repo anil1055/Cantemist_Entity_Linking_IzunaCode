@@ -1,0 +1,164 @@
+{
+    "title": "Naloxazone pretreatment modifies cardiorespiratory, temperature, and behavioral effects of morphine.",
+    "abst": "Behavioral and cardiorespiratory responses to a lethal dose of morphine were evaluated in rats pretreated with saline or naloxazone, an antagonist of high-affinity mu 1 opioid receptors. Pretreatment with naloxazone significantly blocked morphine analgesia, catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes. Moreover, naloxazone significantly attenuated the morphine-induced hypotension and respiratory depression, whereas morphine-induced bradycardia was less affected. Results indicate that subpopulations of mu receptors may mediate selective behavioral and cardiorespiratory responses to morphine.",
+    "title_plus_abst": "Naloxazone pretreatment modifies cardiorespiratory, temperature, and behavioral effects of morphine. Behavioral and cardiorespiratory responses to a lethal dose of morphine were evaluated in rats pretreated with saline or naloxazone, an antagonist of high-affinity mu 1 opioid receptors. Pretreatment with naloxazone significantly blocked morphine analgesia, catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes. Moreover, naloxazone significantly attenuated the morphine-induced hypotension and respiratory depression, whereas morphine-induced bradycardia was less affected. Results indicate that subpopulations of mu receptors may mediate selective behavioral and cardiorespiratory responses to morphine.",
+    "pubmed_id": "6308526",
+    "entities": [
+        [
+            0,
+            10,
+            "Naloxazone",
+            "Chemical",
+            "C024224"
+        ],
+        [
+            91,
+            99,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            164,
+            172,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            222,
+            232,
+            "naloxazone",
+            "Chemical",
+            "C024224"
+        ],
+        [
+            306,
+            316,
+            "naloxazone",
+            "Chemical",
+            "C024224"
+        ],
+        [
+            339,
+            347,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            348,
+            357,
+            "analgesia",
+            "Disease",
+            "D000699"
+        ],
+        [
+            359,
+            368,
+            "catalepsy",
+            "Disease",
+            "D002375"
+        ],
+        [
+            373,
+            384,
+            "hypothermia",
+            "Disease",
+            "D007035"
+        ],
+        [
+            475,
+            485,
+            "naloxazone",
+            "Chemical",
+            "C024224"
+        ],
+        [
+            515,
+            523,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            532,
+            543,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            548,
+            570,
+            "respiratory depression",
+            "Disease",
+            "D012131"
+        ],
+        [
+            580,
+            588,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            597,
+            608,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            749,
+            757,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ]
+    ],
+    "split_sentence": [
+        "Naloxazone pretreatment modifies cardiorespiratory, temperature, and behavioral effects of morphine.",
+        "Behavioral and cardiorespiratory responses to a lethal dose of morphine were evaluated in rats pretreated with saline or naloxazone, an antagonist of high-affinity mu 1 opioid receptors.",
+        "Pretreatment with naloxazone significantly blocked morphine analgesia, catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes.",
+        "Moreover, naloxazone significantly attenuated the morphine-induced hypotension and respiratory depression, whereas morphine-induced bradycardia was less affected.",
+        "Results indicate that subpopulations of mu receptors may mediate selective behavioral and cardiorespiratory responses to morphine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C024224\tChemical\tNaloxazone\t<target> Naloxazone </target> pretreatment modifies cardiorespiratory , temperature , and behavioral effects of morphine .",
+        "D009020\tChemical\tmorphine\tNaloxazone pretreatment modifies cardiorespiratory , temperature , and behavioral effects of <target> morphine </target> .",
+        "D009020\tChemical\tmorphine\tBehavioral and cardiorespiratory responses to a lethal dose of <target> morphine </target> were evaluated in rats pretreated with saline or naloxazone , an antagonist of high-affinity mu 1 opioid receptors .",
+        "C024224\tChemical\tnaloxazone\tBehavioral and cardiorespiratory responses to a lethal dose of morphine were evaluated in rats pretreated with saline or <target> naloxazone </target> , an antagonist of high-affinity mu 1 opioid receptors .",
+        "C024224\tChemical\tnaloxazone\tPretreatment with <target> naloxazone </target> significantly blocked morphine analgesia , catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes .",
+        "D009020\tChemical\tmorphine\tPretreatment with naloxazone significantly blocked <target> morphine </target> analgesia , catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes .",
+        "D000699\tDisease\tanalgesia\tPretreatment with naloxazone significantly blocked morphine <target> analgesia </target> , catalepsy and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes .",
+        "D002375\tDisease\tcatalepsy\tPretreatment with naloxazone significantly blocked morphine analgesia , <target> catalepsy </target> and hypothermia at a dose which completely eliminated high-affinity binding in brain membranes .",
+        "D007035\tDisease\thypothermia\tPretreatment with naloxazone significantly blocked morphine analgesia , catalepsy and <target> hypothermia </target> at a dose which completely eliminated high-affinity binding in brain membranes .",
+        "C024224\tChemical\tnaloxazone\tMoreover , <target> naloxazone </target> significantly attenuated the morphine-induced hypotension and respiratory depression , whereas morphine-induced bradycardia was less affected .",
+        "D009020\tChemical\tmorphine\tMoreover , naloxazone significantly attenuated the <target> morphine </target> -induced hypotension and respiratory depression , whereas morphine-induced bradycardia was less affected .",
+        "D007022\tDisease\thypotension\tMoreover , naloxazone significantly attenuated the morphine-induced <target> hypotension </target> and respiratory depression , whereas morphine-induced bradycardia was less affected .",
+        "D012131\tDisease\trespiratory depression\tMoreover , naloxazone significantly attenuated the morphine-induced hypotension and <target> respiratory depression </target> , whereas morphine-induced bradycardia was less affected .",
+        "D009020\tChemical\tmorphine\tMoreover , naloxazone significantly attenuated the morphine-induced hypotension and respiratory depression , whereas <target> morphine </target> -induced bradycardia was less affected .",
+        "D001919\tDisease\tbradycardia\tMoreover , naloxazone significantly attenuated the morphine-induced hypotension and respiratory depression , whereas morphine-induced <target> bradycardia </target> was less affected .",
+        "D009020\tChemical\tmorphine\tResults indicate that subpopulations of mu receptors may mediate selective behavioral and cardiorespiratory responses to <target> morphine </target> ."
+    ],
+    "lines_lemma": [
+        "C024224\tChemical\tNaloxazone\t<target> Naloxazone </target> pretreatment modify cardiorespiratory , temperature , and behavioral effect of morphine .",
+        "D009020\tChemical\tmorphine\tnaloxazone pretreatment modify cardiorespiratory , temperature , and behavioral effect of <target> morphine </target> .",
+        "D009020\tChemical\tmorphine\tbehavioral and cardiorespiratory response to a lethal dose of <target> morphine </target> be evaluate in rat pretreate with saline or naloxazone , an antagonist of high-affinity mu 1 opioid receptor .",
+        "C024224\tChemical\tnaloxazone\tbehavioral and cardiorespiratory response to a lethal dose of morphine be evaluate in rat pretreate with saline or <target> naloxazone </target> , an antagonist of high-affinity mu 1 opioid receptor .",
+        "C024224\tChemical\tnaloxazone\tpretreatment with <target> naloxazone </target> significantly block morphine analgesia , catalepsy and hypothermia at a dose which completely eliminate high-affinity binding in brain membrane .",
+        "D009020\tChemical\tmorphine\tpretreatment with naloxazone significantly block <target> morphine </target> analgesia , catalepsy and hypothermia at a dose which completely eliminate high-affinity binding in brain membrane .",
+        "D000699\tDisease\tanalgesia\tpretreatment with naloxazone significantly block morphine <target> analgesia </target> , catalepsy and hypothermia at a dose which completely eliminate high-affinity binding in brain membrane .",
+        "D002375\tDisease\tcatalepsy\tpretreatment with naloxazone significantly block morphine analgesia , <target> catalepsy </target> and hypothermia at a dose which completely eliminate high-affinity binding in brain membrane .",
+        "D007035\tDisease\thypothermia\tpretreatment with naloxazone significantly block morphine analgesia , catalepsy and <target> hypothermia </target> at a dose which completely eliminate high-affinity binding in brain membrane .",
+        "C024224\tChemical\tnaloxazone\tmoreover , <target> naloxazone </target> significantly attenuate the morphine-induced hypotension and respiratory depression , whereas morphine-induced bradycardia be less affect .",
+        "D009020\tChemical\tmorphine\tmoreover , naloxazone significantly attenuate the <target> morphine </target> -induced hypotension and respiratory depression , whereas morphine-induced bradycardia be less affect .",
+        "D007022\tDisease\thypotension\tmoreover , naloxazone significantly attenuate the morphine-induced <target> hypotension </target> and respiratory depression , whereas morphine-induced bradycardia be less affect .",
+        "D012131\tDisease\trespiratory depression\tmoreover , naloxazone significantly attenuate the morphine-induced hypotension and <target> respiratory depression </target> , whereas morphine-induced bradycardia be less affect .",
+        "D009020\tChemical\tmorphine\tmoreover , naloxazone significantly attenuate the morphine-induced hypotension and respiratory depression , whereas <target> morphine </target> -induced bradycardia be less affect .",
+        "D001919\tDisease\tbradycardia\tmoreover , naloxazone significantly attenuate the morphine-induced hypotension and respiratory depression , whereas morphine-induced <target> bradycardia </target> be less affect .",
+        "D009020\tChemical\tmorphine\tresult indicate that subpopulation of mu receptor may mediate selective behavioral and cardiorespiratory response to <target> morphine </target> ."
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "title": "Clinical nephrotoxicity of tobramycin and gentamicin. A prospective study.",
+    "abst": "Nearly 3.2 million people in this country receive aminoglycoside antibiotics annually. Gentamicin sulfate and tobramycin sulfate continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical studies. In this study, 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven days were followed up prospectively for the development of aminoglycoside-related renal failure, defined as at least a one-third reduction in renal function. In these 62 patients, no other causes for renal failure could be identified. Five of 33 (15%) of the tobramycin-treated patients and 16 of 29 (55.2%) of the gentamicin-treated patients had renal failure. Thus, gentamicin was associated with renal failure more than three times as often as was tobramycin.",
+    "title_plus_abst": "Clinical nephrotoxicity of tobramycin and gentamicin. A prospective study. Nearly 3.2 million people in this country receive aminoglycoside antibiotics annually. Gentamicin sulfate and tobramycin sulfate continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical studies. In this study, 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven days were followed up prospectively for the development of aminoglycoside-related renal failure, defined as at least a one-third reduction in renal function. In these 62 patients, no other causes for renal failure could be identified. Five of 33 (15%) of the tobramycin-treated patients and 16 of 29 (55.2%) of the gentamicin-treated patients had renal failure. Thus, gentamicin was associated with renal failure more than three times as often as was tobramycin.",
+    "pubmed_id": "7420681",
+    "entities": [
+        [
+            9,
+            23,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            27,
+            37,
+            "tobramycin",
+            "Chemical",
+            "D014031"
+        ],
+        [
+            42,
+            52,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            125,
+            139,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            162,
+            180,
+            "Gentamicin sulfate",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            185,
+            203,
+            "tobramycin sulfate",
+            "Chemical",
+            "D014031"
+        ],
+        [
+            228,
+            239,
+            "ototoxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            244,
+            258,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            405,
+            423,
+            "gentamicin sulfate",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            427,
+            445,
+            "tobramycin sulfate",
+            "Chemical",
+            "D014031"
+        ],
+        [
+            528,
+            542,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            551,
+            564,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            669,
+            682,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            728,
+            738,
+            "tobramycin",
+            "Chemical",
+            "D014031"
+        ],
+        [
+            784,
+            794,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            816,
+            829,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            837,
+            847,
+            "gentamicin",
+            "Chemical",
+            "D005839"
+        ],
+        [
+            868,
+            881,
+            "renal failure",
+            "Disease",
+            "D051437"
+        ],
+        [
+            920,
+            930,
+            "tobramycin",
+            "Chemical",
+            "D014031"
+        ]
+    ],
+    "split_sentence": [
+        "Clinical nephrotoxicity of tobramycin and gentamicin.",
+        "A prospective study.",
+        "Nearly 3.2 million people in this country receive aminoglycoside antibiotics annually.",
+        "Gentamicin sulfate and tobramycin sulfate continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical studies.",
+        "In this study, 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven days were followed up prospectively for the development of aminoglycoside-related renal failure, defined as at least a one-third reduction in renal function.",
+        "In these 62 patients, no other causes for renal failure could be identified.",
+        "Five of 33 (15%) of the tobramycin-treated patients and 16 of 29 (55.2%) of the gentamicin-treated patients had renal failure.",
+        "Thus, gentamicin was associated with renal failure more than three times as often as was tobramycin."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007674\tDisease\tnephrotoxicity\tClinical <target> nephrotoxicity </target> of tobramycin and gentamicin .",
+        "D014031\tChemical\ttobramycin\tClinical nephrotoxicity of <target> tobramycin </target> and gentamicin .",
+        "D005839\tChemical\tgentamicin\tClinical nephrotoxicity of tobramycin and <target> gentamicin </target> .",
+        "D000617\tChemical\taminoglycoside\tNearly 3.2 million people in this country receive <target> aminoglycoside </target> antibiotics annually .",
+        "D005839\tChemical\tGentamicin sulfate\t<target> Gentamicin sulfate </target> and tobramycin sulfate continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical studies .",
+        "D014031\tChemical\ttobramycin sulfate\tGentamicin sulfate and <target> tobramycin sulfate </target> continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical studies .",
+        "D006311\tDisease\tototoxicity\tGentamicin sulfate and tobramycin sulfate continue to demonstrate <target> ototoxicity </target> and nephrotoxicity in both animal and clinical studies .",
+        "D007674\tDisease\tnephrotoxicity\tGentamicin sulfate and tobramycin sulfate continue to demonstrate ototoxicity and <target> nephrotoxicity </target> in both animal and clinical studies .",
+        "D005839\tChemical\tgentamicin sulfate\tIn this study , 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of <target> gentamicin sulfate </target> or tobramycin sulfate for a minimum of seven days were followed up prospectively for the development of aminoglycoside-related renal failure , defined as at least a one-third reduction in renal function .",
+        "D014031\tChemical\ttobramycin sulfate\tIn this study , 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of gentamicin sulfate or <target> tobramycin sulfate </target> for a minimum of seven days were followed up prospectively for the development of aminoglycoside-related renal failure , defined as at least a one-third reduction in renal function .",
+        "D000617\tChemical\taminoglycoside\tIn this study , 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven days were followed up prospectively for the development of <target> aminoglycoside </target> -related renal failure , defined as at least a one-third reduction in renal function .",
+        "D051437\tDisease\trenal failure\tIn this study , 62 patients with confirmed initial normal renal function and treated with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven days were followed up prospectively for the development of aminoglycoside-related <target> renal failure </target> , defined as at least a one-third reduction in renal function .",
+        "D051437\tDisease\trenal failure\tIn these 62 patients , no other causes for <target> renal failure </target> could be identified .",
+        "D014031\tChemical\ttobramycin\tFive of 33 ( 15 % ) of the <target> tobramycin </target> -treated patients and 16 of 29 ( 55.2 % ) of the gentamicin-treated patients had renal failure .",
+        "D005839\tChemical\tgentamicin\tFive of 33 ( 15 % ) of the tobramycin-treated patients and 16 of 29 ( 55.2 % ) of the <target> gentamicin </target> -treated patients had renal failure .",
+        "D051437\tDisease\trenal failure\tFive of 33 ( 15 % ) of the tobramycin-treated patients and 16 of 29 ( 55.2 % ) of the gentamicin-treated patients had <target> renal failure </target> .",
+        "D005839\tChemical\tgentamicin\tThus , <target> gentamicin </target> was associated with renal failure more than three times as often as was tobramycin .",
+        "D051437\tDisease\trenal failure\tThus , gentamicin was associated with <target> renal failure </target> more than three times as often as was tobramycin .",
+        "D014031\tChemical\ttobramycin\tThus , gentamicin was associated with renal failure more than three times as often as was <target> tobramycin </target> ."
+    ],
+    "lines_lemma": [
+        "D007674\tDisease\tnephrotoxicity\tclinical <target> nephrotoxicity </target> of tobramycin and gentamicin .",
+        "D014031\tChemical\ttobramycin\tclinical nephrotoxicity of <target> tobramycin </target> and gentamicin .",
+        "D005839\tChemical\tgentamicin\tclinical nephrotoxicity of tobramycin and <target> gentamicin </target> .",
+        "D000617\tChemical\taminoglycoside\tnearly 3.2 million people in this country receive <target> aminoglycoside </target> antibiotic annually .",
+        "D005839\tChemical\tGentamicin sulfate\t<target> Gentamicin sulfate </target> and tobramycin sulfate continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical study .",
+        "D014031\tChemical\ttobramycin sulfate\tgentamicin sulfate and <target> tobramycin sulfate </target> continue to demonstrate ototoxicity and nephrotoxicity in both animal and clinical study .",
+        "D006311\tDisease\tototoxicity\tgentamicin sulfate and tobramycin sulfate continue to demonstrate <target> ototoxicity </target> and nephrotoxicity in both animal and clinical study .",
+        "D007674\tDisease\tnephrotoxicity\tgentamicin sulfate and tobramycin sulfate continue to demonstrate ototoxicity and <target> nephrotoxicity </target> in both animal and clinical study .",
+        "D005839\tChemical\tgentamicin sulfate\tin this study , 62 patient with confirm initial normal renal function and treat with 2 to 5 mg/kg/day of <target> gentamicin sulfate </target> or tobramycin sulfate for a minimum of seven day be follow up prospectively for the development of aminoglycoside-related renal failure , define as at least a one-third reduction in renal function .",
+        "D014031\tChemical\ttobramycin sulfate\tin this study , 62 patient with confirm initial normal renal function and treat with 2 to 5 mg/kg/day of gentamicin sulfate or <target> tobramycin sulfate </target> for a minimum of seven day be follow up prospectively for the development of aminoglycoside-related renal failure , define as at least a one-third reduction in renal function .",
+        "D000617\tChemical\taminoglycoside\tin this study , 62 patient with confirm initial normal renal function and treat with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven day be follow up prospectively for the development of <target> aminoglycoside </target> -related renal failure , define as at least a one-third reduction in renal function .",
+        "D051437\tDisease\trenal failure\tin this study , 62 patient with confirm initial normal renal function and treat with 2 to 5 mg/kg/day of gentamicin sulfate or tobramycin sulfate for a minimum of seven day be follow up prospectively for the development of aminoglycoside-related <target> renal failure </target> , define as at least a one-third reduction in renal function .",
+        "D051437\tDisease\trenal failure\tin these 62 patient , no other cause for <target> renal failure </target> could be identify .",
+        "D014031\tChemical\ttobramycin\tfive of 33 ( 15 % ) of the <target> tobramycin </target> -treated patient and 16 of 29 ( 55.2 % ) of the gentamicin-treated patient have renal failure .",
+        "D005839\tChemical\tgentamicin\tfive of 33 ( 15 % ) of the tobramycin-treated patient and 16 of 29 ( 55.2 % ) of the <target> gentamicin </target> -treated patient have renal failure .",
+        "D051437\tDisease\trenal failure\tfive of 33 ( 15 % ) of the tobramycin-treated patient and 16 of 29 ( 55.2 % ) of the gentamicin-treated patient have <target> renal failure </target> .",
+        "D005839\tChemical\tgentamicin\tthus , <target> gentamicin </target> be associate with renal failure more than three time as often as be tobramycin .",
+        "D051437\tDisease\trenal failure\tthus , gentamicin be associate with <target> renal failure </target> more than three time as often as be tobramycin .",
+        "D014031\tChemical\ttobramycin\tthus , gentamicin be associate with renal failure more than three time as often as be <target> tobramycin </target> ."
+    ]
+}

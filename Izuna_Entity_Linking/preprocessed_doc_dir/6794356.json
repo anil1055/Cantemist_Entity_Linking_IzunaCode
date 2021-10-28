@@ -1,0 +1,165 @@
+{
+    "title": "Tricuspid valve regurgitation and lithium carbonate toxicity in a newborn infant.",
+    "abst": "A newborn with massive tricuspid regurgitation, atrial flutter, congestive heart failure, and a high serum lithium level is described. This is the first patient to initially manifest tricuspid regurgitation and atrial flutter, and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy. Sixty-three percent of these infants had tricuspid valve involvement. Lithium carbonate may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy. It also causes neurologic depression, cyanosis, and cardiac arrhythmia when consumed prior to delivery.",
+    "title_plus_abst": "Tricuspid valve regurgitation and lithium carbonate toxicity in a newborn infant. A newborn with massive tricuspid regurgitation, atrial flutter, congestive heart failure, and a high serum lithium level is described. This is the first patient to initially manifest tricuspid regurgitation and atrial flutter, and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy. Sixty-three percent of these infants had tricuspid valve involvement. Lithium carbonate may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy. It also causes neurologic depression, cyanosis, and cardiac arrhythmia when consumed prior to delivery.",
+    "pubmed_id": "6794356",
+    "entities": [
+        [
+            0,
+            29,
+            "Tricuspid valve regurgitation",
+            "Disease",
+            "D014262"
+        ],
+        [
+            34,
+            51,
+            "lithium carbonate",
+            "Chemical",
+            "D016651"
+        ],
+        [
+            52,
+            60,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            105,
+            128,
+            "tricuspid regurgitation",
+            "Disease",
+            "D014262"
+        ],
+        [
+            130,
+            144,
+            "atrial flutter",
+            "Disease",
+            "D001282"
+        ],
+        [
+            146,
+            170,
+            "congestive heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            189,
+            196,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            265,
+            288,
+            "tricuspid regurgitation",
+            "Disease",
+            "D014262"
+        ],
+        [
+            293,
+            307,
+            "atrial flutter",
+            "Disease",
+            "D001282"
+        ],
+        [
+            345,
+            360,
+            "cardiac disease",
+            "Disease",
+            "D006331"
+        ],
+        [
+            386,
+            393,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            511,
+            528,
+            "Lithium carbonate",
+            "Chemical",
+            "D016651"
+        ],
+        [
+            576,
+            600,
+            "congenital heart disease",
+            "Disease",
+            "D006331"
+        ],
+        [
+            651,
+            672,
+            "neurologic depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            674,
+            682,
+            "cyanosis",
+            "Disease",
+            "D003490"
+        ],
+        [
+            688,
+            706,
+            "cardiac arrhythmia",
+            "Disease",
+            "D001145"
+        ]
+    ],
+    "split_sentence": [
+        "Tricuspid valve regurgitation and lithium carbonate toxicity in a newborn infant.",
+        "A newborn with massive tricuspid regurgitation, atrial flutter, congestive heart failure, and a high serum lithium level is described.",
+        "This is the first patient to initially manifest tricuspid regurgitation and atrial flutter, and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy.",
+        "Sixty-three percent of these infants had tricuspid valve involvement.",
+        "Lithium carbonate may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy.",
+        "It also causes neurologic depression, cyanosis, and cardiac arrhythmia when consumed prior to delivery."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014262\tDisease\tTricuspid valve regurgitation\t<target> Tricuspid valve regurgitation </target> and lithium carbonate toxicity in a newborn infant .",
+        "D016651\tChemical\tlithium carbonate\tTricuspid valve regurgitation and <target> lithium carbonate </target> toxicity in a newborn infant .",
+        "D064420\tDisease\ttoxicity\tTricuspid valve regurgitation and lithium carbonate <target> toxicity </target> in a newborn infant .",
+        "D014262\tDisease\ttricuspid regurgitation\tA newborn with massive <target> tricuspid regurgitation </target> , atrial flutter , congestive heart failure , and a high serum lithium level is described .",
+        "D001282\tDisease\tatrial flutter\tA newborn with massive tricuspid regurgitation , <target> atrial flutter </target> , congestive heart failure , and a high serum lithium level is described .",
+        "D006333\tDisease\tcongestive heart failure\tA newborn with massive tricuspid regurgitation , atrial flutter , <target> congestive heart failure </target> , and a high serum lithium level is described .",
+        "D008094\tChemical\tlithium\tA newborn with massive tricuspid regurgitation , atrial flutter , congestive heart failure , and a high serum <target> lithium </target> level is described .",
+        "D014262\tDisease\ttricuspid regurgitation\tThis is the first patient to initially manifest <target> tricuspid regurgitation </target> and atrial flutter , and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy .",
+        "D001282\tDisease\tatrial flutter\tThis is the first patient to initially manifest tricuspid regurgitation and <target> atrial flutter </target> , and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy .",
+        "D006331\tDisease\tcardiac disease\tThis is the first patient to initially manifest tricuspid regurgitation and atrial flutter , and the 11th described patient with <target> cardiac disease </target> among infants exposed to lithium compounds in the first trimester of pregnancy .",
+        "D008094\tChemical\tlithium\tThis is the first patient to initially manifest tricuspid regurgitation and atrial flutter , and the 11th described patient with cardiac disease among infants exposed to <target> lithium </target> compounds in the first trimester of pregnancy .",
+        "D016651\tChemical\tLithium carbonate\t<target> Lithium carbonate </target> may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy .",
+        "D006331\tDisease\tcongenital heart disease\tLithium carbonate may be a factor in the increasing incidence of <target> congenital heart disease </target> when taken during early pregnancy .",
+        "D003866\tDisease\tneurologic depression\tIt also causes <target> neurologic depression </target> , cyanosis , and cardiac arrhythmia when consumed prior to delivery .",
+        "D003490\tDisease\tcyanosis\tIt also causes neurologic depression , <target> cyanosis </target> , and cardiac arrhythmia when consumed prior to delivery .",
+        "D001145\tDisease\tcardiac arrhythmia\tIt also causes neurologic depression , cyanosis , and <target> cardiac arrhythmia </target> when consumed prior to delivery ."
+    ],
+    "lines_lemma": [
+        "D014262\tDisease\tTricuspid valve regurgitation\t<target> Tricuspid valve regurgitation </target> and lithium carbonate toxicity in a newborn infant .",
+        "D016651\tChemical\tlithium carbonate\ttricuspid valve regurgitation and <target> lithium carbonate </target> toxicity in a newborn infant .",
+        "D064420\tDisease\ttoxicity\ttricuspid valve regurgitation and lithium carbonate <target> toxicity </target> in a newborn infant .",
+        "D014262\tDisease\ttricuspid regurgitation\ta newborn with massive <target> tricuspid regurgitation </target> , atrial flutter , congestive heart failure , and a high serum lithium level be describe .",
+        "D001282\tDisease\tatrial flutter\ta newborn with massive tricuspid regurgitation , <target> atrial flutter </target> , congestive heart failure , and a high serum lithium level be describe .",
+        "D006333\tDisease\tcongestive heart failure\ta newborn with massive tricuspid regurgitation , atrial flutter , <target> congestive heart failure </target> , and a high serum lithium level be describe .",
+        "D008094\tChemical\tlithium\ta newborn with massive tricuspid regurgitation , atrial flutter , congestive heart failure , and a high serum <target> lithium </target> level be describe .",
+        "D014262\tDisease\ttricuspid regurgitation\tthis be the first patient to initially manifest <target> tricuspid regurgitation </target> and atrial flutter , and the 11th describe patient with cardiac disease among infant expose to lithium compound in the first trimester of pregnancy .",
+        "D001282\tDisease\tatrial flutter\tthis be the first patient to initially manifest tricuspid regurgitation and <target> atrial flutter </target> , and the 11th describe patient with cardiac disease among infant expose to lithium compound in the first trimester of pregnancy .",
+        "D006331\tDisease\tcardiac disease\tthis be the first patient to initially manifest tricuspid regurgitation and atrial flutter , and the 11th describe patient with <target> cardiac disease </target> among infant expose to lithium compound in the first trimester of pregnancy .",
+        "D008094\tChemical\tlithium\tthis be the first patient to initially manifest tricuspid regurgitation and atrial flutter , and the 11th describe patient with cardiac disease among infant expose to <target> lithium </target> compound in the first trimester of pregnancy .",
+        "D016651\tChemical\tLithium carbonate\t<target> lithium carbonate </target> may be a factor in the increase incidence of congenital heart disease when take during early pregnancy .",
+        "D006331\tDisease\tcongenital heart disease\tlithium carbonate may be a factor in the increase incidence of <target> congenital heart disease </target> when take during early pregnancy .",
+        "D003866\tDisease\tneurologic depression\tit also cause <target> neurologic depression </target> , cyanosis , and cardiac arrhythmia when consume prior to delivery .",
+        "D003490\tDisease\tcyanosis\tit also cause neurologic depression , <target> cyanosis </target> , and cardiac arrhythmia when consume prior to delivery .",
+        "D001145\tDisease\tcardiac arrhythmia\tit also cause neurologic depression , cyanosis , and <target> cardiac arrhythmia </target> when consume prior to delivery ."
+    ]
+}

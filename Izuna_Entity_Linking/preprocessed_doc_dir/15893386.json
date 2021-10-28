@@ -1,0 +1,119 @@
+{
+    "title": "Succinylcholine-induced masseter muscle rigidity during bronchoscopic removal of a tracheal foreign body.",
+    "abst": "Masseter muscle rigidity during general anesthesia is considered an early warning sign of a possible episode of malignant hyperthermia. The decision whether to continue or discontinue the procedure depends on the urgency of the surgery and severity of masseter muscle rigidity. Here, we describe a case of severe masseter muscle rigidity (jaw of steel) after succinylcholine (Sch) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body. Anesthesia was continued uneventfully with propofol infusion while all facilities were available to detect and treat malignant hyperthermia.",
+    "title_plus_abst": "Succinylcholine-induced masseter muscle rigidity during bronchoscopic removal of a tracheal foreign body. Masseter muscle rigidity during general anesthesia is considered an early warning sign of a possible episode of malignant hyperthermia. The decision whether to continue or discontinue the procedure depends on the urgency of the surgery and severity of masseter muscle rigidity. Here, we describe a case of severe masseter muscle rigidity (jaw of steel) after succinylcholine (Sch) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body. Anesthesia was continued uneventfully with propofol infusion while all facilities were available to detect and treat malignant hyperthermia.",
+    "pubmed_id": "15893386",
+    "entities": [
+        [
+            0,
+            15,
+            "Succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            24,
+            48,
+            "masseter muscle rigidity",
+            "Disease",
+            "D014313"
+        ],
+        [
+            106,
+            130,
+            "Masseter muscle rigidity",
+            "Disease",
+            "D014313"
+        ],
+        [
+            218,
+            240,
+            "malignant hyperthermia",
+            "Disease",
+            "D008305"
+        ],
+        [
+            358,
+            382,
+            "masseter muscle rigidity",
+            "Disease",
+            "D014313"
+        ],
+        [
+            419,
+            443,
+            "masseter muscle rigidity",
+            "Disease",
+            "D014313"
+        ],
+        [
+            445,
+            457,
+            "jaw of steel",
+            "Disease",
+            "D014313"
+        ],
+        [
+            465,
+            480,
+            "succinylcholine",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            482,
+            485,
+            "Sch",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            642,
+            650,
+            "propofol",
+            "Chemical",
+            "D015742"
+        ],
+        [
+            716,
+            738,
+            "malignant hyperthermia",
+            "Disease",
+            "D008305"
+        ]
+    ],
+    "split_sentence": [
+        "Succinylcholine-induced masseter muscle rigidity during bronchoscopic removal of a tracheal foreign body.",
+        "Masseter muscle rigidity during general anesthesia is considered an early warning sign of a possible episode of malignant hyperthermia.",
+        "The decision whether to continue or discontinue the procedure depends on the urgency of the surgery and severity of masseter muscle rigidity.",
+        "Here, we describe a case of severe masseter muscle rigidity (jaw of steel) after succinylcholine (Sch) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body.",
+        "Anesthesia was continued uneventfully with propofol infusion while all facilities were available to detect and treat malignant hyperthermia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tSuccinylcholine\t<target> Succinylcholine </target> -induced masseter muscle rigidity during bronchoscopic removal of a tracheal foreign body .",
+        "D014313\tDisease\tmasseter muscle rigidity\tSuccinylcholine-induced <target> masseter muscle rigidity </target> during bronchoscopic removal of a tracheal foreign body .",
+        "D014313\tDisease\tMasseter muscle rigidity\t<target> Masseter muscle rigidity </target> during general anesthesia is considered an early warning sign of a possible episode of malignant hyperthermia .",
+        "D008305\tDisease\tmalignant hyperthermia\tMasseter muscle rigidity during general anesthesia is considered an early warning sign of a possible episode of <target> malignant hyperthermia </target> .",
+        "D014313\tDisease\tmasseter muscle rigidity\tThe decision whether to continue or discontinue the procedure depends on the urgency of the surgery and severity of <target> masseter muscle rigidity </target> .",
+        "D014313\tDisease\tmasseter muscle rigidity\tHere , we describe a case of severe <target> masseter muscle rigidity </target> ( jaw of steel ) after succinylcholine ( Sch ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D014313\tDisease\tjaw of steel\tHere , we describe a case of severe masseter muscle rigidity ( <target> jaw of steel </target> ) after succinylcholine ( Sch ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D013390\tChemical\tsuccinylcholine\tHere , we describe a case of severe masseter muscle rigidity ( jaw of steel ) after <target> succinylcholine </target> ( Sch ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D013390\tChemical\tSch\tHere , we describe a case of severe masseter muscle rigidity ( jaw of steel ) after succinylcholine ( <target> Sch </target> ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D015742\tChemical\tpropofol\tAnesthesia was continued uneventfully with <target> propofol </target> infusion while all facilities were available to detect and treat malignant hyperthermia .",
+        "D008305\tDisease\tmalignant hyperthermia\tAnesthesia was continued uneventfully with propofol infusion while all facilities were available to detect and treat <target> malignant hyperthermia </target> ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tSuccinylcholine\t<target> succinylcholine </target> -induced masseter muscle rigidity during bronchoscopic removal of a tracheal foreign body .",
+        "D014313\tDisease\tmasseter muscle rigidity\tsuccinylcholine-induced <target> masseter muscle rigidity </target> during bronchoscopic removal of a tracheal foreign body .",
+        "D014313\tDisease\tMasseter muscle rigidity\t<target> masseter muscle rigidity </target> during general anesthesia be consider an early warning sign of a possible episode of malignant hyperthermia .",
+        "D008305\tDisease\tmalignant hyperthermia\tmasseter muscle rigidity during general anesthesia be consider an early warning sign of a possible episode of <target> malignant hyperthermia </target> .",
+        "D014313\tDisease\tmasseter muscle rigidity\tthe decision whether to continue or discontinue the procedure depend on the urgency of the surgery and severity of <target> masseter muscle rigidity </target> .",
+        "D014313\tDisease\tmasseter muscle rigidity\there , we describe a case of severe <target> masseter muscle rigidity </target> ( jaw of steel ) after succinylcholine ( sch ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D014313\tDisease\tjaw of steel\there , we describe a case of severe masseter muscle rigidity ( <target> jaw of steel </target> ) after succinylcholine ( sch ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D013390\tChemical\tsuccinylcholine\there , we describe a case of severe masseter muscle rigidity ( jaw of steel ) after <target> succinylcholine </target> ( sch ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D013390\tChemical\tSch\there , we describe a case of severe masseter muscle rigidity ( jaw of steel ) after succinylcholine ( <target> sch </target> ) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body .",
+        "D015742\tChemical\tpropofol\tAnesthesia be continue uneventfully with <target> propofol </target> infusion while all facility be available to detect and treat malignant hyperthermia .",
+        "D008305\tDisease\tmalignant hyperthermia\tAnesthesia be continue uneventfully with propofol infusion while all facility be available to detect and treat <target> malignant hyperthermia </target> ."
+    ]
+}

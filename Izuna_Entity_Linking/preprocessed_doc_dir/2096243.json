@@ -1,0 +1,120 @@
+{
+    "title": "Carmofur-induced organic mental disorders.",
+    "abst": "Organic mental disorder was observed in a 29-year-old female in the prognostic period after the onset of carmofur-induced leukoencephalopathy. Symptoms such as euphoria, emotional lability and puerile attitude noted in the patient were diagnosed as organic personality syndrome according to the criteria defined in the DSM-III-R. It is referred to as a frontal lobe syndrome. Brain CT revealed a periventricular low density area in the frontal white matter and moderate dilatation of the lateral ventricles especially at the bilateral anterior horns. Consequently, carmofur-induced leukoencephalopathy may uncommonly result in organic personality syndrome in the residual state. It may be attributed to the structural damage to the frontal lobe.",
+    "title_plus_abst": "Carmofur-induced organic mental disorders. Organic mental disorder was observed in a 29-year-old female in the prognostic period after the onset of carmofur-induced leukoencephalopathy. Symptoms such as euphoria, emotional lability and puerile attitude noted in the patient were diagnosed as organic personality syndrome according to the criteria defined in the DSM-III-R. It is referred to as a frontal lobe syndrome. Brain CT revealed a periventricular low density area in the frontal white matter and moderate dilatation of the lateral ventricles especially at the bilateral anterior horns. Consequently, carmofur-induced leukoencephalopathy may uncommonly result in organic personality syndrome in the residual state. It may be attributed to the structural damage to the frontal lobe.",
+    "pubmed_id": "2096243",
+    "entities": [
+        [
+            0,
+            8,
+            "Carmofur",
+            "Chemical",
+            "C017367"
+        ],
+        [
+            17,
+            41,
+            "organic mental disorders",
+            "Disease",
+            "D019965"
+        ],
+        [
+            43,
+            66,
+            "Organic mental disorder",
+            "Disease",
+            "D019965"
+        ],
+        [
+            148,
+            156,
+            "carmofur",
+            "Chemical",
+            "C017367"
+        ],
+        [
+            165,
+            184,
+            "leukoencephalopathy",
+            "Disease",
+            "D056784"
+        ],
+        [
+            292,
+            320,
+            "organic personality syndrome",
+            "Disease",
+            "D010554"
+        ],
+        [
+            396,
+            417,
+            "frontal lobe syndrome",
+            "Disease",
+            "D001927"
+        ],
+        [
+            608,
+            616,
+            "carmofur",
+            "Chemical",
+            "C017367"
+        ],
+        [
+            625,
+            644,
+            "leukoencephalopathy",
+            "Disease",
+            "D056784"
+        ],
+        [
+            670,
+            698,
+            "organic personality syndrome",
+            "Disease",
+            "D010554"
+        ],
+        [
+            750,
+            787,
+            "structural damage to the frontal lobe",
+            "Disease",
+            "D001927"
+        ]
+    ],
+    "split_sentence": [
+        "Carmofur-induced organic mental disorders.",
+        "Organic mental disorder was observed in a 29-year-old female in the prognostic period after the onset of carmofur-induced leukoencephalopathy.",
+        "Symptoms such as euphoria, emotional lability and puerile attitude noted in the patient were diagnosed as organic personality syndrome according to the criteria defined in the DSM-III-R. It is referred to as a frontal lobe syndrome.",
+        "Brain CT revealed a periventricular low density area in the frontal white matter and moderate dilatation of the lateral ventricles especially at the bilateral anterior horns.",
+        "Consequently, carmofur-induced leukoencephalopathy may uncommonly result in organic personality syndrome in the residual state.",
+        "It may be attributed to the structural damage to the frontal lobe."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C017367\tChemical\tCarmofur\t<target> Carmofur </target> -induced organic mental disorders .",
+        "D019965\tDisease\torganic mental disorders\tCarmofur-induced <target> organic mental disorders </target> .",
+        "D019965\tDisease\tOrganic mental disorder\t<target> Organic mental disorder </target> was observed in a 29-year-old female in the prognostic period after the onset of carmofur-induced leukoencephalopathy .",
+        "C017367\tChemical\tcarmofur\tOrganic mental disorder was observed in a 29-year-old female in the prognostic period after the onset of <target> carmofur </target> -induced leukoencephalopathy .",
+        "D056784\tDisease\tleukoencephalopathy\tOrganic mental disorder was observed in a 29-year-old female in the prognostic period after the onset of carmofur-induced <target> leukoencephalopathy </target> .",
+        "D010554\tDisease\torganic personality syndrome\tSymptoms such as euphoria , emotional lability and puerile attitude noted in the patient were diagnosed as <target> organic personality syndrome </target> according to the criteria defined in the DSM-III-R. It is referred to as a frontal lobe syndrome .",
+        "D001927\tDisease\tfrontal lobe syndrome\tSymptoms such as euphoria , emotional lability and puerile attitude noted in the patient were diagnosed as organic personality syndrome according to the criteria defined in the DSM-III-R. It is referred to as a <target> frontal lobe syndrome </target> .",
+        "C017367\tChemical\tcarmofur\tConsequently , <target> carmofur </target> -induced leukoencephalopathy may uncommonly result in organic personality syndrome in the residual state .",
+        "D056784\tDisease\tleukoencephalopathy\tConsequently , carmofur-induced <target> leukoencephalopathy </target> may uncommonly result in organic personality syndrome in the residual state .",
+        "D010554\tDisease\torganic personality syndrome\tConsequently , carmofur-induced leukoencephalopathy may uncommonly result in <target> organic personality syndrome </target> in the residual state .",
+        "D001927\tDisease\tstructural damage to the frontal lobe\tIt may be attributed to the <target> structural damage to the frontal lobe </target> ."
+    ],
+    "lines_lemma": [
+        "C017367\tChemical\tCarmofur\t<target> Carmofur </target> -induced organic mental disorder .",
+        "D019965\tDisease\torganic mental disorders\tcarmofur-induced <target> organic mental disorder </target> .",
+        "D019965\tDisease\tOrganic mental disorder\t<target> organic mental disorder </target> be observe in a 29-year-old female in the prognostic period after the onset of carmofur-induced leukoencephalopathy .",
+        "C017367\tChemical\tcarmofur\torganic mental disorder be observe in a 29-year-old female in the prognostic period after the onset of <target> carmofur </target> -induced leukoencephalopathy .",
+        "D056784\tDisease\tleukoencephalopathy\torganic mental disorder be observe in a 29-year-old female in the prognostic period after the onset of carmofur-induced <target> leukoencephalopathy </target> .",
+        "D010554\tDisease\torganic personality syndrome\tsymptom such as euphoria , emotional lability and puerile attitude note in the patient be diagnose as <target> organic personality syndrome </target> accord to the criterion define in the DSM-III-R. it be refer to as a frontal lobe syndrome .",
+        "D001927\tDisease\tfrontal lobe syndrome\tsymptom such as euphoria , emotional lability and puerile attitude note in the patient be diagnose as organic personality syndrome accord to the criterion define in the DSM-III-R. it be refer to as a <target> frontal lobe syndrome </target> .",
+        "C017367\tChemical\tcarmofur\tconsequently , <target> carmofur </target> -induced leukoencephalopathy may uncommonly result in organic personality syndrome in the residual state .",
+        "D056784\tDisease\tleukoencephalopathy\tconsequently , carmofur-induced <target> leukoencephalopathy </target> may uncommonly result in organic personality syndrome in the residual state .",
+        "D010554\tDisease\torganic personality syndrome\tconsequently , carmofur-induced leukoencephalopathy may uncommonly result in <target> organic personality syndrome </target> in the residual state .",
+        "D001927\tDisease\tstructural damage to the frontal lobe\tit may be attribute to the <target> structural damage to the frontal lobe </target> ."
+    ]
+}

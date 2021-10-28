@@ -1,0 +1,173 @@
+{
+    "title": "Lamotrigine associated with exacerbation or de novo myoclonus in idiopathic generalized epilepsies.",
+    "abst": "Five patients with idiopathic generalized epilepsies (IGE) treated with lamotrigine (LTG) experienced exacerbation or de novo appearance of myoclonic jerks (MJ). In three patients, LTG exacerbated MJ in a dose-dependent manner with early aggravation during titration. MJ disappeared when LTG dose was decreased by 25 to 50%. In two patients, LTG exacerbated MJ in a delayed but more severe manner, with myoclonic status that only ceased after LTG withdrawal.",
+    "title_plus_abst": "Lamotrigine associated with exacerbation or de novo myoclonus in idiopathic generalized epilepsies. Five patients with idiopathic generalized epilepsies (IGE) treated with lamotrigine (LTG) experienced exacerbation or de novo appearance of myoclonic jerks (MJ). In three patients, LTG exacerbated MJ in a dose-dependent manner with early aggravation during titration. MJ disappeared when LTG dose was decreased by 25 to 50%. In two patients, LTG exacerbated MJ in a delayed but more severe manner, with myoclonic status that only ceased after LTG withdrawal.",
+    "pubmed_id": "16157917",
+    "entities": [
+        [
+            0,
+            11,
+            "Lamotrigine",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            52,
+            61,
+            "myoclonus",
+            "Disease",
+            "D009207"
+        ],
+        [
+            65,
+            98,
+            "idiopathic generalized epilepsies",
+            "Disease",
+            "C562694"
+        ],
+        [
+            119,
+            152,
+            "idiopathic generalized epilepsies",
+            "Disease",
+            "C562694"
+        ],
+        [
+            154,
+            157,
+            "IGE",
+            "Disease",
+            "C562694"
+        ],
+        [
+            172,
+            183,
+            "lamotrigine",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            185,
+            188,
+            "LTG",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            240,
+            255,
+            "myoclonic jerks",
+            "Disease",
+            "D009207"
+        ],
+        [
+            257,
+            259,
+            "MJ",
+            "Disease",
+            "D009207"
+        ],
+        [
+            281,
+            284,
+            "LTG",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            297,
+            299,
+            "MJ",
+            "Disease",
+            "D009207"
+        ],
+        [
+            368,
+            370,
+            "MJ",
+            "Disease",
+            "D009207"
+        ],
+        [
+            388,
+            391,
+            "LTG",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            442,
+            445,
+            "LTG",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            458,
+            460,
+            "MJ",
+            "Disease",
+            "D009207"
+        ],
+        [
+            503,
+            519,
+            "myoclonic status",
+            "Disease",
+            "D009207"
+        ],
+        [
+            543,
+            546,
+            "LTG",
+            "Chemical",
+            "C047781"
+        ]
+    ],
+    "split_sentence": [
+        "Lamotrigine associated with exacerbation or de novo myoclonus in idiopathic generalized epilepsies.",
+        "Five patients with idiopathic generalized epilepsies (IGE) treated with lamotrigine (LTG) experienced exacerbation or de novo appearance of myoclonic jerks (MJ).",
+        "In three patients, LTG exacerbated MJ in a dose-dependent manner with early aggravation during titration.",
+        "MJ disappeared when LTG dose was decreased by 25 to 50%.",
+        "In two patients, LTG exacerbated MJ in a delayed but more severe manner, with myoclonic status that only ceased after LTG withdrawal."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C047781\tChemical\tLamotrigine\t<target> Lamotrigine </target> associated with exacerbation or de novo myoclonus in idiopathic generalized epilepsies .",
+        "D009207\tDisease\tmyoclonus\tLamotrigine associated with exacerbation or de novo <target> myoclonus </target> in idiopathic generalized epilepsies .",
+        "C562694\tDisease\tidiopathic generalized epilepsies\tLamotrigine associated with exacerbation or de novo myoclonus in <target> idiopathic generalized epilepsies </target> .",
+        "C562694\tDisease\tidiopathic generalized epilepsies\tFive patients with <target> idiopathic generalized epilepsies </target> ( IGE ) treated with lamotrigine ( LTG ) experienced exacerbation or de novo appearance of myoclonic jerks ( MJ ) .",
+        "C562694\tDisease\tIGE\tFive patients with idiopathic generalized epilepsies ( <target> IGE </target> ) treated with lamotrigine ( LTG ) experienced exacerbation or de novo appearance of myoclonic jerks ( MJ ) .",
+        "C047781\tChemical\tlamotrigine\tFive patients with idiopathic generalized epilepsies ( IGE ) treated with <target> lamotrigine </target> ( LTG ) experienced exacerbation or de novo appearance of myoclonic jerks ( MJ ) .",
+        "C047781\tChemical\tLTG\tFive patients with idiopathic generalized epilepsies ( IGE ) treated with lamotrigine ( <target> LTG </target> ) experienced exacerbation or de novo appearance of myoclonic jerks ( MJ ) .",
+        "D009207\tDisease\tmyoclonic jerks\tFive patients with idiopathic generalized epilepsies ( IGE ) treated with lamotrigine ( LTG ) experienced exacerbation or de novo appearance of <target> myoclonic jerks </target> ( MJ ) .",
+        "D009207\tDisease\tMJ\tFive patients with idiopathic generalized epilepsies ( IGE ) treated with lamotrigine ( LTG ) experienced exacerbation or de novo appearance of myoclonic jerks ( <target> MJ </target> ) .",
+        "C047781\tChemical\tLTG\tIn three patients , <target> LTG </target> exacerbated MJ in a dose-dependent manner with early aggravation during titration .",
+        "D009207\tDisease\tMJ\tIn three patients , LTG exacerbated <target> MJ </target> in a dose-dependent manner with early aggravation during titration .",
+        "D009207\tDisease\tMJ\t<target> MJ </target> disappeared when LTG dose was decreased by 25 to 50 % .",
+        "C047781\tChemical\tLTG\tMJ disappeared when <target> LTG </target> dose was decreased by 25 to 50 % .",
+        "C047781\tChemical\tLTG\tIn two patients , <target> LTG </target> exacerbated MJ in a delayed but more severe manner , with myoclonic status that only ceased after LTG withdrawal .",
+        "D009207\tDisease\tMJ\tIn two patients , LTG exacerbated <target> MJ </target> in a delayed but more severe manner , with myoclonic status that only ceased after LTG withdrawal .",
+        "D009207\tDisease\tmyoclonic status\tIn two patients , LTG exacerbated MJ in a delayed but more severe manner , with <target> myoclonic status </target> that only ceased after LTG withdrawal .",
+        "C047781\tChemical\tLTG\tIn two patients , LTG exacerbated MJ in a delayed but more severe manner , with myoclonic status that only ceased after <target> LTG </target> withdrawal ."
+    ],
+    "lines_lemma": [
+        "C047781\tChemical\tLamotrigine\t<target> Lamotrigine </target> associate with exacerbation or de novo myoclonus in idiopathic generalized epilepsy .",
+        "D009207\tDisease\tmyoclonus\tLamotrigine associate with exacerbation or de novo <target> myoclonus </target> in idiopathic generalized epilepsy .",
+        "C562694\tDisease\tidiopathic generalized epilepsies\tLamotrigine associate with exacerbation or de novo myoclonus in <target> idiopathic generalized epilepsy </target> .",
+        "C562694\tDisease\tidiopathic generalized epilepsies\tfive patient with <target> idiopathic generalized epilepsy </target> ( ige ) treat with lamotrigine ( ltg ) experience exacerbation or de novo appearance of myoclonic jerk ( mj ) .",
+        "C562694\tDisease\tIGE\tfive patient with idiopathic generalized epilepsy ( <target> ige </target> ) treat with lamotrigine ( ltg ) experience exacerbation or de novo appearance of myoclonic jerk ( mj ) .",
+        "C047781\tChemical\tlamotrigine\tfive patient with idiopathic generalized epilepsy ( ige ) treat with <target> lamotrigine </target> ( ltg ) experience exacerbation or de novo appearance of myoclonic jerk ( mj ) .",
+        "C047781\tChemical\tLTG\tfive patient with idiopathic generalized epilepsy ( ige ) treat with lamotrigine ( <target> LTG </target> ) experience exacerbation or de novo appearance of myoclonic jerk ( mj ) .",
+        "D009207\tDisease\tmyoclonic jerks\tfive patient with idiopathic generalized epilepsy ( ige ) treat with lamotrigine ( ltg ) experience exacerbation or de novo appearance of <target> myoclonic jerk </target> ( mj ) .",
+        "D009207\tDisease\tMJ\tfive patient with idiopathic generalized epilepsy ( ige ) treat with lamotrigine ( ltg ) experience exacerbation or de novo appearance of myoclonic jerk ( <target> mj </target> ) .",
+        "C047781\tChemical\tLTG\tin three patient , <target> LTG </target> exacerbated mj in a dose-dependent manner with early aggravation during titration .",
+        "D009207\tDisease\tMJ\tin three patient , ltg exacerbate <target> mj </target> in a dose-dependent manner with early aggravation during titration .",
+        "D009207\tDisease\tMJ\t<target> mj </target> disappear when ltg dose be decrease by 25 to 50 % .",
+        "C047781\tChemical\tLTG\tmj disappear when <target> LTG </target> dose be decrease by 25 to 50 % .",
+        "C047781\tChemical\tLTG\tin two patient , <target> LTG </target> exacerbated mj in a delay but more severe manner , with myoclonic status that only cease after LTG withdrawal .",
+        "D009207\tDisease\tMJ\tin two patient , ltg exacerbate <target> mj </target> in a delay but more severe manner , with myoclonic status that only cease after LTG withdrawal .",
+        "D009207\tDisease\tmyoclonic status\tin two patient , ltg exacerbate mj in a delay but more severe manner , with <target> myoclonic status </target> that only cease after LTG withdrawal .",
+        "C047781\tChemical\tLTG\tin two patient , ltg exacerbate mj in a delay but more severe manner , with myoclonic status that only cease after <target> LTG </target> withdrawal ."
+    ]
+}

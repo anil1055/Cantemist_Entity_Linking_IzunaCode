@@ -1,0 +1,92 @@
+{
+    "title": "Myoclonic, atonic, and absence seizures following institution of carbamazepine therapy in children.",
+    "abst": "Five children, aged 3 to 11 years, treated with carbamazepine for epilepsy, had an acute aberrant reaction characterized by the onset of myoclonic, atypical absence and/or atonic (minor motor) seizures within a few days. When the carbamazepine was discontinued, two of the children returned to their former state very quickly, two had the minor motor seizures resolve in 3 and 6 months, and one had the seizures persist. The child in whom the seizures persisted was later found to have ceroid lipofuscinosis. The other children are doing well on other anticonvulsants.",
+    "title_plus_abst": "Myoclonic, atonic, and absence seizures following institution of carbamazepine therapy in children. Five children, aged 3 to 11 years, treated with carbamazepine for epilepsy, had an acute aberrant reaction characterized by the onset of myoclonic, atypical absence and/or atonic (minor motor) seizures within a few days. When the carbamazepine was discontinued, two of the children returned to their former state very quickly, two had the minor motor seizures resolve in 3 and 6 months, and one had the seizures persist. The child in whom the seizures persisted was later found to have ceroid lipofuscinosis. The other children are doing well on other anticonvulsants.",
+    "pubmed_id": "6415512",
+    "entities": [
+        [
+            65,
+            78,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            148,
+            161,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            166,
+            174,
+            "epilepsy",
+            "Disease",
+            "D004827"
+        ],
+        [
+            330,
+            343,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            451,
+            459,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            503,
+            511,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            543,
+            551,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            586,
+            607,
+            "ceroid lipofuscinosis",
+            "Disease",
+            "D009472"
+        ]
+    ],
+    "split_sentence": [
+        "Myoclonic, atonic, and absence seizures following institution of carbamazepine therapy in children.",
+        "Five children, aged 3 to 11 years, treated with carbamazepine for epilepsy, had an acute aberrant reaction characterized by the onset of myoclonic, atypical absence and/or atonic (minor motor) seizures within a few days.",
+        "When the carbamazepine was discontinued, two of the children returned to their former state very quickly, two had the minor motor seizures resolve in 3 and 6 months, and one had the seizures persist.",
+        "The child in whom the seizures persisted was later found to have ceroid lipofuscinosis.",
+        "The other children are doing well on other anticonvulsants."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002220\tChemical\tcarbamazepine\tMyoclonic , atonic , and absence seizures following institution of <target> carbamazepine </target> therapy in children .",
+        "D002220\tChemical\tcarbamazepine\tFive children , aged 3 to 11 years , treated with <target> carbamazepine </target> for epilepsy , had an acute aberrant reaction characterized by the onset of myoclonic , atypical absence and/or atonic ( minor motor ) seizures within a few days .",
+        "D004827\tDisease\tepilepsy\tFive children , aged 3 to 11 years , treated with carbamazepine for <target> epilepsy </target> , had an acute aberrant reaction characterized by the onset of myoclonic , atypical absence and/or atonic ( minor motor ) seizures within a few days .",
+        "D002220\tChemical\tcarbamazepine\tWhen the <target> carbamazepine </target> was discontinued , two of the children returned to their former state very quickly , two had the minor motor seizures resolve in 3 and 6 months , and one had the seizures persist .",
+        "D012640\tDisease\tseizures\tWhen the carbamazepine was discontinued , two of the children returned to their former state very quickly , two had the minor motor <target> seizures </target> resolve in 3 and 6 months , and one had the seizures persist .",
+        "D012640\tDisease\tseizures\tWhen the carbamazepine was discontinued , two of the children returned to their former state very quickly , two had the minor motor seizures resolve in 3 and 6 months , and one had the <target> seizures </target> persist .",
+        "D012640\tDisease\tseizures\tThe child in whom the <target> seizures </target> persisted was later found to have ceroid lipofuscinosis .",
+        "D009472\tDisease\tceroid lipofuscinosis\tThe child in whom the seizures persisted was later found to have <target> ceroid lipofuscinosis </target> ."
+    ],
+    "lines_lemma": [
+        "D002220\tChemical\tcarbamazepine\tmyoclonic , atonic , and absence seizure follow institution of <target> carbamazepine </target> therapy in child .",
+        "D002220\tChemical\tcarbamazepine\tfive child , aged 3 to 11 year , treat with <target> carbamazepine </target> for epilepsy , have an acute aberrant reaction characterize by the onset of myoclonic , atypical absence and/or atonic ( minor motor ) seizure within a few day .",
+        "D004827\tDisease\tepilepsy\tfive child , aged 3 to 11 year , treat with carbamazepine for <target> epilepsy </target> , have an acute aberrant reaction characterize by the onset of myoclonic , atypical absence and/or atonic ( minor motor ) seizure within a few day .",
+        "D002220\tChemical\tcarbamazepine\twhen the <target> carbamazepine </target> be discontinue , two of the child return to their former state very quickly , two have the minor motor seizure resolve in 3 and 6 month , and one have the seizure persist .",
+        "D012640\tDisease\tseizures\twhen the carbamazepine be discontinue , two of the child return to their former state very quickly , two have the minor motor <target> seizure </target> resolve in 3 and 6 month , and one have the seizure persist .",
+        "D012640\tDisease\tseizures\twhen the carbamazepine be discontinue , two of the child return to their former state very quickly , two have the minor motor seizure resolve in 3 and 6 month , and one have the <target> seizure </target> persist .",
+        "D012640\tDisease\tseizures\tthe child in whom the <target> seizure </target> persist be later find to have ceroid lipofuscinosis .",
+        "D009472\tDisease\tceroid lipofuscinosis\tthe child in whom the seizure persist be later find to have <target> ceroid lipofuscinosis </target> ."
+    ]
+}

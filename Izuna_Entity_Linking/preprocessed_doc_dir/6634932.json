@@ -1,0 +1,92 @@
+{
+    "title": "Sublingual absorption of the quaternary ammonium antiarrhythmic agent, UM-272.",
+    "abst": "UM-272 (N,N-dimethylpropranolol), a quaternary antiarrhythmic agent, was administered sublingually to dogs with ouabain-induced ventricular tachycardias. Both anti-arrhythmic efficacy and bioavailability were compared to oral drug. Sublingual UM-272 converted ventricular tachycardia to sinus rhythm in all 5 dogs. The area under the plasma concentration time curve at 90 min was 4-12 times greater than for oral drug, suggesting the existence of an absorption-limiting process in the intestine, and providing an alternate form of administration for quaternary drugs.",
+    "title_plus_abst": "Sublingual absorption of the quaternary ammonium antiarrhythmic agent, UM-272. UM-272 (N,N-dimethylpropranolol), a quaternary antiarrhythmic agent, was administered sublingually to dogs with ouabain-induced ventricular tachycardias. Both anti-arrhythmic efficacy and bioavailability were compared to oral drug. Sublingual UM-272 converted ventricular tachycardia to sinus rhythm in all 5 dogs. The area under the plasma concentration time curve at 90 min was 4-12 times greater than for oral drug, suggesting the existence of an absorption-limiting process in the intestine, and providing an alternate form of administration for quaternary drugs.",
+    "pubmed_id": "6634932",
+    "entities": [
+        [
+            29,
+            48,
+            "quaternary ammonium",
+            "Chemical",
+            "D000644"
+        ],
+        [
+            71,
+            77,
+            "UM-272",
+            "Chemical",
+            "C002616"
+        ],
+        [
+            79,
+            85,
+            "UM-272",
+            "Chemical",
+            "C002616"
+        ],
+        [
+            87,
+            110,
+            "N,N-dimethylpropranolol",
+            "Chemical",
+            "C002616"
+        ],
+        [
+            191,
+            198,
+            "ouabain",
+            "Chemical",
+            "D010042"
+        ],
+        [
+            207,
+            231,
+            "ventricular tachycardias",
+            "Disease",
+            "D017180"
+        ],
+        [
+            322,
+            328,
+            "UM-272",
+            "Chemical",
+            "C002616"
+        ],
+        [
+            339,
+            362,
+            "ventricular tachycardia",
+            "Disease",
+            "D017180"
+        ]
+    ],
+    "split_sentence": [
+        "Sublingual absorption of the quaternary ammonium antiarrhythmic agent, UM-272.",
+        "UM-272 (N,N-dimethylpropranolol), a quaternary antiarrhythmic agent, was administered sublingually to dogs with ouabain-induced ventricular tachycardias.",
+        "Both anti-arrhythmic efficacy and bioavailability were compared to oral drug.",
+        "Sublingual UM-272 converted ventricular tachycardia to sinus rhythm in all 5 dogs.",
+        "The area under the plasma concentration time curve at 90 min was 4-12 times greater than for oral drug, suggesting the existence of an absorption-limiting process in the intestine, and providing an alternate form of administration for quaternary drugs."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000644\tChemical\tquaternary ammonium\tSublingual absorption of the <target> quaternary ammonium </target> antiarrhythmic agent , UM-272 .",
+        "C002616\tChemical\tUM-272\tSublingual absorption of the quaternary ammonium antiarrhythmic agent , <target> UM-272 </target> .",
+        "C002616\tChemical\tUM-272\t<target> UM-272 </target> ( N , N-dimethylpropranolol ) , a quaternary antiarrhythmic agent , was administered sublingually to dogs with ouabain-induced ventricular tachycardias .",
+        "C002616\tChemical\tN,N-dimethylpropranolol\tUM-272 ( <target> N , N-dimethylpropranolol </target> ) , a quaternary antiarrhythmic agent , was administered sublingually to dogs with ouabain-induced ventricular tachycardias .",
+        "D010042\tChemical\touabain\tUM-272 ( N , N-dimethylpropranolol ) , a quaternary antiarrhythmic agent , was administered sublingually to dogs with <target> ouabain </target> -induced ventricular tachycardias .",
+        "D017180\tDisease\tventricular tachycardias\tUM-272 ( N , N-dimethylpropranolol ) , a quaternary antiarrhythmic agent , was administered sublingually to dogs with ouabain-induced <target> ventricular tachycardias </target> .",
+        "C002616\tChemical\tUM-272\tSublingual <target> UM-272 </target> converted ventricular tachycardia to sinus rhythm in all 5 dogs .",
+        "D017180\tDisease\tventricular tachycardia\tSublingual UM-272 converted <target> ventricular tachycardia </target> to sinus rhythm in all 5 dogs ."
+    ],
+    "lines_lemma": [
+        "D000644\tChemical\tquaternary ammonium\tsublingual absorption of the <target> quaternary ammonium </target> antiarrhythmic agent , um-272 .",
+        "C002616\tChemical\tUM-272\tsublingual absorption of the quaternary ammonium antiarrhythmic agent , <target> um-272 </target> .",
+        "C002616\tChemical\tUM-272\t<target> um-272 </target> ( n , n-dimethylpropranolol ) , a quaternary antiarrhythmic agent , be administer sublingually to dog with ouabain-induced ventricular tachycardia .",
+        "C002616\tChemical\tN,N-dimethylpropranolol\tum-272 ( <target> n , n-dimethylpropranolol </target> ) , a quaternary antiarrhythmic agent , be administer sublingually to dog with ouabain-induced ventricular tachycardia .",
+        "D010042\tChemical\touabain\tum-272 ( n , n-dimethylpropranolol ) , a quaternary antiarrhythmic agent , be administer sublingually to dog with <target> ouabain </target> -induced ventricular tachycardia .",
+        "D017180\tDisease\tventricular tachycardias\tum-272 ( n , n-dimethylpropranolol ) , a quaternary antiarrhythmic agent , be administer sublingually to dog with ouabain-induced <target> ventricular tachycardia </target> .",
+        "C002616\tChemical\tUM-272\tsublingual <target> um-272 </target> convert ventricular tachycardia to sinus rhythm in all 5 dog .",
+        "D017180\tDisease\tventricular tachycardia\tsublingual um-272 convert <target> ventricular tachycardia </target> to sinus rhythm in all 5 dog ."
+    ]
+}

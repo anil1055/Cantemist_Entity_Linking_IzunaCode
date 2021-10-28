@@ -1,0 +1,129 @@
+{
+    "title": "Cardiotoxic and possible leukemogenic effects of adriamycin in nonhuman primates.",
+    "abst": "10 monkeys (macaques) received adriamycin by monthly intravenous injections at 12 mg/m2 (1 mg/kg). 8 of the 10 monkeys developed congestive heart failure at an average cumulative adriamycin dose (310 mg/m2) well below that considered the safe upper limit (550 mg/m2) in man. Histologically, the myocardial lesions resembled those found in human anthracycline-induced cardiomyopathy. 1 of the 10 monkeys developed acute myeloblastic leukemia after receiving 324 mg/m2 of adriamycin; the 10th monkey is alive and well 26 months after the last dose of drug. Our results suggest that adriamycin is a more potent cardiotoxin in monkeys than in man, and that leukemia may be a consequence of prolonged treatment with this drug.",
+    "title_plus_abst": "Cardiotoxic and possible leukemogenic effects of adriamycin in nonhuman primates. 10 monkeys (macaques) received adriamycin by monthly intravenous injections at 12 mg/m2 (1 mg/kg). 8 of the 10 monkeys developed congestive heart failure at an average cumulative adriamycin dose (310 mg/m2) well below that considered the safe upper limit (550 mg/m2) in man. Histologically, the myocardial lesions resembled those found in human anthracycline-induced cardiomyopathy. 1 of the 10 monkeys developed acute myeloblastic leukemia after receiving 324 mg/m2 of adriamycin; the 10th monkey is alive and well 26 months after the last dose of drug. Our results suggest that adriamycin is a more potent cardiotoxin in monkeys than in man, and that leukemia may be a consequence of prolonged treatment with this drug.",
+    "pubmed_id": "6769133",
+    "entities": [
+        [
+            0,
+            11,
+            "Cardiotoxic",
+            "Disease",
+            "D066126"
+        ],
+        [
+            49,
+            59,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            113,
+            123,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            211,
+            235,
+            "congestive heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            261,
+            271,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            377,
+            395,
+            "myocardial lesions",
+            "Disease",
+            "D001768"
+        ],
+        [
+            427,
+            440,
+            "anthracycline",
+            "Chemical",
+            "D018943"
+        ],
+        [
+            449,
+            463,
+            "cardiomyopathy",
+            "Disease",
+            "D009202"
+        ],
+        [
+            495,
+            522,
+            "acute myeloblastic leukemia",
+            "Disease",
+            "D015470"
+        ],
+        [
+            552,
+            562,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            662,
+            672,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            735,
+            743,
+            "leukemia",
+            "Disease",
+            "D007938"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiotoxic and possible leukemogenic effects of adriamycin in nonhuman primates.",
+        "10 monkeys (macaques) received adriamycin by monthly intravenous injections at 12 mg/m2 (1 mg/kg).",
+        "8 of the 10 monkeys developed congestive heart failure at an average cumulative adriamycin dose (310 mg/m2) well below that considered the safe upper limit (550 mg/m2) in man.",
+        "Histologically, the myocardial lesions resembled those found in human anthracycline-induced cardiomyopathy.",
+        "1 of the 10 monkeys developed acute myeloblastic leukemia after receiving 324 mg/m2 of adriamycin; the 10th monkey is alive and well 26 months after the last dose of drug.",
+        "Our results suggest that adriamycin is a more potent cardiotoxin in monkeys than in man, and that leukemia may be a consequence of prolonged treatment with this drug."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D066126\tDisease\tCardiotoxic\t<target> Cardiotoxic </target> and possible leukemogenic effects of adriamycin in nonhuman primates .",
+        "D004317\tChemical\tadriamycin\tCardiotoxic and possible leukemogenic effects of <target> adriamycin </target> in nonhuman primates .",
+        "D004317\tChemical\tadriamycin\t10 monkeys ( macaques ) received <target> adriamycin </target> by monthly intravenous injections at 12 mg/m2 ( 1 mg/kg ) .",
+        "D006333\tDisease\tcongestive heart failure\t8 of the 10 monkeys developed <target> congestive heart failure </target> at an average cumulative adriamycin dose ( 310 mg/m2 ) well below that considered the safe upper limit ( 550 mg/m2 ) in man .",
+        "D004317\tChemical\tadriamycin\t8 of the 10 monkeys developed congestive heart failure at an average cumulative <target> adriamycin </target> dose ( 310 mg/m2 ) well below that considered the safe upper limit ( 550 mg/m2 ) in man .",
+        "D001768\tDisease\tmyocardial lesions\tHistologically , the <target> myocardial lesions </target> resembled those found in human anthracycline-induced cardiomyopathy .",
+        "D018943\tChemical\tanthracycline\tHistologically , the myocardial lesions resembled those found in human <target> anthracycline </target> -induced cardiomyopathy .",
+        "D009202\tDisease\tcardiomyopathy\tHistologically , the myocardial lesions resembled those found in human anthracycline-induced <target> cardiomyopathy </target> .",
+        "D015470\tDisease\tacute myeloblastic leukemia\t1 of the 10 monkeys developed <target> acute myeloblastic leukemia </target> after receiving 324 mg/m2 of adriamycin ; the 10th monkey is alive and well 26 months after the last dose of drug .",
+        "D004317\tChemical\tadriamycin\t1 of the 10 monkeys developed acute myeloblastic leukemia after receiving 324 mg/m2 of <target> adriamycin </target> ; the 10th monkey is alive and well 26 months after the last dose of drug .",
+        "D004317\tChemical\tadriamycin\tOur results suggest that <target> adriamycin </target> is a more potent cardiotoxin in monkeys than in man , and that leukemia may be a consequence of prolonged treatment with this drug .",
+        "D007938\tDisease\tleukemia\tOur results suggest that adriamycin is a more potent cardiotoxin in monkeys than in man , and that <target> leukemia </target> may be a consequence of prolonged treatment with this drug ."
+    ],
+    "lines_lemma": [
+        "D066126\tDisease\tCardiotoxic\t<target> Cardiotoxic </target> and possible leukemogenic effect of adriamycin in nonhuman primate .",
+        "D004317\tChemical\tadriamycin\tcardiotoxic and possible leukemogenic effect of <target> adriamycin </target> in nonhuman primate .",
+        "D004317\tChemical\tadriamycin\t10 monkey ( macaque ) receive <target> adriamycin </target> by monthly intravenous injection at 12 mg/m2 ( 1 mg/kg ) .",
+        "D006333\tDisease\tcongestive heart failure\t8 of the 10 monkey develop <target> congestive heart failure </target> at an average cumulative adriamycin dose ( 310 mg/m2 ) well below that consider the safe upper limit ( 550 mg/m2 ) in man .",
+        "D004317\tChemical\tadriamycin\t8 of the 10 monkey develop congestive heart failure at an average cumulative <target> adriamycin </target> dose ( 310 mg/m2 ) well below that consider the safe upper limit ( 550 mg/m2 ) in man .",
+        "D001768\tDisease\tmyocardial lesions\thistologically , the <target> myocardial lesion </target> resemble those find in human anthracycline-induced cardiomyopathy .",
+        "D018943\tChemical\tanthracycline\thistologically , the myocardial lesion resemble those find in human <target> anthracycline </target> -induced cardiomyopathy .",
+        "D009202\tDisease\tcardiomyopathy\thistologically , the myocardial lesion resemble those find in human anthracycline-induced <target> cardiomyopathy </target> .",
+        "D015470\tDisease\tacute myeloblastic leukemia\t1 of the 10 monkey develop <target> acute myeloblastic leukemia </target> after receive 324 mg/m2 of adriamycin ; the 10th monkey be alive and well 26 month after the last dose of drug .",
+        "D004317\tChemical\tadriamycin\t1 of the 10 monkey develop acute myeloblastic leukemia after receive 324 mg/m2 of <target> adriamycin </target> ; the 10th monkey be alive and well 26 month after the last dose of drug .",
+        "D004317\tChemical\tadriamycin\tour result suggest that <target> adriamycin </target> be a more potent cardiotoxin in monkey than in man , and that leukemia may be a consequence of prolonged treatment with this drug .",
+        "D007938\tDisease\tleukemia\tour result suggest that adriamycin be a more potent cardiotoxin in monkey than in man , and that <target> leukemia </target> may be a consequence of prolonged treatment with this drug ."
+    ]
+}

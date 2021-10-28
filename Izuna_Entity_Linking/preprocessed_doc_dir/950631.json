@@ -1,0 +1,76 @@
+{
+    "title": "Immunopathology of penicillamine-induced glomerular disease.",
+    "abst": "Four patients with rheumatoid arthritis developed heavy proteinuria after five to 12 months of treatment with D-penicillamine. Light microscopy of renal biopsy samples showed minimal glomerular capillary wall thickening and mesangial matrix increase, or no departure from normal. Electron microscopy, however, revealed subepithelial electron-dense deposits, fusion of epithelial cell foot processes, and evidence of mesangial cell hyperactivity. Immunofluorescence microscopy demonstrated granular capillary wall deposits of IgG and C3. The findings were similar to those in early membranous glomerulonephritis, differences being observed however in the results of staining for the early-acting complement components C1q and C4. It is tentatively concluded that complement was activated by the classical pathway.",
+    "title_plus_abst": "Immunopathology of penicillamine-induced glomerular disease. Four patients with rheumatoid arthritis developed heavy proteinuria after five to 12 months of treatment with D-penicillamine. Light microscopy of renal biopsy samples showed minimal glomerular capillary wall thickening and mesangial matrix increase, or no departure from normal. Electron microscopy, however, revealed subepithelial electron-dense deposits, fusion of epithelial cell foot processes, and evidence of mesangial cell hyperactivity. Immunofluorescence microscopy demonstrated granular capillary wall deposits of IgG and C3. The findings were similar to those in early membranous glomerulonephritis, differences being observed however in the results of staining for the early-acting complement components C1q and C4. It is tentatively concluded that complement was activated by the classical pathway.",
+    "pubmed_id": "950631",
+    "entities": [
+        [
+            19,
+            32,
+            "penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            41,
+            59,
+            "glomerular disease",
+            "Disease",
+            "D007674"
+        ],
+        [
+            80,
+            100,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            117,
+            128,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            171,
+            186,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            642,
+            671,
+            "membranous glomerulonephritis",
+            "Disease",
+            "D015433"
+        ]
+    ],
+    "split_sentence": [
+        "Immunopathology of penicillamine-induced glomerular disease.",
+        "Four patients with rheumatoid arthritis developed heavy proteinuria after five to 12 months of treatment with D-penicillamine.",
+        "Light microscopy of renal biopsy samples showed minimal glomerular capillary wall thickening and mesangial matrix increase, or no departure from normal.",
+        "Electron microscopy, however, revealed subepithelial electron-dense deposits, fusion of epithelial cell foot processes, and evidence of mesangial cell hyperactivity.",
+        "Immunofluorescence microscopy demonstrated granular capillary wall deposits of IgG and C3.",
+        "The findings were similar to those in early membranous glomerulonephritis, differences being observed however in the results of staining for the early-acting complement components C1q and C4.",
+        "It is tentatively concluded that complement was activated by the classical pathway."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010396\tChemical\tpenicillamine\tImmunopathology of <target> penicillamine </target> -induced glomerular disease .",
+        "D007674\tDisease\tglomerular disease\tImmunopathology of penicillamine-induced <target> glomerular disease </target> .",
+        "D001172\tDisease\trheumatoid arthritis\tFour patients with <target> rheumatoid arthritis </target> developed heavy proteinuria after five to 12 months of treatment with D-penicillamine .",
+        "D011507\tDisease\tproteinuria\tFour patients with rheumatoid arthritis developed heavy <target> proteinuria </target> after five to 12 months of treatment with D-penicillamine .",
+        "D010396\tChemical\tD-penicillamine\tFour patients with rheumatoid arthritis developed heavy proteinuria after five to 12 months of treatment with <target> D-penicillamine </target> .",
+        "D015433\tDisease\tmembranous glomerulonephritis\tThe findings were similar to those in early <target> membranous glomerulonephritis </target> , differences being observed however in the results of staining for the early-acting complement components C1q and C4 ."
+    ],
+    "lines_lemma": [
+        "D010396\tChemical\tpenicillamine\timmunopathology of <target> penicillamine </target> -induced glomerular disease .",
+        "D007674\tDisease\tglomerular disease\timmunopathology of penicillamine-induced <target> glomerular disease </target> .",
+        "D001172\tDisease\trheumatoid arthritis\tfour patient with <target> rheumatoid arthritis </target> develop heavy proteinuria after five to 12 month of treatment with d-penicillamine .",
+        "D011507\tDisease\tproteinuria\tfour patient with rheumatoid arthritis develop heavy <target> proteinuria </target> after five to 12 month of treatment with d-penicillamine .",
+        "D010396\tChemical\tD-penicillamine\tfour patient with rheumatoid arthritis develop heavy proteinuria after five to 12 month of treatment with <target> d-penicillamine </target> .",
+        "D015433\tDisease\tmembranous glomerulonephritis\tthe finding be similar to those in early <target> membranous glomerulonephritis </target> , difference be observe however in the result of staining for the early-acting complement component c1q and c4 ."
+    ]
+}

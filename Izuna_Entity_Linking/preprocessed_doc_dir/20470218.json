@@ -1,0 +1,194 @@
+{
+    "title": "Central nervous system complications during treatment of acute lymphoblastic leukemia in a single pediatric institution.",
+    "abst": "Central nervous system (CNS) complications during treatment of childhood acute lymphoblastic leukemia (ALL) remain a challenging clinical problem. Outcome improvement with more intensive chemotherapy has significantly increased the incidence and severity of adverse events. This study analyzed the incidence of neurological complications during ALL treatment in a single pediatric institution, focusing on clinical, radiological, and electrophysiological findings. Exclusion criteria included CNS leukemic infiltration at diagnosis, therapy-related peripheral neuropathy, late-onset encephalopathy, or long-term neurocognitive defects. During a 9-year period, we retrospectively collected 27 neurological events (11%) in as many patients, from 253 children enrolled in the ALL front-line protocol. CNS complications included posterior reversible leukoencephalopathy syndrome (n = 10), stroke (n = 5), temporal lobe epilepsy (n = 2), high-dose methotrexate toxicity (n = 2), syndrome of inappropriate antidiuretic hormone secretion (n = 1), and other unclassified events (n = 7). In conclusion, CNS complications are frequent events during ALL therapy, and require rapid detection and prompt treatment to limit permanent damage.",
+    "title_plus_abst": "Central nervous system complications during treatment of acute lymphoblastic leukemia in a single pediatric institution. Central nervous system (CNS) complications during treatment of childhood acute lymphoblastic leukemia (ALL) remain a challenging clinical problem. Outcome improvement with more intensive chemotherapy has significantly increased the incidence and severity of adverse events. This study analyzed the incidence of neurological complications during ALL treatment in a single pediatric institution, focusing on clinical, radiological, and electrophysiological findings. Exclusion criteria included CNS leukemic infiltration at diagnosis, therapy-related peripheral neuropathy, late-onset encephalopathy, or long-term neurocognitive defects. During a 9-year period, we retrospectively collected 27 neurological events (11%) in as many patients, from 253 children enrolled in the ALL front-line protocol. CNS complications included posterior reversible leukoencephalopathy syndrome (n = 10), stroke (n = 5), temporal lobe epilepsy (n = 2), high-dose methotrexate toxicity (n = 2), syndrome of inappropriate antidiuretic hormone secretion (n = 1), and other unclassified events (n = 7). In conclusion, CNS complications are frequent events during ALL therapy, and require rapid detection and prompt treatment to limit permanent damage.",
+    "pubmed_id": "20470218",
+    "entities": [
+        [
+            0,
+            36,
+            "Central nervous system complications",
+            "Disease",
+            "D002493"
+        ],
+        [
+            57,
+            85,
+            "acute lymphoblastic leukemia",
+            "Disease",
+            "D054198"
+        ],
+        [
+            121,
+            163,
+            "Central nervous system (CNS) complications",
+            "Disease",
+            "D002493"
+        ],
+        [
+            194,
+            222,
+            "acute lymphoblastic leukemia",
+            "Disease",
+            "D054198"
+        ],
+        [
+            224,
+            227,
+            "ALL",
+            "Disease",
+            "D054198"
+        ],
+        [
+            432,
+            458,
+            "neurological complications",
+            "Disease",
+            "D002493"
+        ],
+        [
+            466,
+            469,
+            "ALL",
+            "Disease",
+            "D054198"
+        ],
+        [
+            618,
+            639,
+            "leukemic infiltration",
+            "Disease",
+            "D017254"
+        ],
+        [
+            670,
+            691,
+            "peripheral neuropathy",
+            "Disease",
+            "D010523"
+        ],
+        [
+            704,
+            718,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            733,
+            755,
+            "neurocognitive defects",
+            "Disease",
+            "D002493"
+        ],
+        [
+            894,
+            897,
+            "ALL",
+            "Disease",
+            "D054198"
+        ],
+        [
+            967,
+            986,
+            "leukoencephalopathy",
+            "Disease",
+            "D056784"
+        ],
+        [
+            1006,
+            1012,
+            "stroke",
+            "Disease",
+            "D020521"
+        ],
+        [
+            1022,
+            1044,
+            "temporal lobe epilepsy",
+            "Disease",
+            "D004833"
+        ],
+        [
+            1064,
+            1076,
+            "methotrexate",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            1077,
+            1085,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            1107,
+            1151,
+            "inappropriate antidiuretic hormone secretion",
+            "Disease",
+            "D007177"
+        ],
+        [
+            1260,
+            1263,
+            "ALL",
+            "Disease",
+            "D054198"
+        ]
+    ],
+    "split_sentence": [
+        "Central nervous system complications during treatment of acute lymphoblastic leukemia in a single pediatric institution.",
+        "Central nervous system (CNS) complications during treatment of childhood acute lymphoblastic leukemia (ALL) remain a challenging clinical problem.",
+        "Outcome improvement with more intensive chemotherapy has significantly increased the incidence and severity of adverse events.",
+        "This study analyzed the incidence of neurological complications during ALL treatment in a single pediatric institution, focusing on clinical, radiological, and electrophysiological findings.",
+        "Exclusion criteria included CNS leukemic infiltration at diagnosis, therapy-related peripheral neuropathy, late-onset encephalopathy, or long-term neurocognitive defects.",
+        "During a 9-year period, we retrospectively collected 27 neurological events (11%) in as many patients, from 253 children enrolled in the ALL front-line protocol.",
+        "CNS complications included posterior reversible leukoencephalopathy syndrome (n = 10), stroke (n = 5), temporal lobe epilepsy (n = 2), high-dose methotrexate toxicity (n = 2), syndrome of inappropriate antidiuretic hormone secretion (n = 1), and other unclassified events (n = 7).",
+        "In conclusion, CNS complications are frequent events during ALL therapy, and require rapid detection and prompt treatment to limit permanent damage."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002493\tDisease\tCentral nervous system complications\t<target> Central nervous system complications </target> during treatment of acute lymphoblastic leukemia in a single pediatric institution .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tCentral nervous system complications during treatment of <target> acute lymphoblastic leukemia </target> in a single pediatric institution .",
+        "D002493\tDisease\tCentral nervous system (CNS) complications\t<target> Central nervous system ( CNS ) complications </target> during treatment of childhood acute lymphoblastic leukemia ( ALL ) remain a challenging clinical problem .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tCentral nervous system ( CNS ) complications during treatment of childhood <target> acute lymphoblastic leukemia </target> ( ALL ) remain a challenging clinical problem .",
+        "D054198\tDisease\tALL\tCentral nervous system ( CNS ) complications during treatment of childhood acute lymphoblastic leukemia ( <target> ALL </target> ) remain a challenging clinical problem .",
+        "D002493\tDisease\tneurological complications\tThis study analyzed the incidence of <target> neurological complications </target> during ALL treatment in a single pediatric institution , focusing on clinical , radiological , and electrophysiological findings .",
+        "D054198\tDisease\tALL\tThis study analyzed the incidence of neurological complications during <target> ALL </target> treatment in a single pediatric institution , focusing on clinical , radiological , and electrophysiological findings .",
+        "D017254\tDisease\tleukemic infiltration\tExclusion criteria included CNS <target> leukemic infiltration </target> at diagnosis , therapy-related peripheral neuropathy , late-onset encephalopathy , or long-term neurocognitive defects .",
+        "D010523\tDisease\tperipheral neuropathy\tExclusion criteria included CNS leukemic infiltration at diagnosis , therapy-related <target> peripheral neuropathy </target> , late-onset encephalopathy , or long-term neurocognitive defects .",
+        "D001927\tDisease\tencephalopathy\tExclusion criteria included CNS leukemic infiltration at diagnosis , therapy-related peripheral neuropathy , late-onset <target> encephalopathy </target> , or long-term neurocognitive defects .",
+        "D002493\tDisease\tneurocognitive defects\tExclusion criteria included CNS leukemic infiltration at diagnosis , therapy-related peripheral neuropathy , late-onset encephalopathy , or long-term <target> neurocognitive defects </target> .",
+        "D054198\tDisease\tALL\tDuring a 9-year period , we retrospectively collected 27 neurological events ( 11 % ) in as many patients , from 253 children enrolled in the <target> ALL </target> front-line protocol .",
+        "D056784\tDisease\tleukoencephalopathy\tCNS complications included posterior reversible <target> leukoencephalopathy </target> syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassified events ( n = 7 ) .",
+        "D020521\tDisease\tstroke\tCNS complications included posterior reversible leukoencephalopathy syndrome ( n = 10 ) , <target> stroke </target> ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassified events ( n = 7 ) .",
+        "D004833\tDisease\ttemporal lobe epilepsy\tCNS complications included posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , <target> temporal lobe epilepsy </target> ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassified events ( n = 7 ) .",
+        "D008727\tChemical\tmethotrexate\tCNS complications included posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose <target> methotrexate </target> toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassified events ( n = 7 ) .",
+        "D064420\tDisease\ttoxicity\tCNS complications included posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate <target> toxicity </target> ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassified events ( n = 7 ) .",
+        "D007177\tDisease\tinappropriate antidiuretic hormone secretion\tCNS complications included posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of <target> inappropriate antidiuretic hormone secretion </target> ( n = 1 ) , and other unclassified events ( n = 7 ) .",
+        "D054198\tDisease\tALL\tIn conclusion , CNS complications are frequent events during <target> ALL </target> therapy , and require rapid detection and prompt treatment to limit permanent damage ."
+    ],
+    "lines_lemma": [
+        "D002493\tDisease\tCentral nervous system complications\t<target> central nervous system complication </target> during treatment of acute lymphoblastic leukemia in a single pediatric institution .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tcentral nervous system complication during treatment of <target> acute lymphoblastic leukemia </target> in a single pediatric institution .",
+        "D002493\tDisease\tCentral nervous system (CNS) complications\t<target> central nervous system ( cns ) complication </target> during treatment of childhood acute lymphoblastic leukemia ( all ) remain a challenge clinical problem .",
+        "D054198\tDisease\tacute lymphoblastic leukemia\tcentral nervous system ( cns ) complication during treatment of childhood <target> acute lymphoblastic leukemia </target> ( all ) remain a challenge clinical problem .",
+        "D054198\tDisease\tALL\tcentral nervous system ( cns ) complication during treatment of childhood acute lymphoblastic leukemia ( <target> all </target> ) remain a challenge clinical problem .",
+        "D002493\tDisease\tneurological complications\tthis study analyze the incidence of <target> neurological complication </target> during all treatment in a single pediatric institution , focus on clinical , radiological , and electrophysiological finding .",
+        "D054198\tDisease\tALL\tthis study analyze the incidence of neurological complication during <target> all </target> treatment in a single pediatric institution , focus on clinical , radiological , and electrophysiological finding .",
+        "D017254\tDisease\tleukemic infiltration\texclusion criterion include cns <target> leukemic infiltration </target> at diagnosis , therapy-related peripheral neuropathy , late-onset encephalopathy , or long-term neurocognitive defect .",
+        "D010523\tDisease\tperipheral neuropathy\texclusion criterion include cns leukemic infiltration at diagnosis , therapy-related <target> peripheral neuropathy </target> , late-onset encephalopathy , or long-term neurocognitive defect .",
+        "D001927\tDisease\tencephalopathy\texclusion criterion include cns leukemic infiltration at diagnosis , therapy-related peripheral neuropathy , late-onset <target> encephalopathy </target> , or long-term neurocognitive defect .",
+        "D002493\tDisease\tneurocognitive defects\texclusion criterion include cns leukemic infiltration at diagnosis , therapy-related peripheral neuropathy , late-onset encephalopathy , or long-term <target> neurocognitive defect </target> .",
+        "D054198\tDisease\tALL\tduring a 9-year period , we retrospectively collect 27 neurological event ( 11 % ) in as many patient , from 253 child enrol in the <target> all </target> front-line protocol .",
+        "D056784\tDisease\tleukoencephalopathy\tcns complication include posterior reversible <target> leukoencephalopathy </target> syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassifie event ( n = 7 ) .",
+        "D020521\tDisease\tstroke\tcns complication include posterior reversible leukoencephalopathy syndrome ( n = 10 ) , <target> stroke </target> ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassifie event ( n = 7 ) .",
+        "D004833\tDisease\ttemporal lobe epilepsy\tcns complication include posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , <target> temporal lobe epilepsy </target> ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassifie event ( n = 7 ) .",
+        "D008727\tChemical\tmethotrexate\tcns complication include posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose <target> methotrexate </target> toxicity ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassifie event ( n = 7 ) .",
+        "D064420\tDisease\ttoxicity\tcns complication include posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate <target> toxicity </target> ( n = 2 ) , syndrome of inappropriate antidiuretic hormone secretion ( n = 1 ) , and other unclassifie event ( n = 7 ) .",
+        "D007177\tDisease\tinappropriate antidiuretic hormone secretion\tcns complication include posterior reversible leukoencephalopathy syndrome ( n = 10 ) , stroke ( n = 5 ) , temporal lobe epilepsy ( n = 2 ) , high-dose methotrexate toxicity ( n = 2 ) , syndrome of <target> inappropriate antidiuretic hormone secretion </target> ( n = 1 ) , and other unclassifie event ( n = 7 ) .",
+        "D054198\tDisease\tALL\tin conclusion , cns complication be frequent event during <target> all </target> therapy , and require rapid detection and prompt treatment to limit permanent damage ."
+    ]
+}

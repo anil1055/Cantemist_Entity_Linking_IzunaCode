@@ -1,0 +1,95 @@
+{
+    "title": "Blood brain barrier in right- and left-pawed female rats assessed by a new staining method.",
+    "abst": "The asymmetrical breakdown of the blood-brain barrier (BBB) was studied in female rats. Paw preference was assessed by a food reaching test. Adrenaline-induced hypertension was used to destroy the BBB, which was evaluated using triphenyltetrazolium (TTC) staining of the brain slices just after giving adrenaline for 30 s. In normal rats, the whole brain sections exhibited complete staining with TTC. After adrenaline infusion for 30 s, there were large unstained areas in the left brain in right-pawed animals, and vice versa in left-pawed animals. Similar results were obtained in seizure-induced breakdown of BBB. These results were explained by an asymmetric cerebral blood flow depending upon the paw preference in rats. It was suggested that this new method and the results are consistent with contralateral motor control that may be important in determining the dominant cerebral hemisphere in animals.",
+    "title_plus_abst": "Blood brain barrier in right- and left-pawed female rats assessed by a new staining method. The asymmetrical breakdown of the blood-brain barrier (BBB) was studied in female rats. Paw preference was assessed by a food reaching test. Adrenaline-induced hypertension was used to destroy the BBB, which was evaluated using triphenyltetrazolium (TTC) staining of the brain slices just after giving adrenaline for 30 s. In normal rats, the whole brain sections exhibited complete staining with TTC. After adrenaline infusion for 30 s, there were large unstained areas in the left brain in right-pawed animals, and vice versa in left-pawed animals. Similar results were obtained in seizure-induced breakdown of BBB. These results were explained by an asymmetric cerebral blood flow depending upon the paw preference in rats. It was suggested that this new method and the results are consistent with contralateral motor control that may be important in determining the dominant cerebral hemisphere in animals.",
+    "pubmed_id": "12487093",
+    "entities": [
+        [
+            233,
+            243,
+            "Adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            252,
+            264,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            320,
+            340,
+            "triphenyltetrazolium",
+            "Chemical",
+            "C009591"
+        ],
+        [
+            342,
+            345,
+            "TTC",
+            "Chemical",
+            "C009591"
+        ],
+        [
+            394,
+            404,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            489,
+            492,
+            "TTC",
+            "Chemical",
+            "C009591"
+        ],
+        [
+            500,
+            510,
+            "adrenaline",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            676,
+            683,
+            "seizure",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Blood brain barrier in right- and left-pawed female rats assessed by a new staining method.",
+        "The asymmetrical breakdown of the blood-brain barrier (BBB) was studied in female rats.",
+        "Paw preference was assessed by a food reaching test.",
+        "Adrenaline-induced hypertension was used to destroy the BBB, which was evaluated using triphenyltetrazolium (TTC) staining of the brain slices just after giving adrenaline for 30 s. In normal rats, the whole brain sections exhibited complete staining with TTC.",
+        "After adrenaline infusion for 30 s, there were large unstained areas in the left brain in right-pawed animals, and vice versa in left-pawed animals.",
+        "Similar results were obtained in seizure-induced breakdown of BBB.",
+        "These results were explained by an asymmetric cerebral blood flow depending upon the paw preference in rats.",
+        "It was suggested that this new method and the results are consistent with contralateral motor control that may be important in determining the dominant cerebral hemisphere in animals."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004837\tChemical\tAdrenaline\t<target> Adrenaline </target> -induced hypertension was used to destroy the BBB , which was evaluated using triphenyltetrazolium ( TTC ) staining of the brain slices just after giving adrenaline for 30 s. In normal rats , the whole brain sections exhibited complete staining with TTC .",
+        "D006973\tDisease\thypertension\tAdrenaline-induced <target> hypertension </target> was used to destroy the BBB , which was evaluated using triphenyltetrazolium ( TTC ) staining of the brain slices just after giving adrenaline for 30 s. In normal rats , the whole brain sections exhibited complete staining with TTC .",
+        "C009591\tChemical\ttriphenyltetrazolium\tAdrenaline-induced hypertension was used to destroy the BBB , which was evaluated using <target> triphenyltetrazolium </target> ( TTC ) staining of the brain slices just after giving adrenaline for 30 s. In normal rats , the whole brain sections exhibited complete staining with TTC .",
+        "C009591\tChemical\tTTC\tAdrenaline-induced hypertension was used to destroy the BBB , which was evaluated using triphenyltetrazolium ( <target> TTC </target> ) staining of the brain slices just after giving adrenaline for 30 s. In normal rats , the whole brain sections exhibited complete staining with TTC .",
+        "D004837\tChemical\tadrenaline\tAdrenaline-induced hypertension was used to destroy the BBB , which was evaluated using triphenyltetrazolium ( TTC ) staining of the brain slices just after giving <target> adrenaline </target> for 30 s. In normal rats , the whole brain sections exhibited complete staining with TTC .",
+        "C009591\tChemical\tTTC\tAdrenaline-induced hypertension was used to destroy the BBB , which was evaluated using triphenyltetrazolium ( TTC ) staining of the brain slices just after giving adrenaline for 30 s. In normal rats , the whole brain sections exhibited complete staining with <target> TTC </target> .",
+        "D004837\tChemical\tadrenaline\tAfter <target> adrenaline </target> infusion for 30 s , there were large unstained areas in the left brain in right-pawed animals , and vice versa in left-pawed animals .",
+        "D012640\tDisease\tseizure\tSimilar results were obtained in <target> seizure </target> -induced breakdown of BBB ."
+    ],
+    "lines_lemma": [
+        "D004837\tChemical\tAdrenaline\t<target> Adrenaline </target> -induced hypertension be use to destroy the BBB , which be evaluate use triphenyltetrazolium ( ttc ) staining of the brain slice just after give adrenaline for 30 s. in normal rat , the whole brain section exhibit complete staining with ttc .",
+        "D006973\tDisease\thypertension\tadrenaline-induced <target> hypertension </target> be use to destroy the BBB , which be evaluate use triphenyltetrazolium ( ttc ) staining of the brain slice just after give adrenaline for 30 s. in normal rat , the whole brain section exhibit complete staining with ttc .",
+        "C009591\tChemical\ttriphenyltetrazolium\tadrenaline-induced hypertension be use to destroy the BBB , which be evaluate use <target> triphenyltetrazolium </target> ( ttc ) staining of the brain slice just after give adrenaline for 30 s. in normal rat , the whole brain section exhibit complete staining with ttc .",
+        "C009591\tChemical\tTTC\tadrenaline-induced hypertension be use to destroy the BBB , which be evaluate use triphenyltetrazolium ( <target> ttc </target> ) staining of the brain slice just after give adrenaline for 30 s. in normal rat , the whole brain section exhibit complete staining with ttc .",
+        "D004837\tChemical\tadrenaline\tadrenaline-induced hypertension be use to destroy the BBB , which be evaluate use triphenyltetrazolium ( ttc ) staining of the brain slice just after give <target> adrenaline </target> for 30 s. in normal rat , the whole brain section exhibit complete staining with ttc .",
+        "C009591\tChemical\tTTC\tadrenaline-induced hypertension be use to destroy the BBB , which be evaluate use triphenyltetrazolium ( ttc ) staining of the brain slice just after give adrenaline for 30 s. in normal rat , the whole brain section exhibit complete staining with <target> ttc </target> .",
+        "D004837\tChemical\tadrenaline\tafter <target> adrenaline </target> infusion for 30 s , there be large unstaine area in the left brain in right-pawed animal , and vice versa in left-pawed animal .",
+        "D012640\tDisease\tseizure\tsimilar result be obtain in <target> seizure </target> -induced breakdown of BBB ."
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "title": "Acute psychosis due to treatment with phenytoin in a nonepileptic patient.",
+    "abst": "The development of psychosis related to antiepileptic drug treatment is usually attributed to the interaction between the epileptic brain substratum and the antiepileptic drugs. The case of a nonepileptic patient who developed psychosis following phenytoin treatment for trigeminal neuralgia is described. This case suggests that the psychotic symptoms that occur following phenytoin treatment in some epileptic patients may be the direct result of medication, unrelated to seizures.",
+    "title_plus_abst": "Acute psychosis due to treatment with phenytoin in a nonepileptic patient. The development of psychosis related to antiepileptic drug treatment is usually attributed to the interaction between the epileptic brain substratum and the antiepileptic drugs. The case of a nonepileptic patient who developed psychosis following phenytoin treatment for trigeminal neuralgia is described. This case suggests that the psychotic symptoms that occur following phenytoin treatment in some epileptic patients may be the direct result of medication, unrelated to seizures.",
+    "pubmed_id": "14698717",
+    "entities": [
+        [
+            0,
+            15,
+            "Acute psychosis",
+            "Disease",
+            "D011605"
+        ],
+        [
+            38,
+            47,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            94,
+            103,
+            "psychosis",
+            "Disease",
+            "D011605"
+        ],
+        [
+            197,
+            206,
+            "epileptic",
+            "Disease",
+            "D004827"
+        ],
+        [
+            302,
+            311,
+            "psychosis",
+            "Disease",
+            "D011605"
+        ],
+        [
+            322,
+            331,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            346,
+            366,
+            "trigeminal neuralgia",
+            "Disease",
+            "D014277"
+        ],
+        [
+            409,
+            427,
+            "psychotic symptoms",
+            "Disease",
+            "D011605"
+        ],
+        [
+            449,
+            458,
+            "phenytoin",
+            "Chemical",
+            "D010672"
+        ],
+        [
+            477,
+            486,
+            "epileptic",
+            "Disease",
+            "D004827"
+        ],
+        [
+            549,
+            557,
+            "seizures",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Acute psychosis due to treatment with phenytoin in a nonepileptic patient.",
+        "The development of psychosis related to antiepileptic drug treatment is usually attributed to the interaction between the epileptic brain substratum and the antiepileptic drugs.",
+        "The case of a nonepileptic patient who developed psychosis following phenytoin treatment for trigeminal neuralgia is described.",
+        "This case suggests that the psychotic symptoms that occur following phenytoin treatment in some epileptic patients may be the direct result of medication, unrelated to seizures."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011605\tDisease\tAcute psychosis\t<target> Acute psychosis </target> due to treatment with phenytoin in a nonepileptic patient .",
+        "D010672\tChemical\tphenytoin\tAcute psychosis due to treatment with <target> phenytoin </target> in a nonepileptic patient .",
+        "D011605\tDisease\tpsychosis\tThe development of <target> psychosis </target> related to antiepileptic drug treatment is usually attributed to the interaction between the epileptic brain substratum and the antiepileptic drugs .",
+        "D004827\tDisease\tepileptic\tThe development of psychosis related to antiepileptic drug treatment is usually attributed to the interaction between the <target> epileptic </target> brain substratum and the antiepileptic drugs .",
+        "D011605\tDisease\tpsychosis\tThe case of a nonepileptic patient who developed <target> psychosis </target> following phenytoin treatment for trigeminal neuralgia is described .",
+        "D010672\tChemical\tphenytoin\tThe case of a nonepileptic patient who developed psychosis following <target> phenytoin </target> treatment for trigeminal neuralgia is described .",
+        "D014277\tDisease\ttrigeminal neuralgia\tThe case of a nonepileptic patient who developed psychosis following phenytoin treatment for <target> trigeminal neuralgia </target> is described .",
+        "D011605\tDisease\tpsychotic symptoms\tThis case suggests that the <target> psychotic symptoms </target> that occur following phenytoin treatment in some epileptic patients may be the direct result of medication , unrelated to seizures .",
+        "D010672\tChemical\tphenytoin\tThis case suggests that the psychotic symptoms that occur following <target> phenytoin </target> treatment in some epileptic patients may be the direct result of medication , unrelated to seizures .",
+        "D004827\tDisease\tepileptic\tThis case suggests that the psychotic symptoms that occur following phenytoin treatment in some <target> epileptic </target> patients may be the direct result of medication , unrelated to seizures .",
+        "D012640\tDisease\tseizures\tThis case suggests that the psychotic symptoms that occur following phenytoin treatment in some epileptic patients may be the direct result of medication , unrelated to <target> seizures </target> ."
+    ],
+    "lines_lemma": [
+        "D011605\tDisease\tAcute psychosis\t<target> acute psychosis </target> due to treatment with phenytoin in a nonepileptic patient .",
+        "D010672\tChemical\tphenytoin\tacute psychosis due to treatment with <target> phenytoin </target> in a nonepileptic patient .",
+        "D011605\tDisease\tpsychosis\tthe development of <target> psychosis </target> related to antiepileptic drug treatment be usually attribute to the interaction between the epileptic brain substratum and the antiepileptic drug .",
+        "D004827\tDisease\tepileptic\tthe development of psychosis related to antiepileptic drug treatment be usually attribute to the interaction between the <target> epileptic </target> brain substratum and the antiepileptic drug .",
+        "D011605\tDisease\tpsychosis\tthe case of a nonepileptic patient who develop <target> psychosis </target> follow phenytoin treatment for trigeminal neuralgia be describe .",
+        "D010672\tChemical\tphenytoin\tthe case of a nonepileptic patient who develop psychosis follow <target> phenytoin </target> treatment for trigeminal neuralgia be describe .",
+        "D014277\tDisease\ttrigeminal neuralgia\tthe case of a nonepileptic patient who develop psychosis follow phenytoin treatment for <target> trigeminal neuralgia </target> be describe .",
+        "D011605\tDisease\tpsychotic symptoms\tthis case suggest that the <target> psychotic symptom </target> that occur follow phenytoin treatment in some epileptic patient may be the direct result of medication , unrelated to seizure .",
+        "D010672\tChemical\tphenytoin\tthis case suggest that the psychotic symptom that occur follow <target> phenytoin </target> treatment in some epileptic patient may be the direct result of medication , unrelated to seizure .",
+        "D004827\tDisease\tepileptic\tthis case suggest that the psychotic symptom that occur follow phenytoin treatment in some <target> epileptic </target> patient may be the direct result of medication , unrelated to seizure .",
+        "D012640\tDisease\tseizures\tthis case suggest that the psychotic symptom that occur follow phenytoin treatment in some epileptic patient may be the direct result of medication , unrelated to <target> seizure </target> ."
+    ]
+}

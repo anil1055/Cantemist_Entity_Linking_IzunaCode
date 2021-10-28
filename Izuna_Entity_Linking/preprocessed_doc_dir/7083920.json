@@ -1,0 +1,101 @@
+{
+    "title": "Further observations on the electrophysiologic effects of oral amiodarone therapy.",
+    "abst": "A case is presented of a reversible intra-Hisian block occurring under amiodarone treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormalities. His bundle recordings showed an atrial tachycardia with intermittent exit block and greatly prolonged BH and HV intervals (40 and 100 msec, respectively). Thirty days after amiodarone discontinuation, His bundle electrograms showed atrial flutter without intra-Hisian or infra-Hisian delay. Amiodarone should be used with caution during long-term oral therapy in patients with or without clear intraventricular conduction defects.",
+    "title_plus_abst": "Further observations on the electrophysiologic effects of oral amiodarone therapy. A case is presented of a reversible intra-Hisian block occurring under amiodarone treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormalities. His bundle recordings showed an atrial tachycardia with intermittent exit block and greatly prolonged BH and HV intervals (40 and 100 msec, respectively). Thirty days after amiodarone discontinuation, His bundle electrograms showed atrial flutter without intra-Hisian or infra-Hisian delay. Amiodarone should be used with caution during long-term oral therapy in patients with or without clear intraventricular conduction defects.",
+    "pubmed_id": "7083920",
+    "entities": [
+        [
+            63,
+            73,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            119,
+            137,
+            "intra-Hisian block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            154,
+            164,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            179,
+            197,
+            "atrial tachycardia",
+            "Disease",
+            "D013617"
+        ],
+        [
+            225,
+            266,
+            "intraventricular conduction abnormalities",
+            "Disease",
+            "D006345"
+        ],
+        [
+            300,
+            318,
+            "atrial tachycardia",
+            "Disease",
+            "D013617"
+        ],
+        [
+            441,
+            451,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            500,
+            514,
+            "atrial flutter",
+            "Disease",
+            "D001282"
+        ],
+        [
+            559,
+            569,
+            "Amiodarone",
+            "Chemical",
+            "D000638"
+        ]
+    ],
+    "split_sentence": [
+        "Further observations on the electrophysiologic effects of oral amiodarone therapy.",
+        "A case is presented of a reversible intra-Hisian block occurring under amiodarone treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormalities.",
+        "His bundle recordings showed an atrial tachycardia with intermittent exit block and greatly prolonged BH and HV intervals (40 and 100 msec, respectively).",
+        "Thirty days after amiodarone discontinuation, His bundle electrograms showed atrial flutter without intra-Hisian or infra-Hisian delay.",
+        "Amiodarone should be used with caution during long-term oral therapy in patients with or without clear intraventricular conduction defects."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000638\tChemical\tamiodarone\tFurther observations on the electrophysiologic effects of oral <target> amiodarone </target> therapy .",
+        "D006327\tDisease\tintra-Hisian block\tA case is presented of a reversible <target> intra-Hisian block </target> occurring under amiodarone treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormalities .",
+        "D000638\tChemical\tamiodarone\tA case is presented of a reversible intra-Hisian block occurring under <target> amiodarone </target> treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormalities .",
+        "D013617\tDisease\tatrial tachycardia\tA case is presented of a reversible intra-Hisian block occurring under amiodarone treatment for <target> atrial tachycardia </target> in a patient without clear intraventricular conduction abnormalities .",
+        "D006345\tDisease\tintraventricular conduction abnormalities\tA case is presented of a reversible intra-Hisian block occurring under amiodarone treatment for atrial tachycardia in a patient without clear <target> intraventricular conduction abnormalities </target> .",
+        "D013617\tDisease\tatrial tachycardia\tHis bundle recordings showed an <target> atrial tachycardia </target> with intermittent exit block and greatly prolonged BH and HV intervals ( 40 and 100 msec , respectively ) .",
+        "D000638\tChemical\tamiodarone\tThirty days after <target> amiodarone </target> discontinuation , His bundle electrograms showed atrial flutter without intra-Hisian or infra-Hisian delay .",
+        "D001282\tDisease\tatrial flutter\tThirty days after amiodarone discontinuation , His bundle electrograms showed <target> atrial flutter </target> without intra-Hisian or infra-Hisian delay .",
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> should be used with caution during long-term oral therapy in patients with or without clear intraventricular conduction defects ."
+    ],
+    "lines_lemma": [
+        "D000638\tChemical\tamiodarone\tfurther observation on the electrophysiologic effect of oral <target> amiodarone </target> therapy .",
+        "D006327\tDisease\tintra-Hisian block\ta case be present of a reversible <target> intra-hisian block </target> occur under amiodarone treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormality .",
+        "D000638\tChemical\tamiodarone\ta case be present of a reversible intra-hisian block occur under <target> amiodarone </target> treatment for atrial tachycardia in a patient without clear intraventricular conduction abnormality .",
+        "D013617\tDisease\tatrial tachycardia\ta case be present of a reversible intra-hisian block occur under amiodarone treatment for <target> atrial tachycardia </target> in a patient without clear intraventricular conduction abnormality .",
+        "D006345\tDisease\tintraventricular conduction abnormalities\ta case be present of a reversible intra-hisian block occur under amiodarone treatment for atrial tachycardia in a patient without clear <target> intraventricular conduction abnormality </target> .",
+        "D013617\tDisease\tatrial tachycardia\this bundle recording show an <target> atrial tachycardia </target> with intermittent exit block and greatly prolonged bh and hv interval ( 40 and 100 msec , respectively ) .",
+        "D000638\tChemical\tamiodarone\tthirty day after <target> amiodarone </target> discontinuation , his bundle electrogram show atrial flutter without intra-hisian or infra-hisian delay .",
+        "D001282\tDisease\tatrial flutter\tthirty day after amiodarone discontinuation , his bundle electrogram show <target> atrial flutter </target> without intra-hisian or infra-hisian delay .",
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> should be use with caution during long-term oral therapy in patient with or without clear intraventricular conduction defect ."
+    ]
+}

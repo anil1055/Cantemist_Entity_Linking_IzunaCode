@@ -1,0 +1,92 @@
+{
+    "title": "Circulating lysosomal enzymes and acute hepatic necrosis.",
+    "abst": "The activities of the lysosomal enzymes acid and neutral protease, N-acetylglucosaminidase, and acid phosphatase were measured in the serum of patients with fulminant hepatic failure. Acid protease (cathepsin D) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after paracetamol overdose, whereas activities were increased equally in patients with fulminant hepatic failure due to viral hepatitis whether or not they survived. A correlation was found between serum acid protease activity and prothrombin time, and the increase in cathepsin D activity was sustained over several days compared with aspartate aminotransferase, which showed a sharp early peak and then a fall. Circulating lysosomal proteases can damage other organs, and measurement of their activity may therefore be of added value in assessing prognosis in this condition.",
+    "title_plus_abst": "Circulating lysosomal enzymes and acute hepatic necrosis. The activities of the lysosomal enzymes acid and neutral protease, N-acetylglucosaminidase, and acid phosphatase were measured in the serum of patients with fulminant hepatic failure. Acid protease (cathepsin D) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after paracetamol overdose, whereas activities were increased equally in patients with fulminant hepatic failure due to viral hepatitis whether or not they survived. A correlation was found between serum acid protease activity and prothrombin time, and the increase in cathepsin D activity was sustained over several days compared with aspartate aminotransferase, which showed a sharp early peak and then a fall. Circulating lysosomal proteases can damage other organs, and measurement of their activity may therefore be of added value in assessing prognosis in this condition.",
+    "pubmed_id": "7007443",
+    "entities": [
+        [
+            34,
+            56,
+            "acute hepatic necrosis",
+            "Disease",
+            "D017114"
+        ],
+        [
+            215,
+            240,
+            "fulminant hepatic failure",
+            "Disease",
+            "D017114"
+        ],
+        [
+            370,
+            395,
+            "fulminant hepatic failure",
+            "Disease",
+            "D017114"
+        ],
+        [
+            402,
+            413,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            414,
+            422,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            483,
+            508,
+            "fulminant hepatic failure",
+            "Disease",
+            "D017114"
+        ],
+        [
+            516,
+            531,
+            "viral hepatitis",
+            "Disease",
+            "D006525"
+        ],
+        [
+            732,
+            741,
+            "aspartate",
+            "Chemical",
+            "D001224"
+        ]
+    ],
+    "split_sentence": [
+        "Circulating lysosomal enzymes and acute hepatic necrosis.",
+        "The activities of the lysosomal enzymes acid and neutral protease, N-acetylglucosaminidase, and acid phosphatase were measured in the serum of patients with fulminant hepatic failure.",
+        "Acid protease (cathepsin D) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after paracetamol overdose, whereas activities were increased equally in patients with fulminant hepatic failure due to viral hepatitis whether or not they survived.",
+        "A correlation was found between serum acid protease activity and prothrombin time, and the increase in cathepsin D activity was sustained over several days compared with aspartate aminotransferase, which showed a sharp early peak and then a fall.",
+        "Circulating lysosomal proteases can damage other organs, and measurement of their activity may therefore be of added value in assessing prognosis in this condition."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017114\tDisease\tacute hepatic necrosis\tCirculating lysosomal enzymes and <target> acute hepatic necrosis </target> .",
+        "D017114\tDisease\tfulminant hepatic failure\tThe activities of the lysosomal enzymes acid and neutral protease , N-acetylglucosaminidase , and acid phosphatase were measured in the serum of patients with <target> fulminant hepatic failure </target> .",
+        "D017114\tDisease\tfulminant hepatic failure\tAcid protease ( cathepsin D ) activity was increased about tenfold in patients who died and nearly fourfold in those who survived <target> fulminant hepatic failure </target> after paracetamol overdose , whereas activities were increased equally in patients with fulminant hepatic failure due to viral hepatitis whether or not they survived .",
+        "D000082\tChemical\tparacetamol\tAcid protease ( cathepsin D ) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after <target> paracetamol </target> overdose , whereas activities were increased equally in patients with fulminant hepatic failure due to viral hepatitis whether or not they survived .",
+        "D062787\tDisease\toverdose\tAcid protease ( cathepsin D ) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after paracetamol <target> overdose </target> , whereas activities were increased equally in patients with fulminant hepatic failure due to viral hepatitis whether or not they survived .",
+        "D017114\tDisease\tfulminant hepatic failure\tAcid protease ( cathepsin D ) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after paracetamol overdose , whereas activities were increased equally in patients with <target> fulminant hepatic failure </target> due to viral hepatitis whether or not they survived .",
+        "D006525\tDisease\tviral hepatitis\tAcid protease ( cathepsin D ) activity was increased about tenfold in patients who died and nearly fourfold in those who survived fulminant hepatic failure after paracetamol overdose , whereas activities were increased equally in patients with fulminant hepatic failure due to <target> viral hepatitis </target> whether or not they survived .",
+        "D001224\tChemical\taspartate\tA correlation was found between serum acid protease activity and prothrombin time , and the increase in cathepsin D activity was sustained over several days compared with <target> aspartate </target> aminotransferase , which showed a sharp early peak and then a fall ."
+    ],
+    "lines_lemma": [
+        "D017114\tDisease\tacute hepatic necrosis\tcirculate lysosomal enzyme and <target> acute hepatic necrosis </target> .",
+        "D017114\tDisease\tfulminant hepatic failure\tthe activity of the lysosomal enzyme acid and neutral protease , n-acetylglucosaminidase , and acid phosphatase be measure in the serum of patient with <target> fulminant hepatic failure </target> .",
+        "D017114\tDisease\tfulminant hepatic failure\tacid protease ( cathepsin d ) activity be increase about tenfold in patient who die and nearly fourfold in those who survive <target> fulminant hepatic failure </target> after paracetamol overdose , whereas activity be increase equally in patient with fulminant hepatic failure due to viral hepatitis whether or not they survive .",
+        "D000082\tChemical\tparacetamol\tacid protease ( cathepsin d ) activity be increase about tenfold in patient who die and nearly fourfold in those who survive fulminant hepatic failure after <target> paracetamol </target> overdose , whereas activity be increase equally in patient with fulminant hepatic failure due to viral hepatitis whether or not they survive .",
+        "D062787\tDisease\toverdose\tacid protease ( cathepsin d ) activity be increase about tenfold in patient who die and nearly fourfold in those who survive fulminant hepatic failure after paracetamol <target> overdose </target> , whereas activity be increase equally in patient with fulminant hepatic failure due to viral hepatitis whether or not they survive .",
+        "D017114\tDisease\tfulminant hepatic failure\tacid protease ( cathepsin d ) activity be increase about tenfold in patient who die and nearly fourfold in those who survive fulminant hepatic failure after paracetamol overdose , whereas activity be increase equally in patient with <target> fulminant hepatic failure </target> due to viral hepatitis whether or not they survive .",
+        "D006525\tDisease\tviral hepatitis\tacid protease ( cathepsin d ) activity be increase about tenfold in patient who die and nearly fourfold in those who survive fulminant hepatic failure after paracetamol overdose , whereas activity be increase equally in patient with fulminant hepatic failure due to <target> viral hepatitis </target> whether or not they survive .",
+        "D001224\tChemical\taspartate\ta correlation be find between serum acid protease activity and prothrombin time , and the increase in cathepsin d activity be sustained over several day compare with <target> aspartate </target> aminotransferase , which show a sharp early peak and then a fall ."
+    ]
+}

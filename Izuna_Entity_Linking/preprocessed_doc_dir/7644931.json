@@ -1,0 +1,175 @@
+{
+    "title": "Paclitaxel 3-hour infusion given alone and combined with carboplatin: preliminary results of dose-escalation trials.",
+    "abst": "Paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with non-small cell lung cancer. Carboplatin was given at a fixed target area under the concentration-time curve of 6.0 by the Calvert formula, whereas paclitaxel was escalated in patient cohorts from 150 mg/m2 (dose level I) to 175, 200, 225, and 250 mg/m2. The 225 mg/m2 level was expanded for the phase II study since the highest level achieved (250 mg/m2) required modification because of nonhematologic toxicities (arthralgia and sensory neuropathy). Therapeutic effects were noted at all dose levels, with objective responses in 17 (two complete and 15 partial regressions) of 41 previously untreated patients. Toxicities were compared with a cohort of patients in a phase I trial of paclitaxel alone at identical dose levels. Carboplatin did not appear to add to the hematologic toxicities observed, and the paclitaxel/carboplatin combination could be dosed every 3 weeks.",
+    "title_plus_abst": "Paclitaxel 3-hour infusion given alone and combined with carboplatin: preliminary results of dose-escalation trials. Paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with non-small cell lung cancer. Carboplatin was given at a fixed target area under the concentration-time curve of 6.0 by the Calvert formula, whereas paclitaxel was escalated in patient cohorts from 150 mg/m2 (dose level I) to 175, 200, 225, and 250 mg/m2. The 225 mg/m2 level was expanded for the phase II study since the highest level achieved (250 mg/m2) required modification because of nonhematologic toxicities (arthralgia and sensory neuropathy). Therapeutic effects were noted at all dose levels, with objective responses in 17 (two complete and 15 partial regressions) of 41 previously untreated patients. Toxicities were compared with a cohort of patients in a phase I trial of paclitaxel alone at identical dose levels. Carboplatin did not appear to add to the hematologic toxicities observed, and the paclitaxel/carboplatin combination could be dosed every 3 weeks.",
+    "pubmed_id": "7644931",
+    "entities": [
+        [
+            0,
+            10,
+            "Paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            57,
+            68,
+            "carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            117,
+            127,
+            "Paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            129,
+            134,
+            "Taxol",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            218,
+            229,
+            "carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            278,
+            304,
+            "non-small cell lung cancer",
+            "Disease",
+            "D002289"
+        ],
+        [
+            306,
+            317,
+            "Carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            425,
+            435,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            681,
+            691,
+            "toxicities",
+            "Disease",
+            "D064420"
+        ],
+        [
+            693,
+            703,
+            "arthralgia",
+            "Disease",
+            "D018771"
+        ],
+        [
+            708,
+            726,
+            "sensory neuropathy",
+            "Disease",
+            "D012678"
+        ],
+        [
+            890,
+            900,
+            "Toxicities",
+            "Disease",
+            "D064420"
+        ],
+        [
+            963,
+            973,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            1006,
+            1017,
+            "Carboplatin",
+            "Chemical",
+            "D016190"
+        ],
+        [
+            1047,
+            1069,
+            "hematologic toxicities",
+            "Disease",
+            "D006402"
+        ],
+        [
+            1088,
+            1098,
+            "paclitaxel",
+            "Chemical",
+            "D017239"
+        ],
+        [
+            1099,
+            1110,
+            "carboplatin",
+            "Chemical",
+            "D016190"
+        ]
+    ],
+    "split_sentence": [
+        "Paclitaxel 3-hour infusion given alone and combined with carboplatin: preliminary results of dose-escalation trials.",
+        "Paclitaxel (Taxol; Bristol-Myers Squibb Company, Princeton, NJ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with non-small cell lung cancer.",
+        "Carboplatin was given at a fixed target area under the concentration-time curve of 6.0 by the Calvert formula, whereas paclitaxel was escalated in patient cohorts from 150 mg/m2 (dose level I) to 175, 200, 225, and 250 mg/m2.",
+        "The 225 mg/m2 level was expanded for the phase II study since the highest level achieved (250 mg/m2) required modification because of nonhematologic toxicities (arthralgia and sensory neuropathy).",
+        "Therapeutic effects were noted at all dose levels, with objective responses in 17 (two complete and 15 partial regressions) of 41 previously untreated patients.",
+        "Toxicities were compared with a cohort of patients in a phase I trial of paclitaxel alone at identical dose levels.",
+        "Carboplatin did not appear to add to the hematologic toxicities observed, and the paclitaxel/carboplatin combination could be dosed every 3 weeks."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017239\tChemical\tPaclitaxel\t<target> Paclitaxel </target> 3-hour infusion given alone and combined with carboplatin : preliminary results of dose-escalation trials .",
+        "D016190\tChemical\tcarboplatin\tPaclitaxel 3-hour infusion given alone and combined with <target> carboplatin </target> : preliminary results of dose-escalation trials .",
+        "D017239\tChemical\tPaclitaxel\t<target> Paclitaxel </target> ( Taxol ; Bristol-Myers Squibb Company , Princeton , NJ ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with non-small cell lung cancer .",
+        "D017239\tChemical\tTaxol\tPaclitaxel ( <target> Taxol </target> ; Bristol-Myers Squibb Company , Princeton , NJ ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with non-small cell lung cancer .",
+        "D016190\tChemical\tcarboplatin\tPaclitaxel ( Taxol ; Bristol-Myers Squibb Company , Princeton , NJ ) by 3-hour infusion was combined with <target> carboplatin </target> in a phase I/II study directed to patients with non-small cell lung cancer .",
+        "D002289\tDisease\tnon-small cell lung cancer\tPaclitaxel ( Taxol ; Bristol-Myers Squibb Company , Princeton , NJ ) by 3-hour infusion was combined with carboplatin in a phase I/II study directed to patients with <target> non-small cell lung cancer </target> .",
+        "D016190\tChemical\tCarboplatin\t<target> Carboplatin </target> was given at a fixed target area under the concentration-time curve of 6.0 by the Calvert formula , whereas paclitaxel was escalated in patient cohorts from 150 mg/m2 ( dose level I ) to 175 , 200 , 225 , and 250 mg/m2 .",
+        "D017239\tChemical\tpaclitaxel\tCarboplatin was given at a fixed target area under the concentration-time curve of 6.0 by the Calvert formula , whereas <target> paclitaxel </target> was escalated in patient cohorts from 150 mg/m2 ( dose level I ) to 175 , 200 , 225 , and 250 mg/m2 .",
+        "D064420\tDisease\ttoxicities\tThe 225 mg/m2 level was expanded for the phase II study since the highest level achieved ( 250 mg/m2 ) required modification because of nonhematologic <target> toxicities </target> ( arthralgia and sensory neuropathy ) .",
+        "D018771\tDisease\tarthralgia\tThe 225 mg/m2 level was expanded for the phase II study since the highest level achieved ( 250 mg/m2 ) required modification because of nonhematologic toxicities ( <target> arthralgia </target> and sensory neuropathy ) .",
+        "D012678\tDisease\tsensory neuropathy\tThe 225 mg/m2 level was expanded for the phase II study since the highest level achieved ( 250 mg/m2 ) required modification because of nonhematologic toxicities ( arthralgia and <target> sensory neuropathy </target> ) .",
+        "D064420\tDisease\tToxicities\t<target> Toxicities </target> were compared with a cohort of patients in a phase I trial of paclitaxel alone at identical dose levels .",
+        "D017239\tChemical\tpaclitaxel\tToxicities were compared with a cohort of patients in a phase I trial of <target> paclitaxel </target> alone at identical dose levels .",
+        "D016190\tChemical\tCarboplatin\t<target> Carboplatin </target> did not appear to add to the hematologic toxicities observed , and the paclitaxel/carboplatin combination could be dosed every 3 weeks .",
+        "D006402\tDisease\thematologic toxicities\tCarboplatin did not appear to add to the <target> hematologic toxicities </target> observed , and the paclitaxel/carboplatin combination could be dosed every 3 weeks .",
+        "D017239\tChemical\tpaclitaxel\tCarboplatin did not appear to add to the hematologic toxicities observed , and the <target> paclitaxel </target> /carboplatin combination could be dosed every 3 weeks .",
+        "D016190\tChemical\tcarboplatin\tCarboplatin did not appear to add to the hematologic toxicities observed , and the paclitaxel/ <target> carboplatin </target> combination could be dosed every 3 weeks ."
+    ],
+    "lines_lemma": [
+        "D017239\tChemical\tPaclitaxel\t<target> Paclitaxel </target> 3-hour infusion give alone and combine with carboplatin : preliminary result of dose-escalation trial .",
+        "D016190\tChemical\tcarboplatin\tpaclitaxel 3-hour infusion give alone and combine with <target> carboplatin </target> : preliminary result of dose-escalation trial .",
+        "D017239\tChemical\tPaclitaxel\t<target> Paclitaxel </target> ( Taxol ; Bristol-Myers Squibb Company , Princeton , nj ) by 3-hour infusion be combine with carboplatin in a phase i/ii study direct to patient with non-small cell lung cancer .",
+        "D017239\tChemical\tTaxol\tpaclitaxel ( <target> Taxol </target> ; Bristol-Myers Squibb Company , Princeton , nj ) by 3-hour infusion be combine with carboplatin in a phase i/ii study direct to patient with non-small cell lung cancer .",
+        "D016190\tChemical\tcarboplatin\tPaclitaxel ( Taxol ; Bristol-Myers Squibb Company , Princeton , nj ) by 3-hour infusion be combine with <target> carboplatin </target> in a phase i/ii study direct to patient with non-small cell lung cancer .",
+        "D002289\tDisease\tnon-small cell lung cancer\tPaclitaxel ( Taxol ; Bristol-Myers Squibb Company , Princeton , nj ) by 3-hour infusion be combine with carboplatin in a phase i/ii study direct to patient with <target> non-small cell lung cancer </target> .",
+        "D016190\tChemical\tCarboplatin\t<target> Carboplatin </target> be give at a fixed target area under the concentration-time curve of 6.0 by the calvert formula , whereas paclitaxel be escalate in patient cohort from 150 mg/m2 ( dose level i ) to 175 , 200 , 225 , and 250 mg/m2 .",
+        "D017239\tChemical\tpaclitaxel\tCarboplatin be give at a fixed target area under the concentration-time curve of 6.0 by the calvert formula , whereas <target> paclitaxel </target> be escalate in patient cohort from 150 mg/m2 ( dose level i ) to 175 , 200 , 225 , and 250 mg/m2 .",
+        "D064420\tDisease\ttoxicities\tthe 225 mg/m2 level be expand for the phase ii study since the high level achieve ( 250 mg/m2 ) require modification because of nonhematologic <target> toxicity </target> ( arthralgia and sensory neuropathy ) .",
+        "D018771\tDisease\tarthralgia\tthe 225 mg/m2 level be expand for the phase ii study since the high level achieve ( 250 mg/m2 ) require modification because of nonhematologic toxicity ( <target> arthralgia </target> and sensory neuropathy ) .",
+        "D012678\tDisease\tsensory neuropathy\tthe 225 mg/m2 level be expand for the phase ii study since the high level achieve ( 250 mg/m2 ) require modification because of nonhematologic toxicity ( arthralgia and <target> sensory neuropathy </target> ) .",
+        "D064420\tDisease\tToxicities\t<target> toxicity </target> be compare with a cohort of patient in a phase i trial of paclitaxel alone at identical dose level .",
+        "D017239\tChemical\tpaclitaxel\ttoxicity be compare with a cohort of patient in a phase i trial of <target> paclitaxel </target> alone at identical dose level .",
+        "D016190\tChemical\tCarboplatin\t<target> Carboplatin </target> do not appear to add to the hematologic toxicity observe , and the paclitaxel/carboplatin combination could be dose every 3 week .",
+        "D006402\tDisease\thematologic toxicities\tCarboplatin do not appear to add to the <target> hematologic toxicity </target> observe , and the paclitaxel/carboplatin combination could be dose every 3 week .",
+        "D017239\tChemical\tpaclitaxel\tCarboplatin do not appear to add to the hematologic toxicity observe , and the <target> paclitaxel </target> /carboplatin combination could be dose every 3 week .",
+        "D016190\tChemical\tcarboplatin\tCarboplatin do not appear to add to the hematologic toxicity observe , and the paclitaxel/ <target> carboplatin </target> combination could be dose every 3 week ."
+    ]
+}

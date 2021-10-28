@@ -1,0 +1,85 @@
+{
+    "title": "Erectile dysfunction occurs following substantia nigra lesions in the rat.",
+    "abst": "Erectile function was assessed 6 weeks following uni- and bilateral injections of 6-hydroxydopamine in the substantia nigra nucleus of the brain. Behavioral apomorphine-induced penile erections were reduced (5/8) and increased (3/8) in uni- and bilateral lesioned animals. Intracavernous pressures, following electrical stimulation of the cavernous nerve, decreased in lesioned animals. Lesions of the substantia nigra were confirmed by histology. Concentration of dopamine and its metabolites were decreased in the striatum of substantia nigra lesioned rats. Lesions of the substantia nigra are therefore associated with erectile dysfunction in rats and may serve as a model to study erectile dysfunction in Parkinson's disease.",
+    "title_plus_abst": "Erectile dysfunction occurs following substantia nigra lesions in the rat. Erectile function was assessed 6 weeks following uni- and bilateral injections of 6-hydroxydopamine in the substantia nigra nucleus of the brain. Behavioral apomorphine-induced penile erections were reduced (5/8) and increased (3/8) in uni- and bilateral lesioned animals. Intracavernous pressures, following electrical stimulation of the cavernous nerve, decreased in lesioned animals. Lesions of the substantia nigra were confirmed by histology. Concentration of dopamine and its metabolites were decreased in the striatum of substantia nigra lesioned rats. Lesions of the substantia nigra are therefore associated with erectile dysfunction in rats and may serve as a model to study erectile dysfunction in Parkinson's disease.",
+    "pubmed_id": "11890511",
+    "entities": [
+        [
+            0,
+            20,
+            "Erectile dysfunction",
+            "Disease",
+            "D007172"
+        ],
+        [
+            157,
+            174,
+            "6-hydroxydopamine",
+            "Chemical",
+            "D016627"
+        ],
+        [
+            232,
+            243,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            540,
+            548,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            697,
+            717,
+            "erectile dysfunction",
+            "Disease",
+            "D007172"
+        ],
+        [
+            760,
+            780,
+            "erectile dysfunction",
+            "Disease",
+            "D007172"
+        ],
+        [
+            784,
+            803,
+            "Parkinson's disease",
+            "Disease",
+            "D010300"
+        ]
+    ],
+    "split_sentence": [
+        "Erectile dysfunction occurs following substantia nigra lesions in the rat.",
+        "Erectile function was assessed 6 weeks following uni- and bilateral injections of 6-hydroxydopamine in the substantia nigra nucleus of the brain.",
+        "Behavioral apomorphine-induced penile erections were reduced (5/8) and increased (3/8) in uni- and bilateral lesioned animals.",
+        "Intracavernous pressures, following electrical stimulation of the cavernous nerve, decreased in lesioned animals.",
+        "Lesions of the substantia nigra were confirmed by histology.",
+        "Concentration of dopamine and its metabolites were decreased in the striatum of substantia nigra lesioned rats.",
+        "Lesions of the substantia nigra are therefore associated with erectile dysfunction in rats and may serve as a model to study erectile dysfunction in Parkinson's disease."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007172\tDisease\tErectile dysfunction\t<target> Erectile dysfunction </target> occurs following substantia nigra lesions in the rat .",
+        "D016627\tChemical\t6-hydroxydopamine\tErectile function was assessed 6 weeks following uni- and bilateral injections of <target> 6-hydroxydopamine </target> in the substantia nigra nucleus of the brain .",
+        "D001058\tChemical\tapomorphine\tBehavioral <target> apomorphine </target> -induced penile erections were reduced ( 5/8 ) and increased ( 3/8 ) in uni- and bilateral lesioned animals .",
+        "D004298\tChemical\tdopamine\tConcentration of <target> dopamine </target> and its metabolites were decreased in the striatum of substantia nigra lesioned rats .",
+        "D007172\tDisease\terectile dysfunction\tLesions of the substantia nigra are therefore associated with <target> erectile dysfunction </target> in rats and may serve as a model to study erectile dysfunction in Parkinson 's disease .",
+        "D007172\tDisease\terectile dysfunction\tLesions of the substantia nigra are therefore associated with erectile dysfunction in rats and may serve as a model to study <target> erectile dysfunction </target> in Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tLesions of the substantia nigra are therefore associated with erectile dysfunction in rats and may serve as a model to study erectile dysfunction in <target> Parkinson 's disease </target> ."
+    ],
+    "lines_lemma": [
+        "D007172\tDisease\tErectile dysfunction\t<target> Erectile dysfunction </target> occur follow substantia nigra lesion in the rat .",
+        "D016627\tChemical\t6-hydroxydopamine\terectile function be assess 6 week follow uni- and bilateral injection of <target> 6-hydroxydopamine </target> in the substantia nigra nucleus of the brain .",
+        "D001058\tChemical\tapomorphine\tbehavioral <target> apomorphine </target> -induced penile erection be reduce ( 5/8 ) and increase ( 3/8 ) in uni- and bilateral lesione animal .",
+        "D004298\tChemical\tdopamine\tconcentration of <target> dopamine </target> and its metabolite be decrease in the striatum of substantia nigra lesione rat .",
+        "D007172\tDisease\terectile dysfunction\tlesion of the substantia nigra be therefore associate with <target> erectile dysfunction </target> in rat and may serve as a model to study erectile dysfunction in Parkinson 's disease .",
+        "D007172\tDisease\terectile dysfunction\tlesion of the substantia nigra be therefore associate with erectile dysfunction in rat and may serve as a model to study <target> erectile dysfunction </target> in Parkinson 's disease .",
+        "D010300\tDisease\tParkinson's disease\tlesion of the substantia nigra be therefore associate with erectile dysfunction in rat and may serve as a model to study erectile dysfunction in <target> Parkinson 's disease </target> ."
+    ]
+}

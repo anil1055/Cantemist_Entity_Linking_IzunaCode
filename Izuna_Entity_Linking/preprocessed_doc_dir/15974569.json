@@ -1,0 +1,108 @@
+{
+    "title": "Two prodrugs of potent and selective GluR5 kainate receptor antagonists actives in three animal models of pain.",
+    "abst": "Amino acids 5 and 7, two potent and selective competitive GluR5 KA receptor antagonists, exhibited high GluR5 receptor affinity over other glutamate receptors. Their ester prodrugs 6 and 8 were orally active in three models of pain: reversal of formalin-induced paw licking, carrageenan-induced thermal hyperalgesia, and capsaicin-induced mechanical hyperalgesia.",
+    "title_plus_abst": "Two prodrugs of potent and selective GluR5 kainate receptor antagonists actives in three animal models of pain. Amino acids 5 and 7, two potent and selective competitive GluR5 KA receptor antagonists, exhibited high GluR5 receptor affinity over other glutamate receptors. Their ester prodrugs 6 and 8 were orally active in three models of pain: reversal of formalin-induced paw licking, carrageenan-induced thermal hyperalgesia, and capsaicin-induced mechanical hyperalgesia.",
+    "pubmed_id": "15974569",
+    "entities": [
+        [
+            43,
+            50,
+            "kainate",
+            "Chemical",
+            "D007608"
+        ],
+        [
+            106,
+            110,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            176,
+            178,
+            "KA",
+            "Chemical",
+            "D007608"
+        ],
+        [
+            251,
+            260,
+            "glutamate",
+            "Chemical",
+            "D018698"
+        ],
+        [
+            339,
+            343,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            357,
+            365,
+            "formalin",
+            "Chemical",
+            "D005557"
+        ],
+        [
+            387,
+            398,
+            "carrageenan",
+            "Chemical",
+            "D002351"
+        ],
+        [
+            407,
+            427,
+            "thermal hyperalgesia",
+            "Disease",
+            "D006930"
+        ],
+        [
+            433,
+            442,
+            "capsaicin",
+            "Chemical",
+            "D002211"
+        ],
+        [
+            451,
+            474,
+            "mechanical hyperalgesia",
+            "Disease",
+            "D006930"
+        ]
+    ],
+    "split_sentence": [
+        "Two prodrugs of potent and selective GluR5 kainate receptor antagonists actives in three animal models of pain.",
+        "Amino acids 5 and 7, two potent and selective competitive GluR5 KA receptor antagonists, exhibited high GluR5 receptor affinity over other glutamate receptors.",
+        "Their ester prodrugs 6 and 8 were orally active in three models of pain: reversal of formalin-induced paw licking, carrageenan-induced thermal hyperalgesia, and capsaicin-induced mechanical hyperalgesia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007608\tChemical\tkainate\tTwo prodrugs of potent and selective GluR5 <target> kainate </target> receptor antagonists actives in three animal models of pain .",
+        "D010146\tDisease\tpain\tTwo prodrugs of potent and selective GluR5 kainate receptor antagonists actives in three animal models of <target> pain </target> .",
+        "D007608\tChemical\tKA\tAmino acids 5 and 7 , two potent and selective competitive GluR5 <target> KA </target> receptor antagonists , exhibited high GluR5 receptor affinity over other glutamate receptors .",
+        "D018698\tChemical\tglutamate\tAmino acids 5 and 7 , two potent and selective competitive GluR5 KA receptor antagonists , exhibited high GluR5 receptor affinity over other <target> glutamate </target> receptors .",
+        "D010146\tDisease\tpain\tTheir ester prodrugs 6 and 8 were orally active in three models of <target> pain </target> : reversal of formalin-induced paw licking , carrageenan-induced thermal hyperalgesia , and capsaicin-induced mechanical hyperalgesia .",
+        "D005557\tChemical\tformalin\tTheir ester prodrugs 6 and 8 were orally active in three models of pain : reversal of <target> formalin </target> -induced paw licking , carrageenan-induced thermal hyperalgesia , and capsaicin-induced mechanical hyperalgesia .",
+        "D002351\tChemical\tcarrageenan\tTheir ester prodrugs 6 and 8 were orally active in three models of pain : reversal of formalin-induced paw licking , <target> carrageenan </target> -induced thermal hyperalgesia , and capsaicin-induced mechanical hyperalgesia .",
+        "D006930\tDisease\tthermal hyperalgesia\tTheir ester prodrugs 6 and 8 were orally active in three models of pain : reversal of formalin-induced paw licking , carrageenan-induced <target> thermal hyperalgesia </target> , and capsaicin-induced mechanical hyperalgesia .",
+        "D002211\tChemical\tcapsaicin\tTheir ester prodrugs 6 and 8 were orally active in three models of pain : reversal of formalin-induced paw licking , carrageenan-induced thermal hyperalgesia , and <target> capsaicin </target> -induced mechanical hyperalgesia .",
+        "D006930\tDisease\tmechanical hyperalgesia\tTheir ester prodrugs 6 and 8 were orally active in three models of pain : reversal of formalin-induced paw licking , carrageenan-induced thermal hyperalgesia , and capsaicin-induced <target> mechanical hyperalgesia </target> ."
+    ],
+    "lines_lemma": [
+        "D007608\tChemical\tkainate\ttwo prodrug of potent and selective glur5 <target> kainate </target> receptor antagonist active in three animal model of pain .",
+        "D010146\tDisease\tpain\ttwo prodrug of potent and selective glur5 kainate receptor antagonist active in three animal model of <target> pain </target> .",
+        "D007608\tChemical\tKA\tamino acid 5 and 7 , two potent and selective competitive glur5 <target> ka </target> receptor antagonist , exhibit high glur5 receptor affinity over other glutamate receptor .",
+        "D018698\tChemical\tglutamate\tamino acid 5 and 7 , two potent and selective competitive glur5 ka receptor antagonist , exhibit high glur5 receptor affinity over other <target> glutamate </target> receptor .",
+        "D010146\tDisease\tpain\ttheir ester prodrug 6 and 8 be orally active in three model of <target> pain </target> : reversal of formalin-induced paw licking , carrageenan-induced thermal hyperalgesia , and capsaicin-induced mechanical hyperalgesia .",
+        "D005557\tChemical\tformalin\ttheir ester prodrug 6 and 8 be orally active in three model of pain : reversal of <target> formalin </target> -induced paw licking , carrageenan-induced thermal hyperalgesia , and capsaicin-induced mechanical hyperalgesia .",
+        "D002351\tChemical\tcarrageenan\ttheir ester prodrug 6 and 8 be orally active in three model of pain : reversal of formalin-induced paw licking , <target> carrageenan </target> -induced thermal hyperalgesia , and capsaicin-induced mechanical hyperalgesia .",
+        "D006930\tDisease\tthermal hyperalgesia\ttheir ester prodrug 6 and 8 be orally active in three model of pain : reversal of formalin-induced paw licking , carrageenan-induced <target> thermal hyperalgesia </target> , and capsaicin-induced mechanical hyperalgesia .",
+        "D002211\tChemical\tcapsaicin\ttheir ester prodrug 6 and 8 be orally active in three model of pain : reversal of formalin-induced paw licking , carrageenan-induced thermal hyperalgesia , and <target> capsaicin </target> -induced mechanical hyperalgesia .",
+        "D006930\tDisease\tmechanical hyperalgesia\ttheir ester prodrug 6 and 8 be orally active in three model of pain : reversal of formalin-induced paw licking , carrageenan-induced thermal hyperalgesia , and capsaicin-induced <target> mechanical hyperalgesia </target> ."
+    ]
+}

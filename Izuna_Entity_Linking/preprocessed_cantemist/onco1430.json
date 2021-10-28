@@ -1,0 +1,79 @@
+{
+    "entities": [
+        [
+            1804,
+            1810,
+            "Cáncer",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/3"
+        ],
+        [
+            1198,
+            1241,
+            "adenocarcinoma seroso papilar de alto grado",
+            "MORFOLOGIA_NEOPLASIA",
+            "8460/34"
+        ],
+        [
+            711,
+            735,
+            "carcinoma indiferenciado",
+            "MORFOLOGIA_NEOPLASIA",
+            "8020/3"
+        ],
+        [
+            1303,
+            1315,
+            "metastatizan",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "<objetivo> Cáncer </objetivo> de ovario estadio IIIC intervenido (enfermedad ganglionar retroperitoneal residual).",
+        "Biopsia de útero:  <objetivo> adenocarcinoma seroso papilar de alto grado </objetivo> (escasamente diferenciado) con amplias áreas de necrosis que metastatizan en adenopatías ilíacas.",
+        "Con estos hallazgos, la paciente es trasladada a Ginecología para cirugía el día 28/1/13 (histerectomía, anexectomía izquierda, omentectomía supramesocólica, hemicolectomía derecha con lavado peritoneal y exérsis de adenopatía iliaca derecha con biopsia intraoperatoria positiva para  <objetivo> carcinoma indiferenciado </objetivo> .",
+        "Biopsia de útero: adenocarcinoma seroso papilar de alto grado (escasamente diferenciado) con amplias áreas de necrosis que  <objetivo> metastatizan </objetivo> en adenopatías ilíacas."
+    ],
+    "lines_lemma": [
+        "<objetivo> Cáncer </objetivo> de ovario estadio IIIC intervenido ( enfermedad ganglionar retroperitoneal residual ) .",
+        "Biopsia de útero :   <objetivo> adenocarcinomar seroso papilar de alto grado </objetivo> ( escasamente diferenciado ) con amplio área de necrosis que metastatizar en adenopatía ilíaca .",
+        "con este hallazgo , el paciente ser trasladar a Ginecología para cirugía el día 28/1/13 ( histerectomía , anexectomío izquierdo , omentectomía supramesocólico , hemicolectomíar derecha con lavado peritoneal y exérsis de adenopatía iliaco derecho con biopsia intraoperatorio positivo para   <objetivo> carcinomar indiferenciado </objetivo> .",
+        "Biopsia de útero : adenocarcinomar seroso papilar de alto grado ( escasamente diferenciado ) con amplio área de necrosis que   <objetivo> metastatizar </objetivo> en adenopatía ilíaca ."
+    ],
+    "pubmed_id": "onco1430",
+    "split_sentence": [
+        "Anamnesis",
+        "Mujer de 59 años, sin antecedentes de interés, que ingresa en diciembre de 2012 en Neurología por mareo rotatorio, alteración de la marcha y del equilibrio.",
+        "Destacar de entre las pruebas realizadas, hallazgos sugestivos de enfermedad leptomeníngea cerebelosa en la resonancia magnética (RM) cerebral y en la tomografía computarizada (TC) toracoabdominal masa ovárica derecha, adenopatías ilíacas y retroperitoneales.",
+        "Con estos hallazgos, la paciente es trasladada a Ginecología para cirugía el día 28/1/13 (histerectomía, anexectomía izquierda, omentectomía supramesocólica, hemicolectomía derecha con lavado peritoneal y exérsis de adenopatía iliaca derecha con biopsia intraoperatoria positiva para carcinoma indiferenciado).",
+        "Examen físico",
+        "Afebril y estable hemodinámicamente.",
+        "Consciencia normal.",
+        "Anartria.",
+        "Comprensión de órdenes sencillas y respuesta a preguntas simples cerrando los ojos.",
+        "Movimientos erráticos de la mirada conjugada en ambas direcciones.",
+        "Tetraparesia proximal y distal con amiotrofia distal.",
+        "Sensibilidad conservada.",
+        "Pruebas complementarias",
+        "Analítica: Hb 10 g/dl, Hto 29,4 %, plaquetas 773.000 y leucocitos 13.200 (N 10.900).",
+        "Bioquímica, normal.",
+        "Biopsia de útero: adenocarcinoma seroso papilar de alto grado (escasamente diferenciado) con amplias áreas de necrosis que metastatizan en adenopatías ilíacas.",
+        "Informe de Inmunología: anticuerpos anti-Yo positivos.",
+        "Electromiografía: reducción de las amplitudes de los potenciales motores evocados.",
+        "Amplitudes de los potenciales sensitivos evocados normales.",
+        "Reducción de la velocidad de conducción sensitiva del nervio mediano izquierdo.",
+        "Ausencia de respuesta F en los nervios mediano y perineal.",
+        "Ausencia de trazado voluntario tibial anterior izquierdo.",
+        "Hallazgos congruentes con miopatía del enfermo crítico.",
+        "Diagnóstico",
+        "Cáncer de ovario estadio IIIC intervenido (enfermedad ganglionar retroperitoneal residual).",
+        "Degeneración cerebelosa grave paraneoplásica (anticuerpos anti-Yo positivos).",
+        "Tratamiento",
+        "Una semana tras la cirugía, se inicia quimioterapia con carboplatino 175 mg/m2 IV y paclitaxel AUC6, recibiendo un total de tres ciclos con escasa mejoría clínica, por lo que posteriormente se administra metilprednisolona intravenosa (500 mg/24 h) durante 5 días consecutivos e inmunoglobulinas intravenosas (2 g/kg de peso/24 h) otros 5 días.",
+        "Evolución",
+        "A pesar del tratamiento recibido, el cuadro neurológico fue empeorando progresivamente precisando al final de su evolución ayuda para todas sus actividades habituales y alimentación por gastrostomía percutánea, siendo éxitus tres meses tras el diagnóstico inicial."
+    ],
+    "text": "Anamnesis\nMujer de 59 años, sin antecedentes de interés, que ingresa en diciembre de 2012 en Neurología por mareo rotatorio, alteración de la marcha y del equilibrio.\nDestacar de entre las pruebas realizadas, hallazgos sugestivos de enfermedad leptomeníngea cerebelosa en la resonancia magnética (RM) cerebral y en la tomografía computarizada (TC) toracoabdominal masa ovárica derecha, adenopatías ilíacas y retroperitoneales.\nCon estos hallazgos, la paciente es trasladada a Ginecología para cirugía el día 28/1/13 (histerectomía, anexectomía izquierda, omentectomía supramesocólica, hemicolectomía derecha con lavado peritoneal y exérsis de adenopatía iliaca derecha con biopsia intraoperatoria positiva para carcinoma indiferenciado).\n\nExamen físico\nAfebril y estable hemodinámicamente. Consciencia normal. Anartria. Comprensión de órdenes sencillas y respuesta a preguntas simples cerrando los ojos. Movimientos erráticos de la mirada conjugada en ambas direcciones. Tetraparesia proximal y distal con amiotrofia distal. Sensibilidad conservada.\n\nPruebas complementarias\nAnalítica: Hb 10 g/dl, Hto 29,4 %, plaquetas 773.000 y leucocitos 13.200 (N 10.900). Bioquímica, normal.\nBiopsia de útero: adenocarcinoma seroso papilar de alto grado (escasamente diferenciado) con amplias áreas de necrosis que metastatizan en adenopatías ilíacas.\nInforme de Inmunología: anticuerpos anti-Yo positivos.\nElectromiografía: reducción de las amplitudes de los potenciales motores evocados. Amplitudes de los potenciales sensitivos evocados normales. Reducción de la velocidad de conducción sensitiva del nervio mediano izquierdo.\nAusencia de respuesta F en los nervios mediano y perineal. Ausencia de trazado voluntario tibial anterior izquierdo.\nHallazgos congruentes con miopatía del enfermo crítico.\n\nDiagnóstico\nCáncer de ovario estadio IIIC intervenido (enfermedad ganglionar retroperitoneal residual).\nDegeneración cerebelosa grave paraneoplásica (anticuerpos anti-Yo positivos).\n\nTratamiento\nUna semana tras la cirugía, se inicia quimioterapia con carboplatino 175 mg/m2 IV y paclitaxel AUC6, recibiendo un total de tres ciclos con escasa mejoría clínica, por lo que posteriormente se administra metilprednisolona intravenosa (500 mg/24 h) durante 5 días consecutivos e inmunoglobulinas intravenosas (2 g/kg de peso/24 h) otros 5 días.\n\nEvolución\nA pesar del tratamiento recibido, el cuadro neurológico fue empeorando progresivamente precisando al final de su evolución ayuda para todas sus actividades habituales y alimentación por gastrostomía percutánea, siendo éxitus tres meses tras el diagnóstico inicial."
+}

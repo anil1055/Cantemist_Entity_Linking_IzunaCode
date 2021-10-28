@@ -1,0 +1,108 @@
+{
+    "title": "Angioedema associated with droperidol administration.",
+    "abst": "Angioedema, also known as angioneurotic edema or Quincke's disease, is a well-demarcated, localized edema involving the subcutaneous tissues that may cause upper-airway obstruction. We report the case of a previously healthy 19-year-old man with no known drug allergies in whom angioedema with significant tongue swelling and protrusion developed within 10 minutes of the administration of a single IV dose of droperidol.",
+    "title_plus_abst": "Angioedema associated with droperidol administration. Angioedema, also known as angioneurotic edema or Quincke's disease, is a well-demarcated, localized edema involving the subcutaneous tissues that may cause upper-airway obstruction. We report the case of a previously healthy 19-year-old man with no known drug allergies in whom angioedema with significant tongue swelling and protrusion developed within 10 minutes of the administration of a single IV dose of droperidol.",
+    "pubmed_id": "8599504",
+    "entities": [
+        [
+            0,
+            10,
+            "Angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            27,
+            37,
+            "droperidol",
+            "Chemical",
+            "D004329"
+        ],
+        [
+            54,
+            64,
+            "Angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            80,
+            99,
+            "angioneurotic edema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            103,
+            120,
+            "Quincke's disease",
+            "Disease",
+            "D000799"
+        ],
+        [
+            154,
+            159,
+            "edema",
+            "Disease",
+            "D004487"
+        ],
+        [
+            210,
+            234,
+            "upper-airway obstruction",
+            "Disease",
+            "D000402"
+        ],
+        [
+            309,
+            323,
+            "drug allergies",
+            "Disease",
+            "D004342"
+        ],
+        [
+            332,
+            342,
+            "angioedema",
+            "Disease",
+            "D000799"
+        ],
+        [
+            464,
+            474,
+            "droperidol",
+            "Chemical",
+            "D004329"
+        ]
+    ],
+    "split_sentence": [
+        "Angioedema associated with droperidol administration.",
+        "Angioedema, also known as angioneurotic edema or Quincke's disease, is a well-demarcated, localized edema involving the subcutaneous tissues that may cause upper-airway obstruction.",
+        "We report the case of a previously healthy 19-year-old man with no known drug allergies in whom angioedema with significant tongue swelling and protrusion developed within 10 minutes of the administration of a single IV dose of droperidol."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000799\tDisease\tAngioedema\t<target> Angioedema </target> associated with droperidol administration .",
+        "D004329\tChemical\tdroperidol\tAngioedema associated with <target> droperidol </target> administration .",
+        "D000799\tDisease\tAngioedema\t<target> Angioedema </target> , also known as angioneurotic edema or Quincke 's disease , is a well-demarcated , localized edema involving the subcutaneous tissues that may cause upper-airway obstruction .",
+        "D000799\tDisease\tangioneurotic edema\tAngioedema , also known as <target> angioneurotic edema </target> or Quincke 's disease , is a well-demarcated , localized edema involving the subcutaneous tissues that may cause upper-airway obstruction .",
+        "D000799\tDisease\tQuincke's disease\tAngioedema , also known as angioneurotic edema or <target> Quincke 's disease </target> , is a well-demarcated , localized edema involving the subcutaneous tissues that may cause upper-airway obstruction .",
+        "D004487\tDisease\tedema\tAngioedema , also known as angioneurotic edema or Quincke 's disease , is a well-demarcated , localized <target> edema </target> involving the subcutaneous tissues that may cause upper-airway obstruction .",
+        "D000402\tDisease\tupper-airway obstruction\tAngioedema , also known as angioneurotic edema or Quincke 's disease , is a well-demarcated , localized edema involving the subcutaneous tissues that may cause <target> upper-airway obstruction </target> .",
+        "D004342\tDisease\tdrug allergies\tWe report the case of a previously healthy 19-year-old man with no known <target> drug allergies </target> in whom angioedema with significant tongue swelling and protrusion developed within 10 minutes of the administration of a single IV dose of droperidol .",
+        "D000799\tDisease\tangioedema\tWe report the case of a previously healthy 19-year-old man with no known drug allergies in whom <target> angioedema </target> with significant tongue swelling and protrusion developed within 10 minutes of the administration of a single IV dose of droperidol .",
+        "D004329\tChemical\tdroperidol\tWe report the case of a previously healthy 19-year-old man with no known drug allergies in whom angioedema with significant tongue swelling and protrusion developed within 10 minutes of the administration of a single IV dose of <target> droperidol </target> ."
+    ],
+    "lines_lemma": [
+        "D000799\tDisease\tAngioedema\t<target> angioedema </target> associate with droperidol administration .",
+        "D004329\tChemical\tdroperidol\tAngioedema associate with <target> droperidol </target> administration .",
+        "D000799\tDisease\tAngioedema\t<target> angioedema </target> , also know as angioneurotic edema or Quincke 's disease , be a well-demarcated , localized edema involve the subcutaneous tissue that may cause upper-airway obstruction .",
+        "D000799\tDisease\tangioneurotic edema\tAngioedema , also know as <target> angioneurotic edema </target> or Quincke 's disease , be a well-demarcated , localized edema involve the subcutaneous tissue that may cause upper-airway obstruction .",
+        "D000799\tDisease\tQuincke's disease\tAngioedema , also know as angioneurotic edema or <target> Quincke 's disease </target> , be a well-demarcated , localized edema involve the subcutaneous tissue that may cause upper-airway obstruction .",
+        "D004487\tDisease\tedema\tAngioedema , also know as angioneurotic edema or Quincke 's disease , be a well-demarcated , localized <target> edema </target> involve the subcutaneous tissue that may cause upper-airway obstruction .",
+        "D000402\tDisease\tupper-airway obstruction\tAngioedema , also know as angioneurotic edema or Quincke 's disease , be a well-demarcated , localized edema involve the subcutaneous tissue that may cause <target> upper-airway obstruction </target> .",
+        "D004342\tDisease\tdrug allergies\twe report the case of a previously healthy 19-year-old man with no known <target> drug allergy </target> in whom angioedema with significant tongue swelling and protrusion develop within 10 minute of the administration of a single iv dose of droperidol .",
+        "D000799\tDisease\tangioedema\twe report the case of a previously healthy 19-year-old man with no known drug allergy in whom <target> angioedema </target> with significant tongue swelling and protrusion develop within 10 minute of the administration of a single iv dose of droperidol .",
+        "D004329\tChemical\tdroperidol\twe report the case of a previously healthy 19-year-old man with no known drug allergy in whom angioedema with significant tongue swelling and protrusion develop within 10 minute of the administration of a single iv dose of <target> droperidol </target> ."
+    ]
+}

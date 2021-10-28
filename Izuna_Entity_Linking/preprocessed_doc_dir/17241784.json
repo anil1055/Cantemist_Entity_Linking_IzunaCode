@@ -1,0 +1,150 @@
+{
+    "title": "Progressive myopathy with up-regulation of MHC-I associated with statin therapy.",
+    "abst": "Statins can cause a necrotizing myopathy and hyperCKaemia which is reversible on cessation of the drug. What is less well known is a phenomenon whereby statins may induce a myopathy, which persists or may progress after stopping the drug. We investigated the muscle pathology in 8 such cases. All had myofibre necrosis but only 3 had an inflammatory infiltrate. In all cases there was diffuse or multifocal up-regulation of MHC-I expression even in non-necrotic fibres. Progressive improvement occurred in 7 cases after commencement of prednisolone and methotrexate, and in one case spontaneously. These observations suggest that statins may initiate an immune-mediated myopathy that persists after withdrawal of the drug and responds to immunosuppressive therapy. The mechanism of this myopathy is uncertain but may involve the induction by statins of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres.",
+    "title_plus_abst": "Progressive myopathy with up-regulation of MHC-I associated with statin therapy. Statins can cause a necrotizing myopathy and hyperCKaemia which is reversible on cessation of the drug. What is less well known is a phenomenon whereby statins may induce a myopathy, which persists or may progress after stopping the drug. We investigated the muscle pathology in 8 such cases. All had myofibre necrosis but only 3 had an inflammatory infiltrate. In all cases there was diffuse or multifocal up-regulation of MHC-I expression even in non-necrotic fibres. Progressive improvement occurred in 7 cases after commencement of prednisolone and methotrexate, and in one case spontaneously. These observations suggest that statins may initiate an immune-mediated myopathy that persists after withdrawal of the drug and responds to immunosuppressive therapy. The mechanism of this myopathy is uncertain but may involve the induction by statins of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres.",
+    "pubmed_id": "17241784",
+    "entities": [
+        [
+            12,
+            20,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            65,
+            71,
+            "statin",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            81,
+            88,
+            "Statins",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            113,
+            121,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            233,
+            240,
+            "statins",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            254,
+            262,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            391,
+            399,
+            "necrosis",
+            "Disease",
+            "D009336"
+        ],
+        [
+            534,
+            542,
+            "necrotic",
+            "Disease",
+            "D009336"
+        ],
+        [
+            617,
+            629,
+            "prednisolone",
+            "Chemical",
+            "D011239"
+        ],
+        [
+            634,
+            646,
+            "methotrexate",
+            "Chemical",
+            "D008727"
+        ],
+        [
+            711,
+            718,
+            "statins",
+            "Chemical",
+            "D019821"
+        ],
+        [
+            751,
+            759,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            868,
+            876,
+            "myopathy",
+            "Disease",
+            "D009135"
+        ],
+        [
+            923,
+            930,
+            "statins",
+            "Chemical",
+            "D019821"
+        ]
+    ],
+    "split_sentence": [
+        "Progressive myopathy with up-regulation of MHC-I associated with statin therapy.",
+        "Statins can cause a necrotizing myopathy and hyperCKaemia which is reversible on cessation of the drug.",
+        "What is less well known is a phenomenon whereby statins may induce a myopathy, which persists or may progress after stopping the drug.",
+        "We investigated the muscle pathology in 8 such cases.",
+        "All had myofibre necrosis but only 3 had an inflammatory infiltrate.",
+        "In all cases there was diffuse or multifocal up-regulation of MHC-I expression even in non-necrotic fibres.",
+        "Progressive improvement occurred in 7 cases after commencement of prednisolone and methotrexate, and in one case spontaneously.",
+        "These observations suggest that statins may initiate an immune-mediated myopathy that persists after withdrawal of the drug and responds to immunosuppressive therapy.",
+        "The mechanism of this myopathy is uncertain but may involve the induction by statins of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009135\tDisease\tmyopathy\tProgressive <target> myopathy </target> with up-regulation of MHC-I associated with statin therapy .",
+        "D019821\tChemical\tstatin\tProgressive myopathy with up-regulation of MHC-I associated with <target> statin </target> therapy .",
+        "D019821\tChemical\tStatins\t<target> Statins </target> can cause a necrotizing myopathy and hyperCKaemia which is reversible on cessation of the drug .",
+        "D009135\tDisease\tmyopathy\tStatins can cause a necrotizing <target> myopathy </target> and hyperCKaemia which is reversible on cessation of the drug .",
+        "D019821\tChemical\tstatins\tWhat is less well known is a phenomenon whereby <target> statins </target> may induce a myopathy , which persists or may progress after stopping the drug .",
+        "D009135\tDisease\tmyopathy\tWhat is less well known is a phenomenon whereby statins may induce a <target> myopathy </target> , which persists or may progress after stopping the drug .",
+        "D009336\tDisease\tnecrosis\tAll had myofibre <target> necrosis </target> but only 3 had an inflammatory infiltrate .",
+        "D009336\tDisease\tnecrotic\tIn all cases there was diffuse or multifocal up-regulation of MHC-I expression even in non- <target> necrotic </target> fibres .",
+        "D011239\tChemical\tprednisolone\tProgressive improvement occurred in 7 cases after commencement of <target> prednisolone </target> and methotrexate , and in one case spontaneously .",
+        "D008727\tChemical\tmethotrexate\tProgressive improvement occurred in 7 cases after commencement of prednisolone and <target> methotrexate </target> , and in one case spontaneously .",
+        "D019821\tChemical\tstatins\tThese observations suggest that <target> statins </target> may initiate an immune-mediated myopathy that persists after withdrawal of the drug and responds to immunosuppressive therapy .",
+        "D009135\tDisease\tmyopathy\tThese observations suggest that statins may initiate an immune-mediated <target> myopathy </target> that persists after withdrawal of the drug and responds to immunosuppressive therapy .",
+        "D009135\tDisease\tmyopathy\tThe mechanism of this <target> myopathy </target> is uncertain but may involve the induction by statins of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres .",
+        "D019821\tChemical\tstatins\tThe mechanism of this myopathy is uncertain but may involve the induction by <target> statins </target> of an endoplasmic reticulum stress response with associated up-regulation of MHC-I expression and antigen presentation by muscle fibres ."
+    ],
+    "lines_lemma": [
+        "D009135\tDisease\tmyopathy\tProgressive <target> myopathy </target> with up-regulation of mhc-i associate with statin therapy .",
+        "D019821\tChemical\tstatin\tprogressive myopathy with up-regulation of mhc-i associate with <target> statin </target> therapy .",
+        "D019821\tChemical\tStatins\t<target> Statins </target> can cause a necrotize myopathy and hyperckaemia which be reversible on cessation of the drug .",
+        "D009135\tDisease\tmyopathy\tstatin can cause a necrotizing <target> myopathy </target> and hyperckaemia which be reversible on cessation of the drug .",
+        "D019821\tChemical\tstatins\twhat be less well know be a phenomenon whereby <target> statin </target> may induce a myopathy , which persist or may progress after stop the drug .",
+        "D009135\tDisease\tmyopathy\twhat be less well know be a phenomenon whereby statin may induce a <target> myopathy </target> , which persist or may progress after stop the drug .",
+        "D009336\tDisease\tnecrosis\tall have myofibre <target> necrosis </target> but only 3 have an inflammatory infiltrate .",
+        "D009336\tDisease\tnecrotic\tin all case there be diffuse or multifocal up-regulation of mhc-i expression even in non- <target> necrotic </target> fibre .",
+        "D011239\tChemical\tprednisolone\tprogressive improvement occur in 7 case after commencement of <target> prednisolone </target> and methotrexate , and in one case spontaneously .",
+        "D008727\tChemical\tmethotrexate\tprogressive improvement occur in 7 case after commencement of prednisolone and <target> methotrexate </target> , and in one case spontaneously .",
+        "D019821\tChemical\tstatins\tthese observation suggest that <target> statin </target> may initiate an immune-mediated myopathy that persist after withdrawal of the drug and respond to immunosuppressive therapy .",
+        "D009135\tDisease\tmyopathy\tthese observation suggest that statin may initiate an immune-mediated <target> myopathy </target> that persist after withdrawal of the drug and respond to immunosuppressive therapy .",
+        "D009135\tDisease\tmyopathy\tthe mechanism of this <target> myopathy </target> be uncertain but may involve the induction by statin of an endoplasmic reticulum stress response with associate up-regulation of mhc-i expression and antigen presentation by muscle fibre .",
+        "D019821\tChemical\tstatins\tthe mechanism of this myopathy be uncertain but may involve the induction by <target> statin </target> of an endoplasmic reticulum stress response with associate up-regulation of mhc-i expression and antigen presentation by muscle fibre ."
+    ]
+}

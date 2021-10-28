@@ -1,0 +1,65 @@
+{
+    "title": "The site of common side effects of sumatriptan.",
+    "abst": "Atypical sensations following the use of subcutaneous sumatriptan are common, but of uncertain origin. They are almost always benign, but can be mistaken for a serious adverse event by the patient. Two patients are presented with tingling or burning sensations limited to areas of heat exposure or sunburn. In these individuals, side effects are most likely generated superficially in the skin.",
+    "title_plus_abst": "The site of common side effects of sumatriptan. Atypical sensations following the use of subcutaneous sumatriptan are common, but of uncertain origin. They are almost always benign, but can be mistaken for a serious adverse event by the patient. Two patients are presented with tingling or burning sensations limited to areas of heat exposure or sunburn. In these individuals, side effects are most likely generated superficially in the skin.",
+    "pubmed_id": "9195768",
+    "entities": [
+        [
+            35,
+            46,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            48,
+            67,
+            "Atypical sensations",
+            "Disease",
+            "D010292"
+        ],
+        [
+            102,
+            113,
+            "sumatriptan",
+            "Chemical",
+            "D018170"
+        ],
+        [
+            278,
+            308,
+            "tingling or burning sensations",
+            "Disease",
+            "D010292"
+        ],
+        [
+            346,
+            353,
+            "sunburn",
+            "Disease",
+            "D013471"
+        ]
+    ],
+    "split_sentence": [
+        "The site of common side effects of sumatriptan.",
+        "Atypical sensations following the use of subcutaneous sumatriptan are common, but of uncertain origin.",
+        "They are almost always benign, but can be mistaken for a serious adverse event by the patient.",
+        "Two patients are presented with tingling or burning sensations limited to areas of heat exposure or sunburn.",
+        "In these individuals, side effects are most likely generated superficially in the skin."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018170\tChemical\tsumatriptan\tThe site of common side effects of <target> sumatriptan </target> .",
+        "D010292\tDisease\tAtypical sensations\t<target> Atypical sensations </target> following the use of subcutaneous sumatriptan are common , but of uncertain origin .",
+        "D018170\tChemical\tsumatriptan\tAtypical sensations following the use of subcutaneous <target> sumatriptan </target> are common , but of uncertain origin .",
+        "D010292\tDisease\ttingling or burning sensations\tTwo patients are presented with <target> tingling or burning sensations </target> limited to areas of heat exposure or sunburn .",
+        "D013471\tDisease\tsunburn\tTwo patients are presented with tingling or burning sensations limited to areas of heat exposure or <target> sunburn </target> ."
+    ],
+    "lines_lemma": [
+        "D018170\tChemical\tsumatriptan\tthe site of common side effect of <target> sumatriptan </target> .",
+        "D010292\tDisease\tAtypical sensations\t<target> atypical sensation </target> follow the use of subcutaneous sumatriptan be common , but of uncertain origin .",
+        "D018170\tChemical\tsumatriptan\tatypical sensation follow the use of subcutaneous <target> sumatriptan </target> be common , but of uncertain origin .",
+        "D010292\tDisease\ttingling or burning sensations\ttwo patient be present with <target> tingling or burn sensation </target> limit to area of heat exposure or sunburn .",
+        "D013471\tDisease\tsunburn\ttwo patient be present with tingle or burn sensation limit to area of heat exposure or <target> sunburn </target> ."
+    ]
+}

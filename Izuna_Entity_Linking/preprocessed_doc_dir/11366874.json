@@ -1,0 +1,82 @@
+{
+    "title": "Viracept and irregular heartbeat warning.",
+    "abst": "A group of doctors in Boston warn that the protease inhibitor Viracept may cause an irregular heart beat, known as bradycardia, in people with HIV. Bradycardia occurred in a 45-year-old male patient who was Viracept in combination with other anti-HIV drugs. The symptoms ceased after switching to another drug combination.",
+    "title_plus_abst": "Viracept and irregular heartbeat warning. A group of doctors in Boston warn that the protease inhibitor Viracept may cause an irregular heart beat, known as bradycardia, in people with HIV. Bradycardia occurred in a 45-year-old male patient who was Viracept in combination with other anti-HIV drugs. The symptoms ceased after switching to another drug combination.",
+    "pubmed_id": "11366874",
+    "entities": [
+        [
+            0,
+            8,
+            "Viracept",
+            "Chemical",
+            "D019888"
+        ],
+        [
+            13,
+            32,
+            "irregular heartbeat",
+            "Disease",
+            "D001145"
+        ],
+        [
+            104,
+            112,
+            "Viracept",
+            "Chemical",
+            "D019888"
+        ],
+        [
+            126,
+            146,
+            "irregular heart beat",
+            "Disease",
+            "D001145"
+        ],
+        [
+            157,
+            168,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            190,
+            201,
+            "Bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            249,
+            257,
+            "Viracept",
+            "Chemical",
+            "D019888"
+        ]
+    ],
+    "split_sentence": [
+        "Viracept and irregular heartbeat warning.",
+        "A group of doctors in Boston warn that the protease inhibitor Viracept may cause an irregular heart beat, known as bradycardia, in people with HIV.",
+        "Bradycardia occurred in a 45-year-old male patient who was Viracept in combination with other anti-HIV drugs.",
+        "The symptoms ceased after switching to another drug combination."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019888\tChemical\tViracept\t<target> Viracept </target> and irregular heartbeat warning .",
+        "D001145\tDisease\tirregular heartbeat\tViracept and <target> irregular heartbeat </target> warning .",
+        "D019888\tChemical\tViracept\tA group of doctors in Boston warn that the protease inhibitor <target> Viracept </target> may cause an irregular heart beat , known as bradycardia , in people with HIV .",
+        "D001145\tDisease\tirregular heart beat\tA group of doctors in Boston warn that the protease inhibitor Viracept may cause an <target> irregular heart beat </target> , known as bradycardia , in people with HIV .",
+        "D001919\tDisease\tbradycardia\tA group of doctors in Boston warn that the protease inhibitor Viracept may cause an irregular heart beat , known as <target> bradycardia </target> , in people with HIV .",
+        "D001919\tDisease\tBradycardia\t<target> Bradycardia </target> occurred in a 45-year-old male patient who was Viracept in combination with other anti-HIV drugs .",
+        "D019888\tChemical\tViracept\tBradycardia occurred in a 45-year-old male patient who was <target> Viracept </target> in combination with other anti-HIV drugs ."
+    ],
+    "lines_lemma": [
+        "D019888\tChemical\tViracept\t<target> Viracept </target> and irregular heartbeat warning .",
+        "D001145\tDisease\tirregular heartbeat\tViracept and <target> irregular heartbeat </target> warning .",
+        "D019888\tChemical\tViracept\ta group of doctor in Boston warn that the protease inhibitor <target> Viracept </target> may cause an irregular heart beat , know as bradycardia , in people with hiv .",
+        "D001145\tDisease\tirregular heart beat\ta group of doctor in Boston warn that the protease inhibitor Viracept may cause an <target> irregular heart beat </target> , know as bradycardia , in people with hiv .",
+        "D001919\tDisease\tbradycardia\ta group of doctor in Boston warn that the protease inhibitor Viracept may cause an irregular heart beat , know as <target> bradycardia </target> , in people with hiv .",
+        "D001919\tDisease\tBradycardia\t<target> bradycardia </target> occur in a 45-year-old male patient who be Viracept in combination with other anti-hiv drug .",
+        "D019888\tChemical\tViracept\tBradycardia occur in a 45-year-old male patient who be <target> Viracept </target> in combination with other anti-hiv drug ."
+    ]
+}

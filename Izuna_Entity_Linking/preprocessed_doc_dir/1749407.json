@@ -1,0 +1,187 @@
+{
+    "title": "Cocaine-induced myocardial infarction: clinical observations and pathogenetic considerations.",
+    "abst": "Clinical and experimental data published to date suggest several possible mechanisms by which cocaine may result in acute myocardial infarction. In individuals with preexisting, high-grade coronary arterial narrowing, acute myocardial infarction may result from an increase in myocardial oxygen demand associated with cocaine-induced increase in rate-pressure product. In other individuals with no underlying atherosclerotic obstruction, coronary occlusion may be due to spasm, thrombus, or both. With regard to spasm, the clinical findings are largely circumstantial, and the locus of cocaine-induced vasoconstriction remains speculative. Although certain clinical and experimental findings support the hypothesis that spasm involves the epicardial, medium-size vessels, other data suggest intramural vasoconstriction. Diffuse intramural vasoconstriction is not consistent with reports of segmental, discrete infarction. Whereas certain in vivo data suggest that these effects are alpha-mediated, other in vitro data suggest the opposite. The finding of cocaine-induced vasoconstriction in segments of (noninnervated) human umbilical artery suggests that the presence or absence of intact innervation is not sufficient to explain the discrepant data involving the possibility of alpha-mediated effects. Finally, the contribution of a primary, thrombotic effect of cocaine has not been excluded.",
+    "title_plus_abst": "Cocaine-induced myocardial infarction: clinical observations and pathogenetic considerations. Clinical and experimental data published to date suggest several possible mechanisms by which cocaine may result in acute myocardial infarction. In individuals with preexisting, high-grade coronary arterial narrowing, acute myocardial infarction may result from an increase in myocardial oxygen demand associated with cocaine-induced increase in rate-pressure product. In other individuals with no underlying atherosclerotic obstruction, coronary occlusion may be due to spasm, thrombus, or both. With regard to spasm, the clinical findings are largely circumstantial, and the locus of cocaine-induced vasoconstriction remains speculative. Although certain clinical and experimental findings support the hypothesis that spasm involves the epicardial, medium-size vessels, other data suggest intramural vasoconstriction. Diffuse intramural vasoconstriction is not consistent with reports of segmental, discrete infarction. Whereas certain in vivo data suggest that these effects are alpha-mediated, other in vitro data suggest the opposite. The finding of cocaine-induced vasoconstriction in segments of (noninnervated) human umbilical artery suggests that the presence or absence of intact innervation is not sufficient to explain the discrepant data involving the possibility of alpha-mediated effects. Finally, the contribution of a primary, thrombotic effect of cocaine has not been excluded.",
+    "pubmed_id": "1749407",
+    "entities": [
+        [
+            0,
+            7,
+            "Cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            16,
+            37,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            188,
+            195,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            210,
+            237,
+            "acute myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            312,
+            339,
+            "acute myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            382,
+            388,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            412,
+            419,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            503,
+            530,
+            "atherosclerotic obstruction",
+            "Disease",
+            "D050197"
+        ],
+        [
+            532,
+            550,
+            "coronary occlusion",
+            "Disease",
+            "D054059"
+        ],
+        [
+            565,
+            570,
+            "spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            572,
+            580,
+            "thrombus",
+            "Disease",
+            "D013927"
+        ],
+        [
+            606,
+            611,
+            "spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            680,
+            687,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            814,
+            819,
+            "spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            1004,
+            1014,
+            "infarction",
+            "Disease",
+            "D007238"
+        ],
+        [
+            1149,
+            1156,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            1438,
+            1448,
+            "thrombotic",
+            "Disease",
+            "D013927"
+        ],
+        [
+            1459,
+            1466,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ]
+    ],
+    "split_sentence": [
+        "Cocaine-induced myocardial infarction: clinical observations and pathogenetic considerations.",
+        "Clinical and experimental data published to date suggest several possible mechanisms by which cocaine may result in acute myocardial infarction.",
+        "In individuals with preexisting, high-grade coronary arterial narrowing, acute myocardial infarction may result from an increase in myocardial oxygen demand associated with cocaine-induced increase in rate-pressure product.",
+        "In other individuals with no underlying atherosclerotic obstruction, coronary occlusion may be due to spasm, thrombus, or both.",
+        "With regard to spasm, the clinical findings are largely circumstantial, and the locus of cocaine-induced vasoconstriction remains speculative.",
+        "Although certain clinical and experimental findings support the hypothesis that spasm involves the epicardial, medium-size vessels, other data suggest intramural vasoconstriction.",
+        "Diffuse intramural vasoconstriction is not consistent with reports of segmental, discrete infarction.",
+        "Whereas certain in vivo data suggest that these effects are alpha-mediated, other in vitro data suggest the opposite.",
+        "The finding of cocaine-induced vasoconstriction in segments of (noninnervated) human umbilical artery suggests that the presence or absence of intact innervation is not sufficient to explain the discrepant data involving the possibility of alpha-mediated effects.",
+        "Finally, the contribution of a primary, thrombotic effect of cocaine has not been excluded."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003042\tChemical\tCocaine\t<target> Cocaine </target> -induced myocardial infarction : clinical observations and pathogenetic considerations .",
+        "D009203\tDisease\tmyocardial infarction\tCocaine-induced <target> myocardial infarction </target> : clinical observations and pathogenetic considerations .",
+        "D003042\tChemical\tcocaine\tClinical and experimental data published to date suggest several possible mechanisms by which <target> cocaine </target> may result in acute myocardial infarction .",
+        "D009203\tDisease\tacute myocardial infarction\tClinical and experimental data published to date suggest several possible mechanisms by which cocaine may result in <target> acute myocardial infarction </target> .",
+        "D009203\tDisease\tacute myocardial infarction\tIn individuals with preexisting , high-grade coronary arterial narrowing , <target> acute myocardial infarction </target> may result from an increase in myocardial oxygen demand associated with cocaine-induced increase in rate-pressure product .",
+        "D010100\tChemical\toxygen\tIn individuals with preexisting , high-grade coronary arterial narrowing , acute myocardial infarction may result from an increase in myocardial <target> oxygen </target> demand associated with cocaine-induced increase in rate-pressure product .",
+        "D003042\tChemical\tcocaine\tIn individuals with preexisting , high-grade coronary arterial narrowing , acute myocardial infarction may result from an increase in myocardial oxygen demand associated with <target> cocaine </target> -induced increase in rate-pressure product .",
+        "D050197\tDisease\tatherosclerotic obstruction\tIn other individuals with no underlying <target> atherosclerotic obstruction </target> , coronary occlusion may be due to spasm , thrombus , or both .",
+        "D054059\tDisease\tcoronary occlusion\tIn other individuals with no underlying atherosclerotic obstruction , <target> coronary occlusion </target> may be due to spasm , thrombus , or both .",
+        "D013035\tDisease\tspasm\tIn other individuals with no underlying atherosclerotic obstruction , coronary occlusion may be due to <target> spasm </target> , thrombus , or both .",
+        "D013927\tDisease\tthrombus\tIn other individuals with no underlying atherosclerotic obstruction , coronary occlusion may be due to spasm , <target> thrombus </target> , or both .",
+        "D013035\tDisease\tspasm\tWith regard to <target> spasm </target> , the clinical findings are largely circumstantial , and the locus of cocaine-induced vasoconstriction remains speculative .",
+        "D003042\tChemical\tcocaine\tWith regard to spasm , the clinical findings are largely circumstantial , and the locus of <target> cocaine </target> -induced vasoconstriction remains speculative .",
+        "D013035\tDisease\tspasm\tAlthough certain clinical and experimental findings support the hypothesis that <target> spasm </target> involves the epicardial , medium-size vessels , other data suggest intramural vasoconstriction .",
+        "D007238\tDisease\tinfarction\tDiffuse intramural vasoconstriction is not consistent with reports of segmental , discrete <target> infarction </target> .",
+        "D003042\tChemical\tcocaine\tThe finding of <target> cocaine </target> -induced vasoconstriction in segments of ( noninnervated ) human umbilical artery suggests that the presence or absence of intact innervation is not sufficient to explain the discrepant data involving the possibility of alpha-mediated effects .",
+        "D013927\tDisease\tthrombotic\tFinally , the contribution of a primary , <target> thrombotic </target> effect of cocaine has not been excluded .",
+        "D003042\tChemical\tcocaine\tFinally , the contribution of a primary , thrombotic effect of <target> cocaine </target> has not been excluded ."
+    ],
+    "lines_lemma": [
+        "D003042\tChemical\tCocaine\t<target> cocaine </target> -induced myocardial infarction : clinical observation and pathogenetic consideration .",
+        "D009203\tDisease\tmyocardial infarction\tcocaine-induced <target> myocardial infarction </target> : clinical observation and pathogenetic consideration .",
+        "D003042\tChemical\tcocaine\tclinical and experimental datum publish to date suggest several possible mechanism by which <target> cocaine </target> may result in acute myocardial infarction .",
+        "D009203\tDisease\tacute myocardial infarction\tclinical and experimental datum publish to date suggest several possible mechanism by which cocaine may result in <target> acute myocardial infarction </target> .",
+        "D009203\tDisease\tacute myocardial infarction\tin individual with preexisting , high-grade coronary arterial narrowing , <target> acute myocardial infarction </target> may result from an increase in myocardial oxygen demand associate with cocaine-induced increase in rate-pressure product .",
+        "D010100\tChemical\toxygen\tin individual with preexisting , high-grade coronary arterial narrowing , acute myocardial infarction may result from an increase in myocardial <target> oxygen </target> demand associate with cocaine-induced increase in rate-pressure product .",
+        "D003042\tChemical\tcocaine\tin individual with preexisting , high-grade coronary arterial narrowing , acute myocardial infarction may result from an increase in myocardial oxygen demand associate with <target> cocaine </target> -induced increase in rate-pressure product .",
+        "D050197\tDisease\tatherosclerotic obstruction\tin other individual with no underlie <target> atherosclerotic obstruction </target> , coronary occlusion may be due to spasm , thrombus , or both .",
+        "D054059\tDisease\tcoronary occlusion\tin other individual with no underlying atherosclerotic obstruction , <target> coronary occlusion </target> may be due to spasm , thrombus , or both .",
+        "D013035\tDisease\tspasm\tin other individual with no underlying atherosclerotic obstruction , coronary occlusion may be due to <target> spasm </target> , thrombus , or both .",
+        "D013927\tDisease\tthrombus\tin other individual with no underlying atherosclerotic obstruction , coronary occlusion may be due to spasm , <target> thrombus </target> , or both .",
+        "D013035\tDisease\tspasm\twith regard to <target> spasm </target> , the clinical finding be largely circumstantial , and the locus of cocaine-induced vasoconstriction remain speculative .",
+        "D003042\tChemical\tcocaine\twith regard to spasm , the clinical finding be largely circumstantial , and the locus of <target> cocaine </target> -induced vasoconstriction remain speculative .",
+        "D013035\tDisease\tspasm\talthough certain clinical and experimental finding support the hypothesis that <target> spasm </target> involve the epicardial , medium-size vessel , other datum suggest intramural vasoconstriction .",
+        "D007238\tDisease\tinfarction\tDiffuse intramural vasoconstriction be not consistent with report of segmental , discrete <target> infarction </target> .",
+        "D003042\tChemical\tcocaine\tthe finding of <target> cocaine </target> -induced vasoconstriction in segment of ( noninnervate ) human umbilical artery suggest that the presence or absence of intact innervation be not sufficient to explain the discrepant datum involve the possibility of alpha-mediated effect .",
+        "D013927\tDisease\tthrombotic\tfinally , the contribution of a primary , <target> thrombotic </target> effect of cocaine have not be exclude .",
+        "D003042\tChemical\tcocaine\tfinally , the contribution of a primary , thrombotic effect of <target> cocaine </target> have not be exclude ."
+    ]
+}

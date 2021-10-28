@@ -1,0 +1,174 @@
+{
+    "title": "Neuroleptic malignant syndrome induced by combination therapy with tetrabenazine and tiapride in a Japanese patient with Huntington's disease at the terminal stage of recurrent breast cancer.",
+    "abst": "We herein describe the case of an 81-year-old Japanese woman with neuroleptic malignant syndrome that occurred 36 days after the initiation of combination therapy with tiapride (75 mg/day) and tetrabenazine (12.5 mg/day) for Huntington's disease. The patient had been treated with tiapride or tetrabenazine alone without any adverse effects before the administration of the combination therapy. She also had advanced breast cancer when the combination therapy was initiated. To the best of our knowledge, the occurrence of neuroleptic malignant syndrome due to combination therapy with tetrabenazine and tiapride has not been previously reported. Tetrabenazine should be administered very carefully in combination with other neuroleptic drugs, particularly in patients with a worsening general condition.",
+    "title_plus_abst": "Neuroleptic malignant syndrome induced by combination therapy with tetrabenazine and tiapride in a Japanese patient with Huntington's disease at the terminal stage of recurrent breast cancer. We herein describe the case of an 81-year-old Japanese woman with neuroleptic malignant syndrome that occurred 36 days after the initiation of combination therapy with tiapride (75 mg/day) and tetrabenazine (12.5 mg/day) for Huntington's disease. The patient had been treated with tiapride or tetrabenazine alone without any adverse effects before the administration of the combination therapy. She also had advanced breast cancer when the combination therapy was initiated. To the best of our knowledge, the occurrence of neuroleptic malignant syndrome due to combination therapy with tetrabenazine and tiapride has not been previously reported. Tetrabenazine should be administered very carefully in combination with other neuroleptic drugs, particularly in patients with a worsening general condition.",
+    "pubmed_id": "24881749",
+    "entities": [
+        [
+            0,
+            30,
+            "Neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            67,
+            80,
+            "tetrabenazine",
+            "Chemical",
+            "D013747"
+        ],
+        [
+            85,
+            93,
+            "tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            121,
+            141,
+            "Huntington's disease",
+            "Disease",
+            "D006816"
+        ],
+        [
+            177,
+            190,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            258,
+            288,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            360,
+            368,
+            "tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            385,
+            398,
+            "tetrabenazine",
+            "Chemical",
+            "D013747"
+        ],
+        [
+            417,
+            437,
+            "Huntington's disease",
+            "Disease",
+            "D006816"
+        ],
+        [
+            473,
+            481,
+            "tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            485,
+            498,
+            "tetrabenazine",
+            "Chemical",
+            "D013747"
+        ],
+        [
+            609,
+            622,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            715,
+            745,
+            "neuroleptic malignant syndrome",
+            "Disease",
+            "D009459"
+        ],
+        [
+            778,
+            791,
+            "tetrabenazine",
+            "Chemical",
+            "D013747"
+        ],
+        [
+            796,
+            804,
+            "tiapride",
+            "Chemical",
+            "D063325"
+        ],
+        [
+            839,
+            852,
+            "Tetrabenazine",
+            "Chemical",
+            "D013747"
+        ],
+        [
+            917,
+            934,
+            "neuroleptic drugs",
+            "Chemical",
+            "D014150"
+        ]
+    ],
+    "split_sentence": [
+        "Neuroleptic malignant syndrome induced by combination therapy with tetrabenazine and tiapride in a Japanese patient with Huntington's disease at the terminal stage of recurrent breast cancer.",
+        "We herein describe the case of an 81-year-old Japanese woman with neuroleptic malignant syndrome that occurred 36 days after the initiation of combination therapy with tiapride (75 mg/day) and tetrabenazine (12.5 mg/day) for Huntington's disease.",
+        "The patient had been treated with tiapride or tetrabenazine alone without any adverse effects before the administration of the combination therapy.",
+        "She also had advanced breast cancer when the combination therapy was initiated.",
+        "To the best of our knowledge, the occurrence of neuroleptic malignant syndrome due to combination therapy with tetrabenazine and tiapride has not been previously reported.",
+        "Tetrabenazine should be administered very carefully in combination with other neuroleptic drugs, particularly in patients with a worsening general condition."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> Neuroleptic malignant syndrome </target> induced by combination therapy with tetrabenazine and tiapride in a Japanese patient with Huntington 's disease at the terminal stage of recurrent breast cancer .",
+        "D013747\tChemical\ttetrabenazine\tNeuroleptic malignant syndrome induced by combination therapy with <target> tetrabenazine </target> and tiapride in a Japanese patient with Huntington 's disease at the terminal stage of recurrent breast cancer .",
+        "D063325\tChemical\ttiapride\tNeuroleptic malignant syndrome induced by combination therapy with tetrabenazine and <target> tiapride </target> in a Japanese patient with Huntington 's disease at the terminal stage of recurrent breast cancer .",
+        "D006816\tDisease\tHuntington's disease\tNeuroleptic malignant syndrome induced by combination therapy with tetrabenazine and tiapride in a Japanese patient with <target> Huntington 's disease </target> at the terminal stage of recurrent breast cancer .",
+        "D001943\tDisease\tbreast cancer\tNeuroleptic malignant syndrome induced by combination therapy with tetrabenazine and tiapride in a Japanese patient with Huntington 's disease at the terminal stage of recurrent <target> breast cancer </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tWe herein describe the case of an 81-year-old Japanese woman with <target> neuroleptic malignant syndrome </target> that occurred 36 days after the initiation of combination therapy with tiapride ( 75 mg/day ) and tetrabenazine ( 12.5 mg/day ) for Huntington 's disease .",
+        "D063325\tChemical\ttiapride\tWe herein describe the case of an 81-year-old Japanese woman with neuroleptic malignant syndrome that occurred 36 days after the initiation of combination therapy with <target> tiapride </target> ( 75 mg/day ) and tetrabenazine ( 12.5 mg/day ) for Huntington 's disease .",
+        "D013747\tChemical\ttetrabenazine\tWe herein describe the case of an 81-year-old Japanese woman with neuroleptic malignant syndrome that occurred 36 days after the initiation of combination therapy with tiapride ( 75 mg/day ) and <target> tetrabenazine </target> ( 12.5 mg/day ) for Huntington 's disease .",
+        "D006816\tDisease\tHuntington's disease\tWe herein describe the case of an 81-year-old Japanese woman with neuroleptic malignant syndrome that occurred 36 days after the initiation of combination therapy with tiapride ( 75 mg/day ) and tetrabenazine ( 12.5 mg/day ) for <target> Huntington 's disease </target> .",
+        "D063325\tChemical\ttiapride\tThe patient had been treated with <target> tiapride </target> or tetrabenazine alone without any adverse effects before the administration of the combination therapy .",
+        "D013747\tChemical\ttetrabenazine\tThe patient had been treated with tiapride or <target> tetrabenazine </target> alone without any adverse effects before the administration of the combination therapy .",
+        "D001943\tDisease\tbreast cancer\tShe also had advanced <target> breast cancer </target> when the combination therapy was initiated .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tTo the best of our knowledge , the occurrence of <target> neuroleptic malignant syndrome </target> due to combination therapy with tetrabenazine and tiapride has not been previously reported .",
+        "D013747\tChemical\ttetrabenazine\tTo the best of our knowledge , the occurrence of neuroleptic malignant syndrome due to combination therapy with <target> tetrabenazine </target> and tiapride has not been previously reported .",
+        "D063325\tChemical\ttiapride\tTo the best of our knowledge , the occurrence of neuroleptic malignant syndrome due to combination therapy with tetrabenazine and <target> tiapride </target> has not been previously reported .",
+        "D013747\tChemical\tTetrabenazine\t<target> Tetrabenazine </target> should be administered very carefully in combination with other neuroleptic drugs , particularly in patients with a worsening general condition .",
+        "D014150\tChemical\tneuroleptic drugs\tTetrabenazine should be administered very carefully in combination with other <target> neuroleptic drugs </target> , particularly in patients with a worsening general condition ."
+    ],
+    "lines_lemma": [
+        "D009459\tDisease\tNeuroleptic malignant syndrome\t<target> neuroleptic malignant syndrome </target> induce by combination therapy with tetrabenazine and tiapride in a japanese patient with Huntington 's disease at the terminal stage of recurrent breast cancer .",
+        "D013747\tChemical\ttetrabenazine\tneuroleptic malignant syndrome induce by combination therapy with <target> tetrabenazine </target> and tiapride in a japanese patient with Huntington 's disease at the terminal stage of recurrent breast cancer .",
+        "D063325\tChemical\ttiapride\tneuroleptic malignant syndrome induce by combination therapy with tetrabenazine and <target> tiapride </target> in a japanese patient with Huntington 's disease at the terminal stage of recurrent breast cancer .",
+        "D006816\tDisease\tHuntington's disease\tneuroleptic malignant syndrome induce by combination therapy with tetrabenazine and tiapride in a japanese patient with <target> Huntington 's disease </target> at the terminal stage of recurrent breast cancer .",
+        "D001943\tDisease\tbreast cancer\tneuroleptic malignant syndrome induce by combination therapy with tetrabenazine and tiapride in a japanese patient with Huntington 's disease at the terminal stage of recurrent <target> breast cancer </target> .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\twe herein describe the case of an 81-year-old japanese woman with <target> neuroleptic malignant syndrome </target> that occur 36 day after the initiation of combination therapy with tiapride ( 75 mg/day ) and tetrabenazine ( 12.5 mg/day ) for Huntington 's disease .",
+        "D063325\tChemical\ttiapride\twe herein describe the case of an 81-year-old japanese woman with neuroleptic malignant syndrome that occur 36 day after the initiation of combination therapy with <target> tiapride </target> ( 75 mg/day ) and tetrabenazine ( 12.5 mg/day ) for Huntington 's disease .",
+        "D013747\tChemical\ttetrabenazine\twe herein describe the case of an 81-year-old japanese woman with neuroleptic malignant syndrome that occur 36 day after the initiation of combination therapy with tiapride ( 75 mg/day ) and <target> tetrabenazine </target> ( 12.5 mg/day ) for Huntington 's disease .",
+        "D006816\tDisease\tHuntington's disease\twe herein describe the case of an 81-year-old japanese woman with neuroleptic malignant syndrome that occur 36 day after the initiation of combination therapy with tiapride ( 75 mg/day ) and tetrabenazine ( 12.5 mg/day ) for <target> Huntington 's disease </target> .",
+        "D063325\tChemical\ttiapride\tthe patient have be treat with <target> tiapride </target> or tetrabenazine alone without any adverse effect before the administration of the combination therapy .",
+        "D013747\tChemical\ttetrabenazine\tthe patient have be treat with tiapride or <target> tetrabenazine </target> alone without any adverse effect before the administration of the combination therapy .",
+        "D001943\tDisease\tbreast cancer\tshe also have advance <target> breast cancer </target> when the combination therapy be initiate .",
+        "D009459\tDisease\tneuroleptic malignant syndrome\tto the good of our knowledge , the occurrence of <target> neuroleptic malignant syndrome </target> due to combination therapy with tetrabenazine and tiapride have not be previously report .",
+        "D013747\tChemical\ttetrabenazine\tto the good of our knowledge , the occurrence of neuroleptic malignant syndrome due to combination therapy with <target> tetrabenazine </target> and tiapride have not be previously report .",
+        "D063325\tChemical\ttiapride\tto the good of our knowledge , the occurrence of neuroleptic malignant syndrome due to combination therapy with tetrabenazine and <target> tiapride </target> have not be previously report .",
+        "D013747\tChemical\tTetrabenazine\t<target> tetrabenazine </target> should be administer very carefully in combination with other neuroleptic drug , particularly in patient with a worsen general condition .",
+        "D014150\tChemical\tneuroleptic drugs\ttetrabenazine should be administer very carefully in combination with other <target> neuroleptic drug </target> , particularly in patient with a worsen general condition ."
+    ]
+}

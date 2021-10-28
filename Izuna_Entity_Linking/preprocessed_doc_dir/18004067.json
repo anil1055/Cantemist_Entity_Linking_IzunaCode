@@ -1,0 +1,184 @@
+{
+    "title": "Acute liver failure in two patients with regular alcohol consumption ingesting paracetamol at therapeutic dosage.",
+    "abst": "BACKGROUND: The possible role of alcohol in the development of hepatotoxicity associated with therapeutic doses of paracetamol (acetaminophen) is currently debated. CASE REPORT: We describe 2 patients who were regular consumers of alcohol and who developed liver failure within 3-5 days after hospitalization and stopping alcohol consumption while being treated with 4 g paracetamol/day. A paracetamol serum level obtained in one of these patients was not in the toxic range. Possible risk factors for the development of hepatotoxicity in patients treated with therapeutic doses of paracetamol are discussed. CONCLUSION: In patients with risk factors, e.g. regular consumption of alcohol, liver failure is possible when therapeutic doses are ingested. We propose that the paracetamol dose should not exceed 2 g/day in such patients and that their liver function should be monitored closely while being treated with paracetamol.",
+    "title_plus_abst": "Acute liver failure in two patients with regular alcohol consumption ingesting paracetamol at therapeutic dosage. BACKGROUND: The possible role of alcohol in the development of hepatotoxicity associated with therapeutic doses of paracetamol (acetaminophen) is currently debated. CASE REPORT: We describe 2 patients who were regular consumers of alcohol and who developed liver failure within 3-5 days after hospitalization and stopping alcohol consumption while being treated with 4 g paracetamol/day. A paracetamol serum level obtained in one of these patients was not in the toxic range. Possible risk factors for the development of hepatotoxicity in patients treated with therapeutic doses of paracetamol are discussed. CONCLUSION: In patients with risk factors, e.g. regular consumption of alcohol, liver failure is possible when therapeutic doses are ingested. We propose that the paracetamol dose should not exceed 2 g/day in such patients and that their liver function should be monitored closely while being treated with paracetamol.",
+    "pubmed_id": "18004067",
+    "entities": [
+        [
+            0,
+            19,
+            "Acute liver failure",
+            "Disease",
+            "D017114"
+        ],
+        [
+            49,
+            56,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            79,
+            90,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            147,
+            154,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            177,
+            191,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            229,
+            240,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            242,
+            255,
+            "acetaminophen",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            345,
+            352,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            371,
+            384,
+            "liver failure",
+            "Disease",
+            "D017093"
+        ],
+        [
+            436,
+            443,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            485,
+            496,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            504,
+            515,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            635,
+            649,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            696,
+            707,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            794,
+            801,
+            "alcohol",
+            "Chemical",
+            "D000431"
+        ],
+        [
+            803,
+            816,
+            "liver failure",
+            "Disease",
+            "D017093"
+        ],
+        [
+            886,
+            897,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            1029,
+            1040,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ]
+    ],
+    "split_sentence": [
+        "Acute liver failure in two patients with regular alcohol consumption ingesting paracetamol at therapeutic dosage.",
+        "BACKGROUND: The possible role of alcohol in the development of hepatotoxicity associated with therapeutic doses of paracetamol (acetaminophen) is currently debated.",
+        "CASE REPORT: We describe 2 patients who were regular consumers of alcohol and who developed liver failure within 3-5 days after hospitalization and stopping alcohol consumption while being treated with 4 g paracetamol/day.",
+        "A paracetamol serum level obtained in one of these patients was not in the toxic range.",
+        "Possible risk factors for the development of hepatotoxicity in patients treated with therapeutic doses of paracetamol are discussed.",
+        "CONCLUSION: In patients with risk factors, e.g. regular consumption of alcohol, liver failure is possible when therapeutic doses are ingested.",
+        "We propose that the paracetamol dose should not exceed 2 g/day in such patients and that their liver function should be monitored closely while being treated with paracetamol."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017114\tDisease\tAcute liver failure\t<target> Acute liver failure </target> in two patients with regular alcohol consumption ingesting paracetamol at therapeutic dosage .",
+        "D000431\tChemical\talcohol\tAcute liver failure in two patients with regular <target> alcohol </target> consumption ingesting paracetamol at therapeutic dosage .",
+        "D000082\tChemical\tparacetamol\tAcute liver failure in two patients with regular alcohol consumption ingesting <target> paracetamol </target> at therapeutic dosage .",
+        "D000431\tChemical\talcohol\tBACKGROUND : The possible role of <target> alcohol </target> in the development of hepatotoxicity associated with therapeutic doses of paracetamol ( acetaminophen ) is currently debated .",
+        "D056486\tDisease\thepatotoxicity\tBACKGROUND : The possible role of alcohol in the development of <target> hepatotoxicity </target> associated with therapeutic doses of paracetamol ( acetaminophen ) is currently debated .",
+        "D000082\tChemical\tparacetamol\tBACKGROUND : The possible role of alcohol in the development of hepatotoxicity associated with therapeutic doses of <target> paracetamol </target> ( acetaminophen ) is currently debated .",
+        "D000082\tChemical\tacetaminophen\tBACKGROUND : The possible role of alcohol in the development of hepatotoxicity associated with therapeutic doses of paracetamol ( <target> acetaminophen </target> ) is currently debated .",
+        "D000431\tChemical\talcohol\tCASE REPORT : We describe 2 patients who were regular consumers of <target> alcohol </target> and who developed liver failure within 3 - 5 days after hospitalization and stopping alcohol consumption while being treated with 4 g paracetamol/day .",
+        "D017093\tDisease\tliver failure\tCASE REPORT : We describe 2 patients who were regular consumers of alcohol and who developed <target> liver failure </target> within 3 - 5 days after hospitalization and stopping alcohol consumption while being treated with 4 g paracetamol/day .",
+        "D000431\tChemical\talcohol\tCASE REPORT : We describe 2 patients who were regular consumers of alcohol and who developed liver failure within 3 - 5 days after hospitalization and stopping <target> alcohol </target> consumption while being treated with 4 g paracetamol/day .",
+        "D000082\tChemical\tparacetamol\tCASE REPORT : We describe 2 patients who were regular consumers of alcohol and who developed liver failure within 3 - 5 days after hospitalization and stopping alcohol consumption while being treated with 4 g <target> paracetamol </target> /day .",
+        "D000082\tChemical\tparacetamol\tA <target> paracetamol </target> serum level obtained in one of these patients was not in the toxic range .",
+        "D056486\tDisease\thepatotoxicity\tPossible risk factors for the development of <target> hepatotoxicity </target> in patients treated with therapeutic doses of paracetamol are discussed .",
+        "D000082\tChemical\tparacetamol\tPossible risk factors for the development of hepatotoxicity in patients treated with therapeutic doses of <target> paracetamol </target> are discussed .",
+        "D000431\tChemical\talcohol\tCONCLUSION : In patients with risk factors , e.g. regular consumption of <target> alcohol </target> , liver failure is possible when therapeutic doses are ingested .",
+        "D017093\tDisease\tliver failure\tCONCLUSION : In patients with risk factors , e.g. regular consumption of alcohol , <target> liver failure </target> is possible when therapeutic doses are ingested .",
+        "D000082\tChemical\tparacetamol\tWe propose that the <target> paracetamol </target> dose should not exceed 2 g/day in such patients and that their liver function should be monitored closely while being treated with paracetamol .",
+        "D000082\tChemical\tparacetamol\tWe propose that the paracetamol dose should not exceed 2 g/day in such patients and that their liver function should be monitored closely while being treated with <target> paracetamol </target> ."
+    ],
+    "lines_lemma": [
+        "D017114\tDisease\tAcute liver failure\t<target> acute liver failure </target> in two patient with regular alcohol consumption ingest paracetamol at therapeutic dosage .",
+        "D000431\tChemical\talcohol\tacute liver failure in two patient with regular <target> alcohol </target> consumption ingest paracetamol at therapeutic dosage .",
+        "D000082\tChemical\tparacetamol\tacute liver failure in two patient with regular alcohol consumption ingest <target> paracetamol </target> at therapeutic dosage .",
+        "D000431\tChemical\talcohol\tbackground : the possible role of <target> alcohol </target> in the development of hepatotoxicity associate with therapeutic dose of paracetamol ( acetaminophen ) be currently debate .",
+        "D056486\tDisease\thepatotoxicity\tbackground : the possible role of alcohol in the development of <target> hepatotoxicity </target> associate with therapeutic dose of paracetamol ( acetaminophen ) be currently debate .",
+        "D000082\tChemical\tparacetamol\tbackground : the possible role of alcohol in the development of hepatotoxicity associate with therapeutic dose of <target> paracetamol </target> ( acetaminophen ) be currently debate .",
+        "D000082\tChemical\tacetaminophen\tbackground : the possible role of alcohol in the development of hepatotoxicity associate with therapeutic dose of paracetamol ( <target> acetaminophen </target> ) be currently debate .",
+        "D000431\tChemical\talcohol\tcase report : we describe 2 patient who be regular consumer of <target> alcohol </target> and who develop liver failure within 3 - 5 day after hospitalization and stop alcohol consumption while be treat with 4 g paracetamol/day .",
+        "D017093\tDisease\tliver failure\tcase report : we describe 2 patient who be regular consumer of alcohol and who develop <target> liver failure </target> within 3 - 5 day after hospitalization and stop alcohol consumption while be treat with 4 g paracetamol/day .",
+        "D000431\tChemical\talcohol\tcase report : we describe 2 patient who be regular consumer of alcohol and who develop liver failure within 3 - 5 day after hospitalization and stop <target> alcohol </target> consumption while be treat with 4 g paracetamol/day .",
+        "D000082\tChemical\tparacetamol\tcase report : we describe 2 patient who be regular consumer of alcohol and who develop liver failure within 3 - 5 day after hospitalization and stop alcohol consumption while be treat with 4 g <target> paracetamol </target> /day .",
+        "D000082\tChemical\tparacetamol\ta <target> paracetamol </target> serum level obtain in one of these patient be not in the toxic range .",
+        "D056486\tDisease\thepatotoxicity\tpossible risk factor for the development of <target> hepatotoxicity </target> in patient treat with therapeutic dose of paracetamol be discuss .",
+        "D000082\tChemical\tparacetamol\tpossible risk factor for the development of hepatotoxicity in patient treat with therapeutic dose of <target> paracetamol </target> be discuss .",
+        "D000431\tChemical\talcohol\tconclusion : in patient with risk factor , e.g. regular consumption of <target> alcohol </target> , liver failure be possible when therapeutic dose be ingest .",
+        "D017093\tDisease\tliver failure\tconclusion : in patient with risk factor , e.g. regular consumption of alcohol , <target> liver failure </target> be possible when therapeutic dose be ingest .",
+        "D000082\tChemical\tparacetamol\twe propose that the <target> paracetamol </target> dose should not exceed 2 g/day in such patient and that their liver function should be monitor closely while be treat with paracetamol .",
+        "D000082\tChemical\tparacetamol\twe propose that the paracetamol dose should not exceed 2 g/day in such patient and that their liver function should be monitor closely while be treat with <target> paracetamol </target> ."
+    ]
+}

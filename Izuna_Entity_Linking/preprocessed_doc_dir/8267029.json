@@ -1,0 +1,158 @@
+{
+    "title": "Penicillamine-induced rapidly progressive glomerulonephritis in a patient with rheumatoid arthritis.",
+    "abst": "A 67-year-old woman with rheumatoid arthritis presented rapidly progressive glomerulonephritis (RPGN) after 5 months of D-penicillamine (250 mg/day) treatment. Light microscopy study showed severe glomerulonephritis with crescent formation in 60% of the glomeruli and infiltration of inflammatory cells in the wall of an arteriole. Immunofluorescence revealed scanty granular IgG, IgA and C3 deposits along the capillary walls and mesangium. The patient was treated with steroid pulse, plasmapheresis, cyclophosphamide and antiplatelet agents. A complete recovery of renal function was achieved in a few weeks. This new case of RPGN in the course of D-penicillamine treatment emphasizes the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patients. The prompt discontinuation of D-penicillamine and vigorous treatment measures could allow for a good prognosis as in this case.",
+    "title_plus_abst": "Penicillamine-induced rapidly progressive glomerulonephritis in a patient with rheumatoid arthritis. A 67-year-old woman with rheumatoid arthritis presented rapidly progressive glomerulonephritis (RPGN) after 5 months of D-penicillamine (250 mg/day) treatment. Light microscopy study showed severe glomerulonephritis with crescent formation in 60% of the glomeruli and infiltration of inflammatory cells in the wall of an arteriole. Immunofluorescence revealed scanty granular IgG, IgA and C3 deposits along the capillary walls and mesangium. The patient was treated with steroid pulse, plasmapheresis, cyclophosphamide and antiplatelet agents. A complete recovery of renal function was achieved in a few weeks. This new case of RPGN in the course of D-penicillamine treatment emphasizes the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patients. The prompt discontinuation of D-penicillamine and vigorous treatment measures could allow for a good prognosis as in this case.",
+    "pubmed_id": "8267029",
+    "entities": [
+        [
+            0,
+            13,
+            "Penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            42,
+            60,
+            "glomerulonephritis",
+            "Disease",
+            "D005921"
+        ],
+        [
+            79,
+            99,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            126,
+            146,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            177,
+            195,
+            "glomerulonephritis",
+            "Disease",
+            "D005921"
+        ],
+        [
+            197,
+            201,
+            "RPGN",
+            "Disease",
+            "D005921"
+        ],
+        [
+            221,
+            236,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            298,
+            316,
+            "glomerulonephritis",
+            "Disease",
+            "D005921"
+        ],
+        [
+            572,
+            579,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ],
+        [
+            603,
+            619,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            624,
+            643,
+            "antiplatelet agents",
+            "Chemical",
+            "D010975"
+        ],
+        [
+            729,
+            733,
+            "RPGN",
+            "Disease",
+            "D005921"
+        ],
+        [
+            751,
+            766,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ],
+        [
+            878,
+            889,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            939,
+            954,
+            "D-penicillamine",
+            "Chemical",
+            "D010396"
+        ]
+    ],
+    "split_sentence": [
+        "Penicillamine-induced rapidly progressive glomerulonephritis in a patient with rheumatoid arthritis.",
+        "A 67-year-old woman with rheumatoid arthritis presented rapidly progressive glomerulonephritis (RPGN) after 5 months of D-penicillamine (250 mg/day) treatment.",
+        "Light microscopy study showed severe glomerulonephritis with crescent formation in 60% of the glomeruli and infiltration of inflammatory cells in the wall of an arteriole.",
+        "Immunofluorescence revealed scanty granular IgG, IgA and C3 deposits along the capillary walls and mesangium.",
+        "The patient was treated with steroid pulse, plasmapheresis, cyclophosphamide and antiplatelet agents.",
+        "A complete recovery of renal function was achieved in a few weeks.",
+        "This new case of RPGN in the course of D-penicillamine treatment emphasizes the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patients.",
+        "The prompt discontinuation of D-penicillamine and vigorous treatment measures could allow for a good prognosis as in this case."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010396\tChemical\tPenicillamine\t<target> Penicillamine </target> -induced rapidly progressive glomerulonephritis in a patient with rheumatoid arthritis .",
+        "D005921\tDisease\tglomerulonephritis\tPenicillamine-induced rapidly progressive <target> glomerulonephritis </target> in a patient with rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tPenicillamine-induced rapidly progressive glomerulonephritis in a patient with <target> rheumatoid arthritis </target> .",
+        "D001172\tDisease\trheumatoid arthritis\tA 67-year-old woman with <target> rheumatoid arthritis </target> presented rapidly progressive glomerulonephritis ( RPGN ) after 5 months of D-penicillamine ( 250 mg/day ) treatment .",
+        "D005921\tDisease\tglomerulonephritis\tA 67-year-old woman with rheumatoid arthritis presented rapidly progressive <target> glomerulonephritis </target> ( RPGN ) after 5 months of D-penicillamine ( 250 mg/day ) treatment .",
+        "D005921\tDisease\tRPGN\tA 67-year-old woman with rheumatoid arthritis presented rapidly progressive glomerulonephritis ( <target> RPGN </target> ) after 5 months of D-penicillamine ( 250 mg/day ) treatment .",
+        "D010396\tChemical\tD-penicillamine\tA 67-year-old woman with rheumatoid arthritis presented rapidly progressive glomerulonephritis ( RPGN ) after 5 months of <target> D-penicillamine </target> ( 250 mg/day ) treatment .",
+        "D005921\tDisease\tglomerulonephritis\tLight microscopy study showed severe <target> glomerulonephritis </target> with crescent formation in 60 % of the glomeruli and infiltration of inflammatory cells in the wall of an arteriole .",
+        "D013256\tChemical\tsteroid\tThe patient was treated with <target> steroid </target> pulse , plasmapheresis , cyclophosphamide and antiplatelet agents .",
+        "D003520\tChemical\tcyclophosphamide\tThe patient was treated with steroid pulse , plasmapheresis , <target> cyclophosphamide </target> and antiplatelet agents .",
+        "D010975\tChemical\tantiplatelet agents\tThe patient was treated with steroid pulse , plasmapheresis , cyclophosphamide and <target> antiplatelet agents </target> .",
+        "D005921\tDisease\tRPGN\tThis new case of <target> RPGN </target> in the course of D-penicillamine treatment emphasizes the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patients .",
+        "D010396\tChemical\tD-penicillamine\tThis new case of RPGN in the course of <target> D-penicillamine </target> treatment emphasizes the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patients .",
+        "D011507\tDisease\tproteinuria\tThis new case of RPGN in the course of D-penicillamine treatment emphasizes the need for frequent monitoring of renal function and evaluation of urinary sediment and <target> proteinuria </target> in these patients .",
+        "D010396\tChemical\tD-penicillamine\tThe prompt discontinuation of <target> D-penicillamine </target> and vigorous treatment measures could allow for a good prognosis as in this case ."
+    ],
+    "lines_lemma": [
+        "D010396\tChemical\tPenicillamine\t<target> penicillamine </target> -induced rapidly progressive glomerulonephritis in a patient with rheumatoid arthritis .",
+        "D005921\tDisease\tglomerulonephritis\tpenicillamine-induced rapidly progressive <target> glomerulonephritis </target> in a patient with rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tpenicillamine-induced rapidly progressive glomerulonephritis in a patient with <target> rheumatoid arthritis </target> .",
+        "D001172\tDisease\trheumatoid arthritis\ta 67-year-old woman with <target> rheumatoid arthritis </target> present rapidly progressive glomerulonephritis ( rpgn ) after 5 month of d-penicillamine ( 250 mg/day ) treatment .",
+        "D005921\tDisease\tglomerulonephritis\ta 67-year-old woman with rheumatoid arthritis present rapidly progressive <target> glomerulonephritis </target> ( rpgn ) after 5 month of d-penicillamine ( 250 mg/day ) treatment .",
+        "D005921\tDisease\tRPGN\ta 67-year-old woman with rheumatoid arthritis present rapidly progressive glomerulonephritis ( <target> rpgn </target> ) after 5 month of d-penicillamine ( 250 mg/day ) treatment .",
+        "D010396\tChemical\tD-penicillamine\ta 67-year-old woman with rheumatoid arthritis present rapidly progressive glomerulonephritis ( rpgn ) after 5 month of <target> d-penicillamine </target> ( 250 mg/day ) treatment .",
+        "D005921\tDisease\tglomerulonephritis\tlight microscopy study show severe <target> glomerulonephritis </target> with crescent formation in 60 % of the glomerulus and infiltration of inflammatory cell in the wall of an arteriole .",
+        "D013256\tChemical\tsteroid\tthe patient be treat with <target> steroid </target> pulse , plasmapheresis , cyclophosphamide and antiplatelet agent .",
+        "D003520\tChemical\tcyclophosphamide\tthe patient be treat with steroid pulse , plasmapheresis , <target> cyclophosphamide </target> and antiplatelet agent .",
+        "D010975\tChemical\tantiplatelet agents\tthe patient be treat with steroid pulse , plasmapheresis , cyclophosphamide and <target> antiplatelet agent </target> .",
+        "D005921\tDisease\tRPGN\tthis new case of <target> rpgn </target> in the course of d-penicillamine treatment emphasize the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patient .",
+        "D010396\tChemical\tD-penicillamine\tthis new case of rpgn in the course of <target> d-penicillamine </target> treatment emphasize the need for frequent monitoring of renal function and evaluation of urinary sediment and proteinuria in these patient .",
+        "D011507\tDisease\tproteinuria\tthis new case of rpgn in the course of d-penicillamine treatment emphasize the need for frequent monitoring of renal function and evaluation of urinary sediment and <target> proteinuria </target> in these patient .",
+        "D010396\tChemical\tD-penicillamine\tthe prompt discontinuation of <target> d-penicillamine </target> and vigorous treatment measure could allow for a good prognosis as in this case ."
+    ]
+}

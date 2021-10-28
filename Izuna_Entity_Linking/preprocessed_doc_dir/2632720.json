@@ -1,0 +1,156 @@
+{
+    "title": "Arterial hypertension as a complication of prolonged ketoconazole treatment.",
+    "abst": "Two of 14 patients with Cushing's syndrome treated on a long-term basis with ketoconazole developed sustained hypertension. In both cases normal plasma and urinary free cortisol levels had been achieved following ketoconazole therapy, yet continuous blood pressure monitoring demonstrated hypertension 31 (patient 1) and 52 weeks (patient 2) after treatment. In patient 1, plasma levels of deoxycorticosterone and 11-deoxycortisol were elevated. In patient 2, in addition to an increase in both deoxycorticosterone and 11-deoxycortisol levels, plasma aldosterone values were raised, with a concomitant suppression of renin levels. Our findings show that long-term treatment with high doses of ketoconazole may induce enzyme blockade leading to mineralocorticoid-related hypertension.",
+    "title_plus_abst": "Arterial hypertension as a complication of prolonged ketoconazole treatment. Two of 14 patients with Cushing's syndrome treated on a long-term basis with ketoconazole developed sustained hypertension. In both cases normal plasma and urinary free cortisol levels had been achieved following ketoconazole therapy, yet continuous blood pressure monitoring demonstrated hypertension 31 (patient 1) and 52 weeks (patient 2) after treatment. In patient 1, plasma levels of deoxycorticosterone and 11-deoxycortisol were elevated. In patient 2, in addition to an increase in both deoxycorticosterone and 11-deoxycortisol levels, plasma aldosterone values were raised, with a concomitant suppression of renin levels. Our findings show that long-term treatment with high doses of ketoconazole may induce enzyme blockade leading to mineralocorticoid-related hypertension.",
+    "pubmed_id": "2632720",
+    "entities": [
+        [
+            9,
+            21,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            53,
+            65,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            101,
+            119,
+            "Cushing's syndrome",
+            "Disease",
+            "D003480"
+        ],
+        [
+            154,
+            166,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            187,
+            199,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            246,
+            254,
+            "cortisol",
+            "Chemical",
+            "D006854"
+        ],
+        [
+            290,
+            302,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            366,
+            378,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            467,
+            486,
+            "deoxycorticosterone",
+            "Chemical",
+            "D003900"
+        ],
+        [
+            491,
+            507,
+            "11-deoxycortisol",
+            "Chemical",
+            "D003350"
+        ],
+        [
+            572,
+            591,
+            "deoxycorticosterone",
+            "Chemical",
+            "D003900"
+        ],
+        [
+            596,
+            612,
+            "11-deoxycortisol",
+            "Chemical",
+            "D003350"
+        ],
+        [
+            628,
+            639,
+            "aldosterone",
+            "Chemical",
+            "D000450"
+        ],
+        [
+            770,
+            782,
+            "ketoconazole",
+            "Chemical",
+            "D007654"
+        ],
+        [
+            847,
+            859,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ]
+    ],
+    "split_sentence": [
+        "Arterial hypertension as a complication of prolonged ketoconazole treatment.",
+        "Two of 14 patients with Cushing's syndrome treated on a long-term basis with ketoconazole developed sustained hypertension.",
+        "In both cases normal plasma and urinary free cortisol levels had been achieved following ketoconazole therapy, yet continuous blood pressure monitoring demonstrated hypertension 31 (patient 1) and 52 weeks (patient 2) after treatment.",
+        "In patient 1, plasma levels of deoxycorticosterone and 11-deoxycortisol were elevated.",
+        "In patient 2, in addition to an increase in both deoxycorticosterone and 11-deoxycortisol levels, plasma aldosterone values were raised, with a concomitant suppression of renin levels.",
+        "Our findings show that long-term treatment with high doses of ketoconazole may induce enzyme blockade leading to mineralocorticoid-related hypertension."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006973\tDisease\thypertension\tArterial <target> hypertension </target> as a complication of prolonged ketoconazole treatment .",
+        "D007654\tChemical\tketoconazole\tArterial hypertension as a complication of prolonged <target> ketoconazole </target> treatment .",
+        "D003480\tDisease\tCushing's syndrome\tTwo of 14 patients with <target> Cushing 's syndrome </target> treated on a long-term basis with ketoconazole developed sustained hypertension .",
+        "D007654\tChemical\tketoconazole\tTwo of 14 patients with Cushing 's syndrome treated on a long-term basis with <target> ketoconazole </target> developed sustained hypertension .",
+        "D006973\tDisease\thypertension\tTwo of 14 patients with Cushing 's syndrome treated on a long-term basis with ketoconazole developed sustained <target> hypertension </target> .",
+        "D006854\tChemical\tcortisol\tIn both cases normal plasma and urinary free <target> cortisol </target> levels had been achieved following ketoconazole therapy , yet continuous blood pressure monitoring demonstrated hypertension 31 ( patient 1 ) and 52 weeks ( patient 2 ) after treatment .",
+        "D007654\tChemical\tketoconazole\tIn both cases normal plasma and urinary free cortisol levels had been achieved following <target> ketoconazole </target> therapy , yet continuous blood pressure monitoring demonstrated hypertension 31 ( patient 1 ) and 52 weeks ( patient 2 ) after treatment .",
+        "D006973\tDisease\thypertension\tIn both cases normal plasma and urinary free cortisol levels had been achieved following ketoconazole therapy , yet continuous blood pressure monitoring demonstrated <target> hypertension </target> 31 ( patient 1 ) and 52 weeks ( patient 2 ) after treatment .",
+        "D003900\tChemical\tdeoxycorticosterone\tIn patient 1 , plasma levels of <target> deoxycorticosterone </target> and 11-deoxycortisol were elevated .",
+        "D003350\tChemical\t11-deoxycortisol\tIn patient 1 , plasma levels of deoxycorticosterone and <target> 11-deoxycortisol </target> were elevated .",
+        "D003900\tChemical\tdeoxycorticosterone\tIn patient 2 , in addition to an increase in both <target> deoxycorticosterone </target> and 11-deoxycortisol levels , plasma aldosterone values were raised , with a concomitant suppression of renin levels .",
+        "D003350\tChemical\t11-deoxycortisol\tIn patient 2 , in addition to an increase in both deoxycorticosterone and <target> 11-deoxycortisol </target> levels , plasma aldosterone values were raised , with a concomitant suppression of renin levels .",
+        "D000450\tChemical\taldosterone\tIn patient 2 , in addition to an increase in both deoxycorticosterone and 11-deoxycortisol levels , plasma <target> aldosterone </target> values were raised , with a concomitant suppression of renin levels .",
+        "D007654\tChemical\tketoconazole\tOur findings show that long-term treatment with high doses of <target> ketoconazole </target> may induce enzyme blockade leading to mineralocorticoid-related hypertension .",
+        "D006973\tDisease\thypertension\tOur findings show that long-term treatment with high doses of ketoconazole may induce enzyme blockade leading to mineralocorticoid-related <target> hypertension </target> ."
+    ],
+    "lines_lemma": [
+        "D006973\tDisease\thypertension\tarterial <target> hypertension </target> as a complication of prolonged ketoconazole treatment .",
+        "D007654\tChemical\tketoconazole\tarterial hypertension as a complication of prolonged <target> ketoconazole </target> treatment .",
+        "D003480\tDisease\tCushing's syndrome\ttwo of 14 patient with <target> cushing 's syndrome </target> treat on a long-term basis with ketoconazole develop sustained hypertension .",
+        "D007654\tChemical\tketoconazole\ttwo of 14 patient with cushing 's syndrome treat on a long-term basis with <target> ketoconazole </target> develop sustained hypertension .",
+        "D006973\tDisease\thypertension\ttwo of 14 patient with cushing 's syndrome treat on a long-term basis with ketoconazole develop sustained <target> hypertension </target> .",
+        "D006854\tChemical\tcortisol\tin both case normal plasma and urinary free <target> cortisol </target> level have be achieve follow ketoconazole therapy , yet continuous blood pressure monitoring demonstrate hypertension 31 ( patient 1 ) and 52 week ( patient 2 ) after treatment .",
+        "D007654\tChemical\tketoconazole\tin both case normal plasma and urinary free cortisol level have be achieve follow <target> ketoconazole </target> therapy , yet continuous blood pressure monitoring demonstrate hypertension 31 ( patient 1 ) and 52 week ( patient 2 ) after treatment .",
+        "D006973\tDisease\thypertension\tin both case normal plasma and urinary free cortisol level have be achieve follow ketoconazole therapy , yet continuous blood pressure monitoring demonstrate <target> hypertension </target> 31 ( patient 1 ) and 52 week ( patient 2 ) after treatment .",
+        "D003900\tChemical\tdeoxycorticosterone\tin patient 1 , plasma level of <target> deoxycorticosterone </target> and 11-deoxycortisol be elevated .",
+        "D003350\tChemical\t11-deoxycortisol\tin patient 1 , plasma level of deoxycorticosterone and <target> 11-deoxycortisol </target> be elevated .",
+        "D003900\tChemical\tdeoxycorticosterone\tin patient 2 , in addition to an increase in both <target> deoxycorticosterone </target> and 11-deoxycortisol level , plasma aldosterone value be raise , with a concomitant suppression of renin level .",
+        "D003350\tChemical\t11-deoxycortisol\tin patient 2 , in addition to an increase in both deoxycorticosterone and <target> 11-deoxycortisol </target> level , plasma aldosterone value be raise , with a concomitant suppression of renin level .",
+        "D000450\tChemical\taldosterone\tin patient 2 , in addition to an increase in both deoxycorticosterone and 11-deoxycortisol level , plasma <target> aldosterone </target> value be raise , with a concomitant suppression of renin level .",
+        "D007654\tChemical\tketoconazole\tour finding show that long-term treatment with high dose of <target> ketoconazole </target> may induce enzyme blockade lead to mineralocorticoid-related hypertension .",
+        "D006973\tDisease\thypertension\tour finding show that long-term treatment with high dose of ketoconazole may induce enzyme blockade lead to mineralocorticoid-related <target> hypertension </target> ."
+    ]
+}

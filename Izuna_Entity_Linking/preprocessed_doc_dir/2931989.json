@@ -1,0 +1,156 @@
+{
+    "title": "Adverse ocular reactions possibly associated with isotretinoin.",
+    "abst": "A total of 261 adverse ocular reactions occurred in 237 patients who received isotretinoin, a commonly used drug in the treatment of severe cystic acne. Blepharoconjunctivitis, subjective complaints of dry eyes, blurred vision, contact lens intolerance, and photodermatitis are reversible side effects. More serious ocular adverse reactions include papilledema, pseudotumor cerebri, and white or gray subepithelial corneal opacities; all of these are reversible if the drug is discontinued. Reported cases of decreased dark adaptation are under investigation. Isotretinoin is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use (including microphthalmos, orbital hypertelorism, and optic nerve hypoplasia).",
+    "title_plus_abst": "Adverse ocular reactions possibly associated with isotretinoin. A total of 261 adverse ocular reactions occurred in 237 patients who received isotretinoin, a commonly used drug in the treatment of severe cystic acne. Blepharoconjunctivitis, subjective complaints of dry eyes, blurred vision, contact lens intolerance, and photodermatitis are reversible side effects. More serious ocular adverse reactions include papilledema, pseudotumor cerebri, and white or gray subepithelial corneal opacities; all of these are reversible if the drug is discontinued. Reported cases of decreased dark adaptation are under investigation. Isotretinoin is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use (including microphthalmos, orbital hypertelorism, and optic nerve hypoplasia).",
+    "pubmed_id": "2931989",
+    "entities": [
+        [
+            50,
+            62,
+            "isotretinoin",
+            "Chemical",
+            "D015474"
+        ],
+        [
+            142,
+            154,
+            "isotretinoin",
+            "Chemical",
+            "D015474"
+        ],
+        [
+            211,
+            215,
+            "acne",
+            "Disease",
+            "D000152"
+        ],
+        [
+            217,
+            239,
+            "Blepharoconjunctivitis",
+            "Disease",
+            "D003231"
+        ],
+        [
+            266,
+            274,
+            "dry eyes",
+            "Disease",
+            "D014985"
+        ],
+        [
+            276,
+            290,
+            "blurred vision",
+            "Disease",
+            "D014786"
+        ],
+        [
+            322,
+            337,
+            "photodermatitis",
+            "Disease",
+            "D010787"
+        ],
+        [
+            413,
+            424,
+            "papilledema",
+            "Disease",
+            "D010211"
+        ],
+        [
+            426,
+            445,
+            "pseudotumor cerebri",
+            "Disease",
+            "D011559"
+        ],
+        [
+            479,
+            496,
+            "corneal opacities",
+            "Disease",
+            "D003318"
+        ],
+        [
+            624,
+            636,
+            "Isotretinoin",
+            "Chemical",
+            "D015474"
+        ],
+        [
+            698,
+            722,
+            "congenital abnormalities",
+            "Disease",
+            "D000013"
+        ],
+        [
+            753,
+            767,
+            "microphthalmos",
+            "Disease",
+            "D008850"
+        ],
+        [
+            777,
+            790,
+            "hypertelorism",
+            "Disease",
+            "D006972"
+        ],
+        [
+            796,
+            818,
+            "optic nerve hypoplasia",
+            "Disease",
+            "C563492"
+        ]
+    ],
+    "split_sentence": [
+        "Adverse ocular reactions possibly associated with isotretinoin.",
+        "A total of 261 adverse ocular reactions occurred in 237 patients who received isotretinoin, a commonly used drug in the treatment of severe cystic acne.",
+        "Blepharoconjunctivitis, subjective complaints of dry eyes, blurred vision, contact lens intolerance, and photodermatitis are reversible side effects.",
+        "More serious ocular adverse reactions include papilledema, pseudotumor cerebri, and white or gray subepithelial corneal opacities; all of these are reversible if the drug is discontinued.",
+        "Reported cases of decreased dark adaptation are under investigation.",
+        "Isotretinoin is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use (including microphthalmos, orbital hypertelorism, and optic nerve hypoplasia)."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015474\tChemical\tisotretinoin\tAdverse ocular reactions possibly associated with <target> isotretinoin </target> .",
+        "D015474\tChemical\tisotretinoin\tA total of 261 adverse ocular reactions occurred in 237 patients who received <target> isotretinoin </target> , a commonly used drug in the treatment of severe cystic acne .",
+        "D000152\tDisease\tacne\tA total of 261 adverse ocular reactions occurred in 237 patients who received isotretinoin , a commonly used drug in the treatment of severe cystic <target> acne </target> .",
+        "D003231\tDisease\tBlepharoconjunctivitis\t<target> Blepharoconjunctivitis </target> , subjective complaints of dry eyes , blurred vision , contact lens intolerance , and photodermatitis are reversible side effects .",
+        "D014985\tDisease\tdry eyes\tBlepharoconjunctivitis , subjective complaints of <target> dry eyes </target> , blurred vision , contact lens intolerance , and photodermatitis are reversible side effects .",
+        "D014786\tDisease\tblurred vision\tBlepharoconjunctivitis , subjective complaints of dry eyes , <target> blurred vision </target> , contact lens intolerance , and photodermatitis are reversible side effects .",
+        "D010787\tDisease\tphotodermatitis\tBlepharoconjunctivitis , subjective complaints of dry eyes , blurred vision , contact lens intolerance , and <target> photodermatitis </target> are reversible side effects .",
+        "D010211\tDisease\tpapilledema\tMore serious ocular adverse reactions include <target> papilledema </target> , pseudotumor cerebri , and white or gray subepithelial corneal opacities ; all of these are reversible if the drug is discontinued .",
+        "D011559\tDisease\tpseudotumor cerebri\tMore serious ocular adverse reactions include papilledema , <target> pseudotumor cerebri </target> , and white or gray subepithelial corneal opacities ; all of these are reversible if the drug is discontinued .",
+        "D003318\tDisease\tcorneal opacities\tMore serious ocular adverse reactions include papilledema , pseudotumor cerebri , and white or gray subepithelial <target> corneal opacities </target> ; all of these are reversible if the drug is discontinued .",
+        "D015474\tChemical\tIsotretinoin\t<target> Isotretinoin </target> is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use ( including microphthalmos , orbital hypertelorism , and optic nerve hypoplasia ) .",
+        "D000013\tDisease\tcongenital abnormalities\tIsotretinoin is contraindicated in pregnancy because of the many reported <target> congenital abnormalities </target> after maternal use ( including microphthalmos , orbital hypertelorism , and optic nerve hypoplasia ) .",
+        "D008850\tDisease\tmicrophthalmos\tIsotretinoin is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use ( including <target> microphthalmos </target> , orbital hypertelorism , and optic nerve hypoplasia ) .",
+        "D006972\tDisease\thypertelorism\tIsotretinoin is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use ( including microphthalmos , orbital <target> hypertelorism </target> , and optic nerve hypoplasia ) .",
+        "C563492\tDisease\toptic nerve hypoplasia\tIsotretinoin is contraindicated in pregnancy because of the many reported congenital abnormalities after maternal use ( including microphthalmos , orbital hypertelorism , and <target> optic nerve hypoplasia </target> ) ."
+    ],
+    "lines_lemma": [
+        "D015474\tChemical\tisotretinoin\tadverse ocular reaction possibly associate with <target> isotretinoin </target> .",
+        "D015474\tChemical\tisotretinoin\ta total of 261 adverse ocular reaction occur in 237 patient who receive <target> isotretinoin </target> , a commonly use drug in the treatment of severe cystic acne .",
+        "D000152\tDisease\tacne\ta total of 261 adverse ocular reaction occur in 237 patient who receive isotretinoin , a commonly use drug in the treatment of severe cystic <target> acne </target> .",
+        "D003231\tDisease\tBlepharoconjunctivitis\t<target> Blepharoconjunctivitis </target> , subjective complaint of dry eye , blur vision , contact lens intolerance , and photodermatitis be reversible side effect .",
+        "D014985\tDisease\tdry eyes\tBlepharoconjunctivitis , subjective complaint of <target> dry eye </target> , blur vision , contact lens intolerance , and photodermatitis be reversible side effect .",
+        "D014786\tDisease\tblurred vision\tBlepharoconjunctivitis , subjective complaint of dry eye , <target> blur vision </target> , contact lens intolerance , and photodermatitis be reversible side effect .",
+        "D010787\tDisease\tphotodermatitis\tBlepharoconjunctivitis , subjective complaint of dry eye , blur vision , contact lens intolerance , and <target> photodermatitis </target> be reversible side effect .",
+        "D010211\tDisease\tpapilledema\tmore serious ocular adverse reaction include <target> papilledema </target> , pseudotumor cerebri , and white or gray subepithelial corneal opacity ; all of these be reversible if the drug be discontinue .",
+        "D011559\tDisease\tpseudotumor cerebri\tmore serious ocular adverse reaction include papilledema , <target> pseudotumor cerebri </target> , and white or gray subepithelial corneal opacity ; all of these be reversible if the drug be discontinue .",
+        "D003318\tDisease\tcorneal opacities\tmore serious ocular adverse reaction include papilledema , pseudotumor cerebri , and white or gray subepithelial <target> corneal opacity </target> ; all of these be reversible if the drug be discontinue .",
+        "D015474\tChemical\tIsotretinoin\t<target> Isotretinoin </target> be contraindicate in pregnancy because of the many report congenital abnormality after maternal use ( include microphthalmo , orbital hypertelorism , and optic nerve hypoplasia ) .",
+        "D000013\tDisease\tcongenital abnormalities\tIsotretinoin be contraindicate in pregnancy because of the many report <target> congenital abnormality </target> after maternal use ( include microphthalmo , orbital hypertelorism , and optic nerve hypoplasia ) .",
+        "D008850\tDisease\tmicrophthalmos\tIsotretinoin be contraindicate in pregnancy because of the many report congenital abnormality after maternal use ( include <target> microphthalmo </target> , orbital hypertelorism , and optic nerve hypoplasia ) .",
+        "D006972\tDisease\thypertelorism\tIsotretinoin be contraindicate in pregnancy because of the many report congenital abnormality after maternal use ( include microphthalmo , orbital <target> hypertelorism </target> , and optic nerve hypoplasia ) .",
+        "C563492\tDisease\toptic nerve hypoplasia\tIsotretinoin be contraindicate in pregnancy because of the many report congenital abnormality after maternal use ( include microphthalmo , orbital hypertelorism , and <target> optic nerve hypoplasia </target> ) ."
+    ]
+}

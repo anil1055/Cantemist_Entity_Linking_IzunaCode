@@ -1,0 +1,102 @@
+{
+    "title": "Photodistributed nifedipine-induced facial telangiectasia.",
+    "abst": "Five months after starting nifedipine (Adalat), two patients developed photodistributed facial telangiectasia, which became more noticeable with time. Neither patient complained of photosensitivity or flushing. Both patients reported a significant cosmetic improvement after discontinuing the drug. One commenced the closely related drug amlodipine 3 years later, with recurrence of telangiectasia. The photodistribution of the telangiectasia suggests a significant drug/light interaction.",
+    "title_plus_abst": "Photodistributed nifedipine-induced facial telangiectasia. Five months after starting nifedipine (Adalat), two patients developed photodistributed facial telangiectasia, which became more noticeable with time. Neither patient complained of photosensitivity or flushing. Both patients reported a significant cosmetic improvement after discontinuing the drug. One commenced the closely related drug amlodipine 3 years later, with recurrence of telangiectasia. The photodistribution of the telangiectasia suggests a significant drug/light interaction.",
+    "pubmed_id": "8251368",
+    "entities": [
+        [
+            17,
+            27,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            43,
+            57,
+            "telangiectasia",
+            "Disease",
+            "D013684"
+        ],
+        [
+            86,
+            96,
+            "nifedipine",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            98,
+            104,
+            "Adalat",
+            "Chemical",
+            "D009543"
+        ],
+        [
+            154,
+            168,
+            "telangiectasia",
+            "Disease",
+            "D013684"
+        ],
+        [
+            260,
+            268,
+            "flushing",
+            "Disease",
+            "D005483"
+        ],
+        [
+            397,
+            407,
+            "amlodipine",
+            "Chemical",
+            "D017311"
+        ],
+        [
+            442,
+            456,
+            "telangiectasia",
+            "Disease",
+            "D013684"
+        ],
+        [
+            487,
+            501,
+            "telangiectasia",
+            "Disease",
+            "D013684"
+        ]
+    ],
+    "split_sentence": [
+        "Photodistributed nifedipine-induced facial telangiectasia.",
+        "Five months after starting nifedipine (Adalat), two patients developed photodistributed facial telangiectasia, which became more noticeable with time.",
+        "Neither patient complained of photosensitivity or flushing.",
+        "Both patients reported a significant cosmetic improvement after discontinuing the drug.",
+        "One commenced the closely related drug amlodipine 3 years later, with recurrence of telangiectasia.",
+        "The photodistribution of the telangiectasia suggests a significant drug/light interaction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009543\tChemical\tnifedipine\tPhotodistributed <target> nifedipine </target> -induced facial telangiectasia .",
+        "D013684\tDisease\ttelangiectasia\tPhotodistributed nifedipine-induced facial <target> telangiectasia </target> .",
+        "D009543\tChemical\tnifedipine\tFive months after starting <target> nifedipine </target> ( Adalat ) , two patients developed photodistributed facial telangiectasia , which became more noticeable with time .",
+        "D009543\tChemical\tAdalat\tFive months after starting nifedipine ( <target> Adalat </target> ) , two patients developed photodistributed facial telangiectasia , which became more noticeable with time .",
+        "D013684\tDisease\ttelangiectasia\tFive months after starting nifedipine ( Adalat ) , two patients developed photodistributed facial <target> telangiectasia </target> , which became more noticeable with time .",
+        "D005483\tDisease\tflushing\tNeither patient complained of photosensitivity or <target> flushing </target> .",
+        "D017311\tChemical\tamlodipine\tOne commenced the closely related drug <target> amlodipine </target> 3 years later , with recurrence of telangiectasia .",
+        "D013684\tDisease\ttelangiectasia\tOne commenced the closely related drug amlodipine 3 years later , with recurrence of <target> telangiectasia </target> .",
+        "D013684\tDisease\ttelangiectasia\tThe photodistribution of the <target> telangiectasia </target> suggests a significant drug/light interaction ."
+    ],
+    "lines_lemma": [
+        "D009543\tChemical\tnifedipine\tphotodistributed <target> nifedipine </target> -induced facial telangiectasia .",
+        "D013684\tDisease\ttelangiectasia\tphotodistributed nifedipine-induced facial <target> telangiectasia </target> .",
+        "D009543\tChemical\tnifedipine\tfive month after start <target> nifedipine </target> ( adalat ) , two patient develop photodistribute facial telangiectasia , which become more noticeable with time .",
+        "D009543\tChemical\tAdalat\tfive month after start nifedipine ( <target> Adalat </target> ) , two patient develop photodistribute facial telangiectasia , which become more noticeable with time .",
+        "D013684\tDisease\ttelangiectasia\tfive month after start nifedipine ( adalat ) , two patient develop photodistribute facial <target> telangiectasia </target> , which become more noticeable with time .",
+        "D005483\tDisease\tflushing\tneither patient complain of photosensitivity or <target> flushing </target> .",
+        "D017311\tChemical\tamlodipine\tone commence the closely related drug <target> amlodipine </target> 3 year later , with recurrence of telangiectasia .",
+        "D013684\tDisease\ttelangiectasia\tone commence the closely related drug amlodipine 3 year later , with recurrence of <target> telangiectasia </target> .",
+        "D013684\tDisease\ttelangiectasia\tthe photodistribution of the <target> telangiectasia </target> suggest a significant drug/light interaction ."
+    ]
+}

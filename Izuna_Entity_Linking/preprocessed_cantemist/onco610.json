@@ -1,0 +1,109 @@
+{
+    "entities": [
+        [
+            1458,
+            1467,
+            "carcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8010/3"
+        ],
+        [
+            1141,
+            1169,
+            "metástasis de adenocarcinoma",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ],
+        [
+            1075,
+            1082,
+            "tumoral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/1"
+        ],
+        [
+            1492,
+            1554,
+            "Adenocarcinoma de pulmón lóbulo superior derecho (cT1acN2pM1b)",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ],
+        [
+            2188,
+            2225,
+            "adenocarcinoma de 1,5 cm y metástasis",
+            "MORFOLOGIA_NEOPLASIA",
+            "8140/6"
+        ],
+        [
+            1555,
+            1578,
+            "estadio IV por cerebral",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ],
+        [
+            736,
+            758,
+            "lesión temporoparietal",
+            "MORFOLOGIA_NEOPLASIA",
+            "8000/6"
+        ]
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "Ante el deterioro neurológico del paciente, se realiza exéresis tumoral macroscópicamente completa con diagnóstico histológico de metástasis de adeno <objetivo> carcinoma </objetivo> de probable origen pulmonar, EGFR no mutado, ALK no traslocado y PD-L1 5 % positivo débil.",
+        "Ante este hallazgo, se solicita PET-TC que muestra un nódulo pulmonar en LSD de 1,2 x 1,3 cm y un conglomerado adenopático mediastínico paratraqueal-parahiliar derecho de 6,6 x 5 cm compatible con  <objetivo> carcinoma </objetivo> de pulmón.",
+        "Adeno <objetivo> carcinoma </objetivo> de pulmón lóbulo superior derecho (cT1acN2pM1b)-estadio IV por cerebral única resecada.",
+        "En junio de 2018 es intervenido mediante lobectomía superior derecha y linfadenectomía con diagnóstico de adeno <objetivo> carcinoma </objetivo> de 1,5 cm y metástasis en 4 de 13 adenopatías extirpadas.",
+        "Ante el deterioro neurológico del paciente, se realiza exéresis tumoral macroscópicamente completa con diagnóstico histológico de  <objetivo> metástasis de adenocarcinoma </objetivo> de probable origen pulmonar, EGFR no mutado, ALK no traslocado y PD-L1 5 % positivo débil.",
+        "Ante el deterioro neurológico del paciente, se realiza exéresis  <objetivo> tumoral </objetivo> macroscópicamente completa con diagnóstico histológico de metástasis de adenocarcinoma de probable origen pulmonar, EGFR no mutado, ALK no traslocado y PD-L1 5 % positivo débil.",
+        "<objetivo> Adenocarcinoma de pulmón lóbulo superior derecho (cT1acN2pM1b) </objetivo> estadio IV por cerebral única resecada.",
+        "En junio de 2018 es intervenido mediante lobectomía superior derecha y linfadenectomía con diagnóstico de  <objetivo> adenocarcinoma de 1,5 cm y metástasis </objetivo> en 4 de 13 adenopatías extirpadas.",
+        "Adenocarcinoma de pulmón lóbulo superior derecho (cT1acN2pM1b)- <objetivo> estadio IV por cerebral </objetivo> única resecada.",
+        "Se realiza TC de cráneo sin contraste en Urgencias que objetiva  <objetivo> lesión temporoparietal </objetivo> derecha isodensa, con parénquima cerebral con edema circundante y efecto masa."
+    ],
+    "lines_lemma": [
+        "ante el deterioro neurológico del paciente , él realizar exéresis tumoral macroscópicamente completo con diagnóstico histológico de metástasis de adeno <objetivo> carcinomar </objetivo> de probable origen pulmonar , EGFR no mutado , ALK no traslocado y pd-l1 5 % positivo débil .",
+        "ante este hallazgo , él solicitar PET-TC que mostrar uno nódulo pulmonar en LSD de 1.2 x 1.3 cm y uno conglomerado adenopático mediastínico paratraqueal-parahiliar derecho de 6.6 x 5 cm compatible con   <objetivo> carcinomar </objetivo> de pulmón .",
+        "Adeno <objetivo> carcinomar </objetivo> de pulmón lóbulo superior derecho ( cT1acN2pM1b)-estadio IV por cerebral único resecada .",
+        "en junio de 2018 ser intervenir mediante lobectomía superior derecho y linfadenectomía con diagnóstico de adeno <objetivo> carcinomar </objetivo> de 1.5 cm y metástasi en 4 de 13 adenopatía extirpada .",
+        "ante el deterioro neurológico del paciente , él realizar exéresis tumoral macroscópicamente completo con diagnóstico histológico de   <objetivo> metástasis de adenocarcinoma </objetivo> de probable origen pulmonar , EGFR no mutado , ALK no traslocado y pd-l1 5 % positivo débil .",
+        "ante el deterioro neurológico del paciente , él realizar exéresi   <objetivo> tumoral </objetivo> macroscópicamente completo con diagnóstico histológico de metástasis de adenocarcinoma de probable origen pulmonar , EGFR no mutado , ALK no traslocado y pd-l1 5 % positivo débil .",
+        "<objetivo> Adenocarcinoma de pulmón lóbulo superior derecho ( ct1acn2pm1b ) </objetivo> estadio IV por cerebral único resecada .",
+        "en junio de 2018 ser intervenir mediante lobectomía superior derecho y linfadenectomía con diagnóstico de   <objetivo> adenocarcinomar de 1.5 cm y metástasi </objetivo> en 4 de 13 adenopatía extirpada .",
+        "Adenocarcinoma de pulmón lóbulo superior derecho ( ct1acn2pm1b)- <objetivo> estadio IV por cerebral </objetivo> único resecada .",
+        "él realizar TC de cráneo sin contraste en Urgencias que objetiir   <objetivo> lesión temporoparietal </objetivo> derecho isodensa , con parénquima cerebral con edema circundante y efecto masa ."
+    ],
+    "pubmed_id": "onco610",
+    "split_sentence": [
+        "Anamnesis",
+        "Varón de 37 años sin antecedentes familiares o personales médicos de interés.",
+        "Sin tratamiento actual domiciliario.",
+        "Fumador de 15 paquetes-año.",
+        "En agosto de 2017 acude a Urgencias de nuestro hospital por diplopía ocasional y cefalea de intensidad creciente de un mes de evolución que no cedía a analgesia de primer escalón.",
+        "No presentaba fiebre, ni rigidez de nuca, ni vómitos.",
+        "Exploración física",
+        "» Afebril, hemodinámicamente estable.",
+        "» PS-O.",
+        "» Exploración neurológica: funciones superiores conservadas.",
+        "Sin focalidad neurológica aparente.",
+        "El paciente refiere diplopía, aunque en la exploración no muestra paresia de pares oculomotores.",
+        "Pruebas complementarias",
+        "Se realiza TC de cráneo sin contraste en Urgencias que objetiva lesión temporoparietal derecha isodensa, con parénquima cerebral con edema circundante y efecto masa.",
+        "Ingresa para estudio en Neurocirugía y en RM de cráneo se aprecia dicha masa de 3,4 x 3 cm con edema vasogénico asociado y que provoca desviación de la línea media de 9 mm.",
+        "Ante el deterioro neurológico del paciente, se realiza exéresis tumoral macroscópicamente completa con diagnóstico histológico de metástasis de adenocarcinoma de probable origen pulmonar, EGFR no mutado, ALK no traslocado y PD-L1 5 % positivo débil.",
+        "Ante este hallazgo, se solicita PET-TC que muestra un nódulo pulmonar en LSD de 1,2 x 1,3 cm y un conglomerado adenopático mediastínico paratraqueal-parahiliar derecho de 6,6 x 5 cm compatible con carcinoma de pulmón.",
+        "Diagnóstico",
+        "Adenocarcinoma de pulmón lóbulo superior derecho (cT1acN2pM1b)-estadio IV por cerebral única resecada.",
+        "Tratamiento",
+        "En octubre de 2017 el paciente recibe SBRT sobre lecho quirúrgico cerebral e inicia tratamiento con atezolizumab (inmunoterapia anti-PD-L1) cada 21 días dentro de ensayo clínico.",
+        "Evolución",
+        "Tras 10 ciclos, en mayo de 2018, la respuesta global alcanza un 50 %.",
+        "Ante buen estado general del paciente, edad, respuesta radiológica a nivel pulmonar y respuesta completa a nivel cerebral, el caso es debatido en comité de tumores torácicos, optándose por la cirugía del primario.",
+        "En junio de 2018 es intervenido mediante lobectomía superior derecha y linfadenectomía con diagnóstico de adenocarcinoma de 1,5 cm y metástasis en 4 de 13 adenopatías extirpadas.",
+        "En agosto de 2018 el paciente se encuentra libre de enfermedad y realiza quimioterapia adyuvante con cisplatino vinorelbina por cuatro ciclos seguido de radioterapia sobre mediastino con excelente tolerancia.",
+        "Actualmente, el paciente sigue en revisiones, se encuentra libre de enfermedad y hace una vida normal."
+    ],
+    "text": "Anamnesis\nVarón de 37 años sin antecedentes familiares o personales médicos de interés. Sin tratamiento actual domiciliario. Fumador de 15 paquetes-año.\nEn agosto de 2017 acude a Urgencias de nuestro hospital por diplopía ocasional y cefalea de intensidad creciente de un mes de evolución que no cedía a analgesia de primer escalón. No presentaba fiebre, ni rigidez de nuca, ni vómitos.\n\nExploración física\n» Afebril, hemodinámicamente estable.\n» PS-O.\n» Exploración neurológica: funciones superiores conservadas. Sin focalidad neurológica aparente. El paciente refiere diplopía, aunque en la exploración no muestra paresia de pares oculomotores.\n\nPruebas complementarias\nSe realiza TC de cráneo sin contraste en Urgencias que objetiva lesión temporoparietal derecha isodensa, con parénquima cerebral con edema circundante y efecto masa.\nIngresa para estudio en Neurocirugía y en RM de cráneo se aprecia dicha masa de 3,4 x 3 cm con edema vasogénico asociado y que provoca desviación de la línea media de 9 mm.\nAnte el deterioro neurológico del paciente, se realiza exéresis tumoral macroscópicamente completa con diagnóstico histológico de metástasis de adenocarcinoma de probable origen pulmonar, EGFR no mutado, ALK no traslocado y PD-L1 5 % positivo débil.\nAnte este hallazgo, se solicita PET-TC que muestra un nódulo pulmonar en LSD de 1,2 x 1,3 cm y un conglomerado adenopático mediastínico paratraqueal-parahiliar derecho de 6,6 x 5 cm compatible con carcinoma de pulmón.\n\nDiagnóstico\nAdenocarcinoma de pulmón lóbulo superior derecho (cT1acN2pM1b)-estadio IV por cerebral única resecada.\n\nTratamiento\nEn octubre de 2017 el paciente recibe SBRT sobre lecho quirúrgico cerebral e inicia tratamiento con atezolizumab (inmunoterapia anti-PD-L1) cada 21 días dentro de ensayo clínico.\n\nEvolución\nTras 10 ciclos, en mayo de 2018, la respuesta global alcanza un 50 %. Ante buen estado general del paciente, edad, respuesta radiológica a nivel pulmonar y respuesta completa a nivel cerebral, el caso es debatido en comité de tumores torácicos, optándose por la cirugía del primario.\nEn junio de 2018 es intervenido mediante lobectomía superior derecha y linfadenectomía con diagnóstico de adenocarcinoma de 1,5 cm y metástasis en 4 de 13 adenopatías extirpadas.\nEn agosto de 2018 el paciente se encuentra libre de enfermedad y realiza quimioterapia adyuvante con cisplatino vinorelbina por cuatro ciclos seguido de radioterapia sobre mediastino con excelente tolerancia.\nActualmente, el paciente sigue en revisiones, se encuentra libre de enfermedad y hace una vida normal."
+}

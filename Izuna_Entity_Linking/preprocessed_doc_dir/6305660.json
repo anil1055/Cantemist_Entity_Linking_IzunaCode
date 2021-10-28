@@ -1,0 +1,107 @@
+{
+    "title": "Hormones and risk of breast cancer.",
+    "abst": "This paper reports the results of a study of 50 menopausal women receiving hormonal replacement therapy. The majority (29) had surgical menopause; their mean age was 45.7 years. It was hypothesized that progestins could equilibrate the effects of the estrogenic stimulation on the mammary and endometrial target tissues of women on hormonal replacement therapy. The treatment schedule consisted of conjugated estrogens (Premarin) 1.25 mg/day for 21 days and Medroxyprogesterone acetate 10 mg/day for 10 days in each month. The mean treatment period was 18 months. During the follow-up period, attention was paid to breast modifications as evidenced by symptomatology, physical examination, and plate thermography. Mastodynia was reported by 21 patients, and physical examination revealed a light increase in breast firmness in 12 women and a moderate increase in breast nodularity in 2 women. Themography confirmed the existence of an excessive breast stimulation in 1 women who complained of moderate mastodynia and in 5 of the 7 women who complained of severe mastodynia. Normalization was obtained by halving the estrogen dose. These results suggest that hormonal replacement therapy can be safely prescribed if the following criteria are satisfied: 1) preliminary evaluation of patients from a clinical, metabolic, cytologic, and mammographic perspective; 2) cyclic treatment schedule, with a progestative phase of 10 days; and 3) periodic complete follow-up, with accurate thermographic evaluation of the breast target tissues.",
+    "title_plus_abst": "Hormones and risk of breast cancer. This paper reports the results of a study of 50 menopausal women receiving hormonal replacement therapy. The majority (29) had surgical menopause; their mean age was 45.7 years. It was hypothesized that progestins could equilibrate the effects of the estrogenic stimulation on the mammary and endometrial target tissues of women on hormonal replacement therapy. The treatment schedule consisted of conjugated estrogens (Premarin) 1.25 mg/day for 21 days and Medroxyprogesterone acetate 10 mg/day for 10 days in each month. The mean treatment period was 18 months. During the follow-up period, attention was paid to breast modifications as evidenced by symptomatology, physical examination, and plate thermography. Mastodynia was reported by 21 patients, and physical examination revealed a light increase in breast firmness in 12 women and a moderate increase in breast nodularity in 2 women. Themography confirmed the existence of an excessive breast stimulation in 1 women who complained of moderate mastodynia and in 5 of the 7 women who complained of severe mastodynia. Normalization was obtained by halving the estrogen dose. These results suggest that hormonal replacement therapy can be safely prescribed if the following criteria are satisfied: 1) preliminary evaluation of patients from a clinical, metabolic, cytologic, and mammographic perspective; 2) cyclic treatment schedule, with a progestative phase of 10 days; and 3) periodic complete follow-up, with accurate thermographic evaluation of the breast target tissues.",
+    "pubmed_id": "6305660",
+    "entities": [
+        [
+            21,
+            34,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            239,
+            249,
+            "progestins",
+            "Chemical",
+            "D011372"
+        ],
+        [
+            434,
+            454,
+            "conjugated estrogens",
+            "Chemical",
+            "D004966"
+        ],
+        [
+            456,
+            464,
+            "Premarin",
+            "Chemical",
+            "D004966"
+        ],
+        [
+            494,
+            521,
+            "Medroxyprogesterone acetate",
+            "Chemical",
+            "D017258"
+        ],
+        [
+            750,
+            760,
+            "Mastodynia",
+            "Disease",
+            "D059373"
+        ],
+        [
+            1038,
+            1048,
+            "mastodynia",
+            "Disease",
+            "D059373"
+        ],
+        [
+            1098,
+            1108,
+            "mastodynia",
+            "Disease",
+            "D059373"
+        ],
+        [
+            1152,
+            1160,
+            "estrogen",
+            "Chemical",
+            "D004967"
+        ]
+    ],
+    "split_sentence": [
+        "Hormones and risk of breast cancer.",
+        "This paper reports the results of a study of 50 menopausal women receiving hormonal replacement therapy.",
+        "The majority (29) had surgical menopause; their mean age was 45.7 years.",
+        "It was hypothesized that progestins could equilibrate the effects of the estrogenic stimulation on the mammary and endometrial target tissues of women on hormonal replacement therapy.",
+        "The treatment schedule consisted of conjugated estrogens (Premarin) 1.25 mg/day for 21 days and Medroxyprogesterone acetate 10 mg/day for 10 days in each month.",
+        "The mean treatment period was 18 months.",
+        "During the follow-up period, attention was paid to breast modifications as evidenced by symptomatology, physical examination, and plate thermography.",
+        "Mastodynia was reported by 21 patients, and physical examination revealed a light increase in breast firmness in 12 women and a moderate increase in breast nodularity in 2 women.",
+        "Themography confirmed the existence of an excessive breast stimulation in 1 women who complained of moderate mastodynia and in 5 of the 7 women who complained of severe mastodynia.",
+        "Normalization was obtained by halving the estrogen dose.",
+        "These results suggest that hormonal replacement therapy can be safely prescribed if the following criteria are satisfied: 1) preliminary evaluation of patients from a clinical, metabolic, cytologic, and mammographic perspective; 2) cyclic treatment schedule, with a progestative phase of 10 days; and 3) periodic complete follow-up, with accurate thermographic evaluation of the breast target tissues."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001943\tDisease\tbreast cancer\tHormones and risk of <target> breast cancer </target> .",
+        "D011372\tChemical\tprogestins\tIt was hypothesized that <target> progestins </target> could equilibrate the effects of the estrogenic stimulation on the mammary and endometrial target tissues of women on hormonal replacement therapy .",
+        "D004966\tChemical\tconjugated estrogens\tThe treatment schedule consisted of <target> conjugated estrogens </target> ( Premarin ) 1.25 mg/day for 21 days and Medroxyprogesterone acetate 10 mg/day for 10 days in each month .",
+        "D004966\tChemical\tPremarin\tThe treatment schedule consisted of conjugated estrogens ( <target> Premarin </target> ) 1.25 mg/day for 21 days and Medroxyprogesterone acetate 10 mg/day for 10 days in each month .",
+        "D017258\tChemical\tMedroxyprogesterone acetate\tThe treatment schedule consisted of conjugated estrogens ( Premarin ) 1.25 mg/day for 21 days and <target> Medroxyprogesterone acetate </target> 10 mg/day for 10 days in each month .",
+        "D059373\tDisease\tMastodynia\t<target> Mastodynia </target> was reported by 21 patients , and physical examination revealed a light increase in breast firmness in 12 women and a moderate increase in breast nodularity in 2 women .",
+        "D059373\tDisease\tmastodynia\tThemography confirmed the existence of an excessive breast stimulation in 1 women who complained of moderate <target> mastodynia </target> and in 5 of the 7 women who complained of severe mastodynia .",
+        "D059373\tDisease\tmastodynia\tThemography confirmed the existence of an excessive breast stimulation in 1 women who complained of moderate mastodynia and in 5 of the 7 women who complained of severe <target> mastodynia </target> .",
+        "D004967\tChemical\testrogen\tNormalization was obtained by halving the <target> estrogen </target> dose ."
+    ],
+    "lines_lemma": [
+        "D001943\tDisease\tbreast cancer\thormone and risk of <target> breast cancer </target> .",
+        "D011372\tChemical\tprogestins\tit be hypothesize that <target> progestin </target> could equilibrate the effect of the estrogenic stimulation on the mammary and endometrial target tissue of woman on hormonal replacement therapy .",
+        "D004966\tChemical\tconjugated estrogens\tthe treatment schedule consist of <target> conjugated estrogen </target> ( Premarin ) 1.25 mg/day for 21 day and medroxyprogesterone acetate 10 mg/day for 10 day in each month .",
+        "D004966\tChemical\tPremarin\tthe treatment schedule consist of conjugate estrogen ( <target> Premarin </target> ) 1.25 mg/day for 21 day and medroxyprogesterone acetate 10 mg/day for 10 day in each month .",
+        "D017258\tChemical\tMedroxyprogesterone acetate\tthe treatment schedule consist of conjugate estrogen ( premarin ) 1.25 mg/day for 21 day and <target> medroxyprogesterone acetate </target> 10 mg/day for 10 day in each month .",
+        "D059373\tDisease\tMastodynia\t<target> Mastodynia </target> be report by 21 patient , and physical examination reveal a light increase in breast firmness in 12 woman and a moderate increase in breast nodularity in 2 woman .",
+        "D059373\tDisease\tmastodynia\tThemography confirm the existence of an excessive breast stimulation in 1 woman who complain of moderate <target> mastodynia </target> and in 5 of the 7 woman who complain of severe mastodynia .",
+        "D059373\tDisease\tmastodynia\tThemography confirm the existence of an excessive breast stimulation in 1 woman who complain of moderate mastodynia and in 5 of the 7 woman who complain of severe <target> mastodynia </target> .",
+        "D004967\tChemical\testrogen\tNormalization be obtain by halve the <target> estrogen </target> dose ."
+    ]
+}

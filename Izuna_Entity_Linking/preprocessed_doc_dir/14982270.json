@@ -1,0 +1,195 @@
+{
+    "title": "Methimazole-induced cholestatic jaundice.",
+    "abst": "Methimazole is a widely used and generally well-tolerated antithyroid agent. A 43-year-old woman had severe jaundice and itching 1 month after receiving methimazole (10 mg tid) and propranolol (20 mg tid) for treatment of hyperthyroidism. The patient continued treatment for another 4 days after the appearance of jaundice until she finished both medications. When seen at the emergency department 2 weeks later, she still had severe icterus, pruritus, and hyperbilirubinemia, formed mainly of the conjugated fraction. Methimazole-induced cholestasis was diagnosed, and propranolol therapy was resumed. Over the following 9 days, the symptoms improved and plasma bilirubin levels were normal after 12 weeks without methimazole. In rare cases within the first few weeks of therapy, this drug can cause severe and reversible cholestatic jaundice. Physicians and patients should be aware of this adverse effect so that, upon occurrence, they can discontinue methimazole therapy and avoid unnecessary invasive procedures.",
+    "title_plus_abst": "Methimazole-induced cholestatic jaundice. Methimazole is a widely used and generally well-tolerated antithyroid agent. A 43-year-old woman had severe jaundice and itching 1 month after receiving methimazole (10 mg tid) and propranolol (20 mg tid) for treatment of hyperthyroidism. The patient continued treatment for another 4 days after the appearance of jaundice until she finished both medications. When seen at the emergency department 2 weeks later, she still had severe icterus, pruritus, and hyperbilirubinemia, formed mainly of the conjugated fraction. Methimazole-induced cholestasis was diagnosed, and propranolol therapy was resumed. Over the following 9 days, the symptoms improved and plasma bilirubin levels were normal after 12 weeks without methimazole. In rare cases within the first few weeks of therapy, this drug can cause severe and reversible cholestatic jaundice. Physicians and patients should be aware of this adverse effect so that, upon occurrence, they can discontinue methimazole therapy and avoid unnecessary invasive procedures.",
+    "pubmed_id": "14982270",
+    "entities": [
+        [
+            0,
+            11,
+            "Methimazole",
+            "Chemical",
+            "D008713"
+        ],
+        [
+            20,
+            40,
+            "cholestatic jaundice",
+            "Disease",
+            "D041781"
+        ],
+        [
+            42,
+            53,
+            "Methimazole",
+            "Chemical",
+            "D008713"
+        ],
+        [
+            150,
+            158,
+            "jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            163,
+            170,
+            "itching",
+            "Disease",
+            "D011537"
+        ],
+        [
+            195,
+            206,
+            "methimazole",
+            "Chemical",
+            "D008713"
+        ],
+        [
+            223,
+            234,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            264,
+            279,
+            "hyperthyroidism",
+            "Disease",
+            "D006980"
+        ],
+        [
+            356,
+            364,
+            "jaundice",
+            "Disease",
+            "D007565"
+        ],
+        [
+            476,
+            483,
+            "icterus",
+            "Disease",
+            "D007565"
+        ],
+        [
+            485,
+            493,
+            "pruritus",
+            "Disease",
+            "D011537"
+        ],
+        [
+            499,
+            517,
+            "hyperbilirubinemia",
+            "Disease",
+            "D006932"
+        ],
+        [
+            561,
+            572,
+            "Methimazole",
+            "Chemical",
+            "D008713"
+        ],
+        [
+            581,
+            592,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            612,
+            623,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            705,
+            714,
+            "bilirubin",
+            "Chemical",
+            "D001663"
+        ],
+        [
+            757,
+            768,
+            "methimazole",
+            "Chemical",
+            "D008713"
+        ],
+        [
+            865,
+            885,
+            "cholestatic jaundice",
+            "Disease",
+            "D041781"
+        ],
+        [
+            997,
+            1008,
+            "methimazole",
+            "Chemical",
+            "D008713"
+        ]
+    ],
+    "split_sentence": [
+        "Methimazole-induced cholestatic jaundice.",
+        "Methimazole is a widely used and generally well-tolerated antithyroid agent.",
+        "A 43-year-old woman had severe jaundice and itching 1 month after receiving methimazole (10 mg tid) and propranolol (20 mg tid) for treatment of hyperthyroidism.",
+        "The patient continued treatment for another 4 days after the appearance of jaundice until she finished both medications.",
+        "When seen at the emergency department 2 weeks later, she still had severe icterus, pruritus, and hyperbilirubinemia, formed mainly of the conjugated fraction.",
+        "Methimazole-induced cholestasis was diagnosed, and propranolol therapy was resumed.",
+        "Over the following 9 days, the symptoms improved and plasma bilirubin levels were normal after 12 weeks without methimazole.",
+        "In rare cases within the first few weeks of therapy, this drug can cause severe and reversible cholestatic jaundice.",
+        "Physicians and patients should be aware of this adverse effect so that, upon occurrence, they can discontinue methimazole therapy and avoid unnecessary invasive procedures."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008713\tChemical\tMethimazole\t<target> Methimazole </target> -induced cholestatic jaundice .",
+        "D041781\tDisease\tcholestatic jaundice\tMethimazole-induced <target> cholestatic jaundice </target> .",
+        "D008713\tChemical\tMethimazole\t<target> Methimazole </target> is a widely used and generally well-tolerated antithyroid agent .",
+        "D007565\tDisease\tjaundice\tA 43-year-old woman had severe <target> jaundice </target> and itching 1 month after receiving methimazole ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D011537\tDisease\titching\tA 43-year-old woman had severe jaundice and <target> itching </target> 1 month after receiving methimazole ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D008713\tChemical\tmethimazole\tA 43-year-old woman had severe jaundice and itching 1 month after receiving <target> methimazole </target> ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D011433\tChemical\tpropranolol\tA 43-year-old woman had severe jaundice and itching 1 month after receiving methimazole ( 10 mg tid ) and <target> propranolol </target> ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D006980\tDisease\thyperthyroidism\tA 43-year-old woman had severe jaundice and itching 1 month after receiving methimazole ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of <target> hyperthyroidism </target> .",
+        "D007565\tDisease\tjaundice\tThe patient continued treatment for another 4 days after the appearance of <target> jaundice </target> until she finished both medications .",
+        "D007565\tDisease\ticterus\tWhen seen at the emergency department 2 weeks later , she still had severe <target> icterus </target> , pruritus , and hyperbilirubinemia , formed mainly of the conjugated fraction .",
+        "D011537\tDisease\tpruritus\tWhen seen at the emergency department 2 weeks later , she still had severe icterus , <target> pruritus </target> , and hyperbilirubinemia , formed mainly of the conjugated fraction .",
+        "D006932\tDisease\thyperbilirubinemia\tWhen seen at the emergency department 2 weeks later , she still had severe icterus , pruritus , and <target> hyperbilirubinemia </target> , formed mainly of the conjugated fraction .",
+        "D008713\tChemical\tMethimazole\t<target> Methimazole </target> -induced cholestasis was diagnosed , and propranolol therapy was resumed .",
+        "D002779\tDisease\tcholestasis\tMethimazole-induced <target> cholestasis </target> was diagnosed , and propranolol therapy was resumed .",
+        "D011433\tChemical\tpropranolol\tMethimazole-induced cholestasis was diagnosed , and <target> propranolol </target> therapy was resumed .",
+        "D001663\tChemical\tbilirubin\tOver the following 9 days , the symptoms improved and plasma <target> bilirubin </target> levels were normal after 12 weeks without methimazole .",
+        "D008713\tChemical\tmethimazole\tOver the following 9 days , the symptoms improved and plasma bilirubin levels were normal after 12 weeks without <target> methimazole </target> .",
+        "D041781\tDisease\tcholestatic jaundice\tIn rare cases within the first few weeks of therapy , this drug can cause severe and reversible <target> cholestatic jaundice </target> .",
+        "D008713\tChemical\tmethimazole\tPhysicians and patients should be aware of this adverse effect so that , upon occurrence , they can discontinue <target> methimazole </target> therapy and avoid unnecessary invasive procedures ."
+    ],
+    "lines_lemma": [
+        "D008713\tChemical\tMethimazole\t<target> Methimazole </target> -induced cholestatic jaundice .",
+        "D041781\tDisease\tcholestatic jaundice\tmethimazole-induced <target> cholestatic jaundice </target> .",
+        "D008713\tChemical\tMethimazole\t<target> Methimazole </target> be a widely use and generally well-tolerated antithyroid agent .",
+        "D007565\tDisease\tjaundice\ta 43-year-old woman have severe <target> jaundice </target> and itch 1 month after receive methimazole ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D011537\tDisease\titching\ta 43-year-old woman have severe jaundice and <target> itching </target> 1 month after receive methimazole ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D008713\tChemical\tmethimazole\ta 43-year-old woman have severe jaundice and itch 1 month after receive <target> methimazole </target> ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D011433\tChemical\tpropranolol\ta 43-year-old woman have severe jaundice and itch 1 month after receive methimazole ( 10 mg tid ) and <target> propranolol </target> ( 20 mg tid ) for treatment of hyperthyroidism .",
+        "D006980\tDisease\thyperthyroidism\ta 43-year-old woman have severe jaundice and itch 1 month after receive methimazole ( 10 mg tid ) and propranolol ( 20 mg tid ) for treatment of <target> hyperthyroidism </target> .",
+        "D007565\tDisease\tjaundice\tthe patient continue treatment for another 4 day after the appearance of <target> jaundice </target> until she finish both medication .",
+        "D007565\tDisease\ticterus\twhen see at the emergency department 2 week later , she still have severe <target> icterus </target> , pruritus , and hyperbilirubinemia , form mainly of the conjugate fraction .",
+        "D011537\tDisease\tpruritus\twhen see at the emergency department 2 week later , she still have severe icterus , <target> pruritus </target> , and hyperbilirubinemia , form mainly of the conjugate fraction .",
+        "D006932\tDisease\thyperbilirubinemia\twhen see at the emergency department 2 week later , she still have severe icterus , pruritus , and <target> hyperbilirubinemia </target> , form mainly of the conjugate fraction .",
+        "D008713\tChemical\tMethimazole\t<target> Methimazole </target> -induced cholestasis be diagnose , and propranolol therapy be resume .",
+        "D002779\tDisease\tcholestasis\tmethimazole-induced <target> cholestasis </target> be diagnose , and propranolol therapy be resume .",
+        "D011433\tChemical\tpropranolol\tmethimazole-induced cholestasis be diagnose , and <target> propranolol </target> therapy be resume .",
+        "D001663\tChemical\tbilirubin\tover the follow 9 day , the symptom improve and plasma <target> bilirubin </target> level be normal after 12 week without methimazole .",
+        "D008713\tChemical\tmethimazole\tover the follow 9 day , the symptom improve and plasma bilirubin level be normal after 12 week without <target> methimazole </target> .",
+        "D041781\tDisease\tcholestatic jaundice\tin rare case within the first few week of therapy , this drug can cause severe and reversible <target> cholestatic jaundice </target> .",
+        "D008713\tChemical\tmethimazole\tphysician and patient should be aware of this adverse effect so that , upon occurrence , they can discontinue <target> methimazole </target> therapy and avoid unnecessary invasive procedure ."
+    ]
+}

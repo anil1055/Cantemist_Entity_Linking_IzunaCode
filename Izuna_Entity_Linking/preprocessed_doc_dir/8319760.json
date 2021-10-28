@@ -1,0 +1,153 @@
+{
+    "title": "Dup 753 prevents the development of puromycin aminonucleoside-induced nephrosis.",
+    "abst": "The appearance of nephrotic syndromes such as proteinuria, hypoalbuminemia, hypercholesterolemia and increase in blood nitrogen urea, induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 (losartan), a novel angiotensin II receptor antagonist, at a dose of 1 or 2 mg/kg per day. The results suggest a possible involvement of the renin-angiotensin system in the development of puromycin aminonucleoside-induced nephrosis.",
+    "title_plus_abst": "Dup 753 prevents the development of puromycin aminonucleoside-induced nephrosis. The appearance of nephrotic syndromes such as proteinuria, hypoalbuminemia, hypercholesterolemia and increase in blood nitrogen urea, induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 (losartan), a novel angiotensin II receptor antagonist, at a dose of 1 or 2 mg/kg per day. The results suggest a possible involvement of the renin-angiotensin system in the development of puromycin aminonucleoside-induced nephrosis.",
+    "pubmed_id": "8319760",
+    "entities": [
+        [
+            0,
+            7,
+            "Dup 753",
+            "Chemical",
+            "D019808"
+        ],
+        [
+            36,
+            61,
+            "puromycin aminonucleoside",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            70,
+            79,
+            "nephrosis",
+            "Disease",
+            "D009401"
+        ],
+        [
+            99,
+            118,
+            "nephrotic syndromes",
+            "Disease",
+            "D009404"
+        ],
+        [
+            127,
+            138,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            140,
+            155,
+            "hypoalbuminemia",
+            "Disease",
+            "D034141"
+        ],
+        [
+            157,
+            177,
+            "hypercholesterolemia",
+            "Disease",
+            "D006937"
+        ],
+        [
+            194,
+            213,
+            "blood nitrogen urea",
+            "Chemical",
+            "D001806"
+        ],
+        [
+            247,
+            272,
+            "puromycin aminonucleoside",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            322,
+            329,
+            "Dup 753",
+            "Chemical",
+            "D019808"
+        ],
+        [
+            331,
+            339,
+            "losartan",
+            "Chemical",
+            "D019808"
+        ],
+        [
+            350,
+            364,
+            "angiotensin II",
+            "Chemical",
+            "D000804"
+        ],
+        [
+            477,
+            488,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            518,
+            543,
+            "puromycin aminonucleoside",
+            "Chemical",
+            "D011692"
+        ],
+        [
+            552,
+            561,
+            "nephrosis",
+            "Disease",
+            "D009401"
+        ]
+    ],
+    "split_sentence": [
+        "Dup 753 prevents the development of puromycin aminonucleoside-induced nephrosis.",
+        "The appearance of nephrotic syndromes such as proteinuria, hypoalbuminemia, hypercholesterolemia and increase in blood nitrogen urea, induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 (losartan), a novel angiotensin II receptor antagonist, at a dose of 1 or 2 mg/kg per day.",
+        "The results suggest a possible involvement of the renin-angiotensin system in the development of puromycin aminonucleoside-induced nephrosis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D019808\tChemical\tDup 753\t<target> Dup 753 </target> prevents the development of puromycin aminonucleoside-induced nephrosis .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tDup 753 prevents the development of <target> puromycin aminonucleoside </target> -induced nephrosis .",
+        "D009401\tDisease\tnephrosis\tDup 753 prevents the development of puromycin aminonucleoside-induced <target> nephrosis </target> .",
+        "D009404\tDisease\tnephrotic syndromes\tThe appearance of <target> nephrotic syndromes </target> such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D011507\tDisease\tproteinuria\tThe appearance of nephrotic syndromes such as <target> proteinuria </target> , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D034141\tDisease\thypoalbuminemia\tThe appearance of nephrotic syndromes such as proteinuria , <target> hypoalbuminemia </target> , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D006937\tDisease\thypercholesterolemia\tThe appearance of nephrotic syndromes such as proteinuria , hypoalbuminemia , <target> hypercholesterolemia </target> and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D001806\tChemical\tblood nitrogen urea\tThe appearance of nephrotic syndromes such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in <target> blood nitrogen urea </target> , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tThe appearance of nephrotic syndromes such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of <target> puromycin aminonucleoside </target> was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D019808\tChemical\tDup 753\tThe appearance of nephrotic syndromes such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of <target> Dup 753 </target> ( losartan ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D019808\tChemical\tlosartan\tThe appearance of nephrotic syndromes such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( <target> losartan </target> ) , a novel angiotensin II receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D000804\tChemical\tangiotensin II\tThe appearance of nephrotic syndromes such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induced in rats by injection of puromycin aminonucleoside was markedly inhibited by oral administration of Dup 753 ( losartan ) , a novel <target> angiotensin II </target> receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D000809\tChemical\tangiotensin\tThe results suggest a possible involvement of the renin- <target> angiotensin </target> system in the development of puromycin aminonucleoside-induced nephrosis .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tThe results suggest a possible involvement of the renin-angiotensin system in the development of <target> puromycin aminonucleoside </target> -induced nephrosis .",
+        "D009401\tDisease\tnephrosis\tThe results suggest a possible involvement of the renin-angiotensin system in the development of puromycin aminonucleoside-induced <target> nephrosis </target> ."
+    ],
+    "lines_lemma": [
+        "D019808\tChemical\tDup 753\t<target> Dup 753 </target> prevent the development of puromycin aminonucleoside-induced nephrosis .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tDup 753 prevent the development of <target> puromycin aminonucleoside </target> -induced nephrosis .",
+        "D009401\tDisease\tnephrosis\tDup 753 prevent the development of puromycin aminonucleoside-induced <target> nephrosis </target> .",
+        "D009404\tDisease\tnephrotic syndromes\tthe appearance of <target> nephrotic syndrome </target> such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D011507\tDisease\tproteinuria\tthe appearance of nephrotic syndrome such as <target> proteinuria </target> , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D034141\tDisease\thypoalbuminemia\tthe appearance of nephrotic syndrome such as proteinuria , <target> hypoalbuminemia </target> , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D006937\tDisease\thypercholesterolemia\tthe appearance of nephrotic syndrome such as proteinuria , hypoalbuminemia , <target> hypercholesterolemia </target> and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D001806\tChemical\tblood nitrogen urea\tthe appearance of nephrotic syndrome such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in <target> blood nitrogen urea </target> , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tthe appearance of nephrotic syndrome such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of <target> puromycin aminonucleoside </target> be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D019808\tChemical\tDup 753\tthe appearance of nephrotic syndrome such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of <target> Dup 753 </target> ( losartan ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D019808\tChemical\tlosartan\tthe appearance of nephrotic syndrome such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( <target> losartan </target> ) , a novel angiotensin ii receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D000804\tChemical\tangiotensin II\tthe appearance of nephrotic syndrome such as proteinuria , hypoalbuminemia , hypercholesterolemia and increase in blood nitrogen urea , induce in rat by injection of puromycin aminonucleoside be markedly inhibit by oral administration of Dup 753 ( losartan ) , a novel <target> angiotensin ii </target> receptor antagonist , at a dose of 1 or 2 mg/kg per day .",
+        "D000809\tChemical\tangiotensin\tthe result suggest a possible involvement of the renin- <target> angiotensin </target> system in the development of puromycin aminonucleoside-induced nephrosis .",
+        "D011692\tChemical\tpuromycin aminonucleoside\tthe result suggest a possible involvement of the renin-angiotensin system in the development of <target> puromycin aminonucleoside </target> -induced nephrosis .",
+        "D009401\tDisease\tnephrosis\tthe result suggest a possible involvement of the renin-angiotensin system in the development of puromycin aminonucleoside-induced <target> nephrosis </target> ."
+    ]
+}

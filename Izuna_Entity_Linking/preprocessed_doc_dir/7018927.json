@@ -1,0 +1,74 @@
+{
+    "title": "Pituitary response to luteinizing hormone-releasing hormone during haloperidol-induced hyperprolactinemia.",
+    "abst": "The effects of a 6-hour infusion with haloperidol on serum prolactin and luteinizing hormone (LH) levels was studied in a group of male subjects. Five hours after starting the infusions, a study of the pituitary responses to LH-releasing hormone (LH-RH) was carried out. Control patients received infusions of 0.9% NaCl solution. During the course of haloperidol infusions, significant hyperprolactinemia was found, together with an abolished pituitary response to LH-RH, as compared with responses of control subjects.",
+    "title_plus_abst": "Pituitary response to luteinizing hormone-releasing hormone during haloperidol-induced hyperprolactinemia. The effects of a 6-hour infusion with haloperidol on serum prolactin and luteinizing hormone (LH) levels was studied in a group of male subjects. Five hours after starting the infusions, a study of the pituitary responses to LH-releasing hormone (LH-RH) was carried out. Control patients received infusions of 0.9% NaCl solution. During the course of haloperidol infusions, significant hyperprolactinemia was found, together with an abolished pituitary response to LH-RH, as compared with responses of control subjects.",
+    "pubmed_id": "7018927",
+    "entities": [
+        [
+            67,
+            78,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            87,
+            105,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ],
+        [
+            145,
+            156,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            422,
+            426,
+            "NaCl",
+            "Chemical",
+            "D012965"
+        ],
+        [
+            458,
+            469,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            493,
+            511,
+            "hyperprolactinemia",
+            "Disease",
+            "D006966"
+        ]
+    ],
+    "split_sentence": [
+        "Pituitary response to luteinizing hormone-releasing hormone during haloperidol-induced hyperprolactinemia.",
+        "The effects of a 6-hour infusion with haloperidol on serum prolactin and luteinizing hormone (LH) levels was studied in a group of male subjects.",
+        "Five hours after starting the infusions, a study of the pituitary responses to LH-releasing hormone (LH-RH) was carried out.",
+        "Control patients received infusions of 0.9% NaCl solution.",
+        "During the course of haloperidol infusions, significant hyperprolactinemia was found, together with an abolished pituitary response to LH-RH, as compared with responses of control subjects."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006220\tChemical\thaloperidol\tPituitary response to luteinizing hormone-releasing hormone during <target> haloperidol </target> -induced hyperprolactinemia .",
+        "D006966\tDisease\thyperprolactinemia\tPituitary response to luteinizing hormone-releasing hormone during haloperidol-induced <target> hyperprolactinemia </target> .",
+        "D006220\tChemical\thaloperidol\tThe effects of a 6-hour infusion with <target> haloperidol </target> on serum prolactin and luteinizing hormone ( LH ) levels was studied in a group of male subjects .",
+        "D012965\tChemical\tNaCl\tControl patients received infusions of 0.9 % <target> NaCl </target> solution .",
+        "D006220\tChemical\thaloperidol\tDuring the course of <target> haloperidol </target> infusions , significant hyperprolactinemia was found , together with an abolished pituitary response to LH-RH , as compared with responses of control subjects .",
+        "D006966\tDisease\thyperprolactinemia\tDuring the course of haloperidol infusions , significant <target> hyperprolactinemia </target> was found , together with an abolished pituitary response to LH-RH , as compared with responses of control subjects ."
+    ],
+    "lines_lemma": [
+        "D006220\tChemical\thaloperidol\tpituitary response to luteinize hormone-releasing hormone during <target> haloperidol </target> -induced hyperprolactinemia .",
+        "D006966\tDisease\thyperprolactinemia\tpituitary response to luteinize hormone-releasing hormone during haloperidol-induced <target> hyperprolactinemia </target> .",
+        "D006220\tChemical\thaloperidol\tthe effect of a 6-hour infusion with <target> haloperidol </target> on serum prolactin and luteinizing hormone ( lh ) level be study in a group of male subject .",
+        "D012965\tChemical\tNaCl\tcontrol patient receive infusion of 0.9 % <target> nacl </target> solution .",
+        "D006220\tChemical\thaloperidol\tduring the course of <target> haloperidol </target> infusion , significant hyperprolactinemia be find , together with an abolish pituitary response to lh-rh , as compare with response of control subject .",
+        "D006966\tDisease\thyperprolactinemia\tduring the course of haloperidol infusion , significant <target> hyperprolactinemia </target> be find , together with an abolish pituitary response to lh-rh , as compare with response of control subject ."
+    ]
+}

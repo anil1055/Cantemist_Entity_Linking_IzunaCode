@@ -1,0 +1,155 @@
+{
+    "title": "Severe and long lasting cholestasis after high-dose co-trimoxazole treatment for Pneumocystis pneumonia in HIV-infected patients--a report of two cases.",
+    "abst": "Pneumocystis pneumonia (PCP), a common opportunistic infection in HIV-infected individuals, is generally treated with high doses of co-trimoxazole. However, treatment is often limited by adverse effects. Here, we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis, and in one patient lesions mimicking liver abscess formation on radiologic exams, during co-trimoxazole treatment for PCP. Whereas patient 1 showed lesions of up to 1 cm readily detectable on magnetic resonance imaging under prolonged co-trimoxazole treatment, therapy of patient 2 was switched early.",
+    "title_plus_abst": "Severe and long lasting cholestasis after high-dose co-trimoxazole treatment for Pneumocystis pneumonia in HIV-infected patients--a report of two cases. Pneumocystis pneumonia (PCP), a common opportunistic infection in HIV-infected individuals, is generally treated with high doses of co-trimoxazole. However, treatment is often limited by adverse effects. Here, we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis, and in one patient lesions mimicking liver abscess formation on radiologic exams, during co-trimoxazole treatment for PCP. Whereas patient 1 showed lesions of up to 1 cm readily detectable on magnetic resonance imaging under prolonged co-trimoxazole treatment, therapy of patient 2 was switched early.",
+    "pubmed_id": "19299179",
+    "entities": [
+        [
+            24,
+            35,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            52,
+            66,
+            "co-trimoxazole",
+            "Chemical",
+            "D015662"
+        ],
+        [
+            81,
+            103,
+            "Pneumocystis pneumonia",
+            "Disease",
+            "D011020"
+        ],
+        [
+            107,
+            119,
+            "HIV-infected",
+            "Disease",
+            "D015658"
+        ],
+        [
+            153,
+            175,
+            "Pneumocystis pneumonia",
+            "Disease",
+            "D011020"
+        ],
+        [
+            177,
+            180,
+            "PCP",
+            "Disease",
+            "D011020"
+        ],
+        [
+            192,
+            215,
+            "opportunistic infection",
+            "Disease",
+            "D009894"
+        ],
+        [
+            219,
+            231,
+            "HIV-infected",
+            "Disease",
+            "D015658"
+        ],
+        [
+            285,
+            299,
+            "co-trimoxazole",
+            "Chemical",
+            "D015662"
+        ],
+        [
+            413,
+            425,
+            "HIV-infected",
+            "Disease",
+            "D015658"
+        ],
+        [
+            456,
+            480,
+            "intrahepatic cholestasis",
+            "Disease",
+            "D002780"
+        ],
+        [
+            519,
+            532,
+            "liver abscess",
+            "Disease",
+            "D008100"
+        ],
+        [
+            571,
+            585,
+            "co-trimoxazole",
+            "Chemical",
+            "D015662"
+        ],
+        [
+            600,
+            603,
+            "PCP",
+            "Disease",
+            "D011020"
+        ],
+        [
+            717,
+            731,
+            "co-trimoxazole",
+            "Chemical",
+            "D015662"
+        ]
+    ],
+    "split_sentence": [
+        "Severe and long lasting cholestasis after high-dose co-trimoxazole treatment for Pneumocystis pneumonia in HIV-infected patients--a report of two cases.",
+        "Pneumocystis pneumonia (PCP), a common opportunistic infection in HIV-infected individuals, is generally treated with high doses of co-trimoxazole.",
+        "However, treatment is often limited by adverse effects.",
+        "Here, we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis, and in one patient lesions mimicking liver abscess formation on radiologic exams, during co-trimoxazole treatment for PCP.",
+        "Whereas patient 1 showed lesions of up to 1 cm readily detectable on magnetic resonance imaging under prolonged co-trimoxazole treatment, therapy of patient 2 was switched early."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002779\tDisease\tcholestasis\tSevere and long lasting <target> cholestasis </target> after high-dose co-trimoxazole treatment for Pneumocystis pneumonia in HIV-infected patients -- a report of two cases .",
+        "D015662\tChemical\tco-trimoxazole\tSevere and long lasting cholestasis after high-dose <target> co-trimoxazole </target> treatment for Pneumocystis pneumonia in HIV-infected patients -- a report of two cases .",
+        "D011020\tDisease\tPneumocystis pneumonia\tSevere and long lasting cholestasis after high-dose co-trimoxazole treatment for <target> Pneumocystis pneumonia </target> in HIV-infected patients -- a report of two cases .",
+        "D015658\tDisease\tHIV-infected\tSevere and long lasting cholestasis after high-dose co-trimoxazole treatment for Pneumocystis pneumonia in <target> HIV-infected </target> patients -- a report of two cases .",
+        "D011020\tDisease\tPneumocystis pneumonia\t<target> Pneumocystis pneumonia </target> ( PCP ) , a common opportunistic infection in HIV-infected individuals , is generally treated with high doses of co-trimoxazole .",
+        "D011020\tDisease\tPCP\tPneumocystis pneumonia ( <target> PCP </target> ) , a common opportunistic infection in HIV-infected individuals , is generally treated with high doses of co-trimoxazole .",
+        "D009894\tDisease\topportunistic infection\tPneumocystis pneumonia ( PCP ) , a common <target> opportunistic infection </target> in HIV-infected individuals , is generally treated with high doses of co-trimoxazole .",
+        "D015658\tDisease\tHIV-infected\tPneumocystis pneumonia ( PCP ) , a common opportunistic infection in <target> HIV-infected </target> individuals , is generally treated with high doses of co-trimoxazole .",
+        "D015662\tChemical\tco-trimoxazole\tPneumocystis pneumonia ( PCP ) , a common opportunistic infection in HIV-infected individuals , is generally treated with high doses of <target> co-trimoxazole </target> .",
+        "D015658\tDisease\tHIV-infected\tHere , we report two cases of severely immunocompromised <target> HIV-infected </target> patients who developed severe intrahepatic cholestasis , and in one patient lesions mimicking liver abscess formation on radiologic exams , during co-trimoxazole treatment for PCP .",
+        "D002780\tDisease\tintrahepatic cholestasis\tHere , we report two cases of severely immunocompromised HIV-infected patients who developed severe <target> intrahepatic cholestasis </target> , and in one patient lesions mimicking liver abscess formation on radiologic exams , during co-trimoxazole treatment for PCP .",
+        "D008100\tDisease\tliver abscess\tHere , we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis , and in one patient lesions mimicking <target> liver abscess </target> formation on radiologic exams , during co-trimoxazole treatment for PCP .",
+        "D015662\tChemical\tco-trimoxazole\tHere , we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis , and in one patient lesions mimicking liver abscess formation on radiologic exams , during <target> co-trimoxazole </target> treatment for PCP .",
+        "D011020\tDisease\tPCP\tHere , we report two cases of severely immunocompromised HIV-infected patients who developed severe intrahepatic cholestasis , and in one patient lesions mimicking liver abscess formation on radiologic exams , during co-trimoxazole treatment for <target> PCP </target> .",
+        "D015662\tChemical\tco-trimoxazole\tWhereas patient 1 showed lesions of up to 1 cm readily detectable on magnetic resonance imaging under prolonged <target> co-trimoxazole </target> treatment , therapy of patient 2 was switched early ."
+    ],
+    "lines_lemma": [
+        "D002779\tDisease\tcholestasis\tsevere and long last <target> cholestasis </target> after high-dose co-trimoxazole treatment for pneumocystis pneumonia in hiv-infected patient -- a report of two case .",
+        "D015662\tChemical\tco-trimoxazole\tsevere and long last cholestasis after high-dose <target> co-trimoxazole </target> treatment for pneumocystis pneumonia in hiv-infected patient -- a report of two case .",
+        "D011020\tDisease\tPneumocystis pneumonia\tsevere and long last cholestasis after high-dose co-trimoxazole treatment for <target> pneumocystis pneumonia </target> in hiv-infected patient -- a report of two case .",
+        "D015658\tDisease\tHIV-infected\tsevere and long last cholestasis after high-dose co-trimoxazole treatment for pneumocystis pneumonia in <target> hiv-infected </target> patient -- a report of two case .",
+        "D011020\tDisease\tPneumocystis pneumonia\t<target> pneumocystis pneumonia </target> ( pcp ) , a common opportunistic infection in hiv-infected individual , be generally treat with high dose of co-trimoxazole .",
+        "D011020\tDisease\tPCP\tpneumocystis pneumonia ( <target> pcp </target> ) , a common opportunistic infection in hiv-infected individual , be generally treat with high dose of co-trimoxazole .",
+        "D009894\tDisease\topportunistic infection\tpneumocystis pneumonia ( pcp ) , a common <target> opportunistic infection </target> in hiv-infected individual , be generally treat with high dose of co-trimoxazole .",
+        "D015658\tDisease\tHIV-infected\tpneumocystis pneumonia ( pcp ) , a common opportunistic infection in <target> hiv-infected </target> individual , be generally treat with high dose of co-trimoxazole .",
+        "D015662\tChemical\tco-trimoxazole\tpneumocystis pneumonia ( pcp ) , a common opportunistic infection in hiv-infected individual , be generally treat with high dose of <target> co-trimoxazole </target> .",
+        "D015658\tDisease\tHIV-infected\there , we report two case of severely immunocompromise <target> hiv-infected </target> patient who develop severe intrahepatic cholestasis , and in one patient lesion mimic liver abscess formation on radiologic exam , during co-trimoxazole treatment for pcp .",
+        "D002780\tDisease\tintrahepatic cholestasis\there , we report two case of severely immunocompromise hiv-infected patient who develop severe <target> intrahepatic cholestasis </target> , and in one patient lesion mimic liver abscess formation on radiologic exam , during co-trimoxazole treatment for pcp .",
+        "D008100\tDisease\tliver abscess\there , we report two case of severely immunocompromise hiv-infected patient who develop severe intrahepatic cholestasis , and in one patient lesion mimic <target> liver abscess </target> formation on radiologic exam , during co-trimoxazole treatment for pcp .",
+        "D015662\tChemical\tco-trimoxazole\there , we report two case of severely immunocompromise hiv-infected patient who develop severe intrahepatic cholestasis , and in one patient lesion mimic liver abscess formation on radiologic exam , during <target> co-trimoxazole </target> treatment for pcp .",
+        "D011020\tDisease\tPCP\there , we report two case of severely immunocompromise hiv-infected patient who develop severe intrahepatic cholestasis , and in one patient lesion mimic liver abscess formation on radiologic exam , during co-trimoxazole treatment for <target> pcp </target> .",
+        "D015662\tChemical\tco-trimoxazole\twhereas patient 1 show lesion of up to 1 cm readily detectable on magnetic resonance imaging under prolonged <target> co-trimoxazole </target> treatment , therapy of patient 2 be switch early ."
+    ]
+}

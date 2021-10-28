@@ -1,0 +1,114 @@
+{
+    "title": "Acute cholestatic hepatitis after exposure to isoflurane.",
+    "abst": "OBJECTIVE: To report a case of acute cholestatic hepatitis following exposure to the inhalational anesthetic isoflurane. CASE SUMMARY: A 70-year-old healthy woman from Iraq developed acute cholestatic hepatitis 3 weeks following repair of the right rotator cuff under general anesthesia. There was no evidence for viral, autoimmune, or metabolic causes of hepatitis. No other medications were involved except for dipyrone for analgesia. The alanine aminotransferase was elevated to a peak concentration of 1533 U/L and the serum bilirubin reached a peak of 17.0 mg/dL. There was slow improvement over 4 months. Accidental reexposure by the patient to dipyrone was uneventful. DISCUSSION: The clinical and histologic picture of this case resembles halothane hepatitis, which has a significant mortality rate. CONCLUSIONS: Isoflurane, a common anesthetic agent, can cause severe cholestatic hepatitis.",
+    "title_plus_abst": "Acute cholestatic hepatitis after exposure to isoflurane. OBJECTIVE: To report a case of acute cholestatic hepatitis following exposure to the inhalational anesthetic isoflurane. CASE SUMMARY: A 70-year-old healthy woman from Iraq developed acute cholestatic hepatitis 3 weeks following repair of the right rotator cuff under general anesthesia. There was no evidence for viral, autoimmune, or metabolic causes of hepatitis. No other medications were involved except for dipyrone for analgesia. The alanine aminotransferase was elevated to a peak concentration of 1533 U/L and the serum bilirubin reached a peak of 17.0 mg/dL. There was slow improvement over 4 months. Accidental reexposure by the patient to dipyrone was uneventful. DISCUSSION: The clinical and histologic picture of this case resembles halothane hepatitis, which has a significant mortality rate. CONCLUSIONS: Isoflurane, a common anesthetic agent, can cause severe cholestatic hepatitis.",
+    "pubmed_id": "11847945",
+    "entities": [
+        [
+            46,
+            56,
+            "isoflurane",
+            "Chemical",
+            "D007530"
+        ],
+        [
+            167,
+            177,
+            "isoflurane",
+            "Chemical",
+            "D007530"
+        ],
+        [
+            414,
+            423,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            471,
+            479,
+            "dipyrone",
+            "Chemical",
+            "D004177"
+        ],
+        [
+            484,
+            493,
+            "analgesia",
+            "Disease",
+            "D000699"
+        ],
+        [
+            499,
+            506,
+            "alanine",
+            "Chemical",
+            "D000409"
+        ],
+        [
+            587,
+            596,
+            "bilirubin",
+            "Chemical",
+            "D001663"
+        ],
+        [
+            709,
+            717,
+            "dipyrone",
+            "Chemical",
+            "D004177"
+        ],
+        [
+            805,
+            824,
+            "halothane hepatitis",
+            "Disease",
+            "C562477"
+        ],
+        [
+            879,
+            889,
+            "Isoflurane",
+            "Chemical",
+            "D007530"
+        ]
+    ],
+    "split_sentence": [
+        "Acute cholestatic hepatitis after exposure to isoflurane.",
+        "OBJECTIVE: To report a case of acute cholestatic hepatitis following exposure to the inhalational anesthetic isoflurane.",
+        "CASE SUMMARY: A 70-year-old healthy woman from Iraq developed acute cholestatic hepatitis 3 weeks following repair of the right rotator cuff under general anesthesia.",
+        "There was no evidence for viral, autoimmune, or metabolic causes of hepatitis.",
+        "No other medications were involved except for dipyrone for analgesia.",
+        "The alanine aminotransferase was elevated to a peak concentration of 1533 U/L and the serum bilirubin reached a peak of 17.0 mg/dL. There was slow improvement over 4 months.",
+        "Accidental reexposure by the patient to dipyrone was uneventful.",
+        "DISCUSSION: The clinical and histologic picture of this case resembles halothane hepatitis, which has a significant mortality rate.",
+        "CONCLUSIONS: Isoflurane, a common anesthetic agent, can cause severe cholestatic hepatitis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007530\tChemical\tisoflurane\tAcute cholestatic hepatitis after exposure to <target> isoflurane </target> .",
+        "D007530\tChemical\tisoflurane\tOBJECTIVE : To report a case of acute cholestatic hepatitis following exposure to the inhalational anesthetic <target> isoflurane </target> .",
+        "D056486\tDisease\thepatitis\tThere was no evidence for viral , autoimmune , or metabolic causes of <target> hepatitis </target> .",
+        "D004177\tChemical\tdipyrone\tNo other medications were involved except for <target> dipyrone </target> for analgesia .",
+        "D000699\tDisease\tanalgesia\tNo other medications were involved except for dipyrone for <target> analgesia </target> .",
+        "D000409\tChemical\talanine\tThe <target> alanine </target> aminotransferase was elevated to a peak concentration of 1533 U/L and the serum bilirubin reached a peak of 17.0 mg/dL. There was slow improvement over 4 months .",
+        "D001663\tChemical\tbilirubin\tThe alanine aminotransferase was elevated to a peak concentration of 1533 U/L and the serum <target> bilirubin </target> reached a peak of 17.0 mg/dL. There was slow improvement over 4 months .",
+        "D004177\tChemical\tdipyrone\tAccidental reexposure by the patient to <target> dipyrone </target> was uneventful .",
+        "C562477\tDisease\thalothane hepatitis\tDISCUSSION : The clinical and histologic picture of this case resembles <target> halothane hepatitis </target> , which has a significant mortality rate .",
+        "D007530\tChemical\tIsoflurane\tCONCLUSIONS : <target> Isoflurane </target> , a common anesthetic agent , can cause severe cholestatic hepatitis ."
+    ],
+    "lines_lemma": [
+        "D007530\tChemical\tisoflurane\tacute cholestatic hepatitis after exposure to <target> isoflurane </target> .",
+        "D007530\tChemical\tisoflurane\tobjective : to report a case of acute cholestatic hepatitis follow exposure to the inhalational anesthetic <target> isoflurane </target> .",
+        "D056486\tDisease\thepatitis\tthere be no evidence for viral , autoimmune , or metabolic cause of <target> hepatitis </target> .",
+        "D004177\tChemical\tdipyrone\tno other medication be involve except for <target> dipyrone </target> for analgesia .",
+        "D000699\tDisease\tanalgesia\tno other medication be involve except for dipyrone for <target> analgesia </target> .",
+        "D000409\tChemical\talanine\tthe <target> alanine </target> aminotransferase be elevated to a peak concentration of 1533 u/l and the serum bilirubin reach a peak of 17.0 mg/dl. there be slow improvement over 4 month .",
+        "D001663\tChemical\tbilirubin\tthe alanine aminotransferase be elevated to a peak concentration of 1533 u/l and the serum <target> bilirubin </target> reach a peak of 17.0 mg/dl. there be slow improvement over 4 month .",
+        "D004177\tChemical\tdipyrone\taccidental reexposure by the patient to <target> dipyrone </target> be uneventful .",
+        "C562477\tDisease\thalothane hepatitis\tDISCUSSION : the clinical and histologic picture of this case resemble <target> halothane hepatitis </target> , which have a significant mortality rate .",
+        "D007530\tChemical\tIsoflurane\tconclusion : <target> Isoflurane </target> , a common anesthetic agent , can cause severe cholestatic hepatitis ."
+    ]
+}

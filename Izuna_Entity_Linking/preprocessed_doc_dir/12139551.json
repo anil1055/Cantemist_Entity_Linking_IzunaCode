@@ -1,0 +1,149 @@
+{
+    "title": "Cardiac arrest after intravenous metoclopramide - a case of five repeated injections of metoclopramide causing five episodes of cardiac arrest.",
+    "abst": "We describe a patient where intravenous injection of metoclopramide was immediately followed by asystole repeatedly. The patient received metoclopramide 10 mg i.v. five times during 48 h. After interviewing the attending nurses and reviewing the written documentation, it is clear that every administration of metoclopramide was immediately (within s) followed by asystole. The asystole lasted 15-30 s on four occasions, on one occasion it lasted 2 min. The patient received atropine 0.5-1 mg and chest compressions, before sinus rhythm again took over. We interpret this as episodes of cardiac arrest caused by metoclopramide. The rapid injection via the central venous route and the concomitant tapering of dopamine infusion might have contributed in precipitating the adverse drug reaction.",
+    "title_plus_abst": "Cardiac arrest after intravenous metoclopramide - a case of five repeated injections of metoclopramide causing five episodes of cardiac arrest. We describe a patient where intravenous injection of metoclopramide was immediately followed by asystole repeatedly. The patient received metoclopramide 10 mg i.v. five times during 48 h. After interviewing the attending nurses and reviewing the written documentation, it is clear that every administration of metoclopramide was immediately (within s) followed by asystole. The asystole lasted 15-30 s on four occasions, on one occasion it lasted 2 min. The patient received atropine 0.5-1 mg and chest compressions, before sinus rhythm again took over. We interpret this as episodes of cardiac arrest caused by metoclopramide. The rapid injection via the central venous route and the concomitant tapering of dopamine infusion might have contributed in precipitating the adverse drug reaction.",
+    "pubmed_id": "12139551",
+    "entities": [
+        [
+            0,
+            14,
+            "Cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            33,
+            47,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            88,
+            102,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            128,
+            142,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            197,
+            211,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            240,
+            248,
+            "asystole",
+            "Disease",
+            "D006323"
+        ],
+        [
+            282,
+            296,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            454,
+            468,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            508,
+            516,
+            "asystole",
+            "Disease",
+            "D006323"
+        ],
+        [
+            522,
+            530,
+            "asystole",
+            "Disease",
+            "D006323"
+        ],
+        [
+            619,
+            627,
+            "atropine",
+            "Chemical",
+            "D001285"
+        ],
+        [
+            731,
+            745,
+            "cardiac arrest",
+            "Disease",
+            "D006323"
+        ],
+        [
+            756,
+            770,
+            "metoclopramide",
+            "Chemical",
+            "D008787"
+        ],
+        [
+            853,
+            861,
+            "dopamine",
+            "Chemical",
+            "D004298"
+        ]
+    ],
+    "split_sentence": [
+        "Cardiac arrest after intravenous metoclopramide - a case of five repeated injections of metoclopramide causing five episodes of cardiac arrest.",
+        "We describe a patient where intravenous injection of metoclopramide was immediately followed by asystole repeatedly.",
+        "The patient received metoclopramide 10 mg i.v.",
+        "five times during 48 h. After interviewing the attending nurses and reviewing the written documentation, it is clear that every administration of metoclopramide was immediately (within s) followed by asystole.",
+        "The asystole lasted 15-30 s on four occasions, on one occasion it lasted 2 min.",
+        "The patient received atropine 0.5-1 mg and chest compressions, before sinus rhythm again took over.",
+        "We interpret this as episodes of cardiac arrest caused by metoclopramide.",
+        "The rapid injection via the central venous route and the concomitant tapering of dopamine infusion might have contributed in precipitating the adverse drug reaction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006323\tDisease\tCardiac arrest\t<target> Cardiac arrest </target> after intravenous metoclopramide - a case of five repeated injections of metoclopramide causing five episodes of cardiac arrest .",
+        "D008787\tChemical\tmetoclopramide\tCardiac arrest after intravenous <target> metoclopramide </target> - a case of five repeated injections of metoclopramide causing five episodes of cardiac arrest .",
+        "D008787\tChemical\tmetoclopramide\tCardiac arrest after intravenous metoclopramide - a case of five repeated injections of <target> metoclopramide </target> causing five episodes of cardiac arrest .",
+        "D006323\tDisease\tcardiac arrest\tCardiac arrest after intravenous metoclopramide - a case of five repeated injections of metoclopramide causing five episodes of <target> cardiac arrest </target> .",
+        "D008787\tChemical\tmetoclopramide\tWe describe a patient where intravenous injection of <target> metoclopramide </target> was immediately followed by asystole repeatedly .",
+        "D006323\tDisease\tasystole\tWe describe a patient where intravenous injection of metoclopramide was immediately followed by <target> asystole </target> repeatedly .",
+        "D008787\tChemical\tmetoclopramide\tThe patient received <target> metoclopramide </target> 10 mg i.v .",
+        "D008787\tChemical\tmetoclopramide\tfive times during 48 h. After interviewing the attending nurses and reviewing the written documentation , it is clear that every administration of <target> metoclopramide </target> was immediately ( within s ) followed by asystole .",
+        "D006323\tDisease\tasystole\tfive times during 48 h. After interviewing the attending nurses and reviewing the written documentation , it is clear that every administration of metoclopramide was immediately ( within s ) followed by <target> asystole </target> .",
+        "D006323\tDisease\tasystole\tThe <target> asystole </target> lasted 15 - 30 s on four occasions , on one occasion it lasted 2 min .",
+        "D001285\tChemical\tatropine\tThe patient received <target> atropine </target> 0.5 - 1 mg and chest compressions , before sinus rhythm again took over .",
+        "D006323\tDisease\tcardiac arrest\tWe interpret this as episodes of <target> cardiac arrest </target> caused by metoclopramide .",
+        "D008787\tChemical\tmetoclopramide\tWe interpret this as episodes of cardiac arrest caused by <target> metoclopramide </target> .",
+        "D004298\tChemical\tdopamine\tThe rapid injection via the central venous route and the concomitant tapering of <target> dopamine </target> infusion might have contributed in precipitating the adverse drug reaction ."
+    ],
+    "lines_lemma": [
+        "D006323\tDisease\tCardiac arrest\t<target> cardiac arrest </target> after intravenous metoclopramide - a case of five repeat injection of metoclopramide cause five episode of cardiac arrest .",
+        "D008787\tChemical\tmetoclopramide\tcardiac arrest after intravenous <target> metoclopramide </target> - a case of five repeat injection of metoclopramide cause five episode of cardiac arrest .",
+        "D008787\tChemical\tmetoclopramide\tcardiac arrest after intravenous metoclopramide - a case of five repeat injection of <target> metoclopramide </target> cause five episode of cardiac arrest .",
+        "D006323\tDisease\tcardiac arrest\tcardiac arrest after intravenous metoclopramide - a case of five repeat injection of metoclopramide cause five episode of <target> cardiac arrest </target> .",
+        "D008787\tChemical\tmetoclopramide\twe describe a patient where intravenous injection of <target> metoclopramide </target> be immediately follow by asystole repeatedly .",
+        "D006323\tDisease\tasystole\twe describe a patient where intravenous injection of metoclopramide be immediately follow by <target> asystole </target> repeatedly .",
+        "D008787\tChemical\tmetoclopramide\tthe patient receive <target> metoclopramide </target> 10 mg i.v .",
+        "D008787\tChemical\tmetoclopramide\tfive time during 48 h. after interview the attend nurse and review the write documentation , it be clear that every administration of <target> metoclopramide </target> be immediately ( within s ) follow by asystole .",
+        "D006323\tDisease\tasystole\tfive time during 48 h. after interview the attend nurse and review the write documentation , it be clear that every administration of metoclopramide be immediately ( within s ) follow by <target> asystole </target> .",
+        "D006323\tDisease\tasystole\tthe <target> asystole </target> last 15 - 30 s on four occasion , on one occasion it last 2 min .",
+        "D001285\tChemical\tatropine\tthe patient receive <target> atropine </target> 0.5 - 1 mg and chest compression , before sinus rhythm again take over .",
+        "D006323\tDisease\tcardiac arrest\twe interpret this as episode of <target> cardiac arrest </target> cause by metoclopramide .",
+        "D008787\tChemical\tmetoclopramide\twe interpret this as episode of cardiac arrest cause by <target> metoclopramide </target> .",
+        "D004298\tChemical\tdopamine\tthe rapid injection via the central venous route and the concomitant tapering of <target> dopamine </target> infusion might have contribute in precipitate the adverse drug reaction ."
+    ]
+}

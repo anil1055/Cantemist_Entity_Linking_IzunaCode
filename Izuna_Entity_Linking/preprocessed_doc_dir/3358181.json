@@ -1,0 +1,130 @@
+{
+    "title": "Ventricular tachyarrhythmias during cesarean section after ritodrine therapy: interaction with anesthetics.",
+    "abst": "This case illustrates that patients receiving ritodrine for preterm labor may risk interactions between the residual betamimetic effects of ritodrine and the effects of anesthetics during cesarean section. Such interactions may result in serious cardiovascular complications even after cessation of an infusion of ritodrine. Preoperative assessment should focus on cardiovascular status and serum potassium level. Delaying induction of anesthesia should be considered whenever possible. Careful fluid administration and cautious use of titrated doses of ephedrine are advised. After delivery of the infant, there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat hypotensive patients with tachycardia.",
+    "title_plus_abst": "Ventricular tachyarrhythmias during cesarean section after ritodrine therapy: interaction with anesthetics. This case illustrates that patients receiving ritodrine for preterm labor may risk interactions between the residual betamimetic effects of ritodrine and the effects of anesthetics during cesarean section. Such interactions may result in serious cardiovascular complications even after cessation of an infusion of ritodrine. Preoperative assessment should focus on cardiovascular status and serum potassium level. Delaying induction of anesthesia should be considered whenever possible. Careful fluid administration and cautious use of titrated doses of ephedrine are advised. After delivery of the infant, there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat hypotensive patients with tachycardia.",
+    "pubmed_id": "3358181",
+    "entities": [
+        [
+            0,
+            28,
+            "Ventricular tachyarrhythmias",
+            "Disease",
+            "D014693"
+        ],
+        [
+            59,
+            68,
+            "ritodrine",
+            "Chemical",
+            "D012312"
+        ],
+        [
+            154,
+            163,
+            "ritodrine",
+            "Chemical",
+            "D012312"
+        ],
+        [
+            168,
+            181,
+            "preterm labor",
+            "Disease",
+            "D007752"
+        ],
+        [
+            248,
+            257,
+            "ritodrine",
+            "Chemical",
+            "D012312"
+        ],
+        [
+            354,
+            382,
+            "cardiovascular complications",
+            "Disease",
+            "D002318"
+        ],
+        [
+            422,
+            431,
+            "ritodrine",
+            "Chemical",
+            "D012312"
+        ],
+        [
+            505,
+            514,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            662,
+            671,
+            "ephedrine",
+            "Chemical",
+            "D004809"
+        ],
+        [
+            805,
+            818,
+            "phenylephrine",
+            "Chemical",
+            "D010656"
+        ],
+        [
+            828,
+            839,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            854,
+            865,
+            "tachycardia",
+            "Disease",
+            "D013610"
+        ]
+    ],
+    "split_sentence": [
+        "Ventricular tachyarrhythmias during cesarean section after ritodrine therapy: interaction with anesthetics.",
+        "This case illustrates that patients receiving ritodrine for preterm labor may risk interactions between the residual betamimetic effects of ritodrine and the effects of anesthetics during cesarean section.",
+        "Such interactions may result in serious cardiovascular complications even after cessation of an infusion of ritodrine.",
+        "Preoperative assessment should focus on cardiovascular status and serum potassium level.",
+        "Delaying induction of anesthesia should be considered whenever possible.",
+        "Careful fluid administration and cautious use of titrated doses of ephedrine are advised.",
+        "After delivery of the infant, there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat hypotensive patients with tachycardia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014693\tDisease\tVentricular tachyarrhythmias\t<target> Ventricular tachyarrhythmias </target> during cesarean section after ritodrine therapy : interaction with anesthetics .",
+        "D012312\tChemical\tritodrine\tVentricular tachyarrhythmias during cesarean section after <target> ritodrine </target> therapy : interaction with anesthetics .",
+        "D012312\tChemical\tritodrine\tThis case illustrates that patients receiving <target> ritodrine </target> for preterm labor may risk interactions between the residual betamimetic effects of ritodrine and the effects of anesthetics during cesarean section .",
+        "D007752\tDisease\tpreterm labor\tThis case illustrates that patients receiving ritodrine for <target> preterm labor </target> may risk interactions between the residual betamimetic effects of ritodrine and the effects of anesthetics during cesarean section .",
+        "D012312\tChemical\tritodrine\tThis case illustrates that patients receiving ritodrine for preterm labor may risk interactions between the residual betamimetic effects of <target> ritodrine </target> and the effects of anesthetics during cesarean section .",
+        "D002318\tDisease\tcardiovascular complications\tSuch interactions may result in serious <target> cardiovascular complications </target> even after cessation of an infusion of ritodrine .",
+        "D012312\tChemical\tritodrine\tSuch interactions may result in serious cardiovascular complications even after cessation of an infusion of <target> ritodrine </target> .",
+        "D011188\tChemical\tpotassium\tPreoperative assessment should focus on cardiovascular status and serum <target> potassium </target> level .",
+        "D004809\tChemical\tephedrine\tCareful fluid administration and cautious use of titrated doses of <target> ephedrine </target> are advised .",
+        "D010656\tChemical\tphenylephrine\tAfter delivery of the infant , there should be no contraindication to the use of an alpha-adrenergic vasopressor such as <target> phenylephrine </target> to treat hypotensive patients with tachycardia .",
+        "D007022\tDisease\thypotensive\tAfter delivery of the infant , there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat <target> hypotensive </target> patients with tachycardia .",
+        "D013610\tDisease\ttachycardia\tAfter delivery of the infant , there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat hypotensive patients with <target> tachycardia </target> ."
+    ],
+    "lines_lemma": [
+        "D014693\tDisease\tVentricular tachyarrhythmias\t<target> Ventricular tachyarrhythmia </target> during cesarean section after ritodrine therapy : interaction with anesthetic .",
+        "D012312\tChemical\tritodrine\tventricular tachyarrhythmia during cesarean section after <target> ritodrine </target> therapy : interaction with anesthetic .",
+        "D012312\tChemical\tritodrine\tthis case illustrate that patient receive <target> ritodrine </target> for preterm labor may risk interaction between the residual betamimetic effect of ritodrine and the effect of anesthetic during cesarean section .",
+        "D007752\tDisease\tpreterm labor\tthis case illustrate that patient receive ritodrine for <target> preterm labor </target> may risk interaction between the residual betamimetic effect of ritodrine and the effect of anesthetic during cesarean section .",
+        "D012312\tChemical\tritodrine\tthis case illustrate that patient receive ritodrine for preterm labor may risk interaction between the residual betamimetic effect of <target> ritodrine </target> and the effect of anesthetic during cesarean section .",
+        "D002318\tDisease\tcardiovascular complications\tsuch interaction may result in serious <target> cardiovascular complication </target> even after cessation of an infusion of ritodrine .",
+        "D012312\tChemical\tritodrine\tsuch interaction may result in serious cardiovascular complication even after cessation of an infusion of <target> ritodrine </target> .",
+        "D011188\tChemical\tpotassium\tpreoperative assessment should focus on cardiovascular status and serum <target> potassium </target> level .",
+        "D004809\tChemical\tephedrine\tcareful fluid administration and cautious use of titrate dose of <target> ephedrine </target> be advise .",
+        "D010656\tChemical\tphenylephrine\tafter delivery of the infant , there should be no contraindication to the use of an alpha-adrenergic vasopressor such as <target> phenylephrine </target> to treat hypotensive patient with tachycardia .",
+        "D007022\tDisease\thypotensive\tafter delivery of the infant , there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat <target> hypotensive </target> patient with tachycardia .",
+        "D013610\tDisease\ttachycardia\tafter delivery of the infant , there should be no contraindication to the use of an alpha-adrenergic vasopressor such as phenylephrine to treat hypotensive patient with <target> tachycardia </target> ."
+    ]
+}

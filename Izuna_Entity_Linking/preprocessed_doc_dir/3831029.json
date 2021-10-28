@@ -1,0 +1,138 @@
+{
+    "title": "Improvement by denopamine (TA-064) of pentobarbital-induced cardiac failure in the dog heart-lung preparation.",
+    "abst": "The efficacy of denopamine, an orally active beta 1-adrenoceptor agonist, in improving cardiac failure was assessed in dog heart-lung preparations. Cardiac functions depressed by pentobarbital (118 +/- 28 mg; mean value +/- SD) such that cardiac output and maximum rate of rise of left ventricular pressure (LV dP/dt max) had been reduced by about 35% and 26% of the respective controls were improved by denopamine (10-300 micrograms) in a dose-dependent manner. With 100 micrograms denopamine, almost complete restoration of cardiac performance was attained, associated with a slight increase in heart rate. No arrhythmias were induced by these doses of denopamine. The results warrant clinical trials of denopamine in the treatment of cardiac failure.",
+    "title_plus_abst": "Improvement by denopamine (TA-064) of pentobarbital-induced cardiac failure in the dog heart-lung preparation. The efficacy of denopamine, an orally active beta 1-adrenoceptor agonist, in improving cardiac failure was assessed in dog heart-lung preparations. Cardiac functions depressed by pentobarbital (118 +/- 28 mg; mean value +/- SD) such that cardiac output and maximum rate of rise of left ventricular pressure (LV dP/dt max) had been reduced by about 35% and 26% of the respective controls were improved by denopamine (10-300 micrograms) in a dose-dependent manner. With 100 micrograms denopamine, almost complete restoration of cardiac performance was attained, associated with a slight increase in heart rate. No arrhythmias were induced by these doses of denopamine. The results warrant clinical trials of denopamine in the treatment of cardiac failure.",
+    "pubmed_id": "3831029",
+    "entities": [
+        [
+            15,
+            25,
+            "denopamine",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            27,
+            33,
+            "TA-064",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            38,
+            51,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ],
+        [
+            60,
+            75,
+            "cardiac failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            127,
+            137,
+            "denopamine",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            198,
+            213,
+            "cardiac failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            290,
+            303,
+            "pentobarbital",
+            "Chemical",
+            "D010424"
+        ],
+        [
+            515,
+            525,
+            "denopamine",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            594,
+            604,
+            "denopamine",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            723,
+            734,
+            "arrhythmias",
+            "Disease",
+            "D001145"
+        ],
+        [
+            766,
+            776,
+            "denopamine",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            817,
+            827,
+            "denopamine",
+            "Chemical",
+            "C037293"
+        ],
+        [
+            848,
+            863,
+            "cardiac failure",
+            "Disease",
+            "D006333"
+        ]
+    ],
+    "split_sentence": [
+        "Improvement by denopamine (TA-064) of pentobarbital-induced cardiac failure in the dog heart-lung preparation.",
+        "The efficacy of denopamine, an orally active beta 1-adrenoceptor agonist, in improving cardiac failure was assessed in dog heart-lung preparations.",
+        "Cardiac functions depressed by pentobarbital (118 +/- 28 mg; mean value +/- SD) such that cardiac output and maximum rate of rise of left ventricular pressure (LV dP/dt max) had been reduced by about 35% and 26% of the respective controls were improved by denopamine (10-300 micrograms) in a dose-dependent manner.",
+        "With 100 micrograms denopamine, almost complete restoration of cardiac performance was attained, associated with a slight increase in heart rate.",
+        "No arrhythmias were induced by these doses of denopamine.",
+        "The results warrant clinical trials of denopamine in the treatment of cardiac failure."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C037293\tChemical\tdenopamine\tImprovement by <target> denopamine </target> ( TA-064 ) of pentobarbital-induced cardiac failure in the dog heart-lung preparation .",
+        "C037293\tChemical\tTA-064\tImprovement by denopamine ( <target> TA-064 </target> ) of pentobarbital-induced cardiac failure in the dog heart-lung preparation .",
+        "D010424\tChemical\tpentobarbital\tImprovement by denopamine ( TA-064 ) of <target> pentobarbital </target> -induced cardiac failure in the dog heart-lung preparation .",
+        "D006333\tDisease\tcardiac failure\tImprovement by denopamine ( TA-064 ) of pentobarbital-induced <target> cardiac failure </target> in the dog heart-lung preparation .",
+        "C037293\tChemical\tdenopamine\tThe efficacy of <target> denopamine </target> , an orally active beta 1-adrenoceptor agonist , in improving cardiac failure was assessed in dog heart-lung preparations .",
+        "D006333\tDisease\tcardiac failure\tThe efficacy of denopamine , an orally active beta 1-adrenoceptor agonist , in improving <target> cardiac failure </target> was assessed in dog heart-lung preparations .",
+        "D010424\tChemical\tpentobarbital\tCardiac functions depressed by <target> pentobarbital </target> ( 118 + /- 28 mg ; mean value + /- SD ) such that cardiac output and maximum rate of rise of left ventricular pressure ( LV dP/dt max ) had been reduced by about 35 % and 26 % of the respective controls were improved by denopamine ( 10 - 300 micrograms ) in a dose-dependent manner .",
+        "C037293\tChemical\tdenopamine\tCardiac functions depressed by pentobarbital ( 118 + /- 28 mg ; mean value + /- SD ) such that cardiac output and maximum rate of rise of left ventricular pressure ( LV dP/dt max ) had been reduced by about 35 % and 26 % of the respective controls were improved by <target> denopamine </target> ( 10 - 300 micrograms ) in a dose-dependent manner .",
+        "C037293\tChemical\tdenopamine\tWith 100 micrograms <target> denopamine </target> , almost complete restoration of cardiac performance was attained , associated with a slight increase in heart rate .",
+        "D001145\tDisease\tarrhythmias\tNo <target> arrhythmias </target> were induced by these doses of denopamine .",
+        "C037293\tChemical\tdenopamine\tNo arrhythmias were induced by these doses of <target> denopamine </target> .",
+        "C037293\tChemical\tdenopamine\tThe results warrant clinical trials of <target> denopamine </target> in the treatment of cardiac failure .",
+        "D006333\tDisease\tcardiac failure\tThe results warrant clinical trials of denopamine in the treatment of <target> cardiac failure </target> ."
+    ],
+    "lines_lemma": [
+        "C037293\tChemical\tdenopamine\timprovement by <target> denopamine </target> ( ta-064 ) of pentobarbital-induced cardiac failure in the dog heart-lung preparation .",
+        "C037293\tChemical\tTA-064\timprovement by denopamine ( <target> ta-064 </target> ) of pentobarbital-induced cardiac failure in the dog heart-lung preparation .",
+        "D010424\tChemical\tpentobarbital\timprovement by denopamine ( ta-064 ) of <target> pentobarbital </target> -induced cardiac failure in the dog heart-lung preparation .",
+        "D006333\tDisease\tcardiac failure\timprovement by denopamine ( ta-064 ) of pentobarbital-induced <target> cardiac failure </target> in the dog heart-lung preparation .",
+        "C037293\tChemical\tdenopamine\tthe efficacy of <target> denopamine </target> , an orally active beta 1-adrenoceptor agonist , in improve cardiac failure be assess in dog heart-lung preparation .",
+        "D006333\tDisease\tcardiac failure\tthe efficacy of denopamine , an orally active beta 1-adrenoceptor agonist , in improve <target> cardiac failure </target> be assess in dog heart-lung preparation .",
+        "D010424\tChemical\tpentobarbital\tcardiac function depress by <target> pentobarbital </target> ( 118 + /- 28 mg ; mean value + /- sd ) such that cardiac output and maximum rate of rise of leave ventricular pressure ( lv dp/dt max ) have be reduce by about 35 % and 26 % of the respective control be improve by denopamine ( 10 - 300 microgram ) in a dose-dependent manner .",
+        "C037293\tChemical\tdenopamine\tcardiac function depress by pentobarbital ( 118 + /- 28 mg ; mean value + /- sd ) such that cardiac output and maximum rate of rise of leave ventricular pressure ( lv dp/dt max ) have be reduce by about 35 % and 26 % of the respective control be improve by <target> denopamine </target> ( 10 - 300 microgram ) in a dose-dependent manner .",
+        "C037293\tChemical\tdenopamine\twith 100 microgram <target> denopamine </target> , almost complete restoration of cardiac performance be attain , associate with a slight increase in heart rate .",
+        "D001145\tDisease\tarrhythmias\tno <target> arrhythmia </target> be induce by these dose of denopamine .",
+        "C037293\tChemical\tdenopamine\tno arrhythmia be induce by these dose of <target> denopamine </target> .",
+        "C037293\tChemical\tdenopamine\tthe result warrant clinical trial of <target> denopamine </target> in the treatment of cardiac failure .",
+        "D006333\tDisease\tcardiac failure\tthe result warrant clinical trial of denopamine in the treatment of <target> cardiac failure </target> ."
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "Inappropriate use of carbamazepine and vigabatrin in typical absence seizures.",
+    "abst": "Carbamazepine and vigabatrin are contraindicated in typical absence seizures. Of 18 consecutive referrals of children with resistant typical absences only, eight were erroneously treated with carbamazepine either as monotherapy or as an add-on. Vigabatrin was also used in the treatment of two children. Frequency of absences increased in four children treated with carbamazepine and two of these developed myoclonic jerks, which resolved on withdrawal of carbamazepine. Absences were aggravated in both cases where vigabatrin was added on to concurrent treatment. Optimal control of the absences was achieved with sodium valproate, lamotrigine, or ethosuximide alone or in combination.",
+    "title_plus_abst": "Inappropriate use of carbamazepine and vigabatrin in typical absence seizures. Carbamazepine and vigabatrin are contraindicated in typical absence seizures. Of 18 consecutive referrals of children with resistant typical absences only, eight were erroneously treated with carbamazepine either as monotherapy or as an add-on. Vigabatrin was also used in the treatment of two children. Frequency of absences increased in four children treated with carbamazepine and two of these developed myoclonic jerks, which resolved on withdrawal of carbamazepine. Absences were aggravated in both cases where vigabatrin was added on to concurrent treatment. Optimal control of the absences was achieved with sodium valproate, lamotrigine, or ethosuximide alone or in combination.",
+    "pubmed_id": "9746003",
+    "entities": [
+        [
+            21,
+            34,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            39,
+            49,
+            "vigabatrin",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            61,
+            77,
+            "absence seizures",
+            "Disease",
+            "D004832"
+        ],
+        [
+            79,
+            92,
+            "Carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            97,
+            107,
+            "vigabatrin",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            139,
+            155,
+            "absence seizures",
+            "Disease",
+            "D004832"
+        ],
+        [
+            271,
+            284,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            324,
+            334,
+            "Vigabatrin",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            445,
+            458,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            486,
+            501,
+            "myoclonic jerks",
+            "Disease",
+            "D009207"
+        ],
+        [
+            535,
+            548,
+            "carbamazepine",
+            "Chemical",
+            "D002220"
+        ],
+        [
+            595,
+            605,
+            "vigabatrin",
+            "Chemical",
+            "D020888"
+        ],
+        [
+            694,
+            710,
+            "sodium valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            712,
+            723,
+            "lamotrigine",
+            "Chemical",
+            "C047781"
+        ],
+        [
+            728,
+            740,
+            "ethosuximide",
+            "Chemical",
+            "D005013"
+        ]
+    ],
+    "split_sentence": [
+        "Inappropriate use of carbamazepine and vigabatrin in typical absence seizures.",
+        "Carbamazepine and vigabatrin are contraindicated in typical absence seizures.",
+        "Of 18 consecutive referrals of children with resistant typical absences only, eight were erroneously treated with carbamazepine either as monotherapy or as an add-on.",
+        "Vigabatrin was also used in the treatment of two children.",
+        "Frequency of absences increased in four children treated with carbamazepine and two of these developed myoclonic jerks, which resolved on withdrawal of carbamazepine.",
+        "Absences were aggravated in both cases where vigabatrin was added on to concurrent treatment.",
+        "Optimal control of the absences was achieved with sodium valproate, lamotrigine, or ethosuximide alone or in combination."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002220\tChemical\tcarbamazepine\tInappropriate use of <target> carbamazepine </target> and vigabatrin in typical absence seizures .",
+        "D020888\tChemical\tvigabatrin\tInappropriate use of carbamazepine and <target> vigabatrin </target> in typical absence seizures .",
+        "D004832\tDisease\tabsence seizures\tInappropriate use of carbamazepine and vigabatrin in typical <target> absence seizures </target> .",
+        "D002220\tChemical\tCarbamazepine\t<target> Carbamazepine </target> and vigabatrin are contraindicated in typical absence seizures .",
+        "D020888\tChemical\tvigabatrin\tCarbamazepine and <target> vigabatrin </target> are contraindicated in typical absence seizures .",
+        "D004832\tDisease\tabsence seizures\tCarbamazepine and vigabatrin are contraindicated in typical <target> absence seizures </target> .",
+        "D002220\tChemical\tcarbamazepine\tOf 18 consecutive referrals of children with resistant typical absences only , eight were erroneously treated with <target> carbamazepine </target> either as monotherapy or as an add-on .",
+        "D020888\tChemical\tVigabatrin\t<target> Vigabatrin </target> was also used in the treatment of two children .",
+        "D002220\tChemical\tcarbamazepine\tFrequency of absences increased in four children treated with <target> carbamazepine </target> and two of these developed myoclonic jerks , which resolved on withdrawal of carbamazepine .",
+        "D009207\tDisease\tmyoclonic jerks\tFrequency of absences increased in four children treated with carbamazepine and two of these developed <target> myoclonic jerks </target> , which resolved on withdrawal of carbamazepine .",
+        "D002220\tChemical\tcarbamazepine\tFrequency of absences increased in four children treated with carbamazepine and two of these developed myoclonic jerks , which resolved on withdrawal of <target> carbamazepine </target> .",
+        "D020888\tChemical\tvigabatrin\tAbsences were aggravated in both cases where <target> vigabatrin </target> was added on to concurrent treatment .",
+        "D014635\tChemical\tsodium valproate\tOptimal control of the absences was achieved with <target> sodium valproate </target> , lamotrigine , or ethosuximide alone or in combination .",
+        "C047781\tChemical\tlamotrigine\tOptimal control of the absences was achieved with sodium valproate , <target> lamotrigine </target> , or ethosuximide alone or in combination .",
+        "D005013\tChemical\tethosuximide\tOptimal control of the absences was achieved with sodium valproate , lamotrigine , or <target> ethosuximide </target> alone or in combination ."
+    ],
+    "lines_lemma": [
+        "D002220\tChemical\tcarbamazepine\tinappropriate use of <target> carbamazepine </target> and vigabatrin in typical absence seizure .",
+        "D020888\tChemical\tvigabatrin\tinappropriate use of carbamazepine and <target> vigabatrin </target> in typical absence seizure .",
+        "D004832\tDisease\tabsence seizures\tinappropriate use of carbamazepine and vigabatrin in typical <target> absence seizure </target> .",
+        "D002220\tChemical\tCarbamazepine\t<target> Carbamazepine </target> and vigabatrin be contraindicate in typical absence seizure .",
+        "D020888\tChemical\tvigabatrin\tcarbamazepine and <target> vigabatrin </target> be contraindicate in typical absence seizure .",
+        "D004832\tDisease\tabsence seizures\tcarbamazepine and vigabatrin be contraindicate in typical <target> absence seizure </target> .",
+        "D002220\tChemical\tcarbamazepine\tof 18 consecutive referral of child with resistant typical absence only , eight be erroneously treat with <target> carbamazepine </target> either as monotherapy or as an add-on .",
+        "D020888\tChemical\tVigabatrin\t<target> Vigabatrin </target> be also use in the treatment of two child .",
+        "D002220\tChemical\tcarbamazepine\tfrequency of absence increase in four child treat with <target> carbamazepine </target> and two of these develop myoclonic jerk , which resolve on withdrawal of carbamazepine .",
+        "D009207\tDisease\tmyoclonic jerks\tfrequency of absence increase in four child treat with carbamazepine and two of these develop <target> myoclonic jerk </target> , which resolve on withdrawal of carbamazepine .",
+        "D002220\tChemical\tcarbamazepine\tfrequency of absence increase in four child treat with carbamazepine and two of these develop myoclonic jerk , which resolve on withdrawal of <target> carbamazepine </target> .",
+        "D020888\tChemical\tvigabatrin\tabsence be aggravate in both case where <target> vigabatrin </target> be add on to concurrent treatment .",
+        "D014635\tChemical\tsodium valproate\toptimal control of the absence be achieve with <target> sodium valproate </target> , lamotrigine , or ethosuximide alone or in combination .",
+        "C047781\tChemical\tlamotrigine\toptimal control of the absence be achieve with sodium valproate , <target> lamotrigine </target> , or ethosuximide alone or in combination .",
+        "D005013\tChemical\tethosuximide\toptimal control of the absence be achieve with sodium valproate , lamotrigine , or <target> ethosuximide </target> alone or in combination ."
+    ]
+}

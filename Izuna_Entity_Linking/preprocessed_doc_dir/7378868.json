@@ -1,0 +1,166 @@
+{
+    "title": "Suxamethonium-induced jaw stiffness and myalgia associated with atypical cholinesterase: case report.",
+    "abst": "An 11-year-old boy was given halothane, nitrous oxide and oxygen, pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia. In response to this a marked jaw stiffness occurred which lasted for two minutes and the anaesthesia were terminated. Four hours of apnoea ensued and he suffered generalized severe myalgia lasting for one week. He was found to have atypical plasma cholinesterase with a dibucaine number of 12, indicating homozygocity. This was verified by study of the family. The case shows that prolonged jaw rigidity and myalgia may occur after suxamethonium in patients with atypical cholinesterase despite pretreatment with pancuronium.",
+    "title_plus_abst": "Suxamethonium-induced jaw stiffness and myalgia associated with atypical cholinesterase: case report. An 11-year-old boy was given halothane, nitrous oxide and oxygen, pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia. In response to this a marked jaw stiffness occurred which lasted for two minutes and the anaesthesia were terminated. Four hours of apnoea ensued and he suffered generalized severe myalgia lasting for one week. He was found to have atypical plasma cholinesterase with a dibucaine number of 12, indicating homozygocity. This was verified by study of the family. The case shows that prolonged jaw rigidity and myalgia may occur after suxamethonium in patients with atypical cholinesterase despite pretreatment with pancuronium.",
+    "pubmed_id": "7378868",
+    "entities": [
+        [
+            0,
+            13,
+            "Suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            22,
+            35,
+            "jaw stiffness",
+            "Disease",
+            "D014313"
+        ],
+        [
+            40,
+            47,
+            "myalgia",
+            "Disease",
+            "D063806"
+        ],
+        [
+            131,
+            140,
+            "halothane",
+            "Chemical",
+            "D006221"
+        ],
+        [
+            142,
+            155,
+            "nitrous oxide",
+            "Chemical",
+            "D009609"
+        ],
+        [
+            160,
+            166,
+            "oxygen",
+            "Chemical",
+            "D010100"
+        ],
+        [
+            168,
+            179,
+            "pancuronium",
+            "Chemical",
+            "D010197"
+        ],
+        [
+            191,
+            204,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            271,
+            284,
+            "jaw stiffness",
+            "Disease",
+            "D014313"
+        ],
+        [
+            374,
+            380,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            423,
+            430,
+            "myalgia",
+            "Disease",
+            "D063806"
+        ],
+        [
+            512,
+            521,
+            "dibucaine",
+            "Chemical",
+            "D003992"
+        ],
+        [
+            623,
+            645,
+            "prolonged jaw rigidity",
+            "Disease",
+            "D014313"
+        ],
+        [
+            650,
+            657,
+            "myalgia",
+            "Disease",
+            "D063806"
+        ],
+        [
+            674,
+            687,
+            "suxamethonium",
+            "Chemical",
+            "D013390"
+        ],
+        [
+            755,
+            766,
+            "pancuronium",
+            "Chemical",
+            "D010197"
+        ]
+    ],
+    "split_sentence": [
+        "Suxamethonium-induced jaw stiffness and myalgia associated with atypical cholinesterase: case report.",
+        "An 11-year-old boy was given halothane, nitrous oxide and oxygen, pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia.",
+        "In response to this a marked jaw stiffness occurred which lasted for two minutes and the anaesthesia were terminated.",
+        "Four hours of apnoea ensued and he suffered generalized severe myalgia lasting for one week.",
+        "He was found to have atypical plasma cholinesterase with a dibucaine number of 12, indicating homozygocity.",
+        "This was verified by study of the family.",
+        "The case shows that prolonged jaw rigidity and myalgia may occur after suxamethonium in patients with atypical cholinesterase despite pretreatment with pancuronium."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> -induced jaw stiffness and myalgia associated with atypical cholinesterase : case report .",
+        "D014313\tDisease\tjaw stiffness\tSuxamethonium-induced <target> jaw stiffness </target> and myalgia associated with atypical cholinesterase : case report .",
+        "D063806\tDisease\tmyalgia\tSuxamethonium-induced jaw stiffness and <target> myalgia </target> associated with atypical cholinesterase : case report .",
+        "D006221\tChemical\thalothane\tAn 11-year-old boy was given <target> halothane </target> , nitrous oxide and oxygen , pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D009609\tChemical\tnitrous oxide\tAn 11-year-old boy was given halothane , <target> nitrous oxide </target> and oxygen , pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D010100\tChemical\toxygen\tAn 11-year-old boy was given halothane , nitrous oxide and <target> oxygen </target> , pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D010197\tChemical\tpancuronium\tAn 11-year-old boy was given halothane , nitrous oxide and oxygen , <target> pancuronium </target> 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D013390\tChemical\tsuxamethonium\tAn 11-year-old boy was given halothane , nitrous oxide and oxygen , pancuronium 0.4 mg and <target> suxamethonium </target> 100 mg for induction of anaesthesia .",
+        "D014313\tDisease\tjaw stiffness\tIn response to this a marked <target> jaw stiffness </target> occurred which lasted for two minutes and the anaesthesia were terminated .",
+        "D001049\tDisease\tapnoea\tFour hours of <target> apnoea </target> ensued and he suffered generalized severe myalgia lasting for one week .",
+        "D063806\tDisease\tmyalgia\tFour hours of apnoea ensued and he suffered generalized severe <target> myalgia </target> lasting for one week .",
+        "D003992\tChemical\tdibucaine\tHe was found to have atypical plasma cholinesterase with a <target> dibucaine </target> number of 12 , indicating homozygocity .",
+        "D014313\tDisease\tprolonged jaw rigidity\tThe case shows that <target> prolonged jaw rigidity </target> and myalgia may occur after suxamethonium in patients with atypical cholinesterase despite pretreatment with pancuronium .",
+        "D063806\tDisease\tmyalgia\tThe case shows that prolonged jaw rigidity and <target> myalgia </target> may occur after suxamethonium in patients with atypical cholinesterase despite pretreatment with pancuronium .",
+        "D013390\tChemical\tsuxamethonium\tThe case shows that prolonged jaw rigidity and myalgia may occur after <target> suxamethonium </target> in patients with atypical cholinesterase despite pretreatment with pancuronium .",
+        "D010197\tChemical\tpancuronium\tThe case shows that prolonged jaw rigidity and myalgia may occur after suxamethonium in patients with atypical cholinesterase despite pretreatment with <target> pancuronium </target> ."
+    ],
+    "lines_lemma": [
+        "D013390\tChemical\tSuxamethonium\t<target> Suxamethonium </target> -induced jaw stiffness and myalgia associate with atypical cholinesterase : case report .",
+        "D014313\tDisease\tjaw stiffness\tsuxamethonium-induced <target> jaw stiffness </target> and myalgia associate with atypical cholinesterase : case report .",
+        "D063806\tDisease\tmyalgia\tsuxamethonium-induced jaw stiffness and <target> myalgia </target> associate with atypical cholinesterase : case report .",
+        "D006221\tChemical\thalothane\tan 11-year-old boy be give <target> halothane </target> , nitrous oxide and oxygen , pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D009609\tChemical\tnitrous oxide\tan 11-year-old boy be give halothane , <target> nitrous oxide </target> and oxygen , pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D010100\tChemical\toxygen\tan 11-year-old boy be give halothane , nitrous oxide and <target> oxygen </target> , pancuronium 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D010197\tChemical\tpancuronium\tan 11-year-old boy be give halothane , nitrous oxide and oxygen , <target> pancuronium </target> 0.4 mg and suxamethonium 100 mg for induction of anaesthesia .",
+        "D013390\tChemical\tsuxamethonium\tan 11-year-old boy be give halothane , nitrous oxide and oxygen , pancuronium 0.4 mg and <target> suxamethonium </target> 100 mg for induction of anaesthesia .",
+        "D014313\tDisease\tjaw stiffness\tin response to this a marked <target> jaw stiffness </target> occur which last for two minute and the anaesthesia be terminate .",
+        "D001049\tDisease\tapnoea\tfour hour of <target> apnoea </target> ensue and he suffer generalize severe myalgia last for one week .",
+        "D063806\tDisease\tmyalgia\tfour hour of apnoea ensue and he suffer generalize severe <target> myalgia </target> last for one week .",
+        "D003992\tChemical\tdibucaine\the be find to have atypical plasma cholinesterase with a <target> dibucaine </target> number of 12 , indicate homozygocity .",
+        "D014313\tDisease\tprolonged jaw rigidity\tthe case show that <target> prolonged jaw rigidity </target> and myalgia may occur after suxamethonium in patient with atypical cholinesterase despite pretreatment with pancuronium .",
+        "D063806\tDisease\tmyalgia\tthe case show that prolonged jaw rigidity and <target> myalgia </target> may occur after suxamethonium in patient with atypical cholinesterase despite pretreatment with pancuronium .",
+        "D013390\tChemical\tsuxamethonium\tthe case show that prolonged jaw rigidity and myalgia may occur after <target> suxamethonium </target> in patient with atypical cholinesterase despite pretreatment with pancuronium .",
+        "D010197\tChemical\tpancuronium\tthe case show that prolonged jaw rigidity and myalgia may occur after suxamethonium in patient with atypical cholinesterase despite pretreatment with <target> pancuronium </target> ."
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "A randomized comparison of labetalol and nitroprusside for induced hypotension.",
+    "abst": "In a randomized study, labetalol-induced hypotension and nitroprusside-induced hypotension were compared in 20 patients (10 in each group) scheduled for major orthopedic procedures. Each patient was subjected to an identical anesthetic protocol and similar drug-induced reductions in mean arterial blood pressure (BP) (50 to 55 mmHg). Nitroprusside infusion was associated with a significant (p less than 0.05) increase in heart rate and cardiac output; rebound hypertension was observed in three patients after discontinuation of nitroprusside. Labetalol administration was not associated with any of these findings. Arterial PO2 decreased in both groups. It was concluded that labetalol offers advantages over nitroprusside.",
+    "title_plus_abst": "A randomized comparison of labetalol and nitroprusside for induced hypotension. In a randomized study, labetalol-induced hypotension and nitroprusside-induced hypotension were compared in 20 patients (10 in each group) scheduled for major orthopedic procedures. Each patient was subjected to an identical anesthetic protocol and similar drug-induced reductions in mean arterial blood pressure (BP) (50 to 55 mmHg). Nitroprusside infusion was associated with a significant (p less than 0.05) increase in heart rate and cardiac output; rebound hypertension was observed in three patients after discontinuation of nitroprusside. Labetalol administration was not associated with any of these findings. Arterial PO2 decreased in both groups. It was concluded that labetalol offers advantages over nitroprusside.",
+    "pubmed_id": "2696505",
+    "entities": [
+        [
+            27,
+            36,
+            "labetalol",
+            "Chemical",
+            "D007741"
+        ],
+        [
+            41,
+            54,
+            "nitroprusside",
+            "Chemical",
+            "D009599"
+        ],
+        [
+            67,
+            78,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            103,
+            112,
+            "labetalol",
+            "Chemical",
+            "D007741"
+        ],
+        [
+            121,
+            132,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            137,
+            150,
+            "nitroprusside",
+            "Chemical",
+            "D009599"
+        ],
+        [
+            159,
+            170,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            350,
+            392,
+            "reductions in mean arterial blood pressure",
+            "Disease",
+            "D007022"
+        ],
+        [
+            491,
+            532,
+            "increase in heart rate and cardiac output",
+            "Disease",
+            "D016534"
+        ],
+        [
+            542,
+            554,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            611,
+            624,
+            "nitroprusside",
+            "Chemical",
+            "D009599"
+        ],
+        [
+            626,
+            635,
+            "Labetalol",
+            "Chemical",
+            "D007741"
+        ],
+        [
+            707,
+            710,
+            "PO2",
+            "Chemical",
+            "C093415"
+        ],
+        [
+            759,
+            768,
+            "labetalol",
+            "Chemical",
+            "D007741"
+        ],
+        [
+            792,
+            805,
+            "nitroprusside",
+            "Chemical",
+            "D009599"
+        ]
+    ],
+    "split_sentence": [
+        "A randomized comparison of labetalol and nitroprusside for induced hypotension.",
+        "In a randomized study, labetalol-induced hypotension and nitroprusside-induced hypotension were compared in 20 patients (10 in each group) scheduled for major orthopedic procedures.",
+        "Each patient was subjected to an identical anesthetic protocol and similar drug-induced reductions in mean arterial blood pressure (BP) (50 to 55 mmHg).",
+        "Nitroprusside infusion was associated with a significant (p less than 0.05) increase in heart rate and cardiac output; rebound hypertension was observed in three patients after discontinuation of nitroprusside.",
+        "Labetalol administration was not associated with any of these findings.",
+        "Arterial PO2 decreased in both groups.",
+        "It was concluded that labetalol offers advantages over nitroprusside."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007741\tChemical\tlabetalol\tA randomized comparison of <target> labetalol </target> and nitroprusside for induced hypotension .",
+        "D009599\tChemical\tnitroprusside\tA randomized comparison of labetalol and <target> nitroprusside </target> for induced hypotension .",
+        "D007022\tDisease\thypotension\tA randomized comparison of labetalol and nitroprusside for induced <target> hypotension </target> .",
+        "D007741\tChemical\tlabetalol\tIn a randomized study , <target> labetalol </target> -induced hypotension and nitroprusside-induced hypotension were compared in 20 patients ( 10 in each group ) scheduled for major orthopedic procedures .",
+        "D007022\tDisease\thypotension\tIn a randomized study , labetalol-induced <target> hypotension </target> and nitroprusside-induced hypotension were compared in 20 patients ( 10 in each group ) scheduled for major orthopedic procedures .",
+        "D009599\tChemical\tnitroprusside\tIn a randomized study , labetalol-induced hypotension and <target> nitroprusside </target> -induced hypotension were compared in 20 patients ( 10 in each group ) scheduled for major orthopedic procedures .",
+        "D007022\tDisease\thypotension\tIn a randomized study , labetalol-induced hypotension and nitroprusside-induced <target> hypotension </target> were compared in 20 patients ( 10 in each group ) scheduled for major orthopedic procedures .",
+        "D007022\tDisease\treductions in mean arterial blood pressure\tEach patient was subjected to an identical anesthetic protocol and similar drug-induced <target> reductions in mean arterial blood pressure </target> ( BP ) ( 50 to 55 mmHg ) .",
+        "D016534\tDisease\tincrease in heart rate and cardiac output\tNitroprusside infusion was associated with a significant ( p less than 0.05 ) <target> increase in heart rate and cardiac output </target> ; rebound hypertension was observed in three patients after discontinuation of nitroprusside .",
+        "D006973\tDisease\thypertension\tNitroprusside infusion was associated with a significant ( p less than 0.05 ) increase in heart rate and cardiac output ; rebound <target> hypertension </target> was observed in three patients after discontinuation of nitroprusside .",
+        "D009599\tChemical\tnitroprusside\tNitroprusside infusion was associated with a significant ( p less than 0.05 ) increase in heart rate and cardiac output ; rebound hypertension was observed in three patients after discontinuation of <target> nitroprusside </target> .",
+        "D007741\tChemical\tLabetalol\t<target> Labetalol </target> administration was not associated with any of these findings .",
+        "C093415\tChemical\tPO2\tArterial <target> PO2 </target> decreased in both groups .",
+        "D007741\tChemical\tlabetalol\tIt was concluded that <target> labetalol </target> offers advantages over nitroprusside .",
+        "D009599\tChemical\tnitroprusside\tIt was concluded that labetalol offers advantages over <target> nitroprusside </target> ."
+    ],
+    "lines_lemma": [
+        "D007741\tChemical\tlabetalol\ta randomized comparison of <target> labetalol </target> and nitroprusside for induce hypotension .",
+        "D009599\tChemical\tnitroprusside\ta randomized comparison of labetalol and <target> nitroprusside </target> for induce hypotension .",
+        "D007022\tDisease\thypotension\ta randomized comparison of labetalol and nitroprusside for induce <target> hypotension </target> .",
+        "D007741\tChemical\tlabetalol\tin a randomized study , <target> labetalol </target> -induced hypotension and nitroprusside-induced hypotension be compare in 20 patient ( 10 in each group ) schedule for major orthopedic procedure .",
+        "D007022\tDisease\thypotension\tin a randomized study , labetalol-induced <target> hypotension </target> and nitroprusside-induced hypotension be compare in 20 patient ( 10 in each group ) schedule for major orthopedic procedure .",
+        "D009599\tChemical\tnitroprusside\tin a randomized study , labetalol-induced hypotension and <target> nitroprusside </target> -induced hypotension be compare in 20 patient ( 10 in each group ) schedule for major orthopedic procedure .",
+        "D007022\tDisease\thypotension\tin a randomized study , labetalol-induced hypotension and nitroprusside-induced <target> hypotension </target> be compare in 20 patient ( 10 in each group ) schedule for major orthopedic procedure .",
+        "D007022\tDisease\treductions in mean arterial blood pressure\teach patient be subject to an identical anesthetic protocol and similar drug-induced <target> reduction in mean arterial blood pressure </target> ( bp ) ( 50 to 55 mmhg ) .",
+        "D016534\tDisease\tincrease in heart rate and cardiac output\tnitroprusside infusion be associate with a significant ( p less than 0.05 ) <target> increase in heart rate and cardiac output </target> ; rebound hypertension be observe in three patient after discontinuation of nitroprusside .",
+        "D006973\tDisease\thypertension\tnitroprusside infusion be associate with a significant ( p less than 0.05 ) increase in heart rate and cardiac output ; rebound <target> hypertension </target> be observe in three patient after discontinuation of nitroprusside .",
+        "D009599\tChemical\tnitroprusside\tnitroprusside infusion be associate with a significant ( p less than 0.05 ) increase in heart rate and cardiac output ; rebound hypertension be observe in three patient after discontinuation of <target> nitroprusside </target> .",
+        "D007741\tChemical\tLabetalol\t<target> Labetalol </target> administration be not associate with any of these finding .",
+        "C093415\tChemical\tPO2\tarterial <target> po2 </target> decrease in both group .",
+        "D007741\tChemical\tlabetalol\tit be conclude that <target> labetalol </target> offer advantage over nitroprusside .",
+        "D009599\tChemical\tnitroprusside\tit be conclude that labetalol offer advantage over <target> nitroprusside </target> ."
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "When drugs disappear from the patient: elimination of intravenous medication by hemodiafiltration.",
+    "abst": "Twenty-three hours after heart transplantation, life-threatening acute right heart failure was diagnosed in a patient requiring continuous venovenous hemodiafiltration (CVVHDF). Increasing doses of catecholamines, sedatives, and muscle relaxants administered through a central venous catheter were ineffective. However, a bolus of epinephrine injected through an alternative catheter provoked a hypertensive crisis. Thus, interference with the central venous infusion by the dialysis catheter was suspected. The catheters were changed, and hemodynamics stabilized at lower catecholamine doses. When the effects of IV drugs are inadequate in patients receiving CVVHDF, interference with adjacent catheters resulting in elimination of the drug by CVVHDF should be suspected.",
+    "title_plus_abst": "When drugs disappear from the patient: elimination of intravenous medication by hemodiafiltration. Twenty-three hours after heart transplantation, life-threatening acute right heart failure was diagnosed in a patient requiring continuous venovenous hemodiafiltration (CVVHDF). Increasing doses of catecholamines, sedatives, and muscle relaxants administered through a central venous catheter were ineffective. However, a bolus of epinephrine injected through an alternative catheter provoked a hypertensive crisis. Thus, interference with the central venous infusion by the dialysis catheter was suspected. The catheters were changed, and hemodynamics stabilized at lower catecholamine doses. When the effects of IV drugs are inadequate in patients receiving CVVHDF, interference with adjacent catheters resulting in elimination of the drug by CVVHDF should be suspected.",
+    "pubmed_id": "19843802",
+    "entities": [
+        [
+            170,
+            189,
+            "right heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            297,
+            311,
+            "catecholamines",
+            "Chemical",
+            "D002395"
+        ],
+        [
+            430,
+            441,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            494,
+            506,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            672,
+            685,
+            "catecholamine",
+            "Chemical",
+            "D002395"
+        ]
+    ],
+    "split_sentence": [
+        "When drugs disappear from the patient: elimination of intravenous medication by hemodiafiltration.",
+        "Twenty-three hours after heart transplantation, life-threatening acute right heart failure was diagnosed in a patient requiring continuous venovenous hemodiafiltration (CVVHDF).",
+        "Increasing doses of catecholamines, sedatives, and muscle relaxants administered through a central venous catheter were ineffective.",
+        "However, a bolus of epinephrine injected through an alternative catheter provoked a hypertensive crisis.",
+        "Thus, interference with the central venous infusion by the dialysis catheter was suspected.",
+        "The catheters were changed, and hemodynamics stabilized at lower catecholamine doses.",
+        "When the effects of IV drugs are inadequate in patients receiving CVVHDF, interference with adjacent catheters resulting in elimination of the drug by CVVHDF should be suspected."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006333\tDisease\tright heart failure\tTwenty-three hours after heart transplantation , life-threatening acute <target> right heart failure </target> was diagnosed in a patient requiring continuous venovenous hemodiafiltration ( CVVHDF ) .",
+        "D002395\tChemical\tcatecholamines\tIncreasing doses of <target> catecholamines </target> , sedatives , and muscle relaxants administered through a central venous catheter were ineffective .",
+        "D004837\tChemical\tepinephrine\tHowever , a bolus of <target> epinephrine </target> injected through an alternative catheter provoked a hypertensive crisis .",
+        "D006973\tDisease\thypertensive\tHowever , a bolus of epinephrine injected through an alternative catheter provoked a <target> hypertensive </target> crisis .",
+        "D002395\tChemical\tcatecholamine\tThe catheters were changed , and hemodynamics stabilized at lower <target> catecholamine </target> doses ."
+    ],
+    "lines_lemma": [
+        "D006333\tDisease\tright heart failure\ttwenty-three hour after heart transplantation , life-threatening acute <target> right heart failure </target> be diagnose in a patient require continuous venovenous hemodiafiltration ( cvvhdf ) .",
+        "D002395\tChemical\tcatecholamines\tincrease dose of <target> catecholamine </target> , sedative , and muscle relaxant administer through a central venous catheter be ineffective .",
+        "D004837\tChemical\tepinephrine\thowever , a bolus of <target> epinephrine </target> inject through an alternative catheter provoke a hypertensive crisis .",
+        "D006973\tDisease\thypertensive\thowever , a bolus of epinephrine inject through an alternative catheter provoke a <target> hypertensive </target> crisis .",
+        "D002395\tChemical\tcatecholamine\tthe catheter be change , and hemodynamic stabilize at low <target> catecholamine </target> dose ."
+    ]
+}

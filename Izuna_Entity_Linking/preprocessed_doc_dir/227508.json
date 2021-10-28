@@ -1,0 +1,175 @@
+{
+    "title": "Naloxone reverses the antihypertensive effect of clonidine.",
+    "abst": "In unanesthetized, spontaneously hypertensive rats the decrease in blood pressure and heart rate produced by intravenous clonidine, 5 to 20 micrograms/kg, was inhibited or reversed by nalozone, 0.2 to 2 mg/kg. The hypotensive effect of 100 mg/kg alpha-methyldopa was also partially reversed by naloxone. Naloxone alone did not affect either blood pressure or heart rate. In brain membranes from spontaneously hypertensive rats clonidine, 10(-8) to 10(-5) M, did not influence stereoselective binding of [3H]-naloxone (8 nM), and naloxone, 10(-8) to 10(-4) M, did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine (1 nM). These findings indicate that in spontaneously hypertensive rats the effects of central alpha-adrenoceptor stimulation involve activation of opiate receptors. As naloxone and clonidine do not appear to interact with the same receptor site, the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone.",
+    "title_plus_abst": "Naloxone reverses the antihypertensive effect of clonidine. In unanesthetized, spontaneously hypertensive rats the decrease in blood pressure and heart rate produced by intravenous clonidine, 5 to 20 micrograms/kg, was inhibited or reversed by nalozone, 0.2 to 2 mg/kg. The hypotensive effect of 100 mg/kg alpha-methyldopa was also partially reversed by naloxone. Naloxone alone did not affect either blood pressure or heart rate. In brain membranes from spontaneously hypertensive rats clonidine, 10(-8) to 10(-5) M, did not influence stereoselective binding of [3H]-naloxone (8 nM), and naloxone, 10(-8) to 10(-4) M, did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine (1 nM). These findings indicate that in spontaneously hypertensive rats the effects of central alpha-adrenoceptor stimulation involve activation of opiate receptors. As naloxone and clonidine do not appear to interact with the same receptor site, the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone.",
+    "pubmed_id": "227508",
+    "entities": [
+        [
+            0,
+            8,
+            "Naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            49,
+            58,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            93,
+            105,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            181,
+            190,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            274,
+            285,
+            "hypotensive",
+            "Disease",
+            "D007022"
+        ],
+        [
+            306,
+            322,
+            "alpha-methyldopa",
+            "Chemical",
+            "D008750"
+        ],
+        [
+            354,
+            362,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            364,
+            372,
+            "Naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            469,
+            481,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            487,
+            496,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            589,
+            597,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            637,
+            646,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            750,
+            762,
+            "hypertensive",
+            "Disease",
+            "D006973"
+        ],
+        [
+            865,
+            873,
+            "naloxone",
+            "Chemical",
+            "D009270"
+        ],
+        [
+            878,
+            887,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            1026,
+            1035,
+            "clonidine",
+            "Chemical",
+            "D003000"
+        ],
+        [
+            1039,
+            1055,
+            "alpha-methyldopa",
+            "Chemical",
+            "D008750"
+        ]
+    ],
+    "split_sentence": [
+        "Naloxone reverses the antihypertensive effect of clonidine.",
+        "In unanesthetized, spontaneously hypertensive rats the decrease in blood pressure and heart rate produced by intravenous clonidine, 5 to 20 micrograms/kg, was inhibited or reversed by nalozone, 0.2 to 2 mg/kg.",
+        "The hypotensive effect of 100 mg/kg alpha-methyldopa was also partially reversed by naloxone.",
+        "Naloxone alone did not affect either blood pressure or heart rate.",
+        "In brain membranes from spontaneously hypertensive rats clonidine, 10(-8) to 10(-5) M, did not influence stereoselective binding of [3H]-naloxone (8 nM), and naloxone, 10(-8) to 10(-4) M, did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine (1 nM).",
+        "These findings indicate that in spontaneously hypertensive rats the effects of central alpha-adrenoceptor stimulation involve activation of opiate receptors.",
+        "As naloxone and clonidine do not appear to interact with the same receptor site, the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009270\tChemical\tNaloxone\t<target> Naloxone </target> reverses the antihypertensive effect of clonidine .",
+        "D003000\tChemical\tclonidine\tNaloxone reverses the antihypertensive effect of <target> clonidine </target> .",
+        "D006973\tDisease\thypertensive\tIn unanesthetized , spontaneously <target> hypertensive </target> rats the decrease in blood pressure and heart rate produced by intravenous clonidine , 5 to 20 micrograms/kg , was inhibited or reversed by nalozone , 0.2 to 2 mg/kg .",
+        "D003000\tChemical\tclonidine\tIn unanesthetized , spontaneously hypertensive rats the decrease in blood pressure and heart rate produced by intravenous <target> clonidine </target> , 5 to 20 micrograms/kg , was inhibited or reversed by nalozone , 0.2 to 2 mg/kg .",
+        "D007022\tDisease\thypotensive\tThe <target> hypotensive </target> effect of 100 mg/kg alpha-methyldopa was also partially reversed by naloxone .",
+        "D008750\tChemical\talpha-methyldopa\tThe hypotensive effect of 100 mg/kg <target> alpha-methyldopa </target> was also partially reversed by naloxone .",
+        "D009270\tChemical\tnaloxone\tThe hypotensive effect of 100 mg/kg alpha-methyldopa was also partially reversed by <target> naloxone </target> .",
+        "D009270\tChemical\tNaloxone\t<target> Naloxone </target> alone did not affect either blood pressure or heart rate .",
+        "D006973\tDisease\thypertensive\tIn brain membranes from spontaneously <target> hypertensive </target> rats clonidine , 10(-8 ) to 10(-5 ) M , did not influence stereoselective binding of [3H]-naloxone ( 8 nM ) , and naloxone , 10(-8 ) to 10(-4 ) M , did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine ( 1 nM ) .",
+        "D003000\tChemical\tclonidine\tIn brain membranes from spontaneously hypertensive rats <target> clonidine </target> , 10(-8 ) to 10(-5 ) M , did not influence stereoselective binding of [3H]-naloxone ( 8 nM ) , and naloxone , 10(-8 ) to 10(-4 ) M , did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine ( 1 nM ) .",
+        "D009270\tChemical\tnaloxone\tIn brain membranes from spontaneously hypertensive rats clonidine , 10(-8 ) to 10(-5 ) M , did not influence stereoselective binding of [3H]-naloxone ( 8 nM ) , and <target> naloxone </target> , 10(-8 ) to 10(-4 ) M , did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine ( 1 nM ) .",
+        "D003000\tChemical\tclonidine\tIn brain membranes from spontaneously hypertensive rats clonidine , 10(-8 ) to 10(-5 ) M , did not influence stereoselective binding of [3H]-naloxone ( 8 nM ) , and naloxone , 10(-8 ) to 10(-4 ) M , did not influence <target> clonidine </target> -suppressible binding of [3H]-dihydroergocryptine ( 1 nM ) .",
+        "D006973\tDisease\thypertensive\tThese findings indicate that in spontaneously <target> hypertensive </target> rats the effects of central alpha-adrenoceptor stimulation involve activation of opiate receptors .",
+        "D009270\tChemical\tnaloxone\tAs <target> naloxone </target> and clonidine do not appear to interact with the same receptor site , the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone .",
+        "D003000\tChemical\tclonidine\tAs naloxone and <target> clonidine </target> do not appear to interact with the same receptor site , the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone .",
+        "D003000\tChemical\tclonidine\tAs naloxone and clonidine do not appear to interact with the same receptor site , the observed functional antagonism suggests the release of an endogenous opiate by <target> clonidine </target> or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone .",
+        "D008750\tChemical\talpha-methyldopa\tAs naloxone and clonidine do not appear to interact with the same receptor site , the observed functional antagonism suggests the release of an endogenous opiate by clonidine or <target> alpha-methyldopa </target> and the possible role of the opiate in the central control of sympathetic tone ."
+    ],
+    "lines_lemma": [
+        "D009270\tChemical\tNaloxone\t<target> Naloxone </target> reverse the antihypertensive effect of clonidine .",
+        "D003000\tChemical\tclonidine\tnaloxone reverse the antihypertensive effect of <target> clonidine </target> .",
+        "D006973\tDisease\thypertensive\tin unanesthetized , spontaneously <target> hypertensive </target> rat the decrease in blood pressure and heart rate produce by intravenous clonidine , 5 to 20 micrograms/kg , be inhibit or reverse by nalozone , 0.2 to 2 mg/kg .",
+        "D003000\tChemical\tclonidine\tin unanesthetized , spontaneously hypertensive rat the decrease in blood pressure and heart rate produce by intravenous <target> clonidine </target> , 5 to 20 micrograms/kg , be inhibit or reverse by nalozone , 0.2 to 2 mg/kg .",
+        "D007022\tDisease\thypotensive\tthe <target> hypotensive </target> effect of 100 mg/kg alpha-methyldopa be also partially reverse by naloxone .",
+        "D008750\tChemical\talpha-methyldopa\tthe hypotensive effect of 100 mg/kg <target> alpha-methyldopa </target> be also partially reverse by naloxone .",
+        "D009270\tChemical\tnaloxone\tthe hypotensive effect of 100 mg/kg alpha-methyldopa be also partially reverse by <target> naloxone </target> .",
+        "D009270\tChemical\tNaloxone\t<target> Naloxone </target> alone do not affect either blood pressure or heart rate .",
+        "D006973\tDisease\thypertensive\tin brain membrane from spontaneously <target> hypertensive </target> rat clonidine , 10(-8 ) to 10(-5 ) m , do not influence stereoselective binding of [3h]-naloxone ( 8 nm ) , and naloxone , 10(-8 ) to 10(-4 ) m , do not influence clonidine-suppressible binding of [3h]-dihydroergocryptine ( 1 nm ) .",
+        "D003000\tChemical\tclonidine\tin brain membrane from spontaneously hypertensive rat <target> clonidine </target> , 10(-8 ) to 10(-5 ) m , do not influence stereoselective binding of [3h]-naloxone ( 8 nm ) , and naloxone , 10(-8 ) to 10(-4 ) m , do not influence clonidine-suppressible binding of [3h]-dihydroergocryptine ( 1 nm ) .",
+        "D009270\tChemical\tnaloxone\tin brain membrane from spontaneously hypertensive rat clonidine , 10(-8 ) to 10(-5 ) m , do not influence stereoselective binding of [3h]-naloxone ( 8 nm ) , and <target> naloxone </target> , 10(-8 ) to 10(-4 ) m , do not influence clonidine-suppressible binding of [3h]-dihydroergocryptine ( 1 nm ) .",
+        "D003000\tChemical\tclonidine\tin brain membrane from spontaneously hypertensive rat clonidine , 10(-8 ) to 10(-5 ) m , do not influence stereoselective binding of [3h]-naloxone ( 8 nm ) , and naloxone , 10(-8 ) to 10(-4 ) m , do not influence <target> clonidine </target> -suppressible binding of [3h]-dihydroergocryptine ( 1 nm ) .",
+        "D006973\tDisease\thypertensive\tthese finding indicate that in spontaneously <target> hypertensive </target> rat the effect of central alpha-adrenoceptor stimulation involve activation of opiate receptor .",
+        "D009270\tChemical\tnaloxone\tas <target> naloxone </target> and clonidine do not appear to interact with the same receptor site , the observe functional antagonism suggest the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone .",
+        "D003000\tChemical\tclonidine\tas naloxone and <target> clonidine </target> do not appear to interact with the same receptor site , the observe functional antagonism suggest the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone .",
+        "D003000\tChemical\tclonidine\tas naloxone and clonidine do not appear to interact with the same receptor site , the observe functional antagonism suggest the release of an endogenous opiate by <target> clonidine </target> or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone .",
+        "D008750\tChemical\talpha-methyldopa\tas naloxone and clonidine do not appear to interact with the same receptor site , the observe functional antagonism suggest the release of an endogenous opiate by clonidine or <target> alpha-methyldopa </target> and the possible role of the opiate in the central control of sympathetic tone ."
+    ]
+}

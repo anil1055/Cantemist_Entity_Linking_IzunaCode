@@ -1,0 +1,175 @@
+{
+    "title": "Cerebral vasculitis following oral methylphenidate intake in an adult: a case report.",
+    "abst": "Methylphenidate is structurally and functionally similar to amphetamine. Cerebral vasculitis associated with amphetamine abuse is well documented, and in rare cases ischaemic stroke has been reported after methylphenidate intake in children. We report the case of a 63-year-old female who was treated with methylphenidate due to hyperactivity and suffered from multiple ischaemic strokes. We consider drug-induced cerebral vasculitis as the most likely cause of recurrent ischaemic strokes in the absence of any pathological findings during the diagnostic work-up. We conclude that methylphenidate mediated vasculitis should be considered in patients with neurological symptoms and a history of methylphenidate therapy. This potential side-effect, though very rare, represents one more reason to be very restrictive in the use of methylphenidate.",
+    "title_plus_abst": "Cerebral vasculitis following oral methylphenidate intake in an adult: a case report. Methylphenidate is structurally and functionally similar to amphetamine. Cerebral vasculitis associated with amphetamine abuse is well documented, and in rare cases ischaemic stroke has been reported after methylphenidate intake in children. We report the case of a 63-year-old female who was treated with methylphenidate due to hyperactivity and suffered from multiple ischaemic strokes. We consider drug-induced cerebral vasculitis as the most likely cause of recurrent ischaemic strokes in the absence of any pathological findings during the diagnostic work-up. We conclude that methylphenidate mediated vasculitis should be considered in patients with neurological symptoms and a history of methylphenidate therapy. This potential side-effect, though very rare, represents one more reason to be very restrictive in the use of methylphenidate.",
+    "pubmed_id": "16428221",
+    "entities": [
+        [
+            0,
+            19,
+            "Cerebral vasculitis",
+            "Disease",
+            "D020293"
+        ],
+        [
+            35,
+            50,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            86,
+            101,
+            "Methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            146,
+            157,
+            "amphetamine",
+            "Chemical",
+            "D000661"
+        ],
+        [
+            159,
+            178,
+            "Cerebral vasculitis",
+            "Disease",
+            "D020293"
+        ],
+        [
+            195,
+            212,
+            "amphetamine abuse",
+            "Disease",
+            "D019969"
+        ],
+        [
+            251,
+            267,
+            "ischaemic stroke",
+            "Disease",
+            "D002544"
+        ],
+        [
+            292,
+            307,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            392,
+            407,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            415,
+            428,
+            "hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            456,
+            473,
+            "ischaemic strokes",
+            "Disease",
+            "D002544"
+        ],
+        [
+            500,
+            519,
+            "cerebral vasculitis",
+            "Disease",
+            "D020293"
+        ],
+        [
+            558,
+            575,
+            "ischaemic strokes",
+            "Disease",
+            "D002544"
+        ],
+        [
+            668,
+            683,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            693,
+            703,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            781,
+            796,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ],
+        [
+            916,
+            931,
+            "methylphenidate",
+            "Chemical",
+            "D008774"
+        ]
+    ],
+    "split_sentence": [
+        "Cerebral vasculitis following oral methylphenidate intake in an adult: a case report.",
+        "Methylphenidate is structurally and functionally similar to amphetamine.",
+        "Cerebral vasculitis associated with amphetamine abuse is well documented, and in rare cases ischaemic stroke has been reported after methylphenidate intake in children.",
+        "We report the case of a 63-year-old female who was treated with methylphenidate due to hyperactivity and suffered from multiple ischaemic strokes.",
+        "We consider drug-induced cerebral vasculitis as the most likely cause of recurrent ischaemic strokes in the absence of any pathological findings during the diagnostic work-up.",
+        "We conclude that methylphenidate mediated vasculitis should be considered in patients with neurological symptoms and a history of methylphenidate therapy.",
+        "This potential side-effect, though very rare, represents one more reason to be very restrictive in the use of methylphenidate."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D020293\tDisease\tCerebral vasculitis\t<target> Cerebral vasculitis </target> following oral methylphenidate intake in an adult : a case report .",
+        "D008774\tChemical\tmethylphenidate\tCerebral vasculitis following oral <target> methylphenidate </target> intake in an adult : a case report .",
+        "D008774\tChemical\tMethylphenidate\t<target> Methylphenidate </target> is structurally and functionally similar to amphetamine .",
+        "D000661\tChemical\tamphetamine\tMethylphenidate is structurally and functionally similar to <target> amphetamine </target> .",
+        "D020293\tDisease\tCerebral vasculitis\t<target> Cerebral vasculitis </target> associated with amphetamine abuse is well documented , and in rare cases ischaemic stroke has been reported after methylphenidate intake in children .",
+        "D019969\tDisease\tamphetamine abuse\tCerebral vasculitis associated with <target> amphetamine abuse </target> is well documented , and in rare cases ischaemic stroke has been reported after methylphenidate intake in children .",
+        "D002544\tDisease\tischaemic stroke\tCerebral vasculitis associated with amphetamine abuse is well documented , and in rare cases <target> ischaemic stroke </target> has been reported after methylphenidate intake in children .",
+        "D008774\tChemical\tmethylphenidate\tCerebral vasculitis associated with amphetamine abuse is well documented , and in rare cases ischaemic stroke has been reported after <target> methylphenidate </target> intake in children .",
+        "D008774\tChemical\tmethylphenidate\tWe report the case of a 63-year-old female who was treated with <target> methylphenidate </target> due to hyperactivity and suffered from multiple ischaemic strokes .",
+        "D006948\tDisease\thyperactivity\tWe report the case of a 63-year-old female who was treated with methylphenidate due to <target> hyperactivity </target> and suffered from multiple ischaemic strokes .",
+        "D002544\tDisease\tischaemic strokes\tWe report the case of a 63-year-old female who was treated with methylphenidate due to hyperactivity and suffered from multiple <target> ischaemic strokes </target> .",
+        "D020293\tDisease\tcerebral vasculitis\tWe consider drug-induced <target> cerebral vasculitis </target> as the most likely cause of recurrent ischaemic strokes in the absence of any pathological findings during the diagnostic work-up .",
+        "D002544\tDisease\tischaemic strokes\tWe consider drug-induced cerebral vasculitis as the most likely cause of recurrent <target> ischaemic strokes </target> in the absence of any pathological findings during the diagnostic work-up .",
+        "D008774\tChemical\tmethylphenidate\tWe conclude that <target> methylphenidate </target> mediated vasculitis should be considered in patients with neurological symptoms and a history of methylphenidate therapy .",
+        "D014657\tDisease\tvasculitis\tWe conclude that methylphenidate mediated <target> vasculitis </target> should be considered in patients with neurological symptoms and a history of methylphenidate therapy .",
+        "D008774\tChemical\tmethylphenidate\tWe conclude that methylphenidate mediated vasculitis should be considered in patients with neurological symptoms and a history of <target> methylphenidate </target> therapy .",
+        "D008774\tChemical\tmethylphenidate\tThis potential side-effect , though very rare , represents one more reason to be very restrictive in the use of <target> methylphenidate </target> ."
+    ],
+    "lines_lemma": [
+        "D020293\tDisease\tCerebral vasculitis\t<target> cerebral vasculitis </target> follow oral methylphenidate intake in an adult : a case report .",
+        "D008774\tChemical\tmethylphenidate\tcerebral vasculitis follow oral <target> methylphenidate </target> intake in an adult : a case report .",
+        "D008774\tChemical\tMethylphenidate\t<target> methylphenidate </target> be structurally and functionally similar to amphetamine .",
+        "D000661\tChemical\tamphetamine\tMethylphenidate be structurally and functionally similar to <target> amphetamine </target> .",
+        "D020293\tDisease\tCerebral vasculitis\t<target> cerebral vasculitis </target> associate with amphetamine abuse be well document , and in rare case ischaemic stroke have be report after methylphenidate intake in child .",
+        "D019969\tDisease\tamphetamine abuse\tcerebral vasculitis associate with <target> amphetamine abuse </target> be well document , and in rare case ischaemic stroke have be report after methylphenidate intake in child .",
+        "D002544\tDisease\tischaemic stroke\tcerebral vasculitis associate with amphetamine abuse be well document , and in rare case <target> ischaemic stroke </target> have be report after methylphenidate intake in child .",
+        "D008774\tChemical\tmethylphenidate\tcerebral vasculitis associate with amphetamine abuse be well document , and in rare case ischaemic stroke have be report after <target> methylphenidate </target> intake in child .",
+        "D008774\tChemical\tmethylphenidate\twe report the case of a 63-year-old female who be treat with <target> methylphenidate </target> due to hyperactivity and suffer from multiple ischaemic stroke .",
+        "D006948\tDisease\thyperactivity\twe report the case of a 63-year-old female who be treat with methylphenidate due to <target> hyperactivity </target> and suffer from multiple ischaemic stroke .",
+        "D002544\tDisease\tischaemic strokes\twe report the case of a 63-year-old female who be treat with methylphenidate due to hyperactivity and suffer from multiple <target> ischaemic stroke </target> .",
+        "D020293\tDisease\tcerebral vasculitis\twe consider drug-induced <target> cerebral vasculitis </target> as the most likely cause of recurrent ischaemic stroke in the absence of any pathological finding during the diagnostic work-up .",
+        "D002544\tDisease\tischaemic strokes\twe consider drug-induced cerebral vasculitis as the most likely cause of recurrent <target> ischaemic stroke </target> in the absence of any pathological finding during the diagnostic work-up .",
+        "D008774\tChemical\tmethylphenidate\twe conclude that <target> methylphenidate </target> mediated vasculitis should be consider in patient with neurological symptom and a history of methylphenidate therapy .",
+        "D014657\tDisease\tvasculitis\twe conclude that methylphenidate mediate <target> vasculitis </target> should be consider in patient with neurological symptom and a history of methylphenidate therapy .",
+        "D008774\tChemical\tmethylphenidate\twe conclude that methylphenidate mediated vasculitis should be consider in patient with neurological symptom and a history of <target> methylphenidate </target> therapy .",
+        "D008774\tChemical\tmethylphenidate\tthis potential side-effect , though very rare , represent one more reason to be very restrictive in the use of <target> methylphenidate </target> ."
+    ]
+}

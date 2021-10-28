@@ -1,0 +1,92 @@
+{
+    "title": "Early adjuvant adriamycin in superficial bladder carcinoma.",
+    "abst": "A multicenter study was performed in 110 patients with superficial transitional cell carcinoma of the bladder. Adriamycin (50 mg/50 ml) was administered intravesically within 24 h after transurethral resection of TA-T1 (O-A) bladder tumors. Instillation was repeated twice during the first week, then weekly during the first month and afterwards monthly for 1 year. The tolerance was evaluated in these 110 patients, and 29 patients presented with local side-effects. In 24 of these patients chemical cystitis was severe enough for them to drop out of the study. No systemic side-effects were observed. Recurrence was studied in 82 evaluable patients after 1 year of follow-up and in 72 patients followed for 2-3 years (mean 32 months). Of the 82 patients studied after 1 year, 23 had primary and 59 recurrent disease. Of the 82 evaluable patients, 50 did not show any recurrence after 1 year (61%), while 32 presented with one or more recurrences (39%). Of these recurrences, 27 were T1 tumors while five progressed to more highly invasive lesions. In patients that were free of recurrence during the first year, 80% remained tumor-free during the 2- to 3-year follow-up period. Of the patients developing one or more recurrences during the first year, only 50% presented with further recurrence once the instillations were stopped. The beneficial effect of Adriamycin appears obvious and might be related to the drug itself, the early and repeated instillations after TUR, or both.",
+    "title_plus_abst": "Early adjuvant adriamycin in superficial bladder carcinoma. A multicenter study was performed in 110 patients with superficial transitional cell carcinoma of the bladder. Adriamycin (50 mg/50 ml) was administered intravesically within 24 h after transurethral resection of TA-T1 (O-A) bladder tumors. Instillation was repeated twice during the first week, then weekly during the first month and afterwards monthly for 1 year. The tolerance was evaluated in these 110 patients, and 29 patients presented with local side-effects. In 24 of these patients chemical cystitis was severe enough for them to drop out of the study. No systemic side-effects were observed. Recurrence was studied in 82 evaluable patients after 1 year of follow-up and in 72 patients followed for 2-3 years (mean 32 months). Of the 82 patients studied after 1 year, 23 had primary and 59 recurrent disease. Of the 82 evaluable patients, 50 did not show any recurrence after 1 year (61%), while 32 presented with one or more recurrences (39%). Of these recurrences, 27 were T1 tumors while five progressed to more highly invasive lesions. In patients that were free of recurrence during the first year, 80% remained tumor-free during the 2- to 3-year follow-up period. Of the patients developing one or more recurrences during the first year, only 50% presented with further recurrence once the instillations were stopped. The beneficial effect of Adriamycin appears obvious and might be related to the drug itself, the early and repeated instillations after TUR, or both.",
+    "pubmed_id": "6640832",
+    "entities": [
+        [
+            15,
+            25,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            171,
+            181,
+            "Adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            285,
+            299,
+            "bladder tumors",
+            "Disease",
+            "D001749"
+        ],
+        [
+            561,
+            569,
+            "cystitis",
+            "Disease",
+            "D003556"
+        ],
+        [
+            1048,
+            1054,
+            "tumors",
+            "Disease",
+            "D009369"
+        ],
+        [
+            1187,
+            1192,
+            "tumor",
+            "Disease",
+            "D009369"
+        ],
+        [
+            1419,
+            1429,
+            "Adriamycin",
+            "Chemical",
+            "D004317"
+        ]
+    ],
+    "split_sentence": [
+        "Early adjuvant adriamycin in superficial bladder carcinoma.",
+        "A multicenter study was performed in 110 patients with superficial transitional cell carcinoma of the bladder.",
+        "Adriamycin (50 mg/50 ml) was administered intravesically within 24 h after transurethral resection of TA-T1 (O-A) bladder tumors.",
+        "Instillation was repeated twice during the first week, then weekly during the first month and afterwards monthly for 1 year.",
+        "The tolerance was evaluated in these 110 patients, and 29 patients presented with local side-effects.",
+        "In 24 of these patients chemical cystitis was severe enough for them to drop out of the study.",
+        "No systemic side-effects were observed.",
+        "Recurrence was studied in 82 evaluable patients after 1 year of follow-up and in 72 patients followed for 2-3 years (mean 32 months).",
+        "Of the 82 patients studied after 1 year, 23 had primary and 59 recurrent disease.",
+        "Of the 82 evaluable patients, 50 did not show any recurrence after 1 year (61%), while 32 presented with one or more recurrences (39%).",
+        "Of these recurrences, 27 were T1 tumors while five progressed to more highly invasive lesions.",
+        "In patients that were free of recurrence during the first year, 80% remained tumor-free during the 2- to 3-year follow-up period.",
+        "Of the patients developing one or more recurrences during the first year, only 50% presented with further recurrence once the instillations were stopped.",
+        "The beneficial effect of Adriamycin appears obvious and might be related to the drug itself, the early and repeated instillations after TUR, or both."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004317\tChemical\tadriamycin\tEarly adjuvant <target> adriamycin </target> in superficial bladder carcinoma .",
+        "D004317\tChemical\tAdriamycin\t<target> Adriamycin </target> ( 50 mg/50 ml ) was administered intravesically within 24 h after transurethral resection of TA-T1 ( O-A ) bladder tumors .",
+        "D001749\tDisease\tbladder tumors\tAdriamycin ( 50 mg/50 ml ) was administered intravesically within 24 h after transurethral resection of TA-T1 ( O-A ) <target> bladder tumors </target> .",
+        "D003556\tDisease\tcystitis\tIn 24 of these patients chemical <target> cystitis </target> was severe enough for them to drop out of the study .",
+        "D009369\tDisease\ttumors\tOf these recurrences , 27 were T1 <target> tumors </target> while five progressed to more highly invasive lesions .",
+        "D009369\tDisease\ttumor\tIn patients that were free of recurrence during the first year , 80 % remained <target> tumor </target> -free during the 2- to 3-year follow-up period .",
+        "D004317\tChemical\tAdriamycin\tThe beneficial effect of <target> Adriamycin </target> appears obvious and might be related to the drug itself , the early and repeated instillations after TUR , or both ."
+    ],
+    "lines_lemma": [
+        "D004317\tChemical\tadriamycin\tearly adjuvant <target> adriamycin </target> in superficial bladder carcinoma .",
+        "D004317\tChemical\tAdriamycin\t<target> adriamycin </target> ( 50 mg/50 ml ) be administer intravesically within 24 h after transurethral resection of ta-t1 ( o-a ) bladder tumor .",
+        "D001749\tDisease\tbladder tumors\tadriamycin ( 50 mg/50 ml ) be administer intravesically within 24 h after transurethral resection of ta-t1 ( o-a ) <target> bladder tumor </target> .",
+        "D003556\tDisease\tcystitis\tin 24 of these patient chemical <target> cystitis </target> be severe enough for they to drop out of the study .",
+        "D009369\tDisease\ttumors\tof these recurrence , 27 be t1 <target> tumor </target> while five progress to more highly invasive lesion .",
+        "D009369\tDisease\ttumor\tin patient that be free of recurrence during the first year , 80 % remain <target> tumor </target> -free during the 2- to 3-year follow-up period .",
+        "D004317\tChemical\tAdriamycin\tthe beneficial effect of <target> adriamycin </target> appear obvious and might be related to the drug itself , the early and repeat instillation after tur , or both ."
+    ]
+}

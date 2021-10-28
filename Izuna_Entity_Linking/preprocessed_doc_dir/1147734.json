@@ -1,0 +1,63 @@
+{
+    "title": "Liver disease caused by propylthiouracil.",
+    "abst": "This report presents the clinical, laboratory, and light and electron microscopic observations on a patient with chronic active (aggressive) hepatitis caused by the administration of propylthiouracil. This is an addition to the list of drugs that must be considered in the evaluation of chronic liver disease.",
+    "title_plus_abst": "Liver disease caused by propylthiouracil. This report presents the clinical, laboratory, and light and electron microscopic observations on a patient with chronic active (aggressive) hepatitis caused by the administration of propylthiouracil. This is an addition to the list of drugs that must be considered in the evaluation of chronic liver disease.",
+    "pubmed_id": "1147734",
+    "entities": [
+        [
+            0,
+            13,
+            "Liver disease",
+            "Disease",
+            "D008107"
+        ],
+        [
+            24,
+            40,
+            "propylthiouracil",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            155,
+            192,
+            "chronic active (aggressive) hepatitis",
+            "Disease",
+            "D006521"
+        ],
+        [
+            225,
+            241,
+            "propylthiouracil",
+            "Chemical",
+            "D011441"
+        ],
+        [
+            337,
+            350,
+            "liver disease",
+            "Disease",
+            "D008107"
+        ]
+    ],
+    "split_sentence": [
+        "Liver disease caused by propylthiouracil.",
+        "This report presents the clinical, laboratory, and light and electron microscopic observations on a patient with chronic active (aggressive) hepatitis caused by the administration of propylthiouracil.",
+        "This is an addition to the list of drugs that must be considered in the evaluation of chronic liver disease."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008107\tDisease\tLiver disease\t<target> Liver disease </target> caused by propylthiouracil .",
+        "D011441\tChemical\tpropylthiouracil\tLiver disease caused by <target> propylthiouracil </target> .",
+        "D006521\tDisease\tchronic active (aggressive) hepatitis\tThis report presents the clinical , laboratory , and light and electron microscopic observations on a patient with <target> chronic active ( aggressive ) hepatitis </target> caused by the administration of propylthiouracil .",
+        "D011441\tChemical\tpropylthiouracil\tThis report presents the clinical , laboratory , and light and electron microscopic observations on a patient with chronic active ( aggressive ) hepatitis caused by the administration of <target> propylthiouracil </target> .",
+        "D008107\tDisease\tliver disease\tThis is an addition to the list of drugs that must be considered in the evaluation of chronic <target> liver disease </target> ."
+    ],
+    "lines_lemma": [
+        "D008107\tDisease\tLiver disease\t<target> liver disease </target> cause by propylthiouracil .",
+        "D011441\tChemical\tpropylthiouracil\tliver disease cause by <target> propylthiouracil </target> .",
+        "D006521\tDisease\tchronic active (aggressive) hepatitis\tthis report present the clinical , laboratory , and light and electron microscopic observation on a patient with <target> chronic active ( aggressive ) hepatitis </target> cause by the administration of propylthiouracil .",
+        "D011441\tChemical\tpropylthiouracil\tthis report present the clinical , laboratory , and light and electron microscopic observation on a patient with chronic active ( aggressive ) hepatitis cause by the administration of <target> propylthiouracil </target> .",
+        "D008107\tDisease\tliver disease\tthis be an addition to the list of drug that must be consider in the evaluation of chronic <target> liver disease </target> ."
+    ]
+}

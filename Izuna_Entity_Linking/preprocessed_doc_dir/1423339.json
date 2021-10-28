@@ -1,0 +1,91 @@
+{
+    "title": "Amnestic syndrome associated with propranolol toxicity: a case report.",
+    "abst": "An elderly woman developed an Alzheimer-like subacute dementia as a result of propranolol toxicity. Analysis of the manifestations showed that severe impairment of memory accounted for virtually all of the abnormalities. There is evidence that cerebral reactions to drug toxicity can exhibit patterns that suggest highly selective involvement of functional subdivisions of the brain.",
+    "title_plus_abst": "Amnestic syndrome associated with propranolol toxicity: a case report. An elderly woman developed an Alzheimer-like subacute dementia as a result of propranolol toxicity. Analysis of the manifestations showed that severe impairment of memory accounted for virtually all of the abnormalities. There is evidence that cerebral reactions to drug toxicity can exhibit patterns that suggest highly selective involvement of functional subdivisions of the brain.",
+    "pubmed_id": "1423339",
+    "entities": [
+        [
+            0,
+            17,
+            "Amnestic syndrome",
+            "Disease",
+            "D000647"
+        ],
+        [
+            34,
+            45,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            46,
+            54,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            101,
+            110,
+            "Alzheimer",
+            "Disease",
+            "D000544"
+        ],
+        [
+            125,
+            133,
+            "dementia",
+            "Disease",
+            "D003704"
+        ],
+        [
+            149,
+            160,
+            "propranolol",
+            "Chemical",
+            "D011433"
+        ],
+        [
+            161,
+            169,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            342,
+            350,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Amnestic syndrome associated with propranolol toxicity: a case report.",
+        "An elderly woman developed an Alzheimer-like subacute dementia as a result of propranolol toxicity.",
+        "Analysis of the manifestations showed that severe impairment of memory accounted for virtually all of the abnormalities.",
+        "There is evidence that cerebral reactions to drug toxicity can exhibit patterns that suggest highly selective involvement of functional subdivisions of the brain."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000647\tDisease\tAmnestic syndrome\t<target> Amnestic syndrome </target> associated with propranolol toxicity : a case report .",
+        "D011433\tChemical\tpropranolol\tAmnestic syndrome associated with <target> propranolol </target> toxicity : a case report .",
+        "D064420\tDisease\ttoxicity\tAmnestic syndrome associated with propranolol <target> toxicity </target> : a case report .",
+        "D000544\tDisease\tAlzheimer\tAn elderly woman developed an <target> Alzheimer </target> -like subacute dementia as a result of propranolol toxicity .",
+        "D003704\tDisease\tdementia\tAn elderly woman developed an Alzheimer-like subacute <target> dementia </target> as a result of propranolol toxicity .",
+        "D011433\tChemical\tpropranolol\tAn elderly woman developed an Alzheimer-like subacute dementia as a result of <target> propranolol </target> toxicity .",
+        "D064420\tDisease\ttoxicity\tAn elderly woman developed an Alzheimer-like subacute dementia as a result of propranolol <target> toxicity </target> .",
+        "D064420\tDisease\ttoxicity\tThere is evidence that cerebral reactions to drug <target> toxicity </target> can exhibit patterns that suggest highly selective involvement of functional subdivisions of the brain ."
+    ],
+    "lines_lemma": [
+        "D000647\tDisease\tAmnestic syndrome\t<target> amnestic syndrome </target> associate with propranolol toxicity : a case report .",
+        "D011433\tChemical\tpropranolol\tamnestic syndrome associate with <target> propranolol </target> toxicity : a case report .",
+        "D064420\tDisease\ttoxicity\tamnestic syndrome associate with propranolol <target> toxicity </target> : a case report .",
+        "D000544\tDisease\tAlzheimer\tan elderly woman develop an <target> Alzheimer </target> -like subacute dementia as a result of propranolol toxicity .",
+        "D003704\tDisease\tdementia\tan elderly woman develop an alzheimer-like subacute <target> dementia </target> as a result of propranolol toxicity .",
+        "D011433\tChemical\tpropranolol\tan elderly woman develop an alzheimer-like subacute dementia as a result of <target> propranolol </target> toxicity .",
+        "D064420\tDisease\ttoxicity\tan elderly woman develop an alzheimer-like subacute dementia as a result of propranolol <target> toxicity </target> .",
+        "D064420\tDisease\ttoxicity\tthere be evidence that cerebral reaction to drug <target> toxicity </target> can exhibit pattern that suggest highly selective involvement of functional subdivision of the brain ."
+    ]
+}

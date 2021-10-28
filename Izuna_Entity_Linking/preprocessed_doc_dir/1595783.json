@@ -1,0 +1,139 @@
+{
+    "title": "Amiodarone pulmonary toxicity.",
+    "abst": "Amiodarone is an effective antiarrhythmic agent whose utility is limited by many side-effects, the most problematic being pneumonitis. The pulmonary toxicity of amiodarone is thought to result from direct injury related to the intracellular accumulation of phospholipid and T cell-mediated hypersensitivity pneumonitis. The clinical and radiographic features of amiodarone-induced pulmonary toxicity are characteristic but nonspecific. The diagnosis depends on exclusion of other entities, such as heart failure, infection, and malignancy. While withdrawal of amiodarone leads to clinical improvement in majority of cases, this is not always possible or advisable. Dose reduction or concomitant steroid therapy may have a role in selected patients.",
+    "title_plus_abst": "Amiodarone pulmonary toxicity. Amiodarone is an effective antiarrhythmic agent whose utility is limited by many side-effects, the most problematic being pneumonitis. The pulmonary toxicity of amiodarone is thought to result from direct injury related to the intracellular accumulation of phospholipid and T cell-mediated hypersensitivity pneumonitis. The clinical and radiographic features of amiodarone-induced pulmonary toxicity are characteristic but nonspecific. The diagnosis depends on exclusion of other entities, such as heart failure, infection, and malignancy. While withdrawal of amiodarone leads to clinical improvement in majority of cases, this is not always possible or advisable. Dose reduction or concomitant steroid therapy may have a role in selected patients.",
+    "pubmed_id": "1595783",
+    "entities": [
+        [
+            0,
+            10,
+            "Amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            11,
+            29,
+            "pulmonary toxicity",
+            "Disease",
+            "D008171"
+        ],
+        [
+            31,
+            41,
+            "Amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            153,
+            164,
+            "pneumonitis",
+            "Disease",
+            "D011014"
+        ],
+        [
+            170,
+            188,
+            "pulmonary toxicity",
+            "Disease",
+            "D008171"
+        ],
+        [
+            192,
+            202,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            393,
+            403,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            412,
+            430,
+            "pulmonary toxicity",
+            "Disease",
+            "D008171"
+        ],
+        [
+            529,
+            542,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            544,
+            553,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            559,
+            569,
+            "malignancy",
+            "Disease",
+            "D009369"
+        ],
+        [
+            591,
+            601,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            726,
+            733,
+            "steroid",
+            "Chemical",
+            "D013256"
+        ]
+    ],
+    "split_sentence": [
+        "Amiodarone pulmonary toxicity.",
+        "Amiodarone is an effective antiarrhythmic agent whose utility is limited by many side-effects, the most problematic being pneumonitis.",
+        "The pulmonary toxicity of amiodarone is thought to result from direct injury related to the intracellular accumulation of phospholipid and T cell-mediated hypersensitivity pneumonitis.",
+        "The clinical and radiographic features of amiodarone-induced pulmonary toxicity are characteristic but nonspecific.",
+        "The diagnosis depends on exclusion of other entities, such as heart failure, infection, and malignancy.",
+        "While withdrawal of amiodarone leads to clinical improvement in majority of cases, this is not always possible or advisable.",
+        "Dose reduction or concomitant steroid therapy may have a role in selected patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> pulmonary toxicity .",
+        "D008171\tDisease\tpulmonary toxicity\tAmiodarone <target> pulmonary toxicity </target> .",
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> is an effective antiarrhythmic agent whose utility is limited by many side-effects , the most problematic being pneumonitis .",
+        "D011014\tDisease\tpneumonitis\tAmiodarone is an effective antiarrhythmic agent whose utility is limited by many side-effects , the most problematic being <target> pneumonitis </target> .",
+        "D008171\tDisease\tpulmonary toxicity\tThe <target> pulmonary toxicity </target> of amiodarone is thought to result from direct injury related to the intracellular accumulation of phospholipid and T cell-mediated hypersensitivity pneumonitis .",
+        "D000638\tChemical\tamiodarone\tThe pulmonary toxicity of <target> amiodarone </target> is thought to result from direct injury related to the intracellular accumulation of phospholipid and T cell-mediated hypersensitivity pneumonitis .",
+        "D000638\tChemical\tamiodarone\tThe clinical and radiographic features of <target> amiodarone </target> -induced pulmonary toxicity are characteristic but nonspecific .",
+        "D008171\tDisease\tpulmonary toxicity\tThe clinical and radiographic features of amiodarone-induced <target> pulmonary toxicity </target> are characteristic but nonspecific .",
+        "D006333\tDisease\theart failure\tThe diagnosis depends on exclusion of other entities , such as <target> heart failure </target> , infection , and malignancy .",
+        "D007239\tDisease\tinfection\tThe diagnosis depends on exclusion of other entities , such as heart failure , <target> infection </target> , and malignancy .",
+        "D009369\tDisease\tmalignancy\tThe diagnosis depends on exclusion of other entities , such as heart failure , infection , and <target> malignancy </target> .",
+        "D000638\tChemical\tamiodarone\tWhile withdrawal of <target> amiodarone </target> leads to clinical improvement in majority of cases , this is not always possible or advisable .",
+        "D013256\tChemical\tsteroid\tDose reduction or concomitant <target> steroid </target> therapy may have a role in selected patients ."
+    ],
+    "lines_lemma": [
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> pulmonary toxicity .",
+        "D008171\tDisease\tpulmonary toxicity\tamiodarone <target> pulmonary toxicity </target> .",
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> be an effective antiarrhythmic agent whose utility be limit by many side-effect , the most problematic be pneumonitis .",
+        "D011014\tDisease\tpneumonitis\tAmiodarone be an effective antiarrhythmic agent whose utility be limit by many side-effect , the most problematic be <target> pneumonitis </target> .",
+        "D008171\tDisease\tpulmonary toxicity\tthe <target> pulmonary toxicity </target> of amiodarone be think to result from direct injury related to the intracellular accumulation of phospholipid and t cell-mediated hypersensitivity pneumonitis .",
+        "D000638\tChemical\tamiodarone\tthe pulmonary toxicity of <target> amiodarone </target> be think to result from direct injury related to the intracellular accumulation of phospholipid and t cell-mediated hypersensitivity pneumonitis .",
+        "D000638\tChemical\tamiodarone\tthe clinical and radiographic feature of <target> amiodarone </target> -induced pulmonary toxicity be characteristic but nonspecific .",
+        "D008171\tDisease\tpulmonary toxicity\tthe clinical and radiographic feature of amiodarone-induced <target> pulmonary toxicity </target> be characteristic but nonspecific .",
+        "D006333\tDisease\theart failure\tthe diagnosis depend on exclusion of other entity , such as <target> heart failure </target> , infection , and malignancy .",
+        "D007239\tDisease\tinfection\tthe diagnosis depend on exclusion of other entity , such as heart failure , <target> infection </target> , and malignancy .",
+        "D009369\tDisease\tmalignancy\tthe diagnosis depend on exclusion of other entity , such as heart failure , infection , and <target> malignancy </target> .",
+        "D000638\tChemical\tamiodarone\twhile withdrawal of <target> amiodarone </target> lead to clinical improvement in majority of case , this be not always possible or advisable .",
+        "D013256\tChemical\tsteroid\tdose reduction or concomitant <target> steroid </target> therapy may have a role in select patient ."
+    ]
+}

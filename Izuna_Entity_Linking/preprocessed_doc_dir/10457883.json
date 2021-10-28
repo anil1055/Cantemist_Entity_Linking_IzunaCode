@@ -1,0 +1,65 @@
+{
+    "title": "Recurarization in the recovery room.",
+    "abst": "A case of recurarization in the recovery room is reported. Accumulation of atracurium in the intravenous line led to recurarization after flushing the line in the recovery room. A respiratory arrest with severe desaturation and bradycardia occurred. Circumstances leading to this event and the mechanisms enabling a neuromuscular blockade to occur, following the administration of a small dose of relaxant, are discussed.",
+    "title_plus_abst": "Recurarization in the recovery room. A case of recurarization in the recovery room is reported. Accumulation of atracurium in the intravenous line led to recurarization after flushing the line in the recovery room. A respiratory arrest with severe desaturation and bradycardia occurred. Circumstances leading to this event and the mechanisms enabling a neuromuscular blockade to occur, following the administration of a small dose of relaxant, are discussed.",
+    "pubmed_id": "10457883",
+    "entities": [
+        [
+            112,
+            122,
+            "atracurium",
+            "Chemical",
+            "D001279"
+        ],
+        [
+            217,
+            235,
+            "respiratory arrest",
+            "Disease",
+            "D012131"
+        ],
+        [
+            248,
+            260,
+            "desaturation",
+            "Disease",
+            "D001049"
+        ],
+        [
+            265,
+            276,
+            "bradycardia",
+            "Disease",
+            "D001919"
+        ],
+        [
+            353,
+            375,
+            "neuromuscular blockade",
+            "Disease",
+            "D020879"
+        ]
+    ],
+    "split_sentence": [
+        "Recurarization in the recovery room.",
+        "A case of recurarization in the recovery room is reported.",
+        "Accumulation of atracurium in the intravenous line led to recurarization after flushing the line in the recovery room.",
+        "A respiratory arrest with severe desaturation and bradycardia occurred.",
+        "Circumstances leading to this event and the mechanisms enabling a neuromuscular blockade to occur, following the administration of a small dose of relaxant, are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001279\tChemical\tatracurium\tAccumulation of <target> atracurium </target> in the intravenous line led to recurarization after flushing the line in the recovery room .",
+        "D012131\tDisease\trespiratory arrest\tA <target> respiratory arrest </target> with severe desaturation and bradycardia occurred .",
+        "D001049\tDisease\tdesaturation\tA respiratory arrest with severe <target> desaturation </target> and bradycardia occurred .",
+        "D001919\tDisease\tbradycardia\tA respiratory arrest with severe desaturation and <target> bradycardia </target> occurred .",
+        "D020879\tDisease\tneuromuscular blockade\tCircumstances leading to this event and the mechanisms enabling a <target> neuromuscular blockade </target> to occur , following the administration of a small dose of relaxant , are discussed ."
+    ],
+    "lines_lemma": [
+        "D001279\tChemical\tatracurium\taccumulation of <target> atracurium </target> in the intravenous line lead to recurarization after flush the line in the recovery room .",
+        "D012131\tDisease\trespiratory arrest\ta <target> respiratory arrest </target> with severe desaturation and bradycardia occur .",
+        "D001049\tDisease\tdesaturation\ta respiratory arrest with severe <target> desaturation </target> and bradycardia occur .",
+        "D001919\tDisease\tbradycardia\ta respiratory arrest with severe desaturation and <target> bradycardia </target> occur .",
+        "D020879\tDisease\tneuromuscular blockade\tcircumstance lead to this event and the mechanism enable a <target> neuromuscular blockade </target> to occur , follow the administration of a small dose of relaxant , be discuss ."
+    ]
+}

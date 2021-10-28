@@ -1,0 +1,210 @@
+{
+    "title": "Mania associated with fluoxetine treatment in adolescents.",
+    "abst": "Fluoxetine, a selective serotonin reuptake inhibitor, is gaining increased acceptance in the treatment of adolescent depression. Generally safe and well tolerated by adults, fluoxetine has been reported to induce mania. The cases of five depressed adolescents, 14-16 years of age, who developed mania during pharmacotherapy with fluoxetine, are reported here. Apparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability; major depression with psychotic features; a family history of affective disorder, especially bipolar disorder; and a diagnosis of bipolar disorder. Further study is needed to determine the optimal dosage and to identify risk factors that increase individual vulnerability to fluoxetine induced mania in adolescents.",
+    "title_plus_abst": "Mania associated with fluoxetine treatment in adolescents. Fluoxetine, a selective serotonin reuptake inhibitor, is gaining increased acceptance in the treatment of adolescent depression. Generally safe and well tolerated by adults, fluoxetine has been reported to induce mania. The cases of five depressed adolescents, 14-16 years of age, who developed mania during pharmacotherapy with fluoxetine, are reported here. Apparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability; major depression with psychotic features; a family history of affective disorder, especially bipolar disorder; and a diagnosis of bipolar disorder. Further study is needed to determine the optimal dosage and to identify risk factors that increase individual vulnerability to fluoxetine induced mania in adolescents.",
+    "pubmed_id": "1564030",
+    "entities": [
+        [
+            0,
+            5,
+            "Mania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            22,
+            32,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            59,
+            69,
+            "Fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            83,
+            92,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            176,
+            186,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            233,
+            243,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            272,
+            277,
+            "mania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            297,
+            306,
+            "depressed",
+            "Disease",
+            "D003866"
+        ],
+        [
+            354,
+            359,
+            "mania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            388,
+            398,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            464,
+            469,
+            "mania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            473,
+            482,
+            "hypomania",
+            "Disease",
+            "D001714"
+        ],
+        [
+            490,
+            500,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            560,
+            600,
+            "attention-deficit hyperactivity disorder",
+            "Disease",
+            "D001289"
+        ],
+        [
+            634,
+            644,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            650,
+            659,
+            "psychotic",
+            "Disease",
+            "D011618"
+        ],
+        [
+            690,
+            708,
+            "affective disorder",
+            "Disease",
+            "D019964"
+        ],
+        [
+            721,
+            737,
+            "bipolar disorder",
+            "Disease",
+            "D001714"
+        ],
+        [
+            758,
+            774,
+            "bipolar disorder",
+            "Disease",
+            "D001714"
+        ],
+        [
+            903,
+            913,
+            "fluoxetine",
+            "Chemical",
+            "D005473"
+        ],
+        [
+            922,
+            927,
+            "mania",
+            "Disease",
+            "D001714"
+        ]
+    ],
+    "split_sentence": [
+        "Mania associated with fluoxetine treatment in adolescents.",
+        "Fluoxetine, a selective serotonin reuptake inhibitor, is gaining increased acceptance in the treatment of adolescent depression.",
+        "Generally safe and well tolerated by adults, fluoxetine has been reported to induce mania.",
+        "The cases of five depressed adolescents, 14-16 years of age, who developed mania during pharmacotherapy with fluoxetine, are reported here.",
+        "Apparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability; major depression with psychotic features; a family history of affective disorder, especially bipolar disorder; and a diagnosis of bipolar disorder.",
+        "Further study is needed to determine the optimal dosage and to identify risk factors that increase individual vulnerability to fluoxetine induced mania in adolescents."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001714\tDisease\tMania\t<target> Mania </target> associated with fluoxetine treatment in adolescents .",
+        "D005473\tChemical\tfluoxetine\tMania associated with <target> fluoxetine </target> treatment in adolescents .",
+        "D005473\tChemical\tFluoxetine\t<target> Fluoxetine </target> , a selective serotonin reuptake inhibitor , is gaining increased acceptance in the treatment of adolescent depression .",
+        "D012701\tChemical\tserotonin\tFluoxetine , a selective <target> serotonin </target> reuptake inhibitor , is gaining increased acceptance in the treatment of adolescent depression .",
+        "D003866\tDisease\tdepression\tFluoxetine , a selective serotonin reuptake inhibitor , is gaining increased acceptance in the treatment of adolescent <target> depression </target> .",
+        "D005473\tChemical\tfluoxetine\tGenerally safe and well tolerated by adults , <target> fluoxetine </target> has been reported to induce mania .",
+        "D001714\tDisease\tmania\tGenerally safe and well tolerated by adults , fluoxetine has been reported to induce <target> mania </target> .",
+        "D003866\tDisease\tdepressed\tThe cases of five <target> depressed </target> adolescents , 14 - 16 years of age , who developed mania during pharmacotherapy with fluoxetine , are reported here .",
+        "D001714\tDisease\tmania\tThe cases of five depressed adolescents , 14 - 16 years of age , who developed <target> mania </target> during pharmacotherapy with fluoxetine , are reported here .",
+        "D005473\tChemical\tfluoxetine\tThe cases of five depressed adolescents , 14 - 16 years of age , who developed mania during pharmacotherapy with <target> fluoxetine </target> , are reported here .",
+        "D001714\tDisease\tmania\tApparent risk factors for the development of <target> mania </target> or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D001714\tDisease\thypomania\tApparent risk factors for the development of mania or <target> hypomania </target> during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D005473\tChemical\tfluoxetine\tApparent risk factors for the development of mania or hypomania during <target> fluoxetine </target> pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D001289\tDisease\tattention-deficit hyperactivity disorder\tApparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of <target> attention-deficit hyperactivity disorder </target> and affective instability ; major depression with psychotic features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D003866\tDisease\tdepression\tApparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major <target> depression </target> with psychotic features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D011618\tDisease\tpsychotic\tApparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with <target> psychotic </target> features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D019964\tDisease\taffective disorder\tApparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic features ; a family history of <target> affective disorder </target> , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D001714\tDisease\tbipolar disorder\tApparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic features ; a family history of affective disorder , especially <target> bipolar disorder </target> ; and a diagnosis of bipolar disorder .",
+        "D001714\tDisease\tbipolar disorder\tApparent risk factors for the development of mania or hypomania during fluoxetine pharmacotherapy in this population were the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic features ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of <target> bipolar disorder </target> .",
+        "D005473\tChemical\tfluoxetine\tFurther study is needed to determine the optimal dosage and to identify risk factors that increase individual vulnerability to <target> fluoxetine </target> induced mania in adolescents .",
+        "D001714\tDisease\tmania\tFurther study is needed to determine the optimal dosage and to identify risk factors that increase individual vulnerability to fluoxetine induced <target> mania </target> in adolescents ."
+    ],
+    "lines_lemma": [
+        "D001714\tDisease\tMania\t<target> Mania </target> associate with fluoxetine treatment in adolescent .",
+        "D005473\tChemical\tfluoxetine\tMania associate with <target> fluoxetine </target> treatment in adolescent .",
+        "D005473\tChemical\tFluoxetine\t<target> fluoxetine </target> , a selective serotonin reuptake inhibitor , be gain increase acceptance in the treatment of adolescent depression .",
+        "D012701\tChemical\tserotonin\tfluoxetine , a selective <target> serotonin </target> reuptake inhibitor , be gain increase acceptance in the treatment of adolescent depression .",
+        "D003866\tDisease\tdepression\tfluoxetine , a selective serotonin reuptake inhibitor , be gain increase acceptance in the treatment of adolescent <target> depression </target> .",
+        "D005473\tChemical\tfluoxetine\tgenerally safe and well tolerate by adult , <target> fluoxetine </target> have be report to induce mania .",
+        "D001714\tDisease\tmania\tgenerally safe and well tolerate by adult , fluoxetine have be report to induce <target> mania </target> .",
+        "D003866\tDisease\tdepressed\tthe case of five <target> depressed </target> adolescent , 14 - 16 year of age , who develop mania during pharmacotherapy with fluoxetine , be report here .",
+        "D001714\tDisease\tmania\tthe case of five depressed adolescent , 14 - 16 year of age , who develop <target> mania </target> during pharmacotherapy with fluoxetine , be report here .",
+        "D005473\tChemical\tfluoxetine\tthe case of five depressed adolescent , 14 - 16 year of age , who develop mania during pharmacotherapy with <target> fluoxetine </target> , be report here .",
+        "D001714\tDisease\tmania\tapparent risk factor for the development of <target> mania </target> or hypomania during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D001714\tDisease\thypomania\tapparent risk factor for the development of mania or <target> hypomania </target> during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D005473\tChemical\tfluoxetine\tapparent risk factor for the development of mania or hypomania during <target> fluoxetine </target> pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D001289\tDisease\tattention-deficit hyperactivity disorder\tapparent risk factor for the development of mania or hypomania during fluoxetine pharmacotherapy in this population be the combination of <target> attention-deficit hyperactivity disorder </target> and affective instability ; major depression with psychotic feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D003866\tDisease\tdepression\tapparent risk factor for the development of mania or hypomania during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major <target> depression </target> with psychotic feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D011618\tDisease\tpsychotic\tapparent risk factor for the development of mania or hypomania during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with <target> psychotic </target> feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D019964\tDisease\taffective disorder\tapparent risk factor for the development of mania or hypomania during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic feature ; a family history of <target> affective disorder </target> , especially bipolar disorder ; and a diagnosis of bipolar disorder .",
+        "D001714\tDisease\tbipolar disorder\tapparent risk factor for the development of mania or hypomania during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic feature ; a family history of affective disorder , especially <target> bipolar disorder </target> ; and a diagnosis of bipolar disorder .",
+        "D001714\tDisease\tbipolar disorder\tapparent risk factor for the development of mania or hypomania during fluoxetine pharmacotherapy in this population be the combination of attention-deficit hyperactivity disorder and affective instability ; major depression with psychotic feature ; a family history of affective disorder , especially bipolar disorder ; and a diagnosis of <target> bipolar disorder </target> .",
+        "D005473\tChemical\tfluoxetine\tfurther study be need to determine the optimal dosage and to identify risk factor that increase individual vulnerability to <target> fluoxetine </target> induce mania in adolescent .",
+        "D001714\tDisease\tmania\tfurther study be need to determine the optimal dosage and to identify risk factor that increase individual vulnerability to fluoxetine induce <target> mania </target> in adolescent ."
+    ]
+}

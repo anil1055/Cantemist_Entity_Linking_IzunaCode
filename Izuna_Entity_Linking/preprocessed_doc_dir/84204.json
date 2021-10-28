@@ -1,0 +1,122 @@
+{
+    "title": "Pharmacokinetic and clinical studies in patients with cimetidine-associated mental confusion.",
+    "abst": "15 cases of cimetidine-associated mental confusion have been reported. In order that this syndrome might be investigated changes in mental status (M.S.) were correlated with serum concentrations and renal and hepatic function in 36 patients, 30 patients had no M.S. change on cimetidine and 6 had moderate to severe changes. These 6 patients had both renal and liver dysfunction (P less than 0.05), as well as cimetidine trough-concentrations of more than 1.25 microgram/ml (P less than 0.05). The severity of M.S. changes increased as trough-concentrations rose, 5 patients had lumbar puncture. The cerebrospinal fluid: serum ratio of cimetidine concentrations was 0.24:1 and indicates that cimetidine passes the blood-brain barrier; it also raises the possibility that M.S. changes are due to blockade of histamine H2-receptors in the central nervous system. Patients likely to have both raised trough-concentrations and mental confusion are those with both severe renal and hepatic dysfunction. They should be closely observed and should be given reduced doses of cimetidine.",
+    "title_plus_abst": "Pharmacokinetic and clinical studies in patients with cimetidine-associated mental confusion. 15 cases of cimetidine-associated mental confusion have been reported. In order that this syndrome might be investigated changes in mental status (M.S.) were correlated with serum concentrations and renal and hepatic function in 36 patients, 30 patients had no M.S. change on cimetidine and 6 had moderate to severe changes. These 6 patients had both renal and liver dysfunction (P less than 0.05), as well as cimetidine trough-concentrations of more than 1.25 microgram/ml (P less than 0.05). The severity of M.S. changes increased as trough-concentrations rose, 5 patients had lumbar puncture. The cerebrospinal fluid: serum ratio of cimetidine concentrations was 0.24:1 and indicates that cimetidine passes the blood-brain barrier; it also raises the possibility that M.S. changes are due to blockade of histamine H2-receptors in the central nervous system. Patients likely to have both raised trough-concentrations and mental confusion are those with both severe renal and hepatic dysfunction. They should be closely observed and should be given reduced doses of cimetidine.",
+    "pubmed_id": "84204",
+    "entities": [
+        [
+            54,
+            64,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            83,
+            92,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            106,
+            116,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            135,
+            144,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            370,
+            380,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            504,
+            514,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            730,
+            740,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            786,
+            796,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ],
+        [
+            901,
+            910,
+            "histamine",
+            "Chemical",
+            "D006632"
+        ],
+        [
+            1024,
+            1033,
+            "confusion",
+            "Disease",
+            "D003221"
+        ],
+        [
+            1161,
+            1171,
+            "cimetidine",
+            "Chemical",
+            "D002927"
+        ]
+    ],
+    "split_sentence": [
+        "Pharmacokinetic and clinical studies in patients with cimetidine-associated mental confusion.",
+        "15 cases of cimetidine-associated mental confusion have been reported.",
+        "In order that this syndrome might be investigated changes in mental status (M.S.) were correlated with serum concentrations and renal and hepatic function in 36 patients, 30 patients had no M.S. change on cimetidine and 6 had moderate to severe changes.",
+        "These 6 patients had both renal and liver dysfunction (P less than 0.05), as well as cimetidine trough-concentrations of more than 1.25 microgram/ml (P less than 0.05).",
+        "The severity of M.S. changes increased as trough-concentrations rose, 5 patients had lumbar puncture.",
+        "The cerebrospinal fluid: serum ratio of cimetidine concentrations was 0.24:1 and indicates that cimetidine passes the blood-brain barrier; it also raises the possibility that M.S. changes are due to blockade of histamine H2-receptors in the central nervous system.",
+        "Patients likely to have both raised trough-concentrations and mental confusion are those with both severe renal and hepatic dysfunction.",
+        "They should be closely observed and should be given reduced doses of cimetidine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002927\tChemical\tcimetidine\tPharmacokinetic and clinical studies in patients with <target> cimetidine </target> -associated mental confusion .",
+        "D003221\tDisease\tconfusion\tPharmacokinetic and clinical studies in patients with cimetidine-associated mental <target> confusion </target> .",
+        "D002927\tChemical\tcimetidine\t15 cases of <target> cimetidine </target> -associated mental confusion have been reported .",
+        "D003221\tDisease\tconfusion\t15 cases of cimetidine-associated mental <target> confusion </target> have been reported .",
+        "D002927\tChemical\tcimetidine\tIn order that this syndrome might be investigated changes in mental status ( M.S. ) were correlated with serum concentrations and renal and hepatic function in 36 patients , 30 patients had no M.S. change on <target> cimetidine </target> and 6 had moderate to severe changes .",
+        "D002927\tChemical\tcimetidine\tThese 6 patients had both renal and liver dysfunction ( P less than 0.05 ) , as well as <target> cimetidine </target> trough-concentrations of more than 1.25 microgram/ml ( P less than 0.05 ) .",
+        "D002927\tChemical\tcimetidine\tThe cerebrospinal fluid : serum ratio of <target> cimetidine </target> concentrations was 0.24:1 and indicates that cimetidine passes the blood-brain barrier ; it also raises the possibility that M.S. changes are due to blockade of histamine H2-receptors in the central nervous system .",
+        "D002927\tChemical\tcimetidine\tThe cerebrospinal fluid : serum ratio of cimetidine concentrations was 0.24:1 and indicates that <target> cimetidine </target> passes the blood-brain barrier ; it also raises the possibility that M.S. changes are due to blockade of histamine H2-receptors in the central nervous system .",
+        "D006632\tChemical\thistamine\tThe cerebrospinal fluid : serum ratio of cimetidine concentrations was 0.24:1 and indicates that cimetidine passes the blood-brain barrier ; it also raises the possibility that M.S. changes are due to blockade of <target> histamine </target> H2-receptors in the central nervous system .",
+        "D003221\tDisease\tconfusion\tPatients likely to have both raised trough-concentrations and mental <target> confusion </target> are those with both severe renal and hepatic dysfunction .",
+        "D002927\tChemical\tcimetidine\tThey should be closely observed and should be given reduced doses of <target> cimetidine </target> ."
+    ],
+    "lines_lemma": [
+        "D002927\tChemical\tcimetidine\tpharmacokinetic and clinical study in patient with <target> cimetidine </target> -associated mental confusion .",
+        "D003221\tDisease\tconfusion\tpharmacokinetic and clinical study in patient with cimetidine-associated mental <target> confusion </target> .",
+        "D002927\tChemical\tcimetidine\t15 case of <target> cimetidine </target> -associated mental confusion have be report .",
+        "D003221\tDisease\tconfusion\t15 case of cimetidine-associated mental <target> confusion </target> have be report .",
+        "D002927\tChemical\tcimetidine\tin order that this syndrome might be investigate change in mental status ( M.S. ) be correlate with serum concentration and renal and hepatic function in 36 patient , 30 patient have no M.S. change on <target> cimetidine </target> and 6 have moderate to severe change .",
+        "D002927\tChemical\tcimetidine\tthese 6 patient have both renal and liver dysfunction ( p less than 0.05 ) , as well as <target> cimetidine </target> trough-concentration of more than 1.25 microgram/ml ( p less than 0.05 ) .",
+        "D002927\tChemical\tcimetidine\tthe cerebrospinal fluid : serum ratio of <target> cimetidine </target> concentration be 0.24:1 and indicate that cimetidine pass the blood-brain barrier ; it also raise the possibility that M.S. change be due to blockade of histamine h2-receptor in the central nervous system .",
+        "D002927\tChemical\tcimetidine\tthe cerebrospinal fluid : serum ratio of cimetidine concentration be 0.24:1 and indicate that <target> cimetidine </target> pass the blood-brain barrier ; it also raise the possibility that M.S. change be due to blockade of histamine h2-receptor in the central nervous system .",
+        "D006632\tChemical\thistamine\tthe cerebrospinal fluid : serum ratio of cimetidine concentration be 0.24:1 and indicate that cimetidine pass the blood-brain barrier ; it also raise the possibility that M.S. change be due to blockade of <target> histamine </target> h2-receptor in the central nervous system .",
+        "D003221\tDisease\tconfusion\tpatient likely to have both raise trough-concentration and mental <target> confusion </target> be those with both severe renal and hepatic dysfunction .",
+        "D002927\tChemical\tcimetidine\tthey should be closely observe and should be give reduce dose of <target> cimetidine </target> ."
+    ]
+}

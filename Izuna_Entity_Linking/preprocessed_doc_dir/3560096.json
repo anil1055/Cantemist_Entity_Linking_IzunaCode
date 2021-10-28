@@ -1,0 +1,148 @@
+{
+    "title": "Hyperkalemia associated with sulindac therapy.",
+    "abst": "Hyperkalemia has recently been recognized as a complication of nonsteroidal antiinflammatory agents (NSAID) such as indomethacin. Several recent studies have stressed the renal sparing features of sulindac, owing to its lack of interference with renal prostacyclin synthesis. We describe 4 patients in whom hyperkalemia ranging from 6.1 to 6.9 mEq/l developed within 3 to 8 days of sulindac administration. In all of them normal serum potassium levels reached within 2 to 4 days of stopping sulindac. As no other medications known to effect serum potassium had been given concomitantly, this course of events is suggestive of a cause-and-effect relationship between sulindac and hyperkalemia. These observations indicate that initial hopes that sulindac may not be associated with the adverse renal effects of other NSAID are probably not justified.",
+    "title_plus_abst": "Hyperkalemia associated with sulindac therapy. Hyperkalemia has recently been recognized as a complication of nonsteroidal antiinflammatory agents (NSAID) such as indomethacin. Several recent studies have stressed the renal sparing features of sulindac, owing to its lack of interference with renal prostacyclin synthesis. We describe 4 patients in whom hyperkalemia ranging from 6.1 to 6.9 mEq/l developed within 3 to 8 days of sulindac administration. In all of them normal serum potassium levels reached within 2 to 4 days of stopping sulindac. As no other medications known to effect serum potassium had been given concomitantly, this course of events is suggestive of a cause-and-effect relationship between sulindac and hyperkalemia. These observations indicate that initial hopes that sulindac may not be associated with the adverse renal effects of other NSAID are probably not justified.",
+    "pubmed_id": "3560096",
+    "entities": [
+        [
+            0,
+            12,
+            "Hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            29,
+            37,
+            "sulindac",
+            "Chemical",
+            "D013467"
+        ],
+        [
+            47,
+            59,
+            "Hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            163,
+            175,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            244,
+            252,
+            "sulindac",
+            "Chemical",
+            "D013467"
+        ],
+        [
+            299,
+            311,
+            "prostacyclin",
+            "Chemical",
+            "D011464"
+        ],
+        [
+            354,
+            366,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            429,
+            437,
+            "sulindac",
+            "Chemical",
+            "D013467"
+        ],
+        [
+            482,
+            491,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            538,
+            546,
+            "sulindac",
+            "Chemical",
+            "D013467"
+        ],
+        [
+            594,
+            603,
+            "potassium",
+            "Chemical",
+            "D011188"
+        ],
+        [
+            713,
+            721,
+            "sulindac",
+            "Chemical",
+            "D013467"
+        ],
+        [
+            726,
+            738,
+            "hyperkalemia",
+            "Disease",
+            "D006947"
+        ],
+        [
+            792,
+            800,
+            "sulindac",
+            "Chemical",
+            "D013467"
+        ]
+    ],
+    "split_sentence": [
+        "Hyperkalemia associated with sulindac therapy.",
+        "Hyperkalemia has recently been recognized as a complication of nonsteroidal antiinflammatory agents (NSAID) such as indomethacin.",
+        "Several recent studies have stressed the renal sparing features of sulindac, owing to its lack of interference with renal prostacyclin synthesis.",
+        "We describe 4 patients in whom hyperkalemia ranging from 6.1 to 6.9 mEq/l developed within 3 to 8 days of sulindac administration.",
+        "In all of them normal serum potassium levels reached within 2 to 4 days of stopping sulindac.",
+        "As no other medications known to effect serum potassium had been given concomitantly, this course of events is suggestive of a cause-and-effect relationship between sulindac and hyperkalemia.",
+        "These observations indicate that initial hopes that sulindac may not be associated with the adverse renal effects of other NSAID are probably not justified."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006947\tDisease\tHyperkalemia\t<target> Hyperkalemia </target> associated with sulindac therapy .",
+        "D013467\tChemical\tsulindac\tHyperkalemia associated with <target> sulindac </target> therapy .",
+        "D006947\tDisease\tHyperkalemia\t<target> Hyperkalemia </target> has recently been recognized as a complication of nonsteroidal antiinflammatory agents ( NSAID ) such as indomethacin .",
+        "D007213\tChemical\tindomethacin\tHyperkalemia has recently been recognized as a complication of nonsteroidal antiinflammatory agents ( NSAID ) such as <target> indomethacin </target> .",
+        "D013467\tChemical\tsulindac\tSeveral recent studies have stressed the renal sparing features of <target> sulindac </target> , owing to its lack of interference with renal prostacyclin synthesis .",
+        "D011464\tChemical\tprostacyclin\tSeveral recent studies have stressed the renal sparing features of sulindac , owing to its lack of interference with renal <target> prostacyclin </target> synthesis .",
+        "D006947\tDisease\thyperkalemia\tWe describe 4 patients in whom <target> hyperkalemia </target> ranging from 6.1 to 6.9 mEq/l developed within 3 to 8 days of sulindac administration .",
+        "D013467\tChemical\tsulindac\tWe describe 4 patients in whom hyperkalemia ranging from 6.1 to 6.9 mEq/l developed within 3 to 8 days of <target> sulindac </target> administration .",
+        "D011188\tChemical\tpotassium\tIn all of them normal serum <target> potassium </target> levels reached within 2 to 4 days of stopping sulindac .",
+        "D013467\tChemical\tsulindac\tIn all of them normal serum potassium levels reached within 2 to 4 days of stopping <target> sulindac </target> .",
+        "D011188\tChemical\tpotassium\tAs no other medications known to effect serum <target> potassium </target> had been given concomitantly , this course of events is suggestive of a cause-and-effect relationship between sulindac and hyperkalemia .",
+        "D013467\tChemical\tsulindac\tAs no other medications known to effect serum potassium had been given concomitantly , this course of events is suggestive of a cause-and-effect relationship between <target> sulindac </target> and hyperkalemia .",
+        "D006947\tDisease\thyperkalemia\tAs no other medications known to effect serum potassium had been given concomitantly , this course of events is suggestive of a cause-and-effect relationship between sulindac and <target> hyperkalemia </target> .",
+        "D013467\tChemical\tsulindac\tThese observations indicate that initial hopes that <target> sulindac </target> may not be associated with the adverse renal effects of other NSAID are probably not justified ."
+    ],
+    "lines_lemma": [
+        "D006947\tDisease\tHyperkalemia\t<target> hyperkalemia </target> associate with sulindac therapy .",
+        "D013467\tChemical\tsulindac\thyperkalemia associate with <target> sulindac </target> therapy .",
+        "D006947\tDisease\tHyperkalemia\t<target> hyperkalemia </target> have recently be recognize as a complication of nonsteroidal antiinflammatory agent ( nsaid ) such as indomethacin .",
+        "D007213\tChemical\tindomethacin\thyperkalemia have recently be recognize as a complication of nonsteroidal antiinflammatory agent ( nsaid ) such as <target> indomethacin </target> .",
+        "D013467\tChemical\tsulindac\tseveral recent study have stress the renal sparing feature of <target> sulindac </target> , owe to its lack of interference with renal prostacyclin synthesis .",
+        "D011464\tChemical\tprostacyclin\tseveral recent study have stress the renal sparing feature of sulindac , owe to its lack of interference with renal <target> prostacyclin </target> synthesis .",
+        "D006947\tDisease\thyperkalemia\twe describe 4 patient in whom <target> hyperkalemia </target> range from 6.1 to 6.9 mEq/l develop within 3 to 8 day of sulindac administration .",
+        "D013467\tChemical\tsulindac\twe describe 4 patient in whom hyperkalemia range from 6.1 to 6.9 mEq/l develop within 3 to 8 day of <target> sulindac </target> administration .",
+        "D011188\tChemical\tpotassium\tin all of they normal serum <target> potassium </target> level reach within 2 to 4 day of stop sulindac .",
+        "D013467\tChemical\tsulindac\tin all of they normal serum potassium level reach within 2 to 4 day of stop <target> sulindac </target> .",
+        "D011188\tChemical\tpotassium\tas no other medication know to effect serum <target> potassium </target> have be give concomitantly , this course of event be suggestive of a cause-and-effect relationship between sulindac and hyperkalemia .",
+        "D013467\tChemical\tsulindac\tas no other medication know to effect serum potassium have be give concomitantly , this course of event be suggestive of a cause-and-effect relationship between <target> sulindac </target> and hyperkalemia .",
+        "D006947\tDisease\thyperkalemia\tas no other medication know to effect serum potassium have be give concomitantly , this course of event be suggestive of a cause-and-effect relationship between sulindac and <target> hyperkalemia </target> .",
+        "D013467\tChemical\tsulindac\tthese observation indicate that initial hope that <target> sulindac </target> may not be associate with the adverse renal effect of other nsaid be probably not justify ."
+    ]
+}

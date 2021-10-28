@@ -1,0 +1,63 @@
+{
+    "title": "Complete heart block following a single dose of trazodone.",
+    "abst": "Forty minutes after receiving a single starting dose of trazodone, a patient developed complete heart block. The case illustrates that, despite the results of earlier studies, trazodone's effect on cardiac conduction may be severe in individuals at risk for conduction delay.",
+    "title_plus_abst": "Complete heart block following a single dose of trazodone. Forty minutes after receiving a single starting dose of trazodone, a patient developed complete heart block. The case illustrates that, despite the results of earlier studies, trazodone's effect on cardiac conduction may be severe in individuals at risk for conduction delay.",
+    "pubmed_id": "6496797",
+    "entities": [
+        [
+            9,
+            20,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            48,
+            57,
+            "trazodone",
+            "Chemical",
+            "D014196"
+        ],
+        [
+            115,
+            124,
+            "trazodone",
+            "Chemical",
+            "D014196"
+        ],
+        [
+            155,
+            166,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            235,
+            244,
+            "trazodone",
+            "Chemical",
+            "D014196"
+        ]
+    ],
+    "split_sentence": [
+        "Complete heart block following a single dose of trazodone.",
+        "Forty minutes after receiving a single starting dose of trazodone, a patient developed complete heart block.",
+        "The case illustrates that, despite the results of earlier studies, trazodone's effect on cardiac conduction may be severe in individuals at risk for conduction delay."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006327\tDisease\theart block\tComplete <target> heart block </target> following a single dose of trazodone .",
+        "D014196\tChemical\ttrazodone\tComplete heart block following a single dose of <target> trazodone </target> .",
+        "D014196\tChemical\ttrazodone\tForty minutes after receiving a single starting dose of <target> trazodone </target> , a patient developed complete heart block .",
+        "D006327\tDisease\theart block\tForty minutes after receiving a single starting dose of trazodone , a patient developed complete <target> heart block </target> .",
+        "D014196\tChemical\ttrazodone\tThe case illustrates that , despite the results of earlier studies , <target> trazodone </target> 's effect on cardiac conduction may be severe in individuals at risk for conduction delay ."
+    ],
+    "lines_lemma": [
+        "D006327\tDisease\theart block\tComplete <target> heart block </target> follow a single dose of trazodone .",
+        "D014196\tChemical\ttrazodone\tcomplete heart block follow a single dose of <target> trazodone </target> .",
+        "D014196\tChemical\ttrazodone\tforty minute after receive a single start dose of <target> trazodone </target> , a patient develop complete heart block .",
+        "D006327\tDisease\theart block\tforty minute after receive a single start dose of trazodone , a patient develop complete <target> heart block </target> .",
+        "D014196\tChemical\ttrazodone\tthe case illustrate that , despite the result of early study , <target> trazodone </target> 's effect on cardiac conduction may be severe in individual at risk for conduction delay ."
+    ]
+}

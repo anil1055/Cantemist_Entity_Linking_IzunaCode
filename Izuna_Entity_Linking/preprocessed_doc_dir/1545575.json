@@ -1,0 +1,58 @@
+{
+    "title": "Hemorrhagic cystitis complicating bone marrow transplantation.",
+    "abst": "Hemorrhagic cystitis is a potentially serious complication of high-dose cyclophosphamide therapy administered before bone marrow transplantation. As standard practice at our institution, patients who are scheduled to receive a bone marrow transplant are treated prophylactically with forced hydration and bladder irrigation. In an attempt to obviate the inconvenience of bladder irrigation, we conducted a feasibility trial of uroprophylaxis with mesna, which neutralizes the hepatic metabolite of cyclophosphamide that causes hemorrhagic cystitis. Of 97 patients who received standard prophylaxis, 4 had symptomatic hemorrhagic cystitis. In contrast, two of four consecutive patients who received mesna uroprophylaxis before allogeneic bone marrow transplantation had severe hemorrhagic cystitis for at least 2 weeks. Because of this suboptimal result, we resumed the use of bladder irrigation and forced hydration to minimize the risk of hemorrhagic cystitis.",
+    "title_plus_abst": "Hemorrhagic cystitis complicating bone marrow transplantation. Hemorrhagic cystitis is a potentially serious complication of high-dose cyclophosphamide therapy administered before bone marrow transplantation. As standard practice at our institution, patients who are scheduled to receive a bone marrow transplant are treated prophylactically with forced hydration and bladder irrigation. In an attempt to obviate the inconvenience of bladder irrigation, we conducted a feasibility trial of uroprophylaxis with mesna, which neutralizes the hepatic metabolite of cyclophosphamide that causes hemorrhagic cystitis. Of 97 patients who received standard prophylaxis, 4 had symptomatic hemorrhagic cystitis. In contrast, two of four consecutive patients who received mesna uroprophylaxis before allogeneic bone marrow transplantation had severe hemorrhagic cystitis for at least 2 weeks. Because of this suboptimal result, we resumed the use of bladder irrigation and forced hydration to minimize the risk of hemorrhagic cystitis.",
+    "pubmed_id": "1545575",
+    "entities": [
+        [
+            135,
+            151,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            510,
+            515,
+            "mesna",
+            "Chemical",
+            "D015080"
+        ],
+        [
+            561,
+            577,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            761,
+            766,
+            "mesna",
+            "Chemical",
+            "D015080"
+        ]
+    ],
+    "split_sentence": [
+        "Hemorrhagic cystitis complicating bone marrow transplantation.",
+        "Hemorrhagic cystitis is a potentially serious complication of high-dose cyclophosphamide therapy administered before bone marrow transplantation.",
+        "As standard practice at our institution, patients who are scheduled to receive a bone marrow transplant are treated prophylactically with forced hydration and bladder irrigation.",
+        "In an attempt to obviate the inconvenience of bladder irrigation, we conducted a feasibility trial of uroprophylaxis with mesna, which neutralizes the hepatic metabolite of cyclophosphamide that causes hemorrhagic cystitis.",
+        "Of 97 patients who received standard prophylaxis, 4 had symptomatic hemorrhagic cystitis.",
+        "In contrast, two of four consecutive patients who received mesna uroprophylaxis before allogeneic bone marrow transplantation had severe hemorrhagic cystitis for at least 2 weeks.",
+        "Because of this suboptimal result, we resumed the use of bladder irrigation and forced hydration to minimize the risk of hemorrhagic cystitis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003520\tChemical\tcyclophosphamide\tHemorrhagic cystitis is a potentially serious complication of high-dose <target> cyclophosphamide </target> therapy administered before bone marrow transplantation .",
+        "D015080\tChemical\tmesna\tIn an attempt to obviate the inconvenience of bladder irrigation , we conducted a feasibility trial of uroprophylaxis with <target> mesna </target> , which neutralizes the hepatic metabolite of cyclophosphamide that causes hemorrhagic cystitis .",
+        "D003520\tChemical\tcyclophosphamide\tIn an attempt to obviate the inconvenience of bladder irrigation , we conducted a feasibility trial of uroprophylaxis with mesna , which neutralizes the hepatic metabolite of <target> cyclophosphamide </target> that causes hemorrhagic cystitis .",
+        "D015080\tChemical\tmesna\tIn contrast , two of four consecutive patients who received <target> mesna </target> uroprophylaxis before allogeneic bone marrow transplantation had severe hemorrhagic cystitis for at least 2 weeks ."
+    ],
+    "lines_lemma": [
+        "D003520\tChemical\tcyclophosphamide\themorrhagic cystitis be a potentially serious complication of high-dose <target> cyclophosphamide </target> therapy administer before bone marrow transplantation .",
+        "D015080\tChemical\tmesna\tin an attempt to obviate the inconvenience of bladder irrigation , we conduct a feasibility trial of uroprophylaxis with <target> mesna </target> , which neutralize the hepatic metabolite of cyclophosphamide that cause hemorrhagic cystitis .",
+        "D003520\tChemical\tcyclophosphamide\tin an attempt to obviate the inconvenience of bladder irrigation , we conduct a feasibility trial of uroprophylaxis with mesna , which neutralize the hepatic metabolite of <target> cyclophosphamide </target> that cause hemorrhagic cystitis .",
+        "D015080\tChemical\tmesna\tin contrast , two of four consecutive patient who receive <target> mesna </target> uroprophylaxis before allogeneic bone marrow transplantation have severe hemorrhagic cystitis for at least 2 week ."
+    ]
+}

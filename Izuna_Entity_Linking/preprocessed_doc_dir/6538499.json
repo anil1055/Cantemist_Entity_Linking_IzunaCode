@@ -1,0 +1,146 @@
+{
+    "title": "Effect of polyethylene glycol 400 on adriamycin toxicity in mice.",
+    "abst": "The effect of a widely used organic solvent, polyethylene glycol 400 (PEG 400), on the toxic action of an acute or chronic treatment with adriamycin (ADR) was evaluated in mice. PEG 400 impressively decreased both acute high-dose and chronic low-dose-ADR-associated lethality. Light microscopic analysis showed a significant protection against ADR-induced cardiac morphological alterations. Such treatment did not diminish the ADR antitumor activity in L1210 leukemia and in Ehrlich ascites tumor.",
+    "title_plus_abst": "Effect of polyethylene glycol 400 on adriamycin toxicity in mice. The effect of a widely used organic solvent, polyethylene glycol 400 (PEG 400), on the toxic action of an acute or chronic treatment with adriamycin (ADR) was evaluated in mice. PEG 400 impressively decreased both acute high-dose and chronic low-dose-ADR-associated lethality. Light microscopic analysis showed a significant protection against ADR-induced cardiac morphological alterations. Such treatment did not diminish the ADR antitumor activity in L1210 leukemia and in Ehrlich ascites tumor.",
+    "pubmed_id": "6538499",
+    "entities": [
+        [
+            10,
+            33,
+            "polyethylene glycol 400",
+            "Chemical",
+            "D011092"
+        ],
+        [
+            37,
+            47,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            48,
+            56,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            111,
+            134,
+            "polyethylene glycol 400",
+            "Chemical",
+            "D011092"
+        ],
+        [
+            136,
+            143,
+            "PEG 400",
+            "Chemical",
+            "D011092"
+        ],
+        [
+            204,
+            214,
+            "adriamycin",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            216,
+            219,
+            "ADR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            244,
+            251,
+            "PEG 400",
+            "Chemical",
+            "D011092"
+        ],
+        [
+            317,
+            320,
+            "ADR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            410,
+            413,
+            "ADR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            422,
+            455,
+            "cardiac morphological alterations",
+            "Disease",
+            "D009202"
+        ],
+        [
+            493,
+            496,
+            "ADR",
+            "Chemical",
+            "D004317"
+        ],
+        [
+            519,
+            533,
+            "L1210 leukemia",
+            "Disease",
+            "D007939"
+        ],
+        [
+            541,
+            562,
+            "Ehrlich ascites tumor",
+            "Disease",
+            "D002286"
+        ]
+    ],
+    "split_sentence": [
+        "Effect of polyethylene glycol 400 on adriamycin toxicity in mice.",
+        "The effect of a widely used organic solvent, polyethylene glycol 400 (PEG 400), on the toxic action of an acute or chronic treatment with adriamycin (ADR) was evaluated in mice.",
+        "PEG 400 impressively decreased both acute high-dose and chronic low-dose-ADR-associated lethality.",
+        "Light microscopic analysis showed a significant protection against ADR-induced cardiac morphological alterations.",
+        "Such treatment did not diminish the ADR antitumor activity in L1210 leukemia and in Ehrlich ascites tumor."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011092\tChemical\tpolyethylene glycol 400\tEffect of <target> polyethylene glycol 400 </target> on adriamycin toxicity in mice .",
+        "D004317\tChemical\tadriamycin\tEffect of polyethylene glycol 400 on <target> adriamycin </target> toxicity in mice .",
+        "D064420\tDisease\ttoxicity\tEffect of polyethylene glycol 400 on adriamycin <target> toxicity </target> in mice .",
+        "D011092\tChemical\tpolyethylene glycol 400\tThe effect of a widely used organic solvent , <target> polyethylene glycol 400 </target> ( PEG 400 ) , on the toxic action of an acute or chronic treatment with adriamycin ( ADR ) was evaluated in mice .",
+        "D011092\tChemical\tPEG 400\tThe effect of a widely used organic solvent , polyethylene glycol 400 ( <target> PEG 400 </target> ) , on the toxic action of an acute or chronic treatment with adriamycin ( ADR ) was evaluated in mice .",
+        "D004317\tChemical\tadriamycin\tThe effect of a widely used organic solvent , polyethylene glycol 400 ( PEG 400 ) , on the toxic action of an acute or chronic treatment with <target> adriamycin </target> ( ADR ) was evaluated in mice .",
+        "D004317\tChemical\tADR\tThe effect of a widely used organic solvent , polyethylene glycol 400 ( PEG 400 ) , on the toxic action of an acute or chronic treatment with adriamycin ( <target> ADR </target> ) was evaluated in mice .",
+        "D011092\tChemical\tPEG 400\t<target> PEG 400 </target> impressively decreased both acute high-dose and chronic low-dose-ADR-associated lethality .",
+        "D004317\tChemical\tADR\tPEG 400 impressively decreased both acute high-dose and chronic low-dose- <target> ADR </target> -associated lethality .",
+        "D004317\tChemical\tADR\tLight microscopic analysis showed a significant protection against <target> ADR </target> -induced cardiac morphological alterations .",
+        "D009202\tDisease\tcardiac morphological alterations\tLight microscopic analysis showed a significant protection against ADR-induced <target> cardiac morphological alterations </target> .",
+        "D004317\tChemical\tADR\tSuch treatment did not diminish the <target> ADR </target> antitumor activity in L1210 leukemia and in Ehrlich ascites tumor .",
+        "D007939\tDisease\tL1210 leukemia\tSuch treatment did not diminish the ADR antitumor activity in <target> L1210 leukemia </target> and in Ehrlich ascites tumor .",
+        "D002286\tDisease\tEhrlich ascites tumor\tSuch treatment did not diminish the ADR antitumor activity in L1210 leukemia and in <target> Ehrlich ascites tumor </target> ."
+    ],
+    "lines_lemma": [
+        "D011092\tChemical\tpolyethylene glycol 400\teffect of <target> polyethylene glycol 400 </target> on adriamycin toxicity in mouse .",
+        "D004317\tChemical\tadriamycin\teffect of polyethylene glycol 400 on <target> adriamycin </target> toxicity in mouse .",
+        "D064420\tDisease\ttoxicity\teffect of polyethylene glycol 400 on adriamycin <target> toxicity </target> in mouse .",
+        "D011092\tChemical\tpolyethylene glycol 400\tthe effect of a widely use organic solvent , <target> polyethylene glycol 400 </target> ( peg 400 ) , on the toxic action of an acute or chronic treatment with adriamycin ( adr ) be evaluate in mouse .",
+        "D011092\tChemical\tPEG 400\tthe effect of a widely use organic solvent , polyethylene glycol 400 ( <target> peg 400 </target> ) , on the toxic action of an acute or chronic treatment with adriamycin ( adr ) be evaluate in mouse .",
+        "D004317\tChemical\tadriamycin\tthe effect of a widely use organic solvent , polyethylene glycol 400 ( peg 400 ) , on the toxic action of an acute or chronic treatment with <target> adriamycin </target> ( adr ) be evaluate in mouse .",
+        "D004317\tChemical\tADR\tthe effect of a widely use organic solvent , polyethylene glycol 400 ( peg 400 ) , on the toxic action of an acute or chronic treatment with adriamycin ( <target> adr </target> ) be evaluate in mouse .",
+        "D011092\tChemical\tPEG 400\t<target> peg 400 </target> impressively decrease both acute high-dose and chronic low-dose-adr-associate lethality .",
+        "D004317\tChemical\tADR\tpeg 400 impressively decrease both acute high-dose and chronic low-dose- <target> adr </target> -associated lethality .",
+        "D004317\tChemical\tADR\tlight microscopic analysis show a significant protection against <target> adr </target> -induced cardiac morphological alteration .",
+        "D009202\tDisease\tcardiac morphological alterations\tlight microscopic analysis show a significant protection against adr-induced <target> cardiac morphological alteration </target> .",
+        "D004317\tChemical\tADR\tsuch treatment do not diminish the <target> adr </target> antitumor activity in l1210 leukemia and in ehrlich ascite tumor .",
+        "D007939\tDisease\tL1210 leukemia\tsuch treatment do not diminish the adr antitumor activity in <target> l1210 leukemia </target> and in ehrlich ascite tumor .",
+        "D002286\tDisease\tEhrlich ascites tumor\tsuch treatment do not diminish the adr antitumor activity in l1210 leukemia and in <target> ehrlich ascite tumor </target> ."
+    ]
+}

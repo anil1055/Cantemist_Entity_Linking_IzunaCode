@@ -1,0 +1,182 @@
+{
+    "title": "Chloroquine related complete heart block with blindness: case report.",
+    "abst": "A 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision, easy fatiguability, dyspnoea, dizziness progressing to syncopal attacks. Ophthalmological assessment revealed features of chloroquine retinopathy, cardiac assessment revealed features of heart failure and a complete heart block with right bundle branch block pattern. The heart block was treated by pacemaker insertion and the heart failure resolved spontaneously following chloroquine discontinuation. She however remains blind.",
+    "title_plus_abst": "Chloroquine related complete heart block with blindness: case report. A 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision, easy fatiguability, dyspnoea, dizziness progressing to syncopal attacks. Ophthalmological assessment revealed features of chloroquine retinopathy, cardiac assessment revealed features of heart failure and a complete heart block with right bundle branch block pattern. The heart block was treated by pacemaker insertion and the heart failure resolved spontaneously following chloroquine discontinuation. She however remains blind.",
+    "pubmed_id": "1628552",
+    "entities": [
+        [
+            0,
+            11,
+            "Chloroquine",
+            "Chemical",
+            "D002738"
+        ],
+        [
+            29,
+            40,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            46,
+            55,
+            "blindness",
+            "Disease",
+            "D001766"
+        ],
+        [
+            122,
+            133,
+            "chloroquine",
+            "Chemical",
+            "D002738"
+        ],
+        [
+            171,
+            194,
+            "deterioration of vision",
+            "Disease",
+            "D015354"
+        ],
+        [
+            201,
+            214,
+            "fatiguability",
+            "Disease",
+            "D005221"
+        ],
+        [
+            216,
+            224,
+            "dyspnoea",
+            "Disease",
+            "D004417"
+        ],
+        [
+            226,
+            235,
+            "dizziness",
+            "Disease",
+            "D004244"
+        ],
+        [
+            251,
+            267,
+            "syncopal attacks",
+            "Disease",
+            "D013575"
+        ],
+        [
+            318,
+            329,
+            "chloroquine",
+            "Chemical",
+            "D002738"
+        ],
+        [
+            330,
+            341,
+            "retinopathy",
+            "Disease",
+            "D012164"
+        ],
+        [
+            383,
+            396,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            412,
+            423,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            429,
+            454,
+            "right bundle branch block",
+            "Disease",
+            "D002037"
+        ],
+        [
+            468,
+            479,
+            "heart block",
+            "Disease",
+            "D006327"
+        ],
+        [
+            523,
+            536,
+            "heart failure",
+            "Disease",
+            "D006333"
+        ],
+        [
+            570,
+            581,
+            "chloroquine",
+            "Chemical",
+            "D002738"
+        ],
+        [
+            619,
+            624,
+            "blind",
+            "Disease",
+            "D001766"
+        ]
+    ],
+    "split_sentence": [
+        "Chloroquine related complete heart block with blindness: case report.",
+        "A 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision, easy fatiguability, dyspnoea, dizziness progressing to syncopal attacks.",
+        "Ophthalmological assessment revealed features of chloroquine retinopathy, cardiac assessment revealed features of heart failure and a complete heart block with right bundle branch block pattern.",
+        "The heart block was treated by pacemaker insertion and the heart failure resolved spontaneously following chloroquine discontinuation.",
+        "She however remains blind."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002738\tChemical\tChloroquine\t<target> Chloroquine </target> related complete heart block with blindness : case report .",
+        "D006327\tDisease\theart block\tChloroquine related complete <target> heart block </target> with blindness : case report .",
+        "D001766\tDisease\tblindness\tChloroquine related complete heart block with <target> blindness </target> : case report .",
+        "D002738\tChemical\tchloroquine\tA 27-year old African woman with history of regular <target> chloroquine </target> ingestion presented with progressive deterioration of vision , easy fatiguability , dyspnoea , dizziness progressing to syncopal attacks .",
+        "D015354\tDisease\tdeterioration of vision\tA 27-year old African woman with history of regular chloroquine ingestion presented with progressive <target> deterioration of vision </target> , easy fatiguability , dyspnoea , dizziness progressing to syncopal attacks .",
+        "D005221\tDisease\tfatiguability\tA 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision , easy <target> fatiguability </target> , dyspnoea , dizziness progressing to syncopal attacks .",
+        "D004417\tDisease\tdyspnoea\tA 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision , easy fatiguability , <target> dyspnoea </target> , dizziness progressing to syncopal attacks .",
+        "D004244\tDisease\tdizziness\tA 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision , easy fatiguability , dyspnoea , <target> dizziness </target> progressing to syncopal attacks .",
+        "D013575\tDisease\tsyncopal attacks\tA 27-year old African woman with history of regular chloroquine ingestion presented with progressive deterioration of vision , easy fatiguability , dyspnoea , dizziness progressing to <target> syncopal attacks </target> .",
+        "D002738\tChemical\tchloroquine\tOphthalmological assessment revealed features of <target> chloroquine </target> retinopathy , cardiac assessment revealed features of heart failure and a complete heart block with right bundle branch block pattern .",
+        "D012164\tDisease\tretinopathy\tOphthalmological assessment revealed features of chloroquine <target> retinopathy </target> , cardiac assessment revealed features of heart failure and a complete heart block with right bundle branch block pattern .",
+        "D006333\tDisease\theart failure\tOphthalmological assessment revealed features of chloroquine retinopathy , cardiac assessment revealed features of <target> heart failure </target> and a complete heart block with right bundle branch block pattern .",
+        "D006327\tDisease\theart block\tOphthalmological assessment revealed features of chloroquine retinopathy , cardiac assessment revealed features of heart failure and a complete <target> heart block </target> with right bundle branch block pattern .",
+        "D002037\tDisease\tright bundle branch block\tOphthalmological assessment revealed features of chloroquine retinopathy , cardiac assessment revealed features of heart failure and a complete heart block with <target> right bundle branch block </target> pattern .",
+        "D006327\tDisease\theart block\tThe <target> heart block </target> was treated by pacemaker insertion and the heart failure resolved spontaneously following chloroquine discontinuation .",
+        "D006333\tDisease\theart failure\tThe heart block was treated by pacemaker insertion and the <target> heart failure </target> resolved spontaneously following chloroquine discontinuation .",
+        "D002738\tChemical\tchloroquine\tThe heart block was treated by pacemaker insertion and the heart failure resolved spontaneously following <target> chloroquine </target> discontinuation .",
+        "D001766\tDisease\tblind\tShe however remains <target> blind </target> ."
+    ],
+    "lines_lemma": [
+        "D002738\tChemical\tChloroquine\t<target> chloroquine </target> related complete heart block with blindness : case report .",
+        "D006327\tDisease\theart block\tchloroquine related complete <target> heart block </target> with blindness : case report .",
+        "D001766\tDisease\tblindness\tchloroquine related complete heart block with <target> blindness </target> : case report .",
+        "D002738\tChemical\tchloroquine\ta 27-year old african woman with history of regular <target> chloroquine </target> ingestion present with progressive deterioration of vision , easy fatiguability , dyspnoea , dizziness progress to syncopal attack .",
+        "D015354\tDisease\tdeterioration of vision\ta 27-year old african woman with history of regular chloroquine ingestion present with progressive <target> deterioration of vision </target> , easy fatiguability , dyspnoea , dizziness progress to syncopal attack .",
+        "D005221\tDisease\tfatiguability\ta 27-year old african woman with history of regular chloroquine ingestion present with progressive deterioration of vision , easy <target> fatiguability </target> , dyspnoea , dizziness progress to syncopal attack .",
+        "D004417\tDisease\tdyspnoea\ta 27-year old african woman with history of regular chloroquine ingestion present with progressive deterioration of vision , easy fatiguability , <target> dyspnoea </target> , dizziness progress to syncopal attack .",
+        "D004244\tDisease\tdizziness\ta 27-year old african woman with history of regular chloroquine ingestion present with progressive deterioration of vision , easy fatiguability , dyspnoea , <target> dizziness </target> progress to syncopal attack .",
+        "D013575\tDisease\tsyncopal attacks\ta 27-year old african woman with history of regular chloroquine ingestion present with progressive deterioration of vision , easy fatiguability , dyspnoea , dizziness progress to <target> syncopal attack </target> .",
+        "D002738\tChemical\tchloroquine\tophthalmological assessment reveal feature of <target> chloroquine </target> retinopathy , cardiac assessment reveal feature of heart failure and a complete heart block with right bundle branch block pattern .",
+        "D012164\tDisease\tretinopathy\tophthalmological assessment reveal feature of chloroquine <target> retinopathy </target> , cardiac assessment reveal feature of heart failure and a complete heart block with right bundle branch block pattern .",
+        "D006333\tDisease\theart failure\tophthalmological assessment reveal feature of chloroquine retinopathy , cardiac assessment reveal feature of <target> heart failure </target> and a complete heart block with right bundle branch block pattern .",
+        "D006327\tDisease\theart block\tophthalmological assessment reveal feature of chloroquine retinopathy , cardiac assessment reveal feature of heart failure and a complete <target> heart block </target> with right bundle branch block pattern .",
+        "D002037\tDisease\tright bundle branch block\tophthalmological assessment reveal feature of chloroquine retinopathy , cardiac assessment reveal feature of heart failure and a complete heart block with <target> right bundle branch block </target> pattern .",
+        "D006327\tDisease\theart block\tthe <target> heart block </target> be treat by pacemaker insertion and the heart failure resolve spontaneously follow chloroquine discontinuation .",
+        "D006333\tDisease\theart failure\tthe heart block be treat by pacemaker insertion and the <target> heart failure </target> resolve spontaneously follow chloroquine discontinuation .",
+        "D002738\tChemical\tchloroquine\tthe heart block be treat by pacemaker insertion and the heart failure resolve spontaneously follow <target> chloroquine </target> discontinuation .",
+        "D001766\tDisease\tblind\tshe however remain <target> blind </target> ."
+    ]
+}

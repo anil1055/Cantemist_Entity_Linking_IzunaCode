@@ -1,0 +1,185 @@
+{
+    "title": "Seizure resulting from a venlafaxine overdose.",
+    "abst": "OBJECTIVE: To report a case of venlafaxine overdose. CASE SUMMARY: A 40-year-old woman with major depression took an overdose of venlafaxine in an apparent suicide attempt. After the ingestion of 26 venlafaxine 50-mg tablets, the patient experienced a witnessed generalized seizure. She was admitted to the medical intensive care unit, venlafaxine was discontinued, and no further sequelae were seen. DISCUSSION: To our knowledge, this is the first reported case of venlafaxine overdose that resulted in a generalized seizure. Based on nonoverdose pharmacokinetics and pharmacodynamics of venlafaxine and the potential risks of available interventions, no emergent therapy was instituted. CONCLUSIONS: The venlafaxine overdose in our patient resulted in a single episode of generalized seizure but elicited no further sequelae.",
+    "title_plus_abst": "Seizure resulting from a venlafaxine overdose. OBJECTIVE: To report a case of venlafaxine overdose. CASE SUMMARY: A 40-year-old woman with major depression took an overdose of venlafaxine in an apparent suicide attempt. After the ingestion of 26 venlafaxine 50-mg tablets, the patient experienced a witnessed generalized seizure. She was admitted to the medical intensive care unit, venlafaxine was discontinued, and no further sequelae were seen. DISCUSSION: To our knowledge, this is the first reported case of venlafaxine overdose that resulted in a generalized seizure. Based on nonoverdose pharmacokinetics and pharmacodynamics of venlafaxine and the potential risks of available interventions, no emergent therapy was instituted. CONCLUSIONS: The venlafaxine overdose in our patient resulted in a single episode of generalized seizure but elicited no further sequelae.",
+    "pubmed_id": "9034419",
+    "entities": [
+        [
+            0,
+            7,
+            "Seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            25,
+            36,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            37,
+            45,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            78,
+            89,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            90,
+            98,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            139,
+            155,
+            "major depression",
+            "Disease",
+            "D003865"
+        ],
+        [
+            164,
+            172,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            176,
+            187,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            246,
+            257,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            321,
+            328,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            383,
+            394,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            513,
+            524,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            525,
+            533,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            565,
+            572,
+            "seizure",
+            "Disease",
+            "D012640"
+        ],
+        [
+            636,
+            647,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            753,
+            764,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            765,
+            773,
+            "overdose",
+            "Disease",
+            "D062787"
+        ],
+        [
+            833,
+            840,
+            "seizure",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Seizure resulting from a venlafaxine overdose.",
+        "OBJECTIVE: To report a case of venlafaxine overdose.",
+        "CASE SUMMARY: A 40-year-old woman with major depression took an overdose of venlafaxine in an apparent suicide attempt.",
+        "After the ingestion of 26 venlafaxine 50-mg tablets, the patient experienced a witnessed generalized seizure.",
+        "She was admitted to the medical intensive care unit, venlafaxine was discontinued, and no further sequelae were seen.",
+        "DISCUSSION: To our knowledge, this is the first reported case of venlafaxine overdose that resulted in a generalized seizure.",
+        "Based on nonoverdose pharmacokinetics and pharmacodynamics of venlafaxine and the potential risks of available interventions, no emergent therapy was instituted.",
+        "CONCLUSIONS: The venlafaxine overdose in our patient resulted in a single episode of generalized seizure but elicited no further sequelae."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> resulting from a venlafaxine overdose .",
+        "C047426\tChemical\tvenlafaxine\tSeizure resulting from a <target> venlafaxine </target> overdose .",
+        "D062787\tDisease\toverdose\tSeizure resulting from a venlafaxine <target> overdose </target> .",
+        "C047426\tChemical\tvenlafaxine\tOBJECTIVE : To report a case of <target> venlafaxine </target> overdose .",
+        "D062787\tDisease\toverdose\tOBJECTIVE : To report a case of venlafaxine <target> overdose </target> .",
+        "D003865\tDisease\tmajor depression\tCASE SUMMARY : A 40-year-old woman with <target> major depression </target> took an overdose of venlafaxine in an apparent suicide attempt .",
+        "D062787\tDisease\toverdose\tCASE SUMMARY : A 40-year-old woman with major depression took an <target> overdose </target> of venlafaxine in an apparent suicide attempt .",
+        "C047426\tChemical\tvenlafaxine\tCASE SUMMARY : A 40-year-old woman with major depression took an overdose of <target> venlafaxine </target> in an apparent suicide attempt .",
+        "C047426\tChemical\tvenlafaxine\tAfter the ingestion of 26 <target> venlafaxine </target> 50-mg tablets , the patient experienced a witnessed generalized seizure .",
+        "D012640\tDisease\tseizure\tAfter the ingestion of 26 venlafaxine 50-mg tablets , the patient experienced a witnessed generalized <target> seizure </target> .",
+        "C047426\tChemical\tvenlafaxine\tShe was admitted to the medical intensive care unit , <target> venlafaxine </target> was discontinued , and no further sequelae were seen .",
+        "C047426\tChemical\tvenlafaxine\tDISCUSSION : To our knowledge , this is the first reported case of <target> venlafaxine </target> overdose that resulted in a generalized seizure .",
+        "D062787\tDisease\toverdose\tDISCUSSION : To our knowledge , this is the first reported case of venlafaxine <target> overdose </target> that resulted in a generalized seizure .",
+        "D012640\tDisease\tseizure\tDISCUSSION : To our knowledge , this is the first reported case of venlafaxine overdose that resulted in a generalized <target> seizure </target> .",
+        "C047426\tChemical\tvenlafaxine\tBased on nonoverdose pharmacokinetics and pharmacodynamics of <target> venlafaxine </target> and the potential risks of available interventions , no emergent therapy was instituted .",
+        "C047426\tChemical\tvenlafaxine\tCONCLUSIONS : The <target> venlafaxine </target> overdose in our patient resulted in a single episode of generalized seizure but elicited no further sequelae .",
+        "D062787\tDisease\toverdose\tCONCLUSIONS : The venlafaxine <target> overdose </target> in our patient resulted in a single episode of generalized seizure but elicited no further sequelae .",
+        "D012640\tDisease\tseizure\tCONCLUSIONS : The venlafaxine overdose in our patient resulted in a single episode of generalized <target> seizure </target> but elicited no further sequelae ."
+    ],
+    "lines_lemma": [
+        "D012640\tDisease\tSeizure\t<target> Seizure </target> result from a venlafaxine overdose .",
+        "C047426\tChemical\tvenlafaxine\tSeizure result from a <target> venlafaxine </target> overdose .",
+        "D062787\tDisease\toverdose\tSeizure result from a venlafaxine <target> overdose </target> .",
+        "C047426\tChemical\tvenlafaxine\tobjective : to report a case of <target> venlafaxine </target> overdose .",
+        "D062787\tDisease\toverdose\tobjective : to report a case of venlafaxine <target> overdose </target> .",
+        "D003865\tDisease\tmajor depression\tcase SUMMARY : a 40-year-old woman with <target> major depression </target> take an overdose of venlafaxine in an apparent suicide attempt .",
+        "D062787\tDisease\toverdose\tcase SUMMARY : a 40-year-old woman with major depression take an <target> overdose </target> of venlafaxine in an apparent suicide attempt .",
+        "C047426\tChemical\tvenlafaxine\tcase SUMMARY : a 40-year-old woman with major depression take an overdose of <target> venlafaxine </target> in an apparent suicide attempt .",
+        "C047426\tChemical\tvenlafaxine\tafter the ingestion of 26 <target> venlafaxine </target> 50-mg tablet , the patient experience a witness generalize seizure .",
+        "D012640\tDisease\tseizure\tafter the ingestion of 26 venlafaxine 50-mg tablet , the patient experience a witness generalize <target> seizure </target> .",
+        "C047426\tChemical\tvenlafaxine\tshe be admit to the medical intensive care unit , <target> venlafaxine </target> be discontinue , and no further sequela be see .",
+        "C047426\tChemical\tvenlafaxine\tDISCUSSION : to our knowledge , this be the first report case of <target> venlafaxine </target> overdose that result in a generalized seizure .",
+        "D062787\tDisease\toverdose\tDISCUSSION : to our knowledge , this be the first report case of venlafaxine <target> overdose </target> that result in a generalized seizure .",
+        "D012640\tDisease\tseizure\tDISCUSSION : to our knowledge , this be the first report case of venlafaxine overdose that result in a generalized <target> seizure </target> .",
+        "C047426\tChemical\tvenlafaxine\tbase on nonoverdose pharmacokinetic and pharmacodynamic of <target> venlafaxine </target> and the potential risk of available intervention , no emergent therapy be institute .",
+        "C047426\tChemical\tvenlafaxine\tconclusion : the <target> venlafaxine </target> overdose in our patient result in a single episode of generalize seizure but elicit no further sequela .",
+        "D062787\tDisease\toverdose\tconclusion : the venlafaxine <target> overdose </target> in our patient result in a single episode of generalize seizure but elicit no further sequela .",
+        "D012640\tDisease\tseizure\tconclusion : the venlafaxine overdose in our patient result in a single episode of generalize <target> seizure </target> but elicit no further sequela ."
+    ]
+}

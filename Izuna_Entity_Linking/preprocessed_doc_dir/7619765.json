@@ -1,0 +1,63 @@
+{
+    "title": "Etoposide-related myocardial infarction.",
+    "abst": "The occurrence of a myocardial infarction is reported after chemotherapy containing etoposide, in a man with no risk factors for coronary heart disease. Possible causal mechanisms are discussed.",
+    "title_plus_abst": "Etoposide-related myocardial infarction. The occurrence of a myocardial infarction is reported after chemotherapy containing etoposide, in a man with no risk factors for coronary heart disease. Possible causal mechanisms are discussed.",
+    "pubmed_id": "7619765",
+    "entities": [
+        [
+            0,
+            9,
+            "Etoposide",
+            "Chemical",
+            "D005047"
+        ],
+        [
+            18,
+            39,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            61,
+            82,
+            "myocardial infarction",
+            "Disease",
+            "D009203"
+        ],
+        [
+            125,
+            134,
+            "etoposide",
+            "Chemical",
+            "D005047"
+        ],
+        [
+            170,
+            192,
+            "coronary heart disease",
+            "Disease",
+            "D003327"
+        ]
+    ],
+    "split_sentence": [
+        "Etoposide-related myocardial infarction.",
+        "The occurrence of a myocardial infarction is reported after chemotherapy containing etoposide, in a man with no risk factors for coronary heart disease.",
+        "Possible causal mechanisms are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005047\tChemical\tEtoposide\t<target> Etoposide </target> -related myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tEtoposide-related <target> myocardial infarction </target> .",
+        "D009203\tDisease\tmyocardial infarction\tThe occurrence of a <target> myocardial infarction </target> is reported after chemotherapy containing etoposide , in a man with no risk factors for coronary heart disease .",
+        "D005047\tChemical\tetoposide\tThe occurrence of a myocardial infarction is reported after chemotherapy containing <target> etoposide </target> , in a man with no risk factors for coronary heart disease .",
+        "D003327\tDisease\tcoronary heart disease\tThe occurrence of a myocardial infarction is reported after chemotherapy containing etoposide , in a man with no risk factors for <target> coronary heart disease </target> ."
+    ],
+    "lines_lemma": [
+        "D005047\tChemical\tEtoposide\t<target> Etoposide </target> -related myocardial infarction .",
+        "D009203\tDisease\tmyocardial infarction\tetoposide-related <target> myocardial infarction </target> .",
+        "D009203\tDisease\tmyocardial infarction\tthe occurrence of a <target> myocardial infarction </target> be report after chemotherapy contain etoposide , in a man with no risk factor for coronary heart disease .",
+        "D005047\tChemical\tetoposide\tthe occurrence of a myocardial infarction be report after chemotherapy contain <target> etoposide </target> , in a man with no risk factor for coronary heart disease .",
+        "D003327\tDisease\tcoronary heart disease\tthe occurrence of a myocardial infarction be report after chemotherapy contain etoposide , in a man with no risk factor for <target> coronary heart disease </target> ."
+    ]
+}

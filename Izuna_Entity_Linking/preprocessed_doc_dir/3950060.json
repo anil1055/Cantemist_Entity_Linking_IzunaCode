@@ -1,0 +1,99 @@
+{
+    "title": "Factors associated with nephrotoxicity and clinical outcome in patients receiving amikacin.",
+    "abst": "Data from 60 patients treated with amikacin were analyzed for factors associated with nephrotoxicity. In 42 of these patients, data were examined for factors associated with clinical outcome. Variables evaluated included patient weight, age, sex, serum creatinine level, creatinine clearance, duration of therapy, total dose, mean daily dose, organism minimum inhibitory concentration (MIC), mean peak levels, mean trough levels, mean area under the serum concentration-time curve (AUC), total AUC, mean AUC greater than MIC, total AUC greater than MIC, mean Schumacher's intensity factor (IF), total IF, In (mean maximum concentration [Cmax]/MIC). Model-dependent pharmacokinetic parameters were calculated by computer based on a one-compartment model. When the parameters were examined individually, duration of therapy and total AUC correlated significantly (P less than .05) with nephrotoxicity. In contrast, a stepwise discriminant function analysis identified only duration of therapy (P less than .001) as an important factor. Based on this model and on Bayes' theorem, the predictive accuracy of identifying \"nephrotoxic\" patients increased from 0.17 to 0.39. When examined individually, mean IF, MIC, total dose, mean daily dose, and ln (mean Cmax/MIC) correlated significantly (P less than .05) with cure. In contrast, a simultaneous multivariable analysis identified IF, MIC, and total dose according to one model and ln (mean Cmax/MIC) according to a second statistical model of parameters selected to have the greatest prospective value. Based on Bayes' theorem and the first model, the predictive accuracy of identifying patients not cured increased from 0.19 to 0.83. For the second model, the predictive accuracy increased from 0.19 to 0.50.(ABSTRACT TRUNCATED AT 250 WORDS)",
+    "title_plus_abst": "Factors associated with nephrotoxicity and clinical outcome in patients receiving amikacin. Data from 60 patients treated with amikacin were analyzed for factors associated with nephrotoxicity. In 42 of these patients, data were examined for factors associated with clinical outcome. Variables evaluated included patient weight, age, sex, serum creatinine level, creatinine clearance, duration of therapy, total dose, mean daily dose, organism minimum inhibitory concentration (MIC), mean peak levels, mean trough levels, mean area under the serum concentration-time curve (AUC), total AUC, mean AUC greater than MIC, total AUC greater than MIC, mean Schumacher's intensity factor (IF), total IF, In (mean maximum concentration [Cmax]/MIC). Model-dependent pharmacokinetic parameters were calculated by computer based on a one-compartment model. When the parameters were examined individually, duration of therapy and total AUC correlated significantly (P less than .05) with nephrotoxicity. In contrast, a stepwise discriminant function analysis identified only duration of therapy (P less than .001) as an important factor. Based on this model and on Bayes' theorem, the predictive accuracy of identifying \"nephrotoxic\" patients increased from 0.17 to 0.39. When examined individually, mean IF, MIC, total dose, mean daily dose, and ln (mean Cmax/MIC) correlated significantly (P less than .05) with cure. In contrast, a simultaneous multivariable analysis identified IF, MIC, and total dose according to one model and ln (mean Cmax/MIC) according to a second statistical model of parameters selected to have the greatest prospective value. Based on Bayes' theorem and the first model, the predictive accuracy of identifying patients not cured increased from 0.19 to 0.83. For the second model, the predictive accuracy increased from 0.19 to 0.50.(ABSTRACT TRUNCATED AT 250 WORDS)",
+    "pubmed_id": "3950060",
+    "entities": [
+        [
+            24,
+            38,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            82,
+            90,
+            "amikacin",
+            "Chemical",
+            "D000583"
+        ],
+        [
+            127,
+            135,
+            "amikacin",
+            "Chemical",
+            "D000583"
+        ],
+        [
+            178,
+            192,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            345,
+            355,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            363,
+            373,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            976,
+            990,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            1209,
+            1220,
+            "nephrotoxic",
+            "Disease",
+            "D007674"
+        ]
+    ],
+    "split_sentence": [
+        "Factors associated with nephrotoxicity and clinical outcome in patients receiving amikacin.",
+        "Data from 60 patients treated with amikacin were analyzed for factors associated with nephrotoxicity.",
+        "In 42 of these patients, data were examined for factors associated with clinical outcome.",
+        "Variables evaluated included patient weight, age, sex, serum creatinine level, creatinine clearance, duration of therapy, total dose, mean daily dose, organism minimum inhibitory concentration (MIC), mean peak levels, mean trough levels, mean area under the serum concentration-time curve (AUC), total AUC, mean AUC greater than MIC, total AUC greater than MIC, mean Schumacher's intensity factor (IF), total IF, In (mean maximum concentration [Cmax]/MIC).",
+        "Model-dependent pharmacokinetic parameters were calculated by computer based on a one-compartment model.",
+        "When the parameters were examined individually, duration of therapy and total AUC correlated significantly (P less than .05) with nephrotoxicity.",
+        "In contrast, a stepwise discriminant function analysis identified only duration of therapy (P less than .001) as an important factor.",
+        "Based on this model and on Bayes' theorem, the predictive accuracy of identifying \"nephrotoxic\" patients increased from 0.17 to 0.39.",
+        "When examined individually, mean IF, MIC, total dose, mean daily dose, and ln (mean Cmax/MIC) correlated significantly (P less than .05) with cure.",
+        "In contrast, a simultaneous multivariable analysis identified IF, MIC, and total dose according to one model and ln (mean Cmax/MIC) according to a second statistical model of parameters selected to have the greatest prospective value.",
+        "Based on Bayes' theorem and the first model, the predictive accuracy of identifying patients not cured increased from 0.19 to 0.83.",
+        "For the second model, the predictive accuracy increased from 0.19 to 0.50.(ABSTRACT TRUNCATED AT 250 WORDS)"
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007674\tDisease\tnephrotoxicity\tFactors associated with <target> nephrotoxicity </target> and clinical outcome in patients receiving amikacin .",
+        "D000583\tChemical\tamikacin\tFactors associated with nephrotoxicity and clinical outcome in patients receiving <target> amikacin </target> .",
+        "D000583\tChemical\tamikacin\tData from 60 patients treated with <target> amikacin </target> were analyzed for factors associated with nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tData from 60 patients treated with amikacin were analyzed for factors associated with <target> nephrotoxicity </target> .",
+        "D003404\tChemical\tcreatinine\tVariables evaluated included patient weight , age , sex , serum <target> creatinine </target> level , creatinine clearance , duration of therapy , total dose , mean daily dose , organism minimum inhibitory concentration ( MIC ) , mean peak levels , mean trough levels , mean area under the serum concentration-time curve ( AUC ) , total AUC , mean AUC greater than MIC , total AUC greater than MIC , mean Schumacher 's intensity factor ( IF ) , total IF , In ( mean maximum concentration [Cmax]/MIC ) .",
+        "D003404\tChemical\tcreatinine\tVariables evaluated included patient weight , age , sex , serum creatinine level , <target> creatinine </target> clearance , duration of therapy , total dose , mean daily dose , organism minimum inhibitory concentration ( MIC ) , mean peak levels , mean trough levels , mean area under the serum concentration-time curve ( AUC ) , total AUC , mean AUC greater than MIC , total AUC greater than MIC , mean Schumacher 's intensity factor ( IF ) , total IF , In ( mean maximum concentration [Cmax]/MIC ) .",
+        "D007674\tDisease\tnephrotoxicity\tWhen the parameters were examined individually , duration of therapy and total AUC correlated significantly ( P less than .05 ) with <target> nephrotoxicity </target> .",
+        "D007674\tDisease\tnephrotoxic\tBased on this model and on Bayes ' theorem , the predictive accuracy of identifying \" <target> nephrotoxic </target> \" patients increased from 0.17 to 0.39 ."
+    ],
+    "lines_lemma": [
+        "D007674\tDisease\tnephrotoxicity\tfactor associate with <target> nephrotoxicity </target> and clinical outcome in patient receive amikacin .",
+        "D000583\tChemical\tamikacin\tfactor associate with nephrotoxicity and clinical outcome in patient receive <target> amikacin </target> .",
+        "D000583\tChemical\tamikacin\tdatum from 60 patient treat with <target> amikacin </target> be analyze for factor associate with nephrotoxicity .",
+        "D007674\tDisease\tnephrotoxicity\tdatum from 60 patient treat with amikacin be analyze for factor associate with <target> nephrotoxicity </target> .",
+        "D003404\tChemical\tcreatinine\tvariable evaluate include patient weight , age , sex , serum <target> creatinine </target> level , creatinine clearance , duration of therapy , total dose , mean daily dose , organism minimum inhibitory concentration ( mic ) , mean peak level , mean trough level , mean area under the serum concentration-time curve ( auc ) , total auc , mean auc great than mic , total auc great than mic , mean Schumacher 's intensity factor ( if ) , total if , in ( mean maximum concentration [cmax]/mic ) .",
+        "D003404\tChemical\tcreatinine\tvariable evaluate include patient weight , age , sex , serum creatinine level , <target> creatinine </target> clearance , duration of therapy , total dose , mean daily dose , organism minimum inhibitory concentration ( mic ) , mean peak level , mean trough level , mean area under the serum concentration-time curve ( auc ) , total auc , mean auc great than mic , total auc great than mic , mean Schumacher 's intensity factor ( if ) , total if , in ( mean maximum concentration [cmax]/mic ) .",
+        "D007674\tDisease\tnephrotoxicity\twhen the parameter be examine individually , duration of therapy and total auc correlate significantly ( p less than .05 ) with <target> nephrotoxicity </target> .",
+        "D007674\tDisease\tnephrotoxic\tbase on this model and on Bayes ' theorem , the predictive accuracy of identify \" <target> nephrotoxic </target> \" patient increase from 0.17 to 0.39 ."
+    ]
+}

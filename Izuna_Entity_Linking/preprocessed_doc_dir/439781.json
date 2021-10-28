@@ -1,0 +1,127 @@
+{
+    "title": "Indomethacin induced hypotension in sodium and volume depleted rats.",
+    "abst": "After a single oral dose of 4 mg/kg indomethacin (IDM) to sodium and volume depleted rats plasma renin activity (PRA) and systolic blood pressure fell significantly within four hours. In sodium repleted animals indomethacin did not change systolic blood pressure (BP) although plasma renin activity was decreased. Thus, indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion.",
+    "title_plus_abst": "Indomethacin induced hypotension in sodium and volume depleted rats. After a single oral dose of 4 mg/kg indomethacin (IDM) to sodium and volume depleted rats plasma renin activity (PRA) and systolic blood pressure fell significantly within four hours. In sodium repleted animals indomethacin did not change systolic blood pressure (BP) although plasma renin activity was decreased. Thus, indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion.",
+    "pubmed_id": "439781",
+    "entities": [
+        [
+            0,
+            12,
+            "Indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            21,
+            32,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            36,
+            42,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            105,
+            117,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            119,
+            122,
+            "IDM",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            127,
+            133,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            256,
+            262,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ],
+        [
+            280,
+            292,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            389,
+            401,
+            "indomethacin",
+            "Chemical",
+            "D007213"
+        ],
+        [
+            419,
+            432,
+            "prostaglandin",
+            "Chemical",
+            "D011453"
+        ],
+        [
+            518,
+            529,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            540,
+            546,
+            "sodium",
+            "Chemical",
+            "D012964"
+        ]
+    ],
+    "split_sentence": [
+        "Indomethacin induced hypotension in sodium and volume depleted rats.",
+        "After a single oral dose of 4 mg/kg indomethacin (IDM) to sodium and volume depleted rats plasma renin activity (PRA) and systolic blood pressure fell significantly within four hours.",
+        "In sodium repleted animals indomethacin did not change systolic blood pressure (BP) although plasma renin activity was decreased.",
+        "Thus, indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007213\tChemical\tIndomethacin\t<target> Indomethacin </target> induced hypotension in sodium and volume depleted rats .",
+        "D007022\tDisease\thypotension\tIndomethacin induced <target> hypotension </target> in sodium and volume depleted rats .",
+        "D012964\tChemical\tsodium\tIndomethacin induced hypotension in <target> sodium </target> and volume depleted rats .",
+        "D007213\tChemical\tindomethacin\tAfter a single oral dose of 4 mg/kg <target> indomethacin </target> ( IDM ) to sodium and volume depleted rats plasma renin activity ( PRA ) and systolic blood pressure fell significantly within four hours .",
+        "D007213\tChemical\tIDM\tAfter a single oral dose of 4 mg/kg indomethacin ( <target> IDM </target> ) to sodium and volume depleted rats plasma renin activity ( PRA ) and systolic blood pressure fell significantly within four hours .",
+        "D012964\tChemical\tsodium\tAfter a single oral dose of 4 mg/kg indomethacin ( IDM ) to <target> sodium </target> and volume depleted rats plasma renin activity ( PRA ) and systolic blood pressure fell significantly within four hours .",
+        "D012964\tChemical\tsodium\tIn <target> sodium </target> repleted animals indomethacin did not change systolic blood pressure ( BP ) although plasma renin activity was decreased .",
+        "D007213\tChemical\tindomethacin\tIn sodium repleted animals <target> indomethacin </target> did not change systolic blood pressure ( BP ) although plasma renin activity was decreased .",
+        "D007213\tChemical\tindomethacin\tThus , <target> indomethacin </target> by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion .",
+        "D011453\tChemical\tprostaglandin\tThus , indomethacin by inhibition of <target> prostaglandin </target> synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion .",
+        "D000809\tChemical\tangiotensin\tThus , indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin- <target> angiotensin </target> system in sodium and volume depletion .",
+        "D012964\tChemical\tsodium\tThus , indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in <target> sodium </target> and volume depletion ."
+    ],
+    "lines_lemma": [
+        "D007213\tChemical\tIndomethacin\t<target> indomethacin </target> induce hypotension in sodium and volume deplete rat .",
+        "D007022\tDisease\thypotension\tindomethacin induce <target> hypotension </target> in sodium and volume deplete rat .",
+        "D012964\tChemical\tsodium\tindomethacin induce hypotension in <target> sodium </target> and volume deplete rat .",
+        "D007213\tChemical\tindomethacin\tafter a single oral dose of 4 mg/kg <target> indomethacin </target> ( idm ) to sodium and volume deplete rat plasma renin activity ( pra ) and systolic blood pressure fall significantly within four hour .",
+        "D007213\tChemical\tIDM\tafter a single oral dose of 4 mg/kg indomethacin ( <target> idm </target> ) to sodium and volume deplete rat plasma renin activity ( pra ) and systolic blood pressure fall significantly within four hour .",
+        "D012964\tChemical\tsodium\tafter a single oral dose of 4 mg/kg indomethacin ( idm ) to <target> sodium </target> and volume deplete rat plasma renin activity ( pra ) and systolic blood pressure fall significantly within four hour .",
+        "D012964\tChemical\tsodium\tin <target> sodium </target> replete animal indomethacin do not change systolic blood pressure ( bp ) although plasma renin activity be decrease .",
+        "D007213\tChemical\tindomethacin\tin sodium replete animal <target> indomethacin </target> do not change systolic blood pressure ( bp ) although plasma renin activity be decrease .",
+        "D007213\tChemical\tindomethacin\tthus , <target> indomethacin </target> by inhibition of prostaglandin synthesis may diminish the blood pressure maintain effect of the stimulate renin-angiotensin system in sodium and volume depletion .",
+        "D011453\tChemical\tprostaglandin\tthus , indomethacin by inhibition of <target> prostaglandin </target> synthesis may diminish the blood pressure maintain effect of the stimulate renin-angiotensin system in sodium and volume depletion .",
+        "D000809\tChemical\tangiotensin\tthus , indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintain effect of the stimulate renin- <target> angiotensin </target> system in sodium and volume depletion .",
+        "D012964\tChemical\tsodium\tthus , indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintain effect of the stimulate renin-angiotensin system in <target> sodium </target> and volume depletion ."
+    ]
+}

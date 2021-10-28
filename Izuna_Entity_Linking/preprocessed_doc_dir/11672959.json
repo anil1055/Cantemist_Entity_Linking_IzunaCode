@@ -1,0 +1,200 @@
+{
+    "title": "The 3-week sulphasalazine syndrome strikes again.",
+    "abst": "A 34-year-old lady developed a constellation of dermatitis, fever, lymphadenopathy and hepatitis, beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis. Cervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis, associated with erythrophagocytosis and prominent eosinophilic infiltrates, without viral inclusion bodies, suggestive of an adverse drug reaction.A week later, fulminant drug-induced hepatitis, associated with the presence of anti-nuclear autoantibodies (but not with other markers of autoimmunity), and accompanied by multi-organ failure and sepsis, supervened. She subsequently died some 5 weeks after the commencement of her drug therapy.Post-mortem examination showed evidence of massive hepatocellular necrosis, acute hypersensitivity myocarditis, focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis, with no evidence of malignancy. It is thought that the clinico-pathological features and chronology of this case bore the hallmarks of the so-called \"3-week sulphasalazine syndrome\", a rare, but often fatal, immunoallergic reaction to sulphasalazine.",
+    "title_plus_abst": "The 3-week sulphasalazine syndrome strikes again. A 34-year-old lady developed a constellation of dermatitis, fever, lymphadenopathy and hepatitis, beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis. Cervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis, associated with erythrophagocytosis and prominent eosinophilic infiltrates, without viral inclusion bodies, suggestive of an adverse drug reaction.A week later, fulminant drug-induced hepatitis, associated with the presence of anti-nuclear autoantibodies (but not with other markers of autoimmunity), and accompanied by multi-organ failure and sepsis, supervened. She subsequently died some 5 weeks after the commencement of her drug therapy.Post-mortem examination showed evidence of massive hepatocellular necrosis, acute hypersensitivity myocarditis, focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis, with no evidence of malignancy. It is thought that the clinico-pathological features and chronology of this case bore the hallmarks of the so-called \"3-week sulphasalazine syndrome\", a rare, but often fatal, immunoallergic reaction to sulphasalazine.",
+    "pubmed_id": "11672959",
+    "entities": [
+        [
+            11,
+            25,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            98,
+            108,
+            "dermatitis",
+            "Disease",
+            "D003872"
+        ],
+        [
+            110,
+            115,
+            "fever",
+            "Disease",
+            "D005334"
+        ],
+        [
+            117,
+            132,
+            "lymphadenopathy",
+            "Disease",
+            "D008206"
+        ],
+        [
+            137,
+            146,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            194,
+            208,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            227,
+            247,
+            "rheumatoid arthritis",
+            "Disease",
+            "D001172"
+        ],
+        [
+            333,
+            346,
+            "lymphadenitis",
+            "Disease",
+            "D008199"
+        ],
+        [
+            473,
+            494,
+            "adverse drug reaction",
+            "Disease",
+            "D064420"
+        ],
+        [
+            519,
+            541,
+            "drug-induced hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            634,
+            646,
+            "autoimmunity",
+            "Disease",
+            "D001327"
+        ],
+        [
+            668,
+            687,
+            "multi-organ failure",
+            "Disease",
+            "D009102"
+        ],
+        [
+            692,
+            698,
+            "sepsis",
+            "Disease",
+            "D018805"
+        ],
+        [
+            833,
+            864,
+            "massive hepatocellular necrosis",
+            "Disease",
+            "D047508"
+        ],
+        [
+            889,
+            900,
+            "myocarditis",
+            "Disease",
+            "D009205"
+        ],
+        [
+            934,
+            943,
+            "nephritis",
+            "Disease",
+            "D009393"
+        ],
+        [
+            958,
+            978,
+            "bone marrow necrosis",
+            "Disease",
+            "D001855"
+        ],
+        [
+            1000,
+            1010,
+            "malignancy",
+            "Disease",
+            "D009369"
+        ],
+        [
+            1137,
+            1151,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ],
+        [
+            1215,
+            1229,
+            "sulphasalazine",
+            "Chemical",
+            "D012460"
+        ]
+    ],
+    "split_sentence": [
+        "The 3-week sulphasalazine syndrome strikes again.",
+        "A 34-year-old lady developed a constellation of dermatitis, fever, lymphadenopathy and hepatitis, beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis.",
+        "Cervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis, associated with erythrophagocytosis and prominent eosinophilic infiltrates, without viral inclusion bodies, suggestive of an adverse drug reaction.A week later, fulminant drug-induced hepatitis, associated with the presence of anti-nuclear autoantibodies (but not with other markers of autoimmunity), and accompanied by multi-organ failure and sepsis, supervened.",
+        "She subsequently died some 5 weeks after the commencement of her drug therapy.Post-mortem examination showed evidence of massive hepatocellular necrosis, acute hypersensitivity myocarditis, focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis, with no evidence of malignancy.",
+        "It is thought that the clinico-pathological features and chronology of this case bore the hallmarks of the so-called \"3-week sulphasalazine syndrome\", a rare, but often fatal, immunoallergic reaction to sulphasalazine."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012460\tChemical\tsulphasalazine\tThe 3-week <target> sulphasalazine </target> syndrome strikes again .",
+        "D003872\tDisease\tdermatitis\tA 34-year-old lady developed a constellation of <target> dermatitis </target> , fever , lymphadenopathy and hepatitis , beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D005334\tDisease\tfever\tA 34-year-old lady developed a constellation of dermatitis , <target> fever </target> , lymphadenopathy and hepatitis , beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D008206\tDisease\tlymphadenopathy\tA 34-year-old lady developed a constellation of dermatitis , fever , <target> lymphadenopathy </target> and hepatitis , beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D056486\tDisease\thepatitis\tA 34-year-old lady developed a constellation of dermatitis , fever , lymphadenopathy and <target> hepatitis </target> , beginning on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D012460\tChemical\tsulphasalazine\tA 34-year-old lady developed a constellation of dermatitis , fever , lymphadenopathy and hepatitis , beginning on the 17th day of a course of oral <target> sulphasalazine </target> for sero-negative rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\tA 34-year-old lady developed a constellation of dermatitis , fever , lymphadenopathy and hepatitis , beginning on the 17th day of a course of oral sulphasalazine for sero-negative <target> rheumatoid arthritis </target> .",
+        "D008199\tDisease\tlymphadenitis\tCervical and inguinal lymph node biopsies showed the features of severe necrotising <target> lymphadenitis </target> , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an adverse drug reaction . A week later , fulminant drug-induced hepatitis , associated with the presence of anti-nuclear autoantibodies ( but not with other markers of autoimmunity ) , and accompanied by multi-organ failure and sepsis , supervened .",
+        "D064420\tDisease\tadverse drug reaction\tCervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an <target> adverse drug reaction </target> .A week later , fulminant drug-induced hepatitis , associated with the presence of anti-nuclear autoantibodies ( but not with other markers of autoimmunity ) , and accompanied by multi-organ failure and sepsis , supervened .",
+        "D056486\tDisease\tdrug-induced hepatitis\tCervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an adverse drug reaction . A week later , fulminant <target> drug-induced hepatitis </target> , associated with the presence of anti-nuclear autoantibodies ( but not with other markers of autoimmunity ) , and accompanied by multi-organ failure and sepsis , supervened .",
+        "D001327\tDisease\tautoimmunity\tCervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an adverse drug reaction . A week later , fulminant drug-induced hepatitis , associated with the presence of anti-nuclear autoantibodies ( but not with other markers of <target> autoimmunity </target> ) , and accompanied by multi-organ failure and sepsis , supervened .",
+        "D009102\tDisease\tmulti-organ failure\tCervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an adverse drug reaction . A week later , fulminant drug-induced hepatitis , associated with the presence of anti-nuclear autoantibodies ( but not with other markers of autoimmunity ) , and accompanied by <target> multi-organ failure </target> and sepsis , supervened .",
+        "D018805\tDisease\tsepsis\tCervical and inguinal lymph node biopsies showed the features of severe necrotising lymphadenitis , associated with erythrophagocytosis and prominent eosinophilic infiltrates , without viral inclusion bodies , suggestive of an adverse drug reaction . A week later , fulminant drug-induced hepatitis , associated with the presence of anti-nuclear autoantibodies ( but not with other markers of autoimmunity ) , and accompanied by multi-organ failure and <target> sepsis </target> , supervened .",
+        "D047508\tDisease\tmassive hepatocellular necrosis\tShe subsequently died some 5 weeks after the commencement of her drug therapy . Post-mortem examination showed evidence of <target> massive hepatocellular necrosis </target> , acute hypersensitivity myocarditis , focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis , with no evidence of malignancy .",
+        "D009205\tDisease\tmyocarditis\tShe subsequently died some 5 weeks after the commencement of her drug therapy . Post-mortem examination showed evidence of massive hepatocellular necrosis , acute hypersensitivity <target> myocarditis </target> , focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis , with no evidence of malignancy .",
+        "D009393\tDisease\tnephritis\tShe subsequently died some 5 weeks after the commencement of her drug therapy . Post-mortem examination showed evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo-interstitial <target> nephritis </target> and extensive bone marrow necrosis , with no evidence of malignancy .",
+        "D001855\tDisease\tbone marrow necrosis\tShe subsequently died some 5 weeks after the commencement of her drug therapy . Post-mortem examination showed evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo-interstitial nephritis and extensive <target> bone marrow necrosis </target> , with no evidence of malignancy .",
+        "D009369\tDisease\tmalignancy\tShe subsequently died some 5 weeks after the commencement of her drug therapy . Post-mortem examination showed evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis , with no evidence of <target> malignancy </target> .",
+        "D012460\tChemical\tsulphasalazine\tIt is thought that the clinico-pathological features and chronology of this case bore the hallmarks of the so-called \" 3-week <target> sulphasalazine </target> syndrome \" , a rare , but often fatal , immunoallergic reaction to sulphasalazine .",
+        "D012460\tChemical\tsulphasalazine\tIt is thought that the clinico-pathological features and chronology of this case bore the hallmarks of the so-called \" 3-week sulphasalazine syndrome \" , a rare , but often fatal , immunoallergic reaction to <target> sulphasalazine </target> ."
+    ],
+    "lines_lemma": [
+        "D012460\tChemical\tsulphasalazine\tthe 3-week <target> sulphasalazine </target> syndrome strike again .",
+        "D003872\tDisease\tdermatitis\ta 34-year-old lady develop a constellation of <target> dermatitis </target> , fever , lymphadenopathy and hepatitis , begin on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D005334\tDisease\tfever\ta 34-year-old lady develop a constellation of dermatitis , <target> fever </target> , lymphadenopathy and hepatitis , begin on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D008206\tDisease\tlymphadenopathy\ta 34-year-old lady develop a constellation of dermatitis , fever , <target> lymphadenopathy </target> and hepatitis , begin on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D056486\tDisease\thepatitis\ta 34-year-old lady develop a constellation of dermatitis , fever , lymphadenopathy and <target> hepatitis </target> , begin on the 17th day of a course of oral sulphasalazine for sero-negative rheumatoid arthritis .",
+        "D012460\tChemical\tsulphasalazine\ta 34-year-old lady develop a constellation of dermatitis , fever , lymphadenopathy and hepatitis , begin on the 17th day of a course of oral <target> sulphasalazine </target> for sero-negative rheumatoid arthritis .",
+        "D001172\tDisease\trheumatoid arthritis\ta 34-year-old lady develop a constellation of dermatitis , fever , lymphadenopathy and hepatitis , begin on the 17th day of a course of oral sulphasalazine for sero-negative <target> rheumatoid arthritis </target> .",
+        "D008199\tDisease\tlymphadenitis\tcervical and inguinal lymph node biopsy show the feature of severe necrotising <target> lymphadenitis </target> , associate with erythrophagocytosis and prominent eosinophilic infiltrate , without viral inclusion body , suggestive of an adverse drug reaction . a week later , fulminant drug-induced hepatitis , associate with the presence of anti-nuclear autoantibody ( but not with other marker of autoimmunity ) , and accompany by multi-organ failure and sepsis , supervene .",
+        "D064420\tDisease\tadverse drug reaction\tcervical and inguinal lymph node biopsy show the feature of severe necrotising lymphadenitis , associate with erythrophagocytosis and prominent eosinophilic infiltrate , without viral inclusion body , suggestive of an <target> adverse drug reaction </target> .a week later , fulminant drug-induced hepatitis , associate with the presence of anti-nuclear autoantibody ( but not with other marker of autoimmunity ) , and accompany by multi-organ failure and sepsis , supervene .",
+        "D056486\tDisease\tdrug-induced hepatitis\tcervical and inguinal lymph node biopsy show the feature of severe necrotising lymphadenitis , associate with erythrophagocytosis and prominent eosinophilic infiltrate , without viral inclusion body , suggestive of an adverse drug reaction . a week later , fulminant <target> drug-induced hepatitis </target> , associate with the presence of anti-nuclear autoantibody ( but not with other marker of autoimmunity ) , and accompany by multi-organ failure and sepsis , supervene .",
+        "D001327\tDisease\tautoimmunity\tcervical and inguinal lymph node biopsy show the feature of severe necrotising lymphadenitis , associate with erythrophagocytosis and prominent eosinophilic infiltrate , without viral inclusion body , suggestive of an adverse drug reaction . a week later , fulminant drug-induced hepatitis , associate with the presence of anti-nuclear autoantibody ( but not with other marker of <target> autoimmunity </target> ) , and accompany by multi-organ failure and sepsis , supervene .",
+        "D009102\tDisease\tmulti-organ failure\tcervical and inguinal lymph node biopsy show the feature of severe necrotising lymphadenitis , associate with erythrophagocytosis and prominent eosinophilic infiltrate , without viral inclusion body , suggestive of an adverse drug reaction . a week later , fulminant drug-induced hepatitis , associate with the presence of anti-nuclear autoantibody ( but not with other marker of autoimmunity ) , and accompany by <target> multi-organ failure </target> and sepsis , supervene .",
+        "D018805\tDisease\tsepsis\tcervical and inguinal lymph node biopsy show the feature of severe necrotising lymphadenitis , associate with erythrophagocytosis and prominent eosinophilic infiltrate , without viral inclusion body , suggestive of an adverse drug reaction . a week later , fulminant drug-induced hepatitis , associate with the presence of anti-nuclear autoantibody ( but not with other marker of autoimmunity ) , and accompany by multi-organ failure and <target> sepsis </target> , supervened .",
+        "D047508\tDisease\tmassive hepatocellular necrosis\tshe subsequently die some 5 week after the commencement of her drug therapy . post-mortem examination show evidence of <target> massive hepatocellular necrosis </target> , acute hypersensitivity myocarditis , focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis , with no evidence of malignancy .",
+        "D009205\tDisease\tmyocarditis\tshe subsequently die some 5 week after the commencement of her drug therapy . post-mortem examination show evidence of massive hepatocellular necrosis , acute hypersensitivity <target> myocarditis </target> , focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis , with no evidence of malignancy .",
+        "D009393\tDisease\tnephritis\tshe subsequently die some 5 week after the commencement of her drug therapy . post-mortem examination show evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo-interstitial <target> nephritis </target> and extensive bone marrow necrosis , with no evidence of malignancy .",
+        "D001855\tDisease\tbone marrow necrosis\tshe subsequently die some 5 week after the commencement of her drug therapy . post-mortem examination show evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo-interstitial nephritis and extensive <target> bone marrow necrosis </target> , with no evidence of malignancy .",
+        "D009369\tDisease\tmalignancy\tshe subsequently die some 5 week after the commencement of her drug therapy . post-mortem examination show evidence of massive hepatocellular necrosis , acute hypersensitivity myocarditis , focal acute tubulo-interstitial nephritis and extensive bone marrow necrosis , with no evidence of <target> malignancy </target> .",
+        "D012460\tChemical\tsulphasalazine\tit be think that the clinico-pathological feature and chronology of this case bear the hallmark of the so-called \" 3-week <target> sulphasalazine </target> syndrome \" , a rare , but often fatal , immunoallergic reaction to sulphasalazine .",
+        "D012460\tChemical\tsulphasalazine\tit be think that the clinico-pathological feature and chronology of this case bear the hallmark of the so-called \" 3-week sulphasalazine syndrome \" , a rare , but often fatal , immunoallergic reaction to <target> sulphasalazine </target> ."
+    ]
+}

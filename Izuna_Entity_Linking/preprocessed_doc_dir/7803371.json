@@ -1,0 +1,149 @@
+{
+    "title": "Cognitive deterioration from long-term abuse of dextromethorphan: a case report.",
+    "abst": "Dextromethorphan (DM), the dextrorotatory isomer of 3-hydroxy-N-methylmorphinan, is the main ingredient in a number of widely available, over-the-counter antitussives. Initial studies (Bornstein 1968) showed that it possessed no respiratory suppressant effects and no addiction liability. Subsequently, however, several articles reporting abuse of this drug have appeared in the literature. The drug is known to cause a variety of acute toxic effects, ranging from nausea, restlessness, insomnia, ataxia, slurred speech and nystagmus to mood changes, perceptual alterations, inattention, disorientation and aggressive behavior (Rammer et al 1988; Katona and Watson 1986; Isbell and Fraser 1953; Devlin et al 1985; McCarthy 1971; Dodds and Revai 1967; Degkwitz 1964; Hildebrand et al 1989). There have also been two reported fatalities from DM overdoses (Fleming 1986). However, there are no reports describing the effects of chronic abuse. This report describes a case of cognitive deterioration resulting from prolonged use of DM.",
+    "title_plus_abst": "Cognitive deterioration from long-term abuse of dextromethorphan: a case report. Dextromethorphan (DM), the dextrorotatory isomer of 3-hydroxy-N-methylmorphinan, is the main ingredient in a number of widely available, over-the-counter antitussives. Initial studies (Bornstein 1968) showed that it possessed no respiratory suppressant effects and no addiction liability. Subsequently, however, several articles reporting abuse of this drug have appeared in the literature. The drug is known to cause a variety of acute toxic effects, ranging from nausea, restlessness, insomnia, ataxia, slurred speech and nystagmus to mood changes, perceptual alterations, inattention, disorientation and aggressive behavior (Rammer et al 1988; Katona and Watson 1986; Isbell and Fraser 1953; Devlin et al 1985; McCarthy 1971; Dodds and Revai 1967; Degkwitz 1964; Hildebrand et al 1989). There have also been two reported fatalities from DM overdoses (Fleming 1986). However, there are no reports describing the effects of chronic abuse. This report describes a case of cognitive deterioration resulting from prolonged use of DM.",
+    "pubmed_id": "7803371",
+    "entities": [
+        [
+            0,
+            23,
+            "Cognitive deterioration",
+            "Disease",
+            "D003072"
+        ],
+        [
+            48,
+            64,
+            "dextromethorphan",
+            "Chemical",
+            "D003915"
+        ],
+        [
+            81,
+            97,
+            "Dextromethorphan",
+            "Chemical",
+            "D003915"
+        ],
+        [
+            99,
+            101,
+            "DM",
+            "Chemical",
+            "D003915"
+        ],
+        [
+            133,
+            160,
+            "3-hydroxy-N-methylmorphinan",
+            "Chemical",
+            "D007981"
+        ],
+        [
+            546,
+            552,
+            "nausea",
+            "Disease",
+            "D009325"
+        ],
+        [
+            554,
+            566,
+            "restlessness",
+            "Disease",
+            "D011595"
+        ],
+        [
+            568,
+            576,
+            "insomnia",
+            "Disease",
+            "D007319"
+        ],
+        [
+            578,
+            584,
+            "ataxia",
+            "Disease",
+            "D001259"
+        ],
+        [
+            605,
+            614,
+            "nystagmus",
+            "Disease",
+            "C564088"
+        ],
+        [
+            688,
+            707,
+            "aggressive behavior",
+            "Disease",
+            "D001523"
+        ],
+        [
+            921,
+            923,
+            "DM",
+            "Chemical",
+            "D003915"
+        ],
+        [
+            1053,
+            1076,
+            "cognitive deterioration",
+            "Disease",
+            "D003072"
+        ],
+        [
+            1109,
+            1111,
+            "DM",
+            "Chemical",
+            "D003915"
+        ]
+    ],
+    "split_sentence": [
+        "Cognitive deterioration from long-term abuse of dextromethorphan: a case report.",
+        "Dextromethorphan (DM), the dextrorotatory isomer of 3-hydroxy-N-methylmorphinan, is the main ingredient in a number of widely available, over-the-counter antitussives.",
+        "Initial studies (Bornstein 1968) showed that it possessed no respiratory suppressant effects and no addiction liability.",
+        "Subsequently, however, several articles reporting abuse of this drug have appeared in the literature.",
+        "The drug is known to cause a variety of acute toxic effects, ranging from nausea, restlessness, insomnia, ataxia, slurred speech and nystagmus to mood changes, perceptual alterations, inattention, disorientation and aggressive behavior (Rammer et al 1988; Katona and Watson 1986; Isbell and Fraser 1953; Devlin et al 1985; McCarthy 1971; Dodds and Revai 1967; Degkwitz 1964; Hildebrand et al 1989).",
+        "There have also been two reported fatalities from DM overdoses (Fleming 1986).",
+        "However, there are no reports describing the effects of chronic abuse.",
+        "This report describes a case of cognitive deterioration resulting from prolonged use of DM."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003072\tDisease\tCognitive deterioration\t<target> Cognitive deterioration </target> from long-term abuse of dextromethorphan : a case report .",
+        "D003915\tChemical\tdextromethorphan\tCognitive deterioration from long-term abuse of <target> dextromethorphan </target> : a case report .",
+        "D003915\tChemical\tDextromethorphan\t<target> Dextromethorphan </target> ( DM ) , the dextrorotatory isomer of 3-hydroxy-N-methylmorphinan , is the main ingredient in a number of widely available , over-the-counter antitussives .",
+        "D003915\tChemical\tDM\tDextromethorphan ( <target> DM </target> ) , the dextrorotatory isomer of 3-hydroxy-N-methylmorphinan , is the main ingredient in a number of widely available , over-the-counter antitussives .",
+        "D007981\tChemical\t3-hydroxy-N-methylmorphinan\tDextromethorphan ( DM ) , the dextrorotatory isomer of <target> 3-hydroxy-N-methylmorphinan </target> , is the main ingredient in a number of widely available , over-the-counter antitussives .",
+        "D009325\tDisease\tnausea\tThe drug is known to cause a variety of acute toxic effects , ranging from <target> nausea </target> , restlessness , insomnia , ataxia , slurred speech and nystagmus to mood changes , perceptual alterations , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D011595\tDisease\trestlessness\tThe drug is known to cause a variety of acute toxic effects , ranging from nausea , <target> restlessness </target> , insomnia , ataxia , slurred speech and nystagmus to mood changes , perceptual alterations , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D007319\tDisease\tinsomnia\tThe drug is known to cause a variety of acute toxic effects , ranging from nausea , restlessness , <target> insomnia </target> , ataxia , slurred speech and nystagmus to mood changes , perceptual alterations , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D001259\tDisease\tataxia\tThe drug is known to cause a variety of acute toxic effects , ranging from nausea , restlessness , insomnia , <target> ataxia </target> , slurred speech and nystagmus to mood changes , perceptual alterations , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "C564088\tDisease\tnystagmus\tThe drug is known to cause a variety of acute toxic effects , ranging from nausea , restlessness , insomnia , ataxia , slurred speech and <target> nystagmus </target> to mood changes , perceptual alterations , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D001523\tDisease\taggressive behavior\tThe drug is known to cause a variety of acute toxic effects , ranging from nausea , restlessness , insomnia , ataxia , slurred speech and nystagmus to mood changes , perceptual alterations , inattention , disorientation and <target> aggressive behavior </target> ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D003915\tChemical\tDM\tThere have also been two reported fatalities from <target> DM </target> overdoses ( Fleming 1986 ) .",
+        "D003072\tDisease\tcognitive deterioration\tThis report describes a case of <target> cognitive deterioration </target> resulting from prolonged use of DM .",
+        "D003915\tChemical\tDM\tThis report describes a case of cognitive deterioration resulting from prolonged use of <target> DM </target> ."
+    ],
+    "lines_lemma": [
+        "D003072\tDisease\tCognitive deterioration\t<target> cognitive deterioration </target> from long-term abuse of dextromethorphan : a case report .",
+        "D003915\tChemical\tdextromethorphan\tcognitive deterioration from long-term abuse of <target> dextromethorphan </target> : a case report .",
+        "D003915\tChemical\tDextromethorphan\t<target> Dextromethorphan </target> ( dm ) , the dextrorotatory isomer of 3-hydroxy-n-methylmorphinan , be the main ingredient in a number of widely available , over-the-counter antitussive .",
+        "D003915\tChemical\tDM\tDextromethorphan ( <target> dm </target> ) , the dextrorotatory isomer of 3-hydroxy-n-methylmorphinan , be the main ingredient in a number of widely available , over-the-counter antitussive .",
+        "D007981\tChemical\t3-hydroxy-N-methylmorphinan\tDextromethorphan ( dm ) , the dextrorotatory isomer of <target> 3-hydroxy-n-methylmorphinan </target> , be the main ingredient in a number of widely available , over-the-counter antitussive .",
+        "D009325\tDisease\tnausea\tthe drug be know to cause a variety of acute toxic effect , range from <target> nausea </target> , restlessness , insomnia , ataxia , slur speech and nystagmus to mood change , perceptual alteration , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D011595\tDisease\trestlessness\tthe drug be know to cause a variety of acute toxic effect , range from nausea , <target> restlessness </target> , insomnia , ataxia , slur speech and nystagmus to mood change , perceptual alteration , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D007319\tDisease\tinsomnia\tthe drug be know to cause a variety of acute toxic effect , range from nausea , restlessness , <target> insomnia </target> , ataxia , slur speech and nystagmus to mood change , perceptual alteration , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D001259\tDisease\tataxia\tthe drug be know to cause a variety of acute toxic effect , range from nausea , restlessness , insomnia , <target> ataxia </target> , slur speech and nystagmus to mood change , perceptual alteration , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "C564088\tDisease\tnystagmus\tthe drug be know to cause a variety of acute toxic effect , range from nausea , restlessness , insomnia , ataxia , slur speech and <target> nystagmus </target> to mood change , perceptual alteration , inattention , disorientation and aggressive behavior ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D001523\tDisease\taggressive behavior\tthe drug be know to cause a variety of acute toxic effect , range from nausea , restlessness , insomnia , ataxia , slur speech and nystagmus to mood change , perceptual alteration , inattention , disorientation and <target> aggressive behavior </target> ( Rammer et al 1988 ; Katona and Watson 1986 ; Isbell and Fraser 1953 ; Devlin et al 1985 ; McCarthy 1971 ; Dodds and Revai 1967 ; Degkwitz 1964 ; Hildebrand et al 1989 ) .",
+        "D003915\tChemical\tDM\tthere have also be two report fatality from <target> dm </target> overdose ( fleming 1986 ) .",
+        "D003072\tDisease\tcognitive deterioration\tthis report describe a case of <target> cognitive deterioration </target> result from prolonged use of dm .",
+        "D003915\tChemical\tDM\tthis report describe a case of cognitive deterioration result from prolonged use of <target> dm </target> ."
+    ]
+}

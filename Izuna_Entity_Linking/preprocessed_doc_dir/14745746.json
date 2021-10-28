@@ -1,0 +1,87 @@
+{
+    "title": "Does hormone therapy for the treatment of breast cancer have a detrimental effect on memory and cognition? A pilot study.",
+    "abst": "This pilot study examines whether hormone therapy for breast cancer affects cognition. Patients participating in a randomised trial of anastrozole, tamoxifen alone or combined (ATAC) (n=94) and a group of women without breast cancer (n=35) completed a battery of neuropsychological measures. Compared with the control group, the patients were impaired on a processing speed task (p=0.032) and on a measure of immediate verbal memory (p=0.026) after controlling for the use of hormone replacement therapy in both groups. Patient group performance was not significantly related to length of treatment or measures of psychological morbidity. The results showed specific impairments in processing speed and verbal memory in women receiving hormonal therapy for the treatment of breast cancer. Verbal memory may be especially sensitive to changes in oestrogen levels, a finding commonly reported in studies of hormone replacement therapy in healthy women. In view of the increased use of hormone therapies in an adjuvant and preventative setting their impact on cognitive functioning should be investigated more thoroughly.",
+    "title_plus_abst": "Does hormone therapy for the treatment of breast cancer have a detrimental effect on memory and cognition? A pilot study. This pilot study examines whether hormone therapy for breast cancer affects cognition. Patients participating in a randomised trial of anastrozole, tamoxifen alone or combined (ATAC) (n=94) and a group of women without breast cancer (n=35) completed a battery of neuropsychological measures. Compared with the control group, the patients were impaired on a processing speed task (p=0.032) and on a measure of immediate verbal memory (p=0.026) after controlling for the use of hormone replacement therapy in both groups. Patient group performance was not significantly related to length of treatment or measures of psychological morbidity. The results showed specific impairments in processing speed and verbal memory in women receiving hormonal therapy for the treatment of breast cancer. Verbal memory may be especially sensitive to changes in oestrogen levels, a finding commonly reported in studies of hormone replacement therapy in healthy women. In view of the increased use of hormone therapies in an adjuvant and preventative setting their impact on cognitive functioning should be investigated more thoroughly.",
+    "pubmed_id": "14745746",
+    "entities": [
+        [
+            42,
+            55,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            176,
+            189,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            257,
+            268,
+            "anastrozole",
+            "Chemical",
+            "C090450"
+        ],
+        [
+            270,
+            279,
+            "tamoxifen",
+            "Chemical",
+            "D013629"
+        ],
+        [
+            341,
+            354,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            896,
+            909,
+            "breast cancer",
+            "Disease",
+            "D001943"
+        ],
+        [
+            967,
+            976,
+            "oestrogen",
+            "Chemical",
+            "D004967"
+        ]
+    ],
+    "split_sentence": [
+        "Does hormone therapy for the treatment of breast cancer have a detrimental effect on memory and cognition?",
+        "A pilot study.",
+        "This pilot study examines whether hormone therapy for breast cancer affects cognition.",
+        "Patients participating in a randomised trial of anastrozole, tamoxifen alone or combined (ATAC) (n=94) and a group of women without breast cancer (n=35) completed a battery of neuropsychological measures.",
+        "Compared with the control group, the patients were impaired on a processing speed task (p=0.032) and on a measure of immediate verbal memory (p=0.026) after controlling for the use of hormone replacement therapy in both groups.",
+        "Patient group performance was not significantly related to length of treatment or measures of psychological morbidity.",
+        "The results showed specific impairments in processing speed and verbal memory in women receiving hormonal therapy for the treatment of breast cancer.",
+        "Verbal memory may be especially sensitive to changes in oestrogen levels, a finding commonly reported in studies of hormone replacement therapy in healthy women.",
+        "In view of the increased use of hormone therapies in an adjuvant and preventative setting their impact on cognitive functioning should be investigated more thoroughly."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001943\tDisease\tbreast cancer\tDoes hormone therapy for the treatment of <target> breast cancer </target> have a detrimental effect on memory and cognition ?",
+        "D001943\tDisease\tbreast cancer\tThis pilot study examines whether hormone therapy for <target> breast cancer </target> affects cognition .",
+        "C090450\tChemical\tanastrozole\tPatients participating in a randomised trial of <target> anastrozole </target> , tamoxifen alone or combined ( ATAC ) ( n=94 ) and a group of women without breast cancer ( n=35 ) completed a battery of neuropsychological measures .",
+        "D013629\tChemical\ttamoxifen\tPatients participating in a randomised trial of anastrozole , <target> tamoxifen </target> alone or combined ( ATAC ) ( n=94 ) and a group of women without breast cancer ( n=35 ) completed a battery of neuropsychological measures .",
+        "D001943\tDisease\tbreast cancer\tPatients participating in a randomised trial of anastrozole , tamoxifen alone or combined ( ATAC ) ( n=94 ) and a group of women without <target> breast cancer </target> ( n=35 ) completed a battery of neuropsychological measures .",
+        "D001943\tDisease\tbreast cancer\tThe results showed specific impairments in processing speed and verbal memory in women receiving hormonal therapy for the treatment of <target> breast cancer </target> .",
+        "D004967\tChemical\toestrogen\tVerbal memory may be especially sensitive to changes in <target> oestrogen </target> levels , a finding commonly reported in studies of hormone replacement therapy in healthy women ."
+    ],
+    "lines_lemma": [
+        "D001943\tDisease\tbreast cancer\tdo hormone therapy for the treatment of <target> breast cancer </target> have a detrimental effect on memory and cognition ?",
+        "D001943\tDisease\tbreast cancer\tthis pilot study examine whether hormone therapy for <target> breast cancer </target> affect cognition .",
+        "C090450\tChemical\tanastrozole\tpatient participate in a randomised trial of <target> anastrozole </target> , tamoxifen alone or combined ( atac ) ( n=94 ) and a group of woman without breast cancer ( n=35 ) complete a battery of neuropsychological measure .",
+        "D013629\tChemical\ttamoxifen\tpatient participate in a randomised trial of anastrozole , <target> tamoxifen </target> alone or combined ( atac ) ( n=94 ) and a group of woman without breast cancer ( n=35 ) complete a battery of neuropsychological measure .",
+        "D001943\tDisease\tbreast cancer\tpatient participate in a randomised trial of anastrozole , tamoxifen alone or combined ( atac ) ( n=94 ) and a group of woman without <target> breast cancer </target> ( n=35 ) complete a battery of neuropsychological measure .",
+        "D001943\tDisease\tbreast cancer\tthe result show specific impairment in process speed and verbal memory in woman receive hormonal therapy for the treatment of <target> breast cancer </target> .",
+        "D004967\tChemical\toestrogen\tverbal memory may be especially sensitive to change in <target> oestrogen </target> level , a finding commonly report in study of hormone replacement therapy in healthy woman ."
+    ]
+}

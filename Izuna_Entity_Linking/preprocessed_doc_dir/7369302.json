@@ -1,0 +1,100 @@
+{
+    "title": "Abnormalities of the pupil and visual-evoked potential in quinine amblyopia.",
+    "abst": "Total blindness with a transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials developed in a 54-year-old man after the use of quinine sulfate for leg cramps. He later recovered normal visual acuity. A transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials in quinine toxicity, to our knowledge, have not been previously reported.",
+    "title_plus_abst": "Abnormalities of the pupil and visual-evoked potential in quinine amblyopia. Total blindness with a transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials developed in a 54-year-old man after the use of quinine sulfate for leg cramps. He later recovered normal visual acuity. A transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials in quinine toxicity, to our knowledge, have not been previously reported.",
+    "pubmed_id": "7369302",
+    "entities": [
+        [
+            58,
+            65,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            66,
+            75,
+            "amblyopia",
+            "Disease",
+            "D000550"
+        ],
+        [
+            83,
+            92,
+            "blindness",
+            "Disease",
+            "D001766"
+        ],
+        [
+            110,
+            125,
+            "tonic pupillary",
+            "Disease",
+            "D015845"
+        ],
+        [
+            252,
+            267,
+            "quinine sulfate",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            272,
+            282,
+            "leg cramps",
+            "Disease",
+            "D009120"
+        ],
+        [
+            337,
+            352,
+            "tonic pupillary",
+            "Disease",
+            "D015845"
+        ],
+        [
+            434,
+            441,
+            "quinine",
+            "Chemical",
+            "D011803"
+        ],
+        [
+            442,
+            450,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Abnormalities of the pupil and visual-evoked potential in quinine amblyopia.",
+        "Total blindness with a transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials developed in a 54-year-old man after the use of quinine sulfate for leg cramps.",
+        "He later recovered normal visual acuity.",
+        "A transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials in quinine toxicity, to our knowledge, have not been previously reported."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011803\tChemical\tquinine\tAbnormalities of the pupil and visual-evoked potential in <target> quinine </target> amblyopia .",
+        "D000550\tDisease\tamblyopia\tAbnormalities of the pupil and visual-evoked potential in quinine <target> amblyopia </target> .",
+        "D001766\tDisease\tblindness\tTotal <target> blindness </target> with a transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potentials developed in a 54-year-old man after the use of quinine sulfate for leg cramps .",
+        "D015845\tDisease\ttonic pupillary\tTotal blindness with a transient <target> tonic pupillary </target> response , denervation supersensitivity , and abnormal visual-evoked potentials developed in a 54-year-old man after the use of quinine sulfate for leg cramps .",
+        "D011803\tChemical\tquinine sulfate\tTotal blindness with a transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potentials developed in a 54-year-old man after the use of <target> quinine sulfate </target> for leg cramps .",
+        "D009120\tDisease\tleg cramps\tTotal blindness with a transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potentials developed in a 54-year-old man after the use of quinine sulfate for <target> leg cramps </target> .",
+        "D015845\tDisease\ttonic pupillary\tA transient <target> tonic pupillary </target> response , denervation supersensitivity , and abnormal visual-evoked potentials in quinine toxicity , to our knowledge , have not been previously reported .",
+        "D011803\tChemical\tquinine\tA transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potentials in <target> quinine </target> toxicity , to our knowledge , have not been previously reported .",
+        "D064420\tDisease\ttoxicity\tA transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potentials in quinine <target> toxicity </target> , to our knowledge , have not been previously reported ."
+    ],
+    "lines_lemma": [
+        "D011803\tChemical\tquinine\tabnormality of the pupil and visual-evoked potential in <target> quinine </target> amblyopia .",
+        "D000550\tDisease\tamblyopia\tabnormality of the pupil and visual-evoked potential in quinine <target> amblyopia </target> .",
+        "D001766\tDisease\tblindness\ttotal <target> blindness </target> with a transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potential develop in a 54-year-old man after the use of quinine sulfate for leg cramp .",
+        "D015845\tDisease\ttonic pupillary\ttotal blindness with a transient <target> tonic pupillary </target> response , denervation supersensitivity , and abnormal visual-evoked potential develop in a 54-year-old man after the use of quinine sulfate for leg cramp .",
+        "D011803\tChemical\tquinine sulfate\ttotal blindness with a transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potential develop in a 54-year-old man after the use of <target> quinine sulfate </target> for leg cramp .",
+        "D009120\tDisease\tleg cramps\ttotal blindness with a transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potential develop in a 54-year-old man after the use of quinine sulfate for <target> leg cramp </target> .",
+        "D015845\tDisease\ttonic pupillary\ta transient <target> tonic pupillary </target> response , denervation supersensitivity , and abnormal visual-evoked potential in quinine toxicity , to our knowledge , have not be previously report .",
+        "D011803\tChemical\tquinine\ta transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potential in <target> quinine </target> toxicity , to our knowledge , have not be previously report .",
+        "D064420\tDisease\ttoxicity\ta transient tonic pupillary response , denervation supersensitivity , and abnormal visual-evoked potential in quinine <target> toxicity </target> , to our knowledge , have not be previously report ."
+    ]
+}

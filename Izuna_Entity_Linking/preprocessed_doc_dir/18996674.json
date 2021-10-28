@@ -1,0 +1,82 @@
+{
+    "title": "Intracavernous epinephrine: a minimally invasive treatment for priapism in the emergency department.",
+    "abst": "Priapism is the prolonged erection of the penis in the absence of sexual arousal. A 45-year-old man, an admitted frequent cocaine user, presented to the Emergency Department (ED) on two separate occasions with a history of priapism after cocaine use. The management options in the ED, as exemplified by four individual case reports, in particular the use of a minimally invasive method of intracorporal epinephrine instillation, are discussed.",
+    "title_plus_abst": "Intracavernous epinephrine: a minimally invasive treatment for priapism in the emergency department. Priapism is the prolonged erection of the penis in the absence of sexual arousal. A 45-year-old man, an admitted frequent cocaine user, presented to the Emergency Department (ED) on two separate occasions with a history of priapism after cocaine use. The management options in the ED, as exemplified by four individual case reports, in particular the use of a minimally invasive method of intracorporal epinephrine instillation, are discussed.",
+    "pubmed_id": "18996674",
+    "entities": [
+        [
+            15,
+            26,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ],
+        [
+            63,
+            71,
+            "priapism",
+            "Disease",
+            "D011317"
+        ],
+        [
+            101,
+            109,
+            "Priapism",
+            "Disease",
+            "D011317"
+        ],
+        [
+            223,
+            230,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            324,
+            332,
+            "priapism",
+            "Disease",
+            "D011317"
+        ],
+        [
+            339,
+            346,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            504,
+            515,
+            "epinephrine",
+            "Chemical",
+            "D004837"
+        ]
+    ],
+    "split_sentence": [
+        "Intracavernous epinephrine: a minimally invasive treatment for priapism in the emergency department.",
+        "Priapism is the prolonged erection of the penis in the absence of sexual arousal.",
+        "A 45-year-old man, an admitted frequent cocaine user, presented to the Emergency Department (ED) on two separate occasions with a history of priapism after cocaine use.",
+        "The management options in the ED, as exemplified by four individual case reports, in particular the use of a minimally invasive method of intracorporal epinephrine instillation, are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004837\tChemical\tepinephrine\tIntracavernous <target> epinephrine </target> : a minimally invasive treatment for priapism in the emergency department .",
+        "D011317\tDisease\tpriapism\tIntracavernous epinephrine : a minimally invasive treatment for <target> priapism </target> in the emergency department .",
+        "D011317\tDisease\tPriapism\t<target> Priapism </target> is the prolonged erection of the penis in the absence of sexual arousal .",
+        "D003042\tChemical\tcocaine\tA 45-year-old man , an admitted frequent <target> cocaine </target> user , presented to the Emergency Department ( ED ) on two separate occasions with a history of priapism after cocaine use .",
+        "D011317\tDisease\tpriapism\tA 45-year-old man , an admitted frequent cocaine user , presented to the Emergency Department ( ED ) on two separate occasions with a history of <target> priapism </target> after cocaine use .",
+        "D003042\tChemical\tcocaine\tA 45-year-old man , an admitted frequent cocaine user , presented to the Emergency Department ( ED ) on two separate occasions with a history of priapism after <target> cocaine </target> use .",
+        "D004837\tChemical\tepinephrine\tThe management options in the ED , as exemplified by four individual case reports , in particular the use of a minimally invasive method of intracorporal <target> epinephrine </target> instillation , are discussed ."
+    ],
+    "lines_lemma": [
+        "D004837\tChemical\tepinephrine\tintracavernous <target> epinephrine </target> : a minimally invasive treatment for priapism in the emergency department .",
+        "D011317\tDisease\tpriapism\tintracavernous epinephrine : a minimally invasive treatment for <target> priapism </target> in the emergency department .",
+        "D011317\tDisease\tPriapism\t<target> Priapism </target> be the prolonged erection of the penis in the absence of sexual arousal .",
+        "D003042\tChemical\tcocaine\ta 45-year-old man , an admit frequent <target> cocaine </target> user , present to the Emergency Department ( ed ) on two separate occasion with a history of priapism after cocaine use .",
+        "D011317\tDisease\tpriapism\ta 45-year-old man , an admit frequent cocaine user , present to the Emergency Department ( ed ) on two separate occasion with a history of <target> priapism </target> after cocaine use .",
+        "D003042\tChemical\tcocaine\ta 45-year-old man , an admit frequent cocaine user , present to the Emergency Department ( ed ) on two separate occasion with a history of priapism after <target> cocaine </target> use .",
+        "D004837\tChemical\tepinephrine\tthe management option in the ed , as exemplify by four individual case report , in particular the use of a minimally invasive method of intracorporal <target> epinephrine </target> instillation , be discuss ."
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Prevalence of heart disease in asymptomatic chronic cocaine users.",
+    "abst": "To determine the prevalence of heart disease in outpatient young asymptomatic chronic cocaine users, 35 cocaine users and 32 age-matched controls underwent resting and exercise electrocardiography (ECG) and Doppler echocardiography. Findings consistent with coronary artery disease were detected in 12 (34%) patients and 3 (9%) controls (p = 0.01). Decreased left ventricular systolic function was demonstrated in 5 (14%) patients, but in none of the controls (p = 0.055). Finally, resting and peak exercise abnormal left ventricular filling was detected in 38 and 35% of patients as compared to 19 and 9% of controls, respectively (p = 0.11 and 0.02, respectively). We conclude that coronary artery or myocardial disease is common (38%) in young asymptomatic chronic cocaine users. Therefore, screening ECG and echocardiography may be warranted in these patients.",
+    "title_plus_abst": "Prevalence of heart disease in asymptomatic chronic cocaine users. To determine the prevalence of heart disease in outpatient young asymptomatic chronic cocaine users, 35 cocaine users and 32 age-matched controls underwent resting and exercise electrocardiography (ECG) and Doppler echocardiography. Findings consistent with coronary artery disease were detected in 12 (34%) patients and 3 (9%) controls (p = 0.01). Decreased left ventricular systolic function was demonstrated in 5 (14%) patients, but in none of the controls (p = 0.055). Finally, resting and peak exercise abnormal left ventricular filling was detected in 38 and 35% of patients as compared to 19 and 9% of controls, respectively (p = 0.11 and 0.02, respectively). We conclude that coronary artery or myocardial disease is common (38%) in young asymptomatic chronic cocaine users. Therefore, screening ECG and echocardiography may be warranted in these patients.",
+    "pubmed_id": "11385188",
+    "entities": [
+        [
+            14,
+            27,
+            "heart disease",
+            "Disease",
+            "D006331"
+        ],
+        [
+            52,
+            59,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            98,
+            111,
+            "heart disease",
+            "Disease",
+            "D006331"
+        ],
+        [
+            153,
+            160,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            171,
+            178,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ],
+        [
+            325,
+            348,
+            "coronary artery disease",
+            "Disease",
+            "D003324"
+        ],
+        [
+            575,
+            608,
+            "abnormal left ventricular filling",
+            "Disease",
+            "D018487"
+        ],
+        [
+            835,
+            842,
+            "cocaine",
+            "Chemical",
+            "D003042"
+        ]
+    ],
+    "split_sentence": [
+        "Prevalence of heart disease in asymptomatic chronic cocaine users.",
+        "To determine the prevalence of heart disease in outpatient young asymptomatic chronic cocaine users, 35 cocaine users and 32 age-matched controls underwent resting and exercise electrocardiography (ECG) and Doppler echocardiography.",
+        "Findings consistent with coronary artery disease were detected in 12 (34%) patients and 3 (9%) controls (p = 0.01).",
+        "Decreased left ventricular systolic function was demonstrated in 5 (14%) patients, but in none of the controls (p = 0.055).",
+        "Finally, resting and peak exercise abnormal left ventricular filling was detected in 38 and 35% of patients as compared to 19 and 9% of controls, respectively (p = 0.11 and 0.02, respectively).",
+        "We conclude that coronary artery or myocardial disease is common (38%) in young asymptomatic chronic cocaine users.",
+        "Therefore, screening ECG and echocardiography may be warranted in these patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006331\tDisease\theart disease\tPrevalence of <target> heart disease </target> in asymptomatic chronic cocaine users .",
+        "D003042\tChemical\tcocaine\tPrevalence of heart disease in asymptomatic chronic <target> cocaine </target> users .",
+        "D006331\tDisease\theart disease\tTo determine the prevalence of <target> heart disease </target> in outpatient young asymptomatic chronic cocaine users , 35 cocaine users and 32 age-matched controls underwent resting and exercise electrocardiography ( ECG ) and Doppler echocardiography .",
+        "D003042\tChemical\tcocaine\tTo determine the prevalence of heart disease in outpatient young asymptomatic chronic <target> cocaine </target> users , 35 cocaine users and 32 age-matched controls underwent resting and exercise electrocardiography ( ECG ) and Doppler echocardiography .",
+        "D003042\tChemical\tcocaine\tTo determine the prevalence of heart disease in outpatient young asymptomatic chronic cocaine users , 35 <target> cocaine </target> users and 32 age-matched controls underwent resting and exercise electrocardiography ( ECG ) and Doppler echocardiography .",
+        "D003324\tDisease\tcoronary artery disease\tFindings consistent with <target> coronary artery disease </target> were detected in 12 ( 34 % ) patients and 3 ( 9 % ) controls ( p = 0.01 ) .",
+        "D018487\tDisease\tabnormal left ventricular filling\tFinally , resting and peak exercise <target> abnormal left ventricular filling </target> was detected in 38 and 35 % of patients as compared to 19 and 9 % of controls , respectively ( p = 0.11 and 0.02 , respectively ) .",
+        "D003042\tChemical\tcocaine\tWe conclude that coronary artery or myocardial disease is common ( 38 % ) in young asymptomatic chronic <target> cocaine </target> users ."
+    ],
+    "lines_lemma": [
+        "D006331\tDisease\theart disease\tprevalence of <target> heart disease </target> in asymptomatic chronic cocaine user .",
+        "D003042\tChemical\tcocaine\tprevalence of heart disease in asymptomatic chronic <target> cocaine </target> user .",
+        "D006331\tDisease\theart disease\tto determine the prevalence of <target> heart disease </target> in outpatient young asymptomatic chronic cocaine user , 35 cocaine user and 32 age-matched control undergo rest and exercise electrocardiography ( ecg ) and Doppler echocardiography .",
+        "D003042\tChemical\tcocaine\tto determine the prevalence of heart disease in outpatient young asymptomatic chronic <target> cocaine </target> user , 35 cocaine user and 32 age-matched control undergo rest and exercise electrocardiography ( ecg ) and Doppler echocardiography .",
+        "D003042\tChemical\tcocaine\tto determine the prevalence of heart disease in outpatient young asymptomatic chronic cocaine user , 35 <target> cocaine </target> user and 32 age-matched control undergo rest and exercise electrocardiography ( ecg ) and Doppler echocardiography .",
+        "D003324\tDisease\tcoronary artery disease\tfinding consistent with <target> coronary artery disease </target> be detect in 12 ( 34 % ) patient and 3 ( 9 % ) control ( p = 0.01 ) .",
+        "D018487\tDisease\tabnormal left ventricular filling\tfinally , resting and peak exercise <target> abnormal leave ventricular fill </target> be detect in 38 and 35 % of patient as compare to 19 and 9 % of control , respectively ( p = 0.11 and 0.02 , respectively ) .",
+        "D003042\tChemical\tcocaine\twe conclude that coronary artery or myocardial disease be common ( 38 % ) in young asymptomatic chronic <target> cocaine </target> user ."
+    ]
+}

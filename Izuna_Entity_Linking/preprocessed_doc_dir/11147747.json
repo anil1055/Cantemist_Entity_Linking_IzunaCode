@@ -1,0 +1,158 @@
+{
+    "title": "Serotonergic antidepressants and urinary incontinence.",
+    "abst": "Many new serotonergic antidepressants have been introduced over the past decade. Although urinary incontinence is listed as one side effect of these drugs in their package inserts there is only one report in the literature. This concerns 2 male patients who experienced incontinence while taking venlafaxine. In the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline, as well as a third who developed this side effect on venlafaxine. In 2 of the 3 cases the patients were also taking lithium carbonate and beta-blockers, both of which could have contributed to the incontinence. Animal studies suggest that incontinence secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder. Further research is needed to delineate the frequency of this troubling side effect and how best to treat it.",
+    "title_plus_abst": "Serotonergic antidepressants and urinary incontinence. Many new serotonergic antidepressants have been introduced over the past decade. Although urinary incontinence is listed as one side effect of these drugs in their package inserts there is only one report in the literature. This concerns 2 male patients who experienced incontinence while taking venlafaxine. In the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline, as well as a third who developed this side effect on venlafaxine. In 2 of the 3 cases the patients were also taking lithium carbonate and beta-blockers, both of which could have contributed to the incontinence. Animal studies suggest that incontinence secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder. Further research is needed to delineate the frequency of this troubling side effect and how best to treat it.",
+    "pubmed_id": "11147747",
+    "entities": [
+        [
+            0,
+            28,
+            "Serotonergic antidepressants",
+            "Chemical",
+            "D018490"
+        ],
+        [
+            33,
+            53,
+            "urinary incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            64,
+            92,
+            "serotonergic antidepressants",
+            "Chemical",
+            "D018490"
+        ],
+        [
+            145,
+            165,
+            "urinary incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            325,
+            337,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            351,
+            362,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            438,
+            450,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            478,
+            487,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            508,
+            518,
+            "paroxetine",
+            "Chemical",
+            "D017374"
+        ],
+        [
+            523,
+            533,
+            "sertraline",
+            "Chemical",
+            "D020280"
+        ],
+        [
+            588,
+            599,
+            "venlafaxine",
+            "Chemical",
+            "C047426"
+        ],
+        [
+            651,
+            668,
+            "lithium carbonate",
+            "Chemical",
+            "D016651"
+        ],
+        [
+            732,
+            744,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            774,
+            786,
+            "incontinence",
+            "Disease",
+            "D014549"
+        ],
+        [
+            800,
+            828,
+            "serotonergic antidepressants",
+            "Chemical",
+            "D018490"
+        ]
+    ],
+    "split_sentence": [
+        "Serotonergic antidepressants and urinary incontinence.",
+        "Many new serotonergic antidepressants have been introduced over the past decade.",
+        "Although urinary incontinence is listed as one side effect of these drugs in their package inserts there is only one report in the literature.",
+        "This concerns 2 male patients who experienced incontinence while taking venlafaxine.",
+        "In the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline, as well as a third who developed this side effect on venlafaxine.",
+        "In 2 of the 3 cases the patients were also taking lithium carbonate and beta-blockers, both of which could have contributed to the incontinence.",
+        "Animal studies suggest that incontinence secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder.",
+        "Further research is needed to delineate the frequency of this troubling side effect and how best to treat it."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D018490\tChemical\tSerotonergic antidepressants\t<target> Serotonergic antidepressants </target> and urinary incontinence .",
+        "D014549\tDisease\turinary incontinence\tSerotonergic antidepressants and <target> urinary incontinence </target> .",
+        "D018490\tChemical\tserotonergic antidepressants\tMany new <target> serotonergic antidepressants </target> have been introduced over the past decade .",
+        "D014549\tDisease\turinary incontinence\tAlthough <target> urinary incontinence </target> is listed as one side effect of these drugs in their package inserts there is only one report in the literature .",
+        "D014549\tDisease\tincontinence\tThis concerns 2 male patients who experienced <target> incontinence </target> while taking venlafaxine .",
+        "C047426\tChemical\tvenlafaxine\tThis concerns 2 male patients who experienced incontinence while taking <target> venlafaxine </target> .",
+        "D014549\tDisease\tincontinence\tIn the present paper the authors describe 2 female patients who developed <target> incontinence </target> secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline , as well as a third who developed this side effect on venlafaxine .",
+        "D012701\tChemical\tserotonin\tIn the present paper the authors describe 2 female patients who developed incontinence secondary to the selective <target> serotonin </target> reuptake inhibitors paroxetine and sertraline , as well as a third who developed this side effect on venlafaxine .",
+        "D017374\tChemical\tparoxetine\tIn the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors <target> paroxetine </target> and sertraline , as well as a third who developed this side effect on venlafaxine .",
+        "D020280\tChemical\tsertraline\tIn the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and <target> sertraline </target> , as well as a third who developed this side effect on venlafaxine .",
+        "C047426\tChemical\tvenlafaxine\tIn the present paper the authors describe 2 female patients who developed incontinence secondary to the selective serotonin reuptake inhibitors paroxetine and sertraline , as well as a third who developed this side effect on <target> venlafaxine </target> .",
+        "D016651\tChemical\tlithium carbonate\tIn 2 of the 3 cases the patients were also taking <target> lithium carbonate </target> and beta-blockers , both of which could have contributed to the incontinence .",
+        "D014549\tDisease\tincontinence\tIn 2 of the 3 cases the patients were also taking lithium carbonate and beta-blockers , both of which could have contributed to the <target> incontinence </target> .",
+        "D014549\tDisease\tincontinence\tAnimal studies suggest that <target> incontinence </target> secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder .",
+        "D018490\tChemical\tserotonergic antidepressants\tAnimal studies suggest that incontinence secondary to <target> serotonergic antidepressants </target> could be mediated by the 5HT4 receptors found on the bladder ."
+    ],
+    "lines_lemma": [
+        "D018490\tChemical\tSerotonergic antidepressants\t<target> Serotonergic antidepressant </target> and urinary incontinence .",
+        "D014549\tDisease\turinary incontinence\tserotonergic antidepressant and <target> urinary incontinence </target> .",
+        "D018490\tChemical\tserotonergic antidepressants\tmany new <target> serotonergic antidepressant </target> have be introduce over the past decade .",
+        "D014549\tDisease\turinary incontinence\talthough <target> urinary incontinence </target> be list as one side effect of these drug in their package insert there be only one report in the literature .",
+        "D014549\tDisease\tincontinence\tthis concern 2 male patient who experience <target> incontinence </target> while take venlafaxine .",
+        "C047426\tChemical\tvenlafaxine\tthis concern 2 male patient who experience incontinence while take <target> venlafaxine </target> .",
+        "D014549\tDisease\tincontinence\tin the present paper the author describe 2 female patient who develop <target> incontinence </target> secondary to the selective serotonin reuptake inhibitor paroxetine and sertraline , as well as a third who develop this side effect on venlafaxine .",
+        "D012701\tChemical\tserotonin\tin the present paper the author describe 2 female patient who develop incontinence secondary to the selective <target> serotonin </target> reuptake inhibitor paroxetine and sertraline , as well as a third who develop this side effect on venlafaxine .",
+        "D017374\tChemical\tparoxetine\tin the present paper the author describe 2 female patient who develop incontinence secondary to the selective serotonin reuptake inhibitor <target> paroxetine </target> and sertraline , as well as a third who develop this side effect on venlafaxine .",
+        "D020280\tChemical\tsertraline\tin the present paper the author describe 2 female patient who develop incontinence secondary to the selective serotonin reuptake inhibitor paroxetine and <target> sertraline </target> , as well as a third who develop this side effect on venlafaxine .",
+        "C047426\tChemical\tvenlafaxine\tin the present paper the author describe 2 female patient who develop incontinence secondary to the selective serotonin reuptake inhibitor paroxetine and sertraline , as well as a third who develop this side effect on <target> venlafaxine </target> .",
+        "D016651\tChemical\tlithium carbonate\tin 2 of the 3 case the patient be also take <target> lithium carbonate </target> and beta-blocker , both of which could have contribute to the incontinence .",
+        "D014549\tDisease\tincontinence\tin 2 of the 3 case the patient be also take lithium carbonate and beta-blocker , both of which could have contribute to the <target> incontinence </target> .",
+        "D014549\tDisease\tincontinence\tanimal study suggest that <target> incontinence </target> secondary to serotonergic antidepressant could be mediate by the 5ht4 receptor find on the bladder .",
+        "D018490\tChemical\tserotonergic antidepressants\tanimal study suggest that incontinence secondary to <target> serotonergic antidepressant </target> could be mediate by the 5ht4 receptor find on the bladder ."
+    ]
+}

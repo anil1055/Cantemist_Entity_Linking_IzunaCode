@@ -1,0 +1,91 @@
+{
+    "title": "Fatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin.",
+    "abst": "We report a case of fatal internal haemorrhage in an elderly man who consumed only cranberry juice for two weeks while maintaining his usual dosage of warfarin. We propose that naturally occurring compounds such as flavonoids, which are present in fruit juices, may increase the potency of warfarin by competing for the enzymes that normally inactivate warfarin. While traditionally regarded as foodstuffs, consumption of fruit juices should be considered when patients develop adverse drug reactions.",
+    "title_plus_abst": "Fatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin. We report a case of fatal internal haemorrhage in an elderly man who consumed only cranberry juice for two weeks while maintaining his usual dosage of warfarin. We propose that naturally occurring compounds such as flavonoids, which are present in fruit juices, may increase the potency of warfarin by competing for the enzymes that normally inactivate warfarin. While traditionally regarded as foodstuffs, consumption of fruit juices should be considered when patients develop adverse drug reactions.",
+    "pubmed_id": "19058474",
+    "entities": [
+        [
+            6,
+            22,
+            "haemopericardium",
+            "Disease",
+            "D010490"
+        ],
+        [
+            27,
+            55,
+            "gastrointestinal haemorrhage",
+            "Disease",
+            "D006471"
+        ],
+        [
+            108,
+            116,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            153,
+            164,
+            "haemorrhage",
+            "Disease",
+            "D006470"
+        ],
+        [
+            269,
+            277,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            333,
+            343,
+            "flavonoids",
+            "Chemical",
+            "D005419"
+        ],
+        [
+            408,
+            416,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ],
+        [
+            471,
+            479,
+            "warfarin",
+            "Chemical",
+            "D014859"
+        ]
+    ],
+    "split_sentence": [
+        "Fatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin.",
+        "We report a case of fatal internal haemorrhage in an elderly man who consumed only cranberry juice for two weeks while maintaining his usual dosage of warfarin.",
+        "We propose that naturally occurring compounds such as flavonoids, which are present in fruit juices, may increase the potency of warfarin by competing for the enzymes that normally inactivate warfarin.",
+        "While traditionally regarded as foodstuffs, consumption of fruit juices should be considered when patients develop adverse drug reactions."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010490\tDisease\thaemopericardium\tFatal <target> haemopericardium </target> and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin .",
+        "D006471\tDisease\tgastrointestinal haemorrhage\tFatal haemopericardium and <target> gastrointestinal haemorrhage </target> due to possible interaction of cranberry juice with warfarin .",
+        "D014859\tChemical\twarfarin\tFatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with <target> warfarin </target> .",
+        "D006470\tDisease\thaemorrhage\tWe report a case of fatal internal <target> haemorrhage </target> in an elderly man who consumed only cranberry juice for two weeks while maintaining his usual dosage of warfarin .",
+        "D014859\tChemical\twarfarin\tWe report a case of fatal internal haemorrhage in an elderly man who consumed only cranberry juice for two weeks while maintaining his usual dosage of <target> warfarin </target> .",
+        "D005419\tChemical\tflavonoids\tWe propose that naturally occurring compounds such as <target> flavonoids </target> , which are present in fruit juices , may increase the potency of warfarin by competing for the enzymes that normally inactivate warfarin .",
+        "D014859\tChemical\twarfarin\tWe propose that naturally occurring compounds such as flavonoids , which are present in fruit juices , may increase the potency of <target> warfarin </target> by competing for the enzymes that normally inactivate warfarin .",
+        "D014859\tChemical\twarfarin\tWe propose that naturally occurring compounds such as flavonoids , which are present in fruit juices , may increase the potency of warfarin by competing for the enzymes that normally inactivate <target> warfarin </target> ."
+    ],
+    "lines_lemma": [
+        "D010490\tDisease\thaemopericardium\tfatal <target> haemopericardium </target> and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin .",
+        "D006471\tDisease\tgastrointestinal haemorrhage\tfatal haemopericardium and <target> gastrointestinal haemorrhage </target> due to possible interaction of cranberry juice with warfarin .",
+        "D014859\tChemical\twarfarin\tfatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with <target> warfarin </target> .",
+        "D006470\tDisease\thaemorrhage\twe report a case of fatal internal <target> haemorrhage </target> in an elderly man who consume only cranberry juice for two week while maintain his usual dosage of warfarin .",
+        "D014859\tChemical\twarfarin\twe report a case of fatal internal haemorrhage in an elderly man who consume only cranberry juice for two week while maintain his usual dosage of <target> warfarin </target> .",
+        "D005419\tChemical\tflavonoids\twe propose that naturally occur compound such as <target> flavonoid </target> , which be present in fruit juice , may increase the potency of warfarin by compete for the enzyme that normally inactivate warfarin .",
+        "D014859\tChemical\twarfarin\twe propose that naturally occur compound such as flavonoid , which be present in fruit juice , may increase the potency of <target> warfarin </target> by compete for the enzyme that normally inactivate warfarin .",
+        "D014859\tChemical\twarfarin\twe propose that naturally occur compound such as flavonoid , which be present in fruit juice , may increase the potency of warfarin by compete for the enzyme that normally inactivate <target> warfarin </target> ."
+    ]
+}

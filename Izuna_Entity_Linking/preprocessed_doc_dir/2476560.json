@@ -1,0 +1,111 @@
+{
+    "title": "Is the treatment of scabies hazardous?",
+    "abst": "Treatment for scabies is usually initiated by general practitioners; most consider lindane (gamma benzene hexachloride) the treatment of choice. Lindane is also widely used as an agricultural and industrial pesticide, and as a result the toxic profile of this insecticide is well understood. Evidence is accumulating that lindane can be toxic to the central nervous system and may be associated with aplastic anaemia. Preparations containing lindane continue to be sold over the counter and may represent a hazard to poorly informed patients. This literature review suggests that general practitioners should prescribe scabicides with increased caution for certain at-risk groups, and give adequate warnings regarding potential toxicity.",
+    "title_plus_abst": "Is the treatment of scabies hazardous? Treatment for scabies is usually initiated by general practitioners; most consider lindane (gamma benzene hexachloride) the treatment of choice. Lindane is also widely used as an agricultural and industrial pesticide, and as a result the toxic profile of this insecticide is well understood. Evidence is accumulating that lindane can be toxic to the central nervous system and may be associated with aplastic anaemia. Preparations containing lindane continue to be sold over the counter and may represent a hazard to poorly informed patients. This literature review suggests that general practitioners should prescribe scabicides with increased caution for certain at-risk groups, and give adequate warnings regarding potential toxicity.",
+    "pubmed_id": "2476560",
+    "entities": [
+        [
+            20,
+            27,
+            "scabies",
+            "Disease",
+            "D012532"
+        ],
+        [
+            53,
+            60,
+            "scabies",
+            "Disease",
+            "D012532"
+        ],
+        [
+            122,
+            129,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            131,
+            157,
+            "gamma benzene hexachloride",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            184,
+            191,
+            "Lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            361,
+            368,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            376,
+            411,
+            "toxic to the central nervous system",
+            "Disease",
+            "D002493"
+        ],
+        [
+            439,
+            455,
+            "aplastic anaemia",
+            "Disease",
+            "D000741"
+        ],
+        [
+            481,
+            488,
+            "lindane",
+            "Chemical",
+            "D001556"
+        ],
+        [
+            767,
+            775,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ]
+    ],
+    "split_sentence": [
+        "Is the treatment of scabies hazardous?",
+        "Treatment for scabies is usually initiated by general practitioners; most consider lindane (gamma benzene hexachloride) the treatment of choice.",
+        "Lindane is also widely used as an agricultural and industrial pesticide, and as a result the toxic profile of this insecticide is well understood.",
+        "Evidence is accumulating that lindane can be toxic to the central nervous system and may be associated with aplastic anaemia.",
+        "Preparations containing lindane continue to be sold over the counter and may represent a hazard to poorly informed patients.",
+        "This literature review suggests that general practitioners should prescribe scabicides with increased caution for certain at-risk groups, and give adequate warnings regarding potential toxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012532\tDisease\tscabies\tIs the treatment of <target> scabies </target> hazardous ?",
+        "D012532\tDisease\tscabies\tTreatment for <target> scabies </target> is usually initiated by general practitioners ; most consider lindane ( gamma benzene hexachloride ) the treatment of choice .",
+        "D001556\tChemical\tlindane\tTreatment for scabies is usually initiated by general practitioners ; most consider <target> lindane </target> ( gamma benzene hexachloride ) the treatment of choice .",
+        "D001556\tChemical\tgamma benzene hexachloride\tTreatment for scabies is usually initiated by general practitioners ; most consider lindane ( <target> gamma benzene hexachloride </target> ) the treatment of choice .",
+        "D001556\tChemical\tLindane\t<target> Lindane </target> is also widely used as an agricultural and industrial pesticide , and as a result the toxic profile of this insecticide is well understood .",
+        "D001556\tChemical\tlindane\tEvidence is accumulating that <target> lindane </target> can be toxic to the central nervous system and may be associated with aplastic anaemia .",
+        "D002493\tDisease\ttoxic to the central nervous system\tEvidence is accumulating that lindane can be <target> toxic to the central nervous system </target> and may be associated with aplastic anaemia .",
+        "D000741\tDisease\taplastic anaemia\tEvidence is accumulating that lindane can be toxic to the central nervous system and may be associated with <target> aplastic anaemia </target> .",
+        "D001556\tChemical\tlindane\tPreparations containing <target> lindane </target> continue to be sold over the counter and may represent a hazard to poorly informed patients .",
+        "D064420\tDisease\ttoxicity\tThis literature review suggests that general practitioners should prescribe scabicides with increased caution for certain at-risk groups , and give adequate warnings regarding potential <target> toxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D012532\tDisease\tscabies\tbe the treatment of <target> scabie </target> hazardous ?",
+        "D012532\tDisease\tscabies\ttreatment for <target> scabie </target> be usually initiate by general practitioner ; most consider lindane ( gamma benzene hexachloride ) the treatment of choice .",
+        "D001556\tChemical\tlindane\ttreatment for scabie be usually initiate by general practitioner ; most consider <target> lindane </target> ( gamma benzene hexachloride ) the treatment of choice .",
+        "D001556\tChemical\tgamma benzene hexachloride\ttreatment for scabie be usually initiate by general practitioner ; most consider lindane ( <target> gamma benzene hexachloride </target> ) the treatment of choice .",
+        "D001556\tChemical\tLindane\t<target> Lindane </target> be also widely use as an agricultural and industrial pesticide , and as a result the toxic profile of this insecticide be well understand .",
+        "D001556\tChemical\tlindane\tevidence be accumulate that <target> lindane </target> can be toxic to the central nervous system and may be associate with aplastic anaemia .",
+        "D002493\tDisease\ttoxic to the central nervous system\tevidence be accumulate that lindane can be <target> toxic to the central nervous system </target> and may be associate with aplastic anaemia .",
+        "D000741\tDisease\taplastic anaemia\tevidence be accumulate that lindane can be toxic to the central nervous system and may be associate with <target> aplastic anaemia </target> .",
+        "D001556\tChemical\tlindane\tpreparation contain <target> lindane </target> continue to be sell over the counter and may represent a hazard to poorly inform patient .",
+        "D064420\tDisease\ttoxicity\tthis literature review suggest that general practitioner should prescribe scabicide with increase caution for certain at-risk group , and give adequate warning regard potential <target> toxicity </target> ."
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "title": "Morphine-induced seizures in newborn infants.",
+    "abst": "Two neonates suffered from generalized seizures during the course of intravenous morphine sulfate for post-operative analgesia. They received morphine in doses of 32 micrograms/kg/hr and 40 micrograms/kg/hr larger than a group of 10 neonates who received 6-24 micrograms/kg/hr and had no seizures. Plasma concentrations of morphine in these neonates was excessive (60 and 90 mg/ml). Other known reasons for seizures were ruled out and the convulsions stopped a few hours after cessation of morphine and did not reoccur in the subsequent 8 months. It is suggested that post-operative intravenous morphine should not exceed 20 micrograms/kg/ml in neonates.",
+    "title_plus_abst": "Morphine-induced seizures in newborn infants. Two neonates suffered from generalized seizures during the course of intravenous morphine sulfate for post-operative analgesia. They received morphine in doses of 32 micrograms/kg/hr and 40 micrograms/kg/hr larger than a group of 10 neonates who received 6-24 micrograms/kg/hr and had no seizures. Plasma concentrations of morphine in these neonates was excessive (60 and 90 mg/ml). Other known reasons for seizures were ruled out and the convulsions stopped a few hours after cessation of morphine and did not reoccur in the subsequent 8 months. It is suggested that post-operative intravenous morphine should not exceed 20 micrograms/kg/ml in neonates.",
+    "pubmed_id": "4082466",
+    "entities": [
+        [
+            0,
+            8,
+            "Morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            17,
+            25,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            85,
+            93,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            127,
+            143,
+            "morphine sulfate",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            188,
+            196,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            334,
+            342,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            369,
+            377,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            453,
+            461,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            485,
+            496,
+            "convulsions",
+            "Disease",
+            "D012640"
+        ],
+        [
+            536,
+            544,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            641,
+            649,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ]
+    ],
+    "split_sentence": [
+        "Morphine-induced seizures in newborn infants.",
+        "Two neonates suffered from generalized seizures during the course of intravenous morphine sulfate for post-operative analgesia.",
+        "They received morphine in doses of 32 micrograms/kg/hr and 40 micrograms/kg/hr larger than a group of 10 neonates who received 6-24 micrograms/kg/hr and had no seizures.",
+        "Plasma concentrations of morphine in these neonates was excessive (60 and 90 mg/ml).",
+        "Other known reasons for seizures were ruled out and the convulsions stopped a few hours after cessation of morphine and did not reoccur in the subsequent 8 months.",
+        "It is suggested that post-operative intravenous morphine should not exceed 20 micrograms/kg/ml in neonates."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009020\tChemical\tMorphine\t<target> Morphine </target> -induced seizures in newborn infants .",
+        "D012640\tDisease\tseizures\tMorphine-induced <target> seizures </target> in newborn infants .",
+        "D012640\tDisease\tseizures\tTwo neonates suffered from generalized <target> seizures </target> during the course of intravenous morphine sulfate for post-operative analgesia .",
+        "D009020\tChemical\tmorphine sulfate\tTwo neonates suffered from generalized seizures during the course of intravenous <target> morphine sulfate </target> for post-operative analgesia .",
+        "D009020\tChemical\tmorphine\tThey received <target> morphine </target> in doses of 32 micrograms/kg/hr and 40 micrograms/kg/hr larger than a group of 10 neonates who received 6 - 24 micrograms/kg/hr and had no seizures .",
+        "D012640\tDisease\tseizures\tThey received morphine in doses of 32 micrograms/kg/hr and 40 micrograms/kg/hr larger than a group of 10 neonates who received 6 - 24 micrograms/kg/hr and had no <target> seizures </target> .",
+        "D009020\tChemical\tmorphine\tPlasma concentrations of <target> morphine </target> in these neonates was excessive ( 60 and 90 mg/ml ) .",
+        "D012640\tDisease\tseizures\tOther known reasons for <target> seizures </target> were ruled out and the convulsions stopped a few hours after cessation of morphine and did not reoccur in the subsequent 8 months .",
+        "D012640\tDisease\tconvulsions\tOther known reasons for seizures were ruled out and the <target> convulsions </target> stopped a few hours after cessation of morphine and did not reoccur in the subsequent 8 months .",
+        "D009020\tChemical\tmorphine\tOther known reasons for seizures were ruled out and the convulsions stopped a few hours after cessation of <target> morphine </target> and did not reoccur in the subsequent 8 months .",
+        "D009020\tChemical\tmorphine\tIt is suggested that post-operative intravenous <target> morphine </target> should not exceed 20 micrograms/kg/ml in neonates ."
+    ],
+    "lines_lemma": [
+        "D009020\tChemical\tMorphine\t<target> morphine </target> -induced seizure in newborn infant .",
+        "D012640\tDisease\tseizures\tmorphine-induced <target> seizure </target> in newborn infant .",
+        "D012640\tDisease\tseizures\ttwo neonate suffer from generalize <target> seizure </target> during the course of intravenous morphine sulfate for post-operative analgesia .",
+        "D009020\tChemical\tmorphine sulfate\ttwo neonate suffer from generalize seizure during the course of intravenous <target> morphine sulfate </target> for post-operative analgesia .",
+        "D009020\tChemical\tmorphine\tthey receive <target> morphine </target> in dose of 32 micrograms/kg/hr and 40 micrograms/kg/hr large than a group of 10 neonate who receive 6 - 24 micrograms/kg/hr and have no seizure .",
+        "D012640\tDisease\tseizures\tthey receive morphine in dose of 32 micrograms/kg/hr and 40 micrograms/kg/hr large than a group of 10 neonate who receive 6 - 24 micrograms/kg/hr and have no <target> seizure </target> .",
+        "D009020\tChemical\tmorphine\tplasma concentration of <target> morphine </target> in these neonate be excessive ( 60 and 90 mg/ml ) .",
+        "D012640\tDisease\tseizures\tother known reason for <target> seizure </target> be rule out and the convulsion stop a few hour after cessation of morphine and do not reoccur in the subsequent 8 month .",
+        "D012640\tDisease\tconvulsions\tother known reason for seizure be rule out and the <target> convulsion </target> stop a few hour after cessation of morphine and do not reoccur in the subsequent 8 month .",
+        "D009020\tChemical\tmorphine\tother known reason for seizure be rule out and the convulsion stop a few hour after cessation of <target> morphine </target> and do not reoccur in the subsequent 8 month .",
+        "D009020\tChemical\tmorphine\tit be suggest that post-operative intravenous <target> morphine </target> should not exceed 20 micrograms/kg/ml in neonate ."
+    ]
+}

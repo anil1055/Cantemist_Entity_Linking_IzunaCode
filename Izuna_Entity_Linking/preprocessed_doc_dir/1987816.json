@@ -1,0 +1,131 @@
+{
+    "title": "Less frequent lithium administration and lower urine volume.",
+    "abst": "OBJECTIVE: This study was designed to determine whether patients maintained on a regimen of lithium on a once-per-day schedule have lower urine volumes than do patients receiving multiple doses per day. METHOD: This was a cross-sectional study of 85 patients from a lithium clinic who received different dose schedules. Patients were admitted to the hospital for measurement of lithium level, creatinine clearance, urine volume, and maximum osmolality. RESULTS: Multiple daily doses of lithium were associated with higher urine volumes. The dosing schedule, duration of lithium treatment, and daily dose of lithium did not affect maximum osmolality or creatinine clearance. CONCLUSIONS: Urine volume can be reduced by giving lithium once daily and/or by lowering the total daily dose. Lithium-induced polyuria seems to be related to extrarenal as well as to renal effects.",
+    "title_plus_abst": "Less frequent lithium administration and lower urine volume. OBJECTIVE: This study was designed to determine whether patients maintained on a regimen of lithium on a once-per-day schedule have lower urine volumes than do patients receiving multiple doses per day. METHOD: This was a cross-sectional study of 85 patients from a lithium clinic who received different dose schedules. Patients were admitted to the hospital for measurement of lithium level, creatinine clearance, urine volume, and maximum osmolality. RESULTS: Multiple daily doses of lithium were associated with higher urine volumes. The dosing schedule, duration of lithium treatment, and daily dose of lithium did not affect maximum osmolality or creatinine clearance. CONCLUSIONS: Urine volume can be reduced by giving lithium once daily and/or by lowering the total daily dose. Lithium-induced polyuria seems to be related to extrarenal as well as to renal effects.",
+    "pubmed_id": "1987816",
+    "entities": [
+        [
+            14,
+            21,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            153,
+            160,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            327,
+            334,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            439,
+            446,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            454,
+            464,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            547,
+            554,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            631,
+            638,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            668,
+            675,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            713,
+            723,
+            "creatinine",
+            "Chemical",
+            "D003404"
+        ],
+        [
+            786,
+            793,
+            "lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            846,
+            853,
+            "Lithium",
+            "Chemical",
+            "D008094"
+        ],
+        [
+            862,
+            870,
+            "polyuria",
+            "Disease",
+            "D011141"
+        ]
+    ],
+    "split_sentence": [
+        "Less frequent lithium administration and lower urine volume.",
+        "OBJECTIVE: This study was designed to determine whether patients maintained on a regimen of lithium on a once-per-day schedule have lower urine volumes than do patients receiving multiple doses per day.",
+        "METHOD: This was a cross-sectional study of 85 patients from a lithium clinic who received different dose schedules.",
+        "Patients were admitted to the hospital for measurement of lithium level, creatinine clearance, urine volume, and maximum osmolality.",
+        "RESULTS: Multiple daily doses of lithium were associated with higher urine volumes.",
+        "The dosing schedule, duration of lithium treatment, and daily dose of lithium did not affect maximum osmolality or creatinine clearance.",
+        "CONCLUSIONS: Urine volume can be reduced by giving lithium once daily and/or by lowering the total daily dose.",
+        "Lithium-induced polyuria seems to be related to extrarenal as well as to renal effects."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008094\tChemical\tlithium\tLess frequent <target> lithium </target> administration and lower urine volume .",
+        "D008094\tChemical\tlithium\tOBJECTIVE : This study was designed to determine whether patients maintained on a regimen of <target> lithium </target> on a once-per-day schedule have lower urine volumes than do patients receiving multiple doses per day .",
+        "D008094\tChemical\tlithium\tMETHOD : This was a cross-sectional study of 85 patients from a <target> lithium </target> clinic who received different dose schedules .",
+        "D008094\tChemical\tlithium\tPatients were admitted to the hospital for measurement of <target> lithium </target> level , creatinine clearance , urine volume , and maximum osmolality .",
+        "D003404\tChemical\tcreatinine\tPatients were admitted to the hospital for measurement of lithium level , <target> creatinine </target> clearance , urine volume , and maximum osmolality .",
+        "D008094\tChemical\tlithium\tRESULTS : Multiple daily doses of <target> lithium </target> were associated with higher urine volumes .",
+        "D008094\tChemical\tlithium\tThe dosing schedule , duration of <target> lithium </target> treatment , and daily dose of lithium did not affect maximum osmolality or creatinine clearance .",
+        "D008094\tChemical\tlithium\tThe dosing schedule , duration of lithium treatment , and daily dose of <target> lithium </target> did not affect maximum osmolality or creatinine clearance .",
+        "D003404\tChemical\tcreatinine\tThe dosing schedule , duration of lithium treatment , and daily dose of lithium did not affect maximum osmolality or <target> creatinine </target> clearance .",
+        "D008094\tChemical\tlithium\tCONCLUSIONS : Urine volume can be reduced by giving <target> lithium </target> once daily and/or by lowering the total daily dose .",
+        "D008094\tChemical\tLithium\t<target> Lithium </target> -induced polyuria seems to be related to extrarenal as well as to renal effects .",
+        "D011141\tDisease\tpolyuria\tLithium-induced <target> polyuria </target> seems to be related to extrarenal as well as to renal effects ."
+    ],
+    "lines_lemma": [
+        "D008094\tChemical\tlithium\tless frequent <target> lithium </target> administration and low urine volume .",
+        "D008094\tChemical\tlithium\tobjective : this study be design to determine whether patient maintain on a regimen of <target> lithium </target> on a once-per-day schedule have low urine volume than do patient receive multiple dose per day .",
+        "D008094\tChemical\tlithium\tmethod : this be a cross-sectional study of 85 patient from a <target> lithium </target> clinic who receive different dose schedule .",
+        "D008094\tChemical\tlithium\tpatient be admit to the hospital for measurement of <target> lithium </target> level , creatinine clearance , urine volume , and maximum osmolality .",
+        "D003404\tChemical\tcreatinine\tpatient be admit to the hospital for measurement of lithium level , <target> creatinine </target> clearance , urine volume , and maximum osmolality .",
+        "D008094\tChemical\tlithium\tresult : multiple daily dose of <target> lithium </target> be associate with high urine volume .",
+        "D008094\tChemical\tlithium\tthe dosing schedule , duration of <target> lithium </target> treatment , and daily dose of lithium do not affect maximum osmolality or creatinine clearance .",
+        "D008094\tChemical\tlithium\tthe dosing schedule , duration of lithium treatment , and daily dose of <target> lithium </target> do not affect maximum osmolality or creatinine clearance .",
+        "D003404\tChemical\tcreatinine\tthe dosing schedule , duration of lithium treatment , and daily dose of lithium do not affect maximum osmolality or <target> creatinine </target> clearance .",
+        "D008094\tChemical\tlithium\tconclusion : urine volume can be reduce by give <target> lithium </target> once daily and/or by lower the total daily dose .",
+        "D008094\tChemical\tLithium\t<target> lithium </target> -induced polyuria seem to be related to extrarenal as well as to renal effect .",
+        "D011141\tDisease\tpolyuria\tlithium-induced <target> polyuria </target> seem to be related to extrarenal as well as to renal effect ."
+    ]
+}

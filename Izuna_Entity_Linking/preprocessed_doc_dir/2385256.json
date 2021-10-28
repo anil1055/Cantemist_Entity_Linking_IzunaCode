@@ -1,0 +1,159 @@
+{
+    "title": "Myasthenia gravis presenting as weakness after magnesium administration.",
+    "abst": "We studied a patient with no prior history of neuromuscular disease who became virtually quadriplegic after parenteral magnesium administration for preeclampsia. The serum magnesium concentration was 3.0 mEq/L, which is usually well tolerated. The magnesium was stopped and she recovered over a few days. While she was weak, 2-Hz repetitive stimulation revealed a decrement without significant facilitation at rapid rates or after exercise, suggesting postsynaptic neuromuscular blockade. After her strength returned, repetitive stimulation was normal, but single fiber EMG revealed increased jitter and blocking. Her acetylcholine receptor antibody level was markedly elevated. Although paralysis after magnesium administration has been described in patients with known myasthenia gravis, it has not previously been reported to be the initial or only manifestation of the disease. Patients who are unusually sensitive to the neuromuscular effects of magnesium should be suspected of having an underlying disorder of neuromuscular transmission.",
+    "title_plus_abst": "Myasthenia gravis presenting as weakness after magnesium administration. We studied a patient with no prior history of neuromuscular disease who became virtually quadriplegic after parenteral magnesium administration for preeclampsia. The serum magnesium concentration was 3.0 mEq/L, which is usually well tolerated. The magnesium was stopped and she recovered over a few days. While she was weak, 2-Hz repetitive stimulation revealed a decrement without significant facilitation at rapid rates or after exercise, suggesting postsynaptic neuromuscular blockade. After her strength returned, repetitive stimulation was normal, but single fiber EMG revealed increased jitter and blocking. Her acetylcholine receptor antibody level was markedly elevated. Although paralysis after magnesium administration has been described in patients with known myasthenia gravis, it has not previously been reported to be the initial or only manifestation of the disease. Patients who are unusually sensitive to the neuromuscular effects of magnesium should be suspected of having an underlying disorder of neuromuscular transmission.",
+    "pubmed_id": "2385256",
+    "entities": [
+        [
+            0,
+            17,
+            "Myasthenia gravis",
+            "Disease",
+            "D009157"
+        ],
+        [
+            47,
+            56,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            119,
+            140,
+            "neuromuscular disease",
+            "Disease",
+            "D009468"
+        ],
+        [
+            162,
+            174,
+            "quadriplegic",
+            "Disease",
+            "D011782"
+        ],
+        [
+            192,
+            201,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            221,
+            233,
+            "preeclampsia",
+            "Disease",
+            "D011225"
+        ],
+        [
+            245,
+            254,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            321,
+            330,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            525,
+            560,
+            "postsynaptic neuromuscular blockade",
+            "Disease",
+            "D009468"
+        ],
+        [
+            691,
+            704,
+            "acetylcholine",
+            "Chemical",
+            "D000109"
+        ],
+        [
+            761,
+            770,
+            "paralysis",
+            "Disease",
+            "D010243"
+        ],
+        [
+            777,
+            786,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            844,
+            861,
+            "myasthenia gravis",
+            "Disease",
+            "D009157"
+        ],
+        [
+            1024,
+            1033,
+            "magnesium",
+            "Chemical",
+            "D008274"
+        ],
+        [
+            1078,
+            1116,
+            "disorder of neuromuscular transmission",
+            "Disease",
+            "D020511"
+        ]
+    ],
+    "split_sentence": [
+        "Myasthenia gravis presenting as weakness after magnesium administration.",
+        "We studied a patient with no prior history of neuromuscular disease who became virtually quadriplegic after parenteral magnesium administration for preeclampsia.",
+        "The serum magnesium concentration was 3.0 mEq/L, which is usually well tolerated.",
+        "The magnesium was stopped and she recovered over a few days.",
+        "While she was weak, 2-Hz repetitive stimulation revealed a decrement without significant facilitation at rapid rates or after exercise, suggesting postsynaptic neuromuscular blockade.",
+        "After her strength returned, repetitive stimulation was normal, but single fiber EMG revealed increased jitter and blocking.",
+        "Her acetylcholine receptor antibody level was markedly elevated.",
+        "Although paralysis after magnesium administration has been described in patients with known myasthenia gravis, it has not previously been reported to be the initial or only manifestation of the disease.",
+        "Patients who are unusually sensitive to the neuromuscular effects of magnesium should be suspected of having an underlying disorder of neuromuscular transmission."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D009157\tDisease\tMyasthenia gravis\t<target> Myasthenia gravis </target> presenting as weakness after magnesium administration .",
+        "D008274\tChemical\tmagnesium\tMyasthenia gravis presenting as weakness after <target> magnesium </target> administration .",
+        "D009468\tDisease\tneuromuscular disease\tWe studied a patient with no prior history of <target> neuromuscular disease </target> who became virtually quadriplegic after parenteral magnesium administration for preeclampsia .",
+        "D011782\tDisease\tquadriplegic\tWe studied a patient with no prior history of neuromuscular disease who became virtually <target> quadriplegic </target> after parenteral magnesium administration for preeclampsia .",
+        "D008274\tChemical\tmagnesium\tWe studied a patient with no prior history of neuromuscular disease who became virtually quadriplegic after parenteral <target> magnesium </target> administration for preeclampsia .",
+        "D011225\tDisease\tpreeclampsia\tWe studied a patient with no prior history of neuromuscular disease who became virtually quadriplegic after parenteral magnesium administration for <target> preeclampsia </target> .",
+        "D008274\tChemical\tmagnesium\tThe serum <target> magnesium </target> concentration was 3.0 mEq/L , which is usually well tolerated .",
+        "D008274\tChemical\tmagnesium\tThe <target> magnesium </target> was stopped and she recovered over a few days .",
+        "D009468\tDisease\tpostsynaptic neuromuscular blockade\tWhile she was weak , 2-Hz repetitive stimulation revealed a decrement without significant facilitation at rapid rates or after exercise , suggesting <target> postsynaptic neuromuscular blockade </target> .",
+        "D000109\tChemical\tacetylcholine\tHer <target> acetylcholine </target> receptor antibody level was markedly elevated .",
+        "D010243\tDisease\tparalysis\tAlthough <target> paralysis </target> after magnesium administration has been described in patients with known myasthenia gravis , it has not previously been reported to be the initial or only manifestation of the disease .",
+        "D008274\tChemical\tmagnesium\tAlthough paralysis after <target> magnesium </target> administration has been described in patients with known myasthenia gravis , it has not previously been reported to be the initial or only manifestation of the disease .",
+        "D009157\tDisease\tmyasthenia gravis\tAlthough paralysis after magnesium administration has been described in patients with known <target> myasthenia gravis </target> , it has not previously been reported to be the initial or only manifestation of the disease .",
+        "D008274\tChemical\tmagnesium\tPatients who are unusually sensitive to the neuromuscular effects of <target> magnesium </target> should be suspected of having an underlying disorder of neuromuscular transmission .",
+        "D020511\tDisease\tdisorder of neuromuscular transmission\tPatients who are unusually sensitive to the neuromuscular effects of magnesium should be suspected of having an underlying <target> disorder of neuromuscular transmission </target> ."
+    ],
+    "lines_lemma": [
+        "D009157\tDisease\tMyasthenia gravis\t<target> Myasthenia gravis </target> present as weakness after magnesium administration .",
+        "D008274\tChemical\tmagnesium\tMyasthenia gravis present as weakness after <target> magnesium </target> administration .",
+        "D009468\tDisease\tneuromuscular disease\twe study a patient with no prior history of <target> neuromuscular disease </target> who become virtually quadriplegic after parenteral magnesium administration for preeclampsia .",
+        "D011782\tDisease\tquadriplegic\twe study a patient with no prior history of neuromuscular disease who become virtually <target> quadriplegic </target> after parenteral magnesium administration for preeclampsia .",
+        "D008274\tChemical\tmagnesium\twe study a patient with no prior history of neuromuscular disease who become virtually quadriplegic after parenteral <target> magnesium </target> administration for preeclampsia .",
+        "D011225\tDisease\tpreeclampsia\twe study a patient with no prior history of neuromuscular disease who become virtually quadriplegic after parenteral magnesium administration for <target> preeclampsia </target> .",
+        "D008274\tChemical\tmagnesium\tthe serum <target> magnesium </target> concentration be 3.0 meq/l , which be usually well tolerate .",
+        "D008274\tChemical\tmagnesium\tthe <target> magnesium </target> be stop and she recover over a few day .",
+        "D009468\tDisease\tpostsynaptic neuromuscular blockade\twhile she be weak , 2-hz repetitive stimulation reveal a decrement without significant facilitation at rapid rate or after exercise , suggest <target> postsynaptic neuromuscular blockade </target> .",
+        "D000109\tChemical\tacetylcholine\ther <target> acetylcholine </target> receptor antibody level be markedly elevated .",
+        "D010243\tDisease\tparalysis\talthough <target> paralysis </target> after magnesium administration have be describe in patient with known myasthenia gravis , it have not previously be report to be the initial or only manifestation of the disease .",
+        "D008274\tChemical\tmagnesium\talthough paralysis after <target> magnesium </target> administration have be describe in patient with known myasthenia gravis , it have not previously be report to be the initial or only manifestation of the disease .",
+        "D009157\tDisease\tmyasthenia gravis\talthough paralysis after magnesium administration have be describe in patient with known <target> myasthenia gravis </target> , it have not previously be report to be the initial or only manifestation of the disease .",
+        "D008274\tChemical\tmagnesium\tpatient who be unusually sensitive to the neuromuscular effect of <target> magnesium </target> should be suspect of have an underlying disorder of neuromuscular transmission .",
+        "D020511\tDisease\tdisorder of neuromuscular transmission\tpatient who be unusually sensitive to the neuromuscular effect of magnesium should be suspect of have an underlie <target> disorder of neuromuscular transmission </target> ."
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "Diffuse skeletal pain after administration of alendronate.",
+    "abst": "BACKGROUND: Osteoporosis is caused by bone resorption in excess of bone formation, and bisphosphonates, are used to inhibit bone resorption. Alendronate, a biphosphonate, is effective for both the treatment and prevention of osteoporosis in postmenopausal women. Side effects are relatively few and prominently gastrointestinal. Musculoskeletal pain may be an important side effect in these patients. We presented a patient admitted to our out-patient clinic with diffuse skeletal pain after three consecutive administration of alendronate. CONCLUSION: We conclude that patients with osteoporosis can report pain, and bisphosphonate-related pain should also be considered before ascribing this complaint to osteoporosis.",
+    "title_plus_abst": "Diffuse skeletal pain after administration of alendronate. BACKGROUND: Osteoporosis is caused by bone resorption in excess of bone formation, and bisphosphonates, are used to inhibit bone resorption. Alendronate, a biphosphonate, is effective for both the treatment and prevention of osteoporosis in postmenopausal women. Side effects are relatively few and prominently gastrointestinal. Musculoskeletal pain may be an important side effect in these patients. We presented a patient admitted to our out-patient clinic with diffuse skeletal pain after three consecutive administration of alendronate. CONCLUSION: We conclude that patients with osteoporosis can report pain, and bisphosphonate-related pain should also be considered before ascribing this complaint to osteoporosis.",
+    "pubmed_id": "20927253",
+    "entities": [
+        [
+            17,
+            21,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            46,
+            57,
+            "alendronate",
+            "Chemical",
+            "D019386"
+        ],
+        [
+            71,
+            83,
+            "Osteoporosis",
+            "Disease",
+            "D010024"
+        ],
+        [
+            146,
+            161,
+            "bisphosphonates",
+            "Chemical",
+            "D004164"
+        ],
+        [
+            200,
+            211,
+            "Alendronate",
+            "Chemical",
+            "D019386"
+        ],
+        [
+            284,
+            296,
+            "osteoporosis",
+            "Disease",
+            "D010024"
+        ],
+        [
+            388,
+            408,
+            "Musculoskeletal pain",
+            "Disease",
+            "D059352"
+        ],
+        [
+            540,
+            544,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            587,
+            598,
+            "alendronate",
+            "Chemical",
+            "D019386"
+        ],
+        [
+            643,
+            655,
+            "osteoporosis",
+            "Disease",
+            "D010024"
+        ],
+        [
+            667,
+            671,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            677,
+            691,
+            "bisphosphonate",
+            "Chemical",
+            "D004164"
+        ],
+        [
+            700,
+            704,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            766,
+            778,
+            "osteoporosis",
+            "Disease",
+            "D010024"
+        ]
+    ],
+    "split_sentence": [
+        "Diffuse skeletal pain after administration of alendronate.",
+        "BACKGROUND: Osteoporosis is caused by bone resorption in excess of bone formation, and bisphosphonates, are used to inhibit bone resorption.",
+        "Alendronate, a biphosphonate, is effective for both the treatment and prevention of osteoporosis in postmenopausal women.",
+        "Side effects are relatively few and prominently gastrointestinal.",
+        "Musculoskeletal pain may be an important side effect in these patients.",
+        "We presented a patient admitted to our out-patient clinic with diffuse skeletal pain after three consecutive administration of alendronate.",
+        "CONCLUSION: We conclude that patients with osteoporosis can report pain, and bisphosphonate-related pain should also be considered before ascribing this complaint to osteoporosis."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010146\tDisease\tpain\tDiffuse skeletal <target> pain </target> after administration of alendronate .",
+        "D019386\tChemical\talendronate\tDiffuse skeletal pain after administration of <target> alendronate </target> .",
+        "D010024\tDisease\tOsteoporosis\tBACKGROUND : <target> Osteoporosis </target> is caused by bone resorption in excess of bone formation , and bisphosphonates , are used to inhibit bone resorption .",
+        "D004164\tChemical\tbisphosphonates\tBACKGROUND : Osteoporosis is caused by bone resorption in excess of bone formation , and <target> bisphosphonates </target> , are used to inhibit bone resorption .",
+        "D019386\tChemical\tAlendronate\t<target> Alendronate </target> , a biphosphonate , is effective for both the treatment and prevention of osteoporosis in postmenopausal women .",
+        "D010024\tDisease\tosteoporosis\tAlendronate , a biphosphonate , is effective for both the treatment and prevention of <target> osteoporosis </target> in postmenopausal women .",
+        "D059352\tDisease\tMusculoskeletal pain\t<target> Musculoskeletal pain </target> may be an important side effect in these patients .",
+        "D010146\tDisease\tpain\tWe presented a patient admitted to our out-patient clinic with diffuse skeletal <target> pain </target> after three consecutive administration of alendronate .",
+        "D019386\tChemical\talendronate\tWe presented a patient admitted to our out-patient clinic with diffuse skeletal pain after three consecutive administration of <target> alendronate </target> .",
+        "D010024\tDisease\tosteoporosis\tCONCLUSION : We conclude that patients with <target> osteoporosis </target> can report pain , and bisphosphonate-related pain should also be considered before ascribing this complaint to osteoporosis .",
+        "D010146\tDisease\tpain\tCONCLUSION : We conclude that patients with osteoporosis can report <target> pain </target> , and bisphosphonate-related pain should also be considered before ascribing this complaint to osteoporosis .",
+        "D004164\tChemical\tbisphosphonate\tCONCLUSION : We conclude that patients with osteoporosis can report pain , and <target> bisphosphonate </target> -related pain should also be considered before ascribing this complaint to osteoporosis .",
+        "D010146\tDisease\tpain\tCONCLUSION : We conclude that patients with osteoporosis can report pain , and bisphosphonate-related <target> pain </target> should also be considered before ascribing this complaint to osteoporosis .",
+        "D010024\tDisease\tosteoporosis\tCONCLUSION : We conclude that patients with osteoporosis can report pain , and bisphosphonate-related pain should also be considered before ascribing this complaint to <target> osteoporosis </target> ."
+    ],
+    "lines_lemma": [
+        "D010146\tDisease\tpain\tdiffuse skeletal <target> pain </target> after administration of alendronate .",
+        "D019386\tChemical\talendronate\tdiffuse skeletal pain after administration of <target> alendronate </target> .",
+        "D010024\tDisease\tOsteoporosis\tbackground : <target> Osteoporosis </target> be cause by bone resorption in excess of bone formation , and bisphosphonate , be use to inhibit bone resorption .",
+        "D004164\tChemical\tbisphosphonates\tbackground : osteoporosis be cause by bone resorption in excess of bone formation , and <target> bisphosphonate </target> , be use to inhibit bone resorption .",
+        "D019386\tChemical\tAlendronate\t<target> Alendronate </target> , a biphosphonate , be effective for both the treatment and prevention of osteoporosis in postmenopausal woman .",
+        "D010024\tDisease\tosteoporosis\tAlendronate , a biphosphonate , be effective for both the treatment and prevention of <target> osteoporosis </target> in postmenopausal woman .",
+        "D059352\tDisease\tMusculoskeletal pain\t<target> musculoskeletal pain </target> may be an important side effect in these patient .",
+        "D010146\tDisease\tpain\twe present a patient admit to our out-patient clinic with diffuse skeletal <target> pain </target> after three consecutive administration of alendronate .",
+        "D019386\tChemical\talendronate\twe present a patient admit to our out-patient clinic with diffuse skeletal pain after three consecutive administration of <target> alendronate </target> .",
+        "D010024\tDisease\tosteoporosis\tconclusion : we conclude that patient with <target> osteoporosis </target> can report pain , and bisphosphonate-related pain should also be consider before ascribe this complaint to osteoporosis .",
+        "D010146\tDisease\tpain\tconclusion : we conclude that patient with osteoporosis can report <target> pain </target> , and bisphosphonate-related pain should also be consider before ascribe this complaint to osteoporosis .",
+        "D004164\tChemical\tbisphosphonate\tconclusion : we conclude that patient with osteoporosis can report pain , and <target> bisphosphonate </target> -related pain should also be consider before ascribe this complaint to osteoporosis .",
+        "D010146\tDisease\tpain\tconclusion : we conclude that patient with osteoporosis can report pain , and bisphosphonate-related <target> pain </target> should also be consider before ascribe this complaint to osteoporosis .",
+        "D010024\tDisease\tosteoporosis\tconclusion : we conclude that patient with osteoporosis can report pain , and bisphosphonate-related pain should also be consider before ascribe this complaint to <target> osteoporosis </target> ."
+    ]
+}

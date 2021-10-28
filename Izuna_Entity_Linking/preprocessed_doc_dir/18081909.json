@@ -1,0 +1,157 @@
+{
+    "title": "Encephalopathy induced by levetiracetam added to valproate.",
+    "abst": "BACKGROUND: We report on the manifestation of a levetiracetam (LEV)-induced encephalopathy. FINDINGS: A 28-year-old man suffering from idiopathic epilepsy with generalized seizures was treated with LEV (3000 mg) added to valproate (VPA) (2000 mg). Frequency of generalized tonic-clonic seizures increased from one per 6 months to two per month. Neuropsychological testing showed impaired word fluency, psychomotor speed and working memory. The interictal electroencephalogram (EEG) showed a generalized slowing to 5 per second theta rhythms with bilateral generalized high-amplitude discharges. OUTCOME: Following discontinuation of LEV, EEG and neuropsychological findings improved and seizure frequency decreased.",
+    "title_plus_abst": "Encephalopathy induced by levetiracetam added to valproate. BACKGROUND: We report on the manifestation of a levetiracetam (LEV)-induced encephalopathy. FINDINGS: A 28-year-old man suffering from idiopathic epilepsy with generalized seizures was treated with LEV (3000 mg) added to valproate (VPA) (2000 mg). Frequency of generalized tonic-clonic seizures increased from one per 6 months to two per month. Neuropsychological testing showed impaired word fluency, psychomotor speed and working memory. The interictal electroencephalogram (EEG) showed a generalized slowing to 5 per second theta rhythms with bilateral generalized high-amplitude discharges. OUTCOME: Following discontinuation of LEV, EEG and neuropsychological findings improved and seizure frequency decreased.",
+    "pubmed_id": "18081909",
+    "entities": [
+        [
+            0,
+            14,
+            "Encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            26,
+            39,
+            "levetiracetam",
+            "Chemical",
+            "C026098"
+        ],
+        [
+            49,
+            58,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            108,
+            121,
+            "levetiracetam",
+            "Chemical",
+            "C026098"
+        ],
+        [
+            123,
+            126,
+            "LEV",
+            "Chemical",
+            "C026098"
+        ],
+        [
+            136,
+            150,
+            "encephalopathy",
+            "Disease",
+            "D001927"
+        ],
+        [
+            195,
+            214,
+            "idiopathic epilepsy",
+            "Disease",
+            "C562694"
+        ],
+        [
+            232,
+            240,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            258,
+            261,
+            "LEV",
+            "Chemical",
+            "C026098"
+        ],
+        [
+            281,
+            290,
+            "valproate",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            292,
+            295,
+            "VPA",
+            "Chemical",
+            "D014635"
+        ],
+        [
+            333,
+            354,
+            "tonic-clonic seizures",
+            "Disease",
+            "D004830"
+        ],
+        [
+            439,
+            498,
+            "impaired word fluency, psychomotor speed and working memory",
+            "Disease",
+            "D008569"
+        ],
+        [
+            693,
+            696,
+            "LEV",
+            "Chemical",
+            "C026098"
+        ],
+        [
+            747,
+            754,
+            "seizure",
+            "Disease",
+            "D012640"
+        ]
+    ],
+    "split_sentence": [
+        "Encephalopathy induced by levetiracetam added to valproate.",
+        "BACKGROUND: We report on the manifestation of a levetiracetam (LEV)-induced encephalopathy.",
+        "FINDINGS: A 28-year-old man suffering from idiopathic epilepsy with generalized seizures was treated with LEV (3000 mg) added to valproate (VPA) (2000 mg).",
+        "Frequency of generalized tonic-clonic seizures increased from one per 6 months to two per month.",
+        "Neuropsychological testing showed impaired word fluency, psychomotor speed and working memory.",
+        "The interictal electroencephalogram (EEG) showed a generalized slowing to 5 per second theta rhythms with bilateral generalized high-amplitude discharges.",
+        "OUTCOME: Following discontinuation of LEV, EEG and neuropsychological findings improved and seizure frequency decreased."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D001927\tDisease\tEncephalopathy\t<target> Encephalopathy </target> induced by levetiracetam added to valproate .",
+        "C026098\tChemical\tlevetiracetam\tEncephalopathy induced by <target> levetiracetam </target> added to valproate .",
+        "D014635\tChemical\tvalproate\tEncephalopathy induced by levetiracetam added to <target> valproate </target> .",
+        "C026098\tChemical\tlevetiracetam\tBACKGROUND : We report on the manifestation of a <target> levetiracetam </target> (LEV)-induced encephalopathy .",
+        "C026098\tChemical\tLEV\tBACKGROUND : We report on the manifestation of a levetiracetam ( <target> LEV </target> ) -induced encephalopathy .",
+        "D001927\tDisease\tencephalopathy\tBACKGROUND : We report on the manifestation of a levetiracetam (LEV)-induced <target> encephalopathy </target> .",
+        "C562694\tDisease\tidiopathic epilepsy\tFINDINGS : A 28-year-old man suffering from <target> idiopathic epilepsy </target> with generalized seizures was treated with LEV ( 3000 mg ) added to valproate ( VPA ) ( 2000 mg ) .",
+        "D012640\tDisease\tseizures\tFINDINGS : A 28-year-old man suffering from idiopathic epilepsy with generalized <target> seizures </target> was treated with LEV ( 3000 mg ) added to valproate ( VPA ) ( 2000 mg ) .",
+        "C026098\tChemical\tLEV\tFINDINGS : A 28-year-old man suffering from idiopathic epilepsy with generalized seizures was treated with <target> LEV </target> ( 3000 mg ) added to valproate ( VPA ) ( 2000 mg ) .",
+        "D014635\tChemical\tvalproate\tFINDINGS : A 28-year-old man suffering from idiopathic epilepsy with generalized seizures was treated with LEV ( 3000 mg ) added to <target> valproate </target> ( VPA ) ( 2000 mg ) .",
+        "D014635\tChemical\tVPA\tFINDINGS : A 28-year-old man suffering from idiopathic epilepsy with generalized seizures was treated with LEV ( 3000 mg ) added to valproate ( <target> VPA </target> ) ( 2000 mg ) .",
+        "D004830\tDisease\ttonic-clonic seizures\tFrequency of generalized <target> tonic-clonic seizures </target> increased from one per 6 months to two per month .",
+        "D008569\tDisease\timpaired word fluency, psychomotor speed and working memory\tNeuropsychological testing showed <target> impaired word fluency , psychomotor speed and working memory </target> .",
+        "C026098\tChemical\tLEV\tOUTCOME : Following discontinuation of <target> LEV </target> , EEG and neuropsychological findings improved and seizure frequency decreased .",
+        "D012640\tDisease\tseizure\tOUTCOME : Following discontinuation of LEV , EEG and neuropsychological findings improved and <target> seizure </target> frequency decreased ."
+    ],
+    "lines_lemma": [
+        "D001927\tDisease\tEncephalopathy\t<target> Encephalopathy </target> induce by levetiracetam add to valproate .",
+        "C026098\tChemical\tlevetiracetam\tEncephalopathy induce by <target> levetiracetam </target> add to valproate .",
+        "D014635\tChemical\tvalproate\tEncephalopathy induce by levetiracetam add to <target> valproate </target> .",
+        "C026098\tChemical\tlevetiracetam\tbackground : we report on the manifestation of a <target> levetiracetam </target> (lev)-induced encephalopathy .",
+        "C026098\tChemical\tLEV\tbackground : we report on the manifestation of a levetiracetam ( <target> lev </target> ) -induced encephalopathy .",
+        "D001927\tDisease\tencephalopathy\tbackground : we report on the manifestation of a levetiracetam (lev)-induced <target> encephalopathy </target> .",
+        "C562694\tDisease\tidiopathic epilepsy\tfinding : a 28-year-old man suffer from <target> idiopathic epilepsy </target> with generalize seizure be treat with lev ( 3000 mg ) add to valproate ( vpa ) ( 2000 mg ) .",
+        "D012640\tDisease\tseizures\tfinding : a 28-year-old man suffer from idiopathic epilepsy with generalize <target> seizure </target> be treat with lev ( 3000 mg ) add to valproate ( vpa ) ( 2000 mg ) .",
+        "C026098\tChemical\tLEV\tfinding : a 28-year-old man suffer from idiopathic epilepsy with generalize seizure be treat with <target> lev </target> ( 3000 mg ) add to valproate ( vpa ) ( 2000 mg ) .",
+        "D014635\tChemical\tvalproate\tfinding : a 28-year-old man suffer from idiopathic epilepsy with generalize seizure be treat with lev ( 3000 mg ) add to <target> valproate </target> ( vpa ) ( 2000 mg ) .",
+        "D014635\tChemical\tVPA\tfinding : a 28-year-old man suffer from idiopathic epilepsy with generalize seizure be treat with lev ( 3000 mg ) add to valproate ( <target> vpa </target> ) ( 2000 mg ) .",
+        "D004830\tDisease\ttonic-clonic seizures\tfrequency of generalize <target> tonic-clonic seizure </target> increase from one per 6 month to two per month .",
+        "D008569\tDisease\timpaired word fluency, psychomotor speed and working memory\tneuropsychological testing show <target> impaired word fluency , psychomotor speed and work memory </target> .",
+        "C026098\tChemical\tLEV\toutcome : follow discontinuation of <target> lev </target> , eeg and neuropsychological finding improve and seizure frequency decrease .",
+        "D012640\tDisease\tseizure\toutcome : follow discontinuation of lev , eeg and neuropsychological finding improve and <target> seizure </target> frequency decrease ."
+    ]
+}

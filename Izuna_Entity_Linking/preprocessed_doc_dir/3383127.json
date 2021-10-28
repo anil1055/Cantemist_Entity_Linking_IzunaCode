@@ -1,0 +1,157 @@
+{
+    "title": "Hypotension as a manifestation of cardiotoxicity in three patients receiving cisplatin and 5-fluorouracil.",
+    "abst": "Cardiac symptoms, including hypotension, developed in three patients with advanced colorectal carcinoma while being treated with cisplatin (CDDP) and 5-fluorouracil (5-FU). In two patients, hypotension was associated with severe left ventricular dysfunction. All three patients required therapy discontinuation. Cardiac enzymes remained normal despite transient electrocardiographic (EKG) changes. The presentation and cardiac evaluation (hemodynamic, echocardiographic, and scintigraphic) of these patients suggest new manifestations of 5-FU cardiotoxicity that may be influenced by CDDP. The possible pathophysiologic mechanisms are discussed.",
+    "title_plus_abst": "Hypotension as a manifestation of cardiotoxicity in three patients receiving cisplatin and 5-fluorouracil. Cardiac symptoms, including hypotension, developed in three patients with advanced colorectal carcinoma while being treated with cisplatin (CDDP) and 5-fluorouracil (5-FU). In two patients, hypotension was associated with severe left ventricular dysfunction. All three patients required therapy discontinuation. Cardiac enzymes remained normal despite transient electrocardiographic (EKG) changes. The presentation and cardiac evaluation (hemodynamic, echocardiographic, and scintigraphic) of these patients suggest new manifestations of 5-FU cardiotoxicity that may be influenced by CDDP. The possible pathophysiologic mechanisms are discussed.",
+    "pubmed_id": "3383127",
+    "entities": [
+        [
+            0,
+            11,
+            "Hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            34,
+            48,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            77,
+            86,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            91,
+            105,
+            "5-fluorouracil",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            135,
+            146,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            190,
+            210,
+            "colorectal carcinoma",
+            "Disease",
+            "D015179"
+        ],
+        [
+            236,
+            245,
+            "cisplatin",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            247,
+            251,
+            "CDDP",
+            "Chemical",
+            "D002945"
+        ],
+        [
+            257,
+            271,
+            "5-fluorouracil",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            273,
+            277,
+            "5-FU",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            297,
+            308,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            336,
+            364,
+            "left ventricular dysfunction",
+            "Disease",
+            "D018487"
+        ],
+        [
+            645,
+            649,
+            "5-FU",
+            "Chemical",
+            "D005472"
+        ],
+        [
+            650,
+            664,
+            "cardiotoxicity",
+            "Disease",
+            "D066126"
+        ],
+        [
+            691,
+            695,
+            "CDDP",
+            "Chemical",
+            "D002945"
+        ]
+    ],
+    "split_sentence": [
+        "Hypotension as a manifestation of cardiotoxicity in three patients receiving cisplatin and 5-fluorouracil.",
+        "Cardiac symptoms, including hypotension, developed in three patients with advanced colorectal carcinoma while being treated with cisplatin (CDDP) and 5-fluorouracil (5-FU).",
+        "In two patients, hypotension was associated with severe left ventricular dysfunction.",
+        "All three patients required therapy discontinuation.",
+        "Cardiac enzymes remained normal despite transient electrocardiographic (EKG) changes.",
+        "The presentation and cardiac evaluation (hemodynamic, echocardiographic, and scintigraphic) of these patients suggest new manifestations of 5-FU cardiotoxicity that may be influenced by CDDP.",
+        "The possible pathophysiologic mechanisms are discussed."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007022\tDisease\tHypotension\t<target> Hypotension </target> as a manifestation of cardiotoxicity in three patients receiving cisplatin and 5-fluorouracil .",
+        "D066126\tDisease\tcardiotoxicity\tHypotension as a manifestation of <target> cardiotoxicity </target> in three patients receiving cisplatin and 5-fluorouracil .",
+        "D002945\tChemical\tcisplatin\tHypotension as a manifestation of cardiotoxicity in three patients receiving <target> cisplatin </target> and 5-fluorouracil .",
+        "D005472\tChemical\t5-fluorouracil\tHypotension as a manifestation of cardiotoxicity in three patients receiving cisplatin and <target> 5-fluorouracil </target> .",
+        "D007022\tDisease\thypotension\tCardiac symptoms , including <target> hypotension </target> , developed in three patients with advanced colorectal carcinoma while being treated with cisplatin ( CDDP ) and 5-fluorouracil ( 5-FU ) .",
+        "D015179\tDisease\tcolorectal carcinoma\tCardiac symptoms , including hypotension , developed in three patients with advanced <target> colorectal carcinoma </target> while being treated with cisplatin ( CDDP ) and 5-fluorouracil ( 5-FU ) .",
+        "D002945\tChemical\tcisplatin\tCardiac symptoms , including hypotension , developed in three patients with advanced colorectal carcinoma while being treated with <target> cisplatin </target> ( CDDP ) and 5-fluorouracil ( 5-FU ) .",
+        "D002945\tChemical\tCDDP\tCardiac symptoms , including hypotension , developed in three patients with advanced colorectal carcinoma while being treated with cisplatin ( <target> CDDP </target> ) and 5-fluorouracil ( 5-FU ) .",
+        "D005472\tChemical\t5-fluorouracil\tCardiac symptoms , including hypotension , developed in three patients with advanced colorectal carcinoma while being treated with cisplatin ( CDDP ) and <target> 5-fluorouracil </target> ( 5-FU ) .",
+        "D005472\tChemical\t5-FU\tCardiac symptoms , including hypotension , developed in three patients with advanced colorectal carcinoma while being treated with cisplatin ( CDDP ) and 5-fluorouracil ( <target> 5-FU </target> ) .",
+        "D007022\tDisease\thypotension\tIn two patients , <target> hypotension </target> was associated with severe left ventricular dysfunction .",
+        "D018487\tDisease\tleft ventricular dysfunction\tIn two patients , hypotension was associated with severe <target> left ventricular dysfunction </target> .",
+        "D005472\tChemical\t5-FU\tThe presentation and cardiac evaluation ( hemodynamic , echocardiographic , and scintigraphic ) of these patients suggest new manifestations of <target> 5-FU </target> cardiotoxicity that may be influenced by CDDP .",
+        "D066126\tDisease\tcardiotoxicity\tThe presentation and cardiac evaluation ( hemodynamic , echocardiographic , and scintigraphic ) of these patients suggest new manifestations of 5-FU <target> cardiotoxicity </target> that may be influenced by CDDP .",
+        "D002945\tChemical\tCDDP\tThe presentation and cardiac evaluation ( hemodynamic , echocardiographic , and scintigraphic ) of these patients suggest new manifestations of 5-FU cardiotoxicity that may be influenced by <target> CDDP </target> ."
+    ],
+    "lines_lemma": [
+        "D007022\tDisease\tHypotension\t<target> Hypotension </target> as a manifestation of cardiotoxicity in three patient receive cisplatin and 5-fluorouracil .",
+        "D066126\tDisease\tcardiotoxicity\thypotension as a manifestation of <target> cardiotoxicity </target> in three patient receive cisplatin and 5-fluorouracil .",
+        "D002945\tChemical\tcisplatin\thypotension as a manifestation of cardiotoxicity in three patient receive <target> cisplatin </target> and 5-fluorouracil .",
+        "D005472\tChemical\t5-fluorouracil\thypotension as a manifestation of cardiotoxicity in three patient receive cisplatin and <target> 5-fluorouracil </target> .",
+        "D007022\tDisease\thypotension\tcardiac symptom , include <target> hypotension </target> , develop in three patient with advanced colorectal carcinoma while be treat with cisplatin ( cddp ) and 5-fluorouracil ( 5-fu ) .",
+        "D015179\tDisease\tcolorectal carcinoma\tcardiac symptom , include hypotension , develop in three patient with advanced <target> colorectal carcinoma </target> while be treat with cisplatin ( cddp ) and 5-fluorouracil ( 5-fu ) .",
+        "D002945\tChemical\tcisplatin\tcardiac symptom , include hypotension , develop in three patient with advanced colorectal carcinoma while be treat with <target> cisplatin </target> ( cddp ) and 5-fluorouracil ( 5-fu ) .",
+        "D002945\tChemical\tCDDP\tcardiac symptom , include hypotension , develop in three patient with advanced colorectal carcinoma while be treat with cisplatin ( <target> cddp </target> ) and 5-fluorouracil ( 5-fu ) .",
+        "D005472\tChemical\t5-fluorouracil\tcardiac symptom , include hypotension , develop in three patient with advanced colorectal carcinoma while be treat with cisplatin ( cddp ) and <target> 5-fluorouracil </target> ( 5-fu ) .",
+        "D005472\tChemical\t5-FU\tcardiac symptom , include hypotension , develop in three patient with advanced colorectal carcinoma while be treat with cisplatin ( cddp ) and 5-fluorouracil ( <target> 5-fu </target> ) .",
+        "D007022\tDisease\thypotension\tin two patient , <target> hypotension </target> be associate with severe leave ventricular dysfunction .",
+        "D018487\tDisease\tleft ventricular dysfunction\tin two patient , hypotension be associate with severe <target> leave ventricular dysfunction </target> .",
+        "D005472\tChemical\t5-FU\tthe presentation and cardiac evaluation ( hemodynamic , echocardiographic , and scintigraphic ) of these patient suggest new manifestation of <target> 5-fu </target> cardiotoxicity that may be influence by cddp .",
+        "D066126\tDisease\tcardiotoxicity\tthe presentation and cardiac evaluation ( hemodynamic , echocardiographic , and scintigraphic ) of these patient suggest new manifestation of 5-fu <target> cardiotoxicity </target> that may be influence by cddp .",
+        "D002945\tChemical\tCDDP\tthe presentation and cardiac evaluation ( hemodynamic , echocardiographic , and scintigraphic ) of these patient suggest new manifestation of 5-fu cardiotoxicity that may be influence by <target> cddp </target> ."
+    ]
+}

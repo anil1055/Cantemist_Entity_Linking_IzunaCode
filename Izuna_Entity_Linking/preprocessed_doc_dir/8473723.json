@@ -1,0 +1,90 @@
+{
+    "title": "Seizures induced by combined levomepromazine-fluvoxamine treatment.",
+    "abst": "We report a case of combined levomepromazine-fluvoxamine treatment-induced seizures. It seems that combined treatment of fluvoxamine with phenothiazines may possess proconvulsive activity.",
+    "title_plus_abst": "Seizures induced by combined levomepromazine-fluvoxamine treatment. We report a case of combined levomepromazine-fluvoxamine treatment-induced seizures. It seems that combined treatment of fluvoxamine with phenothiazines may possess proconvulsive activity.",
+    "pubmed_id": "8473723",
+    "entities": [
+        [
+            0,
+            8,
+            "Seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            29,
+            44,
+            "levomepromazine",
+            "Chemical",
+            "D008728"
+        ],
+        [
+            45,
+            56,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            97,
+            112,
+            "levomepromazine",
+            "Chemical",
+            "D008728"
+        ],
+        [
+            113,
+            124,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            143,
+            151,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            189,
+            200,
+            "fluvoxamine",
+            "Chemical",
+            "D016666"
+        ],
+        [
+            206,
+            220,
+            "phenothiazines",
+            "Chemical",
+            "D010640"
+        ]
+    ],
+    "split_sentence": [
+        "Seizures induced by combined levomepromazine-fluvoxamine treatment.",
+        "We report a case of combined levomepromazine-fluvoxamine treatment-induced seizures.",
+        "It seems that combined treatment of fluvoxamine with phenothiazines may possess proconvulsive activity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D012640\tDisease\tSeizures\t<target> Seizures </target> induced by combined levomepromazine-fluvoxamine treatment .",
+        "D008728\tChemical\tlevomepromazine\tSeizures induced by combined <target> levomepromazine </target> -fluvoxamine treatment .",
+        "D016666\tChemical\tfluvoxamine\tSeizures induced by combined levomepromazine- <target> fluvoxamine </target> treatment .",
+        "D008728\tChemical\tlevomepromazine\tWe report a case of combined <target> levomepromazine </target> -fluvoxamine treatment-induced seizures .",
+        "D016666\tChemical\tfluvoxamine\tWe report a case of combined levomepromazine- <target> fluvoxamine </target> treatment-induced seizures .",
+        "D012640\tDisease\tseizures\tWe report a case of combined levomepromazine-fluvoxamine treatment-induced <target> seizures </target> .",
+        "D016666\tChemical\tfluvoxamine\tIt seems that combined treatment of <target> fluvoxamine </target> with phenothiazines may possess proconvulsive activity .",
+        "D010640\tChemical\tphenothiazines\tIt seems that combined treatment of fluvoxamine with <target> phenothiazines </target> may possess proconvulsive activity ."
+    ],
+    "lines_lemma": [
+        "D012640\tDisease\tSeizures\t<target> seizure </target> induce by combined levomepromazine-fluvoxamine treatment .",
+        "D008728\tChemical\tlevomepromazine\tseizure induce by combined <target> levomepromazine </target> -fluvoxamine treatment .",
+        "D016666\tChemical\tfluvoxamine\tseizure induce by combined levomepromazine- <target> fluvoxamine </target> treatment .",
+        "D008728\tChemical\tlevomepromazine\twe report a case of combined <target> levomepromazine </target> -fluvoxamine treatment-induced seizure .",
+        "D016666\tChemical\tfluvoxamine\twe report a case of combined levomepromazine- <target> fluvoxamine </target> treatment-induced seizure .",
+        "D012640\tDisease\tseizures\twe report a case of combined levomepromazine-fluvoxamine treatment-induced <target> seizure </target> .",
+        "D016666\tChemical\tfluvoxamine\tit seem that combined treatment of <target> fluvoxamine </target> with phenothiazine may possess proconvulsive activity .",
+        "D010640\tChemical\tphenothiazines\tit seem that combined treatment of fluvoxamine with <target> phenothiazine </target> may possess proconvulsive activity ."
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "title": "Hypotension following the initiation of tizanidine in a patient treated with an angiotensin converting enzyme inhibitor for chronic hypertension.",
+    "abst": "Centrally acting alpha-2 adrenergic agonists are one of several pharmacologic agents used in the treatment of spasticity related to disorders of the central nervous system. In addition to their effects on spasticity, certain adverse cardiorespiratory effects have been reported. Adults chronically treated with angiotensin converting enzyme inhibitors may have a limited ability to respond to hypotension when the sympathetic response is simultaneously blocked. The authors present a 10-year-old boy chronically treated with lisinopril, an angiotensin converting enzyme inhibitor, to control hypertension who developed hypotension following the addition of tizanidine, an alpha-2 agonist, for the treatment of spasticity. The possible interaction of tizanidine and other antihypertensive agents should be kept in mind when prescribing therapy to treat either hypertension or spasticity in such patients.",
+    "title_plus_abst": "Hypotension following the initiation of tizanidine in a patient treated with an angiotensin converting enzyme inhibitor for chronic hypertension. Centrally acting alpha-2 adrenergic agonists are one of several pharmacologic agents used in the treatment of spasticity related to disorders of the central nervous system. In addition to their effects on spasticity, certain adverse cardiorespiratory effects have been reported. Adults chronically treated with angiotensin converting enzyme inhibitors may have a limited ability to respond to hypotension when the sympathetic response is simultaneously blocked. The authors present a 10-year-old boy chronically treated with lisinopril, an angiotensin converting enzyme inhibitor, to control hypertension who developed hypotension following the addition of tizanidine, an alpha-2 agonist, for the treatment of spasticity. The possible interaction of tizanidine and other antihypertensive agents should be kept in mind when prescribing therapy to treat either hypertension or spasticity in such patients.",
+    "pubmed_id": "11198499",
+    "entities": [
+        [
+            0,
+            11,
+            "Hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            40,
+            50,
+            "tizanidine",
+            "Chemical",
+            "C023754"
+        ],
+        [
+            80,
+            91,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            132,
+            144,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            256,
+            266,
+            "spasticity",
+            "Disease",
+            "D009128"
+        ],
+        [
+            278,
+            317,
+            "disorders of the central nervous system",
+            "Disease",
+            "D002493"
+        ],
+        [
+            351,
+            361,
+            "spasticity",
+            "Disease",
+            "D009128"
+        ],
+        [
+            457,
+            468,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            539,
+            550,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            671,
+            681,
+            "lisinopril",
+            "Chemical",
+            "D017706"
+        ],
+        [
+            686,
+            697,
+            "angiotensin",
+            "Chemical",
+            "D000809"
+        ],
+        [
+            738,
+            750,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            765,
+            776,
+            "hypotension",
+            "Disease",
+            "D007022"
+        ],
+        [
+            803,
+            813,
+            "tizanidine",
+            "Chemical",
+            "C023754"
+        ],
+        [
+            856,
+            866,
+            "spasticity",
+            "Disease",
+            "D009128"
+        ],
+        [
+            896,
+            906,
+            "tizanidine",
+            "Chemical",
+            "C023754"
+        ],
+        [
+            1005,
+            1017,
+            "hypertension",
+            "Disease",
+            "D006973"
+        ],
+        [
+            1021,
+            1031,
+            "spasticity",
+            "Disease",
+            "D009128"
+        ]
+    ],
+    "split_sentence": [
+        "Hypotension following the initiation of tizanidine in a patient treated with an angiotensin converting enzyme inhibitor for chronic hypertension.",
+        "Centrally acting alpha-2 adrenergic agonists are one of several pharmacologic agents used in the treatment of spasticity related to disorders of the central nervous system.",
+        "In addition to their effects on spasticity, certain adverse cardiorespiratory effects have been reported.",
+        "Adults chronically treated with angiotensin converting enzyme inhibitors may have a limited ability to respond to hypotension when the sympathetic response is simultaneously blocked.",
+        "The authors present a 10-year-old boy chronically treated with lisinopril, an angiotensin converting enzyme inhibitor, to control hypertension who developed hypotension following the addition of tizanidine, an alpha-2 agonist, for the treatment of spasticity.",
+        "The possible interaction of tizanidine and other antihypertensive agents should be kept in mind when prescribing therapy to treat either hypertension or spasticity in such patients."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D007022\tDisease\tHypotension\t<target> Hypotension </target> following the initiation of tizanidine in a patient treated with an angiotensin converting enzyme inhibitor for chronic hypertension .",
+        "C023754\tChemical\ttizanidine\tHypotension following the initiation of <target> tizanidine </target> in a patient treated with an angiotensin converting enzyme inhibitor for chronic hypertension .",
+        "D000809\tChemical\tangiotensin\tHypotension following the initiation of tizanidine in a patient treated with an <target> angiotensin </target> converting enzyme inhibitor for chronic hypertension .",
+        "D006973\tDisease\thypertension\tHypotension following the initiation of tizanidine in a patient treated with an angiotensin converting enzyme inhibitor for chronic <target> hypertension </target> .",
+        "D009128\tDisease\tspasticity\tCentrally acting alpha-2 adrenergic agonists are one of several pharmacologic agents used in the treatment of <target> spasticity </target> related to disorders of the central nervous system .",
+        "D002493\tDisease\tdisorders of the central nervous system\tCentrally acting alpha-2 adrenergic agonists are one of several pharmacologic agents used in the treatment of spasticity related to <target> disorders of the central nervous system </target> .",
+        "D009128\tDisease\tspasticity\tIn addition to their effects on <target> spasticity </target> , certain adverse cardiorespiratory effects have been reported .",
+        "D000809\tChemical\tangiotensin\tAdults chronically treated with <target> angiotensin </target> converting enzyme inhibitors may have a limited ability to respond to hypotension when the sympathetic response is simultaneously blocked .",
+        "D007022\tDisease\thypotension\tAdults chronically treated with angiotensin converting enzyme inhibitors may have a limited ability to respond to <target> hypotension </target> when the sympathetic response is simultaneously blocked .",
+        "D017706\tChemical\tlisinopril\tThe authors present a 10-year-old boy chronically treated with <target> lisinopril </target> , an angiotensin converting enzyme inhibitor , to control hypertension who developed hypotension following the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "D000809\tChemical\tangiotensin\tThe authors present a 10-year-old boy chronically treated with lisinopril , an <target> angiotensin </target> converting enzyme inhibitor , to control hypertension who developed hypotension following the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "D006973\tDisease\thypertension\tThe authors present a 10-year-old boy chronically treated with lisinopril , an angiotensin converting enzyme inhibitor , to control <target> hypertension </target> who developed hypotension following the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "D007022\tDisease\thypotension\tThe authors present a 10-year-old boy chronically treated with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who developed <target> hypotension </target> following the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "C023754\tChemical\ttizanidine\tThe authors present a 10-year-old boy chronically treated with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who developed hypotension following the addition of <target> tizanidine </target> , an alpha-2 agonist , for the treatment of spasticity .",
+        "D009128\tDisease\tspasticity\tThe authors present a 10-year-old boy chronically treated with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who developed hypotension following the addition of tizanidine , an alpha-2 agonist , for the treatment of <target> spasticity </target> .",
+        "C023754\tChemical\ttizanidine\tThe possible interaction of <target> tizanidine </target> and other antihypertensive agents should be kept in mind when prescribing therapy to treat either hypertension or spasticity in such patients .",
+        "D006973\tDisease\thypertension\tThe possible interaction of tizanidine and other antihypertensive agents should be kept in mind when prescribing therapy to treat either <target> hypertension </target> or spasticity in such patients .",
+        "D009128\tDisease\tspasticity\tThe possible interaction of tizanidine and other antihypertensive agents should be kept in mind when prescribing therapy to treat either hypertension or <target> spasticity </target> in such patients ."
+    ],
+    "lines_lemma": [
+        "D007022\tDisease\tHypotension\t<target> Hypotension </target> follow the initiation of tizanidine in a patient treat with an angiotensin converting enzyme inhibitor for chronic hypertension .",
+        "C023754\tChemical\ttizanidine\thypotension follow the initiation of <target> tizanidine </target> in a patient treat with an angiotensin converting enzyme inhibitor for chronic hypertension .",
+        "D000809\tChemical\tangiotensin\thypotension follow the initiation of tizanidine in a patient treat with an <target> angiotensin </target> convert enzyme inhibitor for chronic hypertension .",
+        "D006973\tDisease\thypertension\thypotension follow the initiation of tizanidine in a patient treat with an angiotensin converting enzyme inhibitor for chronic <target> hypertension </target> .",
+        "D009128\tDisease\tspasticity\tcentrally act alpha-2 adrenergic agonist be one of several pharmacologic agent use in the treatment of <target> spasticity </target> related to disorder of the central nervous system .",
+        "D002493\tDisease\tdisorders of the central nervous system\tcentrally act alpha-2 adrenergic agonist be one of several pharmacologic agent use in the treatment of spasticity related to <target> disorder of the central nervous system </target> .",
+        "D009128\tDisease\tspasticity\tin addition to their effect on <target> spasticity </target> , certain adverse cardiorespiratory effect have be report .",
+        "D000809\tChemical\tangiotensin\tadult chronically treat with <target> angiotensin </target> convert enzyme inhibitor may have a limited ability to respond to hypotension when the sympathetic response be simultaneously block .",
+        "D007022\tDisease\thypotension\tadult chronically treat with angiotensin converting enzyme inhibitor may have a limited ability to respond to <target> hypotension </target> when the sympathetic response be simultaneously block .",
+        "D017706\tChemical\tlisinopril\tthe author present a 10-year-old boy chronically treat with <target> lisinopril </target> , an angiotensin converting enzyme inhibitor , to control hypertension who develop hypotension follow the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "D000809\tChemical\tangiotensin\tthe author present a 10-year-old boy chronically treat with lisinopril , an <target> angiotensin </target> convert enzyme inhibitor , to control hypertension who develop hypotension follow the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "D006973\tDisease\thypertension\tthe author present a 10-year-old boy chronically treat with lisinopril , an angiotensin converting enzyme inhibitor , to control <target> hypertension </target> who develop hypotension follow the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "D007022\tDisease\thypotension\tthe author present a 10-year-old boy chronically treat with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who develop <target> hypotension </target> follow the addition of tizanidine , an alpha-2 agonist , for the treatment of spasticity .",
+        "C023754\tChemical\ttizanidine\tthe author present a 10-year-old boy chronically treat with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who develop hypotension follow the addition of <target> tizanidine </target> , an alpha-2 agonist , for the treatment of spasticity .",
+        "D009128\tDisease\tspasticity\tthe author present a 10-year-old boy chronically treat with lisinopril , an angiotensin converting enzyme inhibitor , to control hypertension who develop hypotension follow the addition of tizanidine , an alpha-2 agonist , for the treatment of <target> spasticity </target> .",
+        "C023754\tChemical\ttizanidine\tthe possible interaction of <target> tizanidine </target> and other antihypertensive agent should be keep in mind when prescribing therapy to treat either hypertension or spasticity in such patient .",
+        "D006973\tDisease\thypertension\tthe possible interaction of tizanidine and other antihypertensive agent should be keep in mind when prescribing therapy to treat either <target> hypertension </target> or spasticity in such patient .",
+        "D009128\tDisease\tspasticity\tthe possible interaction of tizanidine and other antihypertensive agent should be keep in mind when prescribing therapy to treat either hypertension or <target> spasticity </target> in such patient ."
+    ]
+}

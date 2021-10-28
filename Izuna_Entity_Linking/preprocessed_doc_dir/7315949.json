@@ -1,0 +1,70 @@
+{
+    "title": "Medial changes in arterial spasm induced by L-norepinephrine.",
+    "abst": "In normal rats, the media of small arteries (0.4--0.2 mm in diameter) previously was shown to contain intracellular vacuoles, identified ultrastructurally as herniations of one smooth muscle cell into another. The hypothesis that intense vasoconstriction would increase the number of such vacuoles has been tested. In the media of the saphenous artery and its distal branch, vasoconstriction induced by L-norepinephrine produced many cell-to-cell hernias within 15 minutes. At 1 day their number was reduced to about 1/10 of the original number. By 7 days the vessel was almost restored to normal. Triple stimulation over 1 day induced more severe changes in the media. These findings suggest that smooth muscle cells are susceptible to damage in the course of their specific function. The experimental data are discussed in relation to medial changes observed in other instances of arterial spasm. Endothelial changes that developed in the same experimental model were described in a previous paper.",
+    "title_plus_abst": "Medial changes in arterial spasm induced by L-norepinephrine. In normal rats, the media of small arteries (0.4--0.2 mm in diameter) previously was shown to contain intracellular vacuoles, identified ultrastructurally as herniations of one smooth muscle cell into another. The hypothesis that intense vasoconstriction would increase the number of such vacuoles has been tested. In the media of the saphenous artery and its distal branch, vasoconstriction induced by L-norepinephrine produced many cell-to-cell hernias within 15 minutes. At 1 day their number was reduced to about 1/10 of the original number. By 7 days the vessel was almost restored to normal. Triple stimulation over 1 day induced more severe changes in the media. These findings suggest that smooth muscle cells are susceptible to damage in the course of their specific function. The experimental data are discussed in relation to medial changes observed in other instances of arterial spasm. Endothelial changes that developed in the same experimental model were described in a previous paper.",
+    "pubmed_id": "7315949",
+    "entities": [
+        [
+            27,
+            32,
+            "spasm",
+            "Disease",
+            "D013035"
+        ],
+        [
+            44,
+            60,
+            "L-norepinephrine",
+            "Chemical",
+            "D009638"
+        ],
+        [
+            465,
+            481,
+            "L-norepinephrine",
+            "Chemical",
+            "D009638"
+        ],
+        [
+            509,
+            516,
+            "hernias",
+            "Disease",
+            "D006547"
+        ],
+        [
+            954,
+            959,
+            "spasm",
+            "Disease",
+            "D013035"
+        ]
+    ],
+    "split_sentence": [
+        "Medial changes in arterial spasm induced by L-norepinephrine.",
+        "In normal rats, the media of small arteries (0.4--0.2 mm in diameter) previously was shown to contain intracellular vacuoles, identified ultrastructurally as herniations of one smooth muscle cell into another.",
+        "The hypothesis that intense vasoconstriction would increase the number of such vacuoles has been tested.",
+        "In the media of the saphenous artery and its distal branch, vasoconstriction induced by L-norepinephrine produced many cell-to-cell hernias within 15 minutes.",
+        "At 1 day their number was reduced to about 1/10 of the original number.",
+        "By 7 days the vessel was almost restored to normal.",
+        "Triple stimulation over 1 day induced more severe changes in the media.",
+        "These findings suggest that smooth muscle cells are susceptible to damage in the course of their specific function.",
+        "The experimental data are discussed in relation to medial changes observed in other instances of arterial spasm.",
+        "Endothelial changes that developed in the same experimental model were described in a previous paper."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D013035\tDisease\tspasm\tMedial changes in arterial <target> spasm </target> induced by L-norepinephrine .",
+        "D009638\tChemical\tL-norepinephrine\tMedial changes in arterial spasm induced by <target> L-norepinephrine </target> .",
+        "D009638\tChemical\tL-norepinephrine\tIn the media of the saphenous artery and its distal branch , vasoconstriction induced by <target> L-norepinephrine </target> produced many cell-to-cell hernias within 15 minutes .",
+        "D006547\tDisease\thernias\tIn the media of the saphenous artery and its distal branch , vasoconstriction induced by L-norepinephrine produced many cell-to-cell <target> hernias </target> within 15 minutes .",
+        "D013035\tDisease\tspasm\tThe experimental data are discussed in relation to medial changes observed in other instances of arterial <target> spasm </target> ."
+    ],
+    "lines_lemma": [
+        "D013035\tDisease\tspasm\tmedial change in arterial <target> spasm </target> induce by l-norepinephrine .",
+        "D009638\tChemical\tL-norepinephrine\tmedial change in arterial spasm induce by <target> l-norepinephrine </target> .",
+        "D009638\tChemical\tL-norepinephrine\tin the medium of the saphenous artery and its distal branch , vasoconstriction induce by <target> l-norepinephrine </target> produce many cell-to-cell hernia within 15 minute .",
+        "D006547\tDisease\thernias\tin the medium of the saphenous artery and its distal branch , vasoconstriction induce by l-norepinephrine produce many cell-to-cell <target> hernia </target> within 15 minute .",
+        "D013035\tDisease\tspasm\tthe experimental datum be discuss in relation to medial change observe in other instance of arterial <target> spasm </target> ."
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "title": "St. Anthony's fire, then and now: a case report and historical review.",
+    "abst": "A rare case of morbid vasospasm, together with striking angiographic findings, is described secondary to the ingestion of methysergide by a 48-year-old woman. A brief review of the literature on similar cases is presented. A discussion of the history of ergot includes its original discovery, the epidemics of gangrene that it has caused through the ages and its past and present role in the management of migraine headache. Despite the advent of calcium channel blockers and beta-adrenergic antagonists, ergot preparations continue to play a major role in migraine therapy, so that the danger of St. Anthony's fire persists.",
+    "title_plus_abst": "St. Anthony's fire, then and now: a case report and historical review. A rare case of morbid vasospasm, together with striking angiographic findings, is described secondary to the ingestion of methysergide by a 48-year-old woman. A brief review of the literature on similar cases is presented. A discussion of the history of ergot includes its original discovery, the epidemics of gangrene that it has caused through the ages and its past and present role in the management of migraine headache. Despite the advent of calcium channel blockers and beta-adrenergic antagonists, ergot preparations continue to play a major role in migraine therapy, so that the danger of St. Anthony's fire persists.",
+    "pubmed_id": "3300918",
+    "entities": [
+        [
+            0,
+            18,
+            "St. Anthony's fire",
+            "Disease",
+            "D004881"
+        ],
+        [
+            93,
+            102,
+            "vasospasm",
+            "Disease",
+            "D014652"
+        ],
+        [
+            193,
+            205,
+            "methysergide",
+            "Chemical",
+            "D008784"
+        ],
+        [
+            325,
+            330,
+            "ergot",
+            "Chemical",
+            "D004876"
+        ],
+        [
+            381,
+            389,
+            "gangrene",
+            "Disease",
+            "D005734"
+        ],
+        [
+            477,
+            494,
+            "migraine headache",
+            "Disease",
+            "D008881"
+        ],
+        [
+            518,
+            525,
+            "calcium",
+            "Chemical",
+            "D002118"
+        ],
+        [
+            576,
+            581,
+            "ergot",
+            "Chemical",
+            "D004876"
+        ],
+        [
+            628,
+            636,
+            "migraine",
+            "Disease",
+            "D008881"
+        ],
+        [
+            668,
+            686,
+            "St. Anthony's fire",
+            "Disease",
+            "D004881"
+        ]
+    ],
+    "split_sentence": [
+        "St. Anthony's fire, then and now: a case report and historical review.",
+        "A rare case of morbid vasospasm, together with striking angiographic findings, is described secondary to the ingestion of methysergide by a 48-year-old woman.",
+        "A brief review of the literature on similar cases is presented.",
+        "A discussion of the history of ergot includes its original discovery, the epidemics of gangrene that it has caused through the ages and its past and present role in the management of migraine headache.",
+        "Despite the advent of calcium channel blockers and beta-adrenergic antagonists, ergot preparations continue to play a major role in migraine therapy, so that the danger of St. Anthony's fire persists."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D004881\tDisease\tSt. Anthony's fire\t<target> St. Anthony 's fire </target> , then and now : a case report and historical review .",
+        "D014652\tDisease\tvasospasm\tA rare case of morbid <target> vasospasm </target> , together with striking angiographic findings , is described secondary to the ingestion of methysergide by a 48-year-old woman .",
+        "D008784\tChemical\tmethysergide\tA rare case of morbid vasospasm , together with striking angiographic findings , is described secondary to the ingestion of <target> methysergide </target> by a 48-year-old woman .",
+        "D004876\tChemical\tergot\tA discussion of the history of <target> ergot </target> includes its original discovery , the epidemics of gangrene that it has caused through the ages and its past and present role in the management of migraine headache .",
+        "D005734\tDisease\tgangrene\tA discussion of the history of ergot includes its original discovery , the epidemics of <target> gangrene </target> that it has caused through the ages and its past and present role in the management of migraine headache .",
+        "D008881\tDisease\tmigraine headache\tA discussion of the history of ergot includes its original discovery , the epidemics of gangrene that it has caused through the ages and its past and present role in the management of <target> migraine headache </target> .",
+        "D002118\tChemical\tcalcium\tDespite the advent of <target> calcium </target> channel blockers and beta-adrenergic antagonists , ergot preparations continue to play a major role in migraine therapy , so that the danger of St. Anthony 's fire persists .",
+        "D004876\tChemical\tergot\tDespite the advent of calcium channel blockers and beta-adrenergic antagonists , <target> ergot </target> preparations continue to play a major role in migraine therapy , so that the danger of St. Anthony 's fire persists .",
+        "D008881\tDisease\tmigraine\tDespite the advent of calcium channel blockers and beta-adrenergic antagonists , ergot preparations continue to play a major role in <target> migraine </target> therapy , so that the danger of St. Anthony 's fire persists .",
+        "D004881\tDisease\tSt. Anthony's fire\tDespite the advent of calcium channel blockers and beta-adrenergic antagonists , ergot preparations continue to play a major role in migraine therapy , so that the danger of <target> St. Anthony 's fire </target> persists ."
+    ],
+    "lines_lemma": [
+        "D004881\tDisease\tSt. Anthony's fire\t<target> St. Anthony 's fire </target> , then and now : a case report and historical review .",
+        "D014652\tDisease\tvasospasm\ta rare case of morbid <target> vasospasm </target> , together with striking angiographic finding , be describe secondary to the ingestion of methysergide by a 48-year-old woman .",
+        "D008784\tChemical\tmethysergide\ta rare case of morbid vasospasm , together with striking angiographic finding , be describe secondary to the ingestion of <target> methysergide </target> by a 48-year-old woman .",
+        "D004876\tChemical\tergot\ta discussion of the history of <target> ergot </target> include its original discovery , the epidemic of gangrene that it have cause through the age and its past and present role in the management of migraine headache .",
+        "D005734\tDisease\tgangrene\ta discussion of the history of ergot include its original discovery , the epidemic of <target> gangrene </target> that it have cause through the age and its past and present role in the management of migraine headache .",
+        "D008881\tDisease\tmigraine headache\ta discussion of the history of ergot include its original discovery , the epidemic of gangrene that it have cause through the age and its past and present role in the management of <target> migraine headache </target> .",
+        "D002118\tChemical\tcalcium\tdespite the advent of <target> calcium </target> channel blocker and beta-adrenergic antagonist , ergot preparation continue to play a major role in migraine therapy , so that the danger of St. Anthony 's fire persist .",
+        "D004876\tChemical\tergot\tdespite the advent of calcium channel blocker and beta-adrenergic antagonist , <target> ergot </target> preparation continue to play a major role in migraine therapy , so that the danger of St. Anthony 's fire persist .",
+        "D008881\tDisease\tmigraine\tdespite the advent of calcium channel blocker and beta-adrenergic antagonist , ergot preparation continue to play a major role in <target> migraine </target> therapy , so that the danger of St. Anthony 's fire persist .",
+        "D004881\tDisease\tSt. Anthony's fire\tdespite the advent of calcium channel blocker and beta-adrenergic antagonist , ergot preparation continue to play a major role in migraine therapy , so that the danger of <target> St. Anthony 's fire </target> persist ."
+    ]
+}

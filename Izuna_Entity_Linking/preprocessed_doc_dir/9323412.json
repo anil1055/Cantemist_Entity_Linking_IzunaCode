@@ -1,0 +1,119 @@
+{
+    "title": "Acute severe depression following peri-operative ondansetron.",
+    "abst": "A 41-year-old woman with a strong history of postoperative nausea and vomiting presented for abdominal hysterectomy 3 months after a previous anaesthetic where ondansetron prophylaxis had been used. She had developed a severe acute major depression disorder almost immediately thereafter, possibly related to the use of a serotonin antagonist. Nine years before she had experienced a self-limited puerperal depressive episode. Anaesthesia with a propofol infusion and avoidance of serotonin antagonists provided a nausea-free postoperative course without exacerbation of the depression disorder.",
+    "title_plus_abst": "Acute severe depression following peri-operative ondansetron. A 41-year-old woman with a strong history of postoperative nausea and vomiting presented for abdominal hysterectomy 3 months after a previous anaesthetic where ondansetron prophylaxis had been used. She had developed a severe acute major depression disorder almost immediately thereafter, possibly related to the use of a serotonin antagonist. Nine years before she had experienced a self-limited puerperal depressive episode. Anaesthesia with a propofol infusion and avoidance of serotonin antagonists provided a nausea-free postoperative course without exacerbation of the depression disorder.",
+    "pubmed_id": "9323412",
+    "entities": [
+        [
+            13,
+            23,
+            "depression",
+            "Disease",
+            "D003866"
+        ],
+        [
+            49,
+            60,
+            "ondansetron",
+            "Chemical",
+            "D017294"
+        ],
+        [
+            107,
+            140,
+            "postoperative nausea and vomiting",
+            "Disease",
+            "D020250"
+        ],
+        [
+            222,
+            233,
+            "ondansetron",
+            "Chemical",
+            "D017294"
+        ],
+        [
+            294,
+            319,
+            "major depression disorder",
+            "Disease",
+            "D003865"
+        ],
+        [
+            384,
+            393,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            469,
+            487,
+            "depressive episode",
+            "Disease",
+            "D003866"
+        ],
+        [
+            508,
+            516,
+            "propofol",
+            "Chemical",
+            "D015742"
+        ],
+        [
+            543,
+            552,
+            "serotonin",
+            "Chemical",
+            "D012701"
+        ],
+        [
+            576,
+            582,
+            "nausea",
+            "Disease",
+            "D009325"
+        ],
+        [
+            637,
+            656,
+            "depression disorder",
+            "Disease",
+            "D003866"
+        ]
+    ],
+    "split_sentence": [
+        "Acute severe depression following peri-operative ondansetron.",
+        "A 41-year-old woman with a strong history of postoperative nausea and vomiting presented for abdominal hysterectomy 3 months after a previous anaesthetic where ondansetron prophylaxis had been used.",
+        "She had developed a severe acute major depression disorder almost immediately thereafter, possibly related to the use of a serotonin antagonist.",
+        "Nine years before she had experienced a self-limited puerperal depressive episode.",
+        "Anaesthesia with a propofol infusion and avoidance of serotonin antagonists provided a nausea-free postoperative course without exacerbation of the depression disorder."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003866\tDisease\tdepression\tAcute severe <target> depression </target> following peri-operative ondansetron .",
+        "D017294\tChemical\tondansetron\tAcute severe depression following peri-operative <target> ondansetron </target> .",
+        "D020250\tDisease\tpostoperative nausea and vomiting\tA 41-year-old woman with a strong history of <target> postoperative nausea and vomiting </target> presented for abdominal hysterectomy 3 months after a previous anaesthetic where ondansetron prophylaxis had been used .",
+        "D017294\tChemical\tondansetron\tA 41-year-old woman with a strong history of postoperative nausea and vomiting presented for abdominal hysterectomy 3 months after a previous anaesthetic where <target> ondansetron </target> prophylaxis had been used .",
+        "D003865\tDisease\tmajor depression disorder\tShe had developed a severe acute <target> major depression disorder </target> almost immediately thereafter , possibly related to the use of a serotonin antagonist .",
+        "D012701\tChemical\tserotonin\tShe had developed a severe acute major depression disorder almost immediately thereafter , possibly related to the use of a <target> serotonin </target> antagonist .",
+        "D003866\tDisease\tdepressive episode\tNine years before she had experienced a self-limited puerperal <target> depressive episode </target> .",
+        "D015742\tChemical\tpropofol\tAnaesthesia with a <target> propofol </target> infusion and avoidance of serotonin antagonists provided a nausea-free postoperative course without exacerbation of the depression disorder .",
+        "D012701\tChemical\tserotonin\tAnaesthesia with a propofol infusion and avoidance of <target> serotonin </target> antagonists provided a nausea-free postoperative course without exacerbation of the depression disorder .",
+        "D009325\tDisease\tnausea\tAnaesthesia with a propofol infusion and avoidance of serotonin antagonists provided a <target> nausea </target> -free postoperative course without exacerbation of the depression disorder .",
+        "D003866\tDisease\tdepression disorder\tAnaesthesia with a propofol infusion and avoidance of serotonin antagonists provided a nausea-free postoperative course without exacerbation of the <target> depression disorder </target> ."
+    ],
+    "lines_lemma": [
+        "D003866\tDisease\tdepression\tacute severe <target> depression </target> follow peri-operative ondansetron .",
+        "D017294\tChemical\tondansetron\tacute severe depression follow peri-operative <target> ondansetron </target> .",
+        "D020250\tDisease\tpostoperative nausea and vomiting\ta 41-year-old woman with a strong history of <target> postoperative nausea and vomiting </target> present for abdominal hysterectomy 3 month after a previous anaesthetic where ondansetron prophylaxis have be use .",
+        "D017294\tChemical\tondansetron\ta 41-year-old woman with a strong history of postoperative nausea and vomiting present for abdominal hysterectomy 3 month after a previous anaesthetic where <target> ondansetron </target> prophylaxis have be use .",
+        "D003865\tDisease\tmajor depression disorder\tshe have develop a severe acute <target> major depression disorder </target> almost immediately thereafter , possibly related to the use of a serotonin antagonist .",
+        "D012701\tChemical\tserotonin\tshe have develop a severe acute major depression disorder almost immediately thereafter , possibly related to the use of a <target> serotonin </target> antagonist .",
+        "D003866\tDisease\tdepressive episode\tnine year before she have experience a self-limited puerperal <target> depressive episode </target> .",
+        "D015742\tChemical\tpropofol\tanaesthesia with a <target> propofol </target> infusion and avoidance of serotonin antagonist provide a nausea-free postoperative course without exacerbation of the depression disorder .",
+        "D012701\tChemical\tserotonin\tanaesthesia with a propofol infusion and avoidance of <target> serotonin </target> antagonist provide a nausea-free postoperative course without exacerbation of the depression disorder .",
+        "D009325\tDisease\tnausea\tanaesthesia with a propofol infusion and avoidance of serotonin antagonist provide a <target> nausea </target> -free postoperative course without exacerbation of the depression disorder .",
+        "D003866\tDisease\tdepression disorder\tanaesthesia with a propofol infusion and avoidance of serotonin antagonist provide a nausea-free postoperative course without exacerbation of the <target> depression disorder </target> ."
+    ]
+}

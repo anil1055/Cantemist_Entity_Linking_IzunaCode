@@ -1,0 +1,128 @@
+{
+    "title": "Phenobarbital-induced dyskinesia in a neurologically-impaired child.",
+    "abst": "A 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for seizures. Known causes of movement disorders were eliminated after evaluation. On repeat challenge with phenobarbital, the dyskinesia recurred. Phenobarbital should be added to the list of anticonvulsant drugs that can cause movement disorders.",
+    "title_plus_abst": "Phenobarbital-induced dyskinesia in a neurologically-impaired child. A 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for seizures. Known causes of movement disorders were eliminated after evaluation. On repeat challenge with phenobarbital, the dyskinesia recurred. Phenobarbital should be added to the list of anticonvulsant drugs that can cause movement disorders.",
+    "pubmed_id": "6504332",
+    "entities": [
+        [
+            0,
+            13,
+            "Phenobarbital",
+            "Chemical",
+            "D010634"
+        ],
+        [
+            22,
+            32,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            38,
+            61,
+            "neurologically-impaired",
+            "Disease",
+            "D009422"
+        ],
+        [
+            99,
+            120,
+            "neurologic impairment",
+            "Disease",
+            "D009422"
+        ],
+        [
+            133,
+            143,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            164,
+            177,
+            "phenobarbital",
+            "Chemical",
+            "D010634"
+        ],
+        [
+            190,
+            198,
+            "seizures",
+            "Disease",
+            "D012640"
+        ],
+        [
+            216,
+            234,
+            "movement disorders",
+            "Disease",
+            "D009069"
+        ],
+        [
+            294,
+            307,
+            "phenobarbital",
+            "Chemical",
+            "D010634"
+        ],
+        [
+            313,
+            323,
+            "dyskinesia",
+            "Disease",
+            "D004409"
+        ],
+        [
+            334,
+            347,
+            "Phenobarbital",
+            "Chemical",
+            "D010634"
+        ],
+        [
+            415,
+            433,
+            "movement disorders",
+            "Disease",
+            "D009069"
+        ]
+    ],
+    "split_sentence": [
+        "Phenobarbital-induced dyskinesia in a neurologically-impaired child.",
+        "A 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for seizures.",
+        "Known causes of movement disorders were eliminated after evaluation.",
+        "On repeat challenge with phenobarbital, the dyskinesia recurred.",
+        "Phenobarbital should be added to the list of anticonvulsant drugs that can cause movement disorders."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D010634\tChemical\tPhenobarbital\t<target> Phenobarbital </target> -induced dyskinesia in a neurologically-impaired child .",
+        "D004409\tDisease\tdyskinesia\tPhenobarbital-induced <target> dyskinesia </target> in a neurologically-impaired child .",
+        "D009422\tDisease\tneurologically-impaired\tPhenobarbital-induced dyskinesia in a <target> neurologically-impaired </target> child .",
+        "D009422\tDisease\tneurologic impairment\tA 2-year-old child with known <target> neurologic impairment </target> developed a dyskinesia soon after starting phenobarbital therapy for seizures .",
+        "D004409\tDisease\tdyskinesia\tA 2-year-old child with known neurologic impairment developed a <target> dyskinesia </target> soon after starting phenobarbital therapy for seizures .",
+        "D010634\tChemical\tphenobarbital\tA 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting <target> phenobarbital </target> therapy for seizures .",
+        "D012640\tDisease\tseizures\tA 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for <target> seizures </target> .",
+        "D009069\tDisease\tmovement disorders\tKnown causes of <target> movement disorders </target> were eliminated after evaluation .",
+        "D010634\tChemical\tphenobarbital\tOn repeat challenge with <target> phenobarbital </target> , the dyskinesia recurred .",
+        "D004409\tDisease\tdyskinesia\tOn repeat challenge with phenobarbital , the <target> dyskinesia </target> recurred .",
+        "D010634\tChemical\tPhenobarbital\t<target> Phenobarbital </target> should be added to the list of anticonvulsant drugs that can cause movement disorders .",
+        "D009069\tDisease\tmovement disorders\tPhenobarbital should be added to the list of anticonvulsant drugs that can cause <target> movement disorders </target> ."
+    ],
+    "lines_lemma": [
+        "D010634\tChemical\tPhenobarbital\t<target> phenobarbital </target> -induced dyskinesia in a neurologically-impaired child .",
+        "D004409\tDisease\tdyskinesia\tphenobarbital-induced <target> dyskinesia </target> in a neurologically-impaired child .",
+        "D009422\tDisease\tneurologically-impaired\tphenobarbital-induced dyskinesia in a <target> neurologically-impaired </target> child .",
+        "D009422\tDisease\tneurologic impairment\ta 2-year-old child with known <target> neurologic impairment </target> develop a dyskinesia soon after start phenobarbital therapy for seizure .",
+        "D004409\tDisease\tdyskinesia\ta 2-year-old child with known neurologic impairment develop a <target> dyskinesia </target> soon after start phenobarbital therapy for seizure .",
+        "D010634\tChemical\tphenobarbital\ta 2-year-old child with known neurologic impairment develop a dyskinesia soon after start <target> phenobarbital </target> therapy for seizure .",
+        "D012640\tDisease\tseizures\ta 2-year-old child with known neurologic impairment develop a dyskinesia soon after start phenobarbital therapy for <target> seizure </target> .",
+        "D009069\tDisease\tmovement disorders\tknown cause of <target> movement disorder </target> be eliminate after evaluation .",
+        "D010634\tChemical\tphenobarbital\ton repeat challenge with <target> phenobarbital </target> , the dyskinesia recur .",
+        "D004409\tDisease\tdyskinesia\ton repeat challenge with phenobarbital , the <target> dyskinesia </target> recur .",
+        "D010634\tChemical\tPhenobarbital\t<target> Phenobarbital </target> should be add to the list of anticonvulsant drug that can cause movement disorder .",
+        "D009069\tDisease\tmovement disorders\tPhenobarbital should be add to the list of anticonvulsant drug that can cause <target> movement disorder </target> ."
+    ]
+}

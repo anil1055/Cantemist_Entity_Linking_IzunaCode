@@ -1,0 +1,92 @@
+{
+    "title": "Treatment of psoriasis with azathioprine.",
+    "abst": "Azathioprine treatment benefited 19 (66%) out of 29 patients suffering from severe psoriasis. Haematological complications were not troublesome and results of biochemical liver function tests remained normal. Minimal cholestasis was seen in two cases and portal fibrosis of a reversible degree in eight. Liver biopsies should be undertaken at regular intervals if azathioprine therapy is continued so that structural liver damage may be detected at an early and reversible stage.",
+    "title_plus_abst": "Treatment of psoriasis with azathioprine. Azathioprine treatment benefited 19 (66%) out of 29 patients suffering from severe psoriasis. Haematological complications were not troublesome and results of biochemical liver function tests remained normal. Minimal cholestasis was seen in two cases and portal fibrosis of a reversible degree in eight. Liver biopsies should be undertaken at regular intervals if azathioprine therapy is continued so that structural liver damage may be detected at an early and reversible stage.",
+    "pubmed_id": "4812392",
+    "entities": [
+        [
+            13,
+            22,
+            "psoriasis",
+            "Disease",
+            "D011565"
+        ],
+        [
+            28,
+            40,
+            "azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            42,
+            54,
+            "Azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            125,
+            134,
+            "psoriasis",
+            "Disease",
+            "D011565"
+        ],
+        [
+            259,
+            270,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            304,
+            312,
+            "fibrosis",
+            "Disease",
+            "D005355"
+        ],
+        [
+            406,
+            418,
+            "azathioprine",
+            "Chemical",
+            "D001379"
+        ],
+        [
+            459,
+            471,
+            "liver damage",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Treatment of psoriasis with azathioprine.",
+        "Azathioprine treatment benefited 19 (66%) out of 29 patients suffering from severe psoriasis.",
+        "Haematological complications were not troublesome and results of biochemical liver function tests remained normal.",
+        "Minimal cholestasis was seen in two cases and portal fibrosis of a reversible degree in eight.",
+        "Liver biopsies should be undertaken at regular intervals if azathioprine therapy is continued so that structural liver damage may be detected at an early and reversible stage."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D011565\tDisease\tpsoriasis\tTreatment of <target> psoriasis </target> with azathioprine .",
+        "D001379\tChemical\tazathioprine\tTreatment of psoriasis with <target> azathioprine </target> .",
+        "D001379\tChemical\tAzathioprine\t<target> Azathioprine </target> treatment benefited 19 ( 66 % ) out of 29 patients suffering from severe psoriasis .",
+        "D011565\tDisease\tpsoriasis\tAzathioprine treatment benefited 19 ( 66 % ) out of 29 patients suffering from severe <target> psoriasis </target> .",
+        "D002779\tDisease\tcholestasis\tMinimal <target> cholestasis </target> was seen in two cases and portal fibrosis of a reversible degree in eight .",
+        "D005355\tDisease\tfibrosis\tMinimal cholestasis was seen in two cases and portal <target> fibrosis </target> of a reversible degree in eight .",
+        "D001379\tChemical\tazathioprine\tLiver biopsies should be undertaken at regular intervals if <target> azathioprine </target> therapy is continued so that structural liver damage may be detected at an early and reversible stage .",
+        "D056486\tDisease\tliver damage\tLiver biopsies should be undertaken at regular intervals if azathioprine therapy is continued so that structural <target> liver damage </target> may be detected at an early and reversible stage ."
+    ],
+    "lines_lemma": [
+        "D011565\tDisease\tpsoriasis\ttreatment of <target> psoriasis </target> with azathioprine .",
+        "D001379\tChemical\tazathioprine\ttreatment of psoriasis with <target> azathioprine </target> .",
+        "D001379\tChemical\tAzathioprine\t<target> azathioprine </target> treatment benefit 19 ( 66 % ) out of 29 patient suffer from severe psoriasis .",
+        "D011565\tDisease\tpsoriasis\tazathioprine treatment benefit 19 ( 66 % ) out of 29 patient suffer from severe <target> psoriasis </target> .",
+        "D002779\tDisease\tcholestasis\tminimal <target> cholestasis </target> be see in two case and portal fibrosis of a reversible degree in eight .",
+        "D005355\tDisease\tfibrosis\tminimal cholestasis be see in two case and portal <target> fibrosis </target> of a reversible degree in eight .",
+        "D001379\tChemical\tazathioprine\tliver biopsy should be undertake at regular interval if <target> azathioprine </target> therapy be continue so that structural liver damage may be detect at an early and reversible stage .",
+        "D056486\tDisease\tliver damage\tliver biopsy should be undertake at regular interval if azathioprine therapy be continue so that structural <target> liver damage </target> may be detect at an early and reversible stage ."
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "title": "Cholestatic presentation of yellow phosphorus poisoning.",
+    "abst": "Yellow phosphorus, a component of certain pesticide pastes and fireworks, is well known to cause hepatotoxicity. Poisoning with yellow phosphorus classically manifests with acute hepatitis leading to acute liver failure which may need liver transplantation. We present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus hepatotoxicity.",
+    "title_plus_abst": "Cholestatic presentation of yellow phosphorus poisoning. Yellow phosphorus, a component of certain pesticide pastes and fireworks, is well known to cause hepatotoxicity. Poisoning with yellow phosphorus classically manifests with acute hepatitis leading to acute liver failure which may need liver transplantation. We present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus hepatotoxicity.",
+    "pubmed_id": "24554916",
+    "entities": [
+        [
+            0,
+            11,
+            "Cholestatic",
+            "Disease",
+            "D002779"
+        ],
+        [
+            35,
+            45,
+            "phosphorus",
+            "Chemical",
+            "D010758"
+        ],
+        [
+            46,
+            55,
+            "poisoning",
+            "Disease",
+            "D011041"
+        ],
+        [
+            64,
+            74,
+            "phosphorus",
+            "Chemical",
+            "D010758"
+        ],
+        [
+            154,
+            168,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            170,
+            179,
+            "Poisoning",
+            "Disease",
+            "D011041"
+        ],
+        [
+            192,
+            202,
+            "phosphorus",
+            "Chemical",
+            "D010758"
+        ],
+        [
+            230,
+            245,
+            "acute hepatitis",
+            "Disease",
+            "D006505"
+        ],
+        [
+            257,
+            276,
+            "acute liver failure",
+            "Disease",
+            "D017114"
+        ],
+        [
+            343,
+            353,
+            "phosphorus",
+            "Chemical",
+            "D010758"
+        ],
+        [
+            354,
+            363,
+            "poisoning",
+            "Disease",
+            "D011041"
+        ],
+        [
+            426,
+            437,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            465,
+            476,
+            "cholestasis",
+            "Disease",
+            "D002779"
+        ],
+        [
+            522,
+            532,
+            "phosphorus",
+            "Chemical",
+            "D010758"
+        ],
+        [
+            533,
+            547,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ]
+    ],
+    "split_sentence": [
+        "Cholestatic presentation of yellow phosphorus poisoning.",
+        "Yellow phosphorus, a component of certain pesticide pastes and fireworks, is well known to cause hepatotoxicity.",
+        "Poisoning with yellow phosphorus classically manifests with acute hepatitis leading to acute liver failure which may need liver transplantation.",
+        "We present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus hepatotoxicity."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002779\tDisease\tCholestatic\t<target> Cholestatic </target> presentation of yellow phosphorus poisoning .",
+        "D010758\tChemical\tphosphorus\tCholestatic presentation of yellow <target> phosphorus </target> poisoning .",
+        "D011041\tDisease\tpoisoning\tCholestatic presentation of yellow phosphorus <target> poisoning </target> .",
+        "D010758\tChemical\tphosphorus\tYellow <target> phosphorus </target> , a component of certain pesticide pastes and fireworks , is well known to cause hepatotoxicity .",
+        "D056486\tDisease\thepatotoxicity\tYellow phosphorus , a component of certain pesticide pastes and fireworks , is well known to cause <target> hepatotoxicity </target> .",
+        "D011041\tDisease\tPoisoning\t<target> Poisoning </target> with yellow phosphorus classically manifests with acute hepatitis leading to acute liver failure which may need liver transplantation .",
+        "D010758\tChemical\tphosphorus\tPoisoning with yellow <target> phosphorus </target> classically manifests with acute hepatitis leading to acute liver failure which may need liver transplantation .",
+        "D006505\tDisease\tacute hepatitis\tPoisoning with yellow phosphorus classically manifests with <target> acute hepatitis </target> leading to acute liver failure which may need liver transplantation .",
+        "D017114\tDisease\tacute liver failure\tPoisoning with yellow phosphorus classically manifests with acute hepatitis leading to <target> acute liver failure </target> which may need liver transplantation .",
+        "D010758\tChemical\tphosphorus\tWe present a case of yellow <target> phosphorus </target> poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus hepatotoxicity .",
+        "D011041\tDisease\tpoisoning\tWe present a case of yellow phosphorus <target> poisoning </target> in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus hepatotoxicity .",
+        "D002779\tDisease\tcholestasis\tWe present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of <target> cholestasis </target> highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus hepatotoxicity .",
+        "D002779\tDisease\tcholestasis\tWe present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that <target> cholestasis </target> can rarely be a presenting feature of yellow phosphorus hepatotoxicity .",
+        "D010758\tChemical\tphosphorus\tWe present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow <target> phosphorus </target> hepatotoxicity .",
+        "D056486\tDisease\thepatotoxicity\tWe present a case of yellow phosphorus poisoning in which a patient presented with florid clinical features of cholestasis highlighting the fact that cholestasis can rarely be a presenting feature of yellow phosphorus <target> hepatotoxicity </target> ."
+    ],
+    "lines_lemma": [
+        "D002779\tDisease\tCholestatic\t<target> Cholestatic </target> presentation of yellow phosphorus poisoning .",
+        "D010758\tChemical\tphosphorus\tcholestatic presentation of yellow <target> phosphorus </target> poisoning .",
+        "D011041\tDisease\tpoisoning\tcholestatic presentation of yellow phosphorus <target> poison </target> .",
+        "D010758\tChemical\tphosphorus\tYellow <target> phosphorus </target> , a component of certain pesticide paste and firework , be well know to cause hepatotoxicity .",
+        "D056486\tDisease\thepatotoxicity\tyellow phosphorus , a component of certain pesticide paste and firework , be well know to cause <target> hepatotoxicity </target> .",
+        "D011041\tDisease\tPoisoning\t<target> poisoning </target> with yellow phosphorus classically manifest with acute hepatitis lead to acute liver failure which may need liver transplantation .",
+        "D010758\tChemical\tphosphorus\tpoison with yellow <target> phosphorus </target> classically manifest with acute hepatitis lead to acute liver failure which may need liver transplantation .",
+        "D006505\tDisease\tacute hepatitis\tpoison with yellow phosphorus classically manifest with <target> acute hepatitis </target> lead to acute liver failure which may need liver transplantation .",
+        "D017114\tDisease\tacute liver failure\tpoison with yellow phosphorus classically manifest with acute hepatitis lead to <target> acute liver failure </target> which may need liver transplantation .",
+        "D010758\tChemical\tphosphorus\twe present a case of yellow <target> phosphorus </target> poison in which a patient present with florid clinical feature of cholestasis highlight the fact that cholestasis can rarely be a present feature of yellow phosphorus hepatotoxicity .",
+        "D011041\tDisease\tpoisoning\twe present a case of yellow phosphorus <target> poison </target> in which a patient present with florid clinical feature of cholestasis highlight the fact that cholestasis can rarely be a present feature of yellow phosphorus hepatotoxicity .",
+        "D002779\tDisease\tcholestasis\twe present a case of yellow phosphorus poison in which a patient present with florid clinical feature of <target> cholestasis </target> highlight the fact that cholestasis can rarely be a present feature of yellow phosphorus hepatotoxicity .",
+        "D002779\tDisease\tcholestasis\twe present a case of yellow phosphorus poison in which a patient present with florid clinical feature of cholestasis highlight the fact that <target> cholestasis </target> can rarely be a present feature of yellow phosphorus hepatotoxicity .",
+        "D010758\tChemical\tphosphorus\twe present a case of yellow phosphorus poison in which a patient present with florid clinical feature of cholestasis highlight the fact that cholestasis can rarely be a present feature of yellow <target> phosphorus </target> hepatotoxicity .",
+        "D056486\tDisease\thepatotoxicity\twe present a case of yellow phosphorus poison in which a patient present with florid clinical feature of cholestasis highlight the fact that cholestasis can rarely be a present feature of yellow phosphorus <target> hepatotoxicity </target> ."
+    ]
+}

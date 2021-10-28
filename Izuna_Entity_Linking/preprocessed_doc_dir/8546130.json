@@ -1,0 +1,174 @@
+{
+    "title": "Clarithromycin-associated visual hallucinations in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis.",
+    "abst": "Visual hallucinations are a rare event in chronic renal failure and not related to uremia per se. Unreported in the literature is visual hallucinations occurring in association with the new macrolide antibiotic, clarithromycin. We describe such a case in a patient with end-stage renal disease (ESRD) maintained on continuous ambulatory peritoneal dialysis (CAPD). The combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient, with underlying aluminum intoxication, may have facilitated the appearance of this neurotoxic side effect. It is important to understand the pharmacokinetics of medications in face of chronic renal failure, the possibility of drug interactions, and how these factors should help guide medication therapy in the ESRD patient.",
+    "title_plus_abst": "Clarithromycin-associated visual hallucinations in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis. Visual hallucinations are a rare event in chronic renal failure and not related to uremia per se. Unreported in the literature is visual hallucinations occurring in association with the new macrolide antibiotic, clarithromycin. We describe such a case in a patient with end-stage renal disease (ESRD) maintained on continuous ambulatory peritoneal dialysis (CAPD). The combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient, with underlying aluminum intoxication, may have facilitated the appearance of this neurotoxic side effect. It is important to understand the pharmacokinetics of medications in face of chronic renal failure, the possibility of drug interactions, and how these factors should help guide medication therapy in the ESRD patient.",
+    "pubmed_id": "8546130",
+    "entities": [
+        [
+            0,
+            14,
+            "Clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            26,
+            47,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            66,
+            87,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            134,
+            155,
+            "Visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            176,
+            197,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            217,
+            223,
+            "uremia",
+            "Disease",
+            "D014511"
+        ],
+        [
+            264,
+            285,
+            "visual hallucinations",
+            "Disease",
+            "D006212"
+        ],
+        [
+            324,
+            333,
+            "macrolide",
+            "Chemical",
+            "D018942"
+        ],
+        [
+            346,
+            360,
+            "clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            404,
+            427,
+            "end-stage renal disease",
+            "Disease",
+            "D007676"
+        ],
+        [
+            429,
+            433,
+            "ESRD",
+            "Disease",
+            "D007676"
+        ],
+        [
+            544,
+            558,
+            "clarithromycin",
+            "Chemical",
+            "D017291"
+        ],
+        [
+            570,
+            591,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            644,
+            652,
+            "aluminum",
+            "Chemical",
+            "D000535"
+        ],
+        [
+            711,
+            721,
+            "neurotoxic",
+            "Disease",
+            "D020258"
+        ],
+        [
+            812,
+            833,
+            "chronic renal failure",
+            "Disease",
+            "D007676"
+        ],
+        [
+            939,
+            943,
+            "ESRD",
+            "Disease",
+            "D007676"
+        ]
+    ],
+    "split_sentence": [
+        "Clarithromycin-associated visual hallucinations in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis.",
+        "Visual hallucinations are a rare event in chronic renal failure and not related to uremia per se.",
+        "Unreported in the literature is visual hallucinations occurring in association with the new macrolide antibiotic, clarithromycin.",
+        "We describe such a case in a patient with end-stage renal disease (ESRD) maintained on continuous ambulatory peritoneal dialysis (CAPD).",
+        "The combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient, with underlying aluminum intoxication, may have facilitated the appearance of this neurotoxic side effect.",
+        "It is important to understand the pharmacokinetics of medications in face of chronic renal failure, the possibility of drug interactions, and how these factors should help guide medication therapy in the ESRD patient."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D017291\tChemical\tClarithromycin\t<target> Clarithromycin </target> -associated visual hallucinations in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis .",
+        "D006212\tDisease\tvisual hallucinations\tClarithromycin-associated <target> visual hallucinations </target> in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis .",
+        "D007676\tDisease\tchronic renal failure\tClarithromycin-associated visual hallucinations in a patient with <target> chronic renal failure </target> on continuous ambulatory peritoneal dialysis .",
+        "D006212\tDisease\tVisual hallucinations\t<target> Visual hallucinations </target> are a rare event in chronic renal failure and not related to uremia per se .",
+        "D007676\tDisease\tchronic renal failure\tVisual hallucinations are a rare event in <target> chronic renal failure </target> and not related to uremia per se .",
+        "D014511\tDisease\turemia\tVisual hallucinations are a rare event in chronic renal failure and not related to <target> uremia </target> per se .",
+        "D006212\tDisease\tvisual hallucinations\tUnreported in the literature is <target> visual hallucinations </target> occurring in association with the new macrolide antibiotic , clarithromycin .",
+        "D018942\tChemical\tmacrolide\tUnreported in the literature is visual hallucinations occurring in association with the new <target> macrolide </target> antibiotic , clarithromycin .",
+        "D017291\tChemical\tclarithromycin\tUnreported in the literature is visual hallucinations occurring in association with the new macrolide antibiotic , <target> clarithromycin </target> .",
+        "D007676\tDisease\tend-stage renal disease\tWe describe such a case in a patient with <target> end-stage renal disease </target> ( ESRD ) maintained on continuous ambulatory peritoneal dialysis ( CAPD ) .",
+        "D007676\tDisease\tESRD\tWe describe such a case in a patient with end-stage renal disease ( <target> ESRD </target> ) maintained on continuous ambulatory peritoneal dialysis ( CAPD ) .",
+        "D017291\tChemical\tclarithromycin\tThe combination of a relatively high dose of <target> clarithromycin </target> in face of chronic renal failure in a functionally anephric patient , with underlying aluminum intoxication , may have facilitated the appearance of this neurotoxic side effect .",
+        "D007676\tDisease\tchronic renal failure\tThe combination of a relatively high dose of clarithromycin in face of <target> chronic renal failure </target> in a functionally anephric patient , with underlying aluminum intoxication , may have facilitated the appearance of this neurotoxic side effect .",
+        "D000535\tChemical\taluminum\tThe combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient , with underlying <target> aluminum </target> intoxication , may have facilitated the appearance of this neurotoxic side effect .",
+        "D020258\tDisease\tneurotoxic\tThe combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient , with underlying aluminum intoxication , may have facilitated the appearance of this <target> neurotoxic </target> side effect .",
+        "D007676\tDisease\tchronic renal failure\tIt is important to understand the pharmacokinetics of medications in face of <target> chronic renal failure </target> , the possibility of drug interactions , and how these factors should help guide medication therapy in the ESRD patient .",
+        "D007676\tDisease\tESRD\tIt is important to understand the pharmacokinetics of medications in face of chronic renal failure , the possibility of drug interactions , and how these factors should help guide medication therapy in the <target> ESRD </target> patient ."
+    ],
+    "lines_lemma": [
+        "D017291\tChemical\tClarithromycin\t<target> clarithromycin </target> -associated visual hallucination in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis .",
+        "D006212\tDisease\tvisual hallucinations\tclarithromycin-associated <target> visual hallucination </target> in a patient with chronic renal failure on continuous ambulatory peritoneal dialysis .",
+        "D007676\tDisease\tchronic renal failure\tclarithromycin-associated visual hallucination in a patient with <target> chronic renal failure </target> on continuous ambulatory peritoneal dialysis .",
+        "D006212\tDisease\tVisual hallucinations\t<target> visual hallucination </target> be a rare event in chronic renal failure and not related to uremia per se .",
+        "D007676\tDisease\tchronic renal failure\tvisual hallucination be a rare event in <target> chronic renal failure </target> and not related to uremia per se .",
+        "D014511\tDisease\turemia\tvisual hallucination be a rare event in chronic renal failure and not related to <target> uremia </target> per se .",
+        "D006212\tDisease\tvisual hallucinations\tunreporte in the literature be <target> visual hallucination </target> occur in association with the new macrolide antibiotic , clarithromycin .",
+        "D018942\tChemical\tmacrolide\tunreporte in the literature be visual hallucination occur in association with the new <target> macrolide </target> antibiotic , clarithromycin .",
+        "D017291\tChemical\tclarithromycin\tunreporte in the literature be visual hallucination occur in association with the new macrolide antibiotic , <target> clarithromycin </target> .",
+        "D007676\tDisease\tend-stage renal disease\twe describe such a case in a patient with <target> end-stage renal disease </target> ( esrd ) maintain on continuous ambulatory peritoneal dialysis ( capd ) .",
+        "D007676\tDisease\tESRD\twe describe such a case in a patient with end-stage renal disease ( <target> esrd </target> ) maintain on continuous ambulatory peritoneal dialysis ( capd ) .",
+        "D017291\tChemical\tclarithromycin\tthe combination of a relatively high dose of <target> clarithromycin </target> in face of chronic renal failure in a functionally anephric patient , with underlie aluminum intoxication , may have facilitate the appearance of this neurotoxic side effect .",
+        "D007676\tDisease\tchronic renal failure\tthe combination of a relatively high dose of clarithromycin in face of <target> chronic renal failure </target> in a functionally anephric patient , with underlie aluminum intoxication , may have facilitate the appearance of this neurotoxic side effect .",
+        "D000535\tChemical\taluminum\tthe combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient , with underlie <target> aluminum </target> intoxication , may have facilitate the appearance of this neurotoxic side effect .",
+        "D020258\tDisease\tneurotoxic\tthe combination of a relatively high dose of clarithromycin in face of chronic renal failure in a functionally anephric patient , with underlie aluminum intoxication , may have facilitate the appearance of this <target> neurotoxic </target> side effect .",
+        "D007676\tDisease\tchronic renal failure\tit be important to understand the pharmacokinetic of medication in face of <target> chronic renal failure </target> , the possibility of drug interaction , and how these factor should help guide medication therapy in the esrd patient .",
+        "D007676\tDisease\tESRD\tit be important to understand the pharmacokinetic of medication in face of chronic renal failure , the possibility of drug interaction , and how these factor should help guide medication therapy in the <target> esrd </target> patient ."
+    ]
+}

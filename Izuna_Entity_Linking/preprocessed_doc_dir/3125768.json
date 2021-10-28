@@ -1,0 +1,150 @@
+{
+    "title": "Intracranial pressure increases during alfentanil-induced rigidity.",
+    "abst": "Intracranial pressure (ICP) was measured during alfentanil-induced rigidity in rats. Ten rats had arterial, central venous (CVP), and subdural cannulae inserted under halothane anesthesia. The animals were mechanically ventilated to achieve normocarbia (PCO2 = 42 +/- 1 mmHg, mean +/- SE). Following instrumentation, halothane was discontinued and alfentanil (125 mu/kg) administered iv during emergence from halothane anesthesia. In the five rats that developed somatic rigidity, ICP and CVP increased significantly above baseline (delta ICP 7.5 +/- 1.0 mmHg, delta CVP 5.9 +/- 1.3 mmHg). These variables returned to baseline when rigidity was abolished with metocurine. In five rats that did not become rigid, ICP and CVP did not change following alfentanil. These observations suggest that rigidity should be prevented when alfentanil, and, presumably, other opiates, are used in the anesthetic management of patients with ICP problems.",
+    "title_plus_abst": "Intracranial pressure increases during alfentanil-induced rigidity. Intracranial pressure (ICP) was measured during alfentanil-induced rigidity in rats. Ten rats had arterial, central venous (CVP), and subdural cannulae inserted under halothane anesthesia. The animals were mechanically ventilated to achieve normocarbia (PCO2 = 42 +/- 1 mmHg, mean +/- SE). Following instrumentation, halothane was discontinued and alfentanil (125 mu/kg) administered iv during emergence from halothane anesthesia. In the five rats that developed somatic rigidity, ICP and CVP increased significantly above baseline (delta ICP 7.5 +/- 1.0 mmHg, delta CVP 5.9 +/- 1.3 mmHg). These variables returned to baseline when rigidity was abolished with metocurine. In five rats that did not become rigid, ICP and CVP did not change following alfentanil. These observations suggest that rigidity should be prevented when alfentanil, and, presumably, other opiates, are used in the anesthetic management of patients with ICP problems.",
+    "pubmed_id": "3125768",
+    "entities": [
+        [
+            39,
+            49,
+            "alfentanil",
+            "Chemical",
+            "D015760"
+        ],
+        [
+            58,
+            66,
+            "rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            116,
+            126,
+            "alfentanil",
+            "Chemical",
+            "D015760"
+        ],
+        [
+            135,
+            143,
+            "rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            235,
+            244,
+            "halothane",
+            "Chemical",
+            "D006221"
+        ],
+        [
+            385,
+            394,
+            "halothane",
+            "Chemical",
+            "D006221"
+        ],
+        [
+            416,
+            426,
+            "alfentanil",
+            "Chemical",
+            "D015760"
+        ],
+        [
+            477,
+            486,
+            "halothane",
+            "Chemical",
+            "D006221"
+        ],
+        [
+            531,
+            547,
+            "somatic rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            700,
+            708,
+            "rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            728,
+            738,
+            "metocurine",
+            "Chemical",
+            "C032943"
+        ],
+        [
+            817,
+            827,
+            "alfentanil",
+            "Chemical",
+            "D015760"
+        ],
+        [
+            861,
+            869,
+            "rigidity",
+            "Disease",
+            "D009127"
+        ],
+        [
+            895,
+            905,
+            "alfentanil",
+            "Chemical",
+            "D015760"
+        ]
+    ],
+    "split_sentence": [
+        "Intracranial pressure increases during alfentanil-induced rigidity.",
+        "Intracranial pressure (ICP) was measured during alfentanil-induced rigidity in rats.",
+        "Ten rats had arterial, central venous (CVP), and subdural cannulae inserted under halothane anesthesia.",
+        "The animals were mechanically ventilated to achieve normocarbia (PCO2 = 42 +/- 1 mmHg, mean +/- SE).",
+        "Following instrumentation, halothane was discontinued and alfentanil (125 mu/kg) administered iv during emergence from halothane anesthesia.",
+        "In the five rats that developed somatic rigidity, ICP and CVP increased significantly above baseline (delta ICP 7.5 +/- 1.0 mmHg, delta CVP 5.9 +/- 1.3 mmHg).",
+        "These variables returned to baseline when rigidity was abolished with metocurine.",
+        "In five rats that did not become rigid, ICP and CVP did not change following alfentanil.",
+        "These observations suggest that rigidity should be prevented when alfentanil, and, presumably, other opiates, are used in the anesthetic management of patients with ICP problems."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D015760\tChemical\talfentanil\tIntracranial pressure increases during <target> alfentanil </target> -induced rigidity .",
+        "D009127\tDisease\trigidity\tIntracranial pressure increases during alfentanil-induced <target> rigidity </target> .",
+        "D015760\tChemical\talfentanil\tIntracranial pressure ( ICP ) was measured during <target> alfentanil </target> -induced rigidity in rats .",
+        "D009127\tDisease\trigidity\tIntracranial pressure ( ICP ) was measured during alfentanil-induced <target> rigidity </target> in rats .",
+        "D006221\tChemical\thalothane\tTen rats had arterial , central venous ( CVP ) , and subdural cannulae inserted under <target> halothane </target> anesthesia .",
+        "D006221\tChemical\thalothane\tFollowing instrumentation , <target> halothane </target> was discontinued and alfentanil ( 125 mu/kg ) administered iv during emergence from halothane anesthesia .",
+        "D015760\tChemical\talfentanil\tFollowing instrumentation , halothane was discontinued and <target> alfentanil </target> ( 125 mu/kg ) administered iv during emergence from halothane anesthesia .",
+        "D006221\tChemical\thalothane\tFollowing instrumentation , halothane was discontinued and alfentanil ( 125 mu/kg ) administered iv during emergence from <target> halothane </target> anesthesia .",
+        "D009127\tDisease\tsomatic rigidity\tIn the five rats that developed <target> somatic rigidity </target> , ICP and CVP increased significantly above baseline ( delta ICP 7.5 + /- 1.0 mmHg , delta CVP 5.9 + /- 1.3 mmHg ) .",
+        "D009127\tDisease\trigidity\tThese variables returned to baseline when <target> rigidity </target> was abolished with metocurine .",
+        "C032943\tChemical\tmetocurine\tThese variables returned to baseline when rigidity was abolished with <target> metocurine </target> .",
+        "D015760\tChemical\talfentanil\tIn five rats that did not become rigid , ICP and CVP did not change following <target> alfentanil </target> .",
+        "D009127\tDisease\trigidity\tThese observations suggest that <target> rigidity </target> should be prevented when alfentanil , and , presumably , other opiates , are used in the anesthetic management of patients with ICP problems .",
+        "D015760\tChemical\talfentanil\tThese observations suggest that rigidity should be prevented when <target> alfentanil </target> , and , presumably , other opiates , are used in the anesthetic management of patients with ICP problems ."
+    ],
+    "lines_lemma": [
+        "D015760\tChemical\talfentanil\tintracranial pressure increase during <target> alfentanil </target> -induced rigidity .",
+        "D009127\tDisease\trigidity\tintracranial pressure increase during alfentanil-induced <target> rigidity </target> .",
+        "D015760\tChemical\talfentanil\tintracranial pressure ( icp ) be measure during <target> alfentanil </target> -induced rigidity in rat .",
+        "D009127\tDisease\trigidity\tintracranial pressure ( icp ) be measure during alfentanil-induced <target> rigidity </target> in rat .",
+        "D006221\tChemical\thalothane\tten rat have arterial , central venous ( cvp ) , and subdural cannulae insert under <target> halothane </target> anesthesia .",
+        "D006221\tChemical\thalothane\tfollow instrumentation , <target> halothane </target> be discontinue and alfentanil ( 125 mu/kg ) administer iv during emergence from halothane anesthesia .",
+        "D015760\tChemical\talfentanil\tfollow instrumentation , halothane be discontinue and <target> alfentanil </target> ( 125 mu/kg ) administer iv during emergence from halothane anesthesia .",
+        "D006221\tChemical\thalothane\tfollow instrumentation , halothane be discontinue and alfentanil ( 125 mu/kg ) administer iv during emergence from <target> halothane </target> anesthesia .",
+        "D009127\tDisease\tsomatic rigidity\tin the five rat that develop <target> somatic rigidity </target> , icp and cvp increase significantly above baseline ( delta icp 7.5 + /- 1.0 mmhg , delta cvp 5.9 + /- 1.3 mmhg ) .",
+        "D009127\tDisease\trigidity\tthese variable return to baseline when <target> rigidity </target> be abolish with metocurine .",
+        "C032943\tChemical\tmetocurine\tthese variable return to baseline when rigidity be abolish with <target> metocurine </target> .",
+        "D015760\tChemical\talfentanil\tin five rat that do not become rigid , icp and cvp do not change follow <target> alfentanil </target> .",
+        "D009127\tDisease\trigidity\tthese observation suggest that <target> rigidity </target> should be prevent when alfentanil , and , presumably , other opiate , be use in the anesthetic management of patient with icp problem .",
+        "D015760\tChemical\talfentanil\tthese observation suggest that rigidity should be prevent when <target> alfentanil </target> , and , presumably , other opiate , be use in the anesthetic management of patient with icp problem ."
+    ]
+}

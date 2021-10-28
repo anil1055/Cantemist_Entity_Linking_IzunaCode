@@ -1,0 +1,148 @@
+{
+    "title": "Minocycline-induced vasculitis fulfilling the criteria of polyarteritis nodosa.",
+    "abst": "A 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed fever, myalgias, polyneuropathy, and testicular pain, with elevated C-reactive protein (CRP). Neither myeloperoxidase- nor proteinase-3-antineutrophil cytoplasmic antibody was positive. These manifestations met the American College of Rheumatology 1990 criteria for the classification of polyarteritis nodosa. Stopping minocycline led to amelioration of symptoms and normalization of CRP level. To our knowledge, this is the second case of minocycline-induced vasculitis satisfying the criteria. Differential diagnosis for drug-induced disease is invaluable even for patients with classical polyarteritis nodosa.",
+    "title_plus_abst": "Minocycline-induced vasculitis fulfilling the criteria of polyarteritis nodosa. A 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed fever, myalgias, polyneuropathy, and testicular pain, with elevated C-reactive protein (CRP). Neither myeloperoxidase- nor proteinase-3-antineutrophil cytoplasmic antibody was positive. These manifestations met the American College of Rheumatology 1990 criteria for the classification of polyarteritis nodosa. Stopping minocycline led to amelioration of symptoms and normalization of CRP level. To our knowledge, this is the second case of minocycline-induced vasculitis satisfying the criteria. Differential diagnosis for drug-induced disease is invaluable even for patients with classical polyarteritis nodosa.",
+    "pubmed_id": "16906379",
+    "entities": [
+        [
+            0,
+            11,
+            "Minocycline",
+            "Chemical",
+            "D008911"
+        ],
+        [
+            20,
+            30,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            58,
+            78,
+            "polyarteritis nodosa",
+            "Disease",
+            "D010488"
+        ],
+        [
+            118,
+            129,
+            "minocycline",
+            "Chemical",
+            "D008911"
+        ],
+        [
+            134,
+            157,
+            "palmoplantar pustulosis",
+            "Disease",
+            "D011565"
+        ],
+        [
+            168,
+            173,
+            "fever",
+            "Disease",
+            "D005334"
+        ],
+        [
+            175,
+            183,
+            "myalgias",
+            "Disease",
+            "D063806"
+        ],
+        [
+            185,
+            199,
+            "polyneuropathy",
+            "Disease",
+            "D011115"
+        ],
+        [
+            205,
+            220,
+            "testicular pain",
+            "Disease",
+            "D013733"
+        ],
+        [
+            456,
+            476,
+            "polyarteritis nodosa",
+            "Disease",
+            "D010488"
+        ],
+        [
+            487,
+            498,
+            "minocycline",
+            "Chemical",
+            "D008911"
+        ],
+        [
+            608,
+            619,
+            "minocycline",
+            "Chemical",
+            "D008911"
+        ],
+        [
+            628,
+            638,
+            "vasculitis",
+            "Disease",
+            "D014657"
+        ],
+        [
+            759,
+            779,
+            "polyarteritis nodosa",
+            "Disease",
+            "D010488"
+        ]
+    ],
+    "split_sentence": [
+        "Minocycline-induced vasculitis fulfilling the criteria of polyarteritis nodosa.",
+        "A 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed fever, myalgias, polyneuropathy, and testicular pain, with elevated C-reactive protein (CRP).",
+        "Neither myeloperoxidase- nor proteinase-3-antineutrophil cytoplasmic antibody was positive.",
+        "These manifestations met the American College of Rheumatology 1990 criteria for the classification of polyarteritis nodosa.",
+        "Stopping minocycline led to amelioration of symptoms and normalization of CRP level.",
+        "To our knowledge, this is the second case of minocycline-induced vasculitis satisfying the criteria.",
+        "Differential diagnosis for drug-induced disease is invaluable even for patients with classical polyarteritis nodosa."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008911\tChemical\tMinocycline\t<target> Minocycline </target> -induced vasculitis fulfilling the criteria of polyarteritis nodosa .",
+        "D014657\tDisease\tvasculitis\tMinocycline-induced <target> vasculitis </target> fulfilling the criteria of polyarteritis nodosa .",
+        "D010488\tDisease\tpolyarteritis nodosa\tMinocycline-induced vasculitis fulfilling the criteria of <target> polyarteritis nodosa </target> .",
+        "D008911\tChemical\tminocycline\tA 47-year-old man who had been taking <target> minocycline </target> for palmoplantar pustulosis developed fever , myalgias , polyneuropathy , and testicular pain , with elevated C-reactive protein ( CRP ) .",
+        "D011565\tDisease\tpalmoplantar pustulosis\tA 47-year-old man who had been taking minocycline for <target> palmoplantar pustulosis </target> developed fever , myalgias , polyneuropathy , and testicular pain , with elevated C-reactive protein ( CRP ) .",
+        "D005334\tDisease\tfever\tA 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed <target> fever </target> , myalgias , polyneuropathy , and testicular pain , with elevated C-reactive protein ( CRP ) .",
+        "D063806\tDisease\tmyalgias\tA 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed fever , <target> myalgias </target> , polyneuropathy , and testicular pain , with elevated C-reactive protein ( CRP ) .",
+        "D011115\tDisease\tpolyneuropathy\tA 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed fever , myalgias , <target> polyneuropathy </target> , and testicular pain , with elevated C-reactive protein ( CRP ) .",
+        "D013733\tDisease\ttesticular pain\tA 47-year-old man who had been taking minocycline for palmoplantar pustulosis developed fever , myalgias , polyneuropathy , and <target> testicular pain </target> , with elevated C-reactive protein ( CRP ) .",
+        "D010488\tDisease\tpolyarteritis nodosa\tThese manifestations met the American College of Rheumatology 1990 criteria for the classification of <target> polyarteritis nodosa </target> .",
+        "D008911\tChemical\tminocycline\tStopping <target> minocycline </target> led to amelioration of symptoms and normalization of CRP level .",
+        "D008911\tChemical\tminocycline\tTo our knowledge , this is the second case of <target> minocycline </target> -induced vasculitis satisfying the criteria .",
+        "D014657\tDisease\tvasculitis\tTo our knowledge , this is the second case of minocycline-induced <target> vasculitis </target> satisfying the criteria .",
+        "D010488\tDisease\tpolyarteritis nodosa\tDifferential diagnosis for drug-induced disease is invaluable even for patients with classical <target> polyarteritis nodosa </target> ."
+    ],
+    "lines_lemma": [
+        "D008911\tChemical\tMinocycline\t<target> minocycline </target> -induced vasculitis fulfil the criterion of polyarteritis nodosa .",
+        "D014657\tDisease\tvasculitis\tminocycline-induced <target> vasculitis </target> fulfil the criterion of polyarteritis nodosa .",
+        "D010488\tDisease\tpolyarteritis nodosa\tminocycline-induced vasculitis fulfil the criterion of <target> polyarteritis nodosa </target> .",
+        "D008911\tChemical\tminocycline\ta 47-year-old man who have be take <target> minocycline </target> for palmoplantar pustulosis develop fever , myalgia , polyneuropathy , and testicular pain , with elevated c-reactive protein ( crp ) .",
+        "D011565\tDisease\tpalmoplantar pustulosis\ta 47-year-old man who have be take minocycline for <target> palmoplantar pustulosis </target> develop fever , myalgia , polyneuropathy , and testicular pain , with elevated c-reactive protein ( crp ) .",
+        "D005334\tDisease\tfever\ta 47-year-old man who have be take minocycline for palmoplantar pustulosis develop <target> fever </target> , myalgia , polyneuropathy , and testicular pain , with elevated c-reactive protein ( crp ) .",
+        "D063806\tDisease\tmyalgias\ta 47-year-old man who have be take minocycline for palmoplantar pustulosis develop fever , <target> myalgia </target> , polyneuropathy , and testicular pain , with elevated c-reactive protein ( crp ) .",
+        "D011115\tDisease\tpolyneuropathy\ta 47-year-old man who have be take minocycline for palmoplantar pustulosis develop fever , myalgia , <target> polyneuropathy </target> , and testicular pain , with elevated c-reactive protein ( crp ) .",
+        "D013733\tDisease\ttesticular pain\ta 47-year-old man who have be take minocycline for palmoplantar pustulosis develop fever , myalgia , polyneuropathy , and <target> testicular pain </target> , with elevated c-reactive protein ( crp ) .",
+        "D010488\tDisease\tpolyarteritis nodosa\tthese manifestation meet the American College of Rheumatology 1990 criterion for the classification of <target> polyarteritis nodosa </target> .",
+        "D008911\tChemical\tminocycline\tstop <target> minocycline </target> lead to amelioration of symptom and normalization of crp level .",
+        "D008911\tChemical\tminocycline\tto our knowledge , this be the second case of <target> minocycline </target> -induced vasculitis satisfy the criterion .",
+        "D014657\tDisease\tvasculitis\tto our knowledge , this be the second case of minocycline-induced <target> vasculitis </target> satisfy the criterion .",
+        "D010488\tDisease\tpolyarteritis nodosa\tdifferential diagnosis for drug-induced disease be invaluable even for patient with classical <target> polyarteritis nodosa </target> ."
+    ]
+}

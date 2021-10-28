@@ -1,0 +1,155 @@
+{
+    "title": "Clotiazepam-induced acute hepatitis.",
+    "abst": "We report the case of a patient who developed acute hepatitis with extensive hepatocellular necrosis, 7 months after the onset of administration of clotiazepam, a thienodiazepine derivative. Clotiazepam withdrawal was followed by prompt recovery. The administration of several benzodiazepines, chemically related to clotiazepam, did not interfere with recovery and did not induce any relapse of hepatitis. This observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross hepatotoxicity between clotiazepam and several benzodiazepines.",
+    "title_plus_abst": "Clotiazepam-induced acute hepatitis. We report the case of a patient who developed acute hepatitis with extensive hepatocellular necrosis, 7 months after the onset of administration of clotiazepam, a thienodiazepine derivative. Clotiazepam withdrawal was followed by prompt recovery. The administration of several benzodiazepines, chemically related to clotiazepam, did not interfere with recovery and did not induce any relapse of hepatitis. This observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross hepatotoxicity between clotiazepam and several benzodiazepines.",
+    "pubmed_id": "2572625",
+    "entities": [
+        [
+            0,
+            11,
+            "Clotiazepam",
+            "Chemical",
+            "C084599"
+        ],
+        [
+            26,
+            35,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            89,
+            98,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            104,
+            137,
+            "extensive hepatocellular necrosis",
+            "Disease",
+            "D047508"
+        ],
+        [
+            185,
+            196,
+            "clotiazepam",
+            "Chemical",
+            "C084599"
+        ],
+        [
+            200,
+            215,
+            "thienodiazepine",
+            "Chemical",
+            "C013295"
+        ],
+        [
+            228,
+            239,
+            "Clotiazepam",
+            "Chemical",
+            "C084599"
+        ],
+        [
+            314,
+            329,
+            "benzodiazepines",
+            "Chemical",
+            "D001569"
+        ],
+        [
+            353,
+            364,
+            "clotiazepam",
+            "Chemical",
+            "C084599"
+        ],
+        [
+            432,
+            441,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            471,
+            482,
+            "clotiazepam",
+            "Chemical",
+            "C084599"
+        ],
+        [
+            500,
+            509,
+            "hepatitis",
+            "Disease",
+            "D056486"
+        ],
+        [
+            546,
+            560,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            569,
+            580,
+            "clotiazepam",
+            "Chemical",
+            "C084599"
+        ],
+        [
+            593,
+            608,
+            "benzodiazepines",
+            "Chemical",
+            "D001569"
+        ]
+    ],
+    "split_sentence": [
+        "Clotiazepam-induced acute hepatitis.",
+        "We report the case of a patient who developed acute hepatitis with extensive hepatocellular necrosis, 7 months after the onset of administration of clotiazepam, a thienodiazepine derivative.",
+        "Clotiazepam withdrawal was followed by prompt recovery.",
+        "The administration of several benzodiazepines, chemically related to clotiazepam, did not interfere with recovery and did not induce any relapse of hepatitis.",
+        "This observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross hepatotoxicity between clotiazepam and several benzodiazepines."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "C084599\tChemical\tClotiazepam\t<target> Clotiazepam </target> -induced acute hepatitis .",
+        "D056486\tDisease\thepatitis\tClotiazepam-induced acute <target> hepatitis </target> .",
+        "D056486\tDisease\thepatitis\tWe report the case of a patient who developed acute <target> hepatitis </target> with extensive hepatocellular necrosis , 7 months after the onset of administration of clotiazepam , a thienodiazepine derivative .",
+        "D047508\tDisease\textensive hepatocellular necrosis\tWe report the case of a patient who developed acute hepatitis with <target> extensive hepatocellular necrosis </target> , 7 months after the onset of administration of clotiazepam , a thienodiazepine derivative .",
+        "C084599\tChemical\tclotiazepam\tWe report the case of a patient who developed acute hepatitis with extensive hepatocellular necrosis , 7 months after the onset of administration of <target> clotiazepam </target> , a thienodiazepine derivative .",
+        "C013295\tChemical\tthienodiazepine\tWe report the case of a patient who developed acute hepatitis with extensive hepatocellular necrosis , 7 months after the onset of administration of clotiazepam , a <target> thienodiazepine </target> derivative .",
+        "C084599\tChemical\tClotiazepam\t<target> Clotiazepam </target> withdrawal was followed by prompt recovery .",
+        "D001569\tChemical\tbenzodiazepines\tThe administration of several <target> benzodiazepines </target> , chemically related to clotiazepam , did not interfere with recovery and did not induce any relapse of hepatitis .",
+        "C084599\tChemical\tclotiazepam\tThe administration of several benzodiazepines , chemically related to <target> clotiazepam </target> , did not interfere with recovery and did not induce any relapse of hepatitis .",
+        "D056486\tDisease\thepatitis\tThe administration of several benzodiazepines , chemically related to clotiazepam , did not interfere with recovery and did not induce any relapse of <target> hepatitis </target> .",
+        "C084599\tChemical\tclotiazepam\tThis observation shows that <target> clotiazepam </target> can induce acute hepatitis and suggests that there is no cross hepatotoxicity between clotiazepam and several benzodiazepines .",
+        "D056486\tDisease\thepatitis\tThis observation shows that clotiazepam can induce acute <target> hepatitis </target> and suggests that there is no cross hepatotoxicity between clotiazepam and several benzodiazepines .",
+        "D056486\tDisease\thepatotoxicity\tThis observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross <target> hepatotoxicity </target> between clotiazepam and several benzodiazepines .",
+        "C084599\tChemical\tclotiazepam\tThis observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross hepatotoxicity between <target> clotiazepam </target> and several benzodiazepines .",
+        "D001569\tChemical\tbenzodiazepines\tThis observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross hepatotoxicity between clotiazepam and several <target> benzodiazepines </target> ."
+    ],
+    "lines_lemma": [
+        "C084599\tChemical\tClotiazepam\t<target> Clotiazepam </target> -induced acute hepatitis .",
+        "D056486\tDisease\thepatitis\tclotiazepam-induced acute <target> hepatitis </target> .",
+        "D056486\tDisease\thepatitis\twe report the case of a patient who develop acute <target> hepatitis </target> with extensive hepatocellular necrosis , 7 month after the onset of administration of clotiazepam , a thienodiazepine derivative .",
+        "D047508\tDisease\textensive hepatocellular necrosis\twe report the case of a patient who develop acute hepatitis with <target> extensive hepatocellular necrosis </target> , 7 month after the onset of administration of clotiazepam , a thienodiazepine derivative .",
+        "C084599\tChemical\tclotiazepam\twe report the case of a patient who develop acute hepatitis with extensive hepatocellular necrosis , 7 month after the onset of administration of <target> clotiazepam </target> , a thienodiazepine derivative .",
+        "C013295\tChemical\tthienodiazepine\twe report the case of a patient who develop acute hepatitis with extensive hepatocellular necrosis , 7 month after the onset of administration of clotiazepam , a <target> thienodiazepine </target> derivative .",
+        "C084599\tChemical\tClotiazepam\t<target> Clotiazepam </target> withdrawal be follow by prompt recovery .",
+        "D001569\tChemical\tbenzodiazepines\tthe administration of several <target> benzodiazepine </target> , chemically related to clotiazepam , do not interfere with recovery and do not induce any relapse of hepatitis .",
+        "C084599\tChemical\tclotiazepam\tthe administration of several benzodiazepine , chemically related to <target> clotiazepam </target> , do not interfere with recovery and do not induce any relapse of hepatitis .",
+        "D056486\tDisease\thepatitis\tthe administration of several benzodiazepine , chemically related to clotiazepam , do not interfere with recovery and do not induce any relapse of <target> hepatitis </target> .",
+        "C084599\tChemical\tclotiazepam\tthis observation show that <target> clotiazepam </target> can induce acute hepatitis and suggest that there be no cross hepatotoxicity between clotiazepam and several benzodiazepine .",
+        "D056486\tDisease\thepatitis\tthis observation show that clotiazepam can induce acute <target> hepatitis </target> and suggest that there be no cross hepatotoxicity between clotiazepam and several benzodiazepine .",
+        "D056486\tDisease\thepatotoxicity\tthis observation show that clotiazepam can induce acute hepatitis and suggest that there be no cross <target> hepatotoxicity </target> between clotiazepam and several benzodiazepine .",
+        "C084599\tChemical\tclotiazepam\tthis observation show that clotiazepam can induce acute hepatitis and suggest that there be no cross hepatotoxicity between <target> clotiazepam </target> and several benzodiazepine .",
+        "D001569\tChemical\tbenzodiazepines\tthis observation show that clotiazepam can induce acute hepatitis and suggest that there be no cross hepatotoxicity between clotiazepam and several <target> benzodiazepine </target> ."
+    ]
+}

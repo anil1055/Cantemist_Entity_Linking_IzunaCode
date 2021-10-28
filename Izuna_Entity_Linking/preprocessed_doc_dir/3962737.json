@@ -1,0 +1,166 @@
+{
+    "title": "Hepatotoxicity of amiodarone.",
+    "abst": "Amiodarone has proved very effective in the treatment of otherwise resistant cardiac tachyarrhythmias. The use of amiodarone has, however, been limited due to its serious side-effects. A patient with cholestatic hepatitis due to amiodarone treatment is presented below and a review of the hepatotoxicity of amiodarone is given. It is concluded that solid evidence exists of hepatic injury due to amiodarone treatment, including steatosis, alterations resembling alcoholic hepatitis, cholestatic hepatitis and micronodular cirrhosis of the liver. Patients receiving amiodarone should be regularly screened with respect to hepatic enzyme levels. Therapy should be discontinued on the suspicion of cholestatic injury or hepatomegaly.",
+    "title_plus_abst": "Hepatotoxicity of amiodarone. Amiodarone has proved very effective in the treatment of otherwise resistant cardiac tachyarrhythmias. The use of amiodarone has, however, been limited due to its serious side-effects. A patient with cholestatic hepatitis due to amiodarone treatment is presented below and a review of the hepatotoxicity of amiodarone is given. It is concluded that solid evidence exists of hepatic injury due to amiodarone treatment, including steatosis, alterations resembling alcoholic hepatitis, cholestatic hepatitis and micronodular cirrhosis of the liver. Patients receiving amiodarone should be regularly screened with respect to hepatic enzyme levels. Therapy should be discontinued on the suspicion of cholestatic injury or hepatomegaly.",
+    "pubmed_id": "3962737",
+    "entities": [
+        [
+            0,
+            14,
+            "Hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            18,
+            28,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            30,
+            40,
+            "Amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            115,
+            131,
+            "tachyarrhythmias",
+            "Disease",
+            "D013610"
+        ],
+        [
+            144,
+            154,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            259,
+            269,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            319,
+            333,
+            "hepatotoxicity",
+            "Disease",
+            "D056486"
+        ],
+        [
+            337,
+            347,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            404,
+            418,
+            "hepatic injury",
+            "Disease",
+            "D056486"
+        ],
+        [
+            426,
+            436,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            458,
+            467,
+            "steatosis",
+            "Disease",
+            "D005234"
+        ],
+        [
+            492,
+            511,
+            "alcoholic hepatitis",
+            "Disease",
+            "D006519"
+        ],
+        [
+            552,
+            574,
+            "cirrhosis of the liver",
+            "Disease",
+            "D008103"
+        ],
+        [
+            595,
+            605,
+            "amiodarone",
+            "Chemical",
+            "D000638"
+        ],
+        [
+            725,
+            743,
+            "cholestatic injury",
+            "Disease",
+            "D002779"
+        ],
+        [
+            747,
+            759,
+            "hepatomegaly",
+            "Disease",
+            "D006529"
+        ]
+    ],
+    "split_sentence": [
+        "Hepatotoxicity of amiodarone.",
+        "Amiodarone has proved very effective in the treatment of otherwise resistant cardiac tachyarrhythmias.",
+        "The use of amiodarone has, however, been limited due to its serious side-effects.",
+        "A patient with cholestatic hepatitis due to amiodarone treatment is presented below and a review of the hepatotoxicity of amiodarone is given.",
+        "It is concluded that solid evidence exists of hepatic injury due to amiodarone treatment, including steatosis, alterations resembling alcoholic hepatitis, cholestatic hepatitis and micronodular cirrhosis of the liver.",
+        "Patients receiving amiodarone should be regularly screened with respect to hepatic enzyme levels.",
+        "Therapy should be discontinued on the suspicion of cholestatic injury or hepatomegaly."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D056486\tDisease\tHepatotoxicity\t<target> Hepatotoxicity </target> of amiodarone .",
+        "D000638\tChemical\tamiodarone\tHepatotoxicity of <target> amiodarone </target> .",
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> has proved very effective in the treatment of otherwise resistant cardiac tachyarrhythmias .",
+        "D013610\tDisease\ttachyarrhythmias\tAmiodarone has proved very effective in the treatment of otherwise resistant cardiac <target> tachyarrhythmias </target> .",
+        "D000638\tChemical\tamiodarone\tThe use of <target> amiodarone </target> has , however , been limited due to its serious side-effects .",
+        "D000638\tChemical\tamiodarone\tA patient with cholestatic hepatitis due to <target> amiodarone </target> treatment is presented below and a review of the hepatotoxicity of amiodarone is given .",
+        "D056486\tDisease\thepatotoxicity\tA patient with cholestatic hepatitis due to amiodarone treatment is presented below and a review of the <target> hepatotoxicity </target> of amiodarone is given .",
+        "D000638\tChemical\tamiodarone\tA patient with cholestatic hepatitis due to amiodarone treatment is presented below and a review of the hepatotoxicity of <target> amiodarone </target> is given .",
+        "D056486\tDisease\thepatic injury\tIt is concluded that solid evidence exists of <target> hepatic injury </target> due to amiodarone treatment , including steatosis , alterations resembling alcoholic hepatitis , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D000638\tChemical\tamiodarone\tIt is concluded that solid evidence exists of hepatic injury due to <target> amiodarone </target> treatment , including steatosis , alterations resembling alcoholic hepatitis , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D005234\tDisease\tsteatosis\tIt is concluded that solid evidence exists of hepatic injury due to amiodarone treatment , including <target> steatosis </target> , alterations resembling alcoholic hepatitis , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D006519\tDisease\talcoholic hepatitis\tIt is concluded that solid evidence exists of hepatic injury due to amiodarone treatment , including steatosis , alterations resembling <target> alcoholic hepatitis </target> , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D008103\tDisease\tcirrhosis of the liver\tIt is concluded that solid evidence exists of hepatic injury due to amiodarone treatment , including steatosis , alterations resembling alcoholic hepatitis , cholestatic hepatitis and micronodular <target> cirrhosis of the liver </target> .",
+        "D000638\tChemical\tamiodarone\tPatients receiving <target> amiodarone </target> should be regularly screened with respect to hepatic enzyme levels .",
+        "D002779\tDisease\tcholestatic injury\tTherapy should be discontinued on the suspicion of <target> cholestatic injury </target> or hepatomegaly .",
+        "D006529\tDisease\thepatomegaly\tTherapy should be discontinued on the suspicion of cholestatic injury or <target> hepatomegaly </target> ."
+    ],
+    "lines_lemma": [
+        "D056486\tDisease\tHepatotoxicity\t<target> hepatotoxicity </target> of amiodarone .",
+        "D000638\tChemical\tamiodarone\thepatotoxicity of <target> amiodarone </target> .",
+        "D000638\tChemical\tAmiodarone\t<target> Amiodarone </target> have prove very effective in the treatment of otherwise resistant cardiac tachyarrhythmia .",
+        "D013610\tDisease\ttachyarrhythmias\tAmiodarone have prove very effective in the treatment of otherwise resistant cardiac <target> tachyarrhythmia </target> .",
+        "D000638\tChemical\tamiodarone\tthe use of <target> amiodarone </target> have , however , be limit due to its serious side-effect .",
+        "D000638\tChemical\tamiodarone\ta patient with cholestatic hepatitis due to <target> amiodarone </target> treatment be present below and a review of the hepatotoxicity of amiodarone be give .",
+        "D056486\tDisease\thepatotoxicity\ta patient with cholestatic hepatitis due to amiodarone treatment be present below and a review of the <target> hepatotoxicity </target> of amiodarone be give .",
+        "D000638\tChemical\tamiodarone\ta patient with cholestatic hepatitis due to amiodarone treatment be present below and a review of the hepatotoxicity of <target> amiodarone </target> be give .",
+        "D056486\tDisease\thepatic injury\tit be conclude that solid evidence exist of <target> hepatic injury </target> due to amiodarone treatment , include steatosis , alteration resemble alcoholic hepatitis , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D000638\tChemical\tamiodarone\tit be conclude that solid evidence exist of hepatic injury due to <target> amiodarone </target> treatment , include steatosis , alteration resemble alcoholic hepatitis , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D005234\tDisease\tsteatosis\tit be conclude that solid evidence exist of hepatic injury due to amiodarone treatment , include <target> steatosis </target> , alteration resemble alcoholic hepatitis , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D006519\tDisease\talcoholic hepatitis\tit be conclude that solid evidence exist of hepatic injury due to amiodarone treatment , include steatosis , alteration resemble <target> alcoholic hepatitis </target> , cholestatic hepatitis and micronodular cirrhosis of the liver .",
+        "D008103\tDisease\tcirrhosis of the liver\tit be conclude that solid evidence exist of hepatic injury due to amiodarone treatment , include steatosis , alteration resemble alcoholic hepatitis , cholestatic hepatitis and micronodular <target> cirrhosis of the liver </target> .",
+        "D000638\tChemical\tamiodarone\tpatient receive <target> amiodarone </target> should be regularly screen with respect to hepatic enzyme level .",
+        "D002779\tDisease\tcholestatic injury\ttherapy should be discontinue on the suspicion of <target> cholestatic injury </target> or hepatomegaly .",
+        "D006529\tDisease\thepatomegaly\ttherapy should be discontinue on the suspicion of cholestatic injury or <target> hepatomegaly </target> ."
+    ]
+}

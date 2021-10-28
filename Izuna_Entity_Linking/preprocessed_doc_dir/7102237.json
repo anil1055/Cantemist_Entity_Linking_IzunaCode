@@ -1,0 +1,137 @@
+{
+    "title": "Midazolam compared with thiopentone as an induction agent.",
+    "abst": "In patients premedicated with scopolamine + morphine (+5 mg nitrazepam the evening before surgery), the sleep-inducing effect of midazolam 0.15 mg/kg i.v. was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v. Somewhat fewer cardiovascular and local sequelae were found in the midazolam group, but, although apnoea occurred less often in the midazolam group it lasted longer. On the whole, the differences between midazolam and thiopentone had no apparent clinical consequences. Midazolam is a new alternative agent for induction in combination anaesthesia.",
+    "title_plus_abst": "Midazolam compared with thiopentone as an induction agent. In patients premedicated with scopolamine + morphine (+5 mg nitrazepam the evening before surgery), the sleep-inducing effect of midazolam 0.15 mg/kg i.v. was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v. Somewhat fewer cardiovascular and local sequelae were found in the midazolam group, but, although apnoea occurred less often in the midazolam group it lasted longer. On the whole, the differences between midazolam and thiopentone had no apparent clinical consequences. Midazolam is a new alternative agent for induction in combination anaesthesia.",
+    "pubmed_id": "7102237",
+    "entities": [
+        [
+            0,
+            9,
+            "Midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            24,
+            35,
+            "thiopentone",
+            "Chemical",
+            "D013874"
+        ],
+        [
+            89,
+            100,
+            "scopolamine",
+            "Chemical",
+            "D012601"
+        ],
+        [
+            103,
+            111,
+            "morphine",
+            "Chemical",
+            "D009020"
+        ],
+        [
+            119,
+            129,
+            "nitrazepam",
+            "Chemical",
+            "D009567"
+        ],
+        [
+            188,
+            197,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            255,
+            266,
+            "thiopentone",
+            "Chemical",
+            "D013874"
+        ],
+        [
+            350,
+            359,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            381,
+            387,
+            "apnoea",
+            "Disease",
+            "D001049"
+        ],
+        [
+            415,
+            424,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            487,
+            496,
+            "midazolam",
+            "Chemical",
+            "D008874"
+        ],
+        [
+            501,
+            512,
+            "thiopentone",
+            "Chemical",
+            "D013874"
+        ],
+        [
+            552,
+            561,
+            "Midazolam",
+            "Chemical",
+            "D008874"
+        ]
+    ],
+    "split_sentence": [
+        "Midazolam compared with thiopentone as an induction agent.",
+        "In patients premedicated with scopolamine + morphine (+5 mg nitrazepam the evening before surgery), the sleep-inducing effect of midazolam 0.15 mg/kg i.v. was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v.",
+        "Somewhat fewer cardiovascular and local sequelae were found in the midazolam group, but, although apnoea occurred less often in the midazolam group it lasted longer.",
+        "On the whole, the differences between midazolam and thiopentone had no apparent clinical consequences.",
+        "Midazolam is a new alternative agent for induction in combination anaesthesia."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D008874\tChemical\tMidazolam\t<target> Midazolam </target> compared with thiopentone as an induction agent .",
+        "D013874\tChemical\tthiopentone\tMidazolam compared with <target> thiopentone </target> as an induction agent .",
+        "D012601\tChemical\tscopolamine\tIn patients premedicated with <target> scopolamine </target> + morphine ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D009020\tChemical\tmorphine\tIn patients premedicated with scopolamine + <target> morphine </target> ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D009567\tChemical\tnitrazepam\tIn patients premedicated with scopolamine + morphine ( + 5 mg <target> nitrazepam </target> the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D008874\tChemical\tmidazolam\tIn patients premedicated with scopolamine + morphine ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of <target> midazolam </target> 0.15 mg/kg i.v . was clearly slower in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D013874\tChemical\tthiopentone\tIn patients premedicated with scopolamine + morphine ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . was clearly slower in onset than that of <target> thiopentone </target> 4.67 mg/kg i.v .",
+        "D008874\tChemical\tmidazolam\tSomewhat fewer cardiovascular and local sequelae were found in the <target> midazolam </target> group , but , although apnoea occurred less often in the midazolam group it lasted longer .",
+        "D001049\tDisease\tapnoea\tSomewhat fewer cardiovascular and local sequelae were found in the midazolam group , but , although <target> apnoea </target> occurred less often in the midazolam group it lasted longer .",
+        "D008874\tChemical\tmidazolam\tSomewhat fewer cardiovascular and local sequelae were found in the midazolam group , but , although apnoea occurred less often in the <target> midazolam </target> group it lasted longer .",
+        "D008874\tChemical\tmidazolam\tOn the whole , the differences between <target> midazolam </target> and thiopentone had no apparent clinical consequences .",
+        "D013874\tChemical\tthiopentone\tOn the whole , the differences between midazolam and <target> thiopentone </target> had no apparent clinical consequences .",
+        "D008874\tChemical\tMidazolam\t<target> Midazolam </target> is a new alternative agent for induction in combination anaesthesia ."
+    ],
+    "lines_lemma": [
+        "D008874\tChemical\tMidazolam\t<target> Midazolam </target> compare with thiopentone as an induction agent .",
+        "D013874\tChemical\tthiopentone\tMidazolam compare with <target> thiopentone </target> as an induction agent .",
+        "D012601\tChemical\tscopolamine\tin patient premedicate with <target> scopolamine </target> + morphine ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . be clearly slow in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D009020\tChemical\tmorphine\tin patient premedicate with scopolamine + <target> morphine </target> ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . be clearly slow in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D009567\tChemical\tnitrazepam\tin patient premedicate with scopolamine + morphine ( + 5 mg <target> nitrazepam </target> the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . be clearly slow in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D008874\tChemical\tmidazolam\tin patient premedicate with scopolamine + morphine ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of <target> midazolam </target> 0.15 mg/kg i.v . be clearly slow in onset than that of thiopentone 4.67 mg/kg i.v .",
+        "D013874\tChemical\tthiopentone\tin patient premedicate with scopolamine + morphine ( + 5 mg nitrazepam the evening before surgery ) , the sleep-inducing effect of midazolam 0.15 mg/kg i.v . be clearly slow in onset than that of <target> thiopentone </target> 4.67 mg/kg i.v .",
+        "D008874\tChemical\tmidazolam\tsomewhat few cardiovascular and local sequela be find in the <target> midazolam </target> group , but , although apnoea occur less often in the midazolam group it last long .",
+        "D001049\tDisease\tapnoea\tsomewhat few cardiovascular and local sequela be find in the midazolam group , but , although <target> apnoea </target> occur less often in the midazolam group it last long .",
+        "D008874\tChemical\tmidazolam\tsomewhat few cardiovascular and local sequela be find in the midazolam group , but , although apnoea occur less often in the <target> midazolam </target> group it last long .",
+        "D008874\tChemical\tmidazolam\ton the whole , the difference between <target> midazolam </target> and thiopentone have no apparent clinical consequence .",
+        "D013874\tChemical\tthiopentone\ton the whole , the difference between midazolam and <target> thiopentone </target> have no apparent clinical consequence .",
+        "D008874\tChemical\tMidazolam\t<target> Midazolam </target> be a new alternative agent for induction in combination anaesthesia ."
+    ]
+}

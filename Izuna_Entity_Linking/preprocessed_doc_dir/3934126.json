@@ -1,0 +1,175 @@
+{
+    "title": "A prospective study of adverse reactions associated with vancomycin therapy.",
+    "abst": "A prospective evaluation of the efficacy and safety of vancomycin was conducted in 54 consecutive patients over a 16-month period. Vancomycin was curative in 95% of 43 patients with proven infection. Drugs were ceased in six patients because of adverse reactions; in three of these vancomycin was considered the likely cause. Reactions included thrombophlebitis (20 of 54 patients), rash (4 of 54), nephrotoxicity (4 of 50), proteinuria (1 of 50) and ototoxicity (1 of 11 patients tested by audiometry). Thrombophlebitis occurred only with infusion through peripheral cannulae; nephrotoxicity and ototoxicity were confined to patients receiving an aminoglycoside plus vancomycin. We conclude that vancomycin, administered appropriately, constitutes safe, effective therapy for infections caused by susceptible bacteria.",
+    "title_plus_abst": "A prospective study of adverse reactions associated with vancomycin therapy. A prospective evaluation of the efficacy and safety of vancomycin was conducted in 54 consecutive patients over a 16-month period. Vancomycin was curative in 95% of 43 patients with proven infection. Drugs were ceased in six patients because of adverse reactions; in three of these vancomycin was considered the likely cause. Reactions included thrombophlebitis (20 of 54 patients), rash (4 of 54), nephrotoxicity (4 of 50), proteinuria (1 of 50) and ototoxicity (1 of 11 patients tested by audiometry). Thrombophlebitis occurred only with infusion through peripheral cannulae; nephrotoxicity and ototoxicity were confined to patients receiving an aminoglycoside plus vancomycin. We conclude that vancomycin, administered appropriately, constitutes safe, effective therapy for infections caused by susceptible bacteria.",
+    "pubmed_id": "3934126",
+    "entities": [
+        [
+            57,
+            67,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            132,
+            142,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            208,
+            218,
+            "Vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            266,
+            275,
+            "infection",
+            "Disease",
+            "D007239"
+        ],
+        [
+            359,
+            369,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            422,
+            438,
+            "thrombophlebitis",
+            "Disease",
+            "D013924"
+        ],
+        [
+            460,
+            464,
+            "rash",
+            "Disease",
+            "D005076"
+        ],
+        [
+            476,
+            490,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            502,
+            513,
+            "proteinuria",
+            "Disease",
+            "D011507"
+        ],
+        [
+            528,
+            539,
+            "ototoxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            581,
+            597,
+            "Thrombophlebitis",
+            "Disease",
+            "D013924"
+        ],
+        [
+            655,
+            669,
+            "nephrotoxicity",
+            "Disease",
+            "D007674"
+        ],
+        [
+            674,
+            685,
+            "ototoxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            725,
+            739,
+            "aminoglycoside",
+            "Chemical",
+            "D000617"
+        ],
+        [
+            745,
+            755,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            774,
+            784,
+            "vancomycin",
+            "Chemical",
+            "D014640"
+        ],
+        [
+            854,
+            864,
+            "infections",
+            "Disease",
+            "D007239"
+        ]
+    ],
+    "split_sentence": [
+        "A prospective study of adverse reactions associated with vancomycin therapy.",
+        "A prospective evaluation of the efficacy and safety of vancomycin was conducted in 54 consecutive patients over a 16-month period.",
+        "Vancomycin was curative in 95% of 43 patients with proven infection.",
+        "Drugs were ceased in six patients because of adverse reactions; in three of these vancomycin was considered the likely cause.",
+        "Reactions included thrombophlebitis (20 of 54 patients), rash (4 of 54), nephrotoxicity (4 of 50), proteinuria (1 of 50) and ototoxicity (1 of 11 patients tested by audiometry).",
+        "Thrombophlebitis occurred only with infusion through peripheral cannulae; nephrotoxicity and ototoxicity were confined to patients receiving an aminoglycoside plus vancomycin.",
+        "We conclude that vancomycin, administered appropriately, constitutes safe, effective therapy for infections caused by susceptible bacteria."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D014640\tChemical\tvancomycin\tA prospective study of adverse reactions associated with <target> vancomycin </target> therapy .",
+        "D014640\tChemical\tvancomycin\tA prospective evaluation of the efficacy and safety of <target> vancomycin </target> was conducted in 54 consecutive patients over a 16-month period .",
+        "D014640\tChemical\tVancomycin\t<target> Vancomycin </target> was curative in 95 % of 43 patients with proven infection .",
+        "D007239\tDisease\tinfection\tVancomycin was curative in 95 % of 43 patients with proven <target> infection </target> .",
+        "D014640\tChemical\tvancomycin\tDrugs were ceased in six patients because of adverse reactions ; in three of these <target> vancomycin </target> was considered the likely cause .",
+        "D013924\tDisease\tthrombophlebitis\tReactions included <target> thrombophlebitis </target> ( 20 of 54 patients ) , rash ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , proteinuria ( 1 of 50 ) and ototoxicity ( 1 of 11 patients tested by audiometry ) .",
+        "D005076\tDisease\trash\tReactions included thrombophlebitis ( 20 of 54 patients ) , <target> rash </target> ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , proteinuria ( 1 of 50 ) and ototoxicity ( 1 of 11 patients tested by audiometry ) .",
+        "D007674\tDisease\tnephrotoxicity\tReactions included thrombophlebitis ( 20 of 54 patients ) , rash ( 4 of 54 ) , <target> nephrotoxicity </target> ( 4 of 50 ) , proteinuria ( 1 of 50 ) and ototoxicity ( 1 of 11 patients tested by audiometry ) .",
+        "D011507\tDisease\tproteinuria\tReactions included thrombophlebitis ( 20 of 54 patients ) , rash ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , <target> proteinuria </target> ( 1 of 50 ) and ototoxicity ( 1 of 11 patients tested by audiometry ) .",
+        "D006311\tDisease\tototoxicity\tReactions included thrombophlebitis ( 20 of 54 patients ) , rash ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , proteinuria ( 1 of 50 ) and <target> ototoxicity </target> ( 1 of 11 patients tested by audiometry ) .",
+        "D013924\tDisease\tThrombophlebitis\t<target> Thrombophlebitis </target> occurred only with infusion through peripheral cannulae ; nephrotoxicity and ototoxicity were confined to patients receiving an aminoglycoside plus vancomycin .",
+        "D007674\tDisease\tnephrotoxicity\tThrombophlebitis occurred only with infusion through peripheral cannulae ; <target> nephrotoxicity </target> and ototoxicity were confined to patients receiving an aminoglycoside plus vancomycin .",
+        "D006311\tDisease\tototoxicity\tThrombophlebitis occurred only with infusion through peripheral cannulae ; nephrotoxicity and <target> ototoxicity </target> were confined to patients receiving an aminoglycoside plus vancomycin .",
+        "D000617\tChemical\taminoglycoside\tThrombophlebitis occurred only with infusion through peripheral cannulae ; nephrotoxicity and ototoxicity were confined to patients receiving an <target> aminoglycoside </target> plus vancomycin .",
+        "D014640\tChemical\tvancomycin\tThrombophlebitis occurred only with infusion through peripheral cannulae ; nephrotoxicity and ototoxicity were confined to patients receiving an aminoglycoside plus <target> vancomycin </target> .",
+        "D014640\tChemical\tvancomycin\tWe conclude that <target> vancomycin </target> , administered appropriately , constitutes safe , effective therapy for infections caused by susceptible bacteria .",
+        "D007239\tDisease\tinfections\tWe conclude that vancomycin , administered appropriately , constitutes safe , effective therapy for <target> infections </target> caused by susceptible bacteria ."
+    ],
+    "lines_lemma": [
+        "D014640\tChemical\tvancomycin\ta prospective study of adverse reaction associate with <target> vancomycin </target> therapy .",
+        "D014640\tChemical\tvancomycin\ta prospective evaluation of the efficacy and safety of <target> vancomycin </target> be conduct in 54 consecutive patient over a 16-month period .",
+        "D014640\tChemical\tVancomycin\t<target> Vancomycin </target> be curative in 95 % of 43 patient with prove infection .",
+        "D007239\tDisease\tinfection\tVancomycin be curative in 95 % of 43 patient with prove <target> infection </target> .",
+        "D014640\tChemical\tvancomycin\tdrug be cease in six patient because of adverse reaction ; in three of these <target> vancomycin </target> be consider the likely cause .",
+        "D013924\tDisease\tthrombophlebitis\treaction include <target> thrombophlebitis </target> ( 20 of 54 patient ) , rash ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , proteinuria ( 1 of 50 ) and ototoxicity ( 1 of 11 patient test by audiometry ) .",
+        "D005076\tDisease\trash\treaction include thrombophlebitis ( 20 of 54 patient ) , <target> rash </target> ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , proteinuria ( 1 of 50 ) and ototoxicity ( 1 of 11 patient test by audiometry ) .",
+        "D007674\tDisease\tnephrotoxicity\treaction include thrombophlebitis ( 20 of 54 patient ) , rash ( 4 of 54 ) , <target> nephrotoxicity </target> ( 4 of 50 ) , proteinuria ( 1 of 50 ) and ototoxicity ( 1 of 11 patient test by audiometry ) .",
+        "D011507\tDisease\tproteinuria\treaction include thrombophlebitis ( 20 of 54 patient ) , rash ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , <target> proteinuria </target> ( 1 of 50 ) and ototoxicity ( 1 of 11 patient test by audiometry ) .",
+        "D006311\tDisease\tototoxicity\treaction include thrombophlebitis ( 20 of 54 patient ) , rash ( 4 of 54 ) , nephrotoxicity ( 4 of 50 ) , proteinuria ( 1 of 50 ) and <target> ototoxicity </target> ( 1 of 11 patient test by audiometry ) .",
+        "D013924\tDisease\tThrombophlebitis\t<target> thrombophlebitis </target> occur only with infusion through peripheral cannulae ; nephrotoxicity and ototoxicity be confine to patient receive an aminoglycoside plus vancomycin .",
+        "D007674\tDisease\tnephrotoxicity\tthrombophlebitis occur only with infusion through peripheral cannulae ; <target> nephrotoxicity </target> and ototoxicity be confine to patient receive an aminoglycoside plus vancomycin .",
+        "D006311\tDisease\tototoxicity\tthrombophlebitis occur only with infusion through peripheral cannulae ; nephrotoxicity and <target> ototoxicity </target> be confine to patient receive an aminoglycoside plus vancomycin .",
+        "D000617\tChemical\taminoglycoside\tthrombophlebitis occur only with infusion through peripheral cannulae ; nephrotoxicity and ototoxicity be confine to patient receive an <target> aminoglycoside </target> plus vancomycin .",
+        "D014640\tChemical\tvancomycin\tthrombophlebitis occur only with infusion through peripheral cannulae ; nephrotoxicity and ototoxicity be confine to patient receive an aminoglycoside plus <target> vancomycin </target> .",
+        "D014640\tChemical\tvancomycin\twe conclude that <target> vancomycin </target> , administer appropriately , constitute safe , effective therapy for infection cause by susceptible bacteria .",
+        "D007239\tDisease\tinfections\twe conclude that vancomycin , administer appropriately , constitute safe , effective therapy for <target> infection </target> cause by susceptible bacteria ."
+    ]
+}

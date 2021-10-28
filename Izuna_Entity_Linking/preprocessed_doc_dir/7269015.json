@@ -1,0 +1,92 @@
+{
+    "title": "Busulfan-induced hemorrhagic cystitis.",
+    "abst": "A case of a busulfan-induced hemorrhage cystitis is reported. Spontaneous resolution occurred following cessation of the drug. The similarity between the histologic appearances of busulfan cystitis and both radiation and cyclophosphamide-induced cystitis is discussed and the world literature reviewed. In view of the known tendency of busulfan to induce cellular atypia and carcinoma in other sites, periodic urinary cytology is suggested in patients on long-term therapy.",
+    "title_plus_abst": "Busulfan-induced hemorrhagic cystitis. A case of a busulfan-induced hemorrhage cystitis is reported. Spontaneous resolution occurred following cessation of the drug. The similarity between the histologic appearances of busulfan cystitis and both radiation and cyclophosphamide-induced cystitis is discussed and the world literature reviewed. In view of the known tendency of busulfan to induce cellular atypia and carcinoma in other sites, periodic urinary cytology is suggested in patients on long-term therapy.",
+    "pubmed_id": "7269015",
+    "entities": [
+        [
+            0,
+            8,
+            "Busulfan",
+            "Chemical",
+            "D002066"
+        ],
+        [
+            51,
+            59,
+            "busulfan",
+            "Chemical",
+            "D002066"
+        ],
+        [
+            219,
+            227,
+            "busulfan",
+            "Chemical",
+            "D002066"
+        ],
+        [
+            228,
+            236,
+            "cystitis",
+            "Disease",
+            "D003556"
+        ],
+        [
+            260,
+            276,
+            "cyclophosphamide",
+            "Chemical",
+            "D003520"
+        ],
+        [
+            285,
+            293,
+            "cystitis",
+            "Disease",
+            "D003556"
+        ],
+        [
+            375,
+            383,
+            "busulfan",
+            "Chemical",
+            "D002066"
+        ],
+        [
+            414,
+            423,
+            "carcinoma",
+            "Disease",
+            "D002277"
+        ]
+    ],
+    "split_sentence": [
+        "Busulfan-induced hemorrhagic cystitis.",
+        "A case of a busulfan-induced hemorrhage cystitis is reported.",
+        "Spontaneous resolution occurred following cessation of the drug.",
+        "The similarity between the histologic appearances of busulfan cystitis and both radiation and cyclophosphamide-induced cystitis is discussed and the world literature reviewed.",
+        "In view of the known tendency of busulfan to induce cellular atypia and carcinoma in other sites, periodic urinary cytology is suggested in patients on long-term therapy."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D002066\tChemical\tBusulfan\t<target> Busulfan </target> -induced hemorrhagic cystitis .",
+        "D002066\tChemical\tbusulfan\tA case of a <target> busulfan </target> -induced hemorrhage cystitis is reported .",
+        "D002066\tChemical\tbusulfan\tThe similarity between the histologic appearances of <target> busulfan </target> cystitis and both radiation and cyclophosphamide-induced cystitis is discussed and the world literature reviewed .",
+        "D003556\tDisease\tcystitis\tThe similarity between the histologic appearances of busulfan <target> cystitis </target> and both radiation and cyclophosphamide-induced cystitis is discussed and the world literature reviewed .",
+        "D003520\tChemical\tcyclophosphamide\tThe similarity between the histologic appearances of busulfan cystitis and both radiation and <target> cyclophosphamide </target> -induced cystitis is discussed and the world literature reviewed .",
+        "D003556\tDisease\tcystitis\tThe similarity between the histologic appearances of busulfan cystitis and both radiation and cyclophosphamide-induced <target> cystitis </target> is discussed and the world literature reviewed .",
+        "D002066\tChemical\tbusulfan\tIn view of the known tendency of <target> busulfan </target> to induce cellular atypia and carcinoma in other sites , periodic urinary cytology is suggested in patients on long-term therapy .",
+        "D002277\tDisease\tcarcinoma\tIn view of the known tendency of busulfan to induce cellular atypia and <target> carcinoma </target> in other sites , periodic urinary cytology is suggested in patients on long-term therapy ."
+    ],
+    "lines_lemma": [
+        "D002066\tChemical\tBusulfan\t<target> Busulfan </target> -induced hemorrhagic cystitis .",
+        "D002066\tChemical\tbusulfan\ta case of a <target> busulfan </target> -induced hemorrhage cystitis be report .",
+        "D002066\tChemical\tbusulfan\tthe similarity between the histologic appearance of <target> busulfan </target> cystitis and both radiation and cyclophosphamide-induced cystitis be discuss and the world literature review .",
+        "D003556\tDisease\tcystitis\tthe similarity between the histologic appearance of busulfan <target> cystitis </target> and both radiation and cyclophosphamide-induced cystitis be discuss and the world literature review .",
+        "D003520\tChemical\tcyclophosphamide\tthe similarity between the histologic appearance of busulfan cystitis and both radiation and <target> cyclophosphamide </target> -induced cystitis be discuss and the world literature review .",
+        "D003556\tDisease\tcystitis\tthe similarity between the histologic appearance of busulfan cystitis and both radiation and cyclophosphamide-induced <target> cystitis </target> be discuss and the world literature review .",
+        "D002066\tChemical\tbusulfan\tin view of the known tendency of <target> busulfan </target> to induce cellular atypia and carcinoma in other site , periodic urinary cytology be suggest in patient on long-term therapy .",
+        "D002277\tDisease\tcarcinoma\tin view of the known tendency of busulfan to induce cellular atypia and <target> carcinoma </target> in other site , periodic urinary cytology be suggest in patient on long-term therapy ."
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "title": "Antiandrogenic therapy can cause coronary arterial disease.",
+    "abst": "AIM: To study the change of lipid metabolism by antiandrogen therapy in patients with prostate cancer. MATERIALS AND METHODS: We studied with a 2.5 years follow-up the changes in plasma cholesterols (C), triglycerides (TG), lipoproteins (LP), and apolipoproteins (Apo) B-100, A-I, and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer (stage: T1cN0M0, Gleason score: 2-5) during treatment with cyproterone acetate (CPA) without surgical management or radiation therapy. RESULTS: Significant decreases of HDL-C, Apo A-I and Apo A-II and an increase of triglyceride levels in VLDL were induced by CPA. After a period of 2.5 years on CPA treatment, four patients out of twenty-four were found to be affected by coronary heart disease. CONCLUSIONS: Ischaemic coronary arteriosclerosis with an incidence rate of 16.6% as caused by prolonged CPA therapy is mediated through changes in HDL cholesterol, Apo A-I and Apo A-II pro fi les, other than the well-known hyperglyceridemic effect caused by estrogen.",
+    "title_plus_abst": "Antiandrogenic therapy can cause coronary arterial disease. AIM: To study the change of lipid metabolism by antiandrogen therapy in patients with prostate cancer. MATERIALS AND METHODS: We studied with a 2.5 years follow-up the changes in plasma cholesterols (C), triglycerides (TG), lipoproteins (LP), and apolipoproteins (Apo) B-100, A-I, and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer (stage: T1cN0M0, Gleason score: 2-5) during treatment with cyproterone acetate (CPA) without surgical management or radiation therapy. RESULTS: Significant decreases of HDL-C, Apo A-I and Apo A-II and an increase of triglyceride levels in VLDL were induced by CPA. After a period of 2.5 years on CPA treatment, four patients out of twenty-four were found to be affected by coronary heart disease. CONCLUSIONS: Ischaemic coronary arteriosclerosis with an incidence rate of 16.6% as caused by prolonged CPA therapy is mediated through changes in HDL cholesterol, Apo A-I and Apo A-II pro fi les, other than the well-known hyperglyceridemic effect caused by estrogen.",
+    "pubmed_id": "16323982",
+    "entities": [
+        [
+            33,
+            58,
+            "coronary arterial disease",
+            "Disease",
+            "D003324"
+        ],
+        [
+            146,
+            161,
+            "prostate cancer",
+            "Disease",
+            "D011471"
+        ],
+        [
+            246,
+            258,
+            "cholesterols",
+            "Chemical",
+            "D002784"
+        ],
+        [
+            260,
+            261,
+            "C",
+            "Chemical",
+            "D002784"
+        ],
+        [
+            264,
+            277,
+            "triglycerides",
+            "Chemical",
+            "D014280"
+        ],
+        [
+            279,
+            281,
+            "TG",
+            "Chemical",
+            "D014280"
+        ],
+        [
+            411,
+            426,
+            "prostate cancer",
+            "Disease",
+            "D011471"
+        ],
+        [
+            486,
+            505,
+            "cyproterone acetate",
+            "Chemical",
+            "D017373"
+        ],
+        [
+            507,
+            510,
+            "CPA",
+            "Chemical",
+            "D017373"
+        ],
+        [
+            643,
+            655,
+            "triglyceride",
+            "Chemical",
+            "D014280"
+        ],
+        [
+            687,
+            690,
+            "CPA",
+            "Chemical",
+            "D017373"
+        ],
+        [
+            723,
+            726,
+            "CPA",
+            "Chemical",
+            "D017373"
+        ],
+        [
+            800,
+            822,
+            "coronary heart disease",
+            "Disease",
+            "D003327"
+        ],
+        [
+            847,
+            872,
+            "coronary arteriosclerosis",
+            "Disease",
+            "D003324"
+        ],
+        [
+            928,
+            931,
+            "CPA",
+            "Chemical",
+            "D017373"
+        ],
+        [
+            975,
+            986,
+            "cholesterol",
+            "Chemical",
+            "D002784"
+        ],
+        [
+            1047,
+            1071,
+            "hyperglyceridemic effect",
+            "Disease",
+            "D050171"
+        ],
+        [
+            1082,
+            1090,
+            "estrogen",
+            "Chemical",
+            "D004967"
+        ]
+    ],
+    "split_sentence": [
+        "Antiandrogenic therapy can cause coronary arterial disease.",
+        "AIM: To study the change of lipid metabolism by antiandrogen therapy in patients with prostate cancer.",
+        "MATERIALS AND METHODS: We studied with a 2.5 years follow-up the changes in plasma cholesterols (C), triglycerides (TG), lipoproteins (LP), and apolipoproteins (Apo) B-100, A-I, and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer (stage: T1cN0M0, Gleason score: 2-5) during treatment with cyproterone acetate (CPA) without surgical management or radiation therapy.",
+        "RESULTS: Significant decreases of HDL-C, Apo A-I and Apo A-II and an increase of triglyceride levels in VLDL were induced by CPA.",
+        "After a period of 2.5 years on CPA treatment, four patients out of twenty-four were found to be affected by coronary heart disease.",
+        "CONCLUSIONS: Ischaemic coronary arteriosclerosis with an incidence rate of 16.6% as caused by prolonged CPA therapy is mediated through changes in HDL cholesterol, Apo A-I and Apo A-II pro fi les, other than the well-known hyperglyceridemic effect caused by estrogen."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003324\tDisease\tcoronary arterial disease\tAntiandrogenic therapy can cause <target> coronary arterial disease </target> .",
+        "D011471\tDisease\tprostate cancer\tAIM : To study the change of lipid metabolism by antiandrogen therapy in patients with <target> prostate cancer </target> .",
+        "D002784\tChemical\tcholesterols\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma <target> cholesterols </target> ( C ) , triglycerides ( TG ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with cyproterone acetate ( CPA ) without surgical management or radiation therapy .",
+        "D002784\tChemical\tC\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma cholesterols ( <target> C </target> ) , triglycerides ( TG ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with cyproterone acetate ( CPA ) without surgical management or radiation therapy .",
+        "D014280\tChemical\ttriglycerides\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma cholesterols ( C ) , <target> triglycerides </target> ( TG ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with cyproterone acetate ( CPA ) without surgical management or radiation therapy .",
+        "D014280\tChemical\tTG\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma cholesterols ( C ) , triglycerides ( <target> TG </target> ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with cyproterone acetate ( CPA ) without surgical management or radiation therapy .",
+        "D011471\tDisease\tprostate cancer\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma cholesterols ( C ) , triglycerides ( TG ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk <target> prostate cancer </target> ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with cyproterone acetate ( CPA ) without surgical management or radiation therapy .",
+        "D017373\tChemical\tcyproterone acetate\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma cholesterols ( C ) , triglycerides ( TG ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with <target> cyproterone acetate </target> ( CPA ) without surgical management or radiation therapy .",
+        "D017373\tChemical\tCPA\tMATERIALS AND METHODS : We studied with a 2.5 years follow-up the changes in plasma cholesterols ( C ) , triglycerides ( TG ) , lipoproteins ( LP ) , and apolipoproteins ( Apo ) B-100 , A-I , and A-II pro fi les in 24 patients of mean age 60 years with low risk prostate cancer ( stage : T1cN0M0 , Gleason score : 2 - 5 ) during treatment with cyproterone acetate ( <target> CPA </target> ) without surgical management or radiation therapy .",
+        "D014280\tChemical\ttriglyceride\tRESULTS : Significant decreases of HDL-C , Apo A-I and Apo A-II and an increase of <target> triglyceride </target> levels in VLDL were induced by CPA .",
+        "D017373\tChemical\tCPA\tRESULTS : Significant decreases of HDL-C , Apo A-I and Apo A-II and an increase of triglyceride levels in VLDL were induced by <target> CPA </target> .",
+        "D017373\tChemical\tCPA\tAfter a period of 2.5 years on <target> CPA </target> treatment , four patients out of twenty-four were found to be affected by coronary heart disease .",
+        "D003327\tDisease\tcoronary heart disease\tAfter a period of 2.5 years on CPA treatment , four patients out of twenty-four were found to be affected by <target> coronary heart disease </target> .",
+        "D003324\tDisease\tcoronary arteriosclerosis\tCONCLUSIONS : Ischaemic <target> coronary arteriosclerosis </target> with an incidence rate of 16.6 % as caused by prolonged CPA therapy is mediated through changes in HDL cholesterol , Apo A-I and Apo A-II pro fi les , other than the well-known hyperglyceridemic effect caused by estrogen .",
+        "D017373\tChemical\tCPA\tCONCLUSIONS : Ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as caused by prolonged <target> CPA </target> therapy is mediated through changes in HDL cholesterol , Apo A-I and Apo A-II pro fi les , other than the well-known hyperglyceridemic effect caused by estrogen .",
+        "D002784\tChemical\tcholesterol\tCONCLUSIONS : Ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as caused by prolonged CPA therapy is mediated through changes in HDL <target> cholesterol </target> , Apo A-I and Apo A-II pro fi les , other than the well-known hyperglyceridemic effect caused by estrogen .",
+        "D050171\tDisease\thyperglyceridemic effect\tCONCLUSIONS : Ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as caused by prolonged CPA therapy is mediated through changes in HDL cholesterol , Apo A-I and Apo A-II pro fi les , other than the well-known <target> hyperglyceridemic effect </target> caused by estrogen .",
+        "D004967\tChemical\testrogen\tCONCLUSIONS : Ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as caused by prolonged CPA therapy is mediated through changes in HDL cholesterol , Apo A-I and Apo A-II pro fi les , other than the well-known hyperglyceridemic effect caused by <target> estrogen </target> ."
+    ],
+    "lines_lemma": [
+        "D003324\tDisease\tcoronary arterial disease\tantiandrogenic therapy can cause <target> coronary arterial disease </target> .",
+        "D011471\tDisease\tprostate cancer\taim : to study the change of lipid metabolism by antiandrogen therapy in patient with <target> prostate cancer </target> .",
+        "D002784\tChemical\tcholesterols\tmaterial and method : we study with a 2.5 year follow-up the change in plasma <target> cholesterol </target> ( c ) , triglyceride ( tg ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk prostate cancer ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with cyproterone acetate ( cpa ) without surgical management or radiation therapy .",
+        "D002784\tChemical\tC\tmaterial and method : we study with a 2.5 year follow-up the change in plasma cholesterol ( <target> c </target> ) , triglyceride ( tg ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk prostate cancer ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with cyproterone acetate ( cpa ) without surgical management or radiation therapy .",
+        "D014280\tChemical\ttriglycerides\tmaterial and method : we study with a 2.5 year follow-up the change in plasma cholesterol ( c ) , <target> triglyceride </target> ( tg ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk prostate cancer ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with cyproterone acetate ( cpa ) without surgical management or radiation therapy .",
+        "D014280\tChemical\tTG\tmaterial and method : we study with a 2.5 year follow-up the change in plasma cholesterol ( c ) , triglyceride ( <target> tg </target> ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk prostate cancer ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with cyproterone acetate ( cpa ) without surgical management or radiation therapy .",
+        "D011471\tDisease\tprostate cancer\tmaterial and method : we study with a 2.5 year follow-up the change in plasma cholesterol ( c ) , triglyceride ( tg ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk <target> prostate cancer </target> ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with cyproterone acetate ( cpa ) without surgical management or radiation therapy .",
+        "D017373\tChemical\tcyproterone acetate\tmaterial and method : we study with a 2.5 year follow-up the change in plasma cholesterol ( c ) , triglyceride ( tg ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk prostate cancer ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with <target> cyproterone acetate </target> ( cpa ) without surgical management or radiation therapy .",
+        "D017373\tChemical\tCPA\tmaterial and method : we study with a 2.5 year follow-up the change in plasma cholesterol ( c ) , triglyceride ( tg ) , lipoprotein ( lp ) , and apolipoprotein ( apo ) b-100 , a-i , and a-ii pro fi le in 24 patient of mean age 60 year with low risk prostate cancer ( stage : t1cn0m0 , gleason score : 2 - 5 ) during treatment with cyproterone acetate ( <target> cpa </target> ) without surgical management or radiation therapy .",
+        "D014280\tChemical\ttriglyceride\tresult : significant decrease of hdl-c , Apo a-i and apo a-ii and an increase of <target> triglyceride </target> level in vldl be induce by cpa .",
+        "D017373\tChemical\tCPA\tresult : significant decrease of hdl-c , Apo a-i and apo a-ii and an increase of triglyceride level in vldl be induce by <target> cpa </target> .",
+        "D017373\tChemical\tCPA\tafter a period of 2.5 year on <target> cpa </target> treatment , four patient out of twenty-four be find to be affect by coronary heart disease .",
+        "D003327\tDisease\tcoronary heart disease\tafter a period of 2.5 year on cpa treatment , four patient out of twenty-four be find to be affect by <target> coronary heart disease </target> .",
+        "D003324\tDisease\tcoronary arteriosclerosis\tconclusion : ischaemic <target> coronary arteriosclerosis </target> with an incidence rate of 16.6 % as cause by prolonged cpa therapy be mediate through change in hdl cholesterol , Apo a-i and apo a-ii pro fi le , other than the well-known hyperglyceridemic effect cause by estrogen .",
+        "D017373\tChemical\tCPA\tconclusion : ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as cause by prolonged <target> cpa </target> therapy be mediate through change in hdl cholesterol , Apo a-i and apo a-ii pro fi le , other than the well-known hyperglyceridemic effect cause by estrogen .",
+        "D002784\tChemical\tcholesterol\tconclusion : ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as cause by prolonged cpa therapy be mediate through change in hdl <target> cholesterol </target> , Apo a-i and apo a-ii pro fi le , other than the well-known hyperglyceridemic effect cause by estrogen .",
+        "D050171\tDisease\thyperglyceridemic effect\tconclusion : ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as cause by prolonged cpa therapy be mediate through change in hdl cholesterol , Apo a-i and apo a-ii pro fi le , other than the well-known <target> hyperglyceridemic effect </target> cause by estrogen .",
+        "D004967\tChemical\testrogen\tconclusion : ischaemic coronary arteriosclerosis with an incidence rate of 16.6 % as cause by prolonged cpa therapy be mediate through change in hdl cholesterol , Apo a-i and apo a-ii pro fi le , other than the well-known hyperglyceridemic effect cause by <target> estrogen </target> ."
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Late fulminant posterior reversible encephalopathy syndrome after liver transplant.",
+    "abst": "OBJECTIVES: Posterior leukoencephalopathy due to calcineurin-inhibitor-related neurotoxicity is a rare but severe complication that results from treatment with immunosuppressive agents (primarily those administered after a liver or kidney transplant). The pathophysiologic mechanisms of that disorder remain unknown. CASE: We report the case of a 46-year-old woman who received a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of posterior leukoencephalopathy or posterior reversible encephalopathy syndrome developed 110 days after transplant. After an initially uneventful course after the transplant, the patient rapidly fell into deep coma. RESULTS: Cerebral MRI scan showed typical signs of enhancement in the pontine and posterior regions. Switching the immunosuppressive regimen from tacrolimus to cyclosporine did not improve the clinical situation. The termination of treatment with any calcineurin inhibitor resulted in a complete resolution of that complication. CONCLUSIONS: Posterior reversible encephalopathy syndrome after liver transplant is rare. We recommend a complete cessation of any calcineurin inhibitor rather than a dose reduction.",
+    "title_plus_abst": "Late fulminant posterior reversible encephalopathy syndrome after liver transplant. OBJECTIVES: Posterior leukoencephalopathy due to calcineurin-inhibitor-related neurotoxicity is a rare but severe complication that results from treatment with immunosuppressive agents (primarily those administered after a liver or kidney transplant). The pathophysiologic mechanisms of that disorder remain unknown. CASE: We report the case of a 46-year-old woman who received a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of posterior leukoencephalopathy or posterior reversible encephalopathy syndrome developed 110 days after transplant. After an initially uneventful course after the transplant, the patient rapidly fell into deep coma. RESULTS: Cerebral MRI scan showed typical signs of enhancement in the pontine and posterior regions. Switching the immunosuppressive regimen from tacrolimus to cyclosporine did not improve the clinical situation. The termination of treatment with any calcineurin inhibitor resulted in a complete resolution of that complication. CONCLUSIONS: Posterior reversible encephalopathy syndrome after liver transplant is rare. We recommend a complete cessation of any calcineurin inhibitor rather than a dose reduction.",
+    "pubmed_id": "19715529",
+    "entities": [
+        [
+            15,
+            59,
+            "posterior reversible encephalopathy syndrome",
+            "Disease",
+            "D054038"
+        ],
+        [
+            96,
+            125,
+            "Posterior leukoencephalopathy",
+            "Disease",
+            "D054038"
+        ],
+        [
+            163,
+            176,
+            "neurotoxicity",
+            "Disease",
+            "D020258"
+        ],
+        [
+            512,
+            531,
+            "alcoholic cirrhosis",
+            "Disease",
+            "D008104"
+        ],
+        [
+            573,
+            602,
+            "posterior leukoencephalopathy",
+            "Disease",
+            "D054038"
+        ],
+        [
+            606,
+            650,
+            "posterior reversible encephalopathy syndrome",
+            "Disease",
+            "D054038"
+        ],
+        [
+            934,
+            944,
+            "tacrolimus",
+            "Chemical",
+            "D016559"
+        ],
+        [
+            948,
+            960,
+            "cyclosporine",
+            "Chemical",
+            "D016572"
+        ],
+        [
+            1130,
+            1174,
+            "Posterior reversible encephalopathy syndrome",
+            "Disease",
+            "D054038"
+        ]
+    ],
+    "split_sentence": [
+        "Late fulminant posterior reversible encephalopathy syndrome after liver transplant.",
+        "OBJECTIVES: Posterior leukoencephalopathy due to calcineurin-inhibitor-related neurotoxicity is a rare but severe complication that results from treatment with immunosuppressive agents (primarily those administered after a liver or kidney transplant).",
+        "The pathophysiologic mechanisms of that disorder remain unknown.",
+        "CASE: We report the case of a 46-year-old woman who received a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of posterior leukoencephalopathy or posterior reversible encephalopathy syndrome developed 110 days after transplant.",
+        "After an initially uneventful course after the transplant, the patient rapidly fell into deep coma.",
+        "RESULTS: Cerebral MRI scan showed typical signs of enhancement in the pontine and posterior regions.",
+        "Switching the immunosuppressive regimen from tacrolimus to cyclosporine did not improve the clinical situation.",
+        "The termination of treatment with any calcineurin inhibitor resulted in a complete resolution of that complication.",
+        "CONCLUSIONS: Posterior reversible encephalopathy syndrome after liver transplant is rare.",
+        "We recommend a complete cessation of any calcineurin inhibitor rather than a dose reduction."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D054038\tDisease\tposterior reversible encephalopathy syndrome\tLate fulminant <target> posterior reversible encephalopathy syndrome </target> after liver transplant .",
+        "D054038\tDisease\tPosterior leukoencephalopathy\tOBJECTIVES : <target> Posterior leukoencephalopathy </target> due to calcineurin-inhibitor-related neurotoxicity is a rare but severe complication that results from treatment with immunosuppressive agents ( primarily those administered after a liver or kidney transplant ) .",
+        "D020258\tDisease\tneurotoxicity\tOBJECTIVES : Posterior leukoencephalopathy due to calcineurin-inhibitor-related <target> neurotoxicity </target> is a rare but severe complication that results from treatment with immunosuppressive agents ( primarily those administered after a liver or kidney transplant ) .",
+        "D008104\tDisease\talcoholic cirrhosis\tCASE : We report the case of a 46-year-old woman who received a liver transplant in our center as treatment for <target> alcoholic cirrhosis </target> and in whom either a fulminant course of posterior leukoencephalopathy or posterior reversible encephalopathy syndrome developed 110 days after transplant .",
+        "D054038\tDisease\tposterior leukoencephalopathy\tCASE : We report the case of a 46-year-old woman who received a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of <target> posterior leukoencephalopathy </target> or posterior reversible encephalopathy syndrome developed 110 days after transplant .",
+        "D054038\tDisease\tposterior reversible encephalopathy syndrome\tCASE : We report the case of a 46-year-old woman who received a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of posterior leukoencephalopathy or <target> posterior reversible encephalopathy syndrome </target> developed 110 days after transplant .",
+        "D016559\tChemical\ttacrolimus\tSwitching the immunosuppressive regimen from <target> tacrolimus </target> to cyclosporine did not improve the clinical situation .",
+        "D016572\tChemical\tcyclosporine\tSwitching the immunosuppressive regimen from tacrolimus to <target> cyclosporine </target> did not improve the clinical situation .",
+        "D054038\tDisease\tPosterior reversible encephalopathy syndrome\tCONCLUSIONS : <target> Posterior reversible encephalopathy syndrome </target> after liver transplant is rare ."
+    ],
+    "lines_lemma": [
+        "D054038\tDisease\tposterior reversible encephalopathy syndrome\tlate fulminant <target> posterior reversible encephalopathy syndrome </target> after liver transplant .",
+        "D054038\tDisease\tPosterior leukoencephalopathy\tobjective : <target> posterior leukoencephalopathy </target> due to calcineurin-inhibitor-related neurotoxicity be a rare but severe complication that result from treatment with immunosuppressive agent ( primarily those administer after a liver or kidney transplant ) .",
+        "D020258\tDisease\tneurotoxicity\tobjective : posterior leukoencephalopathy due to calcineurin-inhibitor-related <target> neurotoxicity </target> be a rare but severe complication that result from treatment with immunosuppressive agent ( primarily those administer after a liver or kidney transplant ) .",
+        "D008104\tDisease\talcoholic cirrhosis\tcase : we report the case of a 46-year-old woman who receive a liver transplant in our center as treatment for <target> alcoholic cirrhosis </target> and in whom either a fulminant course of posterior leukoencephalopathy or posterior reversible encephalopathy syndrome develop 110 day after transplant .",
+        "D054038\tDisease\tposterior leukoencephalopathy\tcase : we report the case of a 46-year-old woman who receive a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of <target> posterior leukoencephalopathy </target> or posterior reversible encephalopathy syndrome develop 110 day after transplant .",
+        "D054038\tDisease\tposterior reversible encephalopathy syndrome\tcase : we report the case of a 46-year-old woman who receive a liver transplant in our center as treatment for alcoholic cirrhosis and in whom either a fulminant course of posterior leukoencephalopathy or <target> posterior reversible encephalopathy syndrome </target> develop 110 day after transplant .",
+        "D016559\tChemical\ttacrolimus\tswitch the immunosuppressive regimen from <target> tacrolimus </target> to cyclosporine do not improve the clinical situation .",
+        "D016572\tChemical\tcyclosporine\tswitch the immunosuppressive regimen from tacrolimus to <target> cyclosporine </target> do not improve the clinical situation .",
+        "D054038\tDisease\tPosterior reversible encephalopathy syndrome\tconclusion : <target> posterior reversible encephalopathy syndrome </target> after liver transplant be rare ."
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "Ocular and auditory toxicity in hemodialyzed patients receiving desferrioxamine.",
+    "abst": "During an 18-month period of study 41 hemodialyzed patients receiving desferrioxamine (10-40 mg/kg BW/3 times weekly) for the first time were monitored for detection of audiovisual toxicity. 6 patients presented clinical symptoms of visual or auditory toxicity. Moreover, detailed ophthalmologic and audiologic studies disclosed abnormalities in 7 more asymptomatic patients. Visual toxicity was of retinal origin and was characterized by a tritan-type dyschromatopsy, sometimes associated with a loss of visual acuity and pigmentary retinal deposits. Auditory toxicity was characterized by a mid- to high-frequency neurosensorial hearing loss and the lesion was of the cochlear type. Desferrioxamine withdrawal resulted in a complete recovery of visual function in 1 patient and partial recovery in 3, and a complete reversal of hearing loss in 3 patients and partial recovery in 3. This toxicity appeared in patients receiving the higher doses of desferrioxamine or coincided with the normalization of ferritin or aluminium serum levels. The data indicate that audiovisual toxicity is not an infrequent complication in hemodialyzed patients receiving desferrioxamine. Periodical audiovisual monitoring should be performed on hemodialyzed patients receiving the drug in order to detect adverse effects as early as possible.",
+    "title_plus_abst": "Ocular and auditory toxicity in hemodialyzed patients receiving desferrioxamine. During an 18-month period of study 41 hemodialyzed patients receiving desferrioxamine (10-40 mg/kg BW/3 times weekly) for the first time were monitored for detection of audiovisual toxicity. 6 patients presented clinical symptoms of visual or auditory toxicity. Moreover, detailed ophthalmologic and audiologic studies disclosed abnormalities in 7 more asymptomatic patients. Visual toxicity was of retinal origin and was characterized by a tritan-type dyschromatopsy, sometimes associated with a loss of visual acuity and pigmentary retinal deposits. Auditory toxicity was characterized by a mid- to high-frequency neurosensorial hearing loss and the lesion was of the cochlear type. Desferrioxamine withdrawal resulted in a complete recovery of visual function in 1 patient and partial recovery in 3, and a complete reversal of hearing loss in 3 patients and partial recovery in 3. This toxicity appeared in patients receiving the higher doses of desferrioxamine or coincided with the normalization of ferritin or aluminium serum levels. The data indicate that audiovisual toxicity is not an infrequent complication in hemodialyzed patients receiving desferrioxamine. Periodical audiovisual monitoring should be performed on hemodialyzed patients receiving the drug in order to detect adverse effects as early as possible.",
+    "pubmed_id": "2234245",
+    "entities": [
+        [
+            64,
+            79,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            151,
+            166,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            457,
+            472,
+            "Visual toxicity",
+            "Disease",
+            "D014786"
+        ],
+        [
+            576,
+            599,
+            "a loss of visual acuity",
+            "Disease",
+            "D014786"
+        ],
+        [
+            604,
+            631,
+            "pigmentary retinal deposits",
+            "Disease",
+            "D012164"
+        ],
+        [
+            633,
+            650,
+            "Auditory toxicity",
+            "Disease",
+            "D006311"
+        ],
+        [
+            697,
+            724,
+            "neurosensorial hearing loss",
+            "Disease",
+            "D006319"
+        ],
+        [
+            766,
+            781,
+            "Desferrioxamine",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            911,
+            923,
+            "hearing loss",
+            "Disease",
+            "D034381"
+        ],
+        [
+            970,
+            978,
+            "toxicity",
+            "Disease",
+            "D064420"
+        ],
+        [
+            1030,
+            1045,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ],
+        [
+            1234,
+            1249,
+            "desferrioxamine",
+            "Chemical",
+            "D003676"
+        ]
+    ],
+    "split_sentence": [
+        "Ocular and auditory toxicity in hemodialyzed patients receiving desferrioxamine.",
+        "During an 18-month period of study 41 hemodialyzed patients receiving desferrioxamine (10-40 mg/kg BW/3 times weekly) for the first time were monitored for detection of audiovisual toxicity.",
+        "6 patients presented clinical symptoms of visual or auditory toxicity.",
+        "Moreover, detailed ophthalmologic and audiologic studies disclosed abnormalities in 7 more asymptomatic patients.",
+        "Visual toxicity was of retinal origin and was characterized by a tritan-type dyschromatopsy, sometimes associated with a loss of visual acuity and pigmentary retinal deposits.",
+        "Auditory toxicity was characterized by a mid- to high-frequency neurosensorial hearing loss and the lesion was of the cochlear type.",
+        "Desferrioxamine withdrawal resulted in a complete recovery of visual function in 1 patient and partial recovery in 3, and a complete reversal of hearing loss in 3 patients and partial recovery in 3.",
+        "This toxicity appeared in patients receiving the higher doses of desferrioxamine or coincided with the normalization of ferritin or aluminium serum levels.",
+        "The data indicate that audiovisual toxicity is not an infrequent complication in hemodialyzed patients receiving desferrioxamine.",
+        "Periodical audiovisual monitoring should be performed on hemodialyzed patients receiving the drug in order to detect adverse effects as early as possible."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D003676\tChemical\tdesferrioxamine\tOcular and auditory toxicity in hemodialyzed patients receiving <target> desferrioxamine </target> .",
+        "D003676\tChemical\tdesferrioxamine\tDuring an 18-month period of study 41 hemodialyzed patients receiving <target> desferrioxamine </target> ( 10 - 40 mg/kg BW/3 times weekly ) for the first time were monitored for detection of audiovisual toxicity .",
+        "D014786\tDisease\tVisual toxicity\t<target> Visual toxicity </target> was of retinal origin and was characterized by a tritan-type dyschromatopsy , sometimes associated with a loss of visual acuity and pigmentary retinal deposits .",
+        "D014786\tDisease\ta loss of visual acuity\tVisual toxicity was of retinal origin and was characterized by a tritan-type dyschromatopsy , sometimes associated with <target> a loss of visual acuity </target> and pigmentary retinal deposits .",
+        "D012164\tDisease\tpigmentary retinal deposits\tVisual toxicity was of retinal origin and was characterized by a tritan-type dyschromatopsy , sometimes associated with a loss of visual acuity and <target> pigmentary retinal deposits </target> .",
+        "D006311\tDisease\tAuditory toxicity\t<target> Auditory toxicity </target> was characterized by a mid- to high-frequency neurosensorial hearing loss and the lesion was of the cochlear type .",
+        "D006319\tDisease\tneurosensorial hearing loss\tAuditory toxicity was characterized by a mid- to high-frequency <target> neurosensorial hearing loss </target> and the lesion was of the cochlear type .",
+        "D003676\tChemical\tDesferrioxamine\t<target> Desferrioxamine </target> withdrawal resulted in a complete recovery of visual function in 1 patient and partial recovery in 3 , and a complete reversal of hearing loss in 3 patients and partial recovery in 3 .",
+        "D034381\tDisease\thearing loss\tDesferrioxamine withdrawal resulted in a complete recovery of visual function in 1 patient and partial recovery in 3 , and a complete reversal of <target> hearing loss </target> in 3 patients and partial recovery in 3 .",
+        "D064420\tDisease\ttoxicity\tThis <target> toxicity </target> appeared in patients receiving the higher doses of desferrioxamine or coincided with the normalization of ferritin or aluminium serum levels .",
+        "D003676\tChemical\tdesferrioxamine\tThis toxicity appeared in patients receiving the higher doses of <target> desferrioxamine </target> or coincided with the normalization of ferritin or aluminium serum levels .",
+        "D003676\tChemical\tdesferrioxamine\tThe data indicate that audiovisual toxicity is not an infrequent complication in hemodialyzed patients receiving <target> desferrioxamine </target> ."
+    ],
+    "lines_lemma": [
+        "D003676\tChemical\tdesferrioxamine\tocular and auditory toxicity in hemodialyze patient receive <target> desferrioxamine </target> .",
+        "D003676\tChemical\tdesferrioxamine\tduring an 18-month period of study 41 hemodialyze patient receive <target> desferrioxamine </target> ( 10 - 40 mg/kg bw/3 time weekly ) for the first time be monitor for detection of audiovisual toxicity .",
+        "D014786\tDisease\tVisual toxicity\t<target> visual toxicity </target> be of retinal origin and be characterize by a tritan-type dyschromatopsy , sometimes associate with a loss of visual acuity and pigmentary retinal deposit .",
+        "D014786\tDisease\ta loss of visual acuity\tvisual toxicity be of retinal origin and be characterize by a tritan-type dyschromatopsy , sometimes associate with <target> a loss of visual acuity </target> and pigmentary retinal deposit .",
+        "D012164\tDisease\tpigmentary retinal deposits\tvisual toxicity be of retinal origin and be characterize by a tritan-type dyschromatopsy , sometimes associate with a loss of visual acuity and <target> pigmentary retinal deposit </target> .",
+        "D006311\tDisease\tAuditory toxicity\t<target> auditory toxicity </target> be characterize by a mid- to high-frequency neurosensorial hear loss and the lesion be of the cochlear type .",
+        "D006319\tDisease\tneurosensorial hearing loss\tauditory toxicity be characterize by a mid- to high-frequency <target> neurosensorial hear loss </target> and the lesion be of the cochlear type .",
+        "D003676\tChemical\tDesferrioxamine\t<target> desferrioxamine </target> withdrawal result in a complete recovery of visual function in 1 patient and partial recovery in 3 , and a complete reversal of hear loss in 3 patient and partial recovery in 3 .",
+        "D034381\tDisease\thearing loss\tdesferrioxamine withdrawal result in a complete recovery of visual function in 1 patient and partial recovery in 3 , and a complete reversal of <target> hearing loss </target> in 3 patient and partial recovery in 3 .",
+        "D064420\tDisease\ttoxicity\tthis <target> toxicity </target> appear in patient receive the high dose of desferrioxamine or coincide with the normalization of ferritin or aluminium serum level .",
+        "D003676\tChemical\tdesferrioxamine\tthis toxicity appear in patient receive the high dose of <target> desferrioxamine </target> or coincide with the normalization of ferritin or aluminium serum level .",
+        "D003676\tChemical\tdesferrioxamine\tthe datum indicate that audiovisual toxicity be not an infrequent complication in hemodialyze patient receive <target> desferrioxamine </target> ."
+    ]
+}

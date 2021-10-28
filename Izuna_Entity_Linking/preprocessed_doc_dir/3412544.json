@@ -1,0 +1,136 @@
+{
+    "title": "Does paracetamol cause urothelial cancer or renal papillary necrosis?",
+    "abst": "The risk of developing renal papillary necrosis or cancer of the renal pelvis, ureter or bladder associated with consumption of either phenacetin or paracetamol was calculated from data acquired by questionnaire from 381 cases and 808 controls. The risk of renal papillary necrosis was increased nearly 20-fold by consumption of phenacetin, which also increased the risk for cancer of the renal pelvis and bladder but not for ureteric cancer. By contrast, we were unable to substantiate an increased risk from paracetamol consumption for renal papillary necrosis or any of these cancers although there was a suggestion of an association with cancer of the ureter.",
+    "title_plus_abst": "Does paracetamol cause urothelial cancer or renal papillary necrosis? The risk of developing renal papillary necrosis or cancer of the renal pelvis, ureter or bladder associated with consumption of either phenacetin or paracetamol was calculated from data acquired by questionnaire from 381 cases and 808 controls. The risk of renal papillary necrosis was increased nearly 20-fold by consumption of phenacetin, which also increased the risk for cancer of the renal pelvis and bladder but not for ureteric cancer. By contrast, we were unable to substantiate an increased risk from paracetamol consumption for renal papillary necrosis or any of these cancers although there was a suggestion of an association with cancer of the ureter.",
+    "pubmed_id": "3412544",
+    "entities": [
+        [
+            5,
+            16,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            23,
+            40,
+            "urothelial cancer",
+            "Disease",
+            "D014523"
+        ],
+        [
+            44,
+            68,
+            "renal papillary necrosis",
+            "Disease",
+            "D007681"
+        ],
+        [
+            93,
+            117,
+            "renal papillary necrosis",
+            "Disease",
+            "D007681"
+        ],
+        [
+            205,
+            215,
+            "phenacetin",
+            "Chemical",
+            "D010615"
+        ],
+        [
+            219,
+            230,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            327,
+            351,
+            "renal papillary necrosis",
+            "Disease",
+            "D007681"
+        ],
+        [
+            399,
+            409,
+            "phenacetin",
+            "Chemical",
+            "D010615"
+        ],
+        [
+            496,
+            511,
+            "ureteric cancer",
+            "Disease",
+            "D014516"
+        ],
+        [
+            580,
+            591,
+            "paracetamol",
+            "Chemical",
+            "D000082"
+        ],
+        [
+            608,
+            632,
+            "renal papillary necrosis",
+            "Disease",
+            "D007681"
+        ],
+        [
+            649,
+            656,
+            "cancers",
+            "Disease",
+            "D009369"
+        ],
+        [
+            712,
+            732,
+            "cancer of the ureter",
+            "Disease",
+            "D014516"
+        ]
+    ],
+    "split_sentence": [
+        "Does paracetamol cause urothelial cancer or renal papillary necrosis?",
+        "The risk of developing renal papillary necrosis or cancer of the renal pelvis, ureter or bladder associated with consumption of either phenacetin or paracetamol was calculated from data acquired by questionnaire from 381 cases and 808 controls.",
+        "The risk of renal papillary necrosis was increased nearly 20-fold by consumption of phenacetin, which also increased the risk for cancer of the renal pelvis and bladder but not for ureteric cancer.",
+        "By contrast, we were unable to substantiate an increased risk from paracetamol consumption for renal papillary necrosis or any of these cancers although there was a suggestion of an association with cancer of the ureter."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D000082\tChemical\tparacetamol\tDoes <target> paracetamol </target> cause urothelial cancer or renal papillary necrosis ?",
+        "D014523\tDisease\turothelial cancer\tDoes paracetamol cause <target> urothelial cancer </target> or renal papillary necrosis ?",
+        "D007681\tDisease\trenal papillary necrosis\tDoes paracetamol cause urothelial cancer or <target> renal papillary necrosis </target> ?",
+        "D007681\tDisease\trenal papillary necrosis\tThe risk of developing <target> renal papillary necrosis </target> or cancer of the renal pelvis , ureter or bladder associated with consumption of either phenacetin or paracetamol was calculated from data acquired by questionnaire from 381 cases and 808 controls .",
+        "D010615\tChemical\tphenacetin\tThe risk of developing renal papillary necrosis or cancer of the renal pelvis , ureter or bladder associated with consumption of either <target> phenacetin </target> or paracetamol was calculated from data acquired by questionnaire from 381 cases and 808 controls .",
+        "D000082\tChemical\tparacetamol\tThe risk of developing renal papillary necrosis or cancer of the renal pelvis , ureter or bladder associated with consumption of either phenacetin or <target> paracetamol </target> was calculated from data acquired by questionnaire from 381 cases and 808 controls .",
+        "D007681\tDisease\trenal papillary necrosis\tThe risk of <target> renal papillary necrosis </target> was increased nearly 20-fold by consumption of phenacetin , which also increased the risk for cancer of the renal pelvis and bladder but not for ureteric cancer .",
+        "D010615\tChemical\tphenacetin\tThe risk of renal papillary necrosis was increased nearly 20-fold by consumption of <target> phenacetin </target> , which also increased the risk for cancer of the renal pelvis and bladder but not for ureteric cancer .",
+        "D014516\tDisease\tureteric cancer\tThe risk of renal papillary necrosis was increased nearly 20-fold by consumption of phenacetin , which also increased the risk for cancer of the renal pelvis and bladder but not for <target> ureteric cancer </target> .",
+        "D000082\tChemical\tparacetamol\tBy contrast , we were unable to substantiate an increased risk from <target> paracetamol </target> consumption for renal papillary necrosis or any of these cancers although there was a suggestion of an association with cancer of the ureter .",
+        "D007681\tDisease\trenal papillary necrosis\tBy contrast , we were unable to substantiate an increased risk from paracetamol consumption for <target> renal papillary necrosis </target> or any of these cancers although there was a suggestion of an association with cancer of the ureter .",
+        "D009369\tDisease\tcancers\tBy contrast , we were unable to substantiate an increased risk from paracetamol consumption for renal papillary necrosis or any of these <target> cancers </target> although there was a suggestion of an association with cancer of the ureter .",
+        "D014516\tDisease\tcancer of the ureter\tBy contrast , we were unable to substantiate an increased risk from paracetamol consumption for renal papillary necrosis or any of these cancers although there was a suggestion of an association with <target> cancer of the ureter </target> ."
+    ],
+    "lines_lemma": [
+        "D000082\tChemical\tparacetamol\tdo <target> paracetamol </target> cause urothelial cancer or renal papillary necrosis ?",
+        "D014523\tDisease\turothelial cancer\tdo paracetamol cause <target> urothelial cancer </target> or renal papillary necrosis ?",
+        "D007681\tDisease\trenal papillary necrosis\tdo paracetamol cause urothelial cancer or <target> renal papillary necrosis </target> ?",
+        "D007681\tDisease\trenal papillary necrosis\tthe risk of develop <target> renal papillary necrosis </target> or cancer of the renal pelvis , ureter or bladder associate with consumption of either phenacetin or paracetamol be calculate from datum acquire by questionnaire from 381 case and 808 control .",
+        "D010615\tChemical\tphenacetin\tthe risk of develop renal papillary necrosis or cancer of the renal pelvis , ureter or bladder associate with consumption of either <target> phenacetin </target> or paracetamol be calculate from datum acquire by questionnaire from 381 case and 808 control .",
+        "D000082\tChemical\tparacetamol\tthe risk of develop renal papillary necrosis or cancer of the renal pelvis , ureter or bladder associate with consumption of either phenacetin or <target> paracetamol </target> be calculate from datum acquire by questionnaire from 381 case and 808 control .",
+        "D007681\tDisease\trenal papillary necrosis\tthe risk of <target> renal papillary necrosis </target> be increase nearly 20-fold by consumption of phenacetin , which also increase the risk for cancer of the renal pelvis and bladder but not for ureteric cancer .",
+        "D010615\tChemical\tphenacetin\tthe risk of renal papillary necrosis be increase nearly 20-fold by consumption of <target> phenacetin </target> , which also increase the risk for cancer of the renal pelvis and bladder but not for ureteric cancer .",
+        "D014516\tDisease\tureteric cancer\tthe risk of renal papillary necrosis be increase nearly 20-fold by consumption of phenacetin , which also increase the risk for cancer of the renal pelvis and bladder but not for <target> ureteric cancer </target> .",
+        "D000082\tChemical\tparacetamol\tby contrast , we be unable to substantiate an increase risk from <target> paracetamol </target> consumption for renal papillary necrosis or any of these cancer although there be a suggestion of an association with cancer of the ureter .",
+        "D007681\tDisease\trenal papillary necrosis\tby contrast , we be unable to substantiate an increase risk from paracetamol consumption for <target> renal papillary necrosis </target> or any of these cancer although there be a suggestion of an association with cancer of the ureter .",
+        "D009369\tDisease\tcancers\tby contrast , we be unable to substantiate an increase risk from paracetamol consumption for renal papillary necrosis or any of these <target> cancer </target> although there be a suggestion of an association with cancer of the ureter .",
+        "D014516\tDisease\tcancer of the ureter\tby contrast , we be unable to substantiate an increase risk from paracetamol consumption for renal papillary necrosis or any of these cancer although there be a suggestion of an association with <target> cancer of the ureter </target> ."
+    ]
+}

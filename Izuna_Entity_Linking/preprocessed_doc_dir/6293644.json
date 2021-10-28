@@ -1,0 +1,84 @@
+{
+    "title": "Effects of calcitonin on rat extrapyramidal motor system: behavioral and biochemical data.",
+    "abst": "The effects of i.v.c. injection of human and salmon calcitonin on biochemical and behavioral parameters related to the extrapyramidal motor system, were investigated in male rats. Calcitonin injection resulted in a potentiation of haloperidol-induced catalepsy and a partial prevention of apomorphine-induced hyperactivity. Moreover calcitonin induced a significant decrease in nigral GAD activity but no change in striatal DA and DOPAC concentration or GAD activity. The results are discussed in view of a primary action of calcitonin on the striatonigral GABAergic pathway mediating the DA-related behavioral messages of striatal origin.",
+    "title_plus_abst": "Effects of calcitonin on rat extrapyramidal motor system: behavioral and biochemical data. The effects of i.v.c. injection of human and salmon calcitonin on biochemical and behavioral parameters related to the extrapyramidal motor system, were investigated in male rats. Calcitonin injection resulted in a potentiation of haloperidol-induced catalepsy and a partial prevention of apomorphine-induced hyperactivity. Moreover calcitonin induced a significant decrease in nigral GAD activity but no change in striatal DA and DOPAC concentration or GAD activity. The results are discussed in view of a primary action of calcitonin on the striatonigral GABAergic pathway mediating the DA-related behavioral messages of striatal origin.",
+    "pubmed_id": "6293644",
+    "entities": [
+        [
+            322,
+            333,
+            "haloperidol",
+            "Chemical",
+            "D006220"
+        ],
+        [
+            342,
+            351,
+            "catalepsy",
+            "Disease",
+            "D002375"
+        ],
+        [
+            380,
+            391,
+            "apomorphine",
+            "Chemical",
+            "D001058"
+        ],
+        [
+            400,
+            413,
+            "hyperactivity",
+            "Disease",
+            "D006948"
+        ],
+        [
+            515,
+            517,
+            "DA",
+            "Chemical",
+            "D004298"
+        ],
+        [
+            522,
+            527,
+            "DOPAC",
+            "Chemical",
+            "D015102"
+        ],
+        [
+            680,
+            682,
+            "DA",
+            "Chemical",
+            "D004298"
+        ]
+    ],
+    "split_sentence": [
+        "Effects of calcitonin on rat extrapyramidal motor system: behavioral and biochemical data.",
+        "The effects of i.v.c.",
+        "injection of human and salmon calcitonin on biochemical and behavioral parameters related to the extrapyramidal motor system, were investigated in male rats.",
+        "Calcitonin injection resulted in a potentiation of haloperidol-induced catalepsy and a partial prevention of apomorphine-induced hyperactivity.",
+        "Moreover calcitonin induced a significant decrease in nigral GAD activity but no change in striatal DA and DOPAC concentration or GAD activity.",
+        "The results are discussed in view of a primary action of calcitonin on the striatonigral GABAergic pathway mediating the DA-related behavioral messages of striatal origin."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D006220\tChemical\thaloperidol\tCalcitonin injection resulted in a potentiation of <target> haloperidol </target> -induced catalepsy and a partial prevention of apomorphine-induced hyperactivity .",
+        "D002375\tDisease\tcatalepsy\tCalcitonin injection resulted in a potentiation of haloperidol-induced <target> catalepsy </target> and a partial prevention of apomorphine-induced hyperactivity .",
+        "D001058\tChemical\tapomorphine\tCalcitonin injection resulted in a potentiation of haloperidol-induced catalepsy and a partial prevention of <target> apomorphine </target> -induced hyperactivity .",
+        "D006948\tDisease\thyperactivity\tCalcitonin injection resulted in a potentiation of haloperidol-induced catalepsy and a partial prevention of apomorphine-induced <target> hyperactivity </target> .",
+        "D004298\tChemical\tDA\tMoreover calcitonin induced a significant decrease in nigral GAD activity but no change in striatal <target> DA </target> and DOPAC concentration or GAD activity .",
+        "D015102\tChemical\tDOPAC\tMoreover calcitonin induced a significant decrease in nigral GAD activity but no change in striatal DA and <target> DOPAC </target> concentration or GAD activity .",
+        "D004298\tChemical\tDA\tThe results are discussed in view of a primary action of calcitonin on the striatonigral GABAergic pathway mediating the <target> DA </target> -related behavioral messages of striatal origin ."
+    ],
+    "lines_lemma": [
+        "D006220\tChemical\thaloperidol\tcalcitonin injection result in a potentiation of <target> haloperidol </target> -induced catalepsy and a partial prevention of apomorphine-induced hyperactivity .",
+        "D002375\tDisease\tcatalepsy\tcalcitonin injection result in a potentiation of haloperidol-induced <target> catalepsy </target> and a partial prevention of apomorphine-induced hyperactivity .",
+        "D001058\tChemical\tapomorphine\tcalcitonin injection result in a potentiation of haloperidol-induced catalepsy and a partial prevention of <target> apomorphine </target> -induced hyperactivity .",
+        "D006948\tDisease\thyperactivity\tcalcitonin injection result in a potentiation of haloperidol-induced catalepsy and a partial prevention of apomorphine-induced <target> hyperactivity </target> .",
+        "D004298\tChemical\tDA\tmoreover calcitonin induce a significant decrease in nigral gad activity but no change in striatal <target> da </target> and dopac concentration or gad activity .",
+        "D015102\tChemical\tDOPAC\tmoreover calcitonin induce a significant decrease in nigral gad activity but no change in striatal da and <target> dopac </target> concentration or gad activity .",
+        "D004298\tChemical\tDA\tthe result be discuss in view of a primary action of calcitonin on the striatonigral gabaergic pathway mediate the <target> da </target> -related behavioral message of striatal origin ."
+    ]
+}

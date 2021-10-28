@@ -1,0 +1,132 @@
+{
+    "title": "Etomidate: a foreshortened clinical trial.",
+    "abst": "A clinical evaluation of etomidate for outpatient cystoscopy was embarked upon. Unpremedicated patients were given fentanyl 1 microgram/kg followed by etomidate 0.3 mg/kg. Anaesthesia was maintained with intermittent etomidate in 2-4 mg doses. Patients were interviewed personally later the same day, and by questionnaire three to four weeks later. The trial was discontinued after 20 cases because of an unacceptable incidence of side effects. Venous pain occurred in 68% of patients and 50% had redness, pain or swelling related to the injection site, in some cases lasting up to three weeks after anaesthesia. Skeletal movements occurred in 50% of patients; 30% experienced respiratory upset, one sufficiently severe to necessitate abandoning the technique. Nausea and vomiting occurred in 40% and 25% had disturbing emergence psychoses.",
+    "title_plus_abst": "Etomidate: a foreshortened clinical trial. A clinical evaluation of etomidate for outpatient cystoscopy was embarked upon. Unpremedicated patients were given fentanyl 1 microgram/kg followed by etomidate 0.3 mg/kg. Anaesthesia was maintained with intermittent etomidate in 2-4 mg doses. Patients were interviewed personally later the same day, and by questionnaire three to four weeks later. The trial was discontinued after 20 cases because of an unacceptable incidence of side effects. Venous pain occurred in 68% of patients and 50% had redness, pain or swelling related to the injection site, in some cases lasting up to three weeks after anaesthesia. Skeletal movements occurred in 50% of patients; 30% experienced respiratory upset, one sufficiently severe to necessitate abandoning the technique. Nausea and vomiting occurred in 40% and 25% had disturbing emergence psychoses.",
+    "pubmed_id": "7457821",
+    "entities": [
+        [
+            0,
+            9,
+            "Etomidate",
+            "Chemical",
+            "D005045"
+        ],
+        [
+            68,
+            77,
+            "etomidate",
+            "Chemical",
+            "D005045"
+        ],
+        [
+            158,
+            166,
+            "fentanyl",
+            "Chemical",
+            "D005283"
+        ],
+        [
+            194,
+            203,
+            "etomidate",
+            "Chemical",
+            "D005045"
+        ],
+        [
+            260,
+            269,
+            "etomidate",
+            "Chemical",
+            "D005045"
+        ],
+        [
+            495,
+            499,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            549,
+            553,
+            "pain",
+            "Disease",
+            "D010146"
+        ],
+        [
+            557,
+            565,
+            "swelling",
+            "Disease",
+            "D004487"
+        ],
+        [
+            720,
+            737,
+            "respiratory upset",
+            "Disease",
+            "D012140"
+        ],
+        [
+            804,
+            810,
+            "Nausea",
+            "Disease",
+            "D009325"
+        ],
+        [
+            815,
+            823,
+            "vomiting",
+            "Disease",
+            "D014839"
+        ],
+        [
+            873,
+            882,
+            "psychoses",
+            "Disease",
+            "D011605"
+        ]
+    ],
+    "split_sentence": [
+        "Etomidate: a foreshortened clinical trial.",
+        "A clinical evaluation of etomidate for outpatient cystoscopy was embarked upon.",
+        "Unpremedicated patients were given fentanyl 1 microgram/kg followed by etomidate 0.3 mg/kg.",
+        "Anaesthesia was maintained with intermittent etomidate in 2-4 mg doses.",
+        "Patients were interviewed personally later the same day, and by questionnaire three to four weeks later.",
+        "The trial was discontinued after 20 cases because of an unacceptable incidence of side effects.",
+        "Venous pain occurred in 68% of patients and 50% had redness, pain or swelling related to the injection site, in some cases lasting up to three weeks after anaesthesia.",
+        "Skeletal movements occurred in 50% of patients; 30% experienced respiratory upset, one sufficiently severe to necessitate abandoning the technique.",
+        "Nausea and vomiting occurred in 40% and 25% had disturbing emergence psychoses."
+    ],
+    "if_txt_length_is_changed_flag": 0,
+    "lines": [
+        "D005045\tChemical\tEtomidate\t<target> Etomidate </target> : a foreshortened clinical trial .",
+        "D005045\tChemical\tetomidate\tA clinical evaluation of <target> etomidate </target> for outpatient cystoscopy was embarked upon .",
+        "D005283\tChemical\tfentanyl\tUnpremedicated patients were given <target> fentanyl </target> 1 microgram/kg followed by etomidate 0.3 mg/kg .",
+        "D005045\tChemical\tetomidate\tUnpremedicated patients were given fentanyl 1 microgram/kg followed by <target> etomidate </target> 0.3 mg/kg .",
+        "D005045\tChemical\tetomidate\tAnaesthesia was maintained with intermittent <target> etomidate </target> in 2 - 4 mg doses .",
+        "D010146\tDisease\tpain\tVenous <target> pain </target> occurred in 68 % of patients and 50 % had redness , pain or swelling related to the injection site , in some cases lasting up to three weeks after anaesthesia .",
+        "D010146\tDisease\tpain\tVenous pain occurred in 68 % of patients and 50 % had redness , <target> pain </target> or swelling related to the injection site , in some cases lasting up to three weeks after anaesthesia .",
+        "D004487\tDisease\tswelling\tVenous pain occurred in 68 % of patients and 50 % had redness , pain or <target> swelling </target> related to the injection site , in some cases lasting up to three weeks after anaesthesia .",
+        "D012140\tDisease\trespiratory upset\tSkeletal movements occurred in 50 % of patients ; 30 % experienced <target> respiratory upset </target> , one sufficiently severe to necessitate abandoning the technique .",
+        "D009325\tDisease\tNausea\t<target> Nausea </target> and vomiting occurred in 40 % and 25 % had disturbing emergence psychoses .",
+        "D014839\tDisease\tvomiting\tNausea and <target> vomiting </target> occurred in 40 % and 25 % had disturbing emergence psychoses .",
+        "D011605\tDisease\tpsychoses\tNausea and vomiting occurred in 40 % and 25 % had disturbing emergence <target> psychoses </target> ."
+    ],
+    "lines_lemma": [
+        "D005045\tChemical\tEtomidate\t<target> Etomidate </target> : a foreshortened clinical trial .",
+        "D005045\tChemical\tetomidate\ta clinical evaluation of <target> etomidate </target> for outpatient cystoscopy be embark upon .",
+        "D005283\tChemical\tfentanyl\tunpremedicated patient be give <target> fentanyl </target> 1 microgram/kg follow by etomidate 0.3 mg/kg .",
+        "D005045\tChemical\tetomidate\tunpremedicated patient be give fentanyl 1 microgram/kg follow by <target> etomidate </target> 0.3 mg/kg .",
+        "D005045\tChemical\tetomidate\tAnaesthesia be maintain with intermittent <target> etomidate </target> in 2 - 4 mg dose .",
+        "D010146\tDisease\tpain\tvenous <target> pain </target> occur in 68 % of patient and 50 % have redness , pain or swell related to the injection site , in some case last up to three week after anaesthesia .",
+        "D010146\tDisease\tpain\tvenous pain occur in 68 % of patient and 50 % have redness , <target> pain </target> or swell related to the injection site , in some case last up to three week after anaesthesia .",
+        "D004487\tDisease\tswelling\tvenous pain occur in 68 % of patient and 50 % have redness , pain or <target> swelling </target> related to the injection site , in some case last up to three week after anaesthesia .",
+        "D012140\tDisease\trespiratory upset\tskeletal movement occur in 50 % of patient ; 30 % experience <target> respiratory upset </target> , one sufficiently severe to necessitate abandon the technique .",
+        "D009325\tDisease\tNausea\t<target> Nausea </target> and vomiting occur in 40 % and 25 % have disturb emergence psychosis .",
+        "D014839\tDisease\tvomiting\tNausea and <target> vomiting </target> occur in 40 % and 25 % have disturb emergence psychosis .",
+        "D011605\tDisease\tpsychoses\tNausea and vomiting occur in 40 % and 25 % have disturb emergence <target> psychosis </target> ."
+    ]
+}
