@@ -17,7 +17,7 @@ from tqdm import tqdm
 import json
 from tokenizer import CustomTokenizer
 import numpy as np
-from candidate_generator import CandidateGeneratorForTestDataset
+from candidate_reader import CandidateReaderForTestDataset
 
 class CorpusReader(DatasetReader):
     def __init__(
@@ -37,7 +37,7 @@ class CorpusReader(DatasetReader):
 
         # kb loading
         self.dui2idx, self.idx2dui, self.dui2canonical, self.dui2definition = self._kb_loader()
-        self.candidate_generator = CandidateGeneratorForTestDataset(config=config)
+        self.candidate_reader = CandidateReaderForTestDataset(config=config)
         self.dev_eval_flag = 0
 
         self.dev_recall, self.test_recall = 0, 0
@@ -203,7 +203,7 @@ class CorpusReader(DatasetReader):
             line = self.id2mention[mention_uniq_id]
             gold_dui, _, surface_mention, target_anchor_included_sentence = line.split('\t')
 
-            candidate_duis_idx = [self.dui2idx[dui] for dui in self.candidate_generator.mention2candidate_duis[surface_mention]
+            candidate_duis_idx = [self.dui2idx[dui] for dui in self.candidate_reader.mention2candidate_duis[surface_mention]
                               if dui in self.dui2idx and dui in self.dui2canonical][:self.config.max_candidates_num]
             while len(candidate_duis_idx) < self.config.max_candidates_num:
                 random_choiced_dui = random.choice([dui for dui in self.dui2idx.keys()])

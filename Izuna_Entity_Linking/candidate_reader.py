@@ -1,7 +1,7 @@
 import json, pickle, pdb
 from parameteres import Biencoder_params
 
-class CandidateGeneratorForTestDataset:
+class CandidateReaderForTestDataset:
     def __init__(self, config):
         self.config = config
         self.mention2candidate_duis = self._dui2candidate_duis_returner()
@@ -19,5 +19,5 @@ class CandidateGeneratorForTestDataset:
 if __name__ == '__main__':
     config = Biencoder_params()
     params = config.opts
-    cg = CandidateGeneratorForTestDataset(config=params)
+    cg = CandidateReaderForTestDataset(config=params)
     cg._dui2candidate_duis_returner()

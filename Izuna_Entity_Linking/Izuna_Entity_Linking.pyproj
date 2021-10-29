@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ea8e461c-1d22-4451-bb2a-293672948f3b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>main.py</StartupFile>
+    <StartupFile>candidate_reader.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BC5CDR codes\BC5CDRpreprocess.py" />
-    <Compile Include="candidate_generator.py" />
+    <Compile Include="candidate_reader.py" />
     <Compile Include="Cantemist_preprocess.py">
       <SubType>Code</SubType>
     </Compile>
@@ -37,6 +37,7 @@
     <Compile Include="dataset_reader.py" />
     <Compile Include="encoder.py" />
     <Compile Include="evaluate_with_entire_kb.py" />
+    <Compile Include="create_candidates.py" />
     <Compile Include="kb_loader.py" />
     <Compile Include="main.py" />
     <Compile Include="model.py" />
@@ -45,6 +46,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BC5CDR codes\preprocess_mesh.py" />
+    <Compile Include="scg_candidate_generator.py" />
     <Compile Include="tokenizer.py" />
     <Compile Include="utils.py" />
     <Compile Include="__init__.py" />
@@ -55,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="candidates.pkl" />
-    <Content Include="dataset\README.md" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
