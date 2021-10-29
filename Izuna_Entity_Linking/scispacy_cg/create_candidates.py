@@ -3,7 +3,7 @@ from tqdm import tqdm
 
 if __name__ == '__main__':
     mentions = list()
-    with open('./mentions/bc5cdr_mentions.txt', 'r') as f:
+    with open('./dataset/bc5cdr_mentions.txt', 'r') as f:
         for line in f:
             mention = line.strip()
             mentions.append(mention)
