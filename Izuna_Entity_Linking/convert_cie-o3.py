@@ -46,23 +46,45 @@ def mergeSheets(datas, canonical_names):
     return datas
 
 
-def GenerateJSON(all_datas):   
+from random import seed
+from random import randint
+def GenerateJSON(all_datas):      
     dict_datas = {}
     dict_txt = ''
     with open('cie_o3.json', 'w', encoding='utf-8') as json_file:
+        nombreList = []
+        seed(1)
         for i in range(len(all_datas['codigo'])):
-            namos = ''
-            create_namos = str(all_datas['descriptor completo'][i]).split(' ')
-            create_namos = [content for content in create_namos if not content in '']
-            for n in create_namos:
-                namos += str(n)[0]
+            nombre_control = False
+            nombre = ''
+            create_nombre = str(all_datas['descriptor completo'][i]).split(' ')
+            create_nombre = [content for content in create_nombre if not content in '']
+            for n in create_nombre:
+                nombre += str(n)[0] 
+            nombre += str(randint(0, 1500))
+            if len(nombreList) == 0:
+                nombreList.append(nombre)
+            else:
+                while nombre_control == False:
+                    flag = True
+                    for nom in nombreList:
+                        if nom == nombre:
+                            nombre += str(randint(0, 100))
+                            continue
+                        else:
+                            flag = False
+                    if flag == False:
+                        nombreList.append(nombre)
+                        nombre_control = True
+
             cortos = []
             if str(all_datas['descriptor corto'][i]).find(',') != -1:
                 cortos = str(all_datas['descriptor corto'][i]).split(',')       
                 cortos = [content.strip() for content in cortos if not content in '']
             else:
                 cortos.append(str(all_datas['descriptor corto'][i]).strip())
-            dict_datas = {"concept_id": all_datas['codigo'][i], "aliases": cortos, "canonical_name": namos, "definition": all_datas['descriptor completo'][i]}
+
+            dict_datas = {"concept_id": all_datas['codigo'][i], "aliases": cortos, "canonical_name": nombre, "definition": all_datas['descriptor completo'][i]}
             json.dump(dict_datas, json_file, ensure_ascii=False)
             json_file.write("\n")
     
