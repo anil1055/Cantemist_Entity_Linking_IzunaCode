@@ -15,7 +15,7 @@ def write_candidates(entity_list, candidates_filename, ontology_graph, ont_numbe
     
     entities_used = int() # entitites with at least one candidate
     candidates_links = dict() # (url: links)
-    candidates_file = open(candidates_filename, 'w')
+    candidates_file = open(candidates_filename, 'w', encoding='utf-8')
     
     for e in entity_list:
     

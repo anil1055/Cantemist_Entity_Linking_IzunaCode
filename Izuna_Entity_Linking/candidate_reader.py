@@ -13,7 +13,7 @@ class CandidateReaderForTestDataset:
         mention2candidate_duis = {}
         for mention, its_candidates in zip(c['mentions'], c['candidates']):
             mention2candidate_duis.update({mention: [dui for (dui, prior) in its_candidates]})
-
+            
         return mention2candidate_duis
 
 if __name__ == '__main__':

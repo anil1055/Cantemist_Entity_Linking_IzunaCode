@@ -12,10 +12,10 @@ def parse_ner_output(ic=False):
     evaluation = False
 
     if ic:
-        filenames_1 = ["./data/datasets/train-set-to-publish/cantemist-norm/"+input_file for input_file in os.listdir("./data/datasets/train-set-to-publish/cantemist-norm/") if input_file[-3:] == "ann"]
-        filenames_2 = ["./data/datasets/dev-set1-to-publish/cantemist-norm/"+input_file for input_file in os.listdir("./data/datasets/dev-set1-to-publish/cantemist-norm/") if input_file[-3:] == "ann"]
-        filenames_3 = ["./data/datasets/dev-set2-to-publish/cantemist-norm/"+input_file for input_file in os.listdir("./data/datasets/dev-set2-to-publish/cantemist-norm/") if input_file[-3:] == "ann"]
-        filenames = filenames_1 + filenames_2 + filenames_3
+        filenames_1 = ["./dataset/cantemist/train/"+input_file for input_file in os.listdir("./dataset/cantemist/train/") if input_file[-3:] == "ann"]
+        filenames_2 = ["./dataset/cantemist/dev1/"+input_file for input_file in os.listdir("./dataset/cantemist/dev1/") if input_file[-3:] == "ann"]
+        filenames_3 = ["./dataset/cantemist/dev2/"+input_file for input_file in os.listdir("./dataset/cantemist/dev2/") if input_file[-3:] == "ann"]
+        filenames =  filenames_1 + filenames_2 + filenames_3
 
     else:
         filenames = ["./evaluation/NER/"+ input_file for input_file in os.listdir("./evaluation/NER/")]
@@ -26,7 +26,7 @@ def parse_ner_output(ic=False):
 
     for filename in filenames:
         
-        with open(filename , 'r') as doc_file:
+        with open(filename , 'r', encoding='utf-8') as doc_file:
             ner_output = doc_file.readlines()
             doc_file.close()
 
@@ -35,7 +35,7 @@ def parse_ner_output(ic=False):
             if evaluation:
                 doc_name = filename.split("evaluation/NER/")[1]
             else:
-                doc_name = filename.split("cantemist-norm/")[1]
+                doc_name = filename.split("/")[4]
                 
             for annotation in ner_output:
                 line_data = annotation.split("\t")
@@ -55,22 +55,22 @@ def parse_ner_output(ic=False):
                             else:
                                 annotations[doc_name] = [annotation_id]
 
-                    else: # The annotation text is needed for candidate retrieval
-                        #if doc_name == "S1130-01082005001000015-1.ann":
-                            annotation_text = line_data[2].strip("\n")
-                            term_number = line_data[0]
-                            annotation_type = line_data[1].split(" ")[0]
-                            annotation_begin = line_data[1].split(" ")[1]
-                            annotation_end = line_data[1].split(" ")[2]
-                            annotation_data = (annotation_text, term_number, annotation_type, annotation_begin, annotation_end)
+                        else: # The annotation text is needed for candidate retrieval
+                            #if doc_name == "S1130-01082005001000015-1.ann":
+                                annotation_text = line_data[2].strip("\n")
+                                term_number = line_data[0]
+                                annotation_type = line_data[1].split(" ")[0]
+                                annotation_begin = line_data[1].split(" ")[1]
+                                annotation_end = line_data[1].split(" ")[2]
+                                annotation_data = (annotation_text, term_number, annotation_type, annotation_begin, annotation_end)
 
-                            if doc_name in annotations.keys():
-                                current_values = annotations[doc_name]
-                                current_values.append(annotation_data)
-                                annotations[doc_name] = current_values
+                                if doc_name in annotations.keys():
+                                    current_values = annotations[doc_name]
+                                    current_values.append(annotation_data)
+                                    annotations[doc_name] = current_values
                                                 
-                            else:
-                                annotations[doc_name] = [annotation_data]
+                                else:
+                                    annotations[doc_name] = [annotation_data]
                 
     return annotations
 

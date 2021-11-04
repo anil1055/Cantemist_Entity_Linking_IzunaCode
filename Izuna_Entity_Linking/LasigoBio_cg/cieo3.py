@@ -44,7 +44,7 @@ def load_cieo3():
     edge_list = list()
     not_assigned = list()
 
-    with open('./data/vocabularies/valid-codes.txt', 'r') as codes_file:
+    with open('./vocab_file/valid-codes.txt', 'r', encoding ='utf-8') as codes_file:
         valid_codes = codes_file.readlines()
 
         for code in valid_codes:
