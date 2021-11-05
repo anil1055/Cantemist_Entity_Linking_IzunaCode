@@ -10,6 +10,19 @@ class CandidateReaderForTestDataset:
         with open(self.config.candidates_dataset, 'rb') as f:
             c = pickle.load(f)
 
+        if self.config.candidates_dataset == './tmp/ecie03_candidates.pkl':
+            mention_list = []
+            candidates_list = []            
+            for ment in c:
+                mention_list.append(ment)
+                cnd = []
+                value = []
+                for i, scr in c[ment]:
+                    tpl = (str(i) , float(scr/100))
+                    cnd.append(tpl)
+                candidates_list.append(cnd)
+            c['mentions'] = mention_list
+            c['candidates'] = candidates_list
         mention2candidate_duis = {}
         for mention, its_candidates in zip(c['mentions'], c['candidates']):
             mention2candidate_duis.update({mention: [dui for (dui, prior) in its_candidates]})

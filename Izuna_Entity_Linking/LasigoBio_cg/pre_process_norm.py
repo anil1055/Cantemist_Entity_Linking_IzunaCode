@@ -90,7 +90,7 @@ def build_entity_candidate_dict(annotations, model, min_match_score, ontology_gr
 def pre_process():
 
     start_time = time.time()
-    min_match_score = 0.02 # min lexical similarity between entity text and candidate text
+    min_match_score = 0.1 # min lexical similarity between entity text and candidate text
     ont_number = "single_ont" # ontologies to consider: single_ont (cieo3) or multi_ont (CIEO3, ICD10CM and DeCS)
     model = "ppr_ic"  
 
@@ -135,7 +135,7 @@ def pre_process():
         
     # Create file with the information content of each CIEO3 candidate appearing in candidates files (to use in ppr_ic model) 
     if model != "string_matching":
-        generate_ic_file(parse_ner_output(True), ontology_graph, ont_number)
+        generate_ic_file(annotations, ontology_graph, ont_number)
 
     print("Total time (aprox.):", int((time.time() - start_time)/60.0), "minutes\n----------------------------------")   
     
