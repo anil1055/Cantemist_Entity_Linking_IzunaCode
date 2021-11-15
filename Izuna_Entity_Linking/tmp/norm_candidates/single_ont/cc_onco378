@@ -101,8 +101,8 @@ CANDIDATE	id:90616	inCount:5	outCount:1	links:	url:9061/6	name:Seminoma, SAI, me
 CANDIDATE	id:90726	inCount:5	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO
 ENTITY	text:neoformación	normalName:neoformación	predictedType:MOR_NEO	q:true	qid:Q590	docId:cc_onco378	origText:neoformación	url:NaN
 CANDIDATE	id:95400	inCount:5	outCount:1	links:95400	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:93611	inCount:5	outCount:1	links:93611	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
-CANDIDATE	id:95620	inCount:5	outCount:1	links:95620	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:5	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:5	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
 CANDIDATE	id:95700	inCount:5	outCount:1	links:95700	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:84010	inCount:5	outCount:1	links:	url:8401/0	name:Adenoma apocrino	normalName:adenoma_apocrino	normalWikiTitle:adenoma_apocrino	predictedType:MOR_NEO
 CANDIDATE	id:84800	inCount:5	outCount:1	links:	url:8480/0	name:Adenoma mucinoso	normalName:adenoma_mucinoso	normalWikiTitle:adenoma_mucinoso	predictedType:MOR_NEO
@@ -118,7 +118,7 @@ CANDIDATE	id:80006	inCount:5	outCount:1	links:	url:8000/6	name:Neoplasia metast�
 CANDIDATE	id:95700	inCount:5	outCount:1	links:95700	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:95033	inCount:5	outCount:1	links:95033	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88200	inCount:5	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
-CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:89603	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
 CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
 ENTITY	text:neoplásico	normalName:neoplásico	predictedType:MOR_NEO	q:true	qid:Q590	docId:cc_onco378	origText:neoplásico	url:NaN
@@ -190,15 +190,15 @@ CANDIDATE	id:95033	inCount:5	outCount:1	links:95033	url:9503/3	name:Neuroepiteli
 CANDIDATE	id:81510	inCount:5	outCount:1	links:	url:8151/0	name:Insulinoma, SAI	normalName:insulinoma,_sai	normalWikiTitle:insulinoma,_sai	predictedType:MOR_NEO
 ENTITY	text:neoformativas	normalName:neoformativas	predictedType:MOR_NEO	q:true	qid:Q590	docId:cc_onco378	origText:neoformativas	url:NaN
 CANDIDATE	id:95401	inCount:5	outCount:1	links:	url:9540/1	name:Neurofibromatosis, SAI	normalName:neurofibromatosis,_sai	normalWikiTitle:neurofibromatosis,_sai	predictedType:MOR_NEO
-CANDIDATE	id:95400	inCount:5	outCount:1	links:95400	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:95601	inCount:5	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:88241	inCount:5	outCount:1	links:	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:95400	inCount:5	outCount:1	links:95400	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:89603	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:5	outCount:1	links:80109	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:88320	inCount:5	outCount:1	links:	url:8832/0	name:Dermatofibroma, SAI	normalName:dermatofibroma,_sai	normalWikiTitle:dermatofibroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88901	inCount:5	outCount:1	links:	url:8890/1	name:Leiomiomatosis, SAI	normalName:leiomiomatosis,_sai	normalWikiTitle:leiomiomatosis,_sai	predictedType:MOR_NEO
 CANDIDATE	id:92101	inCount:5	outCount:1	links:	url:9210/1	name:Osteocondromatosis, SAI	normalName:osteocondromatosis,_sai	normalWikiTitle:osteocondromatosis,_sai	predictedType:MOR_NEO
 CANDIDATE	id:99613	inCount:5	outCount:1	links:	url:9961/3	name:Mielofibrosis primaria	normalName:mielofibrosis_primaria	normalWikiTitle:mielofibrosis_primaria	predictedType:MOR_NEO
-CANDIDATE	id:88241	inCount:5	outCount:1	links:	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
-CANDIDATE	id:93611	inCount:5	outCount:1	links:93611	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
-CANDIDATE	id:95620	inCount:5	outCount:1	links:95620	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
-CANDIDATE	id:95700	inCount:5	outCount:1	links:95700	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
 ENTITY	text:metástasis de carcinoma metaplásico	normalName:metástasis_de_carcinoma_metaplásico	predictedType:MOR_NEO	q:true	qid:Q590	docId:cc_onco378	origText:metástasis de carcinoma metaplásico	url:NaN
 CANDIDATE	id:85753	inCount:5	outCount:1	links:85753	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
 CANDIDATE	id:90816	inCount:5	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO

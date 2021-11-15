@@ -15,7 +15,8 @@ def parse_ner_output(ic=False):
         filenames_1 = ["./dataset/cantemist/train/"+input_file for input_file in os.listdir("./dataset/cantemist/train/") if input_file[-3:] == "ann"]
         filenames_2 = ["./dataset/cantemist/dev1/"+input_file for input_file in os.listdir("./dataset/cantemist/dev1/") if input_file[-3:] == "ann"]
         filenames_3 = ["./dataset/cantemist/dev2/"+input_file for input_file in os.listdir("./dataset/cantemist/dev2/") if input_file[-3:] == "ann"]
-        filenames =  filenames_1 + filenames_2 + filenames_3
+        filenames_4 = ["./dataset/cantemist/test/"+input_file for input_file in os.listdir("./dataset/cantemist/test/") if input_file[-3:] == "ann"]
+        filenames =  filenames_1 + filenames_2 + filenames_3 + filenames_4
 
     else:
         filenames = ["./evaluation/NER/"+ input_file for input_file in os.listdir("./evaluation/NER/")]

@@ -202,7 +202,7 @@ class CorpusReader(DatasetReader):
             assert train_dev_test_flag in ['dev1', 'test']
             line = self.id2mention[mention_uniq_id]
             gold_dui, _, surface_mention, target_anchor_included_sentence = line.split('\t')
-
+            surface_mention = str(surface_mention).lower().replace(' ', '_') # Just for CANTEMIST
             candidate_duis_idx = [self.dui2idx[dui] for dui in self.candidate_reader.mention2candidate_duis[surface_mention]
                               if dui in self.dui2idx and dui in self.dui2canonical][:self.config.max_candidates_num]
             while len(candidate_duis_idx) < self.config.max_candidates_num:

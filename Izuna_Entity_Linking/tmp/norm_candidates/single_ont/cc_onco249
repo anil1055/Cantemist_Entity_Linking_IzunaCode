@@ -23,16 +23,16 @@ CANDIDATE	id:82130	inCount:5	outCount:1	links:	url:8213/0	name:Adenoma dentado	n
 CANDIDATE	id:97013	inCount:6	outCount:1	links:	url:9701/3	name:Enfermedad, Sézary	normalName:enfermedad,_sézary	normalWikiTitle:enfermedad,_sézary	predictedType:MOR_NEO
 CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad, Paget extramamaria	normalName:enfermedad,_paget_extramamaria	normalWikiTitle:enfermedad,_paget_extramamaria	predictedType:MOR_NEO
 ENTITY	text:lesiones hepáticas	normalName:lesiones_hepáticas	predictedType:MOR_NEO	q:true	qid:Q549	docId:cc_onco249	origText:lesiones hepáticas	url:NaN
-CANDIDATE	id:81423	inCount:5	outCount:1	links:81423;814239	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
-CANDIDATE	id:81426	inCount:5	outCount:1	links:	url:8142/6	name:Linitis plástica, metástasis	normalName:linitis_plástica,_metástasis	normalWikiTitle:linitis_plástica,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:814239;81423	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
 CANDIDATE	id:81700	inCount:5	outCount:1	links:81700	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:81426	inCount:5	outCount:1	links:	url:8142/6	name:Linitis plástica, metástasis	normalName:linitis_plástica,_metástasis	normalWikiTitle:linitis_plástica,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95036	inCount:5	outCount:1	links:	url:9503/6	name:Neuroepitelioma, SAI, metástasis	normalName:neuroepitelioma,_sai,_metástasis	normalWikiTitle:neuroepitelioma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88900	inCount:5	outCount:1	links:	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
 CANDIDATE	id:89820	inCount:5	outCount:1	links:	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:98323	inCount:9	outCount:1	links:	url:9832/3	name:Leucemia prolinfocítica, SAI	normalName:leucemia_prolinfocítica,_sai	normalWikiTitle:leucemia_prolinfocítica,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80110	inCount:5	outCount:1	links:80110	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
-CANDIDATE	id:89830	inCount:5	outCount:1	links:	url:8983/0	name:Adenomioepitelioma	normalName:adenomioepitelioma	normalWikiTitle:adenomioepitelioma	predictedType:MOR_NEO
-CANDIDATE	id:90623	inCount:5	outCount:1	links:	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
-CANDIDATE	id:84030	inCount:5	outCount:1	links:	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
-CANDIDATE	id:84806	inCount:5	outCount:1	links:	url:8480/6	name:Pseudomixoma peritoneal	normalName:pseudomixoma_peritoneal	normalWikiTitle:pseudomixoma_peritoneal	predictedType:MOR_NEO
+CANDIDATE	id:88903	inCount:5	outCount:1	links:	url:8890/3	name:Leiomiosarcoma, SAI	normalName:leiomiosarcoma,_sai	normalWikiTitle:leiomiosarcoma,_sai	predictedType:MOR_NEO
 ENTITY	text:metastásico	normalName:metastásico	predictedType:MOR_NEO	q:true	qid:Q549	docId:cc_onco249	origText:metastásico	url:NaN
 CANDIDATE	id:80006	inCount:5	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
 CANDIDATE	id:88956	inCount:5	outCount:1	links:88956	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
@@ -75,7 +75,7 @@ CANDIDATE	id:81723	inCount:5	outCount:1	links:	url:8172/3	name:Carcinoma hepatoc
 CANDIDATE	id:86811	inCount:5	outCount:1	links:	url:8681/1	name:Paraganglioma simpático	normalName:paraganglioma_simpático	normalWikiTitle:paraganglioma_simpático	predictedType:MOR_NEO
 CANDIDATE	id:80823	inCount:5	outCount:1	links:	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
 CANDIDATE	id:81000	inCount:5	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
-CANDIDATE	id:81423	inCount:5	outCount:1	links:81423;814239	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:814239;81423	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
 CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
 CANDIDATE	id:95141	inCount:5	outCount:1	links:	url:9514/1	name:Retinoblastoma, con regresión espontánea	normalName:retinoblastoma,_con_regresión_espontánea	normalWikiTitle:retinoblastoma,_con_regresión_espontánea	predictedType:MOR_NEO
 CANDIDATE	id:80006	inCount:5	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO

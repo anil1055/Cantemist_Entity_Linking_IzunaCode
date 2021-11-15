@@ -1,16 +1,19 @@
 ENTITY	text:CDIS	normalName:cdis	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:CDIS	url:NaN
 CANDIDATE	id:93703	inCount:5	outCount:1	links:937032	url:9370/3	name:Cordoma, SAI	normalName:cordoma,_sai	normalWikiTitle:cordoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84040	inCount:5	outCount:1	links:	url:8404/0	name:Hidrocistoma	normalName:hidrocistoma	normalWikiTitle:hidrocistoma	predictedType:MOR_NEO
+CANDIDATE	id:90603	inCount:5	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
 CANDIDATE	id:92200	inCount:5	outCount:1	links:	url:9220/0	name:Condroma, SAI	normalName:condroma,_sai	normalWikiTitle:condroma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:84400	inCount:5	outCount:1	links:84400	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:94441	inCount:5	outCount:1	links:	url:9444/1	name:Glioma cordoide	normalName:glioma_cordoide	normalWikiTitle:glioma_cordoide	predictedType:MOR_NEO
-CANDIDATE	id:82800	inCount:5	outCount:1	links:	url:8280/0	name:Adenoma acidófilo	normalName:adenoma_acidófilo	normalWikiTitle:adenoma_acidófilo	predictedType:MOR_NEO
-CANDIDATE	id:88620	inCount:5	outCount:1	links:	url:8862/0	name:Lipoma condroide	normalName:lipoma_condroide	normalWikiTitle:lipoma_condroide	predictedType:MOR_NEO
-CANDIDATE	id:89320	inCount:5	outCount:1	links:	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
 CANDIDATE	id:92201	inCount:5	outCount:1	links:	url:9220/1	name:Condromatosis, SAI	normalName:condromatosis,_sai	normalWikiTitle:condromatosis,_sai	predictedType:MOR_NEO
-CANDIDATE	id:92203	inCount:5	outCount:1	links:	url:9220/3	name:Condrosarcoma, SAI	normalName:condrosarcoma,_sai	normalWikiTitle:condrosarcoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:93713	inCount:5	outCount:1	links:	url:9371/3	name:Cordoma condroide	normalName:cordoma_condroide	normalWikiTitle:cordoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:98003	inCount:9	outCount:1	links:980035	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:80103;801032	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85013	inCount:5	outCount:1	links:85013	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:5	outCount:1	links:80109	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:89000	inCount:5	outCount:1	links:	url:8900/0	name:Rabdomioma, SAI	normalName:rabdomioma,_sai	normalWikiTitle:rabdomioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:833739	inCount:0	outCount:1	links:83373	url:8337/39	name:Ca insular - GSD	normalName:ca_insular_-_gsd	normalWikiTitle:ca_insular_-_gsd	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:83373	url:8337/3	name:Ca insular	normalName:ca_insular	normalWikiTitle:ca_insular	predictedType:MOR_NEO
+CANDIDATE	id:828039	inCount:0	outCount:1	links:	url:8280/39	name:Ca acidófilo - GSD	normalName:ca_acidófilo_-_gsd	normalWikiTitle:ca_acidófilo_-_gsd	predictedType:MOR_NEO
 ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:carcinoma	url:NaN
-CANDIDATE	id:80103	inCount:5	outCount:1	links:801032;80103	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:80103;801032	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80109	inCount:5	outCount:1	links:80109	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
 CANDIDATE	id:90813	inCount:5	outCount:1	links:90813	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
@@ -22,8 +25,8 @@ CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, S
 CANDIDATE	id:82703	inCount:5	outCount:1	links:827031	url:8270/3	name:Carcinoma cromófobo	normalName:carcinoma_cromófobo	normalWikiTitle:carcinoma_cromófobo	predictedType:MOR_NEO
 ENTITY	text:carcinoma ductal in situ	normalName:carcinoma_ductal_in_situ	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:carcinoma ductal in situ	url:NaN
 CANDIDATE	id:82302	inCount:5	outCount:1	links:82302	url:8230/2	name:Carcinoma ductal in situ, tipo sólido	normalName:carcinoma_ductal_in_situ,_tipo_sólido	normalWikiTitle:carcinoma_ductal_in_situ,_tipo_sólido	predictedType:MOR_NEO
-CANDIDATE	id:85003	inCount:5	outCount:1	links:850034;85003	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80102	inCount:5	outCount:1	links:801022;80102	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85003	inCount:5	outCount:1	links:85003;850034	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80102	inCount:5	outCount:1	links:80102;801022	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
 CANDIDATE	id:85523	inCount:5	outCount:1	links:	url:8552/3	name:Carcinoma acinar-ductal mixto	normalName:carcinoma_acinar-ductal_mixto	normalWikiTitle:carcinoma_acinar-ductal_mixto	predictedType:MOR_NEO
 CANDIDATE	id:80109	inCount:5	outCount:1	links:80109	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:83373	inCount:5	outCount:1	links:83373	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
@@ -32,7 +35,7 @@ CANDIDATE	id:85103	inCount:5	outCount:1	links:	url:8510/3	name:Carcinoma medular
 CANDIDATE	id:85223	inCount:5	outCount:1	links:85223	url:8522/3	name:Carcinoma ductal y lobulillar infiltrante	normalName:carcinoma_ductal_y_lobulillar_infiltrante	normalWikiTitle:carcinoma_ductal_y_lobulillar_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:85753	inCount:5	outCount:1	links:85753	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
 ENTITY	text:carcinoma ductal infiltrante	normalName:carcinoma_ductal_infiltrante	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:carcinoma ductal infiltrante	url:NaN
-CANDIDATE	id:85003	inCount:5	outCount:1	links:850034;85003	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85003	inCount:5	outCount:1	links:85003;850034	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:85223	inCount:5	outCount:1	links:85223	url:8522/3	name:Carcinoma ductal y lobulillar infiltrante	normalName:carcinoma_ductal_y_lobulillar_infiltrante	normalWikiTitle:carcinoma_ductal_y_lobulillar_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:85006	inCount:5	outCount:1	links:85006	url:8500/6	name:Carcinoma ductal infiltrante, SAI, metástasis	normalName:carcinoma_ductal_infiltrante,_sai,_metástasis	normalWikiTitle:carcinoma_ductal_infiltrante,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:85012	inCount:5	outCount:1	links:85012	url:8501/2	name:Comedocarcinoma no infiltrante	normalName:comedocarcinoma_no_infiltrante	normalWikiTitle:comedocarcinoma_no_infiltrante	predictedType:MOR_NEO
@@ -40,7 +43,7 @@ CANDIDATE	id:85226	inCount:5	outCount:1	links:85226	url:8522/6	name:Carcinoma du
 CANDIDATE	id:82302	inCount:5	outCount:1	links:82302	url:8230/2	name:Carcinoma ductal in situ, tipo sólido	normalName:carcinoma_ductal_in_situ,_tipo_sólido	normalWikiTitle:carcinoma_ductal_in_situ,_tipo_sólido	predictedType:MOR_NEO
 CANDIDATE	id:80823	inCount:5	outCount:1	links:80823	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
 CANDIDATE	id:80923	inCount:5	outCount:1	links:	url:8092/3	name:Carcinoma basocelular infiltrante, SAI	normalName:carcinoma_basocelular_infiltrante,_sai	normalWikiTitle:carcinoma_basocelular_infiltrante,_sai	predictedType:MOR_NEO
-CANDIDATE	id:850034	inCount:0	outCount:1	links:850034;85003	url:8500/34	name:Carcinoma ductal infiltrante, SAI - grado IV, indiferenciado	normalName:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:850034	inCount:0	outCount:1	links:85003;850034	url:8500/34	name:Carcinoma ductal infiltrante, SAI - grado IV, indiferenciado	normalName:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:85042	inCount:5	outCount:1	links:85042	url:8504/2	name:Carcinoma intraquístico no infiltrante	normalName:carcinoma_intraquístico_no_infiltrante	normalWikiTitle:carcinoma_intraquístico_no_infiltrante	predictedType:MOR_NEO
 ENTITY	text:lesiones óseas	normalName:lesiones_óseas	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:lesiones óseas	url:NaN
 CANDIDATE	id:87270	inCount:5	outCount:1	links:	url:8727/0	name:Nevus displásico	normalName:nevus_displásico	normalWikiTitle:nevus_displásico	predictedType:MOR_NEO
@@ -158,26 +161,26 @@ CANDIDATE	id:85002	inCount:5	outCount:1	links:85002	url:8500/2	name:Carcinoma in
 CANDIDATE	id:80713	inCount:5	outCount:1	links:	url:8071/3	name:Carcinoma epidermoide, tipo queratinizante, SAI	normalName:carcinoma_epidermoide,_tipo_queratinizante,_sai	normalWikiTitle:carcinoma_epidermoide,_tipo_queratinizante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:82302	inCount:5	outCount:1	links:82302	url:8230/2	name:Carcinoma ductal in situ, tipo sólido	normalName:carcinoma_ductal_in_situ,_tipo_sólido	normalWikiTitle:carcinoma_ductal_in_situ,_tipo_sólido	predictedType:MOR_NEO
 CANDIDATE	id:80716	inCount:5	outCount:1	links:	url:8071/6	name:Carcinoma epidermoide, tipo queratinizante, SAI, metástasis	normalName:carcinoma_epidermoide,_tipo_queratinizante,_sai,_metástasis	normalWikiTitle:carcinoma_epidermoide,_tipo_queratinizante,_sai,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:801022	inCount:0	outCount:1	links:801022;80102	url:8010/22	name:Carcinoma in situ, SAI - grado II, moderadamente diferenciado	normalName:carcinoma_in_situ,_sai_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:carcinoma_in_situ,_sai_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:801022	inCount:0	outCount:1	links:80102;801022	url:8010/22	name:Carcinoma in situ, SAI - grado II, moderadamente diferenciado	normalName:carcinoma_in_situ,_sai_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:carcinoma_in_situ,_sai_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:80702	inCount:5	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI 	normalName:carcinoma_epidermoide_in_situ,_sai_	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai_	predictedType:MOR_NEO
 CANDIDATE	id:85072	inCount:5	outCount:1	links:	url:8507/2	name:Carcinoma micropapilar intraductal	normalName:carcinoma_micropapilar_intraductal	normalWikiTitle:carcinoma_micropapilar_intraductal	predictedType:MOR_NEO
 CANDIDATE	id:85143	inCount:5	outCount:1	links:	url:8514/3	name:Carcinoma ductal, tipo desmoplásico	normalName:carcinoma_ductal,_tipo_desmoplásico	normalWikiTitle:carcinoma_ductal,_tipo_desmoplásico	predictedType:MOR_NEO
 CANDIDATE	id:85146	inCount:5	outCount:1	links:	url:8514/6	name:Carcinoma ductal, tipo desmoplásico, metástasis	normalName:carcinoma_ductal,_tipo_desmoplásico,_metástasis	normalWikiTitle:carcinoma_ductal,_tipo_desmoplásico,_metástasis	predictedType:MOR_NEO
 ENTITY	text:cT2pN0(sn)cM0	normalName:ct2pn0(sn)cm0	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:cT2pN0(sn)cM0	url:NaN
 CANDIDATE	id:87000	inCount:5	outCount:1	links:	url:8700/0	name:Feocromocitoma, SAI	normalName:feocromocitoma,_sai	normalWikiTitle:feocromocitoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80103	inCount:5	outCount:1	links:801032;80103	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:80103;801032	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:84700	inCount:5	outCount:1	links:	url:8470/0	name:Cistadenoma mucinoso, SAI	normalName:cistadenoma_mucinoso,_sai	normalWikiTitle:cistadenoma_mucinoso,_sai	predictedType:MOR_NEO
 CANDIDATE	id:85013	inCount:5	outCount:1	links:85013	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:85753	inCount:5	outCount:1	links:85753	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
 CANDIDATE	id:92720	inCount:5	outCount:1	links:	url:9272/0	name:Cementoma, SAI	normalName:cementoma,_sai	normalWikiTitle:cementoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:82653	inCount:5	outCount:1	links:	url:8265/3	name:Carcinoma micropapilar, SAI	normalName:carcinoma_micropapilar,_sai	normalWikiTitle:carcinoma_micropapilar,_sai	predictedType:MOR_NEO
 CANDIDATE	id:83903	inCount:5	outCount:1	links:83903	url:8390/3	name:Carcinoma de los anexos cutáneos	normalName:carcinoma_de_los_anexos_cutáneos	normalWikiTitle:carcinoma_de_los_anexos_cutáneos	predictedType:MOR_NEO
-CANDIDATE	id:84400	inCount:5	outCount:1	links:84400	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:85003	inCount:5	outCount:1	links:850034;85003	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84400	inCount:5	outCount:1	links:	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85003	inCount:5	outCount:1	links:85003;850034	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:937032	inCount:0	outCount:1	links:93703	url:9370/32	name:Cordoma, SAI - G2	normalName:cordoma,_sai_-_g2	normalWikiTitle:cordoma,_sai_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:801032	inCount:0	outCount:1	links:80103	url:8010/32	name:Carcinoma, SAI - G2	normalName:carcinoma,_sai_-_g2	normalWikiTitle:carcinoma,_sai_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:804632	inCount:0	outCount:1	links:	url:8046/32	name:Carcinoma, no, cél pequeñas - G2	normalName:carcinoma,_no,_cél_pequeñas_-_g2	normalWikiTitle:carcinoma,_no,_cél_pequeñas_-_g2	predictedType:MOR_NEO
-CANDIDATE	id:801022	inCount:0	outCount:1	links:801022;80102	url:8010/22	name:Ca in situ, SAI - G2	normalName:ca_in_situ,_sai_-_g2	normalWikiTitle:ca_in_situ,_sai_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:801022	inCount:0	outCount:1	links:80102;801022	url:8010/22	name:Ca in situ, SAI - G2	normalName:ca_in_situ,_sai_-_g2	normalWikiTitle:ca_in_situ,_sai_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:801232	inCount:0	outCount:1	links:80123	url:8012/32	name:Carcinoma, cél grandes, SAI - G2	normalName:carcinoma,_cél_grandes,_sai_-_g2	normalWikiTitle:carcinoma,_cél_grandes,_sai_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:803432	inCount:0	outCount:1	links:	url:8034/32	name:Carcinoma, cél poligonales - G2	normalName:carcinoma,_cél_poligonales_-_g2	normalWikiTitle:carcinoma,_cél_poligonales_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:804132	inCount:0	outCount:1	links:	url:8041/32	name:Carcinoma, cél pequeñas, SAI - G2	normalName:carcinoma,_cél_pequeñas,_sai_-_g2	normalWikiTitle:carcinoma,_cél_pequeñas,_sai_-_g2	predictedType:MOR_NEO
@@ -185,7 +188,7 @@ CANDIDATE	id:805032	inCount:0	outCount:1	links:	url:8050/32	name:Ca papilar, SAI
 CANDIDATE	id:812132	inCount:0	outCount:1	links:	url:8121/32	name:Carcinoma, Schneider - G2	normalName:carcinoma,_schneider_-_g2	normalWikiTitle:carcinoma,_schneider_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:823132	inCount:0	outCount:1	links:82313	url:8231/32	name:Ca simple - G2	normalName:ca_simple_-_g2	normalWikiTitle:ca_simple_-_g2	predictedType:MOR_NEO
 ENTITY	text:carcinoma ductal infiltrante grado I	normalName:carcinoma_ductal_infiltrante_grado_i	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:carcinoma ductal infiltrante grado I	url:NaN
-CANDIDATE	id:85003	inCount:5	outCount:1	links:850034;85003	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85003	inCount:5	outCount:1	links:85003;850034	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:85223	inCount:5	outCount:1	links:85223	url:8522/3	name:Carcinoma ductal y lobulillar infiltrante	normalName:carcinoma_ductal_y_lobulillar_infiltrante	normalWikiTitle:carcinoma_ductal_y_lobulillar_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:85006	inCount:5	outCount:1	links:85006	url:8500/6	name:Carcinoma ductal infiltrante, SAI, metástasis	normalName:carcinoma_ductal_infiltrante,_sai,_metástasis	normalWikiTitle:carcinoma_ductal_infiltrante,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:85226	inCount:5	outCount:1	links:85226	url:8522/6	name:Carcinoma ductal y lobulillar infiltrante, metástasis	normalName:carcinoma_ductal_y_lobulillar_infiltrante,_metástasis	normalWikiTitle:carcinoma_ductal_y_lobulillar_infiltrante,_metástasis	predictedType:MOR_NEO
@@ -193,7 +196,7 @@ CANDIDATE	id:85002	inCount:5	outCount:1	links:85002	url:8500/2	name:Carcinoma in
 CANDIDATE	id:85012	inCount:5	outCount:1	links:85012	url:8501/2	name:Comedocarcinoma no infiltrante	normalName:comedocarcinoma_no_infiltrante	normalWikiTitle:comedocarcinoma_no_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:85042	inCount:5	outCount:1	links:85042	url:8504/2	name:Carcinoma intraquístico no infiltrante	normalName:carcinoma_intraquístico_no_infiltrante	normalWikiTitle:carcinoma_intraquístico_no_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:82302	inCount:5	outCount:1	links:82302	url:8230/2	name:Carcinoma ductal in situ, tipo sólido	normalName:carcinoma_ductal_in_situ,_tipo_sólido	normalWikiTitle:carcinoma_ductal_in_situ,_tipo_sólido	predictedType:MOR_NEO
-CANDIDATE	id:850034	inCount:0	outCount:1	links:850034;85003	url:8500/34	name:Carcinoma ductal infiltrante, SAI - grado IV, indiferenciado	normalName:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:850034	inCount:0	outCount:1	links:85003;850034	url:8500/34	name:Carcinoma ductal infiltrante, SAI - grado IV, indiferenciado	normalName:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:85213	inCount:5	outCount:1	links:	url:8521/3	name:Carcinoma de los conductos terminales, infiltrante	normalName:carcinoma_de_los_conductos_terminales,_infiltrante	normalWikiTitle:carcinoma_de_los_conductos_terminales,_infiltrante	predictedType:MOR_NEO
 ENTITY	text:ypT2pN0(sn)cM0	normalName:ypt2pn0(sn)cm0	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:ypT2pN0(sn)cM0	url:NaN
 CANDIDATE	id:81453	inCount:5	outCount:1	links:	url:8145/3	name:Carcinoma, tipo difuso	normalName:carcinoma,_tipo_difuso	normalWikiTitle:carcinoma,_tipo_difuso	predictedType:MOR_NEO
@@ -201,10 +204,10 @@ CANDIDATE	id:90433	inCount:5	outCount:1	links:	url:9043/3	name:Sarcoma sinovial,
 CANDIDATE	id:80502	inCount:5	outCount:1	links:	url:8050/2	name:Carcinoma papilar in situ	normalName:carcinoma_papilar_in_situ	normalWikiTitle:carcinoma_papilar_in_situ	predictedType:MOR_NEO
 CANDIDATE	id:81443	inCount:5	outCount:1	links:	url:8144/3	name:Adenocarcinoma, tipo intestinal	normalName:adenocarcinoma,_tipo_intestinal	normalWikiTitle:adenocarcinoma,_tipo_intestinal	predictedType:MOR_NEO
 CANDIDATE	id:85863	inCount:5	outCount:1	links:	url:8586/3	name:Carcinoma tímico, SAI	normalName:carcinoma_tímico,_sai	normalWikiTitle:carcinoma_tímico,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80102	inCount:5	outCount:1	links:801022;80102	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80102	inCount:5	outCount:1	links:80102;801022	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
 CANDIDATE	id:87600	inCount:5	outCount:1	links:	url:8760/0	name:Nevus compuesto	normalName:nevus_compuesto	normalWikiTitle:nevus_compuesto	predictedType:MOR_NEO
 CANDIDATE	id:90413	inCount:5	outCount:1	links:	url:9041/3	name:Sarcoma sinovial, tipo fusocelular	normalName:sarcoma_sinovial,_tipo_fusocelular	normalWikiTitle:sarcoma_sinovial,_tipo_fusocelular	predictedType:MOR_NEO
-CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:98003	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
 CANDIDATE	id:80600	inCount:5	outCount:1	links:	url:8060/0	name:Papilomatosis escamosa	normalName:papilomatosis_escamosa	normalWikiTitle:papilomatosis_escamosa	predictedType:MOR_NEO
 ENTITY	text:lesión a nivel de L1	normalName:lesión_a_nivel_de_l1	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:lesión a nivel de L1	url:NaN
 CANDIDATE	id:98603	inCount:9	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
@@ -246,12 +249,12 @@ CANDIDATE	id:99711	inCount:5	outCount:1	links:	url:9971/1	name:Trastorno linfopr
 CANDIDATE	id:82433	inCount:5	outCount:1	links:82433	url:8243/3	name:Carcinoide de células caliciformes	normalName:carcinoide_de_células_caliciformes	normalWikiTitle:carcinoide_de_células_caliciformes	predictedType:MOR_NEO
 CANDIDATE	id:99713	inCount:5	outCount:1	links:	url:9971/3	name:Trastorno linfoproliferativo postrasplante polimorfo	normalName:trastorno_linfoproliferativo_postrasplante_polimorfo	normalWikiTitle:trastorno_linfoproliferativo_postrasplante_polimorfo	predictedType:MOR_NEO
 CANDIDATE	id:97603	inCount:5	outCount:1	links:	url:9760/3	name:Enfermedad inmunoproliferativa, SAI	normalName:enfermedad_inmunoproliferativa,_sai	normalWikiTitle:enfermedad_inmunoproliferativa,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80123	inCount:5	outCount:1	links:801232;80123	url:8012/3	name:Carcinoma de células grandes, SAI	normalName:carcinoma_de_células_grandes,_sai	normalWikiTitle:carcinoma_de_células_grandes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80123	inCount:5	outCount:1	links:80123;801232	url:8012/3	name:Carcinoma de células grandes, SAI	normalName:carcinoma_de_células_grandes,_sai	normalWikiTitle:carcinoma_de_células_grandes,_sai	predictedType:MOR_NEO
 CANDIDATE	id:99753	inCount:5	outCount:1	links:	url:9975/3	name:Neoplasia mieloproliferativa inclasificable	normalName:neoplasia_mieloproliferativa_inclasificable	normalWikiTitle:neoplasia_mieloproliferativa_inclasificable	predictedType:MOR_NEO
 CANDIDATE	id:97661	inCount:5	outCount:1	links:	url:9766/1	name:Lesión inmunoproliferativa angiocéntrica	normalName:lesión_inmunoproliferativa_angiocéntrica	normalWikiTitle:lesión_inmunoproliferativa_angiocéntrica	predictedType:MOR_NEO
 CANDIDATE	id:97681	inCount:5	outCount:1	links:	url:9768/1	name:Enfermedad linfoproliferativa T-gamma	normalName:enfermedad_linfoproliferativa_t-gamma	normalWikiTitle:enfermedad_linfoproliferativa_t-gamma	predictedType:MOR_NEO
 ENTITY	text:Linfoma B difuso de células grandes	normalName:linfoma_b_difuso_de_células_grandes	predictedType:MOR_NEO	q:true	qid:Q592	docId:cc_onco384	origText:Linfoma B difuso de células grandes	url:NaN
-CANDIDATE	id:80123	inCount:5	outCount:1	links:801232;80123	url:8012/3	name:Carcinoma de células grandes, SAI	normalName:carcinoma_de_células_grandes,_sai	normalWikiTitle:carcinoma_de_células_grandes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80123	inCount:5	outCount:1	links:80123;801232	url:8012/3	name:Carcinoma de células grandes, SAI	normalName:carcinoma_de_células_grandes,_sai	normalWikiTitle:carcinoma_de_células_grandes,_sai	predictedType:MOR_NEO
 CANDIDATE	id:82433	inCount:5	outCount:1	links:82433	url:8243/3	name:Carcinoide de células caliciformes	normalName:carcinoide_de_células_caliciformes	normalWikiTitle:carcinoide_de_células_caliciformes	predictedType:MOR_NEO
 CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
 CANDIDATE	id:80313	inCount:5	outCount:1	links:	url:8031/3	name:Carcinoma de células gigantes	normalName:carcinoma_de_células_gigantes	normalWikiTitle:carcinoma_de_células_gigantes	predictedType:MOR_NEO

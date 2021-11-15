@@ -1,4 +1,4 @@
-ENTITY	text:adenocarcinoma	normalName:adenocarcinoma	predictedType:MOR_NEO	q:true	qid:Q1554	docId:cc_onco1288	origText:adenocarcinoma	url:NaN
+ENTITY	text:Adenocarcinoma	normalName:adenocarcinoma	predictedType:MOR_NEO	q:true	qid:Q1072	docId:cc_onco1288	origText:Adenocarcinoma	url:NaN
 CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
@@ -9,16 +9,27 @@ CANDIDATE	id:81413	inCount:5	outCount:1	links:	url:8141/3	name:Adenocarcinoma es
 CANDIDATE	id:82113	inCount:5	outCount:1	links:	url:8211/3	name:Adenocarcinoma tubular	normalName:adenocarcinoma_tubular	normalWikiTitle:adenocarcinoma_tubular	predictedType:MOR_NEO
 CANDIDATE	id:82133	inCount:5	outCount:1	links:	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
 CANDIDATE	id:82623	inCount:5	outCount:1	links:	url:8262/3	name:Adenocarcinoma velloso	normalName:adenocarcinoma_velloso	normalWikiTitle:adenocarcinoma_velloso	predictedType:MOR_NEO
-ENTITY	text:progresión hepática	normalName:progresión_hepática	predictedType:MOR_NEO	q:true	qid:Q1554	docId:cc_onco1288	origText:progresión hepática	url:NaN
-CANDIDATE	id:86821	inCount:0	outCount:1	links:	url:8682/1	name:Paraganglioma parasimpático	normalName:paraganglioma_parasimpático	normalWikiTitle:paraganglioma_parasimpático	predictedType:MOR_NEO
-CANDIDATE	id:80110	inCount:0	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
+ENTITY	text:T3N2M0	normalName:t3n2m0	predictedType:MOR_NEO	q:true	qid:Q1072	docId:cc_onco1288	origText:T3N2M0	url:NaN
+CANDIDATE	id:82710	inCount:5	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:95100	inCount:5	outCount:1	links:	url:9510/0	name:Retinocitoma	normalName:retinocitoma	normalWikiTitle:retinocitoma	predictedType:MOR_NEO
+CANDIDATE	id:92100	inCount:5	outCount:1	links:	url:9210/0	name:Osteocondroma	normalName:osteocondroma	normalWikiTitle:osteocondroma	predictedType:MOR_NEO
+CANDIDATE	id:81531	inCount:5	outCount:1	links:	url:8153/1	name:Gastrinoma, SAI	normalName:gastrinoma,_sai	normalWikiTitle:gastrinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84400	inCount:5	outCount:1	links:	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:5	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:93601	inCount:5	outCount:1	links:	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+ENTITY	text:progresión hepática	normalName:progresión_hepática	predictedType:MOR_NEO	q:true	qid:Q1072	docId:cc_onco1288	origText:progresión hepática	url:NaN
+CANDIDATE	id:86821	inCount:5	outCount:1	links:	url:8682/1	name:Paraganglioma parasimpático	normalName:paraganglioma_parasimpático	normalWikiTitle:paraganglioma_parasimpático	predictedType:MOR_NEO
+CANDIDATE	id:80110	inCount:5	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
 CANDIDATE	id:81723	inCount:5	outCount:1	links:	url:8172/3	name:Carcinoma hepatocelular escirro	normalName:carcinoma_hepatocelular_escirro	normalWikiTitle:carcinoma_hepatocelular_escirro	predictedType:MOR_NEO
-CANDIDATE	id:86811	inCount:0	outCount:1	links:	url:8681/1	name:Paraganglioma simpático	normalName:paraganglioma_simpático	normalWikiTitle:paraganglioma_simpático	predictedType:MOR_NEO
+CANDIDATE	id:86811	inCount:5	outCount:1	links:	url:8681/1	name:Paraganglioma simpático	normalName:paraganglioma_simpático	normalWikiTitle:paraganglioma_simpático	predictedType:MOR_NEO
 CANDIDATE	id:80823	inCount:5	outCount:1	links:	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
-CANDIDATE	id:81000	inCount:0	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:81000	inCount:5	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
 CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
 CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
-CANDIDATE	id:95141	inCount:0	outCount:1	links:	url:9514/1	name:Retinoblastoma, con regresión espontánea	normalName:retinoblastoma,_con_regresión_espontánea	normalWikiTitle:retinoblastoma,_con_regresión_espontánea	predictedType:MOR_NEO
-CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95141	inCount:5	outCount:1	links:	url:9514/1	name:Retinoblastoma, con regresión espontánea	normalName:retinoblastoma,_con_regresión_espontánea	normalWikiTitle:retinoblastoma,_con_regresión_espontánea	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:5	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
 CANDIDATE	id:814239	inCount:0	outCount:1	links:	url:8142/39	name:Linitis plástica - GSD	normalName:linitis_plástica_-_gsd	normalWikiTitle:linitis_plástica_-_gsd	predictedType:MOR_NEO
-CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma, cél hepáticas	normalName:adenoma,_cél_hepáticas	normalWikiTitle:adenoma,_cél_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:5	outCount:1	links:	url:8170/0	name:Adenoma, cél hepáticas	normalName:adenoma,_cél_hepáticas	normalWikiTitle:adenoma,_cél_hepáticas	predictedType:MOR_NEO

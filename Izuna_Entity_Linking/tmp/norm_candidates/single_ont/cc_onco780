@@ -23,7 +23,7 @@ CANDIDATE	id:88400	inCount:5	outCount:1	links:	url:8840/0	name:Mixoma, SAI	norma
 ENTITY	text:carcinoma in situ	normalName:carcinoma_in_situ	predictedType:MOR_NEO	q:true	qid:Q696	docId:cc_onco780	origText:carcinoma in situ	url:NaN
 CANDIDATE	id:80102	inCount:5	outCount:1	links:80102	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
 CANDIDATE	id:83373	inCount:5	outCount:1	links:	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
-CANDIDATE	id:80103	inCount:5	outCount:1	links:801032;80103	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:80103;801032	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80109	inCount:5	outCount:1	links:80109	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:80502	inCount:5	outCount:1	links:80502	url:8050/2	name:Carcinoma papilar in situ	normalName:carcinoma_papilar_in_situ	normalWikiTitle:carcinoma_papilar_in_situ	predictedType:MOR_NEO
 CANDIDATE	id:81402	inCount:5	outCount:1	links:	url:8140/2	name:Adenocarcinoma in situ, SAI	normalName:adenocarcinoma_in_situ,_sai	normalWikiTitle:adenocarcinoma_in_situ,_sai	predictedType:MOR_NEO
@@ -58,7 +58,7 @@ CANDIDATE	id:86710	inCount:5	outCount:1	links:86710	url:8671/0	name:Tumor de res
 CANDIDATE	id:84030	inCount:5	outCount:1	links:84030	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
 CANDIDATE	id:83700	inCount:5	outCount:1	links:83700	url:8370/0	name:Adenoma de la corteza suprarrenal, SAI	normalName:adenoma_de_la_corteza_suprarrenal,_sai	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_sai	predictedType:MOR_NEO
 CANDIDATE	id:83240	inCount:5	outCount:1	links:	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
-CANDIDATE	id:83703	inCount:5	outCount:1	links:83703;837031	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
+CANDIDATE	id:83703	inCount:5	outCount:1	links:837031;83703	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
 CANDIDATE	id:84033	inCount:5	outCount:1	links:84033	url:8403/3	name:Espiradenoma ecrino maligno	normalName:espiradenoma_ecrino_maligno	normalWikiTitle:espiradenoma_ecrino_maligno	predictedType:MOR_NEO
 CANDIDATE	id:83706	inCount:5	outCount:1	links:83706	url:8370/6	name:Carcinoma de la corteza suprarrenal, metástasis	normalName:carcinoma_de_la_corteza_suprarrenal,_metástasis	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:86931	inCount:5	outCount:1	links:86931	url:8693/1	name:Paraganglioma extrasuprarrenal, SAI	normalName:paraganglioma_extrasuprarrenal,_sai	normalWikiTitle:paraganglioma_extrasuprarrenal,_sai	predictedType:MOR_NEO
@@ -90,7 +90,7 @@ CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcino
 ENTITY	text:CIN III	normalName:cin_iii	predictedType:MOR_NEO	q:true	qid:Q696	docId:cc_onco780	origText:CIN III	url:NaN
 CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
 CANDIDATE	id:80102	inCount:5	outCount:1	links:80102	url:8010/2	name:Carcinoma in situ, SAI	normalName:carcinoma_in_situ,_sai	normalWikiTitle:carcinoma_in_situ,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80103	inCount:5	outCount:1	links:801032;80103	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:80103;801032	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:81103	inCount:5	outCount:1	links:	url:8110/3	name:Carcinoma pilomatricial	normalName:carcinoma_pilomatricial	normalWikiTitle:carcinoma_pilomatricial	predictedType:MOR_NEO
 CANDIDATE	id:80823	inCount:5	outCount:1	links:	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
 CANDIDATE	id:82013	inCount:5	outCount:1	links:	url:8201/3	name:Carcinoma cribiforme, SAI	normalName:carcinoma_cribiforme,_sai	normalWikiTitle:carcinoma_cribiforme,_sai	predictedType:MOR_NEO
@@ -100,7 +100,7 @@ CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epiderm
 CANDIDATE	id:81510	inCount:5	outCount:1	links:	url:8151/0	name:Insulinoma, SAI	normalName:insulinoma,_sai	normalWikiTitle:insulinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80102	inCount:5	outCount:1	links:80102	url:8010/2	name:Ca in situ, SAI	normalName:ca_in_situ,_sai	normalWikiTitle:ca_in_situ,_sai	predictedType:MOR_NEO
 ENTITY	text:recidiva tumoral suprarrenal	normalName:recidiva_tumoral_suprarrenal	predictedType:MOR_NEO	q:true	qid:Q696	docId:cc_onco780	origText:recidiva tumoral suprarrenal	url:NaN
-CANDIDATE	id:83703	inCount:5	outCount:1	links:83703;837031	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
+CANDIDATE	id:83703	inCount:5	outCount:1	links:837031;83703	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
 CANDIDATE	id:86710	inCount:5	outCount:1	links:86710	url:8671/0	name:Tumor de restos suprarrenales	normalName:tumor_de_restos_suprarrenales	normalWikiTitle:tumor_de_restos_suprarrenales	predictedType:MOR_NEO
 CANDIDATE	id:83700	inCount:5	outCount:1	links:83700	url:8370/0	name:Adenoma de la corteza suprarrenal, SAI	normalName:adenoma_de_la_corteza_suprarrenal,_sai	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_sai	predictedType:MOR_NEO
 CANDIDATE	id:83706	inCount:5	outCount:1	links:83706	url:8370/6	name:Carcinoma de la corteza suprarrenal, metástasis	normalName:carcinoma_de_la_corteza_suprarrenal,_metástasis	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal,_metástasis	predictedType:MOR_NEO
@@ -110,11 +110,11 @@ CANDIDATE	id:837031	inCount:0	outCount:1	links:83703	url:8370/31	name:Carcinoma 
 CANDIDATE	id:83710	inCount:5	outCount:1	links:	url:8371/0	name:Adenoma de la corteza suprarrenal de células compactas	normalName:adenoma_de_la_corteza_suprarrenal_de_células_compactas	normalWikiTitle:adenoma_de_la_corteza_suprarrenal_de_células_compactas	predictedType:MOR_NEO
 CANDIDATE	id:83720	inCount:5	outCount:1	links:83720	url:8372/0	name:Adenoma de la corteza suprarrenal, pigmentado	normalName:adenoma_de_la_corteza_suprarrenal,_pigmentado	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_pigmentado	predictedType:MOR_NEO
 CANDIDATE	id:84030	inCount:5	outCount:1	links:84030	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
-CANDIDATE	id:83703	inCount:5	outCount:1	links:83703;837031	url:8370/3	name:Carcinoma, la corteza suprarrenal	normalName:carcinoma,_la_corteza_suprarrenal	normalWikiTitle:carcinoma,_la_corteza_suprarrenal	predictedType:MOR_NEO
+CANDIDATE	id:83703	inCount:5	outCount:1	links:837031;83703	url:8370/3	name:Carcinoma, la corteza suprarrenal	normalName:carcinoma,_la_corteza_suprarrenal	normalWikiTitle:carcinoma,_la_corteza_suprarrenal	predictedType:MOR_NEO
 ENTITY	text:progresión suprarrenal	normalName:progresión_suprarrenal	predictedType:MOR_NEO	q:true	qid:Q696	docId:cc_onco780	origText:progresión suprarrenal	url:NaN
 CANDIDATE	id:86710	inCount:5	outCount:1	links:86710	url:8671/0	name:Tumor de restos suprarrenales	normalName:tumor_de_restos_suprarrenales	normalWikiTitle:tumor_de_restos_suprarrenales	predictedType:MOR_NEO
 CANDIDATE	id:83700	inCount:5	outCount:1	links:83700	url:8370/0	name:Adenoma de la corteza suprarrenal, SAI	normalName:adenoma_de_la_corteza_suprarrenal,_sai	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_sai	predictedType:MOR_NEO
-CANDIDATE	id:83703	inCount:5	outCount:1	links:83703;837031	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
+CANDIDATE	id:83703	inCount:5	outCount:1	links:837031;83703	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
 CANDIDATE	id:83706	inCount:5	outCount:1	links:83706	url:8370/6	name:Carcinoma de la corteza suprarrenal, metástasis	normalName:carcinoma_de_la_corteza_suprarrenal,_metástasis	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:84030	inCount:5	outCount:1	links:84030	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
 CANDIDATE	id:83720	inCount:5	outCount:1	links:83720	url:8372/0	name:Adenoma de la corteza suprarrenal, pigmentado	normalName:adenoma_de_la_corteza_suprarrenal,_pigmentado	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_pigmentado	predictedType:MOR_NEO
@@ -124,4 +124,4 @@ CANDIDATE	id:86931	inCount:5	outCount:1	links:86931	url:8693/1	name:Paragangliom
 CANDIDATE	id:95710	inCount:5	outCount:1	links:	url:9571/0	name:Perineuroma, SAI	normalName:perineuroma,_sai	normalWikiTitle:perineuroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:86710	inCount:5	outCount:1	links:86710	url:8671/0	name:Tumor, restos suprarrenales	normalName:tumor,_restos_suprarrenales	normalWikiTitle:tumor,_restos_suprarrenales	predictedType:MOR_NEO
 CANDIDATE	id:83700	inCount:5	outCount:1	links:83700	url:8370/0	name:Adenoma, la corteza suprarrenal, SAI	normalName:adenoma,_la_corteza_suprarrenal,_sai	normalWikiTitle:adenoma,_la_corteza_suprarrenal,_sai	predictedType:MOR_NEO
-CANDIDATE	id:83703	inCount:5	outCount:1	links:83703;837031	url:8370/3	name:Carcinoma, la corteza suprarrenal	normalName:carcinoma,_la_corteza_suprarrenal	normalWikiTitle:carcinoma,_la_corteza_suprarrenal	predictedType:MOR_NEO
+CANDIDATE	id:83703	inCount:5	outCount:1	links:837031;83703	url:8370/3	name:Carcinoma, la corteza suprarrenal	normalName:carcinoma,_la_corteza_suprarrenal	normalWikiTitle:carcinoma,_la_corteza_suprarrenal	predictedType:MOR_NEO

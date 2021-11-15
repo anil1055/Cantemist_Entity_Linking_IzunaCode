@@ -25,12 +25,12 @@ CANDIDATE	id:80000	inCount:5	outCount:1	links:	url:8000/0	name:Neoplasia benigna
 CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
 CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
 CANDIDATE	id:80006	inCount:5	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:5	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:95700	inCount:5	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:88200	inCount:5	outCount:1	links:88200	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
-CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:89713	inCount:5	outCount:1	links:89713	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
-CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:97313	inCount:6	outCount:1	links:	url:9731/3	name:Plasmocitoma, SAI	normalName:plasmocitoma,_sai	normalWikiTitle:plasmocitoma,_sai	predictedType:MOR_NEO
 ENTITY	text:tumorales	normalName:tumorales	predictedType:MOR_NEO	q:true	qid:Q153	docId:cc_onco351	origText:tumorales	url:NaN
 CANDIDATE	id:80401	inCount:5	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80400	inCount:5	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
@@ -85,10 +85,10 @@ CANDIDATE	id:88501	inCount:5	outCount:1	links:	url:8850/1	name:Lipoma atípico	n
 CANDIDATE	id:93601	inCount:5	outCount:1	links:93601	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
 CANDIDATE	id:86000	inCount:5	outCount:1	links:	url:8600/0	name:Tecoma, SAI	normalName:tecoma,_sai	normalWikiTitle:tecoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88930	inCount:5	outCount:1	links:	url:8893/0	name:Leiomioma atípico	normalName:leiomioma_atípico	normalWikiTitle:leiomioma_atípico	predictedType:MOR_NEO
-CANDIDATE	id:89713	inCount:5	outCount:1	links:89713	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
 CANDIDATE	id:95391	inCount:5	outCount:1	links:	url:9539/1	name:Meningioma atípico	normalName:meningioma_atípico	normalWikiTitle:meningioma_atípico	predictedType:MOR_NEO
 ENTITY	text:Osteosarcoma osteoide osteoblástico con recaída local y pulmonar	normalName:osteosarcoma_osteoide_osteoblástico_con_recaída_local_y_pulmonar	predictedType:MOR_NEO	q:true	qid:Q153	docId:cc_onco351	origText:Osteosarcoma osteoide osteoblástico con recaída local y pulmonar	url:NaN
-CANDIDATE	id:897234	inCount:0	outCount:1	links:897234;89723	url:8972/34	name:Blastoma pulmonar - grado IV, indiferenciado	normalName:blastoma_pulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:897234	inCount:0	outCount:1	links:89723;897234	url:8972/34	name:Blastoma pulmonar - grado IV, indiferenciado	normalName:blastoma_pulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:91833	inCount:5	outCount:1	links:91833	url:9183/3	name:Osteosarcoma telangiectásico	normalName:osteosarcoma_telangiectásico	normalWikiTitle:osteosarcoma_telangiectásico	predictedType:MOR_NEO
 CANDIDATE	id:89361	inCount:5	outCount:1	links:	url:8936/1	name:Tumor del estroma gastrointestinal, SAI	normalName:tumor_del_estroma_gastrointestinal,_sai	normalWikiTitle:tumor_del_estroma_gastrointestinal,_sai	predictedType:MOR_NEO
 CANDIDATE	id:897334	inCount:0	outCount:1	links:897334;89733	url:8973/34	name:Blastoma pleuropulmonar - grado IV, indiferenciado	normalName:blastoma_pleuropulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pleuropulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
@@ -115,7 +115,7 @@ CANDIDATE	id:95713	inCount:5	outCount:1	links:	url:9571/3	name:Perineuroma malig
 CANDIDATE	id:99503	inCount:5	outCount:1	links:	url:9950/3	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
 CANDIDATE	id:90723	inCount:5	outCount:1	links:	url:9072/3	name:Poliembrioma 	normalName:poliembrioma_	normalWikiTitle:poliembrioma_	predictedType:MOR_NEO
 CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
-CANDIDATE	id:88200	inCount:5	outCount:1	links:88200	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:5	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
 CANDIDATE	id:89670	inCount:5	outCount:1	links:89670	url:8967/0	name:Tumor renal osificante	normalName:tumor_renal_osificante	normalWikiTitle:tumor_renal_osificante	predictedType:MOR_NEO
 CANDIDATE	id:89716	inCount:5	outCount:1	links:	url:8971/6	name:Pancreatoblastoma, metástasis	normalName:pancreatoblastoma,_metástasis	normalWikiTitle:pancreatoblastoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:95410	inCount:5	outCount:1	links:	url:9541/0	name:Neurofibroma melanótico	normalName:neurofibroma_melanótico	normalWikiTitle:neurofibroma_melanótico	predictedType:MOR_NEO
@@ -124,7 +124,7 @@ CANDIDATE	id:93601	inCount:5	outCount:1	links:93601	url:9360/1	name:Pinealoma	no
 ENTITY	text:progresión a nivel pulmonar	normalName:progresión_a_nivel_pulmonar	predictedType:MOR_NEO	q:true	qid:Q153	docId:cc_onco351	origText:progresión a nivel pulmonar	url:NaN
 CANDIDATE	id:82501	inCount:5	outCount:1	links:	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
 CANDIDATE	id:89726	inCount:5	outCount:1	links:	url:8972/6	name:Blastoma pulmonar, metástasis	normalName:blastoma_pulmonar,_metástasis	normalWikiTitle:blastoma_pulmonar,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:897234	inCount:0	outCount:1	links:897234;89723	url:8972/34	name:Blastoma pulmonar - grado IV, indiferenciado	normalName:blastoma_pulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:897234	inCount:0	outCount:1	links:89723;897234	url:8972/34	name:Blastoma pulmonar - grado IV, indiferenciado	normalName:blastoma_pulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:89723	inCount:5	outCount:1	links:897234	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
 CANDIDATE	id:897334	inCount:0	outCount:1	links:897334;89733	url:8973/34	name:Blastoma pleuropulmonar - grado IV, indiferenciado	normalName:blastoma_pleuropulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pleuropulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:89736	inCount:5	outCount:1	links:	url:8973/6	name:Blastoma pleuropulmonar, metástasis	normalName:blastoma_pleuropulmonar,_metástasis	normalWikiTitle:blastoma_pleuropulmonar,_metástasis	predictedType:MOR_NEO

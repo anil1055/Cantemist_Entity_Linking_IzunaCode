@@ -32,10 +32,13 @@ def build_entity_candidate_dict(annotations, model, min_match_score, ontology_gr
         entity_dict = dict() 
         document_entities = list()        
         url_control = ''
+        url_list = []
         for annotation in annotations[document]:            
             if annotation[0].isnumeric() == True and str(annotation).find('/') != -1:
                 if str(annotation) == url_control:
                     url_true += 1
+                elif annotation in url_list:
+                    url_true += 1                    
                 continue
             else:
                 normalized_text = annotation[0].lower().replace(" ", "_")
@@ -70,6 +73,12 @@ def build_entity_candidate_dict(annotations, model, min_match_score, ontology_gr
                     current_values.insert(0, entity_str)
                     entity_dict[normalized_text] = current_values
                     url_control = entity_dict[normalized_text][1]['url']
+                    ind = 0
+                    url_list.clear()
+                    for url in entity_dict[normalized_text]:
+                        if ind != 0:
+                            url_list.append(url['url'])
+                        ind += 1
                 
         documents_entity_list[document] = entity_dict
     
@@ -83,7 +92,6 @@ def build_entity_candidate_dict(annotations, model, min_match_score, ontology_gr
     statistics += "\n\nTotal true url count: " + str(url_true)
     statistics += "\nTotal true url rate: %" + str(url_true/total_unique_entities*100)
     print(statistics)
-
     return documents_entity_list
     
 

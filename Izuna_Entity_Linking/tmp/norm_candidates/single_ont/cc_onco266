@@ -1,5 +1,5 @@
 ENTITY	text:adenocarcinoma	normalName:adenocarcinoma	predictedType:MOR_NEO	q:true	qid:Q101	docId:cc_onco266	origText:adenocarcinoma	url:NaN
-CANDIDATE	id:81403	inCount:5	outCount:1	links:81403;814034;814031	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:814034;81403;814031	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
 CANDIDATE	id:82903	inCount:5	outCount:1	links:	url:8290/3	name:Adenocarcinoma oxífilo	normalName:adenocarcinoma_oxífilo	normalWikiTitle:adenocarcinoma_oxífilo	predictedType:MOR_NEO
@@ -7,7 +7,7 @@ CANDIDATE	id:84103	inCount:5	outCount:1	links:	url:8410/3	name:Adenocarcinoma se
 CANDIDATE	id:84133	inCount:5	outCount:1	links:841334;84133	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
 CANDIDATE	id:81413	inCount:5	outCount:1	links:814134	url:8141/3	name:Adenocarcinoma escirro	normalName:adenocarcinoma_escirro	normalWikiTitle:adenocarcinoma_escirro	predictedType:MOR_NEO
 CANDIDATE	id:82113	inCount:5	outCount:1	links:	url:8211/3	name:Adenocarcinoma tubular	normalName:adenocarcinoma_tubular	normalWikiTitle:adenocarcinoma_tubular	predictedType:MOR_NEO
-CANDIDATE	id:82133	inCount:5	outCount:1	links:821331;821334	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:82133	inCount:5	outCount:1	links:821334;821331	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
 CANDIDATE	id:82623	inCount:5	outCount:1	links:	url:8262/3	name:Adenocarcinoma velloso	normalName:adenocarcinoma_velloso	normalWikiTitle:adenocarcinoma_velloso	predictedType:MOR_NEO
 ENTITY	text:adenocarcinoma pobremente diferenciado	normalName:adenocarcinoma_pobremente_diferenciado	predictedType:MOR_NEO	q:true	qid:Q101	docId:cc_onco266	origText:adenocarcinoma pobremente diferenciado	url:NaN
 CANDIDATE	id:821331	inCount:0	outCount:1	links:82133	url:8213/31	name:Adenocarcinoma dentado - grado I, bien diferenciado	normalName:adenocarcinoma_dentado_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_dentado_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
@@ -54,7 +54,7 @@ CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	n
 CANDIDATE	id:81603	inCount:5	outCount:1	links:81603	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
 CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
 CANDIDATE	id:89703	inCount:5	outCount:1	links:	url:8970/3	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
-CANDIDATE	id:81403	inCount:5	outCount:1	links:81403;814034;814031	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:814034;81403;814031	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:82710	inCount:5	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
 CANDIDATE	id:82803	inCount:5	outCount:1	links:	url:8280/3	name:Carcinoma acidófilo	normalName:carcinoma_acidófilo	normalWikiTitle:carcinoma_acidófilo	predictedType:MOR_NEO
 CANDIDATE	id:91203	inCount:5	outCount:1	links:	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO

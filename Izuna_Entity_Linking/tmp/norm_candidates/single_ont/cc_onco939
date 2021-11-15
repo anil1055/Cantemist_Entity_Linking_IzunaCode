@@ -14,12 +14,12 @@ CANDIDATE	id:80000	inCount:5	outCount:1	links:	url:8000/0	name:Neoplasia benigna
 CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
 CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
 CANDIDATE	id:80006	inCount:5	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:5	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:95700	inCount:5	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:88200	inCount:5	outCount:1	links:88200	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
-CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
-CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:97313	inCount:6	outCount:1	links:	url:9731/3	name:Plasmocitoma, SAI	normalName:plasmocitoma,_sai	normalWikiTitle:plasmocitoma,_sai	predictedType:MOR_NEO
 ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q463	docId:cc_onco939	origText:tumoral	url:NaN
 CANDIDATE	id:80401	inCount:5	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80400	inCount:5	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
@@ -39,10 +39,10 @@ CANDIDATE	id:80463	inCount:5	outCount:1	links:	url:8046/3	name:Carcinoma, no de 
 CANDIDATE	id:80943	inCount:5	outCount:1	links:	url:8094/3	name:Carcinoma de células basales y escamosas	normalName:carcinoma_de_células_basales_y_escamosas	normalWikiTitle:carcinoma_de_células_basales_y_escamosas	predictedType:MOR_NEO
 CANDIDATE	id:855031	inCount:0	outCount:1	links:	url:8550/31	name:Carcinoma de células acinosas - grado I, bien diferenciado	normalName:carcinoma_de_células_acinosas_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_de_células_acinosas_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:91833	inCount:5	outCount:1	links:918332;918334	url:9183/3	name:Osteosarcoma telangiectásico	normalName:osteosarcoma_telangiectásico	normalWikiTitle:osteosarcoma_telangiectásico	predictedType:MOR_NEO
-CANDIDATE	id:91853	inCount:5	outCount:1	links:918531;918534;91853;918532	url:9185/3	name:Osteosarcoma de células pequeñas	normalName:osteosarcoma_de_células_pequeñas	normalWikiTitle:osteosarcoma_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:91853	inCount:5	outCount:1	links:918531;918534;918532;91853	url:9185/3	name:Osteosarcoma de células pequeñas	normalName:osteosarcoma_de_células_pequeñas	normalWikiTitle:osteosarcoma_de_células_pequeñas	predictedType:MOR_NEO
 CANDIDATE	id:809431	inCount:0	outCount:1	links:	url:8094/31	name:Carcinoma de células basales y escamosas - grado I, bien diferenciado	normalName:carcinoma_de_células_basales_y_escamosas_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_de_células_basales_y_escamosas_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:832331	inCount:0	outCount:1	links:	url:8323/31	name:Adenocarcinoma de células mixtas - grado I, bien diferenciado	normalName:adenocarcinoma_de_células_mixtas_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_de_células_mixtas_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
-CANDIDATE	id:91853	inCount:5	outCount:1	links:918531;918534;91853;918532	url:9185/3	name:Osteosarcoma, cél pequeñas	normalName:osteosarcoma,_cél_pequeñas	normalWikiTitle:osteosarcoma,_cél_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:91853	inCount:5	outCount:1	links:918531;918534;918532;91853	url:9185/3	name:Osteosarcoma, cél pequeñas	normalName:osteosarcoma,_cél_pequeñas	normalWikiTitle:osteosarcoma,_cél_pequeñas	predictedType:MOR_NEO
 CANDIDATE	id:918531	inCount:0	outCount:1	links:918531;91853	url:9185/31	name:Osteosarcoma, cél pequeñas - G1	normalName:osteosarcoma,_cél_pequeñas_-_g1	normalWikiTitle:osteosarcoma,_cél_pequeñas_-_g1	predictedType:MOR_NEO
 CANDIDATE	id:918532	inCount:0	outCount:1	links:91853;918532	url:9185/32	name:Osteosarcoma, cél pequeñas - G2	normalName:osteosarcoma,_cél_pequeñas_-_g2	normalWikiTitle:osteosarcoma,_cél_pequeñas_-_g2	predictedType:MOR_NEO
 CANDIDATE	id:918533	inCount:0	outCount:1	links:91853	url:9185/33	name:Osteosarcoma, cél pequeñas - G3	normalName:osteosarcoma,_cél_pequeñas_-_g3	normalWikiTitle:osteosarcoma,_cél_pequeñas_-_g3	predictedType:MOR_NEO
@@ -51,7 +51,7 @@ CANDIDATE	id:918539	inCount:0	outCount:1	links:91853	url:9185/39	name:Osteosarco
 ENTITY	text:Osteosarcoma de células pequeñas (de Hutter) estadio IV (afectación cerebral	normalName:osteosarcoma_de_células_pequeñas_(de_hutter)_estadio_iv_(afectación_cerebral	predictedType:MOR_NEO	q:true	qid:Q463	docId:cc_onco939	origText:Osteosarcoma de células pequeñas (de Hutter) estadio IV (afectación cerebral	url:NaN
 CANDIDATE	id:918532	inCount:0	outCount:1	links:91853;918532	url:9185/32	name:Osteosarcoma de células pequeñas - grado II, moderadamente diferenciado	normalName:osteosarcoma_de_células_pequeñas_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:osteosarcoma_de_células_pequeñas_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:918534	inCount:0	outCount:1	links:918534;91853	url:9185/34	name:Osteosarcoma de células pequeñas - grado IV, indiferenciado	normalName:osteosarcoma_de_células_pequeñas_-_grado_iv,_indiferenciado	normalWikiTitle:osteosarcoma_de_células_pequeñas_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
-CANDIDATE	id:91853	inCount:5	outCount:1	links:918531;918534;91853;918532	url:9185/3	name:Osteosarcoma de células pequeñas	normalName:osteosarcoma_de_células_pequeñas	normalWikiTitle:osteosarcoma_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:91853	inCount:5	outCount:1	links:918531;918534;918532;91853	url:9185/3	name:Osteosarcoma de células pequeñas	normalName:osteosarcoma_de_células_pequeñas	normalWikiTitle:osteosarcoma_de_células_pequeñas	predictedType:MOR_NEO
 CANDIDATE	id:91846	inCount:5	outCount:1	links:	url:9184/6	name:Osteosarcoma en enfermedad ósea de Paget, metástasis	normalName:osteosarcoma_en_enfermedad_ósea_de_paget,_metástasis	normalWikiTitle:osteosarcoma_en_enfermedad_ósea_de_paget,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:918531	inCount:0	outCount:1	links:918531;91853	url:9185/31	name:Osteosarcoma de células pequeñas - grado I, bien diferenciado	normalName:osteosarcoma_de_células_pequeñas_-_grado_i,_bien_diferenciado	normalWikiTitle:osteosarcoma_de_células_pequeñas_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:91856	inCount:5	outCount:1	links:	url:9185/6	name:Osteosarcoma de células pequeñas, metástasis	normalName:osteosarcoma_de_células_pequeñas,_metástasis	normalWikiTitle:osteosarcoma_de_células_pequeñas,_metástasis	predictedType:MOR_NEO
@@ -62,14 +62,14 @@ CANDIDATE	id:918632	inCount:0	outCount:1	links:	url:9186/32	name:Osteosarcoma ce
 ENTITY	text:suelta de globos	normalName:suelta_de_globos	predictedType:MOR_NEO	q:true	qid:Q463	docId:cc_onco939	origText:suelta de globos	url:NaN
 CANDIDATE	id:87220	inCount:5	outCount:1	links:	url:8722/0	name:Nevus de células en globo	normalName:nevus_de_células_en_globo	normalWikiTitle:nevus_de_células_en_globo	predictedType:MOR_NEO
 CANDIDATE	id:87223	inCount:5	outCount:1	links:	url:8722/3	name:Melanoma de células en globo	normalName:melanoma_de_células_en_globo	normalWikiTitle:melanoma_de_células_en_globo	predictedType:MOR_NEO
-CANDIDATE	id:89040	inCount:5	outCount:1	links:	url:8904/0	name:Rabdomioma adulto	normalName:rabdomioma_adulto	normalWikiTitle:rabdomioma_adulto	predictedType:MOR_NEO
-CANDIDATE	id:88200	inCount:5	outCount:1	links:88200	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
-CANDIDATE	id:89741	inCount:5	outCount:1	links:	url:8974/1	name:Sialoblastoma	normalName:sialoblastoma	normalWikiTitle:sialoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:84400	inCount:5	outCount:1	links:	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90130	inCount:5	outCount:1	links:	url:9013/0	name:Adenofibroma, SAI	normalName:adenofibroma,_sai	normalWikiTitle:adenofibroma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:94413	inCount:5	outCount:1	links:	url:9441/3	name:Glioblastoma de células gigantes	normalName:glioblastoma_de_células_gigantes	normalWikiTitle:glioblastoma_de_células_gigantes	predictedType:MOR_NEO
-CANDIDATE	id:94743	inCount:5	outCount:1	links:	url:9474/3	name:Meduloblastoma de células grandes	normalName:meduloblastoma_de_células_grandes	normalWikiTitle:meduloblastoma_de_células_grandes	predictedType:MOR_NEO
-CANDIDATE	id:84100	inCount:5	outCount:1	links:	url:8410/0	name:Adenoma sebáceo	normalName:adenoma_sebáceo	normalWikiTitle:adenoma_sebáceo	predictedType:MOR_NEO
-CANDIDATE	id:93110	inCount:5	outCount:1	links:	url:9311/0	name:Odontoameloblastoma	normalName:odontoameloblastoma	normalWikiTitle:odontoameloblastoma	predictedType:MOR_NEO
-CANDIDATE	id:966135	inCount:0	outCount:1	links:	url:9661/35	name:Granuloma de Hodgkin - células T	normalName:granuloma_de_hodgkin_-_células_t	normalWikiTitle:granuloma_de_hodgkin_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:84403	inCount:5	outCount:1	links:	url:8440/3	name:Cistadenocarcinoma, SAI	normalName:cistadenocarcinoma,_sai	normalWikiTitle:cistadenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84410	inCount:5	outCount:1	links:	url:8441/0	name:Cistadenoma seroso, SAI	normalName:cistadenoma_seroso,_sai	normalWikiTitle:cistadenoma_seroso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87226	inCount:5	outCount:1	links:	url:8722/6	name:Melanoma de células en globo, metástasis	normalName:melanoma_de_células_en_globo,_metástasis	normalWikiTitle:melanoma_de_células_en_globo,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89040	inCount:5	outCount:1	links:	url:8904/0	name:Rabdomioma adulto	normalName:rabdomioma_adulto	normalWikiTitle:rabdomioma_adulto	predictedType:MOR_NEO
+CANDIDATE	id:92000	inCount:5	outCount:1	links:	url:9200/0	name:Osteoblastoma, SAI	normalName:osteoblastoma,_sai	normalWikiTitle:osteoblastoma,_sai	predictedType:MOR_NEO
 ENTITY	text:Nódulo leptomeníngeo	normalName:nódulo_leptomeníngeo	predictedType:MOR_NEO	q:true	qid:Q463	docId:cc_onco939	origText:Nódulo leptomeníngeo	url:NaN
 CANDIDATE	id:87281	inCount:5	outCount:1	links:	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO
 CANDIDATE	id:86300	inCount:5	outCount:1	links:	url:8630/0	name:Androblastoma benigno	normalName:androblastoma_benigno	normalWikiTitle:androblastoma_benigno	predictedType:MOR_NEO

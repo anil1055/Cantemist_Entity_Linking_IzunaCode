@@ -8,7 +8,7 @@ CANDIDATE	id:88620	inCount:5	outCount:1	links:	url:8862/0	name:Lipoma condroide	
 CANDIDATE	id:89320	inCount:5	outCount:1	links:	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
 CANDIDATE	id:92201	inCount:5	outCount:1	links:	url:9220/1	name:Condromatosis, SAI	normalName:condromatosis,_sai	normalWikiTitle:condromatosis,_sai	predictedType:MOR_NEO
 CANDIDATE	id:92203	inCount:5	outCount:1	links:	url:9220/3	name:Condrosarcoma, SAI	normalName:condrosarcoma,_sai	normalWikiTitle:condrosarcoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:93713	inCount:5	outCount:1	links:937134;937131	url:9371/3	name:Cordoma condroide	normalName:cordoma_condroide	normalWikiTitle:cordoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:93713	inCount:5	outCount:1	links:937131;937134	url:9371/3	name:Cordoma condroide	normalName:cordoma_condroide	normalWikiTitle:cordoma_condroide	predictedType:MOR_NEO
 ENTITY	text:M0	normalName:m0	predictedType:MOR_NEO	q:true	qid:Q495	docId:cc_onco989	origText:M0	url:NaN
 CANDIDATE	id:88950	inCount:5	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
 CANDIDATE	id:82481	inCount:5	outCount:1	links:	url:8248/1	name:Apudoma	normalName:apudoma	normalWikiTitle:apudoma	predictedType:MOR_NEO
@@ -24,7 +24,7 @@ ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q495
 CANDIDATE	id:80103	inCount:5	outCount:1	links:801031	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80109	inCount:5	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
-CANDIDATE	id:90813	inCount:5	outCount:1	links:90813;908131;908134;908133	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:908134;90813;908131;908133	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
 CANDIDATE	id:82313	inCount:5	outCount:1	links:	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
 CANDIDATE	id:81603	inCount:5	outCount:1	links:81603	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
 CANDIDATE	id:83003	inCount:5	outCount:1	links:83003	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
@@ -101,8 +101,8 @@ CANDIDATE	id:91500	inCount:5	outCount:1	links:	url:9150/0	name:Hemangiopericitom
 ENTITY	text:recaída única hepática por carcinoma	normalName:recaída_única_hepática_por_carcinoma	predictedType:MOR_NEO	q:true	qid:Q495	docId:cc_onco989	origText:recaída única hepática por carcinoma	url:NaN
 CANDIDATE	id:85603	inCount:5	outCount:1	links:85603	url:8560/3	name:Carcinoma adenoescamoso	normalName:carcinoma_adenoescamoso	normalWikiTitle:carcinoma_adenoescamoso	predictedType:MOR_NEO
 CANDIDATE	id:81603	inCount:5	outCount:1	links:81603	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
-CANDIDATE	id:90813	inCount:5	outCount:1	links:90813;908131;908134;908133	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
-CANDIDATE	id:908134	inCount:0	outCount:1	links:90813;908134	url:9081/34	name:Teratocarcinoma - grado IV, indiferenciado	normalName:teratocarcinoma_-_grado_iv,_indiferenciado	normalWikiTitle:teratocarcinoma_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:908134;90813;908131;908133	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:908134	inCount:0	outCount:1	links:908134;90813	url:9081/34	name:Teratocarcinoma - grado IV, indiferenciado	normalName:teratocarcinoma_-_grado_iv,_indiferenciado	normalWikiTitle:teratocarcinoma_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:80983	inCount:5	outCount:1	links:80983	url:8098/3	name:Carcinoma basal adenoideo	normalName:carcinoma_basal_adenoideo	normalWikiTitle:carcinoma_basal_adenoideo	predictedType:MOR_NEO
 CANDIDATE	id:90816	inCount:5	outCount:1	links:90816	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:93511	inCount:5	outCount:1	links:	url:9351/1	name:Craneofaringioma adamantinomatoso	normalName:craneofaringioma_adamantinomatoso	normalWikiTitle:craneofaringioma_adamantinomatoso	predictedType:MOR_NEO
@@ -135,7 +135,7 @@ CANDIDATE	id:817034	inCount:0	outCount:1	links:	url:8170/34	name:Carcinoma hepat
 ENTITY	text:recaída de partes blandas por carcinoma	normalName:recaída_de_partes_blandas_por_carcinoma	predictedType:MOR_NEO	q:true	qid:Q495	docId:cc_onco989	origText:recaída de partes blandas por carcinoma	url:NaN
 CANDIDATE	id:85603	inCount:5	outCount:1	links:85603	url:8560/3	name:Carcinoma adenoescamoso	normalName:carcinoma_adenoescamoso	normalWikiTitle:carcinoma_adenoescamoso	predictedType:MOR_NEO
 CANDIDATE	id:95813	inCount:5	outCount:1	links:	url:9581/3	name:Sarcoma alveolar de partes blandas	normalName:sarcoma_alveolar_de_partes_blandas	normalWikiTitle:sarcoma_alveolar_de_partes_blandas	predictedType:MOR_NEO
-CANDIDATE	id:908134	inCount:0	outCount:1	links:90813;908134	url:9081/34	name:Teratocarcinoma - grado IV, indiferenciado	normalName:teratocarcinoma_-_grado_iv,_indiferenciado	normalWikiTitle:teratocarcinoma_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:908134	inCount:0	outCount:1	links:908134;90813	url:9081/34	name:Teratocarcinoma - grado IV, indiferenciado	normalName:teratocarcinoma_-_grado_iv,_indiferenciado	normalWikiTitle:teratocarcinoma_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:80983	inCount:5	outCount:1	links:80983	url:8098/3	name:Carcinoma basal adenoideo	normalName:carcinoma_basal_adenoideo	normalWikiTitle:carcinoma_basal_adenoideo	predictedType:MOR_NEO
 CANDIDATE	id:81603	inCount:5	outCount:1	links:81603	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
 CANDIDATE	id:908131	inCount:0	outCount:1	links:90813	url:9081/31	name:Teratocarcinoma - grado I, bien diferenciado	normalName:teratocarcinoma_-_grado_i,_bien_diferenciado	normalWikiTitle:teratocarcinoma_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO

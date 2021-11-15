@@ -4,10 +4,10 @@ CANDIDATE	id:90603	inCount:5	outCount:1	links:90603	url:9060/3	name:Disgerminoma
 CANDIDATE	id:90613	inCount:5	outCount:1	links:90613	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88950	inCount:5	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
 CANDIDATE	id:89320	inCount:5	outCount:1	links:89320	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
-CANDIDATE	id:90623	inCount:5	outCount:1	links:90623	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
-CANDIDATE	id:91750	inCount:5	outCount:1	links:91750	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
-CANDIDATE	id:85610	inCount:5	outCount:1	links:85610	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
-CANDIDATE	id:90723	inCount:5	outCount:1	links:90723	url:9072/3	name:Poliembrioma 	normalName:poliembrioma_	normalWikiTitle:poliembrioma_	predictedType:MOR_NEO
+CANDIDATE	id:90623	inCount:5	outCount:1	links:	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:5	outCount:1	links:	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:85610	inCount:5	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:90723	inCount:5	outCount:1	links:	url:9072/3	name:Poliembrioma 	normalName:poliembrioma_	normalWikiTitle:poliembrioma_	predictedType:MOR_NEO
 CANDIDATE	id:95100	inCount:5	outCount:1	links:95100	url:9510/0	name:Retinocitoma	normalName:retinocitoma	normalWikiTitle:retinocitoma	predictedType:MOR_NEO
 ENTITY	text:afectación a distancia	normalName:afectación_a_distancia	predictedType:MOR_NEO	q:true	qid:Q555	docId:cc_onco258	origText:afectación a distancia	url:NaN
 CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
@@ -45,7 +45,7 @@ CANDIDATE	id:81233	inCount:5	outCount:1	links:	url:8123/3	name:Carcinoma basaloi
 ENTITY	text:diseminación leptomeníngea	normalName:diseminación_leptomeníngea	predictedType:MOR_NEO	q:true	qid:Q555	docId:cc_onco258	origText:diseminación leptomeníngea	url:NaN
 CANDIDATE	id:90603	inCount:5	outCount:1	links:90603	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
 CANDIDATE	id:87281	inCount:5	outCount:1	links:87281	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO
-CANDIDATE	id:87283	inCount:5	outCount:1	links:87283;872831	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
+CANDIDATE	id:87283	inCount:5	outCount:1	links:872831;87283	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
 CANDIDATE	id:82133	inCount:5	outCount:1	links:82133	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
 CANDIDATE	id:95303	inCount:5	outCount:1	links:95303	url:9530/3	name:Meningioma maligno	normalName:meningioma_maligno	normalWikiTitle:meningioma_maligno	predictedType:MOR_NEO
 CANDIDATE	id:95350	inCount:5	outCount:1	links:	url:9535/0	name:Meningioma hemangioblástico	normalName:meningioma_hemangioblástico	normalWikiTitle:meningioma_hemangioblástico	predictedType:MOR_NEO
@@ -57,7 +57,7 @@ ENTITY	text:germinoma	normalName:germinoma	predictedType:MOR_NEO	q:true	qid:Q555
 CANDIDATE	id:90643	inCount:5	outCount:1	links:90643	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
 ENTITY	text:infiltración leptomeníngea	normalName:infiltración_leptomeníngea	predictedType:MOR_NEO	q:true	qid:Q555	docId:cc_onco258	origText:infiltración leptomeníngea	url:NaN
 CANDIDATE	id:87281	inCount:5	outCount:1	links:87281	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO
-CANDIDATE	id:87283	inCount:5	outCount:1	links:87283;872831	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
+CANDIDATE	id:87283	inCount:5	outCount:1	links:872831;87283	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
 CANDIDATE	id:82803	inCount:5	outCount:1	links:82803	url:8280/3	name:Carcinoma acidófilo	normalName:carcinoma_acidófilo	normalWikiTitle:carcinoma_acidófilo	predictedType:MOR_NEO
 CANDIDATE	id:85030	inCount:5	outCount:1	links:	url:8503/0	name:Papiloma intraductal	normalName:papiloma_intraductal	normalWikiTitle:papiloma_intraductal	predictedType:MOR_NEO
 CANDIDATE	id:88560	inCount:5	outCount:1	links:	url:8856/0	name:Lipoma intramuscular	normalName:lipoma_intramuscular	normalWikiTitle:lipoma_intramuscular	predictedType:MOR_NEO
@@ -168,6 +168,15 @@ CANDIDATE	id:95091	inCount:5	outCount:1	links:	url:9509/1	name:Tumor glioneurona
 CANDIDATE	id:84200	inCount:5	outCount:1	links:	url:8420/0	name:Adenoma ceruminoso	normalName:adenoma_ceruminoso	normalWikiTitle:adenoma_ceruminoso	predictedType:MOR_NEO
 ENTITY	text:germinomas	normalName:germinomas	predictedType:MOR_NEO	q:true	qid:Q555	docId:cc_onco258	origText:germinomas	url:NaN
 CANDIDATE	id:90643	inCount:5	outCount:1	links:90643	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:90603	inCount:5	outCount:1	links:90603	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
+CANDIDATE	id:90646	inCount:5	outCount:1	links:90646	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81531	inCount:5	outCount:1	links:81531	url:8153/1	name:Gastrinoma, SAI	normalName:gastrinoma,_sai	normalWikiTitle:gastrinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:5	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:5	outCount:1	links:95601	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:90613	inCount:5	outCount:1	links:90613	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95710	inCount:5	outCount:1	links:	url:9571/0	name:Perineuroma, SAI	normalName:perineuroma,_sai	normalWikiTitle:perineuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:5	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:5	outCount:1	links:90606	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
 ENTITY	text:non-germinomatous GCTs	normalName:non-germinomatous_gcts	predictedType:MOR_NEO	q:true	qid:Q555	docId:cc_onco258	origText:non-germinomatous GCTs	url:NaN
 CANDIDATE	id:90646	inCount:5	outCount:1	links:90646	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:95601	inCount:5	outCount:1	links:95601	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
@@ -175,7 +184,7 @@ CANDIDATE	id:90606	inCount:5	outCount:1	links:90606	url:9060/6	name:Disgerminoma
 CANDIDATE	id:90643	inCount:5	outCount:1	links:90643	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
 CANDIDATE	id:80109	inCount:5	outCount:1	links:80109	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
 CANDIDATE	id:82501	inCount:5	outCount:1	links:	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
-CANDIDATE	id:87283	inCount:5	outCount:1	links:87283;872831	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
+CANDIDATE	id:87283	inCount:5	outCount:1	links:872831;87283	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
 CANDIDATE	id:88901	inCount:5	outCount:1	links:	url:8890/1	name:Leiomiomatosis, SAI	normalName:leiomiomatosis,_sai	normalWikiTitle:leiomiomatosis,_sai	predictedType:MOR_NEO
 CANDIDATE	id:95301	inCount:5	outCount:1	links:	url:9530/1	name:Meningiomatosis, SAI	normalName:meningiomatosis,_sai	normalWikiTitle:meningiomatosis,_sai	predictedType:MOR_NEO
 CANDIDATE	id:81563	inCount:5	outCount:1	links:	url:8156/3	name:Somatostatinoma maligno	normalName:somatostatinoma_maligno	normalWikiTitle:somatostatinoma_maligno	predictedType:MOR_NEO
@@ -230,12 +239,12 @@ CANDIDATE	id:90643	inCount:5	outCount:1	links:90643	url:9064/3	name:Germinoma 	n
 CANDIDATE	id:90603	inCount:5	outCount:1	links:90603	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
 CANDIDATE	id:90613	inCount:5	outCount:1	links:90613	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88950	inCount:5	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:88900	inCount:5	outCount:1	links:	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:92720	inCount:5	outCount:1	links:92720	url:9272/0	name:Cementoma, SAI	normalName:cementoma,_sai	normalWikiTitle:cementoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88400	inCount:5	outCount:1	links:	url:8840/0	name:Mixoma, SAI	normalName:mixoma,_sai	normalWikiTitle:mixoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:89320	inCount:5	outCount:1	links:89320	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
-CANDIDATE	id:90623	inCount:5	outCount:1	links:90623	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
-CANDIDATE	id:91750	inCount:5	outCount:1	links:91750	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
-CANDIDATE	id:85610	inCount:5	outCount:1	links:85610	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
-CANDIDATE	id:90723	inCount:5	outCount:1	links:90723	url:9072/3	name:Poliembrioma 	normalName:poliembrioma_	normalWikiTitle:poliembrioma_	predictedType:MOR_NEO
-CANDIDATE	id:95100	inCount:5	outCount:1	links:95100	url:9510/0	name:Retinocitoma	normalName:retinocitoma	normalWikiTitle:retinocitoma	predictedType:MOR_NEO
+CANDIDATE	id:81510	inCount:5	outCount:1	links:	url:8151/0	name:Insulinoma, SAI	normalName:insulinoma,_sai	normalWikiTitle:insulinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81531	inCount:5	outCount:1	links:81531	url:8153/1	name:Gastrinoma, SAI	normalName:gastrinoma,_sai	normalWikiTitle:gastrinoma,_sai	predictedType:MOR_NEO
 ENTITY	text:yolk sac tumor	normalName:yolk_sac_tumor	predictedType:MOR_NEO	q:true	qid:Q555	docId:cc_onco258	origText:yolk sac tumor	url:NaN
 CANDIDATE	id:89351	inCount:5	outCount:1	links:89351	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
 CANDIDATE	id:80401	inCount:5	outCount:1	links:80401	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO

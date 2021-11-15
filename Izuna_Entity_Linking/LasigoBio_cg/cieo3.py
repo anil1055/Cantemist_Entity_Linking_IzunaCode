@@ -10,7 +10,7 @@ sys.path.append("./")
 
 # Import cieo3 cache storing the candidates list for each entity mention or create it if it does not exist
 cieo3_cache_file = "./tmp/ecie03_cache.pickle"
-
+suffix_list = []
 if os.path.isfile(cieo3_cache_file):
     logging.info("loading CIE-O-3 dictionary...")
     cieo3_cache = pickle.load(open(cieo3_cache_file, "rb"))
@@ -97,8 +97,9 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id):
     if entity_text in name_to_id or entity_text in synonym_to_id: # There is an exact match for this entity
         codes = [entity_text]
     
-    if entity_text.endswith("s") and entity_text[:-1] in cieo3_cache: # Removal of suffix -s 
-        codes = cieo3_cache[entity_text[:-1]]
+    #if entity_text.endswith("s") and entity_text[:-1] in cieo3_cache: # Removal of suffix -s 
+    #    codes = cieo3_cache[entity_text[:-1]]
+
     
     elif entity_text in cieo3_cache: # There is already a candidate list stored in cache file
         codes = cieo3_cache[entity_text]

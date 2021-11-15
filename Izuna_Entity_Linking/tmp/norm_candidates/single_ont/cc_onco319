@@ -6,7 +6,7 @@ CANDIDATE	id:85012	inCount:5	outCount:1	links:85012	url:8501/2	name:Comedocarcin
 CANDIDATE	id:85226	inCount:5	outCount:1	links:	url:8522/6	name:Carcinoma ductal y lobulillar infiltrante, metástasis	normalName:carcinoma_ductal_y_lobulillar_infiltrante,_metástasis	normalWikiTitle:carcinoma_ductal_y_lobulillar_infiltrante,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:82302	inCount:5	outCount:1	links:	url:8230/2	name:Carcinoma ductal in situ, tipo sólido	normalName:carcinoma_ductal_in_situ,_tipo_sólido	normalWikiTitle:carcinoma_ductal_in_situ,_tipo_sólido	predictedType:MOR_NEO
 CANDIDATE	id:80823	inCount:5	outCount:1	links:	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
-CANDIDATE	id:80923	inCount:5	outCount:1	links:809231;80923	url:8092/3	name:Carcinoma basocelular infiltrante, SAI	normalName:carcinoma_basocelular_infiltrante,_sai	normalWikiTitle:carcinoma_basocelular_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80923	inCount:5	outCount:1	links:80923;809231	url:8092/3	name:Carcinoma basocelular infiltrante, SAI	normalName:carcinoma_basocelular_infiltrante,_sai	normalWikiTitle:carcinoma_basocelular_infiltrante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:850034	inCount:0	outCount:1	links:85003	url:8500/34	name:Carcinoma ductal infiltrante, SAI - grado IV, indiferenciado	normalName:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_ductal_infiltrante,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
 CANDIDATE	id:85042	inCount:5	outCount:1	links:85042	url:8504/2	name:Carcinoma intraquístico no infiltrante	normalName:carcinoma_intraquístico_no_infiltrante	normalWikiTitle:carcinoma_intraquístico_no_infiltrante	predictedType:MOR_NEO
 ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q136	docId:cc_onco319	origText:carcinoma	url:NaN
@@ -104,12 +104,11 @@ CANDIDATE	id:88956	inCount:5	outCount:1	links:88956	url:8895/6	name:Miosarcoma, 
 CANDIDATE	id:80106	inCount:5	outCount:1	links:	url:8010/6	name:Carcinoma metastásico, SAI	normalName:carcinoma_metastásico,_sai	normalWikiTitle:carcinoma_metastásico,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88006	inCount:5	outCount:1	links:88006	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:88406	inCount:5	outCount:1	links:88406	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:5	outCount:1	links:90616	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:5	outCount:1	links:91806	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:97401	inCount:5	outCount:1	links:	url:9740/1	name:Mastocitoma, SAI	normalName:mastocitoma,_sai	normalWikiTitle:mastocitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89716	inCount:5	outCount:1	links:89716	url:8971/6	name:Pancreatoblastoma, metástasis	normalName:pancreatoblastoma,_metástasis	normalWikiTitle:pancreatoblastoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:90551	inCount:5	outCount:1	links:	url:9055/1	name:Mesotelioma quístico, SAI	normalName:mesotelioma_quístico,_sai	normalWikiTitle:mesotelioma_quístico,_sai	predictedType:MOR_NEO
-CANDIDATE	id:86006	inCount:5	outCount:1	links:	url:8600/6	name:Tecoma maligno, metástasis	normalName:tecoma_maligno,_metástasis	normalWikiTitle:tecoma_maligno,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:91863	inCount:5	outCount:1	links:	url:9186/3	name:Osteosarcoma central	normalName:osteosarcoma_central	normalWikiTitle:osteosarcoma_central	predictedType:MOR_NEO
-CANDIDATE	id:88200	inCount:5	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
-CANDIDATE	id:92720	inCount:5	outCount:1	links:	url:9272/0	name:Cementoma, SAI	normalName:cementoma,_sai	normalWikiTitle:cementoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80106	inCount:5	outCount:1	links:	url:8010/6	name:Ca metastásico, SAI	normalName:ca_metastásico,_sai	normalWikiTitle:ca_metastásico,_sai	predictedType:MOR_NEO
 ENTITY	text:metástasis cerebrales múltiples de carcinoma	normalName:metástasis_cerebrales_múltiples_de_carcinoma	predictedType:MOR_NEO	q:true	qid:Q136	docId:cc_onco319	origText:metástasis cerebrales múltiples de carcinoma	url:NaN
 CANDIDATE	id:90816	inCount:5	outCount:1	links:90816	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:81026	inCount:5	outCount:1	links:81026	url:8102/6	name:Triquilemocarcinoma, metástasis	normalName:triquilemocarcinoma,_metástasis	normalWikiTitle:triquilemocarcinoma,_metástasis	predictedType:MOR_NEO
@@ -118,7 +117,7 @@ CANDIDATE	id:88006	inCount:5	outCount:1	links:88006	url:8800/6	name:Sarcoma, SAI
 CANDIDATE	id:88406	inCount:5	outCount:1	links:88406	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:89006	inCount:5	outCount:1	links:	url:8900/6	name:Rabdomiosarcoma, SAI, metástasis	normalName:rabdomiosarcoma,_sai,_metástasis	normalWikiTitle:rabdomiosarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:90616	inCount:5	outCount:1	links:90616	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:91806	inCount:5	outCount:1	links:	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:5	outCount:1	links:91806	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:89716	inCount:5	outCount:1	links:89716	url:8971/6	name:Pancreatoblastoma, metástasis	normalName:pancreatoblastoma,_metástasis	normalWikiTitle:pancreatoblastoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:83416	inCount:5	outCount:1	links:83416	url:8341/6	name:Microcarcinoma papilar, metástasis	normalName:microcarcinoma_papilar,_metástasis	normalWikiTitle:microcarcinoma_papilar,_metástasis	predictedType:MOR_NEO
 ENTITY	text:lesión cerebelosa	normalName:lesión_cerebelosa	predictedType:MOR_NEO	q:true	qid:Q136	docId:cc_onco319	origText:lesión cerebelosa	url:NaN
@@ -146,7 +145,7 @@ CANDIDATE	id:90803	inCount:5	outCount:1	links:90803	url:9080/3	name:Teratoma mal
 ENTITY	text:metástasis cerebrales de carcinoma ductal infiltrante	normalName:metástasis_cerebrales_de_carcinoma_ductal_infiltrante	predictedType:MOR_NEO	q:true	qid:Q136	docId:cc_onco319	origText:metástasis cerebrales de carcinoma ductal infiltrante	url:NaN
 CANDIDATE	id:85003	inCount:5	outCount:1	links:85003	url:8500/3	name:Carcinoma ductal infiltrante, SAI	normalName:carcinoma_ductal_infiltrante,_sai	normalWikiTitle:carcinoma_ductal_infiltrante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:83416	inCount:5	outCount:1	links:83416	url:8341/6	name:Microcarcinoma papilar, metástasis	normalName:microcarcinoma_papilar,_metástasis	normalWikiTitle:microcarcinoma_papilar,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:80923	inCount:5	outCount:1	links:809231;80923	url:8092/3	name:Carcinoma basocelular infiltrante, SAI	normalName:carcinoma_basocelular_infiltrante,_sai	normalWikiTitle:carcinoma_basocelular_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80923	inCount:5	outCount:1	links:80923;809231	url:8092/3	name:Carcinoma basocelular infiltrante, SAI	normalName:carcinoma_basocelular_infiltrante,_sai	normalWikiTitle:carcinoma_basocelular_infiltrante,_sai	predictedType:MOR_NEO
 CANDIDATE	id:85012	inCount:5	outCount:1	links:85012	url:8501/2	name:Comedocarcinoma no infiltrante	normalName:comedocarcinoma_no_infiltrante	normalWikiTitle:comedocarcinoma_no_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:85223	inCount:5	outCount:1	links:85223	url:8522/3	name:Carcinoma ductal y lobulillar infiltrante	normalName:carcinoma_ductal_y_lobulillar_infiltrante	normalWikiTitle:carcinoma_ductal_y_lobulillar_infiltrante	predictedType:MOR_NEO
 CANDIDATE	id:85006	inCount:5	outCount:1	links:85006	url:8500/6	name:Carcinoma ductal infiltrante, SAI, metástasis	normalName:carcinoma_ductal_infiltrante,_sai,_metástasis	normalWikiTitle:carcinoma_ductal_infiltrante,_sai,_metástasis	predictedType:MOR_NEO

@@ -2,7 +2,7 @@ ENTITY	text:carcinoma mioepitelial	normalName:carcinoma_mioepitelial	predictedTy
 CANDIDATE	id:80823	inCount:5	outCount:1	links:80823;808234	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
 CANDIDATE	id:85623	inCount:5	outCount:1	links:85623	url:8562/3	name:Carcinoma epitelial-mioepitelial	normalName:carcinoma_epitelial-mioepitelial	normalWikiTitle:carcinoma_epitelial-mioepitelial	predictedType:MOR_NEO
 CANDIDATE	id:80826	inCount:5	outCount:1	links:80826	url:8082/6	name:Carcinoma linfoepitelial, metástasis	normalName:carcinoma_linfoepitelial,_metástasis	normalWikiTitle:carcinoma_linfoepitelial,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:89823	inCount:5	outCount:1	links:898234;898231	url:8982/3	name:Mioepitelioma maligno	normalName:mioepitelioma_maligno	normalWikiTitle:mioepitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89823	inCount:5	outCount:1	links:898231;898234	url:8982/3	name:Mioepitelioma maligno	normalName:mioepitelioma_maligno	normalWikiTitle:mioepitelioma_maligno	predictedType:MOR_NEO
 CANDIDATE	id:89830	inCount:5	outCount:1	links:	url:8983/0	name:Adenomioepitelioma	normalName:adenomioepitelioma	normalWikiTitle:adenomioepitelioma	predictedType:MOR_NEO
 CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
 CANDIDATE	id:81103	inCount:5	outCount:1	links:	url:8110/3	name:Carcinoma pilomatricial	normalName:carcinoma_pilomatricial	normalWikiTitle:carcinoma_pilomatricial	predictedType:MOR_NEO
@@ -44,12 +44,11 @@ CANDIDATE	id:88956	inCount:5	outCount:1	links:88956	url:8895/6	name:Miosarcoma, 
 CANDIDATE	id:80106	inCount:5	outCount:1	links:	url:8010/6	name:Carcinoma metastásico, SAI	normalName:carcinoma_metastásico,_sai	normalWikiTitle:carcinoma_metastásico,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88006	inCount:5	outCount:1	links:88006	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:88406	inCount:5	outCount:1	links:88406	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:5	outCount:1	links:90616	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:5	outCount:1	links:91806	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:97401	inCount:5	outCount:1	links:	url:9740/1	name:Mastocitoma, SAI	normalName:mastocitoma,_sai	normalWikiTitle:mastocitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89716	inCount:5	outCount:1	links:	url:8971/6	name:Pancreatoblastoma, metástasis	normalName:pancreatoblastoma,_metástasis	normalWikiTitle:pancreatoblastoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:90551	inCount:5	outCount:1	links:	url:9055/1	name:Mesotelioma quístico, SAI	normalName:mesotelioma_quístico,_sai	normalWikiTitle:mesotelioma_quístico,_sai	predictedType:MOR_NEO
-CANDIDATE	id:86006	inCount:5	outCount:1	links:	url:8600/6	name:Tecoma maligno, metástasis	normalName:tecoma_maligno,_metástasis	normalWikiTitle:tecoma_maligno,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:91863	inCount:5	outCount:1	links:	url:9186/3	name:Osteosarcoma central	normalName:osteosarcoma_central	normalWikiTitle:osteosarcoma_central	predictedType:MOR_NEO
-CANDIDATE	id:88200	inCount:5	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
-CANDIDATE	id:92720	inCount:5	outCount:1	links:	url:9272/0	name:Cementoma, SAI	normalName:cementoma,_sai	normalWikiTitle:cementoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:80106	inCount:5	outCount:1	links:	url:8010/6	name:Ca metastásico, SAI	normalName:ca_metastásico,_sai	normalWikiTitle:ca_metastásico,_sai	predictedType:MOR_NEO
 ENTITY	text:metástasis de carcinoma	normalName:metástasis_de_carcinoma	predictedType:MOR_NEO	q:true	qid:Q765	docId:cc_onco1025	origText:metástasis de carcinoma	url:NaN
 CANDIDATE	id:90816	inCount:5	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:81026	inCount:5	outCount:1	links:	url:8102/6	name:Triquilemocarcinoma, metástasis	normalName:triquilemocarcinoma,_metástasis	normalWikiTitle:triquilemocarcinoma,_metástasis	predictedType:MOR_NEO
@@ -57,10 +56,10 @@ CANDIDATE	id:88956	inCount:5	outCount:1	links:88956	url:8895/6	name:Miosarcoma, 
 CANDIDATE	id:88006	inCount:5	outCount:1	links:88006	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:88406	inCount:5	outCount:1	links:88406	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:81233	inCount:5	outCount:1	links:	url:8123/3	name:Carcinoma basaloide	normalName:carcinoma_basaloide	normalWikiTitle:carcinoma_basaloide	predictedType:MOR_NEO
-CANDIDATE	id:90616	inCount:5	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:5	outCount:1	links:90616	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:90726	inCount:5	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:83416	inCount:5	outCount:1	links:	url:8341/6	name:Microcarcinoma papilar, metástasis	normalName:microcarcinoma_papilar,_metástasis	normalWikiTitle:microcarcinoma_papilar,_metástasis	predictedType:MOR_NEO
-CANDIDATE	id:91806	inCount:5	outCount:1	links:	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:5	outCount:1	links:91806	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
 ENTITY	text:sarcoma	normalName:sarcoma	predictedType:MOR_NEO	q:true	qid:Q765	docId:cc_onco1025	origText:sarcoma	url:NaN
 CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:88003	inCount:5	outCount:1	links:	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO

@@ -1,12 +1,12 @@
 ENTITY	text:Rabdomiosarcoma sólido alveolar	normalName:rabdomiosarcoma_sólido_alveolar	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:Rabdomiosarcoma sólido alveolar	url:NaN
 CANDIDATE	id:89003	inCount:5	outCount:1	links:89003	url:8900/3	name:Rabdomiosarcoma, SAI	normalName:rabdomiosarcoma,_sai	normalWikiTitle:rabdomiosarcoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:82513	inCount:5	outCount:1	links:	url:8251/3	name:Adenocarcinoma alveolar	normalName:adenocarcinoma_alveolar	normalWikiTitle:adenocarcinoma_alveolar	predictedType:MOR_NEO
-CANDIDATE	id:89006	inCount:5	outCount:1	links:	url:8900/6	name:Rabdomiosarcoma, SAI, metástasis	normalName:rabdomiosarcoma,_sai,_metástasis	normalWikiTitle:rabdomiosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89006	inCount:5	outCount:1	links:89006	url:8900/6	name:Rabdomiosarcoma, SAI, metástasis	normalName:rabdomiosarcoma,_sai,_metástasis	normalWikiTitle:rabdomiosarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:89023	inCount:5	outCount:1	links:	url:8902/3	name:Rabdomiosarcoma de tipo mixto	normalName:rabdomiosarcoma_de_tipo_mixto	normalWikiTitle:rabdomiosarcoma_de_tipo_mixto	predictedType:MOR_NEO
 CANDIDATE	id:82510	inCount:5	outCount:1	links:	url:8251/0	name:Adenoma alveolar	normalName:adenoma_alveolar	normalWikiTitle:adenoma_alveolar	predictedType:MOR_NEO
 CANDIDATE	id:89203	inCount:5	outCount:1	links:89203	url:8920/3	name:Rabdomiosarcoma alveolar	normalName:rabdomiosarcoma_alveolar	normalWikiTitle:rabdomiosarcoma_alveolar	predictedType:MOR_NEO
 CANDIDATE	id:90403	inCount:5	outCount:1	links:	url:9040/3	name:Sarcoma sinovial , SAI	normalName:sarcoma_sinovial_,_sai	normalWikiTitle:sarcoma_sinovial_,_sai	predictedType:MOR_NEO
-CANDIDATE	id:89000	inCount:5	outCount:1	links:	url:8900/0	name:Rabdomioma, SAI	normalName:rabdomioma,_sai	normalWikiTitle:rabdomioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89000	inCount:5	outCount:1	links:89000	url:8900/0	name:Rabdomioma, SAI	normalName:rabdomioma,_sai	normalWikiTitle:rabdomioma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:81473	inCount:5	outCount:1	links:	url:8147/3	name:Adenocarcinoma basocelular	normalName:adenocarcinoma_basocelular	normalWikiTitle:adenocarcinoma_basocelular	predictedType:MOR_NEO
 CANDIDATE	id:82516	inCount:5	outCount:1	links:	url:8251/6	name:Adenocarcinoma alveolar, metástasis	normalName:adenocarcinoma_alveolar,_metástasis	normalWikiTitle:adenocarcinoma_alveolar,_metástasis	predictedType:MOR_NEO
 ENTITY	text:infiltración de médula ósea	normalName:infiltración_de_médula_ósea	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:infiltración de médula ósea	url:NaN
@@ -47,13 +47,13 @@ CANDIDATE	id:90726	inCount:5	outCount:1	links:	url:9072/6	name:Poliembrioma , me
 ENTITY	text:rabdomiosarcoma	normalName:rabdomiosarcoma	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:rabdomiosarcoma	url:NaN
 CANDIDATE	id:89003	inCount:5	outCount:1	links:89003	url:8900/3	name:Rabdomiosarcoma, SAI	normalName:rabdomiosarcoma,_sai	normalWikiTitle:rabdomiosarcoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88943	inCount:5	outCount:1	links:88943	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:88953	inCount:5	outCount:1	links:889533;88953;889532	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953;889532;889533	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:88113	inCount:5	outCount:1	links:88113	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:88403	inCount:5	outCount:1	links:88403;884032;884033	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:5	outCount:1	links:884033;884032;88403	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:89203	inCount:5	outCount:1	links:89203	url:8920/3	name:Rabdomiosarcoma alveolar	normalName:rabdomiosarcoma_alveolar	normalWikiTitle:rabdomiosarcoma_alveolar	predictedType:MOR_NEO
 CANDIDATE	id:89333	inCount:5	outCount:1	links:89333	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:87103	inCount:5	outCount:1	links:87103	url:8710/3	name:Glomangiosarcoma	normalName:glomangiosarcoma	normalWikiTitle:glomangiosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:89103	inCount:5	outCount:1	links:89103	url:8910/3	name:Rabdomiosarcoma embrionario	normalName:rabdomiosarcoma_embrionario	normalWikiTitle:rabdomiosarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:87103	inCount:5	outCount:1	links:	url:8710/3	name:Glomangiosarcoma	normalName:glomangiosarcoma	normalWikiTitle:glomangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:89103	inCount:5	outCount:1	links:	url:8910/3	name:Rabdomiosarcoma embrionario	normalName:rabdomiosarcoma_embrionario	normalWikiTitle:rabdomiosarcoma_embrionario	predictedType:MOR_NEO
 CANDIDATE	id:88003	inCount:5	outCount:1	links:88003	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO
 ENTITY	text:rabdomiosarcoma alveolar de muy alto riesgo (patrón sólido	normalName:rabdomiosarcoma_alveolar_de_muy_alto_riesgo_(patrón_sólido	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:rabdomiosarcoma alveolar de muy alto riesgo (patrón sólido	url:NaN
 CANDIDATE	id:889533	inCount:0	outCount:1	links:88953	url:8895/33	name:Miosarcoma - grado III, pobremente diferenciado	normalName:miosarcoma_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:miosarcoma_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
@@ -62,21 +62,21 @@ CANDIDATE	id:889532	inCount:0	outCount:1	links:88953	url:8895/32	name:Miosarcoma
 CANDIDATE	id:884032	inCount:0	outCount:1	links:88403	url:8840/32	name:Mixosarcoma - grado II, moderadamente diferenciado	normalName:mixosarcoma_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:mixosarcoma_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:885033	inCount:0	outCount:1	links:88503	url:8850/33	name:Liposarcoma, SAI - grado III, pobremente diferenciado	normalName:liposarcoma,_sai_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:liposarcoma,_sai_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:885431	inCount:0	outCount:1	links:	url:8854/31	name:Liposarcoma pleomorfo - grado I, bien diferenciado	normalName:liposarcoma_pleomorfo_-_grado_i,_bien_diferenciado	normalWikiTitle:liposarcoma_pleomorfo_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
-CANDIDATE	id:889033	inCount:0	outCount:1	links:	url:8890/33	name:Leiomiosarcoma, SAI - grado III, pobremente diferenciado	normalName:leiomiosarcoma,_sai_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:leiomiosarcoma,_sai_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:889033	inCount:0	outCount:1	links:88903	url:8890/33	name:Leiomiosarcoma, SAI - grado III, pobremente diferenciado	normalName:leiomiosarcoma,_sai_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:leiomiosarcoma,_sai_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:912033	inCount:0	outCount:1	links:91203	url:9120/33	name:Hemangiosarcoma - grado III, pobremente diferenciado	normalName:hemangiosarcoma_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:hemangiosarcoma_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:885032	inCount:0	outCount:1	links:88503	url:8850/32	name:Liposarcoma, SAI - grado II, moderadamente diferenciado	normalName:liposarcoma,_sai_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:liposarcoma,_sai_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
 CANDIDATE	id:885433	inCount:0	outCount:1	links:	url:8854/33	name:Liposarcoma pleomorfo - grado III, pobremente diferenciado	normalName:liposarcoma_pleomorfo_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:liposarcoma_pleomorfo_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
 ENTITY	text:rabdomiosarcomas	normalName:rabdomiosarcomas	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:rabdomiosarcomas	url:NaN
 CANDIDATE	id:89003	inCount:5	outCount:1	links:89003	url:8900/3	name:Rabdomiosarcoma, SAI	normalName:rabdomiosarcoma,_sai	normalWikiTitle:rabdomiosarcoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88943	inCount:5	outCount:1	links:88943	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:88953	inCount:5	outCount:1	links:889533;88953;889532	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953;889532;889533	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:88113	inCount:5	outCount:1	links:88113	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:88403	inCount:5	outCount:1	links:88403;884032;884033	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:89203	inCount:5	outCount:1	links:89203	url:8920/3	name:Rabdomiosarcoma alveolar	normalName:rabdomiosarcoma_alveolar	normalWikiTitle:rabdomiosarcoma_alveolar	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:5	outCount:1	links:884033;884032;88403	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:89000	inCount:5	outCount:1	links:89000	url:8900/0	name:Rabdomioma, SAI	normalName:rabdomioma,_sai	normalWikiTitle:rabdomioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88903	inCount:5	outCount:1	links:889033	url:8890/3	name:Leiomiosarcoma, SAI	normalName:leiomiosarcoma,_sai	normalWikiTitle:leiomiosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89006	inCount:5	outCount:1	links:89006	url:8900/6	name:Rabdomiosarcoma, SAI, metástasis	normalName:rabdomiosarcoma,_sai,_metástasis	normalWikiTitle:rabdomiosarcoma,_sai,_metástasis	predictedType:MOR_NEO
 CANDIDATE	id:89333	inCount:5	outCount:1	links:89333	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:87103	inCount:5	outCount:1	links:87103	url:8710/3	name:Glomangiosarcoma	normalName:glomangiosarcoma	normalWikiTitle:glomangiosarcoma	predictedType:MOR_NEO
-CANDIDATE	id:89103	inCount:5	outCount:1	links:89103	url:8910/3	name:Rabdomiosarcoma embrionario	normalName:rabdomiosarcoma_embrionario	normalWikiTitle:rabdomiosarcoma_embrionario	predictedType:MOR_NEO
-CANDIDATE	id:88003	inCount:5	outCount:1	links:88003	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO
 ENTITY	text:sarcoma desmoplásico de células redondas	normalName:sarcoma_desmoplásico_de_células_redondas	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:sarcoma desmoplásico de células redondas	url:NaN
 CANDIDATE	id:88063	inCount:5	outCount:1	links:88063	url:8806/3	name:Tumor desmoplásico de células redondas pequeñas	normalName:tumor_desmoplásico_de_células_redondas_pequeñas	normalWikiTitle:tumor_desmoplásico_de_células_redondas_pequeñas	predictedType:MOR_NEO
 CANDIDATE	id:85143	inCount:5	outCount:1	links:	url:8514/3	name:Carcinoma ductal, tipo desmoplásico	normalName:carcinoma_ductal,_tipo_desmoplásico	normalWikiTitle:carcinoma_ductal,_tipo_desmoplásico	predictedType:MOR_NEO
@@ -140,14 +140,14 @@ CANDIDATE	id:91003	inCount:5	outCount:1	links:	url:9100/3	name:Coriocarcinoma, S
 CANDIDATE	id:87230	inCount:5	outCount:1	links:	url:8723/0	name:Nevus con halo	normalName:nevus_con_halo	normalWikiTitle:nevus_con_halo	predictedType:MOR_NEO
 CANDIDATE	id:95370	inCount:5	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
 ENTITY	text:sarcoma	normalName:sarcoma	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:sarcoma	url:NaN
-CANDIDATE	id:88953	inCount:5	outCount:1	links:889533;88953;889532	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953;889532;889533	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:88003	inCount:5	outCount:1	links:88003	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO
-CANDIDATE	id:88403	inCount:5	outCount:1	links:88403;884032;884033	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:5	outCount:1	links:884033;884032;88403	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:94423	inCount:5	outCount:1	links:	url:9442/3	name:Gliosarcoma	normalName:gliosarcoma	normalWikiTitle:gliosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:89333	inCount:5	outCount:1	links:89333	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:86000	inCount:5	outCount:1	links:	url:8600/0	name:Tecoma, SAI	normalName:tecoma,_sai	normalWikiTitle:tecoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:93730	inCount:5	outCount:1	links:	url:9373/0	name:Paracordoma	normalName:paracordoma	normalWikiTitle:paracordoma	predictedType:MOR_NEO
-CANDIDATE	id:88503	inCount:5	outCount:1	links:885033;885032;885031	url:8850/3	name:Liposarcoma, SAI	normalName:liposarcoma,_sai	normalWikiTitle:liposarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88503	inCount:5	outCount:1	links:885033;885031;885032	url:8850/3	name:Liposarcoma, SAI	normalName:liposarcoma,_sai	normalWikiTitle:liposarcoma,_sai	predictedType:MOR_NEO
 CANDIDATE	id:88943	inCount:5	outCount:1	links:88943	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
 CANDIDATE	id:91203	inCount:5	outCount:1	links:912033	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
 ENTITY	text:afectación ganglionar a distancia	normalName:afectación_ganglionar_a_distancia	predictedType:MOR_NEO	q:true	qid:Q843	docId:cc_onco1179	origText:afectación ganglionar a distancia	url:NaN
