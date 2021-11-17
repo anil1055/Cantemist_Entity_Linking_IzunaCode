@@ -5,6 +5,7 @@ import os
 import pickle
 import sys
 from fuzzywuzzy import fuzz, process
+import text_distance_libraries
 
 sys.path.append("./")
 
@@ -85,7 +86,7 @@ def load_cieo3():
     return ontology_graph, name_to_id, synonym_to_id
 
 
-def map_to_cieo3(entity_text, name_to_id, synonym_to_id):
+def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
     """Get best CIE-O-3 matches for entity text according to lexical similarity (edit distance).
     
     Ensures: 
@@ -93,7 +94,10 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id):
     """
     
     global cieo3_cache
-    
+    threshold = 0.15
+    limit = 10
+    normal_text = entity_text.replace('_', ' ')
+
     if entity_text in name_to_id or entity_text in synonym_to_id: # There is an exact match for this entity
         codes = [entity_text]
     
@@ -106,14 +110,13 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id):
 
     else:
         # Get first ten candidates according to lexical similarity with entity_text
-        codes = process.extract(entity_text, name_to_id.keys(), scorer=fuzz.token_sort_ratio, limit=10)
-        
+        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_library = 'fuzz') #fuzz or levenshtein
+
         if codes[0][1] == 100: # There is an exact match for this entity
             codes = [codes[0]]
     
         elif codes[0][1] < 100: # Check for synonyms of this entity
-            drug_syns = process.extract(entity_text, synonym_to_id.keys(), limit=10, scorer=fuzz.token_sort_ratio)
-
+            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_library = 'fuzz')
             for synonym in drug_syns:
 
                 if synonym[1] == 100:

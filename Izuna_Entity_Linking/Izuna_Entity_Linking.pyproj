@@ -44,6 +44,9 @@
     <Compile Include="LasigoBio_cg\icd10cm.py" />
     <Compile Include="LasigoBio_cg\information_content.py" />
     <Compile Include="LasigoBio_cg\pre_process_norm.py" />
+    <Compile Include="text_distance_libraries.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="scispacy_cg\create_candidates.py" />
     <Compile Include="kb_loader.py" />
     <Compile Include="main.py" />
