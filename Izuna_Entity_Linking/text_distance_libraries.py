@@ -1,6 +1,7 @@
 import numpy as np
 import textdistance
 from fuzzywuzzy import fuzz, process
+import difflib
 
 def takeSecond(elem):
     return elem[1]
@@ -30,6 +31,8 @@ def text_similarity(s, texts, threshold, limit, choose_library = 'fuzz'):
                 Ratio = textdistance.cosine.normalized_similarity(s, t)
             elif choose_library == 'ratcliff':
                 Ratio = textdistance.ratcliff_obershelp.normalized_similarity(s, t)
+            elif choose_library == 'difflib':
+                Ratio = difflib.SequenceMatcher(None, s, t).ratio()
             data = (str(t).capitalize(), Ratio*100)
             codes.append(data)
 

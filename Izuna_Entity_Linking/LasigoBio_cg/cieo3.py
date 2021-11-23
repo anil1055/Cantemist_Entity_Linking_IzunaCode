@@ -94,7 +94,7 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
     """
     
     global cieo3_cache
-    threshold = 0.15
+    threshold = 0.1
     limit = 10
     normal_text = entity_text.replace('_', ' ')
 
@@ -110,13 +110,13 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
 
     else:
         # Get first ten candidates according to lexical similarity with entity_text
-        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_library = 'fuzz') #fuzz or levenshtein
+        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_library = 'difflib') #fuzz or levenshtein
 
         if codes[0][1] == 100: # There is an exact match for this entity
             codes = [codes[0]]
     
         elif codes[0][1] < 100: # Check for synonyms of this entity
-            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_library = 'fuzz')
+            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_library = 'difflib')
             for synonym in drug_syns:
 
                 if synonym[1] == 100:
