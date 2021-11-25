@@ -95,7 +95,7 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
     
     global cieo3_cache
     threshold = 0.1
-    limit = 10
+    limit = 50
     normal_text = entity_text.replace('_', ' ')
 
     if entity_text in name_to_id or entity_text in synonym_to_id: # There is an exact match for this entity
@@ -110,22 +110,31 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
 
     else:
         # Get first ten candidates according to lexical similarity with entity_text
-        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_library = 'difflib') #fuzz or levenshtein
-
+        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_library = 'fuzz') #fuzz or levenshtein
+        synonym_control = False
         if codes[0][1] == 100: # There is an exact match for this entity
             codes = [codes[0]]
     
         elif codes[0][1] < 100: # Check for synonyms of this entity
-            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_library = 'difflib')
+            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_library = 'fuzz')
             for synonym in drug_syns:
-
                 if synonym[1] == 100:
+                    synonym_control = True
                     codes = [synonym]
-                
                 else:
                     if synonym[1] > codes[0][1]:
                         codes.append(synonym)
+                        synonym_control = True
         
+        update_codes = []
+        data = ()
+        for cntnt in codes:
+            try:
+                data = (str(synonym_to_id[cntnt[0]]), cntnt[1])
+            except Exception as e:
+                data = (str(name_to_id[cntnt[0]]), cntnt[1])
+            update_codes.append(data)
+        codes = update_codes
         cieo3_cache[entity_text] = codes
     
     # Build the candidates list with each match id, name and matching score with entity_text

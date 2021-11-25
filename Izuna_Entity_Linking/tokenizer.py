@@ -18,13 +18,13 @@ class CustomTokenizer:
             return 'bert-base-uncased', True
         elif self.config.bert_name == 'biobert':
             # https://huggingface.co/monologg/biobert_v1.1_pubmed/tree/main
-            return './biobert/', False
+            return 'monologg/biobert_v1.1_pubmed', False
         elif self.config.bert_name == 'roberta-base-biomedical-es':
-            return '.roberta-base-biomedical-es/'
+            return '.roberta-base-biomedical-es/', False
         elif self.config.bert_name == 'roberta-base-biomedical-clinical-es':
-            return '.roberta-base-biomedical-clinical-es/'
+            return '.roberta-base-biomedical-clinical-es/', False
         elif self.config.bert_name == 'bio_bert_base_spanish_wwm_uncased':
-            return '.bio_bert_base_spanish_wwm_uncased/'
+            return '.bio_bert_base_spanish_wwm_uncased/', True
         else:
             print('Currently', self.config.bert_name, 'are not supported.')
             exit()
@@ -79,40 +79,20 @@ class CustomTokenizer:
 
 
     def tokenize(self, txt):
-        target_anchors = ['<target>', '</target>']
+        word = ''
+        if self.config.language == 'english': 
+            word = 'target'
+        else:
+            word = 'objetivo'
+        target_anchors = ['<' + word + '>', '</' + word + '>']
         original_tokens = txt.split(' ')
         new_tokens = list()
 
         for token in original_tokens:
             if token in target_anchors:
-                if token == '<target>':
+                if token == '<' + word + '>':
                     new_tokens.append(MENTION_START_TOKEN)
-                if token == '</target>':
-                    new_tokens.append(MENTION_END_TOKEN)
-                continue
-            else:
-                split_to_subwords = self.bert_tokenizer.tokenize(token)  # token is oneword, split_tokens
-                if ['[CLS]'] in split_to_subwords:
-                    split_to_subwords.remove('[CLS]')
-                if ['[SEP]'] in split_to_subwords:
-                    split_to_subwords.remove('[SEP]')
-                if split_to_subwords == []:
-                    new_tokens.append('[UNK]')
-                else:
-                    new_tokens += split_to_subwords
-
-        return new_tokens
-
-    def tokenize_es(self, txt):
-        target_anchors = ['<objetivo>', '</objetivo>']
-        original_tokens = txt.split(' ')
-        new_tokens = list()
-
-        for token in original_tokens:
-            if token in target_anchors:
-                if token == '<objetivo>':
-                    new_tokens.append(MENTION_START_TOKEN)
-                if token == '</objetivo>':
+                if token == '</' + word + '>':
                     new_tokens.append(MENTION_END_TOKEN)
                 continue
             else:
@@ -134,10 +114,10 @@ class CustomTokenizer:
             if not os.path.exists('./biobert/'):
                 os.mkdir('./biobert/')
                 print('=== Downloading biobert ===')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.0_pubmed_pmc/blob/main/config.json", './biobert/config.json')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.0_pubmed_pmc/blob/main/pytorch_model.bin", './biobert/pytorch_model.bin')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.0_pubmed_pmc/blob/main/special_tokens_map.json", './biobert/special_tokens_map.json')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.0_pubmed_pmc/blob/main/tokenizer_config.json", './biobert/tokenizer_config.json')
+                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/config.json", './biobert/config.json')
+                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/pytorch_model.bin", './biobert/pytorch_model.bin')
+                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/special_tokens_map.json", './biobert/special_tokens_map.json')
+                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/tokenizer_config.json", './biobert/tokenizer_config.json')
 
         if self.config.bert_name == 'roberta-base-biomedical-es':
             if not os.path.exists('./roberta-base-biomedical-es/'):

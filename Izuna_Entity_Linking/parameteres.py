@@ -29,7 +29,7 @@ class Biencoder_params:
         parser.add_argument('-batch_size_for_train', action="store", default=16, type=int)
         parser.add_argument('-batch_size_for_eval', action="store", default=16, type=int)
 
-        parser.add_argument('-bert_name', action='store', default='bert-base-uncased', type=str)
+        parser.add_argument('-bert_name', action='store', default='roberta-base-biomedical-es', type=str) # roberta-base-biomedical-es , roberta-base-biomedical-clinical-es , bio-bert-base-spanish-wwm-uncased
 
         # For deciding limits of maximum token length
         parser.add_argument('-max_context_len', action="store", default=50, type=int)
@@ -48,6 +48,7 @@ class Biencoder_params:
 
         # Note: Currently we do not support other candidate numbers. See evaluate_with_entire_kb.py.
         parser.add_argument('-how_many_top_hits_preserved', action='store', default=50, type=int)
+        parser.add_argument('-language', action='store', default='spanish', type=str) # Cantemist-spanish
 
         self.opts = parser.parse_args(sys.argv[1:])
         print('\n===PARAMETERS===')
