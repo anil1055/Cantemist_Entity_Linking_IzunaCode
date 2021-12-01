@@ -20,7 +20,9 @@ class Pooler_for_cano_and_def(Seq2VecEncoder):
         if self.args.bert_name == 'bert-base-uncased':
             self.bert_weight_filepath = 'bert-base-uncased'
         elif self.args.bert_name == 'biobert':
-            self.bert_weight_filepath = './biobert/'
+            self.bert_weight_filepath = 'monologg/biobert_v1.1_pubmed'
+        elif self.args.bert_name == 'roberta-base-biomedical-es':
+            self.bert_weight_filepath = 'PlanTL-GOB-ES/roberta-base-biomedical-es'
         else:
             self.bert_weight_filepath = 'dummy'
             print('Currently not supported', self.args.bert_name)
@@ -48,7 +50,9 @@ class Pooler_for_mention(Seq2VecEncoder):
         if self.args.bert_name == 'bert-base-uncased':
             self.bert_weight_filepath = 'bert-base-uncased'
         elif self.args.bert_name == 'biobert':
-            self.bert_weight_filepath = './biobert/'
+            self.bert_weight_filepath = 'monologg/biobert_v1.1_pubmed'
+        elif self.args.bert_name == 'roberta-base-biomedical-es':
+            self.bert_weight_filepath = 'PlanTL-GOB-ES/roberta-base-biomedical-es'
         else:
             self.bert_weight_filepath = 'dummy'
             print('Currently not supported', self.args.bert_name)

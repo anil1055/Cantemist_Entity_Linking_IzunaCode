@@ -48,7 +48,7 @@ class Biencoder_params:
 
         # Note: Currently we do not support other candidate numbers. See evaluate_with_entire_kb.py.
         parser.add_argument('-how_many_top_hits_preserved', action='store', default=50, type=int)
-        parser.add_argument('-language', action='store', default='spanish', type=str) # Cantemist-spanish
+        parser.add_argument('-language', action='store', default='spanish', type=str) # Cantemist-spanish or english
 
         self.opts = parser.parse_args(sys.argv[1:])
         print('\n===PARAMETERS===')

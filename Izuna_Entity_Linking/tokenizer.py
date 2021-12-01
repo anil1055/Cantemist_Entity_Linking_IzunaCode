@@ -5,6 +5,7 @@ from transformers import AutoTokenizer, AutoModel
 import urllib.request
 from parameteres import Biencoder_params
 from commons import MENTION_START_TOKEN, MENTION_END_TOKEN
+from transformers import RobertaTokenizer
 
 class CustomTokenizer:
     def __init__(self, config):
@@ -20,7 +21,7 @@ class CustomTokenizer:
             # https://huggingface.co/monologg/biobert_v1.1_pubmed/tree/main
             return 'monologg/biobert_v1.1_pubmed', False
         elif self.config.bert_name == 'roberta-base-biomedical-es':
-            return '.roberta-base-biomedical-es/', False
+            return 'PlanTL-GOB-ES/roberta-base-biomedical-es', False
         elif self.config.bert_name == 'roberta-base-biomedical-clinical-es':
             return '.roberta-base-biomedical-clinical-es/', False
         elif self.config.bert_name == 'bio_bert_base_spanish_wwm_uncased':
@@ -48,17 +49,11 @@ class CustomTokenizer:
         elif self.config.bert_name == 'biobert':
             vocab_file = './vocab_file/biobert_v1.1_pubmed_vocab.txt'
             do_lower_case = False
-            return transformers.BertTokenizer(vocab_file=vocab_file,
-                                              do_lower_case=do_lower_case,
-                                              do_basic_tokenize=True,
-                                              never_split=['<target>', '</target>'])
+            return transformers.BertTokenizer.from_pretrained('monologg/biobert_v1.1_pubmed')
         elif self.config.bert_name == 'roberta-base-biomedical-es':
             vocab_file = './vocab_file/roberta-base-biomedical-es.json'
             do_lower_case = False
-            return transformers.BertTokenizer(vocab_file=vocab_file,
-                                              do_lower_case=do_lower_case,
-                                              do_basic_tokenize=True,
-                                              never_split=['<objetivo>', '</objetivo>'])
+            return transformers.RobertaTokenizer.from_pretrained('PlanTL-GOB-ES/roberta-base-biomedical-es')
         elif self.config.bert_name == 'roberta-base-biomedical-clinical-es':
             vocab_file = './vocab_file/roberta-base-biomedical-clinical-es.json'
             do_lower_case = False

@@ -115,18 +115,20 @@ def GenerateJSON(fileName, annotator):
                     start = sentences.index(txt)
                     end = start + len(txt) + 1
                     if start == 0:
-                        sentence = annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + sentences[0:start] + '<objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
+                        sentence = annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + '<objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
                     else:
                         sentence = annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + sentences[0:start] + ' <objetivo> ' + txt + ' </objetivo> ' + sentences[end:]
+                    rmv = str(sentence).rindex('\t')
+                    just_sent = sentence[rmv+1:]
                     lines.append(sentence)
-                    doc = nlp(sentence)
+                    doc = nlp(just_sent)
                     lemma_sentence = ''                    
                     for token in doc:
                         lemma_sentence += token.lemma_ + ' '
                     lemma_sentence = lemma_sentence.replace('< objetivo >', '<objetivo>')
                     lemma_sentence = lemma_sentence.replace('< /objetivo >', '</objetivo>')
                     lemma_sentence = lemma_sentence.strip()
-                    lemma_lines.append(annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + sentences[0:start] + lemma_sentence)
+                    lemma_lines.append(annotation[4] + '\t' + annotation[2] + '\t' + annotation[1] + '\t' + lemma_sentence)
             entities.append([int(off_set), int(off_loc), str(txt), str(annotation[2]), str(annotation[4])])
         ind += 1
 

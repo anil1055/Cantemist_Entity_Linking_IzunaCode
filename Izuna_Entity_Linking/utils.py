@@ -67,7 +67,9 @@ def emb_returner(config):
     if config.bert_name == 'bert-base-uncased':
         huggingface_model = 'bert-base-uncased'
     elif config.bert_name == 'biobert':
-        huggingface_model = './biobert/'
+        huggingface_model = 'monologg/biobert_v1.1_pubmed'
+    elif config.bert_name == 'roberta-base-biomedical-es':
+        huggingface_model = 'PlanTL-GOB-ES/roberta-base-biomedical-es'
     else:
         huggingface_model = 'dummy'
         print(config.bert_name,'are not supported')
