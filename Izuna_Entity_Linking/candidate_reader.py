@@ -10,7 +10,7 @@ class CandidateReaderForTestDataset:
         with open(self.config.candidates_dataset, 'rb') as f:
             c = pickle.load(f)
 
-        if self.config.candidates_dataset == './ecie03_candidates.pkl':
+        if str(self.config.candidates_dataset).find('ecie03') != -1:
             mention_list = []
             candidates_list = []            
             for ment in c:

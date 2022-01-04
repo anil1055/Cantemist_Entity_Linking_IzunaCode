@@ -95,7 +95,7 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
     
     global cieo3_cache
     threshold = 0.1
-    limit = 50
+    limit = 100
     normal_text = entity_text.replace('_', ' ')
 
     if entity_text in name_to_id or entity_text in synonym_to_id: # There is an exact match for this entity

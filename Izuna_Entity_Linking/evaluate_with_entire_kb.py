@@ -52,7 +52,7 @@ def evaluate_with_kb(params, mention_encoder, model, dev_loader, test_loader):
     evaluate_model = BiencoderNNSearchEvaluator(params, mention_encoder, vocab, kb)
 
     # add mention and its candidate
-    candidate_recall_evaluator('dev', evaluate_model, params, dev_loader)
+    candidate_recall_evaluator('dev1', evaluate_model, params, dev_loader)
     candidate_recall_evaluator('test', evaluate_model, params, test_loader)
 
 if __name__ == '__main__':

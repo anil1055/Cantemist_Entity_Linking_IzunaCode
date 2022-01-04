@@ -20,9 +20,15 @@ class Pooler_for_cano_and_def(Seq2VecEncoder):
         if self.args.bert_name == 'bert-base-uncased':
             self.bert_weight_filepath = 'bert-base-uncased'
         elif self.args.bert_name == 'biobert':
-            self.bert_weight_filepath = 'monologg/biobert_v1.1_pubmed'
+            self.bert_weight_filepath = 'dmis-lab/biobert-base-cased-v1.2'
+        elif self.args.bert_name == 'sapbert':
+            self.bert_weight_filepath = 'cambridgeltl/SapBERT-from-PubMedBERT-fulltext'
         elif self.args.bert_name == 'roberta-base-biomedical-es':
             self.bert_weight_filepath = 'PlanTL-GOB-ES/roberta-base-biomedical-es'
+        elif self.args.bert_name == 'roberta-base-biomedical-clinical-es':
+            self.bert_weight_filepath =  'PlanTL-GOB-ES/roberta-base-biomedical-clinical-es'
+        elif self.args.bert_name == 'bio-bert-base-spanish-wwm-uncased':
+            self.bert_weight_filepath =  'fvillena/bio-bert-base-spanish-wwm-uncased'
         else:
             self.bert_weight_filepath = 'dummy'
             print('Currently not supported', self.args.bert_name)
@@ -50,9 +56,15 @@ class Pooler_for_mention(Seq2VecEncoder):
         if self.args.bert_name == 'bert-base-uncased':
             self.bert_weight_filepath = 'bert-base-uncased'
         elif self.args.bert_name == 'biobert':
-            self.bert_weight_filepath = 'monologg/biobert_v1.1_pubmed'
+            self.bert_weight_filepath = 'dmis-lab/biobert-base-cased-v1.2'
+        elif self.args.bert_name == 'sapbert':
+            self.bert_weight_filepath = 'cambridgeltl/SapBERT-from-PubMedBERT-fulltext'
         elif self.args.bert_name == 'roberta-base-biomedical-es':
             self.bert_weight_filepath = 'PlanTL-GOB-ES/roberta-base-biomedical-es'
+        elif self.args.bert_name == 'roberta-base-biomedical-clinical-es':
+            self.bert_weight_filepath =  'PlanTL-GOB-ES/roberta-base-biomedical-clinical-es'
+        elif self.args.bert_name == 'bio-bert-base-spanish-wwm-uncased':
+            self.bert_weight_filepath =  'fvillena/bio-bert-base-spanish-wwm-uncased'
         else:
             self.bert_weight_filepath = 'dummy'
             print('Currently not supported', self.args.bert_name)

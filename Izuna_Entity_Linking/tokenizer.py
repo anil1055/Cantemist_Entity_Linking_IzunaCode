@@ -18,14 +18,15 @@ class CustomTokenizer:
         if self.config.bert_name == 'bert-base-uncased':
             return 'bert-base-uncased', True
         elif self.config.bert_name == 'biobert':
-            # https://huggingface.co/monologg/biobert_v1.1_pubmed/tree/main
-            return 'monologg/biobert_v1.1_pubmed', False
+            return 'dmis-lab/biobert-base-cased-v1.2', False
+        elif self.config.bert_name == 'sapbert':
+            return 'cambridgeltl/SapBERT-from-PubMedBERT-fulltext', True
         elif self.config.bert_name == 'roberta-base-biomedical-es':
             return 'PlanTL-GOB-ES/roberta-base-biomedical-es', False
         elif self.config.bert_name == 'roberta-base-biomedical-clinical-es':
-            return '.roberta-base-biomedical-clinical-es/', False
-        elif self.config.bert_name == 'bio_bert_base_spanish_wwm_uncased':
-            return '.bio_bert_base_spanish_wwm_uncased/', True
+            return 'PlanTL-GOB-ES/roberta-base-biomedical-clinical-es', False
+        elif self.config.bert_name == 'bio-bert-base-spanish-wwm-uncased':
+            return 'fvillena/bio-bert-base-spanish-wwm-uncased', True
         else:
             print('Currently', self.config.bert_name, 'are not supported.')
             exit()
@@ -47,9 +48,13 @@ class CustomTokenizer:
                                               do_basic_tokenize=True,
                                               never_split=['<target>', '</target>'])
         elif self.config.bert_name == 'biobert':
-            vocab_file = './vocab_file/biobert_v1.1_pubmed_vocab.txt'
+            vocab_file = './vocab_file/biobert-base-cased-v1.2_vocab.txt'
             do_lower_case = False
-            return transformers.BertTokenizer.from_pretrained('monologg/biobert_v1.1_pubmed')
+            return transformers.BertTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
+        elif self.config.bert_name == 'sapbert':
+            vocab_file = './vocab_file/sapbert_vocab.txt'
+            do_lower_case = True
+            return transformers.BertTokenizer.from_pretrained('cambridgeltl/SapBERT-from-PubMedBERT-fulltext')
         elif self.config.bert_name == 'roberta-base-biomedical-es':
             vocab_file = './vocab_file/roberta-base-biomedical-es.json'
             do_lower_case = False
@@ -57,17 +62,11 @@ class CustomTokenizer:
         elif self.config.bert_name == 'roberta-base-biomedical-clinical-es':
             vocab_file = './vocab_file/roberta-base-biomedical-clinical-es.json'
             do_lower_case = False
-            return transformers.BertTokenizer(vocab_file=vocab_file,
-                                              do_lower_case=do_lower_case,
-                                              do_basic_tokenize=True,
-                                              never_split=['<objetivo>', '</objetivo>'])
-        elif self.config.bert_name == 'bio_bert_base_spanish_wwm_uncased':
-            vocab_file = './vocab_file/bio_bert_base_spanish_wwm_uncased.txt'
-            do_lower_case = False
-            return transformers.BertTokenizer(vocab_file=vocab_file,
-                                              do_lower_case=do_lower_case,
-                                              do_basic_tokenize=True,
-                                              never_split=['<objetivo>', '</objetivo>'])
+            return transformers.RobertaTokenizer.from_pretrained('PlanTL-GOB-ES/roberta-base-biomedical-clinical-es')
+        elif self.config.bert_name == 'bio-bert-base-spanish-wwm-uncased':
+            vocab_file = './vocab_file/bio-bert-base-spanish-wwm-uncased.txt'
+            do_lower_case = True
+            return transformers.BertTokenizer.from_pretrained('fvillena/bio-bert-base-spanish-wwm-uncased', do_lower_case = True)
         else:
             print('currently not supported:', self.config.bert_name)
             raise NotImplementedError
@@ -109,10 +108,17 @@ class CustomTokenizer:
             if not os.path.exists('./biobert/'):
                 os.mkdir('./biobert/')
                 print('=== Downloading biobert ===')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/config.json", './biobert/config.json')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/pytorch_model.bin", './biobert/pytorch_model.bin')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/special_tokens_map.json", './biobert/special_tokens_map.json')
-                urllib.request.urlretrieve("https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/tokenizer_config.json", './biobert/tokenizer_config.json')
+                urllib.request.urlretrieve("https://huggingface.co/dmis-lab/biobert-base-cased-v1.2/blob/main/config.json", './biobert/config.json')
+                urllib.request.urlretrieve("https://huggingface.co/dmis-lab/biobert-base-cased-v1.2/blob/main/pytorch_model.bin", './biobert/pytorch_model.bin')
+                
+        if self.config.bert_name == 'sapbert':
+            if not os.path.exists('sapbert/'):
+                os.mkdir('sapbert/')
+                print('=== Downloading sapbert ===')
+                urllib.request.urlretrieve("https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext/blob/main/config.json", './sapbert/config.json')
+                urllib.request.urlretrieve("https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext/blob/main/pytorch_model.bin", './sapbert/pytorch_model.bin')
+                urllib.request.urlretrieve("https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext/blob/main/special_tokens_map.json", './sapbert/special_tokens_map.json')
+                urllib.request.urlretrieve("https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext/blob/main/tokenizer_config.json", './sapbert/tokenizer_config.json')
 
         if self.config.bert_name == 'roberta-base-biomedical-es':
             if not os.path.exists('./roberta-base-biomedical-es/'):
@@ -133,9 +139,9 @@ class CustomTokenizer:
                 urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/config.json", './roberta-base-biomedical-clinical-es/config.json')
                 urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/pytorch_model.bin", './roberta-base-biomedical-clinical-es/pytorch_model.bin')
                 urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/special_tokens_map.json", './roberta-base-biomedical-clinical-es/special_tokens_map.json')
-                urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/main/tokenizer_config.json", './roberta-base-biomedical-clinical-es/tokenizer_config.json')
+                urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/tokenizer_config.json", './roberta-base-biomedical-clinical-es/tokenizer_config.json')
                 urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/dict.txt", './roberta-base-biomedical-clinical-es/dict.txt')
-                urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/main/merges.txt", './roberta-base-biomedical-clinical-es/merges.txt')
+                urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/merges.txt", './roberta-base-biomedical-clinical-es/merges.txt')
                 urllib.request.urlretrieve("https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/args.json", './roberta-base-biomedical-clinical-es/args.json')
 
         if self.config.bert_name == 'bio-bert-base-spanish-wwm-uncased':
@@ -152,16 +158,18 @@ class CustomTokenizer:
             os.mkdir('./vocab_file/')
 
         bert_base_uncased_vocab_url = "https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt"
-        bibobert_vocab_url = "https://huggingface.co/monologg/biobert_v1.1_pubmed/blob/main/vocab.txt"
+        bibobert_vocab_url = "https://huggingface.co/dmis-lab/biobert-base-cased-v1.2/blob/main/vocab.txt"
         roberta_base_biomedical_es_vocab_url = "https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-es/blob/main/vocab.json"
         bio_bert_base_spanish_wwm_uncased_vocab_url = "https://huggingface.co/fvillena/bio-bert-base-spanish-wwm-uncased/blob/main/vocab.txt"
         roberta_base_biomedical_clinical_es_vocab_url = "https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es/blob/main/vocab.json"
-        
+        sapbert_vocab_url = "https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext/blob/main/vocab.txt"
+
         urllib.request.urlretrieve(bert_base_uncased_vocab_url, './vocab_file/bert-base-uncased-vocab.txt')
-        urllib.request.urlretrieve(bibobert_vocab_url, './vocab_file/biobert_v1.1_pubmed_vocab.txt')
+        urllib.request.urlretrieve(bibobert_vocab_url, './vocab_file/biobert-base-cased-v1.2_vocab.txt')
         urllib.request.urlretrieve(roberta_base_biomedical_es_vocab_url, './vocab_file/roberta-base-biomedical-es_vocab.json')
         urllib.request.urlretrieve(bio_bert_base_spanish_wwm_uncased_vocab_url, './vocab_file/bio-bert-base-spanish-wwm-uncased_vocab.txt')
         urllib.request.urlretrieve(roberta_base_biomedical_clinical_es_vocab_url, './vocab_file/roberta-base-biomedical-clinical-es_vocab.json')
+        urllib.request.urlretrieve(sapbert_vocab_url, './vocab_file/sapbert_vocab.txt')
 
 if __name__ == '__main__':
     config = Biencoder_params()
