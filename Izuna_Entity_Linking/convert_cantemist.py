@@ -173,4 +173,22 @@ def fileProcess():
         #GenerateTXT('cc_onco_' + file + '.txt', annotators)
 
 
-fileProcess()
+def fileBC5CDR():
+    filenames = ['corpus_pubtator']
+    annotator = []
+    for file in filenames:      
+        try:
+            passage = readFile('dataset/CDR.Corpus.v010516/' + file + '.txt')
+            for line in passage:
+                if line.find('|a|') == -1 and line.find('|t|') == -1 and line != '':
+                    infos = line.split('\t')
+                    icd_code = ''
+                    text = infos[3]
+                    code = infos[5]
+                    annotator.append([text, code])               
+        except Exception as e:
+            print(str(e))
+            continue
+    return annotator
+
+#fileProcess()

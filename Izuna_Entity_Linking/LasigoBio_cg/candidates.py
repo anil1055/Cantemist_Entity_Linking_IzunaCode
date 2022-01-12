@@ -82,7 +82,7 @@ def generate_candidates_for_entity(entity_text, name_to_id, name_to_id_2, named_
     structured_candidates = list()
     less_than_min_score = int()
 
-    candidate_names = map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance = 'levenshtein') #choose_distance = fuzz or levenshtein
+    candidate_names = map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance = 'fuzz') #choose_distance = fuzz or levenshtein
 
     if ont_number == "multi_ont": # Add the candidates from ICD10-CM
         icd10_cm_candidates = map_to_spanish_icd10cm(entity_text, name_to_id_2)

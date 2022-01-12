@@ -20,10 +20,10 @@ MeshCandidateGenrator = CandidateGenerator(name='mesh')
 KB=MeshCandidateGenrator.kb
 K=100
 Resolve_abbreviations = True
-Threshold = 0.3
+Threshold = 0.15
 No_definition_threshold = 0.95
 Filter_for_definitions = True
-Max_entities_per_mention  = 30
+Max_entities_per_mention  = 100
 
 def candidate_dui_generator(mention_strings):
     batch_candidates = MeshCandidateGenrator(mention_strings, K)
