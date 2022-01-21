@@ -18,12 +18,12 @@ from scispacy.candidate_generation import CandidateGenerator
 
 MeshCandidateGenrator = CandidateGenerator(name='mesh')
 KB=MeshCandidateGenrator.kb
-K=100
+K=200
 Resolve_abbreviations = True
-Threshold = 0.15
+Threshold = 0.1
 No_definition_threshold = 0.95
 Filter_for_definitions = True
-Max_entities_per_mention  = 100
+Max_entities_per_mention  = 200
 
 def candidate_dui_generator(mention_strings):
     batch_candidates = MeshCandidateGenrator(mention_strings, K)

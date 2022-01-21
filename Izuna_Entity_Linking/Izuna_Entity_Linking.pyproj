@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ea8e461c-1d22-4451-bb2a-293672948f3b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>candidate_reader.py</StartupFile>
+    <StartupFile>LasigoBio_cg\pre_process_norm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -39,12 +39,13 @@
     <Compile Include="evaluate_with_entire_kb.py" />
     <Compile Include="LasigoBio_cg\annotations.py" />
     <Compile Include="LasigoBio_cg\candidates.py" />
+    <Compile Include="LasigoBio_cg\candidate_reader.py" />
     <Compile Include="LasigoBio_cg\cieo3.py" />
     <Compile Include="LasigoBio_cg\es_decs.py" />
     <Compile Include="LasigoBio_cg\icd10cm.py" />
     <Compile Include="LasigoBio_cg\information_content.py" />
     <Compile Include="LasigoBio_cg\pre_process_norm.py" />
-    <Compile Include="text_distance_libraries.py">
+    <Compile Include="LasigoBio_cg\text_distance_libraries.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="scispacy_cg\create_candidates.py" />

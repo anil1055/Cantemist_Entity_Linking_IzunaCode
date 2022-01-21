@@ -33,26 +33,30 @@ def build_entity_candidate_dict(annotations, model, min_match_score, ontology_gr
         document_entities = list()        
         url_control = ''
         url_list = []
+        value = True
         for annotation in annotations[document]:            
             if annotation[0].isnumeric() == True and str(annotation).find('/') != -1:
-                if str(annotation) == url_control:
-                    url_true += 1
-                elif annotation in url_list:
-                    url_true += 1                    
-                continue
+                if value == False:
+                    continue
+                else:
+                    if annotation in url_list:
+                        url_true += 1                    
+                    continue
             else:
                 normalized_text = annotation[0].lower().replace(" ", "_")
                 total_entities += 1
             
                 if normalized_text in document_entities: # Repeated instances of the same entity count as one instance
+                    value = False
                     continue
                 
                 else:    
+                    value = True
                     document_entities.append(normalized_text)
                     total_unique_entities += 1
                      
                     # Get candidates for current entity
-                    entity_dict[normalized_text]= generate_candidates_for_entity(normalized_text, name_to_id, name_to_id_2, name_to_id_3, \
+                    entity_dict[normalized_text] = generate_candidates_for_entity(normalized_text, name_to_id, name_to_id_2, name_to_id_3, \
                                                                                 synonym_to_id, min_match_score, ontology_graph, \
                                                                                 ontology_graph_2, ontology_graph_3, ont_number)
 
@@ -72,7 +76,6 @@ def build_entity_candidate_dict(annotations, model, min_match_score, ontology_gr
                     
                     current_values.insert(0, entity_str)
                     entity_dict[normalized_text] = current_values
-                    url_control = entity_dict[normalized_text][1]['url']
                     ind = 0
                     url_list.clear()
                     for url in entity_dict[normalized_text]:

@@ -2,12 +2,28 @@ import openpyxl
 from pathlib import Path
 import json
 
+def createValidCode():
+    data = {}
+    with open('./vocab_file/valid-codes.txt', 'r', encoding ='utf-8') as codes_file:
+        valid_codes = codes_file.readlines()
+
+        for code in valid_codes:
+            data = code.strip("\n").split("\t")
+            if len(data) != 3:
+                data['codigo'].append(data[0])
+                data['descriptor completo'].append(data[1])
+                data['descriptor corto'].append(data[2])
+
+    return data
+
+
 def readExcel(filename):
     xlsx_file = Path(filename + '.xlsx')
     wb_obj = openpyxl.load_workbook(xlsx_file)
     sheet = wb_obj.active
 
     return sheet
+
 
 def createDictionary(sheet, choice_name = False):
     data = {}
@@ -89,9 +105,10 @@ def GenerateJSON(all_datas):
             json_file.write("\n")
     
 
-sheets_1 = readExcel('CIEO31_table')
+#sheets_1 = readExcel('CIEO31_table')
 #sheets_2 = readExcel('icdo3_names')
-datas = createDictionary(sheets_1, False)
+#datas = createDictionary(sheets_1, False)
 #canonical_names = createDictionary(sheets_2, True)
 #all_datas = mergeSheets(datas, canonical_names)
+datas = createValidCode()
 GenerateJSON(datas)

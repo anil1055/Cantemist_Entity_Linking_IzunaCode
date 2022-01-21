@@ -40,7 +40,7 @@ class Biencoder_params:
         # train_kg_or_biencoder
         parser.add_argument('-model_for_training', action="store", default='blink', type=str) # [kgann, biencoder]
 
-        parser.add_argument('-candidates_dataset', action='store', default='./candidates.pkl', type=str) #./candidates.pkl or ./ecie03_candidates.pkl
+        parser.add_argument('-candidates_dataset', action='store', default='./ecie03_candidates.pkl', type=str) #./candidates.pkl or ./ecie03_candidates.pkl
         parser.add_argument('-max_candidates_num', action='store', default=10, type=int)
 
         # for entire kb eval.

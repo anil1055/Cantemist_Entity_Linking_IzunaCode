@@ -20,6 +20,7 @@ if os.path.isfile(cieo3_cache_file):
 
 else:
     cieo3_cache = {}
+    infos = {}
     loadedcieo3 = False
     logging.info("new CIE-O-3 dictionary")
 
@@ -68,6 +69,12 @@ def load_cieo3():
                     parent_code = tumor_type + "/" + tumor_behaviour
                     relationship = (code_id, parent_code)
                     edge_list.append(relationship)
+
+            if len(code_elements) == 3:
+                tumor_behaviour = code_elements[1][0]
+                parent_code = tumor_type + "/" + tumor_behaviour + "/" + code_elements[2]
+                relationship = (tumor_type + "/" + tumor_behaviour, parent_code)
+                edge_list.append(relationship)
                 
             if len(data) > 1:
                 code_name = data[1]
@@ -94,10 +101,12 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
     """
     
     global cieo3_cache
+    global infos
     threshold = 0.1
     limit = 100
     normal_text = entity_text.replace('_', ' ')
-
+    codes_weight = []
+    
     if entity_text in name_to_id or entity_text in synonym_to_id: # There is an exact match for this entity
         codes = [entity_text]
     
@@ -107,16 +116,17 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
     
     elif entity_text in cieo3_cache: # There is already a candidate list stored in cache file
         codes = cieo3_cache[entity_text]
+        codes_weight = infos[entity_text]
 
     else:
         # Get first ten candidates according to lexical similarity with entity_text
-        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_library = 'fuzz') #fuzz or levenshtein
+        codes = text_distance_libraries.text_similarity(normal_text, name_to_id.keys(), threshold, limit, choose_distance) #fuzz or levenshtein
         synonym_control = False
         if codes[0][1] == 100: # There is an exact match for this entity
             codes = [codes[0]]
     
         elif codes[0][1] < 100: # Check for synonyms of this entity
-            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_library = 'fuzz')
+            drug_syns = text_distance_libraries.text_similarity(normal_text, synonym_to_id.keys(), threshold, limit, choose_distance)
             for synonym in drug_syns:
                 if synonym[1] == 100:
                     synonym_control = True
@@ -128,19 +138,28 @@ def map_to_cieo3(entity_text, name_to_id, synonym_to_id, choose_distance):
         
         update_codes = []
         data = ()
+        cnt = True
         for cntnt in codes:
             try:
                 data = (str(synonym_to_id[cntnt[0]]), cntnt[1])
             except Exception as e:
-                data = (str(name_to_id[cntnt[0]]), cntnt[1])
-            update_codes.append(data)
+                try:
+                  data = (str(name_to_id[cntnt[0]]), cntnt[1])
+                except Exception as e:
+                  cnt = False  
+                  print('pro:' + str(cntnt))
+            if cnt:
+                text = (str(cntnt[0]), cntnt[1])
+                codes_weight.append(text)
+                update_codes.append(data)
         codes = update_codes
         cieo3_cache[entity_text] = codes
+        infos[entity_text] = codes_weight
     
     # Build the candidates list with each match id, name and matching score with entity_text
     matches = []
 
-    for d in codes:
+    for d in codes_weight:
         term_name = d[0]
         
         if term_name in name_to_id.keys():

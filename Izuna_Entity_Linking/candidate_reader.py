@@ -38,12 +38,13 @@ class CandidateReaderForTestDataset:
             c['candidates'] = candidates_list
         mention2candidate_duis = {}
         for mention, its_candidates in zip(c['mentions'], c['candidates']):
-            mention2candidate_duis.update({mention: [dui for (dui, prior) in its_candidates]})
-            
+            mention2candidate_duis.update({mention: [dui for (dui, prior) in its_candidates]})           
+
         return mention2candidate_duis
     
+
     def BC5CDRstats(self):
-        with open(self.config.candidates_dataset, 'rb') as f:
+        with open('candidates.pkl', 'rb') as f:
             c = pickle.load(f)
         mention_list = []
         candidates_list = []            
@@ -61,11 +62,12 @@ class CandidateReaderForTestDataset:
         acc_10 = 0
         acc_50 = 0
         acc_100 = 0
+        acc_200 = 0
         total = 0
         for mention, its_candidates in zip(c['mentions'], c['candidates']):
             for text, code in annotators:
                 control = False
-                if mention == text:
+                if mention.lower() == text.lower():
                     ind = 0                  
                     for cnd, rate in its_candidates:
                         if cnd == code:
@@ -84,6 +86,7 @@ class CandidateReaderForTestDataset:
                             elif ind >= 50 and ind < 100:
                                 acc_100 += 1
                             control = True
+                            acc_200 += 1
                             break
                         ind += 1
                 if control:
@@ -96,5 +99,5 @@ if __name__ == '__main__':
     config = Biencoder_params()
     params = config.opts
     cg = CandidateReaderForTestDataset(config=params)
-    cg.BC5CDRstats()
+    #cg.BC5CDRstats()
     cg._dui2candidate_duis_returner()
