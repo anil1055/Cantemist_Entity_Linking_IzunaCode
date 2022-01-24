@@ -3,16 +3,19 @@ from pathlib import Path
 import json
 
 def createValidCode():
-    data = {}
+    
     with open('./vocab_file/valid-codes.txt', 'r', encoding ='utf-8') as codes_file:
         valid_codes = codes_file.readlines()
-
+        data = {}
+        data['codigo'] = []
+        data['descriptor completo'] = []
+        data['descriptor corto'] = []
         for code in valid_codes:
-            data = code.strip("\n").split("\t")
-            if len(data) != 3:
-                data['codigo'].append(data[0])
-                data['descriptor completo'].append(data[1])
-                data['descriptor corto'].append(data[2])
+            datas = code.strip("\n").split("\t")
+            if len(datas) == 3:
+                data['codigo'].append(datas[0])
+                data['descriptor completo'].append(datas[1])
+                data['descriptor corto'].append(datas[2])
 
     return data
 

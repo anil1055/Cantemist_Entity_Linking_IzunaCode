@@ -21,7 +21,7 @@ class Biencoder_params:
         parser.add_argument('-epsilon', action="store", default=1e-8, type=float)
         parser.add_argument('-amsgrad', action='store', default=False, type=strtobool)
         parser.add_argument('-word_embedding_dropout', action="store", default=0.1, type=float)
-        parser.add_argument('-cuda_devices', action="store", default='-1', type=str)
+        parser.add_argument('-cuda_devices', action="store", default='0', type=str) #0, -1
         parser.add_argument('-scoring_function_for_model', action="store", default='indexflatip', type=str)
 
         parser.add_argument('-num_epochs', action="store", default=10, type=int)
@@ -32,22 +32,22 @@ class Biencoder_params:
         parser.add_argument('-bert_name', action='store', default='roberta-base-biomedical-es', type=str) # roberta-base-biomedical-es , roberta-base-biomedical-clinical-es , bio-bert-base-spanish-wwm-uncased
 
         # For deciding limits of maximum token length
-        parser.add_argument('-max_context_len', action="store", default=50, type=int)
-        parser.add_argument('-max_mention_len', action="store", default=12, type=int)
+        parser.add_argument('-max_context_len', action="store", default=512, type=int)
+        parser.add_argument('-max_mention_len', action="store", default=64, type=int)
         parser.add_argument('-max_canonical_len', action="store", default=12, type=int)
-        parser.add_argument('-max_def_len', action="store", default=36, type=int)
+        parser.add_argument('-max_def_len', action="store", default=128, type=int)
 
         # train_kg_or_biencoder
         parser.add_argument('-model_for_training', action="store", default='blink', type=str) # [kgann, biencoder]
 
         parser.add_argument('-candidates_dataset', action='store', default='./ecie03_candidates.pkl', type=str) #./candidates.pkl or ./ecie03_candidates.pkl
-        parser.add_argument('-max_candidates_num', action='store', default=10, type=int)
+        parser.add_argument('-max_candidates_num', action='store', default=100, type=int)
 
         # for entire kb eval.
         parser.add_argument('-search_method_for_faiss', action='store', default='indexflatip', type=str)
 
         # Note: Currently we do not support other candidate numbers. See evaluate_with_entire_kb.py.
-        parser.add_argument('-how_many_top_hits_preserved', action='store', default=50, type=int)
+        parser.add_argument('-how_many_top_hits_preserved', action='store', default=100, type=int)
         parser.add_argument('-language', action='store', default='spanish', type=str) # Cantemist-spanish or english
 
         self.opts = parser.parse_args(sys.argv[1:])

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ea8e461c-1d22-4451-bb2a-293672948f3b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>LasigoBio_cg\pre_process_norm.py</StartupFile>
+    <StartupFile>scispacy_cg\create_candidates.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -48,6 +48,9 @@
     <Compile Include="LasigoBio_cg\text_distance_libraries.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="scispacy_cg\candidates_cantemist.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="scispacy_cg\create_candidates.py" />
     <Compile Include="kb_loader.py" />
     <Compile Include="main.py" />
@@ -57,6 +60,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BC5CDR codes\preprocess_mesh.py" />
+    <Compile Include="scispacy_cg\generator_cantemist.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="scispacy_cg\generator_bc5cdr.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="scispacy_cg\scg_candidate_generator.py" />
     <Compile Include="tokenizer.py" />
     <Compile Include="utils.py" />

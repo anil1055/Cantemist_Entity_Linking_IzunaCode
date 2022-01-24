@@ -53,5 +53,4 @@ if __name__ == '__main__':
     print('test recall@candidate num {} %:'.format(params.max_candidates_num),
           round(reader.test_recall / len(reader.test_mention_ids) * 100, 3))
 
-    evaluate_with_kb(model=model, mention_encoder=mention_encoder,
-                     params=params, dev_loader=dev_loader, test_loader=test_loader)
+    #evaluate_with_kb(model=model, mention_encoder=mention_encoder,params=params, dev_loader=dev_loader, test_loader=test_loader)

@@ -1,4 +1,4 @@
-from scg_candidate_generator import candidate_dui_generator, batcher
+from scg_candidate_generator import candidate_dui_generator, batcher, tfidf
 from tqdm import tqdm
 import atexit
 import logging
@@ -6,7 +6,8 @@ import networkx as nx
 import os
 import pickle
 import sys
-
+from sklearn.feature_extraction.text import TfidfVectorizer
+import scg_candidate_generator
 sys.path.append("./")
 bc5cdr_cache_file = "./tmp/bc5cdr_cache100.pkl"
 
@@ -34,6 +35,7 @@ if __name__ == '__main__':
             mention = line.strip()
             mentions.append(mention)
     entire_candidates = list()
+    scg_candidate_generator.vector = tfidf(mentions)
     for batch in tqdm(batcher(mentions, 64)):
         batch_candidates = candidate_dui_generator(batch)
         #bc5cdr_cache[batch] = batch_candidates

@@ -15,8 +15,26 @@ import pdb
 import copy
 from tqdm import tqdm
 from scispacy.candidate_generation import CandidateGenerator
+import candidates_cantemist
+import generator_cantemist
+import generator_bc5cdr
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-MeshCandidateGenrator = CandidateGenerator(name='mesh')
+mentions = list()
+with open('./dataset/bc5cdr_mentions.txt', 'r') as f:
+    for line in f:
+        mention = line.strip()
+        mentions.append(mention)
+
+def tfidf(mention_strings):
+    vectorizer = TfidfVectorizer(analyzer='char_wb', min_df=10, ngram_range=(3, 3)).fit(mention_strings)
+
+    return vectorizer
+
+vector = tfidf(mentions)
+#KB_C = candidates_cantemist.createCandidateCantemist()
+MeshCandidateGenrator = generator_bc5cdr.CandidateGenerator(name = 'mesh')
+#CanteCandidateGenrator = generator_cantemist.CandidateGenerator(kb = KB_C, tfidf_vectorizer = vector)
 KB=MeshCandidateGenrator.kb
 K=200
 Resolve_abbreviations = True

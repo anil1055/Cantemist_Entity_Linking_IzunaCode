@@ -56,7 +56,6 @@ class Biencoder(Model):
         if self.istrainflag:
             golds = torch.eye(batch_num).to(device)
             self.accuracy(dot_product, torch.argmax(golds, dim=1))
-
         else:
             output['gold_duidx'] = gold_duidx
             output['encoded_mentions'] = contextualized_mention
@@ -107,7 +106,6 @@ class BiencoderSqueezedCandidateEvaluator(Model):
         output = {'loss': loss,
                   'contextualized_mention': contextualized_mention}
         self.accuracy(scores, torch.argmax(gold_location_in_candidates.view(batch_num, -1), dim=1))
-
         return output
 
     @overrides
